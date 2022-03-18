@@ -1,4 +1,4 @@
-# COVID ECUADOR - MSP
+# COVID ECUADOR
 
 # LIBRERIAS
 library(dplyr)
@@ -17,10 +17,10 @@ library(ggpubr)
 library(EpiEstim)
 
 # DATASETS
-cantones20 <- read_csv("/home/xut/Documents/udaviz/R/studio/covidec/data/cantones2020.csv")
-cantones21 <- read_csv("/home/xut/Documents/udaviz/R/studio/covidec/data/cantones2021.csv")
-cantones22 <- read_csv("/home/xut/Documents/udaviz/R/studio/covidec/data/cantones2022.csv")
-muertes21 <- read_csv("/home/xut/Documents/udaviz/R/studio/covidec/data/muertes2021.csv")
+cantones20 <- read_csv("/home/xut/Documents/udaviz/R/studio/udacovid/data/cantones2020.csv")
+cantones21 <- read_csv("/home/xut/Documents/udaviz/R/studio/udacovid/data/cantones2021.csv")
+cantones22 <- read_csv("/home/xut/Documents/udaviz/R/studio/udacovid/data/cantones2022.csv")
+muertes21 <- read_csv("/home/xut/Documents/udaviz/R/studio/udacovid/data/muertes2021.csv")
 
 # CONFIGURAR FORMATO FECHA EN VARIABLE "created_at"
 cantones20$created_at <- dmy(cantones20$created_at)
@@ -1466,7 +1466,7 @@ cangaltot <- full_join(cangal01, cangal22) %>%
 #cangaltot
 
 
-# ***TOTALES PROVINCIAS***
+# TOTALES DE PROVINCIAS
 Pichincha <- sum(canpictot$nuevas)
 Guayas <- sum(canguatot$nuevas)
 Azuay <- sum(canazutot$nuevas)
@@ -1491,6 +1491,8 @@ Pastaza <- sum(canpastot$nuevas)
 Sucumbios <- sum(cansuctot$nuevas)
 Zamora <- sum(canzamtot$nuevas)
 Galapagos <- sum(cangaltot$nuevas)
+
+# DATAFRAME PROVINCIAS
 provincias <- data.frame(Azuay,
                          Bolivar,
                          Canar,
@@ -1517,7 +1519,8 @@ provincias <- data.frame(Azuay,
                          Zamora)
 provincias
 
-# Data Frame "provincias" en modo columna
+# DATA FRAME PROVINCIAS - MODO COLUMNA
 provcolu <- provincias
 provcolu <- as.data.frame(t(provcolu))
+# COMPROBACION DE SCRIPT CON REPORTE DEL MSP
 sum(provcolu)
