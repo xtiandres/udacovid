@@ -1,4 +1,4 @@
-# COVID ECUADOR - MSP
+# COVID ECUADOR - CANTONES PROVINCIAS
 # A LA FECHA "as.Date"
 
 # PICHINCHA CANTONES
@@ -358,7 +358,8 @@ names(pichincha) <- c("01Dic21", "02Dic21", "03Dic21", "04Dic21", "05Dic21",
 pichincha <- ldply(pichincha, data.frame)
 colnames(pichincha) <- c("Fecha", "Positivos")
 
-# PICHINCHA CANTONES - ACTUALIZADO
+# PICHINCHA CANTONES - ACTUALIZADO A LA FECHA
+# VERIFICA SCRIPT CON REPORTE MSP
 sum(pichinchanow$total)
 
 # GEOM_BAR DATAFRAME - DIARIOS ULTIMO MES

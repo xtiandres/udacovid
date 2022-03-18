@@ -1,19 +1,8 @@
-# COVID ECUADOR - MSP - PROVINCIAS
-
-# LIBRERIAS
-library(dplyr)
-library(tidyr)
-library(plyr)
-library(readr)
-library(ggplot2)
-library(vcd)
-library(ggridges)
-library(data.table)
-library(lubridate)
+# COVID ECUADOR - PROVINCIAS
 
 # DATASETS
-prov20 <- read_csv("/home/xut/Documents/udaviz/R/studio/covidec/data/provincias2020.csv")
-prov21 <- read_csv("/home/xut/Documents/udaviz/R/studio/covidec/data/provincias.csv")
+prov20 <- read_csv("/home/xut/Documents/udaviz/R/studio/udacovid/data/provincias2020.csv")
+prov21 <- read_csv("/home/xut/Documents/udaviz/R/studio/udacovid/data/provincias.csv")
 
 # CONFIGURAR FORMATO FECHA EN VARIABLE "created_at"
 prov20$created_at <- dmy(prov20$created_at)

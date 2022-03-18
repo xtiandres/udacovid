@@ -1,4 +1,4 @@
-# COVID ECUADOR
+# COVID ECUADOR - CANTONES
 
 # LIBRERIAS
 library(dplyr)
