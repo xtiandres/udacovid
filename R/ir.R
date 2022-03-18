@@ -23,7 +23,7 @@ res_parametric_si <- estimate_R(iruio22$I,
                                   std_si = 1.5)))
 
 # GRABAR SVG
-#svg("quitoir.svg")
+svg("quitoir.svg", width = 14, height = 7)
 
 plot(res_parametric_si,
      #dates = res_parametric_si$dates,
@@ -60,7 +60,7 @@ plot(res_parametric_si,
         annotate("text", x = 15, y = 0.2, parse = TRUE, size = 2.5, col = "darkolivegreen",
                  label = "'Desviación estándar: 1.5 días'")
 
-#dev.off()
+dev.off()
 
 
 

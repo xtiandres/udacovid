@@ -1460,7 +1460,7 @@ xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "
                          x71/pqm, x72/pqm, x73/pqm, x74/pqm))
 
 # GUARDAR COMO SVG
-#svg("quitoinc.svg")
+svg("quitoinc.svg", width = 14, height = 7)
 
 # GRÁFICO
 a1 <- ggplot(xx, aes(x = fecha, y = dnc, group = 1)) 
@@ -1505,7 +1505,7 @@ a1 +
   annotate("text", x = 7, y = 39, parse = TRUE, size = 2.5, col = "darkolivegreen",
            label = "'pob: población/100.000hab'")
 
-#dev.off()
+dev.off()
 
 
 
