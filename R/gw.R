@@ -25,6 +25,9 @@ tibble(
 
 xdf$fct <- as_date(xdf$fct)
 
+# GRABAR SVG
+svg("waffleuio.svg", width = 14, height = 7)
+
 ggplot(xdf, aes(fill=parts, values=values)) +
   geom_waffle(color = "white", size=1.125, n_rows = 5) +
   facet_wrap(.~fct, nrow=4) +
@@ -38,3 +41,5 @@ ggplot(xdf, aes(fill=parts, values=values)) +
   ) +
   theme_ipsum_rc(grid="") +
   theme_enhance_waffle() 
+
+dev.off()
