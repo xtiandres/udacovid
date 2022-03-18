@@ -9,8 +9,8 @@ uio22 <- pichincha22 %>%
   filter(canton == "Quito") %>%
   select(canton, canton_poblacion, nuevas, created_at)
 
-
 # FILTRO DIARIO - QUITO
+# DESDE 2021-12-01 HASTA 2022-05-31 (ACTUALIZAR)
 dncuio211201 <- uio21 %>%
   filter(created_at == "2021-12-01") %>%
   select(nuevas)
@@ -464,9 +464,104 @@ dncuio220429 <- uio22 %>%
 dncuio220430 <- uio22 %>%
   filter(created_at == "2022-04-30") %>%
   select(nuevas)
+dncuio220501 <- uio22 %>%
+  filter(created_at == "2022-05-01") %>%
+  select(nuevas)
+dncuio220502 <- uio22 %>%
+  filter(created_at == "2022-05-02") %>%
+  select(nuevas)
+dncuio220503 <- uio22 %>%
+  filter(created_at == "2022-05-03") %>%
+  select(nuevas)
+dncuio220504 <- uio22 %>%
+  filter(created_at == "2022-05-04") %>%
+  select(nuevas)
+dncuio220505 <- uio22 %>%
+  filter(created_at == "2022-05-05") %>%
+  select(nuevas)
+dncuio220506 <- uio22 %>%
+  filter(created_at == "2022-05-06") %>%
+  select(nuevas)
+dncuio220507 <- uio22 %>%
+  filter(created_at == "2022-05-07") %>%
+  select(nuevas)
+dncuio220508 <- uio22 %>%
+  filter(created_at == "2022-05-08") %>%
+  select(nuevas)
+dncuio220509 <- uio22 %>%
+  filter(created_at == "2022-05-09") %>%
+  select(nuevas)
+dncuio220510 <- uio22 %>%
+  filter(created_at == "2022-05-10") %>%
+  select(nuevas)
+dncuio220511 <- uio22 %>%
+  filter(created_at == "2022-05-11") %>%
+  select(nuevas)
+dncuio220512 <- uio22 %>%
+  filter(created_at == "2022-05-12") %>%
+  select(nuevas)
+dncuio220513 <- uio22 %>%
+  filter(created_at == "2022-05-13") %>%
+  select(nuevas)
+dncuio220514 <- uio22 %>%
+  filter(created_at == "2022-05-14") %>%
+  select(nuevas)
+dncuio220515 <- uio22 %>%
+  filter(created_at == "2022-05-15") %>%
+  select(nuevas)
+dncuio220516 <- uio22 %>%
+  filter(created_at == "2022-05-16") %>%
+  select(nuevas)
+dncuio220517 <- uio22 %>%
+  filter(created_at == "2022-05-17") %>%
+  select(nuevas)
+dncuio220518 <- uio22 %>%
+  filter(created_at == "2022-05-18") %>%
+  select(nuevas)
+dncuio220519 <- uio22 %>%
+  filter(created_at == "2022-05-19") %>%
+  select(nuevas)
+dncuio220520 <- uio22 %>%
+  filter(created_at == "2022-05-20") %>%
+  select(nuevas)
+dncuio220521 <- uio22 %>%
+  filter(created_at == "2022-05-21") %>%
+  select(nuevas)
+dncuio220522 <- uio22 %>%
+  filter(created_at == "2022-05-22") %>%
+  select(nuevas)
+dncuio220523 <- uio22 %>%
+  filter(created_at == "2022-05-23") %>%
+  select(nuevas)
+dncuio220524 <- uio22 %>%
+  filter(created_at == "2022-05-24") %>%
+  select(nuevas)
+dncuio220525 <- uio22 %>%
+  filter(created_at == "2022-05-25") %>%
+  select(nuevas)
+dncuio220526 <- uio22 %>%
+  filter(created_at == "2022-05-26") %>%
+  select(nuevas)
+dncuio220527 <- uio22 %>%
+  filter(created_at == "2022-05-27") %>%
+  select(nuevas)
+dncuio220528 <- uio22 %>%
+  filter(created_at == "2022-05-28") %>%
+  select(nuevas)
+dncuio220529 <- uio22 %>%
+  filter(created_at == "2022-05-29") %>%
+  select(nuevas)
+dncuio220530 <- uio22 %>%
+  filter(created_at == "2022-05-30") %>%
+  select(nuevas)
+dncuio220531 <- uio22 %>%
+  filter(created_at == "2022-05-31") %>%
+  select(nuevas)
 
 # PROMEDIO ÚLTIMOS 7 DÍAS - QUITO
-
+# y7: 211201-211207
+# x74: 15 MARZO
+# x99: 220403-220409
 y7 <- mean(c(dncuio211201$nuevas,
              dncuio211202$nuevas,
              dncuio211203$nuevas,
@@ -1272,17 +1367,74 @@ x90 <- mean(c(dncuio220325$nuevas,
               dncuio220329$nuevas,
               dncuio220330$nuevas,
               dncuio220331$nuevas))
-#xn <- mean(c(dncuio220303$nuevas,
-#             dncuio220304$nuevas,
-#             dncuio220305$nuevas,
-#             dncuio220306$nuevas,
-#             dncuio220307$nuevas,
-#             dncuio220308$nuevas,
-#             dncuio220309$nuevas))
+x91 <- mean(c(dncuio220326$nuevas,
+              dncuio220327$nuevas,
+              dncuio220328$nuevas,
+              dncuio220329$nuevas,
+              dncuio220330$nuevas,
+              dncuio220331$nuevas,
+              dncuio220401$nuevas))
+x92 <- mean(c(dncuio220327$nuevas,
+              dncuio220328$nuevas,
+              dncuio220329$nuevas,
+              dncuio220330$nuevas,
+              dncuio220331$nuevas,
+              dncuio220401$nuevas,
+              dncuio220402$nuevas))
+x93 <- mean(c(dncuio220328$nuevas,
+              dncuio220329$nuevas,
+              dncuio220330$nuevas,
+              dncuio220331$nuevas,
+              dncuio220401$nuevas,
+              dncuio220402$nuevas,
+              dncuio220403$nuevas))
+x94 <- mean(c(dncuio220329$nuevas,
+              dncuio220330$nuevas,
+              dncuio220331$nuevas,
+              dncuio220401$nuevas,
+              dncuio220402$nuevas,
+              dncuio220403$nuevas,
+              dncuio220404$nuevas))
+x95 <- mean(c(dncuio220330$nuevas,
+              dncuio220331$nuevas,
+              dncuio220401$nuevas,
+              dncuio220402$nuevas,
+              dncuio220403$nuevas,
+              dncuio220404$nuevas,
+              dncuio220405$nuevas))
+x96 <- mean(c(dncuio220331$nuevas,
+              dncuio220401$nuevas,
+              dncuio220402$nuevas,
+              dncuio220403$nuevas,
+              dncuio220404$nuevas,
+              dncuio220405$nuevas,
+              dncuio220406$nuevas))
+x97 <- mean(c(dncuio220401$nuevas,
+              dncuio220402$nuevas,
+              dncuio220403$nuevas,
+              dncuio220404$nuevas,
+              dncuio220405$nuevas,
+              dncuio220406$nuevas,
+              dncuio220407$nuevas))
+x98 <- mean(c(dncuio220402$nuevas,
+              dncuio220403$nuevas,
+              dncuio220404$nuevas,
+              dncuio220405$nuevas,
+              dncuio220406$nuevas,
+              dncuio220407$nuevas,
+              dncuio220408$nuevas))
+x99 <- mean(c(dncuio220403$nuevas,
+              dncuio220404$nuevas,
+              dncuio220405$nuevas,
+              dncuio220406$nuevas,
+              dncuio220407$nuevas,
+              dncuio220408$nuevas,
+              dncuio220409$nuevas))
 
 # POBLACIÓN QUITO POR 100MIL HABITANTES
 pqm <- 27.81641
 
+# DATA FRAME QUITO - pqm
 xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "12dic21", "13dic21", "14dic21","15dic21", "16dic21", 
                            #"17dic21", "18dic21", "19dic21","20dic21", "21dic21", "22dic21", "23dic21", "24dic21","25dic21",
                            #"26dic21", "27dic21", "28dic21", "29dic21","30dic21", "31dic21", 
@@ -1293,7 +1445,7 @@ xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "
                            "9feb22", "10feb22", "11feb22", "12feb22", "13feb22", "14feb22", "15feb22", "16feb22", "17feb22", "18feb22",
                            "19feb22", "20feb22", "21feb22", "22feb22", "23feb22", "24feb22", "25feb22", "26feb22", "27feb22", "28feb22",
                            "1mar22", "2mar22", "3mar22", "4mar22", "5mar22", "6mar22", "7mar22", "8mar22", "9mar22", "10mar22", "11mar22",
-                           "12mar22", "13mar22", "14mar22"),
+                           "12mar22", "13mar22", "14mar22", "15mar22"),
                  dnc = c(#y7/27.81641, y8/27.81641, y9/27.81641, y10/27.81641, y11/27.81641, y12/27.81641, y13/27.81641,
                          #y14/27.81641, y15/27.81641, y16/27.81641, y17/27.81641, y18/27.81641, y19/27.81641, y20/27.81641,
                          #y21/27.81641, y22/27.81641, y23/27.81641, y24/27.81641, y25/27.81641, y26/27.81641, y27/27.81641,
@@ -1304,16 +1456,14 @@ xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "
                          x31/pqm, x32/pqm, x33/pqm, x34/pqm, x35/pqm, x36/pqm, x37/pqm, x38/pqm, x39/pqm, x40/pqm,
                          x41/pqm, x42/pqm, x43/pqm, x44/pqm, x45/pqm, x46/pqm, x47/pqm, x48/pqm, x49/pqm, x50/pqm,
                          x51/pqm, x52/pqm, x53/pqm, x54/pqm, x55/pqm, x56/pqm, x57/pqm, x58/pqm, x59/pqm, x60/pqm,
-                         x61/pqm, x62/pqm, x63/pqm, x64/pqm, x65/pqm, x66/pqm, x67/pqm,
-                         x68/pqm, x69/pqm, x70/pqm, x71/pqm, x72/pqm, x73/pqm))
+                         x61/pqm, x62/pqm, x63/pqm, x64/pqm, x65/pqm, x66/pqm, x67/pqm, x68/pqm, x69/pqm, x70/pqm,
+                         x71/pqm, x72/pqm, x73/pqm, x74/pqm))
 
 # GUARDAR COMO SVG
 #svg("quitoinc.svg")
 
 # GRÁFICO
-
 a1 <- ggplot(xx, aes(x = fecha, y = dnc, group = 1)) 
-
 a1 +
   geom_point(size = 2, color = "darkcyan") +
   geom_line(size = .5, color = "chocolate") +
@@ -1327,7 +1477,7 @@ a1 +
   theme(panel.grid.major = element_blank(),
         panel.grid.minor = element_blank()) + 
   labs(title = "FACTOR DE INCIDENCIA COVID - QUITO",
-       subtitle = "Incidencia: nuevos casos diarios por cada 100mil habitantes | Actualización: 14 Marzo 2022
+       subtitle = "Incidencia: nuevos casos diarios por cada 100mil habitantes | Actualización: 15 Marzo 2022
        DNC Niveles: basados en 'Key Metrics for Covid Suppression' - Harvard Global Health Institute",
        #caption = "Fuente: Boletines Ministerio Salud Publica",
        x = NULL,
@@ -1336,23 +1486,23 @@ a1 +
   geom_hline(aes(yintercept = 10), color = "darkgoldenrod2", lty = 2) +
   geom_hline(aes(yintercept = 25), color = "darkorange3", lty = 2) +
   geom_hline(aes(yintercept = 75), color = "darkred", lty = 2) +
-  annotate("text", x = 50, y = 0.2, parse = TRUE, size = 3, col = "chartreuse3",
+  annotate("text", x = 65, y = 0.2, parse = TRUE, size = 3, col = "chartreuse3",
            label = "Bajo") +
-  annotate("text", x = 50, y = 7, parse = TRUE, size = 3, col = "darkgoldenrod2",
+  annotate("text", x = 65, y = 7, parse = TRUE, size = 3, col = "darkgoldenrod2",
            label = "Medio") +
-  annotate("text", x = 50, y = 17, parse = TRUE, size = 3, col = "darkorange3",
+  annotate("text", x = 65, y = 17, parse = TRUE, size = 3, col = "darkorange3",
            label = "Alto") +
-  annotate("text", x = 50, y = 60, parse = TRUE, size = 3, col = "darkred",
+  annotate("text", x = 65, y = 60, parse = TRUE, size = 3, col = "darkred",
            label = "Crítico") +
-  annotate("text", x = 50, y = 77, parse = TRUE, size = 3, col = "darkred",
+  annotate("text", x = 65, y = 77, parse = TRUE, size = 3, col = "darkred",
            label = "MuyCrítico") +
-  annotate("text", x = 7, y = 50, parse = TRUE, size = 2, col = "darkolivegreen",
+  annotate("text", x = 7, y = 50, parse = TRUE, size = 2.5, col = "darkolivegreen",
            label = "DNC==frac(nc, pob)") +
-  annotate("text", x = 7, y = 45, parse = TRUE, size = 2, col = "darkolivegreen",
+  annotate("text", x = 7, y = 45, parse = TRUE, size = 2.5, col = "darkolivegreen",
            label = "'DNC: Daily New Cases | Factor de Incidencia'") +
-  annotate("text", x = 7, y = 42, parse = TRUE, size = 2, col = "darkolivegreen",
+  annotate("text", x = 7, y = 42, parse = TRUE, size = 2.5, col = "darkolivegreen",
            label = "'nc: nuevos casos (prom últimos 7 días)'") +
-  annotate("text", x = 7, y = 39, parse = TRUE, size = 2, col = "darkolivegreen",
+  annotate("text", x = 7, y = 39, parse = TRUE, size = 2.5, col = "darkolivegreen",
            label = "'pob: población/100.000hab'")
 
 #dev.off()
