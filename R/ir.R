@@ -1,22 +1,20 @@
 # INFECTION RATE = IR
 # VELOCIDAD DE CRECIMIENTO DEL VIRUS
-# "DNC" PUEDE SER BAJO, PERO SI "IR" ES ALTO; ENTONCES PODEMOS DECIR
-# QUE "DNC" CRECERÁ EN LOS SIGUIENTES DÍAS
+# EJ: "DNC" BAJO E "IR" ALTO, ENTONCES "DNC" CRECERÁ EN LOS SIGUIENTES DÍAS
  
-# DATES - INCIDENTS
+# LIBRERIA
 library(incidence)
 
+# DATASETS
 iruio22 <- select(uio22, created_at, nuevas)
 iruio22 <- subset(iruio22, select = -canton)
 colnames(iruio22) <- c("dates", "I") 
 
 #iruio22$created_at <- as.Date(format(iruio22$dates, "%Y-%m-%d"))
 
-
 #plot(as.incidence(Flu2009$incidence$I, dates = Flu2009$incidence$dates))
 #plot(as.incidence(Flu2009$incidence$I))
 #plot(as.incidence(iruio22$I, dates = iruio22$dates))
-
 
 res_parametric_si <- estimate_R(iruio22$I, 
                                 method="parametric_si",
@@ -36,7 +34,7 @@ plot(res_parametric_si,
         theme_minimal() +
         theme(legend.position = "none") +
         labs(title = "FACTOR TASA DE INFECCIÓN COVID - QUITO",
-             subtitle = "R(t): número estimado que un portador COVID puede contagiar | Actualización: 14 Marzo 2022
+             subtitle = "R(t): número estimado que un portador COVID puede contagiar | Actualización: 15 Marzo 2022
        R(t) Niveles: basados 'Key Metrics for Covid' - CovidActNow & Harvard Global Health Institute",
              #caption = "Fuente: Boletines Ministerio Salud Publica",
              x = NULL,
@@ -53,13 +51,13 @@ plot(res_parametric_si,
                  label = "Alto") +
         annotate("text", x = 72, y = 1.8, parse = TRUE, size = 3, col = "darkred",
                  label = "Crítico") +
-        annotate("text", x = 11, y = 0.5, parse = TRUE, size = 2, col = "darkolivegreen",
+        annotate("text", x = 15, y = 0.5, parse = TRUE, size = 2.5, col = "darkolivegreen",
                  label = "'Se considera distribución Gamma compensada para el intervalo serial'") +
-        annotate("text", x = 11, y = 0.4, parse = TRUE, size = 2, col = "darkolivegreen",
+        annotate("text", x = 15, y = 0.4, parse = TRUE, size = 2.5, col = "darkolivegreen",
                  label = "'Valores de media y desviación estándar basados del estudio de Ferguson et al., Nature, 2005 '") +
-        annotate("text", x = 11, y = 0.3, parse = TRUE, size = 2, col = "darkolivegreen",
+        annotate("text", x = 15, y = 0.3, parse = TRUE, size = 2.5, col = "darkolivegreen",
                  label = "'Media: 2.6 días'") +
-        annotate("text", x = 11, y = 0.2, parse = TRUE, size = 2, col = "darkolivegreen",
+        annotate("text", x = 15, y = 0.2, parse = TRUE, size = 2.5, col = "darkolivegreen",
                  label = "'Desviación estándar: 1.5 días'")
 
 #dev.off()
