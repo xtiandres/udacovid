@@ -1,0 +1,139 @@
+---
+title: "Hola R Markdown"
+author: "Christian Cuenca"
+date: "2022-03-16"
+output: html_document
+---
+
+Este es un párrafo de un documento R Markdown.
+
+Formatos:
+
+_italic_
+*italic*
+
+**bold**
+
+H~3~PO~4~
+
+Cu^2+^
+
+Hyperlinks:
+[RStudio](https://www.rstudio.com)
+
+```
+Imagen:
+![alt text or image title](path/to/image)
+```
+Footnotes:
+^[Esta es una nota de pie.]
+
+HEADERS:
+
+# Primer-nivel header
+
+## Segundo-nivel header
+
+### Tercer-nivel header
+
+Si no se quiere que un header se enumere:
+
+# Prefacio {-}
+
+LISTAS:
+
+- A
+- B
+- C
+  - D
+  - E
+  - F
+  
+1. Primero
+2. Segundo
+3. Tercero
+    - X
+    - Y
+    - Z
+
+CITAS:
+
+> "I thoroughly disapprove of duels. If a man should challenge me,
+  I would take him kindly and forgivingly by the hand and lead him
+  to a quiet place and kill him."
+>
+> --- Mark Twain
+
+PLAIN CODE BLOCKS:
+
+```
+Texto de prueba.
+```
+
+O indexado por 4 espacios en blanco:
+
+    Texto de prueba.
+
+
+EXPRESIONES MATEMATICAS:
+
+$$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$$
+$$\begin{array}{ccc}
+x_{11} & x_{12} & x_{13}\\
+x_{21} & x_{22} & x_{23}
+\end{array}$$
+
+$$X = \begin{bmatrix}1 & x_{1}\\
+1 & x_{2}\\
+1 & x_{3}
+\end{bmatrix}$$
+
+$$\Theta = \begin{pmatrix}\alpha & \beta\\
+\gamma & \delta
+\end{pmatrix}$$
+
+$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$
+
+
+### R code chunks and inline R code:
+
+```{r}
+# codigo se ejecuta si mas tarde que un dia especifico
+do_it = Sys.Date() > '2018-02-14'
+```
+
+```{r, eval=do_it}
+x = rnorm(100)
+```
+
+```{r}
+x = 5  # radio del circulo
+```
+
+Un circulo con un radio de `r x`,
+su area se define como `r pi * x^2`.
+
+
+@Manual{R-base,
+  title = {R: A Language and Environment for Statistical
+    Computing},
+  author = {{R Core Team}},
+  organization = {R Foundation for Statistical Computing},
+  address = {Vienna, Austria},
+  year = {2017},
+  url = {https://www.R-project.org/},
+}
+
+
+Debajo esta la seccion código chunk:
+
+```{r}
+fit = lm(dist ~ speed, data = cars)
+b = coef(fit)
+plot(cars)
+abline(fit)
+```
+
+La pendiente de la regresion es `r b[2]`.
