@@ -34,7 +34,7 @@ plot(res_parametric_si,
         theme_minimal() +
         theme(legend.position = "none") +
         labs(title = "FACTOR TASA DE INFECCIÓN COVID - QUITO",
-             subtitle = "R(t): número estimado que un portador COVID puede contagiar | Actualización: 15 Marzo 2022
+             subtitle = "R(t): número estimado que un portador COVID puede contagiar | Actualización: 20 Marzo 2022
        R(t) Niveles: basados 'Key Metrics for Covid' - CovidActNow & Harvard Global Health Institute",
              #caption = "Fuente: Boletines Ministerio Salud Publica",
              x = NULL,

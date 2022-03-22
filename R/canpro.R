@@ -15,8 +15,8 @@ pichinchanow <- cantones22 %>%
                        "Rumiñahui", 
                        "San Miguel de Los Bancos")) %>%
   group_by(canton) %>%
-  filter(created_at >= as.Date("2022-03-15") &
-           created_at <= as.Date("2022-03-15")) %>%
+  filter(created_at >= as.Date("2022-03-20") &
+           created_at <= as.Date("2022-03-20")) %>%
   select(provincia, canton, total, created_at)
 
 
