@@ -780,6 +780,117 @@ dfpi <- data_frame(
           dpi69/ppi, dpi68/ppi, dpi67/ppi, dpi66/ppi)
   )
 
+# FILTRO DIARIO - manabi
+# nma"x" // ACORDE A DIAS DEL AÑO
+nma83 <- manabi22 %>%
+  filter(created_at == "2022-03-24") %>%
+  summarise(tn = sum(nuevas))
+nma82 <- manabi22 %>%
+  filter(created_at == "2022-03-23") %>%
+  summarise(tn = sum(nuevas))
+nma81 <- manabi22 %>%
+  filter(created_at == "2022-03-22") %>%
+  summarise(tn = sum(nuevas))
+nma80 <- manabi22 %>%
+  filter(created_at == "2022-03-21") %>%
+  summarise(tn = sum(nuevas))
+nma79 <- manabi22 %>%
+  filter(created_at == "2022-03-20") %>%
+  summarise(tn = sum(nuevas))
+nma78 <- manabi22 %>%
+  filter(created_at == "2022-03-19") %>%
+  summarise(tn = sum(nuevas))
+nma77 <- manabi22 %>%
+  filter(created_at == "2022-03-18") %>%
+  summarise(tn = sum(nuevas))
+nma76 <- manabi22 %>%
+  filter(created_at == "2022-03-17") %>%
+  summarise(tn = sum(nuevas))
+nma75 <- manabi22 %>%
+  filter(created_at == "2022-03-16") %>%
+  summarise(tn = sum(nuevas))
+nma74 <- manabi22 %>%
+  filter(created_at == "2022-03-15") %>%
+  summarise(tn = sum(nuevas))
+nma73 <- manabi22 %>%
+  filter(created_at == "2022-03-14") %>%
+  summarise(tn = sum(nuevas))
+nma72 <- manabi22 %>%
+  filter(created_at == "2022-03-13") %>%
+  summarise(tn = sum(nuevas))
+nma71 <- manabi22 %>%
+  filter(created_at == "2022-03-12") %>%
+  summarise(tn = sum(nuevas))
+nma70 <- manabi22 %>%
+  filter(created_at == "2022-03-11") %>%
+  summarise(tn = sum(nuevas))
+nma69 <- manabi22 %>%
+  filter(created_at == "2022-03-10") %>%
+  summarise(tn = sum(nuevas))
+nma68 <- manabi22 %>%
+  filter(created_at == "2022-03-09") %>%
+  summarise(tn = sum(nuevas))
+nma67 <- manabi22 %>%
+  filter(created_at == "2022-03-08") %>%
+  summarise(tn = sum(nuevas))
+nma66 <- manabi22 %>%
+  filter(created_at == "2022-03-07") %>%
+  summarise(tn = sum(nuevas))
+nma65 <- manabi22 %>%
+  filter(created_at == "2022-03-06") %>%
+  summarise(tn = sum(nuevas))
+nma64 <- manabi22 %>%
+  filter(created_at == "2022-03-05") %>%
+  summarise(tn = sum(nuevas))
+nma63 <- manabi22 %>%
+  filter(created_at == "2022-03-04") %>%
+  summarise(tn = sum(nuevas))
+nma62 <- manabi22 %>%
+  filter(created_at == "2022-03-03") %>%
+  summarise(tn = sum(nuevas))
+nma61 <- manabi22 %>%
+  filter(created_at == "2022-03-02") %>%
+  summarise(tn = sum(nuevas))
+nma60 <- manabi22 %>%
+  filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+
+# PROMEDIO POR DÍA, CONSIDERANDO ÚLTIMOS 7 DÍAS
+dma83 <- mean(c(nma83$tn, nma82$tn, nma81$tn, nma80$tn, nma79$tn, nma78$tn, nma77$tn))
+dma82 <- mean(c(nma82$tn, nma81$tn, nma80$tn, nma79$tn, nma78$tn, nma77$tn, nma76$tn))
+dma81 <- mean(c(nma81$tn, nma80$tn, nma79$tn, nma78$tn, nma77$tn, nma76$tn, nma75$tn))
+dma80 <- mean(c(nma80$tn, nma79$tn, nma78$tn, nma77$tn, nma76$tn, nma75$tn, nma74$tn))
+dma79 <- mean(c(nma79$tn, nma78$tn, nma77$tn, nma76$tn, nma75$tn, nma74$tn, nma73$tn))
+dma78 <- mean(c(nma78$tn, nma77$tn, nma76$tn, nma75$tn, nma74$tn, nma73$tn, nma72$tn))
+dma77 <- mean(c(nma77$tn, nma76$tn, nma75$tn, nma74$tn, nma73$tn, nma72$tn, nma71$tn))
+dma76 <- mean(c(nma76$tn, nma75$tn, nma74$tn, nma73$tn, nma72$tn, nma71$tn, nma70$tn))
+dma75 <- mean(c(nma75$tn, nma74$tn, nma73$tn, nma72$tn, nma71$tn, nma70$tn, nma69$tn))
+dma74 <- mean(c(nma74$tn, nma73$tn, nma72$tn, nma71$tn, nma70$tn, nma69$tn, nma68$tn))
+dma73 <- mean(c(nma73$tn, nma72$tn, nma71$tn, nma70$tn, nma69$tn, nma68$tn, nma67$tn))
+dma72 <- mean(c(nma72$tn, nma71$tn, nma70$tn, nma69$tn, nma68$tn, nma67$tn, nma66$tn))
+dma71 <- mean(c(nma71$tn, nma70$tn, nma69$tn, nma68$tn, nma67$tn, nma66$tn, nma65$tn))
+dma70 <- mean(c(nma70$tn, nma69$tn, nma68$tn, nma67$tn, nma66$tn, nma65$tn, nma64$tn))
+dma69 <- mean(c(nma69$tn, nma68$tn, nma67$tn, nma66$tn, nma65$tn, nma64$tn, nma63$tn))
+dma68 <- mean(c(nma68$tn, nma67$tn, nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn))
+dma67 <- mean(c(nma67$tn, nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn, nma61$tn))
+dma66 <- mean(c(nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn, nma61$tn, nma60$tn))
+
+# POBLACIÓN manabi POR CADA 100MIL HABITANTES
+pma <- manabi22 %>%
+  filter(canton == "Manta" & created_at == "2022-03-24") %>%
+  select(provincia_poblacion)
+pma <- (pma$provincia_poblacion)/100000
+
+# DATA FRAME manabi
+dfma <- data_frame(
+  fecha = c("24mar22", "23mar22", "22mar22", "21mar22", "20mar22", "19mar22", "18mar22",
+            "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", "12mar22", "11mar22",
+            "10mar22", "09mar22", "08mar22", "07mar22"),
+  dnc = c(dma83/pma, dma82/pma, dma81/pma, dma80/pma, dma79/pma, dma78/pma, dma77/pma,
+          dma76/pma, dma75/pma, dma74/pma, dma73/pma, dma72/pma, dma71/pma, dma70/pma,
+          dma69/pma, dma68/pma, dma67/pma, dma66/pma)
+)
+
 # HACIA ABAJO TODO OK, GRAFICO DE QUITO
 # PROMEDIO ÚLTIMOS 7 DÍAS - QUITO
 # y7: 211201-211207
