@@ -653,13 +653,13 @@ dgu68 <- mean(c(ngu68$tn, ngu67$tn, ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu6
 dgu67 <- mean(c(ngu67$tn, ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn, ngu61$tn))
 dgu66 <- mean(c(ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn, ngu61$tn, ngu60$tn))
 
-# POBLACIÓN guayas POR CADA 100MIL HABITANTES
+# POBLACIÓN GUAYAS POR CADA 100MIL HABITANTES
 pgu <- guayas22 %>%
   filter(canton == "Guayaquil" & created_at == "2022-03-24") %>%
   select(provincia_poblacion)
 pgu <- (pgu$provincia_poblacion)/100000
 
-# DATA FRAME guayas
+# DATA FRAME GUAYAS
 dfgu <- data_frame(
   fecha = c("24mar22", "23mar22", "22mar22", "21mar22", "20mar22", "19mar22", "18mar22",
             "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", "12mar22", "11mar22",
