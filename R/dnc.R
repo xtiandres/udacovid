@@ -558,9 +558,54 @@ dncuio220531 <- uio22 %>%
   filter(created_at == "2022-05-31") %>%
   select(nuevas)
 
+# FILTRO DIARIO - PICHINCHA
+# 2022-03-24 (ACTUALIZAR)
+npi83 <- pichincha22 %>%
+  filter(created_at == "2022-03-24") %>%
+  summarise(tn = sum(nuevas))
+npi82 <- pichincha22 %>%
+  filter(created_at == "2022-03-23") %>%
+  summarise(tn = sum(nuevas))
+npi81 <- pichincha22 %>%
+  filter(created_at == "2022-03-22") %>%
+  summarise(tn = sum(nuevas))
+npi80 <- pichincha22 %>%
+  filter(created_at == "2022-03-21") %>%
+  summarise(tn = sum(nuevas))
+npi79 <- pichincha22 %>%
+  filter(created_at == "2022-03-20") %>%
+  summarise(tn = sum(nuevas))
+npi78 <- pichincha22 %>%
+  filter(created_at == "2022-03-19") %>%
+  summarise(tn = sum(nuevas))
+npi77 <- pichincha22 %>%
+  filter(created_at == "2022-03-18") %>%
+  summarise(tn = sum(nuevas))
+npi76 <- pichincha22 %>%
+  filter(created_at == "2022-03-17") %>%
+  summarise(tn = sum(nuevas))
+npi75 <- pichincha22 %>%
+  filter(created_at == "2022-03-16") %>%
+  summarise(tn = sum(nuevas))
+
+dpi83 <- mean(c(npi83$tn, npi82$tn, npi81$tn, npi80$tn, npi79$tn, npi78$tn, npi77$tn))
+dpi82 <- mean(c(npi82$tn, npi81$tn, npi80$tn, npi79$tn, npi78$tn, npi77$tn, npi76$tn))
+dpi81 <- mean(c(npi81$tn, npi80$tn, npi79$tn, npi78$tn, npi77$tn, npi76$tn, npi75$tn))
+
+# POBLACIÓN PICHINCHA POR CADA 100MIL HABITANTES
+ppi <- pichincha22 %>%
+  filter(canton == "Quito" & created_at == "2022-03-24") %>%
+  select(provincia_poblacion)
+ppi <- (ppi$provincia_poblacion)/100000
+
+# DATA FRAME PICHINCHA - pqm
+dfpi <- data_frame(fecha = c("24mar22", "23mar22", "22mar22"),
+  dnc = c(dpi83/ppi, dpi82/ppi, dpi81/ppi))
+
+
 # PROMEDIO ÚLTIMOS 7 DÍAS - QUITO
 # y7: 211201-211207
-# x79: 20 MARZO
+# x83: 24 MARZO
 # x99: 220403-220409
 y7 <- mean(c(dncuio211201$nuevas,
              dncuio211202$nuevas,
@@ -1445,7 +1490,8 @@ xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "
                            "9feb22", "10feb22", "11feb22", "12feb22", "13feb22", "14feb22", "15feb22", "16feb22", "17feb22", "18feb22",
                            "19feb22", "20feb22", "21feb22", "22feb22", "23feb22", "24feb22", "25feb22", "26feb22", "27feb22", "28feb22",
                            "1mar22", "2mar22", "3mar22", "4mar22", "5mar22", "6mar22", "7mar22", "8mar22", "9mar22", "10mar22", "11mar22",
-                           "12mar22", "13mar22", "14mar22", "15mar22", "16mar22", "17mar22", "18mar22", "19mar22", "20mar22"),
+                           "12mar22", "13mar22", "14mar22", "15mar22", "16mar22", "17mar22", "18mar22", "19mar22", "20mar22", "21mar22",
+                           "22mar22", "23mar22", "24mar22"),
                  dnc = c(#y7/27.81641, y8/27.81641, y9/27.81641, y10/27.81641, y11/27.81641, y12/27.81641, y13/27.81641,
                          #y14/27.81641, y15/27.81641, y16/27.81641, y17/27.81641, y18/27.81641, y19/27.81641, y20/27.81641,
                          #y21/27.81641, y22/27.81641, y23/27.81641, y24/27.81641, y25/27.81641, y26/27.81641, y27/27.81641,
@@ -1457,7 +1503,8 @@ xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "
                          x41/pqm, x42/pqm, x43/pqm, x44/pqm, x45/pqm, x46/pqm, x47/pqm, x48/pqm, x49/pqm, x50/pqm,
                          x51/pqm, x52/pqm, x53/pqm, x54/pqm, x55/pqm, x56/pqm, x57/pqm, x58/pqm, x59/pqm, x60/pqm,
                          x61/pqm, x62/pqm, x63/pqm, x64/pqm, x65/pqm, x66/pqm, x67/pqm, x68/pqm, x69/pqm, x70/pqm,
-                         x71/pqm, x72/pqm, x73/pqm, x74/pqm, x75/pqm, x76/pqm, x77/pqm, x78/pqm, x79/pqm))
+                         x71/pqm, x72/pqm, x73/pqm, x74/pqm, x75/pqm, x76/pqm, x77/pqm, x78/pqm, x79/pqm, x80/pqm,
+                         x81/pqm, x82/pqm, x83/pqm))
 
 # GUARDAR COMO SVG
 svg("quitoinc.svg", width = 14, height = 7)
