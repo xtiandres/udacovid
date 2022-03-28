@@ -559,7 +559,7 @@ dncuio220531 <- uio22 %>%
   select(nuevas)
 
 # FILTRO DIARIO - PICHINCHA
-# ACORDE A DIAS DEL AÑO
+# npi"x" // ACORDE A DIAS DEL AÑO
 npi83 <- pichincha22 %>%
   filter(created_at == "2022-03-24") %>%
   summarise(tn = sum(nuevas))
@@ -633,6 +633,7 @@ npi60 <- pichincha22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+# PROMEDIO POR DÍA, CONSIDERANDO ÚLTIMOS 7 DÍAS
 dpi83 <- mean(c(npi83$tn, npi82$tn, npi81$tn, npi80$tn, npi79$tn, npi78$tn, npi77$tn))
 dpi82 <- mean(c(npi82$tn, npi81$tn, npi80$tn, npi79$tn, npi78$tn, npi77$tn, npi76$tn))
 dpi81 <- mean(c(npi81$tn, npi80$tn, npi79$tn, npi78$tn, npi77$tn, npi76$tn, npi75$tn))
@@ -658,7 +659,7 @@ ppi <- pichincha22 %>%
   select(provincia_poblacion)
 ppi <- (ppi$provincia_poblacion)/100000
 
-# DATA FRAME PICHINCHA - pqm
+# DATA FRAME PICHINCHA
 dfpi <- data_frame(
   fecha = c("24mar22", "23mar22", "22mar22", "21mar22", "20mar22", "19mar22", "18mar22",
             "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", "12mar22", "11mar22",
@@ -668,6 +669,7 @@ dfpi <- data_frame(
           dpi69/ppi, dpi68/ppi, dpi67/ppi, dpi66/ppi)
   )
 
+# HACIA ABAJO TODO OK, GRAFICO DE QUITO
 # PROMEDIO ÚLTIMOS 7 DÍAS - QUITO
 # y7: 211201-211207
 # x83: 24 MARZO
@@ -1572,7 +1574,7 @@ xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "
                          x81/pqm, x82/pqm, x83/pqm))
 
 # GUARDAR COMO SVG
-svg("quitoinc.svg", width = 14, height = 7)
+#svg("quitoinc.svg", width = 14, height = 7)
 
 # GRÁFICO
 a1 <- ggplot(xx, aes(x = fecha, y = dnc, group = 1)) 
@@ -1617,7 +1619,7 @@ a1 +
   annotate("text", x = 7, y = 39, parse = TRUE, size = 2.5, col = "darkolivegreen",
            label = "'pob: población/100.000hab'")
 
-dev.off()
+#dev.off()
 
 
 
