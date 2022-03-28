@@ -1524,7 +1524,7 @@ a1 +
   theme(panel.grid.major = element_blank(),
         panel.grid.minor = element_blank()) + 
   labs(title = "FACTOR DE INCIDENCIA COVID - QUITO",
-       subtitle = "Incidencia: nuevos casos diarios por cada 100mil habitantes | Actualización: 20 Marzo 2022
+       subtitle = "Incidencia: nuevos casos diarios por cada 100mil habitantes | Actualización: 24 Marzo 2022
        DNC Niveles: basados en 'Key Metrics for Covid Suppression' - Harvard Global Health Institute",
        #caption = "Fuente: Boletines Ministerio Salud Publica",
        x = NULL,
