@@ -559,7 +559,7 @@ dncuio220531 <- uio22 %>%
   select(nuevas)
 
 # FILTRO DIARIO - PICHINCHA
-# 2022-03-24 (ACTUALIZAR)
+# ACORDE A DIAS DEL AÑO
 npi83 <- pichincha22 %>%
   filter(created_at == "2022-03-24") %>%
   summarise(tn = sum(nuevas))
@@ -587,10 +587,70 @@ npi76 <- pichincha22 %>%
 npi75 <- pichincha22 %>%
   filter(created_at == "2022-03-16") %>%
   summarise(tn = sum(nuevas))
+npi74 <- pichincha22 %>%
+  filter(created_at == "2022-03-15") %>%
+  summarise(tn = sum(nuevas))
+npi73 <- pichincha22 %>%
+  filter(created_at == "2022-03-14") %>%
+  summarise(tn = sum(nuevas))
+npi72 <- pichincha22 %>%
+  filter(created_at == "2022-03-13") %>%
+  summarise(tn = sum(nuevas))
+npi71 <- pichincha22 %>%
+  filter(created_at == "2022-03-12") %>%
+  summarise(tn = sum(nuevas))
+npi70 <- pichincha22 %>%
+  filter(created_at == "2022-03-11") %>%
+  summarise(tn = sum(nuevas))
+npi69 <- pichincha22 %>%
+  filter(created_at == "2022-03-10") %>%
+  summarise(tn = sum(nuevas))
+npi68 <- pichincha22 %>%
+  filter(created_at == "2022-03-09") %>%
+  summarise(tn = sum(nuevas))
+npi67 <- pichincha22 %>%
+  filter(created_at == "2022-03-08") %>%
+  summarise(tn = sum(nuevas))
+npi66 <- pichincha22 %>%
+  filter(created_at == "2022-03-07") %>%
+  summarise(tn = sum(nuevas))
+npi65 <- pichincha22 %>%
+  filter(created_at == "2022-03-06") %>%
+  summarise(tn = sum(nuevas))
+npi64 <- pichincha22 %>%
+  filter(created_at == "2022-03-05") %>%
+  summarise(tn = sum(nuevas))
+npi63 <- pichincha22 %>%
+  filter(created_at == "2022-03-04") %>%
+  summarise(tn = sum(nuevas))
+npi62 <- pichincha22 %>%
+  filter(created_at == "2022-03-03") %>%
+  summarise(tn = sum(nuevas))
+npi61 <- pichincha22 %>%
+  filter(created_at == "2022-03-02") %>%
+  summarise(tn = sum(nuevas))
+npi60 <- pichincha22 %>%
+  filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
 
 dpi83 <- mean(c(npi83$tn, npi82$tn, npi81$tn, npi80$tn, npi79$tn, npi78$tn, npi77$tn))
 dpi82 <- mean(c(npi82$tn, npi81$tn, npi80$tn, npi79$tn, npi78$tn, npi77$tn, npi76$tn))
 dpi81 <- mean(c(npi81$tn, npi80$tn, npi79$tn, npi78$tn, npi77$tn, npi76$tn, npi75$tn))
+dpi80 <- mean(c(npi80$tn, npi79$tn, npi78$tn, npi77$tn, npi76$tn, npi75$tn, npi74$tn))
+dpi79 <- mean(c(npi79$tn, npi78$tn, npi77$tn, npi76$tn, npi75$tn, npi74$tn, npi73$tn))
+dpi78 <- mean(c(npi78$tn, npi77$tn, npi76$tn, npi75$tn, npi74$tn, npi73$tn, npi72$tn))
+dpi77 <- mean(c(npi77$tn, npi76$tn, npi75$tn, npi74$tn, npi73$tn, npi72$tn, npi71$tn))
+dpi76 <- mean(c(npi76$tn, npi75$tn, npi74$tn, npi73$tn, npi72$tn, npi71$tn, npi70$tn))
+dpi75 <- mean(c(npi75$tn, npi74$tn, npi73$tn, npi72$tn, npi71$tn, npi70$tn, npi69$tn))
+dpi74 <- mean(c(npi74$tn, npi73$tn, npi72$tn, npi71$tn, npi70$tn, npi69$tn, npi68$tn))
+dpi73 <- mean(c(npi73$tn, npi72$tn, npi71$tn, npi70$tn, npi69$tn, npi68$tn, npi67$tn))
+dpi72 <- mean(c(npi72$tn, npi71$tn, npi70$tn, npi69$tn, npi68$tn, npi67$tn, npi66$tn))
+dpi71 <- mean(c(npi71$tn, npi70$tn, npi69$tn, npi68$tn, npi67$tn, npi66$tn, npi65$tn))
+dpi70 <- mean(c(npi70$tn, npi69$tn, npi68$tn, npi67$tn, npi66$tn, npi65$tn, npi64$tn))
+dpi69 <- mean(c(npi69$tn, npi68$tn, npi67$tn, npi66$tn, npi65$tn, npi64$tn, npi63$tn))
+dpi68 <- mean(c(npi68$tn, npi67$tn, npi66$tn, npi65$tn, npi64$tn, npi63$tn, npi62$tn))
+dpi67 <- mean(c(npi67$tn, npi66$tn, npi65$tn, npi64$tn, npi63$tn, npi62$tn, npi61$tn))
+dpi66 <- mean(c(npi66$tn, npi65$tn, npi64$tn, npi63$tn, npi62$tn, npi61$tn, npi60$tn))
 
 # POBLACIÓN PICHINCHA POR CADA 100MIL HABITANTES
 ppi <- pichincha22 %>%
@@ -599,9 +659,14 @@ ppi <- pichincha22 %>%
 ppi <- (ppi$provincia_poblacion)/100000
 
 # DATA FRAME PICHINCHA - pqm
-dfpi <- data_frame(fecha = c("24mar22", "23mar22", "22mar22"),
-  dnc = c(dpi83/ppi, dpi82/ppi, dpi81/ppi))
-
+dfpi <- data_frame(
+  fecha = c("24mar22", "23mar22", "22mar22", "21mar22", "20mar22", "19mar22", "18mar22",
+            "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", "12mar22", "11mar22",
+            "10mar22", "09mar22", "08mar22", "07mar22"),
+  dnc = c(dpi83/ppi, dpi82/ppi, dpi81/ppi, dpi80/ppi, dpi79/ppi, dpi78/ppi, dpi77/ppi,
+          dpi76/ppi, dpi75/ppi, dpi74/ppi, dpi73/ppi, dpi72/ppi, dpi71/ppi, dpi70/ppi,
+          dpi69/ppi, dpi68/ppi, dpi67/ppi, dpi66/ppi)
+  )
 
 # PROMEDIO ÚLTIMOS 7 DÍAS - QUITO
 # y7: 211201-211207
