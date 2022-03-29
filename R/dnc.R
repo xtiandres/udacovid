@@ -3237,6 +3237,9 @@ dftotal <- full_join(dfgu, dfpi, by = "fecha") %>%
   full_join(., dfcr, by = "fecha") %>% full_join(., dfbo, by = "fecha") %>%
   full_join(., dfst, by = "fecha") %>% full_join(., dfea, by = "fecha")
 
+dncprov240322 <- filter(dftotal, fecha == "24mar22")
+write.table(dncprov240322,"provinciasdnc.txt",sep="\t",row.names=FALSE)
+
 # HACIA ABAJO TODO OK, GRAFICO DE QUITO
 # PROMEDIO ÚLTIMOS 7 DÍAS - QUITO
 # y7: 211201-211207
