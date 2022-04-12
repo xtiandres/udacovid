@@ -9,555 +9,6 @@ uio22 <- pichincha22 %>%
   filter(canton == "Quito") %>%
   select(canton, canton_poblacion, nuevas, created_at)
 
-# FILTRO DIARIO - QUITO
-# DESDE 2021-12-01 HASTA 2022-05-31 (ACTUALIZAR)
-dncuio211201 <- uio21 %>%
-  filter(created_at == "2021-12-01") %>%
-  select(nuevas)
-dncuio211202 <- uio21 %>%
-  filter(created_at == "2021-12-02") %>%
-  select(nuevas)
-dncuio211203 <- uio21 %>%
-  filter(created_at == "2021-12-03") %>%
-  select(nuevas)
-dncuio211204 <- uio21 %>%
-  filter(created_at == "2021-12-04") %>%
-  select(nuevas)
-dncuio211205 <- uio21 %>%
-  filter(created_at == "2021-12-05") %>%
-  select(nuevas)
-dncuio211206 <- uio21 %>%
-  filter(created_at == "2021-12-06") %>%
-  select(nuevas)
-dncuio211207 <- uio21 %>%
-  filter(created_at == "2021-12-07") %>%
-  select(nuevas)
-dncuio211208 <- uio21 %>%
-  filter(created_at == "2021-12-08") %>%
-  select(nuevas)
-dncuio211209 <- uio21 %>%
-  filter(created_at == "2021-12-09") %>%
-  select(nuevas)
-dncuio211210 <- uio21 %>%
-  filter(created_at == "2021-12-10") %>%
-  select(nuevas)
-dncuio211211 <- uio21 %>%
-  filter(created_at == "2021-12-11") %>%
-  select(nuevas)
-dncuio211212 <- uio21 %>%
-  filter(created_at == "2021-12-12") %>%
-  select(nuevas)
-dncuio211213 <- uio21 %>%
-  filter(created_at == "2021-12-13") %>%
-  select(nuevas)
-dncuio211214 <- uio21 %>%
-  filter(created_at == "2021-12-14") %>%
-  select(nuevas)
-dncuio211215 <- uio21 %>%
-  filter(created_at == "2021-12-15") %>%
-  select(nuevas)
-dncuio211216 <- uio21 %>%
-  filter(created_at == "2021-12-16") %>%
-  select(nuevas)
-dncuio211217 <- uio21 %>%
-  filter(created_at == "2021-12-17") %>%
-  select(nuevas)
-dncuio211218 <- uio21 %>%
-  filter(created_at == "2021-12-18") %>%
-  select(nuevas)
-dncuio211219 <- uio21 %>%
-  filter(created_at == "2021-12-19") %>%
-  select(nuevas)
-dncuio211220 <- uio21 %>%
-  filter(created_at == "2021-12-20") %>%
-  select(nuevas)
-dncuio211221 <- uio21 %>%
-  filter(created_at == "2021-12-21") %>%
-  select(nuevas)
-dncuio211222 <- uio21 %>%
-  filter(created_at == "2021-12-22") %>%
-  select(nuevas)
-dncuio211223 <- uio21 %>%
-  filter(created_at == "2021-12-23") %>%
-  select(nuevas)
-dncuio211224 <- uio21 %>%
-  filter(created_at == "2021-12-24") %>%
-  select(nuevas)
-dncuio211225 <- uio21 %>%
-  filter(created_at == "2021-12-25") %>%
-  select(nuevas)
-dncuio211226 <- uio21 %>%
-  filter(created_at == "2021-12-26") %>%
-  select(nuevas)
-dncuio211227 <- uio21 %>%
-  filter(created_at == "2021-12-27") %>%
-  select(nuevas)
-dncuio211228 <- uio21 %>%
-  filter(created_at == "2021-12-28") %>%
-  select(nuevas)
-dncuio211229 <- uio21 %>%
-  filter(created_at == "2021-12-29") %>%
-  select(nuevas)
-dncuio211230 <- uio21 %>%
-  filter(created_at == "2021-12-30") %>%
-  select(nuevas)
-dncuio211231 <- uio21 %>%
-  filter(created_at == "2021-12-31") %>%
-  select(nuevas)
-dncuio220101 <- uio22 %>%
-  filter(created_at == "2022-01-01") %>%
-  select(nuevas)
-dncuio220102 <- uio22 %>%
-  filter(created_at == "2022-01-02") %>%
-  select(nuevas)
-dncuio220103 <- uio22 %>%
-  filter(created_at == "2022-01-03") %>%
-  select(nuevas)
-dncuio220104 <- uio22 %>%
-  filter(created_at == "2022-01-04") %>%
-  select(nuevas)
-dncuio220105 <- uio22 %>%
-  filter(created_at == "2022-01-05") %>%
-  select(nuevas)
-dncuio220106 <- uio22 %>%
-  filter(created_at == "2022-01-06") %>%
-  select(nuevas)
-dncuio220107 <- uio22 %>%
-  filter(created_at == "2022-01-07") %>%
-  select(nuevas)
-dncuio220108 <- uio22 %>%
-  filter(created_at == "2022-01-08") %>%
-  select(nuevas)
-dncuio220109 <- uio22 %>%
-  filter(created_at == "2022-01-09") %>%
-  select(nuevas)
-dncuio220110 <- uio22 %>%
-  filter(created_at == "2022-01-10") %>%
-  select(nuevas)
-dncuio220111 <- uio22 %>%
-  filter(created_at == "2022-01-11") %>%
-  select(nuevas)
-dncuio220112 <- uio22 %>%
-  filter(created_at == "2022-01-12") %>%
-  select(nuevas)
-dncuio220113 <- uio22 %>%
-  filter(created_at == "2022-01-13") %>%
-  select(nuevas)
-dncuio220114 <- uio22 %>%
-  filter(created_at == "2022-01-14") %>%
-  select(nuevas)
-dncuio220115 <- uio22 %>%
-  filter(created_at == "2022-01-15") %>%
-  select(nuevas)
-dncuio220116 <- uio22 %>%
-  filter(created_at == "2022-01-16") %>%
-  select(nuevas)
-dncuio220117 <- uio22 %>%
-  filter(created_at == "2022-01-17") %>%
-  select(nuevas)
-dncuio220118 <- uio22 %>%
-  filter(created_at == "2022-01-18") %>%
-  select(nuevas)
-dncuio220119 <- uio22 %>%
-  filter(created_at == "2022-01-19") %>%
-  select(nuevas)
-dncuio220120 <- uio22 %>%
-  filter(created_at == "2022-01-20") %>%
-  select(nuevas)
-dncuio220121 <- uio22 %>%
-  filter(created_at == "2022-01-21") %>%
-  select(nuevas)
-dncuio220122 <- uio22 %>%
-  filter(created_at == "2022-01-22") %>%
-  select(nuevas)
-dncuio220123 <- uio22 %>%
-  filter(created_at == "2022-01-23") %>%
-  select(nuevas)
-dncuio220124 <- uio22 %>%
-  filter(created_at == "2022-01-24") %>%
-  select(nuevas)
-dncuio220125 <- uio22 %>%
-  filter(created_at == "2022-01-25") %>%
-  select(nuevas)
-dncuio220126 <- uio22 %>%
-  filter(created_at == "2022-01-26") %>%
-  select(nuevas)
-dncuio220127 <- uio22 %>%
-  filter(created_at == "2022-01-27") %>%
-  select(nuevas)
-dncuio220128 <- uio22 %>%
-  filter(created_at == "2022-01-28") %>%
-  select(nuevas)
-dncuio220129 <- uio22 %>%
-  filter(created_at == "2022-01-29") %>%
-  select(nuevas)
-dncuio220130 <- uio22 %>%
-  filter(created_at == "2022-01-30") %>%
-  select(nuevas)
-dncuio220131 <- uio22 %>%
-  filter(created_at == "2022-01-31") %>%
-  select(nuevas)
-dncuio220201 <- uio22 %>%
-  filter(created_at == "2022-02-01") %>%
-  select(nuevas)
-dncuio220202 <- uio22 %>%
-  filter(created_at == "2022-02-02") %>%
-  select(nuevas)
-dncuio220203 <- uio22 %>%
-  filter(created_at == "2022-02-03") %>%
-  select(nuevas)
-dncuio220204 <- uio22 %>%
-  filter(created_at == "2022-02-04") %>%
-  select(nuevas)
-dncuio220205 <- uio22 %>%
-  filter(created_at == "2022-02-05") %>%
-  select(nuevas)
-dncuio220206 <- uio22 %>%
-  filter(created_at == "2022-02-06") %>%
-  select(nuevas)
-dncuio220207 <- uio22 %>%
-  filter(created_at == "2022-02-07") %>%
-  select(nuevas)
-dncuio220208 <- uio22 %>%
-  filter(created_at == "2022-02-08") %>%
-  select(nuevas)
-dncuio220209 <- uio22 %>%
-  filter(created_at == "2022-02-09") %>%
-  select(nuevas)
-dncuio220210 <- uio22 %>%
-  filter(created_at == "2022-02-10") %>%
-  select(nuevas)
-dncuio220211 <- uio22 %>%
-  filter(created_at == "2022-02-11") %>%
-  select(nuevas)
-dncuio220212 <- uio22 %>%
-  filter(created_at == "2022-02-12") %>%
-  select(nuevas)
-dncuio220213 <- uio22 %>%
-  filter(created_at == "2022-02-13") %>%
-  select(nuevas)
-dncuio220214 <- uio22 %>%
-  filter(created_at == "2022-02-14") %>%
-  select(nuevas)
-dncuio220215 <- uio22 %>%
-  filter(created_at == "2022-02-15") %>%
-  select(nuevas)
-dncuio220216 <- uio22 %>%
-  filter(created_at == "2022-02-16") %>%
-  select(nuevas)
-dncuio220217 <- uio22 %>%
-  filter(created_at == "2022-02-17") %>%
-  select(nuevas)
-dncuio220218 <- uio22 %>%
-  filter(created_at == "2022-02-18") %>%
-  select(nuevas)
-dncuio220219 <- uio22 %>%
-  filter(created_at == "2022-02-19") %>%
-  select(nuevas)
-dncuio220220 <- uio22 %>%
-  filter(created_at == "2022-02-20") %>%
-  select(nuevas)
-dncuio220221 <- uio22 %>%
-  filter(created_at == "2022-02-21") %>%
-  select(nuevas)
-dncuio220222 <- uio22 %>%
-  filter(created_at == "2022-02-22") %>%
-  select(nuevas)
-dncuio220223 <- uio22 %>%
-  filter(created_at == "2022-02-23") %>%
-  select(nuevas)
-dncuio220224 <- uio22 %>%
-  filter(created_at == "2022-02-24") %>%
-  select(nuevas)
-dncuio220225 <- uio22 %>%
-  filter(created_at == "2022-02-25") %>%
-  select(nuevas)
-dncuio220226 <- uio22 %>%
-  filter(created_at == "2022-02-26") %>%
-  select(nuevas)
-dncuio220227 <- uio22 %>%
-  filter(created_at == "2022-02-27") %>%
-  select(nuevas)
-dncuio220228 <- uio22 %>%
-  filter(created_at == "2022-02-28") %>%
-  select(nuevas)
-dncuio220301 <- uio22 %>%
-  filter(created_at == "2022-03-01") %>%
-  select(nuevas)
-dncuio220302 <- uio22 %>%
-  filter(created_at == "2022-03-02") %>%
-  select(nuevas)
-dncuio220303 <- uio22 %>%
-  filter(created_at == "2022-03-03") %>%
-  select(nuevas)
-dncuio220304 <- uio22 %>%
-  filter(created_at == "2022-03-04") %>%
-  select(nuevas)
-dncuio220305 <- uio22 %>%
-  filter(created_at == "2022-03-05") %>%
-  select(nuevas)
-dncuio220306 <- uio22 %>%
-  filter(created_at == "2022-03-06") %>%
-  select(nuevas)
-dncuio220307 <- uio22 %>%
-  filter(created_at == "2022-03-07") %>%
-  select(nuevas)
-dncuio220308 <- uio22 %>%
-  filter(created_at == "2022-03-08") %>%
-  select(nuevas)
-dncuio220309 <- uio22 %>%
-  filter(created_at == "2022-03-09") %>%
-  select(nuevas)
-dncuio220310 <- uio22 %>%
-  filter(created_at == "2022-03-10") %>%
-  select(nuevas)
-dncuio220311 <- uio22 %>%
-  filter(created_at == "2022-03-11") %>%
-  select(nuevas)
-dncuio220312 <- uio22 %>%
-  filter(created_at == "2022-03-12") %>%
-  select(nuevas)
-dncuio220313 <- uio22 %>%
-  filter(created_at == "2022-03-13") %>%
-  select(nuevas)
-dncuio220314 <- uio22 %>%
-  filter(created_at == "2022-03-14") %>%
-  select(nuevas)
-dncuio220315 <- uio22 %>%
-  filter(created_at == "2022-03-15") %>%
-  select(nuevas)
-dncuio220316 <- uio22 %>%
-  filter(created_at == "2022-03-16") %>%
-  select(nuevas)
-dncuio220317 <- uio22 %>%
-  filter(created_at == "2022-03-17") %>%
-  select(nuevas)
-dncuio220318 <- uio22 %>%
-  filter(created_at == "2022-03-18") %>%
-  select(nuevas)
-dncuio220319 <- uio22 %>%
-  filter(created_at == "2022-03-19") %>%
-  select(nuevas)
-dncuio220320 <- uio22 %>%
-  filter(created_at == "2022-03-20") %>%
-  select(nuevas)
-dncuio220321 <- uio22 %>%
-  filter(created_at == "2022-03-21") %>%
-  select(nuevas)
-dncuio220322 <- uio22 %>%
-  filter(created_at == "2022-03-22") %>%
-  select(nuevas)
-dncuio220323 <- uio22 %>%
-  filter(created_at == "2022-03-23") %>%
-  select(nuevas)
-dncuio220324 <- uio22 %>%
-  filter(created_at == "2022-03-24") %>%
-  select(nuevas)
-dncuio220325 <- uio22 %>%
-  filter(created_at == "2022-03-25") %>%
-  select(nuevas)
-dncuio220326 <- uio22 %>%
-  filter(created_at == "2022-03-26") %>%
-  select(nuevas)
-dncuio220327 <- uio22 %>%
-  filter(created_at == "2022-03-27") %>%
-  select(nuevas)
-dncuio220328 <- uio22 %>%
-  filter(created_at == "2022-03-28") %>%
-  select(nuevas)
-dncuio220329 <- uio22 %>%
-  filter(created_at == "2022-03-29") %>%
-  select(nuevas)
-dncuio220330 <- uio22 %>%
-  filter(created_at == "2022-03-30") %>%
-  select(nuevas)
-dncuio220331 <- uio22 %>%
-  filter(created_at == "2022-03-31") %>%
-  select(nuevas)
-dncuio220401 <- uio22 %>%
-  filter(created_at == "2022-04-01") %>%
-  select(nuevas)
-dncuio220402 <- uio22 %>%
-  filter(created_at == "2022-04-02") %>%
-  select(nuevas)
-dncuio220403 <- uio22 %>%
-  filter(created_at == "2022-04-03") %>%
-  select(nuevas)
-dncuio220404 <- uio22 %>%
-  filter(created_at == "2022-04-04") %>%
-  select(nuevas)
-dncuio220405 <- uio22 %>%
-  filter(created_at == "2022-04-05") %>%
-  select(nuevas)
-dncuio220406 <- uio22 %>%
-  filter(created_at == "2022-04-06") %>%
-  select(nuevas)
-dncuio220407 <- uio22 %>%
-  filter(created_at == "2022-04-07") %>%
-  select(nuevas)
-dncuio220408 <- uio22 %>%
-  filter(created_at == "2022-04-08") %>%
-  select(nuevas)
-dncuio220409 <- uio22 %>%
-  filter(created_at == "2022-04-09") %>%
-  select(nuevas)
-dncuio220410 <- uio22 %>%
-  filter(created_at == "2022-04-10") %>%
-  select(nuevas)
-dncuio220411 <- uio22 %>%
-  filter(created_at == "2022-04-11") %>%
-  select(nuevas)
-dncuio220412 <- uio22 %>%
-  filter(created_at == "2022-04-12") %>%
-  select(nuevas)
-dncuio220413 <- uio22 %>%
-  filter(created_at == "2022-04-13") %>%
-  select(nuevas)
-dncuio220414 <- uio22 %>%
-  filter(created_at == "2022-04-14") %>%
-  select(nuevas)
-dncuio220415 <- uio22 %>%
-  filter(created_at == "2022-04-15") %>%
-  select(nuevas)
-dncuio220416 <- uio22 %>%
-  filter(created_at == "2022-04-16") %>%
-  select(nuevas)
-dncuio220417 <- uio22 %>%
-  filter(created_at == "2022-04-17") %>%
-  select(nuevas)
-dncuio220418 <- uio22 %>%
-  filter(created_at == "2022-04-18") %>%
-  select(nuevas)
-dncuio220419 <- uio22 %>%
-  filter(created_at == "2022-04-19") %>%
-  select(nuevas)
-dncuio220420 <- uio22 %>%
-  filter(created_at == "2022-04-20") %>%
-  select(nuevas)
-dncuio220421 <- uio22 %>%
-  filter(created_at == "2022-04-21") %>%
-  select(nuevas)
-dncuio220422 <- uio22 %>%
-  filter(created_at == "2022-04-22") %>%
-  select(nuevas)
-dncuio220423 <- uio22 %>%
-  filter(created_at == "2022-04-23") %>%
-  select(nuevas)
-dncuio220424 <- uio22 %>%
-  filter(created_at == "2022-04-24") %>%
-  select(nuevas)
-dncuio220425 <- uio22 %>%
-  filter(created_at == "2022-04-25") %>%
-  select(nuevas)
-dncuio220426 <- uio22 %>%
-  filter(created_at == "2022-04-26") %>%
-  select(nuevas)
-dncuio220427 <- uio22 %>%
-  filter(created_at == "2022-04-27") %>%
-  select(nuevas)
-dncuio220428 <- uio22 %>%
-  filter(created_at == "2022-04-28") %>%
-  select(nuevas)
-dncuio220429 <- uio22 %>%
-  filter(created_at == "2022-04-29") %>%
-  select(nuevas)
-dncuio220430 <- uio22 %>%
-  filter(created_at == "2022-04-30") %>%
-  select(nuevas)
-dncuio220501 <- uio22 %>%
-  filter(created_at == "2022-05-01") %>%
-  select(nuevas)
-dncuio220502 <- uio22 %>%
-  filter(created_at == "2022-05-02") %>%
-  select(nuevas)
-dncuio220503 <- uio22 %>%
-  filter(created_at == "2022-05-03") %>%
-  select(nuevas)
-dncuio220504 <- uio22 %>%
-  filter(created_at == "2022-05-04") %>%
-  select(nuevas)
-dncuio220505 <- uio22 %>%
-  filter(created_at == "2022-05-05") %>%
-  select(nuevas)
-dncuio220506 <- uio22 %>%
-  filter(created_at == "2022-05-06") %>%
-  select(nuevas)
-dncuio220507 <- uio22 %>%
-  filter(created_at == "2022-05-07") %>%
-  select(nuevas)
-dncuio220508 <- uio22 %>%
-  filter(created_at == "2022-05-08") %>%
-  select(nuevas)
-dncuio220509 <- uio22 %>%
-  filter(created_at == "2022-05-09") %>%
-  select(nuevas)
-dncuio220510 <- uio22 %>%
-  filter(created_at == "2022-05-10") %>%
-  select(nuevas)
-dncuio220511 <- uio22 %>%
-  filter(created_at == "2022-05-11") %>%
-  select(nuevas)
-dncuio220512 <- uio22 %>%
-  filter(created_at == "2022-05-12") %>%
-  select(nuevas)
-dncuio220513 <- uio22 %>%
-  filter(created_at == "2022-05-13") %>%
-  select(nuevas)
-dncuio220514 <- uio22 %>%
-  filter(created_at == "2022-05-14") %>%
-  select(nuevas)
-dncuio220515 <- uio22 %>%
-  filter(created_at == "2022-05-15") %>%
-  select(nuevas)
-dncuio220516 <- uio22 %>%
-  filter(created_at == "2022-05-16") %>%
-  select(nuevas)
-dncuio220517 <- uio22 %>%
-  filter(created_at == "2022-05-17") %>%
-  select(nuevas)
-dncuio220518 <- uio22 %>%
-  filter(created_at == "2022-05-18") %>%
-  select(nuevas)
-dncuio220519 <- uio22 %>%
-  filter(created_at == "2022-05-19") %>%
-  select(nuevas)
-dncuio220520 <- uio22 %>%
-  filter(created_at == "2022-05-20") %>%
-  select(nuevas)
-dncuio220521 <- uio22 %>%
-  filter(created_at == "2022-05-21") %>%
-  select(nuevas)
-dncuio220522 <- uio22 %>%
-  filter(created_at == "2022-05-22") %>%
-  select(nuevas)
-dncuio220523 <- uio22 %>%
-  filter(created_at == "2022-05-23") %>%
-  select(nuevas)
-dncuio220524 <- uio22 %>%
-  filter(created_at == "2022-05-24") %>%
-  select(nuevas)
-dncuio220525 <- uio22 %>%
-  filter(created_at == "2022-05-25") %>%
-  select(nuevas)
-dncuio220526 <- uio22 %>%
-  filter(created_at == "2022-05-26") %>%
-  select(nuevas)
-dncuio220527 <- uio22 %>%
-  filter(created_at == "2022-05-27") %>%
-  select(nuevas)
-dncuio220528 <- uio22 %>%
-  filter(created_at == "2022-05-28") %>%
-  select(nuevas)
-dncuio220529 <- uio22 %>%
-  filter(created_at == "2022-05-29") %>%
-  select(nuevas)
-dncuio220530 <- uio22 %>%
-  filter(created_at == "2022-05-30") %>%
-  select(nuevas)
-dncuio220531 <- uio22 %>%
-  filter(created_at == "2022-05-31") %>%
-  select(nuevas)
-
 
 # FILTRO DIARIO - GUAYAS
 # npi"x" // ACORDE A DIAS DEL AÑO
@@ -3264,10 +2715,560 @@ dftotal <- full_join(dfgu, dfpi, by = "fecha") %>%
 dncprov240322 <- filter(dftotal, fecha == "24mar22")
 write.table(dncprov240322,"provinciasdnc.txt",sep="\t",row.names=FALSE)
 
-# HACIA ABAJO TODO OK, GRAFICO DE QUITO
+
+
+# DNC - FILTRO DIARIO - QUITO
+# DESDE 2021-12-01 HASTA 2022-05-31 (ACTUALIZAR)
+dncuio211201 <- uio21 %>%
+  filter(created_at == "2021-12-01") %>%
+  select(nuevas)
+dncuio211202 <- uio21 %>%
+  filter(created_at == "2021-12-02") %>%
+  select(nuevas)
+dncuio211203 <- uio21 %>%
+  filter(created_at == "2021-12-03") %>%
+  select(nuevas)
+dncuio211204 <- uio21 %>%
+  filter(created_at == "2021-12-04") %>%
+  select(nuevas)
+dncuio211205 <- uio21 %>%
+  filter(created_at == "2021-12-05") %>%
+  select(nuevas)
+dncuio211206 <- uio21 %>%
+  filter(created_at == "2021-12-06") %>%
+  select(nuevas)
+dncuio211207 <- uio21 %>%
+  filter(created_at == "2021-12-07") %>%
+  select(nuevas)
+dncuio211208 <- uio21 %>%
+  filter(created_at == "2021-12-08") %>%
+  select(nuevas)
+dncuio211209 <- uio21 %>%
+  filter(created_at == "2021-12-09") %>%
+  select(nuevas)
+dncuio211210 <- uio21 %>%
+  filter(created_at == "2021-12-10") %>%
+  select(nuevas)
+dncuio211211 <- uio21 %>%
+  filter(created_at == "2021-12-11") %>%
+  select(nuevas)
+dncuio211212 <- uio21 %>%
+  filter(created_at == "2021-12-12") %>%
+  select(nuevas)
+dncuio211213 <- uio21 %>%
+  filter(created_at == "2021-12-13") %>%
+  select(nuevas)
+dncuio211214 <- uio21 %>%
+  filter(created_at == "2021-12-14") %>%
+  select(nuevas)
+dncuio211215 <- uio21 %>%
+  filter(created_at == "2021-12-15") %>%
+  select(nuevas)
+dncuio211216 <- uio21 %>%
+  filter(created_at == "2021-12-16") %>%
+  select(nuevas)
+dncuio211217 <- uio21 %>%
+  filter(created_at == "2021-12-17") %>%
+  select(nuevas)
+dncuio211218 <- uio21 %>%
+  filter(created_at == "2021-12-18") %>%
+  select(nuevas)
+dncuio211219 <- uio21 %>%
+  filter(created_at == "2021-12-19") %>%
+  select(nuevas)
+dncuio211220 <- uio21 %>%
+  filter(created_at == "2021-12-20") %>%
+  select(nuevas)
+dncuio211221 <- uio21 %>%
+  filter(created_at == "2021-12-21") %>%
+  select(nuevas)
+dncuio211222 <- uio21 %>%
+  filter(created_at == "2021-12-22") %>%
+  select(nuevas)
+dncuio211223 <- uio21 %>%
+  filter(created_at == "2021-12-23") %>%
+  select(nuevas)
+dncuio211224 <- uio21 %>%
+  filter(created_at == "2021-12-24") %>%
+  select(nuevas)
+dncuio211225 <- uio21 %>%
+  filter(created_at == "2021-12-25") %>%
+  select(nuevas)
+dncuio211226 <- uio21 %>%
+  filter(created_at == "2021-12-26") %>%
+  select(nuevas)
+dncuio211227 <- uio21 %>%
+  filter(created_at == "2021-12-27") %>%
+  select(nuevas)
+dncuio211228 <- uio21 %>%
+  filter(created_at == "2021-12-28") %>%
+  select(nuevas)
+dncuio211229 <- uio21 %>%
+  filter(created_at == "2021-12-29") %>%
+  select(nuevas)
+dncuio211230 <- uio21 %>%
+  filter(created_at == "2021-12-30") %>%
+  select(nuevas)
+dncuio211231 <- uio21 %>%
+  filter(created_at == "2021-12-31") %>%
+  select(nuevas)
+dncuio220101 <- uio22 %>%
+  filter(created_at == "2022-01-01") %>%
+  select(nuevas)
+dncuio220102 <- uio22 %>%
+  filter(created_at == "2022-01-02") %>%
+  select(nuevas)
+dncuio220103 <- uio22 %>%
+  filter(created_at == "2022-01-03") %>%
+  select(nuevas)
+dncuio220104 <- uio22 %>%
+  filter(created_at == "2022-01-04") %>%
+  select(nuevas)
+dncuio220105 <- uio22 %>%
+  filter(created_at == "2022-01-05") %>%
+  select(nuevas)
+dncuio220106 <- uio22 %>%
+  filter(created_at == "2022-01-06") %>%
+  select(nuevas)
+dncuio220107 <- uio22 %>%
+  filter(created_at == "2022-01-07") %>%
+  select(nuevas)
+dncuio220108 <- uio22 %>%
+  filter(created_at == "2022-01-08") %>%
+  select(nuevas)
+dncuio220109 <- uio22 %>%
+  filter(created_at == "2022-01-09") %>%
+  select(nuevas)
+dncuio220110 <- uio22 %>%
+  filter(created_at == "2022-01-10") %>%
+  select(nuevas)
+dncuio220111 <- uio22 %>%
+  filter(created_at == "2022-01-11") %>%
+  select(nuevas)
+dncuio220112 <- uio22 %>%
+  filter(created_at == "2022-01-12") %>%
+  select(nuevas)
+dncuio220113 <- uio22 %>%
+  filter(created_at == "2022-01-13") %>%
+  select(nuevas)
+dncuio220114 <- uio22 %>%
+  filter(created_at == "2022-01-14") %>%
+  select(nuevas)
+dncuio220115 <- uio22 %>%
+  filter(created_at == "2022-01-15") %>%
+  select(nuevas)
+dncuio220116 <- uio22 %>%
+  filter(created_at == "2022-01-16") %>%
+  select(nuevas)
+dncuio220117 <- uio22 %>%
+  filter(created_at == "2022-01-17") %>%
+  select(nuevas)
+dncuio220118 <- uio22 %>%
+  filter(created_at == "2022-01-18") %>%
+  select(nuevas)
+dncuio220119 <- uio22 %>%
+  filter(created_at == "2022-01-19") %>%
+  select(nuevas)
+dncuio220120 <- uio22 %>%
+  filter(created_at == "2022-01-20") %>%
+  select(nuevas)
+dncuio220121 <- uio22 %>%
+  filter(created_at == "2022-01-21") %>%
+  select(nuevas)
+dncuio220122 <- uio22 %>%
+  filter(created_at == "2022-01-22") %>%
+  select(nuevas)
+dncuio220123 <- uio22 %>%
+  filter(created_at == "2022-01-23") %>%
+  select(nuevas)
+dncuio220124 <- uio22 %>%
+  filter(created_at == "2022-01-24") %>%
+  select(nuevas)
+dncuio220125 <- uio22 %>%
+  filter(created_at == "2022-01-25") %>%
+  select(nuevas)
+dncuio220126 <- uio22 %>%
+  filter(created_at == "2022-01-26") %>%
+  select(nuevas)
+dncuio220127 <- uio22 %>%
+  filter(created_at == "2022-01-27") %>%
+  select(nuevas)
+dncuio220128 <- uio22 %>%
+  filter(created_at == "2022-01-28") %>%
+  select(nuevas)
+dncuio220129 <- uio22 %>%
+  filter(created_at == "2022-01-29") %>%
+  select(nuevas)
+dncuio220130 <- uio22 %>%
+  filter(created_at == "2022-01-30") %>%
+  select(nuevas)
+dncuio220131 <- uio22 %>%
+  filter(created_at == "2022-01-31") %>%
+  select(nuevas)
+dncuio220201 <- uio22 %>%
+  filter(created_at == "2022-02-01") %>%
+  select(nuevas)
+dncuio220202 <- uio22 %>%
+  filter(created_at == "2022-02-02") %>%
+  select(nuevas)
+dncuio220203 <- uio22 %>%
+  filter(created_at == "2022-02-03") %>%
+  select(nuevas)
+dncuio220204 <- uio22 %>%
+  filter(created_at == "2022-02-04") %>%
+  select(nuevas)
+dncuio220205 <- uio22 %>%
+  filter(created_at == "2022-02-05") %>%
+  select(nuevas)
+dncuio220206 <- uio22 %>%
+  filter(created_at == "2022-02-06") %>%
+  select(nuevas)
+dncuio220207 <- uio22 %>%
+  filter(created_at == "2022-02-07") %>%
+  select(nuevas)
+dncuio220208 <- uio22 %>%
+  filter(created_at == "2022-02-08") %>%
+  select(nuevas)
+dncuio220209 <- uio22 %>%
+  filter(created_at == "2022-02-09") %>%
+  select(nuevas)
+dncuio220210 <- uio22 %>%
+  filter(created_at == "2022-02-10") %>%
+  select(nuevas)
+dncuio220211 <- uio22 %>%
+  filter(created_at == "2022-02-11") %>%
+  select(nuevas)
+dncuio220212 <- uio22 %>%
+  filter(created_at == "2022-02-12") %>%
+  select(nuevas)
+dncuio220213 <- uio22 %>%
+  filter(created_at == "2022-02-13") %>%
+  select(nuevas)
+dncuio220214 <- uio22 %>%
+  filter(created_at == "2022-02-14") %>%
+  select(nuevas)
+dncuio220215 <- uio22 %>%
+  filter(created_at == "2022-02-15") %>%
+  select(nuevas)
+dncuio220216 <- uio22 %>%
+  filter(created_at == "2022-02-16") %>%
+  select(nuevas)
+dncuio220217 <- uio22 %>%
+  filter(created_at == "2022-02-17") %>%
+  select(nuevas)
+dncuio220218 <- uio22 %>%
+  filter(created_at == "2022-02-18") %>%
+  select(nuevas)
+dncuio220219 <- uio22 %>%
+  filter(created_at == "2022-02-19") %>%
+  select(nuevas)
+dncuio220220 <- uio22 %>%
+  filter(created_at == "2022-02-20") %>%
+  select(nuevas)
+dncuio220221 <- uio22 %>%
+  filter(created_at == "2022-02-21") %>%
+  select(nuevas)
+dncuio220222 <- uio22 %>%
+  filter(created_at == "2022-02-22") %>%
+  select(nuevas)
+dncuio220223 <- uio22 %>%
+  filter(created_at == "2022-02-23") %>%
+  select(nuevas)
+dncuio220224 <- uio22 %>%
+  filter(created_at == "2022-02-24") %>%
+  select(nuevas)
+dncuio220225 <- uio22 %>%
+  filter(created_at == "2022-02-25") %>%
+  select(nuevas)
+dncuio220226 <- uio22 %>%
+  filter(created_at == "2022-02-26") %>%
+  select(nuevas)
+dncuio220227 <- uio22 %>%
+  filter(created_at == "2022-02-27") %>%
+  select(nuevas)
+dncuio220228 <- uio22 %>%
+  filter(created_at == "2022-02-28") %>%
+  select(nuevas)
+dncuio220301 <- uio22 %>%
+  filter(created_at == "2022-03-01") %>%
+  select(nuevas)
+dncuio220302 <- uio22 %>%
+  filter(created_at == "2022-03-02") %>%
+  select(nuevas)
+dncuio220303 <- uio22 %>%
+  filter(created_at == "2022-03-03") %>%
+  select(nuevas)
+dncuio220304 <- uio22 %>%
+  filter(created_at == "2022-03-04") %>%
+  select(nuevas)
+dncuio220305 <- uio22 %>%
+  filter(created_at == "2022-03-05") %>%
+  select(nuevas)
+dncuio220306 <- uio22 %>%
+  filter(created_at == "2022-03-06") %>%
+  select(nuevas)
+dncuio220307 <- uio22 %>%
+  filter(created_at == "2022-03-07") %>%
+  select(nuevas)
+dncuio220308 <- uio22 %>%
+  filter(created_at == "2022-03-08") %>%
+  select(nuevas)
+dncuio220309 <- uio22 %>%
+  filter(created_at == "2022-03-09") %>%
+  select(nuevas)
+dncuio220310 <- uio22 %>%
+  filter(created_at == "2022-03-10") %>%
+  select(nuevas)
+dncuio220311 <- uio22 %>%
+  filter(created_at == "2022-03-11") %>%
+  select(nuevas)
+dncuio220312 <- uio22 %>%
+  filter(created_at == "2022-03-12") %>%
+  select(nuevas)
+dncuio220313 <- uio22 %>%
+  filter(created_at == "2022-03-13") %>%
+  select(nuevas)
+dncuio220314 <- uio22 %>%
+  filter(created_at == "2022-03-14") %>%
+  select(nuevas)
+dncuio220315 <- uio22 %>%
+  filter(created_at == "2022-03-15") %>%
+  select(nuevas)
+dncuio220316 <- uio22 %>%
+  filter(created_at == "2022-03-16") %>%
+  select(nuevas)
+dncuio220317 <- uio22 %>%
+  filter(created_at == "2022-03-17") %>%
+  select(nuevas)
+dncuio220318 <- uio22 %>%
+  filter(created_at == "2022-03-18") %>%
+  select(nuevas)
+dncuio220319 <- uio22 %>%
+  filter(created_at == "2022-03-19") %>%
+  select(nuevas)
+dncuio220320 <- uio22 %>%
+  filter(created_at == "2022-03-20") %>%
+  select(nuevas)
+dncuio220321 <- uio22 %>%
+  filter(created_at == "2022-03-21") %>%
+  select(nuevas)
+dncuio220322 <- uio22 %>%
+  filter(created_at == "2022-03-22") %>%
+  select(nuevas)
+dncuio220323 <- uio22 %>%
+  filter(created_at == "2022-03-23") %>%
+  select(nuevas)
+dncuio220324 <- uio22 %>%
+  filter(created_at == "2022-03-24") %>%
+  select(nuevas)
+dncuio220325 <- uio22 %>%
+  filter(created_at == "2022-03-25") %>%
+  select(nuevas)
+dncuio220326 <- uio22 %>%
+  filter(created_at == "2022-03-26") %>%
+  select(nuevas)
+dncuio220327 <- uio22 %>%
+  filter(created_at == "2022-03-27") %>%
+  select(nuevas)
+dncuio220328 <- uio22 %>%
+  filter(created_at == "2022-03-28") %>%
+  select(nuevas)
+dncuio220329 <- uio22 %>%
+  filter(created_at == "2022-03-29") %>%
+  select(nuevas)
+dncuio220330 <- uio22 %>%
+  filter(created_at == "2022-03-30") %>%
+  select(nuevas)
+dncuio220331 <- uio22 %>%
+  filter(created_at == "2022-03-31") %>%
+  select(nuevas)
+dncuio220401 <- uio22 %>%
+  filter(created_at == "2022-04-01") %>%
+  select(nuevas)
+dncuio220402 <- uio22 %>%
+  filter(created_at == "2022-04-02") %>%
+  select(nuevas)
+dncuio220403 <- uio22 %>%
+  filter(created_at == "2022-04-03") %>%
+  select(nuevas)
+dncuio220404 <- uio22 %>%
+  filter(created_at == "2022-04-04") %>%
+  select(nuevas)
+dncuio220405 <- uio22 %>%
+  filter(created_at == "2022-04-05") %>%
+  select(nuevas)
+dncuio220406 <- uio22 %>%
+  filter(created_at == "2022-04-06") %>%
+  select(nuevas)
+dncuio220407 <- uio22 %>%
+  filter(created_at == "2022-04-07") %>%
+  select(nuevas)
+dncuio220408 <- uio22 %>%
+  filter(created_at == "2022-04-08") %>%
+  select(nuevas)
+dncuio220409 <- uio22 %>%
+  filter(created_at == "2022-04-09") %>%
+  select(nuevas)
+dncuio220410 <- uio22 %>%
+  filter(created_at == "2022-04-10") %>%
+  select(nuevas)
+dncuio220411 <- uio22 %>%
+  filter(created_at == "2022-04-11") %>%
+  select(nuevas)
+dncuio220412 <- uio22 %>%
+  filter(created_at == "2022-04-12") %>%
+  select(nuevas)
+dncuio220413 <- uio22 %>%
+  filter(created_at == "2022-04-13") %>%
+  select(nuevas)
+dncuio220414 <- uio22 %>%
+  filter(created_at == "2022-04-14") %>%
+  select(nuevas)
+dncuio220415 <- uio22 %>%
+  filter(created_at == "2022-04-15") %>%
+  select(nuevas)
+dncuio220416 <- uio22 %>%
+  filter(created_at == "2022-04-16") %>%
+  select(nuevas)
+dncuio220417 <- uio22 %>%
+  filter(created_at == "2022-04-17") %>%
+  select(nuevas)
+dncuio220418 <- uio22 %>%
+  filter(created_at == "2022-04-18") %>%
+  select(nuevas)
+dncuio220419 <- uio22 %>%
+  filter(created_at == "2022-04-19") %>%
+  select(nuevas)
+dncuio220420 <- uio22 %>%
+  filter(created_at == "2022-04-20") %>%
+  select(nuevas)
+dncuio220421 <- uio22 %>%
+  filter(created_at == "2022-04-21") %>%
+  select(nuevas)
+dncuio220422 <- uio22 %>%
+  filter(created_at == "2022-04-22") %>%
+  select(nuevas)
+dncuio220423 <- uio22 %>%
+  filter(created_at == "2022-04-23") %>%
+  select(nuevas)
+dncuio220424 <- uio22 %>%
+  filter(created_at == "2022-04-24") %>%
+  select(nuevas)
+dncuio220425 <- uio22 %>%
+  filter(created_at == "2022-04-25") %>%
+  select(nuevas)
+dncuio220426 <- uio22 %>%
+  filter(created_at == "2022-04-26") %>%
+  select(nuevas)
+dncuio220427 <- uio22 %>%
+  filter(created_at == "2022-04-27") %>%
+  select(nuevas)
+dncuio220428 <- uio22 %>%
+  filter(created_at == "2022-04-28") %>%
+  select(nuevas)
+dncuio220429 <- uio22 %>%
+  filter(created_at == "2022-04-29") %>%
+  select(nuevas)
+dncuio220430 <- uio22 %>%
+  filter(created_at == "2022-04-30") %>%
+  select(nuevas)
+dncuio220501 <- uio22 %>%
+  filter(created_at == "2022-05-01") %>%
+  select(nuevas)
+dncuio220502 <- uio22 %>%
+  filter(created_at == "2022-05-02") %>%
+  select(nuevas)
+dncuio220503 <- uio22 %>%
+  filter(created_at == "2022-05-03") %>%
+  select(nuevas)
+dncuio220504 <- uio22 %>%
+  filter(created_at == "2022-05-04") %>%
+  select(nuevas)
+dncuio220505 <- uio22 %>%
+  filter(created_at == "2022-05-05") %>%
+  select(nuevas)
+dncuio220506 <- uio22 %>%
+  filter(created_at == "2022-05-06") %>%
+  select(nuevas)
+dncuio220507 <- uio22 %>%
+  filter(created_at == "2022-05-07") %>%
+  select(nuevas)
+dncuio220508 <- uio22 %>%
+  filter(created_at == "2022-05-08") %>%
+  select(nuevas)
+dncuio220509 <- uio22 %>%
+  filter(created_at == "2022-05-09") %>%
+  select(nuevas)
+dncuio220510 <- uio22 %>%
+  filter(created_at == "2022-05-10") %>%
+  select(nuevas)
+dncuio220511 <- uio22 %>%
+  filter(created_at == "2022-05-11") %>%
+  select(nuevas)
+dncuio220512 <- uio22 %>%
+  filter(created_at == "2022-05-12") %>%
+  select(nuevas)
+dncuio220513 <- uio22 %>%
+  filter(created_at == "2022-05-13") %>%
+  select(nuevas)
+dncuio220514 <- uio22 %>%
+  filter(created_at == "2022-05-14") %>%
+  select(nuevas)
+dncuio220515 <- uio22 %>%
+  filter(created_at == "2022-05-15") %>%
+  select(nuevas)
+dncuio220516 <- uio22 %>%
+  filter(created_at == "2022-05-16") %>%
+  select(nuevas)
+dncuio220517 <- uio22 %>%
+  filter(created_at == "2022-05-17") %>%
+  select(nuevas)
+dncuio220518 <- uio22 %>%
+  filter(created_at == "2022-05-18") %>%
+  select(nuevas)
+dncuio220519 <- uio22 %>%
+  filter(created_at == "2022-05-19") %>%
+  select(nuevas)
+dncuio220520 <- uio22 %>%
+  filter(created_at == "2022-05-20") %>%
+  select(nuevas)
+dncuio220521 <- uio22 %>%
+  filter(created_at == "2022-05-21") %>%
+  select(nuevas)
+dncuio220522 <- uio22 %>%
+  filter(created_at == "2022-05-22") %>%
+  select(nuevas)
+dncuio220523 <- uio22 %>%
+  filter(created_at == "2022-05-23") %>%
+  select(nuevas)
+dncuio220524 <- uio22 %>%
+  filter(created_at == "2022-05-24") %>%
+  select(nuevas)
+dncuio220525 <- uio22 %>%
+  filter(created_at == "2022-05-25") %>%
+  select(nuevas)
+dncuio220526 <- uio22 %>%
+  filter(created_at == "2022-05-26") %>%
+  select(nuevas)
+dncuio220527 <- uio22 %>%
+  filter(created_at == "2022-05-27") %>%
+  select(nuevas)
+dncuio220528 <- uio22 %>%
+  filter(created_at == "2022-05-28") %>%
+  select(nuevas)
+dncuio220529 <- uio22 %>%
+  filter(created_at == "2022-05-29") %>%
+  select(nuevas)
+dncuio220530 <- uio22 %>%
+  filter(created_at == "2022-05-30") %>%
+  select(nuevas)
+dncuio220531 <- uio22 %>%
+  filter(created_at == "2022-05-31") %>%
+  select(nuevas)
+
 # PROMEDIO ÚLTIMOS 7 DÍAS - QUITO
 # y7: 211201-211207
-# x83: 24 MARZO
+# x97: 07 ABRIL
 # x99: 220403-220409
 y7 <- mean(c(dncuio211201$nuevas,
              dncuio211202$nuevas,
@@ -4153,7 +4154,8 @@ xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "
                            "19feb22", "20feb22", "21feb22", "22feb22", "23feb22", "24feb22", "25feb22", "26feb22", "27feb22", "28feb22",
                            "1mar22", "2mar22", "3mar22", "4mar22", "5mar22", "6mar22", "7mar22", "8mar22", "9mar22", "10mar22", "11mar22",
                            "12mar22", "13mar22", "14mar22", "15mar22", "16mar22", "17mar22", "18mar22", "19mar22", "20mar22", "21mar22",
-                           "22mar22", "23mar22", "24mar22"),
+                           "22mar22", "23mar22", "24mar22", "25mar22", "26mar22", "27mar22", "28mar22", "29mar22", "30mar22",
+                           "31mar22", "1abr22", "2abr22", "3abr22", "4abr22", "5abr22", "6abr22", "7abr22"),
                  dnc = c(#y7/27.81641, y8/27.81641, y9/27.81641, y10/27.81641, y11/27.81641, y12/27.81641, y13/27.81641,
                          #y14/27.81641, y15/27.81641, y16/27.81641, y17/27.81641, y18/27.81641, y19/27.81641, y20/27.81641,
                          #y21/27.81641, y22/27.81641, y23/27.81641, y24/27.81641, y25/27.81641, y26/27.81641, y27/27.81641,
@@ -4166,7 +4168,8 @@ xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "
                          x51/pqm, x52/pqm, x53/pqm, x54/pqm, x55/pqm, x56/pqm, x57/pqm, x58/pqm, x59/pqm, x60/pqm,
                          x61/pqm, x62/pqm, x63/pqm, x64/pqm, x65/pqm, x66/pqm, x67/pqm, x68/pqm, x69/pqm, x70/pqm,
                          x71/pqm, x72/pqm, x73/pqm, x74/pqm, x75/pqm, x76/pqm, x77/pqm, x78/pqm, x79/pqm, x80/pqm,
-                         x81/pqm, x82/pqm, x83/pqm))
+                         x81/pqm, x82/pqm, x83/pqm, x84/pqm, x85/pqm, x86/pqm, x87/pqm, x88/pqm, x89/pqm, x90/pqm,
+                         x91/pqm, x92/pqm, x93/pqm, x94/pqm, x95/pqm, x96/pqm, x97/pqm))
 
 # GUARDAR COMO SVG
 #svg("quitoinc.svg", width = 14, height = 7)
@@ -4186,7 +4189,7 @@ a1 +
   theme(panel.grid.major = element_blank(),
         panel.grid.minor = element_blank()) + 
   labs(title = "FACTOR DE INCIDENCIA COVID - QUITO",
-       subtitle = "Incidencia: nuevos casos diarios por cada 100mil habitantes | Actualización: 24 Marzo 2022
+       subtitle = "Incidencia: nuevos casos diarios por cada 100mil habitantes | Actualización: 7 Abril 2022
        DNC Niveles: basados en 'Key Metrics for Covid Suppression' - Harvard Global Health Institute",
        #caption = "Fuente: Boletines Ministerio Salud Publica",
        x = NULL,
