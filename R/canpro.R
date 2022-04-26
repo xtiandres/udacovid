@@ -356,28 +356,27 @@ galapagos22 <- cantones22 %>%
 
 
 # VERIFICACIÓN SCRIPT CON REPORTE MSP POR PROVINCIA
-Pichincha
-Guayas
 Azuay
-ElOro
-Esmeraldas
-LosRios
-Manabi
-SantaElena
-SantoDomingo
 Bolivar
 Canar
 Carchi
 Chimborazo
 Cotopaxi
+ElOro
+Esmeraldas
+Galapagos
+Guayas
 Imbabura
 Loja
-Tungurahua
+LosRios
+Manabi
 Morona
 Napo
 Orellana
 Pastaza
+Pichincha
+SantaElena
+SantoDomingo
 Sucumbios
+Tungurahua
 Zamora
-Galapagos
-
