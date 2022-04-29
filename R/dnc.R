@@ -13,6 +13,30 @@ uio22 <- pichincha22 %>%
 
 # ***** GUAYAS *****
 # npi"x" // ACORDE A DIAS DEL AÑO
+ngu117 <- guayas22 %>%
+  filter(created_at == "2022-04-27") %>%
+  summarise(tn = sum(nuevas))
+ngu116 <- guayas22 %>%
+  filter(created_at == "2022-04-26") %>%
+  summarise(tn = sum(nuevas))
+ngu115 <- guayas22 %>%
+  filter(created_at == "2022-04-25") %>%
+  summarise(tn = sum(nuevas))
+ngu114 <- guayas22 %>%
+  filter(created_at == "2022-04-24") %>%
+  summarise(tn = sum(nuevas))
+ngu113 <- guayas22 %>%
+  filter(created_at == "2022-04-23") %>%
+  summarise(tn = sum(nuevas))
+ngu112 <- guayas22 %>%
+  filter(created_at == "2022-04-22") %>%
+  summarise(tn = sum(nuevas))
+ngu111 <- guayas22 %>%
+  filter(created_at == "2022-04-21") %>%
+  summarise(tn = sum(nuevas))
+ngu110 <- guayas22 %>%
+  filter(created_at == "2022-04-20") %>%
+  summarise(tn = sum(nuevas))
 ngu109 <- guayas22 %>%
   filter(created_at == "2022-04-19") %>%
   summarise(tn = sum(nuevas))
@@ -164,6 +188,7 @@ ngu60 <- guayas22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 # PROMEDIO POR DÍA, CONSIDERANDO ÚLTIMOS 7 DÍAS
+dgu117 <- mean(c(ngu117$tn, ngu116$tn, ngu115$tn, ngu114$tn, ngu113$tn, ngu112$tn, ngu111$tn))
 dgu109 <- mean(c(ngu109$tn, ngu108$tn, ngu107$tn, ngu106$tn, ngu105$tn, ngu104$tn, ngu103$tn))
 dgu101 <- mean(c(ngu101$tn, ngu100$tn, ngu99$tn, ngu98$tn, ngu97$tn, ngu96$tn, ngu95$tn))
 dgu97 <- mean(c(ngu97$tn, ngu96$tn, ngu95$tn, ngu94$tn, ngu93$tn, ngu92$tn, ngu91$tn))
@@ -205,11 +230,11 @@ pgu <- guayas22 %>%
 pgu <- (pgu$provincia_poblacion)/100000
 # DATA FRAME GUAYAS
 dfgu <- data_frame(
-  fecha = c("19abr22", "11abr22", "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
+  fecha = c("27abr22", "19abr22", "11abr22", "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncgu = c(dgu109/pgu, dgu101/pgu, dgu97/pgu, dgu96/pgu, dgu95/pgu, dgu94/pgu, dgu93/pgu, dgu92/pgu, dgu91/pgu, dgu90/pgu,
+  dncgu = c(dgu117/pgu, dgu109/pgu, dgu101/pgu, dgu97/pgu, dgu96/pgu, dgu95/pgu, dgu94/pgu, dgu93/pgu, dgu92/pgu, dgu91/pgu, dgu90/pgu,
             dgu89/pgu, dgu83/pgu, dgu82/pgu, dgu81/pgu, dgu80/pgu, dgu79/pgu, dgu78/pgu, dgu77/pgu,
             dgu76/pgu, dgu75/pgu, dgu74/pgu, dgu73/pgu, dgu72/pgu, dgu71/pgu, dgu70/pgu, dgu69/pgu, 
             dgu68/pgu, dgu67/pgu, dgu66/pgu)
