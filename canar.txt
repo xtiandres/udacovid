@@ -5424,3 +5424,10 @@
 "Cañar"	"El Tambo"	590	2022-04-26
 "Cañar"	"La Troncal"	2046	2022-04-26
 "Cañar"	"Suscal"	122	2022-04-26
+"Cañar"	"Azogues"	7655	2022-04-27
+"Cañar"	"Biblían"	1304	2022-04-27
+"Cañar"	"Cañar"	2591	2022-04-27
+"Cañar"	"Déleg"	215	2022-04-27
+"Cañar"	"El Tambo"	590	2022-04-27
+"Cañar"	"La Troncal"	2047	2022-04-27
+"Cañar"	"Suscal"	122	2022-04-27

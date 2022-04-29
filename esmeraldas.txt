@@ -5424,3 +5424,10 @@
 "Esmeraldas"	"Quinindé"	2626	2022-04-26
 "Esmeraldas"	"Rioverde"	534	2022-04-26
 "Esmeraldas"	"San Lorenzo"	1168	2022-04-26
+"Esmeraldas"	"Atacames"	1202	2022-04-27
+"Esmeraldas"	"Eloy Alfaro"	554	2022-04-27
+"Esmeraldas"	"Esmeraldas"	7598	2022-04-27
+"Esmeraldas"	"Muisne"	326	2022-04-27
+"Esmeraldas"	"Quinindé"	2626	2022-04-27
+"Esmeraldas"	"Rioverde"	534	2022-04-27
+"Esmeraldas"	"San Lorenzo"	1168	2022-04-27

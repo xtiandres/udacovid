@@ -10849,3 +10849,17 @@
 "El Oro"	"Portovelo"	1571	2022-04-26
 "El Oro"	"Santa Rosa"	4917	2022-04-26
 "El Oro"	"Zaruma"	2025	2022-04-26
+"El Oro"	"Arenillas"	1354	2022-04-27
+"El Oro"	"Atahualpa"	588	2022-04-27
+"El Oro"	"Balsas"	608	2022-04-27
+"El Oro"	"Chilla"	78	2022-04-27
+"El Oro"	"El Guabo"	1631	2022-04-27
+"El Oro"	"Huaquillas"	2072	2022-04-27
+"El Oro"	"Las Lajas"	251	2022-04-27
+"El Oro"	"Machala"	25759	2022-04-27
+"El Oro"	"Marcabelí"	450	2022-04-27
+"El Oro"	"Pasaje"	4453	2022-04-27
+"El Oro"	"Piñas"	3503	2022-04-27
+"El Oro"	"Portovelo"	1571	2022-04-27
+"El Oro"	"Santa Rosa"	4917	2022-04-27
+"El Oro"	"Zaruma"	2025	2022-04-27
