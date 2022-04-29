@@ -10074,3 +10074,16 @@
 "Los Ríos"	"Valencia"	806	2022-04-26
 "Los Ríos"	"Ventanas"	1867	2022-04-26
 "Los Ríos"	"Vinces"	1490	2022-04-26
+"Los Ríos"	"Baba"	462	2022-04-27
+"Los Ríos"	"Babahoyo"	5000	2022-04-27
+"Los Ríos"	"Buena Fe"	1044	2022-04-27
+"Los Ríos"	"Mocache"	206	2022-04-27
+"Los Ríos"	"Montalvo"	687	2022-04-27
+"Los Ríos"	"Palenque"	470	2022-04-27
+"Los Ríos"	"Puebloviejo"	510	2022-04-27
+"Los Ríos"	"Quevedo"	3573	2022-04-27
+"Los Ríos"	"Quinsaloma"	471	2022-04-27
+"Los Ríos"	"Urdaneta"	713	2022-04-27
+"Los Ríos"	"Valencia"	806	2022-04-27
+"Los Ríos"	"Ventanas"	1867	2022-04-27
+"Los Ríos"	"Vinces"	1490	2022-04-27
