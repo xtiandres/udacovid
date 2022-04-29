@@ -1,0 +1,3105 @@
+"provincia"	"canton"	"total"	"created_at"
+"Orellana"	"Aguarico"	0	2020-03-13
+"Orellana"	"La Joya de los Sachas"	0	2020-03-13
+"Orellana"	"Loreto"	0	2020-03-13
+"Orellana"	"Orellana"	0	2020-03-13
+"Orellana"	"Aguarico"	0	2020-03-14
+"Orellana"	"La Joya de los Sachas"	0	2020-03-14
+"Orellana"	"Loreto"	0	2020-03-14
+"Orellana"	"Orellana"	0	2020-03-14
+"Orellana"	"Aguarico"	0	2020-03-15
+"Orellana"	"La Joya de los Sachas"	0	2020-03-15
+"Orellana"	"Loreto"	0	2020-03-15
+"Orellana"	"Orellana"	0	2020-03-15
+"Orellana"	"Aguarico"	0	2020-03-16
+"Orellana"	"La Joya de los Sachas"	0	2020-03-16
+"Orellana"	"Loreto"	0	2020-03-16
+"Orellana"	"Orellana"	0	2020-03-16
+"Orellana"	"Aguarico"	0	2020-03-17
+"Orellana"	"La Joya de los Sachas"	0	2020-03-17
+"Orellana"	"Loreto"	0	2020-03-17
+"Orellana"	"Orellana"	0	2020-03-17
+"Orellana"	"Aguarico"	0	2020-03-18
+"Orellana"	"La Joya de los Sachas"	0	2020-03-18
+"Orellana"	"Loreto"	0	2020-03-18
+"Orellana"	"Orellana"	0	2020-03-18
+"Orellana"	"Aguarico"	0	2020-03-19
+"Orellana"	"La Joya de los Sachas"	0	2020-03-19
+"Orellana"	"Loreto"	0	2020-03-19
+"Orellana"	"Orellana"	0	2020-03-19
+"Orellana"	"Aguarico"	0	2020-03-20
+"Orellana"	"La Joya de los Sachas"	0	2020-03-20
+"Orellana"	"Loreto"	0	2020-03-20
+"Orellana"	"Orellana"	0	2020-03-20
+"Orellana"	"Aguarico"	0	2020-03-21
+"Orellana"	"La Joya de los Sachas"	0	2020-03-21
+"Orellana"	"Loreto"	0	2020-03-21
+"Orellana"	"Orellana"	0	2020-03-21
+"Orellana"	"Aguarico"	0	2020-03-22
+"Orellana"	"La Joya de los Sachas"	0	2020-03-22
+"Orellana"	"Loreto"	0	2020-03-22
+"Orellana"	"Orellana"	0	2020-03-22
+"Orellana"	"Aguarico"	0	2020-03-23
+"Orellana"	"La Joya de los Sachas"	0	2020-03-23
+"Orellana"	"Loreto"	0	2020-03-23
+"Orellana"	"Orellana"	0	2020-03-23
+"Orellana"	"Aguarico"	0	2020-03-24
+"Orellana"	"La Joya de los Sachas"	0	2020-03-24
+"Orellana"	"Loreto"	0	2020-03-24
+"Orellana"	"Orellana"	0	2020-03-24
+"Orellana"	"Aguarico"	0	2020-03-25
+"Orellana"	"La Joya de los Sachas"	0	2020-03-25
+"Orellana"	"Loreto"	0	2020-03-25
+"Orellana"	"Orellana"	0	2020-03-25
+"Orellana"	"Aguarico"	0	2020-03-26
+"Orellana"	"La Joya de los Sachas"	0	2020-03-26
+"Orellana"	"Loreto"	0	2020-03-26
+"Orellana"	"Orellana"	0	2020-03-26
+"Orellana"	"Aguarico"	0	2020-03-27
+"Orellana"	"La Joya de los Sachas"	0	2020-03-27
+"Orellana"	"Loreto"	0	2020-03-27
+"Orellana"	"Orellana"	0	2020-03-27
+"Orellana"	"Aguarico"	0	2020-03-28
+"Orellana"	"La Joya de los Sachas"	0	2020-03-28
+"Orellana"	"Loreto"	0	2020-03-28
+"Orellana"	"Orellana"	1	2020-03-28
+"Orellana"	"Aguarico"	0	2020-03-29
+"Orellana"	"La Joya de los Sachas"	0	2020-03-29
+"Orellana"	"Loreto"	0	2020-03-29
+"Orellana"	"Orellana"	1	2020-03-29
+"Orellana"	"Aguarico"	0	2020-03-30
+"Orellana"	"La Joya de los Sachas"	0	2020-03-30
+"Orellana"	"Loreto"	0	2020-03-30
+"Orellana"	"Orellana"	1	2020-03-30
+"Orellana"	"Aguarico"	0	2020-03-31
+"Orellana"	"La Joya de los Sachas"	0	2020-03-31
+"Orellana"	"Loreto"	0	2020-03-31
+"Orellana"	"Orellana"	1	2020-03-31
+"Orellana"	"Aguarico"	0	2020-04-01
+"Orellana"	"La Joya de los Sachas"	0	2020-04-01
+"Orellana"	"Loreto"	0	2020-04-01
+"Orellana"	"Orellana"	1	2020-04-01
+"Orellana"	"Aguarico"	0	2020-04-02
+"Orellana"	"La Joya de los Sachas"	0	2020-04-02
+"Orellana"	"Loreto"	0	2020-04-02
+"Orellana"	"Orellana"	1	2020-04-02
+"Orellana"	"Aguarico"	0	2020-04-03
+"Orellana"	"La Joya de los Sachas"	0	2020-04-03
+"Orellana"	"Loreto"	0	2020-04-03
+"Orellana"	"Orellana"	1	2020-04-03
+"Orellana"	"Aguarico"	0	2020-04-04
+"Orellana"	"La Joya de los Sachas"	1	2020-04-04
+"Orellana"	"Loreto"	0	2020-04-04
+"Orellana"	"Orellana"	1	2020-04-04
+"Orellana"	"Aguarico"	0	2020-04-05
+"Orellana"	"La Joya de los Sachas"	1	2020-04-05
+"Orellana"	"Loreto"	0	2020-04-05
+"Orellana"	"Orellana"	2	2020-04-05
+"Orellana"	"Aguarico"	0	2020-04-06
+"Orellana"	"La Joya de los Sachas"	1	2020-04-06
+"Orellana"	"Loreto"	0	2020-04-06
+"Orellana"	"Orellana"	3	2020-04-06
+"Orellana"	"Aguarico"	0	2020-04-07
+"Orellana"	"La Joya de los Sachas"	1	2020-04-07
+"Orellana"	"Loreto"	0	2020-04-07
+"Orellana"	"Orellana"	3	2020-04-07
+"Orellana"	"Aguarico"	0	2020-04-08
+"Orellana"	"La Joya de los Sachas"	1	2020-04-08
+"Orellana"	"Loreto"	0	2020-04-08
+"Orellana"	"Orellana"	3	2020-04-08
+"Orellana"	"Aguarico"	0	2020-04-09
+"Orellana"	"La Joya de los Sachas"	1	2020-04-09
+"Orellana"	"Loreto"	1	2020-04-09
+"Orellana"	"Orellana"	3	2020-04-09
+"Orellana"	"Aguarico"	0	2020-04-10
+"Orellana"	"La Joya de los Sachas"	1	2020-04-10
+"Orellana"	"Loreto"	1	2020-04-10
+"Orellana"	"Orellana"	3	2020-04-10
+"Orellana"	"Aguarico"	0	2020-04-11
+"Orellana"	"La Joya de los Sachas"	1	2020-04-11
+"Orellana"	"Loreto"	1	2020-04-11
+"Orellana"	"Orellana"	3	2020-04-11
+"Orellana"	"Aguarico"	0	2020-04-12
+"Orellana"	"La Joya de los Sachas"	1	2020-04-12
+"Orellana"	"Loreto"	1	2020-04-12
+"Orellana"	"Orellana"	4	2020-04-12
+"Orellana"	"Aguarico"	0	2020-04-13
+"Orellana"	"La Joya de los Sachas"	1	2020-04-13
+"Orellana"	"Loreto"	1	2020-04-13
+"Orellana"	"Orellana"	4	2020-04-13
+"Orellana"	"Aguarico"	0	2020-04-14
+"Orellana"	"La Joya de los Sachas"	1	2020-04-14
+"Orellana"	"Loreto"	1	2020-04-14
+"Orellana"	"Orellana"	4	2020-04-14
+"Orellana"	"Aguarico"	0	2020-04-15
+"Orellana"	"La Joya de los Sachas"	1	2020-04-15
+"Orellana"	"Loreto"	1	2020-04-15
+"Orellana"	"Orellana"	4	2020-04-15
+"Orellana"	"Aguarico"	0	2020-04-16
+"Orellana"	"La Joya de los Sachas"	1	2020-04-16
+"Orellana"	"Loreto"	1	2020-04-16
+"Orellana"	"Orellana"	5	2020-04-16
+"Orellana"	"Aguarico"	0	2020-04-17
+"Orellana"	"La Joya de los Sachas"	1	2020-04-17
+"Orellana"	"Loreto"	1	2020-04-17
+"Orellana"	"Orellana"	7	2020-04-17
+"Orellana"	"Aguarico"	0	2020-04-18
+"Orellana"	"La Joya de los Sachas"	1	2020-04-18
+"Orellana"	"Loreto"	1	2020-04-18
+"Orellana"	"Orellana"	7	2020-04-18
+"Orellana"	"Aguarico"	0	2020-04-19
+"Orellana"	"La Joya de los Sachas"	1	2020-04-19
+"Orellana"	"Loreto"	1	2020-04-19
+"Orellana"	"Orellana"	7	2020-04-19
+"Orellana"	"Aguarico"	0	2020-04-20
+"Orellana"	"La Joya de los Sachas"	1	2020-04-20
+"Orellana"	"Loreto"	1	2020-04-20
+"Orellana"	"Orellana"	8	2020-04-20
+"Orellana"	"Aguarico"	0	2020-04-21
+"Orellana"	"La Joya de los Sachas"	1	2020-04-21
+"Orellana"	"Loreto"	1	2020-04-21
+"Orellana"	"Orellana"	10	2020-04-21
+"Orellana"	"Aguarico"	0	2020-04-22
+"Orellana"	"La Joya de los Sachas"	1	2020-04-22
+"Orellana"	"Loreto"	1	2020-04-22
+"Orellana"	"Orellana"	10	2020-04-22
+"Orellana"	"Aguarico"	0	2020-04-23
+"Orellana"	"La Joya de los Sachas"	1	2020-04-23
+"Orellana"	"Loreto"	1	2020-04-23
+"Orellana"	"Orellana"	12	2020-04-23
+"Orellana"	"Aguarico"	0	2020-04-24
+"Orellana"	"La Joya de los Sachas"	1	2020-04-24
+"Orellana"	"Loreto"	1	2020-04-24
+"Orellana"	"Orellana"	12	2020-04-24
+"Orellana"	"Aguarico"	0	2020-04-25
+"Orellana"	"La Joya de los Sachas"	1	2020-04-25
+"Orellana"	"Loreto"	1	2020-04-25
+"Orellana"	"Orellana"	12	2020-04-25
+"Orellana"	"Aguarico"	0	2020-04-26
+"Orellana"	"La Joya de los Sachas"	1	2020-04-26
+"Orellana"	"Loreto"	1	2020-04-26
+"Orellana"	"Orellana"	12	2020-04-26
+"Orellana"	"Aguarico"	0	2020-04-27
+"Orellana"	"La Joya de los Sachas"	1	2020-04-27
+"Orellana"	"Loreto"	1	2020-04-27
+"Orellana"	"Orellana"	12	2020-04-27
+"Orellana"	"Aguarico"	0	2020-04-28
+"Orellana"	"La Joya de los Sachas"	1	2020-04-28
+"Orellana"	"Loreto"	1	2020-04-28
+"Orellana"	"Orellana"	28	2020-04-28
+"Orellana"	"Aguarico"	0	2020-04-29
+"Orellana"	"La Joya de los Sachas"	1	2020-04-29
+"Orellana"	"Loreto"	1	2020-04-29
+"Orellana"	"Orellana"	31	2020-04-29
+"Orellana"	"Aguarico"	0	2020-04-30
+"Orellana"	"La Joya de los Sachas"	1	2020-04-30
+"Orellana"	"Loreto"	1	2020-04-30
+"Orellana"	"Orellana"	31	2020-04-30
+"Orellana"	"Aguarico"	0	2020-05-01
+"Orellana"	"La Joya de los Sachas"	1	2020-05-01
+"Orellana"	"Loreto"	1	2020-05-01
+"Orellana"	"Orellana"	33	2020-05-01
+"Orellana"	"Aguarico"	0	2020-05-02
+"Orellana"	"La Joya de los Sachas"	1	2020-05-02
+"Orellana"	"Loreto"	1	2020-05-02
+"Orellana"	"Orellana"	37	2020-05-02
+"Orellana"	"Aguarico"	0	2020-05-03
+"Orellana"	"La Joya de los Sachas"	1	2020-05-03
+"Orellana"	"Loreto"	1	2020-05-03
+"Orellana"	"Orellana"	37	2020-05-03
+"Orellana"	"Aguarico"	0	2020-05-04
+"Orellana"	"La Joya de los Sachas"	1	2020-05-04
+"Orellana"	"Loreto"	1	2020-05-04
+"Orellana"	"Orellana"	37	2020-05-04
+"Orellana"	"Aguarico"	0	2020-05-05
+"Orellana"	"La Joya de los Sachas"	1	2020-05-05
+"Orellana"	"Loreto"	1	2020-05-05
+"Orellana"	"Orellana"	37	2020-05-05
+"Orellana"	"Aguarico"	0	2020-05-06
+"Orellana"	"La Joya de los Sachas"	3	2020-05-06
+"Orellana"	"Loreto"	1	2020-05-06
+"Orellana"	"Orellana"	44	2020-05-06
+"Orellana"	"Aguarico"	0	2020-05-07
+"Orellana"	"La Joya de los Sachas"	3	2020-05-07
+"Orellana"	"Loreto"	1	2020-05-07
+"Orellana"	"Orellana"	44	2020-05-07
+"Orellana"	"Aguarico"	0	2020-05-08
+"Orellana"	"La Joya de los Sachas"	4	2020-05-08
+"Orellana"	"Loreto"	1	2020-05-08
+"Orellana"	"Orellana"	47	2020-05-08
+"Orellana"	"Aguarico"	0	2020-05-09
+"Orellana"	"La Joya de los Sachas"	4	2020-05-09
+"Orellana"	"Loreto"	1	2020-05-09
+"Orellana"	"Orellana"	47	2020-05-09
+"Orellana"	"Aguarico"	0	2020-05-10
+"Orellana"	"La Joya de los Sachas"	6	2020-05-10
+"Orellana"	"Loreto"	1	2020-05-10
+"Orellana"	"Orellana"	53	2020-05-10
+"Orellana"	"Aguarico"	0	2020-05-11
+"Orellana"	"La Joya de los Sachas"	4	2020-05-11
+"Orellana"	"Loreto"	1	2020-05-11
+"Orellana"	"Orellana"	47	2020-05-11
+"Orellana"	"Aguarico"	0	2020-05-12
+"Orellana"	"La Joya de los Sachas"	6	2020-05-12
+"Orellana"	"Loreto"	1	2020-05-12
+"Orellana"	"Orellana"	60	2020-05-12
+"Orellana"	"Aguarico"	0	2020-05-13
+"Orellana"	"La Joya de los Sachas"	6	2020-05-13
+"Orellana"	"Loreto"	1	2020-05-13
+"Orellana"	"Orellana"	60	2020-05-13
+"Orellana"	"Aguarico"	0	2020-05-14
+"Orellana"	"La Joya de los Sachas"	6	2020-05-14
+"Orellana"	"Loreto"	1	2020-05-14
+"Orellana"	"Orellana"	60	2020-05-14
+"Orellana"	"Aguarico"	0	2020-05-15
+"Orellana"	"La Joya de los Sachas"	6	2020-05-15
+"Orellana"	"Loreto"	1	2020-05-15
+"Orellana"	"Orellana"	63	2020-05-15
+"Orellana"	"Aguarico"	0	2020-05-16
+"Orellana"	"La Joya de los Sachas"	6	2020-05-16
+"Orellana"	"Loreto"	1	2020-05-16
+"Orellana"	"Orellana"	78	2020-05-16
+"Orellana"	"Aguarico"	0	2020-05-17
+"Orellana"	"La Joya de los Sachas"	6	2020-05-17
+"Orellana"	"Loreto"	1	2020-05-17
+"Orellana"	"Orellana"	83	2020-05-17
+"Orellana"	"Aguarico"	0	2020-05-18
+"Orellana"	"La Joya de los Sachas"	7	2020-05-18
+"Orellana"	"Loreto"	1	2020-05-18
+"Orellana"	"Orellana"	89	2020-05-18
+"Orellana"	"Aguarico"	0	2020-05-19
+"Orellana"	"La Joya de los Sachas"	8	2020-05-19
+"Orellana"	"Loreto"	1	2020-05-19
+"Orellana"	"Orellana"	98	2020-05-19
+"Orellana"	"Aguarico"	0	2020-05-20
+"Orellana"	"La Joya de los Sachas"	8	2020-05-20
+"Orellana"	"Loreto"	1	2020-05-20
+"Orellana"	"Orellana"	113	2020-05-20
+"Orellana"	"Aguarico"	1	2020-05-21
+"Orellana"	"La Joya de los Sachas"	11	2020-05-21
+"Orellana"	"Loreto"	1	2020-05-21
+"Orellana"	"Orellana"	121	2020-05-21
+"Orellana"	"Aguarico"	2	2020-05-22
+"Orellana"	"La Joya de los Sachas"	11	2020-05-22
+"Orellana"	"Loreto"	1	2020-05-22
+"Orellana"	"Orellana"	129	2020-05-22
+"Orellana"	"Aguarico"	2	2020-05-23
+"Orellana"	"La Joya de los Sachas"	11	2020-05-23
+"Orellana"	"Loreto"	1	2020-05-23
+"Orellana"	"Orellana"	133	2020-05-23
+"Orellana"	"Aguarico"	3	2020-05-24
+"Orellana"	"La Joya de los Sachas"	14	2020-05-24
+"Orellana"	"Loreto"	1	2020-05-24
+"Orellana"	"Orellana"	145	2020-05-24
+"Orellana"	"Aguarico"	3	2020-05-25
+"Orellana"	"La Joya de los Sachas"	14	2020-05-25
+"Orellana"	"Loreto"	1	2020-05-25
+"Orellana"	"Orellana"	150	2020-05-25
+"Orellana"	"Aguarico"	3	2020-05-26
+"Orellana"	"La Joya de los Sachas"	14	2020-05-26
+"Orellana"	"Loreto"	1	2020-05-26
+"Orellana"	"Orellana"	150	2020-05-26
+"Orellana"	"Aguarico"	4	2020-05-27
+"Orellana"	"La Joya de los Sachas"	15	2020-05-27
+"Orellana"	"Loreto"	1	2020-05-27
+"Orellana"	"Orellana"	167	2020-05-27
+"Orellana"	"Aguarico"	5	2020-05-28
+"Orellana"	"La Joya de los Sachas"	17	2020-05-28
+"Orellana"	"Loreto"	1	2020-05-28
+"Orellana"	"Orellana"	180	2020-05-28
+"Orellana"	"Aguarico"	5	2020-05-29
+"Orellana"	"La Joya de los Sachas"	17	2020-05-29
+"Orellana"	"Loreto"	1	2020-05-29
+"Orellana"	"Orellana"	180	2020-05-29
+"Orellana"	"Aguarico"	5	2020-05-30
+"Orellana"	"La Joya de los Sachas"	17	2020-05-30
+"Orellana"	"Loreto"	1	2020-05-30
+"Orellana"	"Orellana"	185	2020-05-30
+"Orellana"	"Aguarico"	5	2020-05-31
+"Orellana"	"La Joya de los Sachas"	17	2020-05-31
+"Orellana"	"Loreto"	1	2020-05-31
+"Orellana"	"Orellana"	214	2020-05-31
+"Orellana"	"Aguarico"	6	2020-06-01
+"Orellana"	"La Joya de los Sachas"	24	2020-06-01
+"Orellana"	"Loreto"	2	2020-06-01
+"Orellana"	"Orellana"	224	2020-06-01
+"Orellana"	"Aguarico"	6	2020-06-02
+"Orellana"	"La Joya de los Sachas"	24	2020-06-02
+"Orellana"	"Loreto"	2	2020-06-02
+"Orellana"	"Orellana"	241	2020-06-02
+"Orellana"	"Aguarico"	6	2020-06-03
+"Orellana"	"La Joya de los Sachas"	29	2020-06-03
+"Orellana"	"Loreto"	2	2020-06-03
+"Orellana"	"Orellana"	246	2020-06-03
+"Orellana"	"Aguarico"	6	2020-06-04
+"Orellana"	"La Joya de los Sachas"	29	2020-06-04
+"Orellana"	"Loreto"	2	2020-06-04
+"Orellana"	"Orellana"	252	2020-06-04
+"Orellana"	"Aguarico"	6	2020-06-05
+"Orellana"	"La Joya de los Sachas"	30	2020-06-05
+"Orellana"	"Loreto"	3	2020-06-05
+"Orellana"	"Orellana"	256	2020-06-05
+"Orellana"	"Aguarico"	8	2020-06-06
+"Orellana"	"La Joya de los Sachas"	32	2020-06-06
+"Orellana"	"Loreto"	3	2020-06-06
+"Orellana"	"Orellana"	279	2020-06-06
+"Orellana"	"Aguarico"	8	2020-06-07
+"Orellana"	"La Joya de los Sachas"	36	2020-06-07
+"Orellana"	"Loreto"	3	2020-06-07
+"Orellana"	"Orellana"	279	2020-06-07
+"Orellana"	"Aguarico"	8	2020-06-08
+"Orellana"	"La Joya de los Sachas"	36	2020-06-08
+"Orellana"	"Loreto"	3	2020-06-08
+"Orellana"	"Orellana"	280	2020-06-08
+"Orellana"	"Aguarico"	8	2020-06-09
+"Orellana"	"La Joya de los Sachas"	38	2020-06-09
+"Orellana"	"Loreto"	6	2020-06-09
+"Orellana"	"Orellana"	297	2020-06-09
+"Orellana"	"Aguarico"	8	2020-06-10
+"Orellana"	"La Joya de los Sachas"	43	2020-06-10
+"Orellana"	"Loreto"	6	2020-06-10
+"Orellana"	"Orellana"	302	2020-06-10
+"Orellana"	"Aguarico"	9	2020-06-11
+"Orellana"	"La Joya de los Sachas"	44	2020-06-11
+"Orellana"	"Loreto"	6	2020-06-11
+"Orellana"	"Orellana"	314	2020-06-11
+"Orellana"	"Aguarico"	9	2020-06-12
+"Orellana"	"La Joya de los Sachas"	44	2020-06-12
+"Orellana"	"Loreto"	11	2020-06-12
+"Orellana"	"Orellana"	324	2020-06-12
+"Orellana"	"Aguarico"	9	2020-06-13
+"Orellana"	"La Joya de los Sachas"	44	2020-06-13
+"Orellana"	"Loreto"	12	2020-06-13
+"Orellana"	"Orellana"	350	2020-06-13
+"Orellana"	"Aguarico"	9	2020-06-14
+"Orellana"	"La Joya de los Sachas"	44	2020-06-14
+"Orellana"	"Loreto"	12	2020-06-14
+"Orellana"	"Orellana"	352	2020-06-14
+"Orellana"	"Aguarico"	42	2020-06-15
+"Orellana"	"La Joya de los Sachas"	51	2020-06-15
+"Orellana"	"Loreto"	12	2020-06-15
+"Orellana"	"Orellana"	378	2020-06-15
+"Orellana"	"Aguarico"	53	2020-06-16
+"Orellana"	"La Joya de los Sachas"	51	2020-06-16
+"Orellana"	"Loreto"	12	2020-06-16
+"Orellana"	"Orellana"	379	2020-06-16
+"Orellana"	"Aguarico"	54	2020-06-17
+"Orellana"	"La Joya de los Sachas"	51	2020-06-17
+"Orellana"	"Loreto"	12	2020-06-17
+"Orellana"	"Orellana"	391	2020-06-17
+"Orellana"	"Aguarico"	54	2020-06-18
+"Orellana"	"La Joya de los Sachas"	51	2020-06-18
+"Orellana"	"Loreto"	12	2020-06-18
+"Orellana"	"Orellana"	392	2020-06-18
+"Orellana"	"Aguarico"	55	2020-06-19
+"Orellana"	"La Joya de los Sachas"	54	2020-06-19
+"Orellana"	"Loreto"	12	2020-06-19
+"Orellana"	"Orellana"	395	2020-06-19
+"Orellana"	"Aguarico"	55	2020-06-20
+"Orellana"	"La Joya de los Sachas"	56	2020-06-20
+"Orellana"	"Loreto"	13	2020-06-20
+"Orellana"	"Orellana"	399	2020-06-20
+"Orellana"	"Aguarico"	55	2020-06-21
+"Orellana"	"La Joya de los Sachas"	56	2020-06-21
+"Orellana"	"Loreto"	14	2020-06-21
+"Orellana"	"Orellana"	414	2020-06-21
+"Orellana"	"Aguarico"	55	2020-06-22
+"Orellana"	"La Joya de los Sachas"	56	2020-06-22
+"Orellana"	"Loreto"	14	2020-06-22
+"Orellana"	"Orellana"	414	2020-06-22
+"Orellana"	"Aguarico"	55	2020-06-23
+"Orellana"	"La Joya de los Sachas"	56	2020-06-23
+"Orellana"	"Loreto"	14	2020-06-23
+"Orellana"	"Orellana"	423	2020-06-23
+"Orellana"	"Aguarico"	55	2020-06-24
+"Orellana"	"La Joya de los Sachas"	56	2020-06-24
+"Orellana"	"Loreto"	17	2020-06-24
+"Orellana"	"Orellana"	424	2020-06-24
+"Orellana"	"Aguarico"	55	2020-06-25
+"Orellana"	"La Joya de los Sachas"	61	2020-06-25
+"Orellana"	"Loreto"	17	2020-06-25
+"Orellana"	"Orellana"	470	2020-06-25
+"Orellana"	"Aguarico"	55	2020-06-26
+"Orellana"	"La Joya de los Sachas"	61	2020-06-26
+"Orellana"	"Loreto"	18	2020-06-26
+"Orellana"	"Orellana"	477	2020-06-26
+"Orellana"	"Aguarico"	55	2020-06-27
+"Orellana"	"La Joya de los Sachas"	61	2020-06-27
+"Orellana"	"Loreto"	18	2020-06-27
+"Orellana"	"Orellana"	478	2020-06-27
+"Orellana"	"Aguarico"	82	2020-06-28
+"Orellana"	"La Joya de los Sachas"	64	2020-06-28
+"Orellana"	"Loreto"	22	2020-06-28
+"Orellana"	"Orellana"	489	2020-06-28
+"Orellana"	"Aguarico"	82	2020-06-29
+"Orellana"	"La Joya de los Sachas"	64	2020-06-29
+"Orellana"	"Loreto"	22	2020-06-29
+"Orellana"	"Orellana"	489	2020-06-29
+"Orellana"	"Aguarico"	82	2020-06-30
+"Orellana"	"La Joya de los Sachas"	74	2020-06-30
+"Orellana"	"Loreto"	22	2020-06-30
+"Orellana"	"Orellana"	563	2020-06-30
+"Orellana"	"Aguarico"	82	2020-07-01
+"Orellana"	"La Joya de los Sachas"	77	2020-07-01
+"Orellana"	"Loreto"	23	2020-07-01
+"Orellana"	"Orellana"	571	2020-07-01
+"Orellana"	"Aguarico"	82	2020-07-02
+"Orellana"	"La Joya de los Sachas"	81	2020-07-02
+"Orellana"	"Loreto"	26	2020-07-02
+"Orellana"	"Orellana"	586	2020-07-02
+"Orellana"	"Aguarico"	82	2020-07-03
+"Orellana"	"La Joya de los Sachas"	83	2020-07-03
+"Orellana"	"Loreto"	27	2020-07-03
+"Orellana"	"Orellana"	618	2020-07-03
+"Orellana"	"Aguarico"	83	2020-07-04
+"Orellana"	"La Joya de los Sachas"	84	2020-07-04
+"Orellana"	"Loreto"	28	2020-07-04
+"Orellana"	"Orellana"	626	2020-07-04
+"Orellana"	"Aguarico"	83	2020-07-05
+"Orellana"	"La Joya de los Sachas"	84	2020-07-05
+"Orellana"	"Loreto"	28	2020-07-05
+"Orellana"	"Orellana"	643	2020-07-05
+"Orellana"	"Aguarico"	83	2020-07-06
+"Orellana"	"La Joya de los Sachas"	84	2020-07-06
+"Orellana"	"Loreto"	28	2020-07-06
+"Orellana"	"Orellana"	643	2020-07-06
+"Orellana"	"Aguarico"	83	2020-07-07
+"Orellana"	"La Joya de los Sachas"	84	2020-07-07
+"Orellana"	"Loreto"	28	2020-07-07
+"Orellana"	"Orellana"	646	2020-07-07
+"Orellana"	"Aguarico"	83	2020-07-08
+"Orellana"	"La Joya de los Sachas"	84	2020-07-08
+"Orellana"	"Loreto"	28	2020-07-08
+"Orellana"	"Orellana"	652	2020-07-08
+"Orellana"	"Aguarico"	83	2020-07-09
+"Orellana"	"La Joya de los Sachas"	94	2020-07-09
+"Orellana"	"Loreto"	31	2020-07-09
+"Orellana"	"Orellana"	680	2020-07-09
+"Orellana"	"Aguarico"	83	2020-07-10
+"Orellana"	"La Joya de los Sachas"	94	2020-07-10
+"Orellana"	"Loreto"	31	2020-07-10
+"Orellana"	"Orellana"	680	2020-07-10
+"Orellana"	"Aguarico"	84	2020-07-11
+"Orellana"	"La Joya de los Sachas"	107	2020-07-11
+"Orellana"	"Loreto"	31	2020-07-11
+"Orellana"	"Orellana"	696	2020-07-11
+"Orellana"	"Aguarico"	84	2020-07-12
+"Orellana"	"La Joya de los Sachas"	107	2020-07-12
+"Orellana"	"Loreto"	32	2020-07-12
+"Orellana"	"Orellana"	698	2020-07-12
+"Orellana"	"Aguarico"	84	2020-07-13
+"Orellana"	"La Joya de los Sachas"	107	2020-07-13
+"Orellana"	"Loreto"	32	2020-07-13
+"Orellana"	"Orellana"	698	2020-07-13
+"Orellana"	"Aguarico"	91	2020-07-14
+"Orellana"	"La Joya de los Sachas"	120	2020-07-14
+"Orellana"	"Loreto"	37	2020-07-14
+"Orellana"	"Orellana"	730	2020-07-14
+"Orellana"	"Aguarico"	116	2020-07-15
+"Orellana"	"La Joya de los Sachas"	128	2020-07-15
+"Orellana"	"Loreto"	39	2020-07-15
+"Orellana"	"Orellana"	739	2020-07-15
+"Orellana"	"Aguarico"	116	2020-07-16
+"Orellana"	"La Joya de los Sachas"	128	2020-07-16
+"Orellana"	"Loreto"	41	2020-07-16
+"Orellana"	"Orellana"	771	2020-07-16
+"Orellana"	"Aguarico"	116	2020-07-17
+"Orellana"	"La Joya de los Sachas"	128	2020-07-17
+"Orellana"	"Loreto"	42	2020-07-17
+"Orellana"	"Orellana"	774	2020-07-17
+"Orellana"	"Aguarico"	116	2020-07-18
+"Orellana"	"La Joya de los Sachas"	129	2020-07-18
+"Orellana"	"Loreto"	44	2020-07-18
+"Orellana"	"Orellana"	784	2020-07-18
+"Orellana"	"Aguarico"	116	2020-07-19
+"Orellana"	"La Joya de los Sachas"	129	2020-07-19
+"Orellana"	"Loreto"	44	2020-07-19
+"Orellana"	"Orellana"	784	2020-07-19
+"Orellana"	"Aguarico"	116	2020-07-20
+"Orellana"	"La Joya de los Sachas"	129	2020-07-20
+"Orellana"	"Loreto"	44	2020-07-20
+"Orellana"	"Orellana"	784	2020-07-20
+"Orellana"	"Aguarico"	120	2020-07-21
+"Orellana"	"La Joya de los Sachas"	138	2020-07-21
+"Orellana"	"Loreto"	45	2020-07-21
+"Orellana"	"Orellana"	787	2020-07-21
+"Orellana"	"Aguarico"	120	2020-07-22
+"Orellana"	"La Joya de los Sachas"	140	2020-07-22
+"Orellana"	"Loreto"	45	2020-07-22
+"Orellana"	"Orellana"	814	2020-07-22
+"Orellana"	"Aguarico"	167	2020-07-23
+"Orellana"	"La Joya de los Sachas"	153	2020-07-23
+"Orellana"	"Loreto"	49	2020-07-23
+"Orellana"	"Orellana"	853	2020-07-23
+"Orellana"	"Aguarico"	173	2020-07-24
+"Orellana"	"La Joya de los Sachas"	154	2020-07-24
+"Orellana"	"Loreto"	49	2020-07-24
+"Orellana"	"Orellana"	863	2020-07-24
+"Orellana"	"Aguarico"	173	2020-07-25
+"Orellana"	"La Joya de los Sachas"	164	2020-07-25
+"Orellana"	"Loreto"	49	2020-07-25
+"Orellana"	"Orellana"	870	2020-07-25
+"Orellana"	"Aguarico"	173	2020-07-26
+"Orellana"	"La Joya de los Sachas"	164	2020-07-26
+"Orellana"	"Loreto"	50	2020-07-26
+"Orellana"	"Orellana"	884	2020-07-26
+"Orellana"	"Aguarico"	173	2020-07-27
+"Orellana"	"La Joya de los Sachas"	164	2020-07-27
+"Orellana"	"Loreto"	50	2020-07-27
+"Orellana"	"Orellana"	884	2020-07-27
+"Orellana"	"Aguarico"	180	2020-07-28
+"Orellana"	"La Joya de los Sachas"	165	2020-07-28
+"Orellana"	"Loreto"	52	2020-07-28
+"Orellana"	"Orellana"	891	2020-07-28
+"Orellana"	"Aguarico"	184	2020-07-29
+"Orellana"	"La Joya de los Sachas"	166	2020-07-29
+"Orellana"	"Loreto"	56	2020-07-29
+"Orellana"	"Orellana"	902	2020-07-29
+"Orellana"	"Aguarico"	184	2020-07-30
+"Orellana"	"La Joya de los Sachas"	166	2020-07-30
+"Orellana"	"Loreto"	59	2020-07-30
+"Orellana"	"Orellana"	902	2020-07-30
+"Orellana"	"Aguarico"	184	2020-07-31
+"Orellana"	"La Joya de los Sachas"	169	2020-07-31
+"Orellana"	"Loreto"	60	2020-07-31
+"Orellana"	"Orellana"	910	2020-07-31
+"Orellana"	"Aguarico"	184	2020-08-01
+"Orellana"	"La Joya de los Sachas"	169	2020-08-01
+"Orellana"	"Loreto"	60	2020-08-01
+"Orellana"	"Orellana"	923	2020-08-01
+"Orellana"	"Aguarico"	184	2020-08-02
+"Orellana"	"La Joya de los Sachas"	169	2020-08-02
+"Orellana"	"Loreto"	60	2020-08-02
+"Orellana"	"Orellana"	923	2020-08-02
+"Orellana"	"Aguarico"	184	2020-08-03
+"Orellana"	"La Joya de los Sachas"	169	2020-08-03
+"Orellana"	"Loreto"	60	2020-08-03
+"Orellana"	"Orellana"	923	2020-08-03
+"Orellana"	"Aguarico"	184	2020-08-04
+"Orellana"	"La Joya de los Sachas"	169	2020-08-04
+"Orellana"	"Loreto"	60	2020-08-04
+"Orellana"	"Orellana"	935	2020-08-04
+"Orellana"	"Aguarico"	185	2020-08-05
+"Orellana"	"La Joya de los Sachas"	169	2020-08-05
+"Orellana"	"Loreto"	61	2020-08-05
+"Orellana"	"Orellana"	937	2020-08-05
+"Orellana"	"Aguarico"	197	2020-08-06
+"Orellana"	"La Joya de los Sachas"	170	2020-08-06
+"Orellana"	"Loreto"	61	2020-08-06
+"Orellana"	"Orellana"	941	2020-08-06
+"Orellana"	"Aguarico"	198	2020-08-07
+"Orellana"	"La Joya de los Sachas"	170	2020-08-07
+"Orellana"	"Loreto"	61	2020-08-07
+"Orellana"	"Orellana"	956	2020-08-07
+"Orellana"	"Aguarico"	219	2020-08-08
+"Orellana"	"La Joya de los Sachas"	170	2020-08-08
+"Orellana"	"Loreto"	61	2020-08-08
+"Orellana"	"Orellana"	960	2020-08-08
+"Orellana"	"Aguarico"	223	2020-08-09
+"Orellana"	"La Joya de los Sachas"	171	2020-08-09
+"Orellana"	"Loreto"	61	2020-08-09
+"Orellana"	"Orellana"	981	2020-08-09
+"Orellana"	"Aguarico"	235	2020-08-10
+"Orellana"	"La Joya de los Sachas"	171	2020-08-10
+"Orellana"	"Loreto"	61	2020-08-10
+"Orellana"	"Orellana"	981	2020-08-10
+"Orellana"	"Aguarico"	235	2020-08-11
+"Orellana"	"La Joya de los Sachas"	173	2020-08-11
+"Orellana"	"Loreto"	61	2020-08-11
+"Orellana"	"Orellana"	982	2020-08-11
+"Orellana"	"Aguarico"	235	2020-08-12
+"Orellana"	"La Joya de los Sachas"	174	2020-08-12
+"Orellana"	"Loreto"	62	2020-08-12
+"Orellana"	"Orellana"	984	2020-08-12
+"Orellana"	"Aguarico"	235	2020-08-13
+"Orellana"	"La Joya de los Sachas"	174	2020-08-13
+"Orellana"	"Loreto"	62	2020-08-13
+"Orellana"	"Orellana"	990	2020-08-13
+"Orellana"	"Aguarico"	236	2020-08-14
+"Orellana"	"La Joya de los Sachas"	174	2020-08-14
+"Orellana"	"Loreto"	62	2020-08-14
+"Orellana"	"Orellana"	993	2020-08-14
+"Orellana"	"Aguarico"	237	2020-08-15
+"Orellana"	"La Joya de los Sachas"	176	2020-08-15
+"Orellana"	"Loreto"	62	2020-08-15
+"Orellana"	"Orellana"	997	2020-08-15
+"Orellana"	"Aguarico"	237	2020-08-16
+"Orellana"	"La Joya de los Sachas"	178	2020-08-16
+"Orellana"	"Loreto"	62	2020-08-16
+"Orellana"	"Orellana"	1012	2020-08-16
+"Orellana"	"Aguarico"	237	2020-08-17
+"Orellana"	"La Joya de los Sachas"	178	2020-08-17
+"Orellana"	"Loreto"	62	2020-08-17
+"Orellana"	"Orellana"	1013	2020-08-17
+"Orellana"	"Aguarico"	237	2020-08-18
+"Orellana"	"La Joya de los Sachas"	178	2020-08-18
+"Orellana"	"Loreto"	62	2020-08-18
+"Orellana"	"Orellana"	1019	2020-08-18
+"Orellana"	"Aguarico"	248	2020-08-19
+"Orellana"	"La Joya de los Sachas"	179	2020-08-19
+"Orellana"	"Loreto"	66	2020-08-19
+"Orellana"	"Orellana"	1023	2020-08-19
+"Orellana"	"Aguarico"	248	2020-08-20
+"Orellana"	"La Joya de los Sachas"	184	2020-08-20
+"Orellana"	"Loreto"	66	2020-08-20
+"Orellana"	"Orellana"	1034	2020-08-20
+"Orellana"	"Aguarico"	248	2020-08-21
+"Orellana"	"La Joya de los Sachas"	185	2020-08-21
+"Orellana"	"Loreto"	66	2020-08-21
+"Orellana"	"Orellana"	1044	2020-08-21
+"Orellana"	"Aguarico"	248	2020-08-22
+"Orellana"	"La Joya de los Sachas"	185	2020-08-22
+"Orellana"	"Loreto"	66	2020-08-22
+"Orellana"	"Orellana"	1045	2020-08-22
+"Orellana"	"Aguarico"	248	2020-08-23
+"Orellana"	"La Joya de los Sachas"	192	2020-08-23
+"Orellana"	"Loreto"	66	2020-08-23
+"Orellana"	"Orellana"	1047	2020-08-23
+"Orellana"	"Aguarico"	248	2020-08-24
+"Orellana"	"La Joya de los Sachas"	192	2020-08-24
+"Orellana"	"Loreto"	66	2020-08-24
+"Orellana"	"Orellana"	1047	2020-08-24
+"Orellana"	"Aguarico"	248	2020-08-25
+"Orellana"	"La Joya de los Sachas"	192	2020-08-25
+"Orellana"	"Loreto"	66	2020-08-25
+"Orellana"	"Orellana"	1047	2020-08-25
+"Orellana"	"Aguarico"	260	2020-08-26
+"Orellana"	"La Joya de los Sachas"	192	2020-08-26
+"Orellana"	"Loreto"	67	2020-08-26
+"Orellana"	"Orellana"	1051	2020-08-26
+"Orellana"	"Aguarico"	260	2020-08-27
+"Orellana"	"La Joya de los Sachas"	194	2020-08-27
+"Orellana"	"Loreto"	67	2020-08-27
+"Orellana"	"Orellana"	1053	2020-08-27
+"Orellana"	"Aguarico"	261	2020-08-28
+"Orellana"	"La Joya de los Sachas"	197	2020-08-28
+"Orellana"	"Loreto"	68	2020-08-28
+"Orellana"	"Orellana"	1061	2020-08-28
+"Orellana"	"Aguarico"	284	2020-08-29
+"Orellana"	"La Joya de los Sachas"	199	2020-08-29
+"Orellana"	"Loreto"	68	2020-08-29
+"Orellana"	"Orellana"	1061	2020-08-29
+"Orellana"	"Aguarico"	285	2020-08-30
+"Orellana"	"La Joya de los Sachas"	202	2020-08-30
+"Orellana"	"Loreto"	68	2020-08-30
+"Orellana"	"Orellana"	1063	2020-08-30
+"Orellana"	"Aguarico"	285	2020-08-31
+"Orellana"	"La Joya de los Sachas"	202	2020-08-31
+"Orellana"	"Loreto"	68	2020-08-31
+"Orellana"	"Orellana"	1063	2020-08-31
+"Orellana"	"Aguarico"	285	2020-09-01
+"Orellana"	"La Joya de los Sachas"	202	2020-09-01
+"Orellana"	"Loreto"	68	2020-09-01
+"Orellana"	"Orellana"	1067	2020-09-01
+"Orellana"	"Aguarico"	285	2020-09-02
+"Orellana"	"La Joya de los Sachas"	202	2020-09-02
+"Orellana"	"Loreto"	68	2020-09-02
+"Orellana"	"Orellana"	1069	2020-09-02
+"Orellana"	"Aguarico"	285	2020-09-03
+"Orellana"	"La Joya de los Sachas"	203	2020-09-03
+"Orellana"	"Loreto"	68	2020-09-03
+"Orellana"	"Orellana"	1071	2020-09-03
+"Orellana"	"Aguarico"	286	2020-09-04
+"Orellana"	"La Joya de los Sachas"	211	2020-09-04
+"Orellana"	"Loreto"	68	2020-09-04
+"Orellana"	"Orellana"	1082	2020-09-04
+"Orellana"	"Aguarico"	287	2020-09-05
+"Orellana"	"La Joya de los Sachas"	211	2020-09-05
+"Orellana"	"Loreto"	68	2020-09-05
+"Orellana"	"Orellana"	1082	2020-09-05
+"Orellana"	"Aguarico"	287	2020-09-06
+"Orellana"	"La Joya de los Sachas"	211	2020-09-06
+"Orellana"	"Loreto"	68	2020-09-06
+"Orellana"	"Orellana"	1082	2020-09-06
+"Orellana"	"Aguarico"	287	2020-09-07
+"Orellana"	"La Joya de los Sachas"	211	2020-09-07
+"Orellana"	"Loreto"	68	2020-09-07
+"Orellana"	"Orellana"	1082	2020-09-07
+"Orellana"	"Aguarico"	287	2020-09-08
+"Orellana"	"La Joya de los Sachas"	211	2020-09-08
+"Orellana"	"Loreto"	68	2020-09-08
+"Orellana"	"Orellana"	1084	2020-09-08
+"Orellana"	"Aguarico"	287	2020-09-09
+"Orellana"	"La Joya de los Sachas"	211	2020-09-09
+"Orellana"	"Loreto"	68	2020-09-09
+"Orellana"	"Orellana"	1084	2020-09-09
+"Orellana"	"Aguarico"	290	2020-09-10
+"Orellana"	"La Joya de los Sachas"	212	2020-09-10
+"Orellana"	"Loreto"	68	2020-09-10
+"Orellana"	"Orellana"	1085	2020-09-10
+"Orellana"	"Aguarico"	290	2020-09-11
+"Orellana"	"La Joya de los Sachas"	216	2020-09-11
+"Orellana"	"Loreto"	68	2020-09-11
+"Orellana"	"Orellana"	1085	2020-09-11
+"Orellana"	"Aguarico"	290	2020-09-12
+"Orellana"	"La Joya de los Sachas"	219	2020-09-12
+"Orellana"	"Loreto"	68	2020-09-12
+"Orellana"	"Orellana"	1088	2020-09-12
+"Orellana"	"Aguarico"	290	2020-09-13
+"Orellana"	"La Joya de los Sachas"	220	2020-09-13
+"Orellana"	"Loreto"	68	2020-09-13
+"Orellana"	"Orellana"	1088	2020-09-13
+"Orellana"	"Aguarico"	290	2020-09-14
+"Orellana"	"La Joya de los Sachas"	220	2020-09-14
+"Orellana"	"Loreto"	68	2020-09-14
+"Orellana"	"Orellana"	1088	2020-09-14
+"Orellana"	"Aguarico"	290	2020-09-15
+"Orellana"	"La Joya de los Sachas"	220	2020-09-15
+"Orellana"	"Loreto"	68	2020-09-15
+"Orellana"	"Orellana"	1089	2020-09-15
+"Orellana"	"Aguarico"	290	2020-09-16
+"Orellana"	"La Joya de los Sachas"	221	2020-09-16
+"Orellana"	"Loreto"	68	2020-09-16
+"Orellana"	"Orellana"	1089	2020-09-16
+"Orellana"	"Aguarico"	291	2020-09-17
+"Orellana"	"La Joya de los Sachas"	222	2020-09-17
+"Orellana"	"Loreto"	68	2020-09-17
+"Orellana"	"Orellana"	1093	2020-09-17
+"Orellana"	"Aguarico"	291	2020-09-18
+"Orellana"	"La Joya de los Sachas"	222	2020-09-18
+"Orellana"	"Loreto"	68	2020-09-18
+"Orellana"	"Orellana"	1094	2020-09-18
+"Orellana"	"Aguarico"	291	2020-09-19
+"Orellana"	"La Joya de los Sachas"	222	2020-09-19
+"Orellana"	"Loreto"	68	2020-09-19
+"Orellana"	"Orellana"	1094	2020-09-19
+"Orellana"	"Aguarico"	296	2020-09-20
+"Orellana"	"La Joya de los Sachas"	224	2020-09-20
+"Orellana"	"Loreto"	68	2020-09-20
+"Orellana"	"Orellana"	1095	2020-09-20
+"Orellana"	"Aguarico"	296	2020-09-21
+"Orellana"	"La Joya de los Sachas"	224	2020-09-21
+"Orellana"	"Loreto"	68	2020-09-21
+"Orellana"	"Orellana"	1096	2020-09-21
+"Orellana"	"Aguarico"	296	2020-09-22
+"Orellana"	"La Joya de los Sachas"	224	2020-09-22
+"Orellana"	"Loreto"	68	2020-09-22
+"Orellana"	"Orellana"	1096	2020-09-22
+"Orellana"	"Aguarico"	296	2020-09-23
+"Orellana"	"La Joya de los Sachas"	225	2020-09-23
+"Orellana"	"Loreto"	68	2020-09-23
+"Orellana"	"Orellana"	1097	2020-09-23
+"Orellana"	"Aguarico"	309	2020-09-24
+"Orellana"	"La Joya de los Sachas"	225	2020-09-24
+"Orellana"	"Loreto"	68	2020-09-24
+"Orellana"	"Orellana"	1101	2020-09-24
+"Orellana"	"Aguarico"	318	2020-09-25
+"Orellana"	"La Joya de los Sachas"	225	2020-09-25
+"Orellana"	"Loreto"	68	2020-09-25
+"Orellana"	"Orellana"	1102	2020-09-25
+"Orellana"	"Aguarico"	318	2020-09-26
+"Orellana"	"La Joya de los Sachas"	227	2020-09-26
+"Orellana"	"Loreto"	68	2020-09-26
+"Orellana"	"Orellana"	1106	2020-09-26
+"Orellana"	"Aguarico"	322	2020-09-27
+"Orellana"	"La Joya de los Sachas"	227	2020-09-27
+"Orellana"	"Loreto"	68	2020-09-27
+"Orellana"	"Orellana"	1107	2020-09-27
+"Orellana"	"Aguarico"	322	2020-09-28
+"Orellana"	"La Joya de los Sachas"	227	2020-09-28
+"Orellana"	"Loreto"	68	2020-09-28
+"Orellana"	"Orellana"	1107	2020-09-28
+"Orellana"	"Aguarico"	322	2020-09-29
+"Orellana"	"La Joya de los Sachas"	228	2020-09-29
+"Orellana"	"Loreto"	68	2020-09-29
+"Orellana"	"Orellana"	1108	2020-09-29
+"Orellana"	"Aguarico"	324	2020-09-30
+"Orellana"	"La Joya de los Sachas"	228	2020-09-30
+"Orellana"	"Loreto"	68	2020-09-30
+"Orellana"	"Orellana"	1111	2020-09-30
+"Orellana"	"Aguarico"	324	2020-10-01
+"Orellana"	"La Joya de los Sachas"	228	2020-10-01
+"Orellana"	"Loreto"	68	2020-10-01
+"Orellana"	"Orellana"	1112	2020-10-01
+"Orellana"	"Aguarico"	324	2020-10-02
+"Orellana"	"La Joya de los Sachas"	228	2020-10-02
+"Orellana"	"Loreto"	68	2020-10-02
+"Orellana"	"Orellana"	1113	2020-10-02
+"Orellana"	"Aguarico"	324	2020-10-03
+"Orellana"	"La Joya de los Sachas"	229	2020-10-03
+"Orellana"	"Loreto"	68	2020-10-03
+"Orellana"	"Orellana"	1117	2020-10-03
+"Orellana"	"Aguarico"	324	2020-10-04
+"Orellana"	"La Joya de los Sachas"	229	2020-10-04
+"Orellana"	"Loreto"	68	2020-10-04
+"Orellana"	"Orellana"	1118	2020-10-04
+"Orellana"	"Aguarico"	324	2020-10-05
+"Orellana"	"La Joya de los Sachas"	229	2020-10-05
+"Orellana"	"Loreto"	68	2020-10-05
+"Orellana"	"Orellana"	1119	2020-10-05
+"Orellana"	"Aguarico"	324	2020-10-06
+"Orellana"	"La Joya de los Sachas"	229	2020-10-06
+"Orellana"	"Loreto"	68	2020-10-06
+"Orellana"	"Orellana"	1124	2020-10-06
+"Orellana"	"Aguarico"	324	2020-10-07
+"Orellana"	"La Joya de los Sachas"	232	2020-10-07
+"Orellana"	"Loreto"	68	2020-10-07
+"Orellana"	"Orellana"	1132	2020-10-07
+"Orellana"	"Aguarico"	324	2020-10-08
+"Orellana"	"La Joya de los Sachas"	233	2020-10-08
+"Orellana"	"Loreto"	68	2020-10-08
+"Orellana"	"Orellana"	1136	2020-10-08
+"Orellana"	"Aguarico"	327	2020-10-09
+"Orellana"	"La Joya de los Sachas"	236	2020-10-09
+"Orellana"	"Loreto"	68	2020-10-09
+"Orellana"	"Orellana"	1138	2020-10-09
+"Orellana"	"Aguarico"	327	2020-10-10
+"Orellana"	"La Joya de los Sachas"	238	2020-10-10
+"Orellana"	"Loreto"	68	2020-10-10
+"Orellana"	"Orellana"	1142	2020-10-10
+"Orellana"	"Aguarico"	327	2020-10-11
+"Orellana"	"La Joya de los Sachas"	239	2020-10-11
+"Orellana"	"Loreto"	68	2020-10-11
+"Orellana"	"Orellana"	1143	2020-10-11
+"Orellana"	"Aguarico"	334	2020-10-12
+"Orellana"	"La Joya de los Sachas"	240	2020-10-12
+"Orellana"	"Loreto"	68	2020-10-12
+"Orellana"	"Orellana"	1147	2020-10-12
+"Orellana"	"Aguarico"	340	2020-10-13
+"Orellana"	"La Joya de los Sachas"	241	2020-10-13
+"Orellana"	"Loreto"	68	2020-10-13
+"Orellana"	"Orellana"	1151	2020-10-13
+"Orellana"	"Aguarico"	340	2020-10-14
+"Orellana"	"La Joya de los Sachas"	246	2020-10-14
+"Orellana"	"Loreto"	68	2020-10-14
+"Orellana"	"Orellana"	1152	2020-10-14
+"Orellana"	"Aguarico"	340	2020-10-15
+"Orellana"	"La Joya de los Sachas"	247	2020-10-15
+"Orellana"	"Loreto"	68	2020-10-15
+"Orellana"	"Orellana"	1156	2020-10-15
+"Orellana"	"Aguarico"	342	2020-10-16
+"Orellana"	"La Joya de los Sachas"	249	2020-10-16
+"Orellana"	"Loreto"	68	2020-10-16
+"Orellana"	"Orellana"	1159	2020-10-16
+"Orellana"	"Aguarico"	342	2020-10-17
+"Orellana"	"La Joya de los Sachas"	249	2020-10-17
+"Orellana"	"Loreto"	68	2020-10-17
+"Orellana"	"Orellana"	1166	2020-10-17
+"Orellana"	"Aguarico"	342	2020-10-18
+"Orellana"	"La Joya de los Sachas"	251	2020-10-18
+"Orellana"	"Loreto"	68	2020-10-18
+"Orellana"	"Orellana"	1171	2020-10-18
+"Orellana"	"Aguarico"	342	2020-10-19
+"Orellana"	"La Joya de los Sachas"	251	2020-10-19
+"Orellana"	"Loreto"	68	2020-10-19
+"Orellana"	"Orellana"	1171	2020-10-19
+"Orellana"	"Aguarico"	342	2020-10-20
+"Orellana"	"La Joya de los Sachas"	251	2020-10-20
+"Orellana"	"Loreto"	68	2020-10-20
+"Orellana"	"Orellana"	1171	2020-10-20
+"Orellana"	"Aguarico"	342	2020-10-21
+"Orellana"	"La Joya de los Sachas"	268	2020-10-21
+"Orellana"	"Loreto"	68	2020-10-21
+"Orellana"	"Orellana"	1179	2020-10-21
+"Orellana"	"Aguarico"	342	2020-10-22
+"Orellana"	"La Joya de los Sachas"	278	2020-10-22
+"Orellana"	"Loreto"	69	2020-10-22
+"Orellana"	"Orellana"	1194	2020-10-22
+"Orellana"	"Aguarico"	342	2020-10-23
+"Orellana"	"La Joya de los Sachas"	279	2020-10-23
+"Orellana"	"Loreto"	69	2020-10-23
+"Orellana"	"Orellana"	1204	2020-10-23
+"Orellana"	"Aguarico"	342	2020-10-24
+"Orellana"	"La Joya de los Sachas"	279	2020-10-24
+"Orellana"	"Loreto"	69	2020-10-24
+"Orellana"	"Orellana"	1214	2020-10-24
+"Orellana"	"Aguarico"	343	2020-10-25
+"Orellana"	"La Joya de los Sachas"	280	2020-10-25
+"Orellana"	"Loreto"	69	2020-10-25
+"Orellana"	"Orellana"	1222	2020-10-25
+"Orellana"	"Aguarico"	343	2020-10-26
+"Orellana"	"La Joya de los Sachas"	280	2020-10-26
+"Orellana"	"Loreto"	69	2020-10-26
+"Orellana"	"Orellana"	1222	2020-10-26
+"Orellana"	"Aguarico"	343	2020-10-27
+"Orellana"	"La Joya de los Sachas"	280	2020-10-27
+"Orellana"	"Loreto"	69	2020-10-27
+"Orellana"	"Orellana"	1223	2020-10-27
+"Orellana"	"Aguarico"	343	2020-10-28
+"Orellana"	"La Joya de los Sachas"	285	2020-10-28
+"Orellana"	"Loreto"	69	2020-10-28
+"Orellana"	"Orellana"	1225	2020-10-28
+"Orellana"	"Aguarico"	343	2020-10-29
+"Orellana"	"La Joya de los Sachas"	288	2020-10-29
+"Orellana"	"Loreto"	69	2020-10-29
+"Orellana"	"Orellana"	1227	2020-10-29
+"Orellana"	"Aguarico"	343	2020-10-30
+"Orellana"	"La Joya de los Sachas"	289	2020-10-30
+"Orellana"	"Loreto"	69	2020-10-30
+"Orellana"	"Orellana"	1232	2020-10-30
+"Orellana"	"Aguarico"	343	2020-10-31
+"Orellana"	"La Joya de los Sachas"	299	2020-10-31
+"Orellana"	"Loreto"	69	2020-10-31
+"Orellana"	"Orellana"	1241	2020-10-31
+"Orellana"	"Aguarico"	344	2020-11-01
+"Orellana"	"La Joya de los Sachas"	300	2020-11-01
+"Orellana"	"Loreto"	69	2020-11-01
+"Orellana"	"Orellana"	1243	2020-11-01
+"Orellana"	"Aguarico"	344	2020-11-02
+"Orellana"	"La Joya de los Sachas"	300	2020-11-02
+"Orellana"	"Loreto"	70	2020-11-02
+"Orellana"	"Orellana"	1243	2020-11-02
+"Orellana"	"Aguarico"	344	2020-11-03
+"Orellana"	"La Joya de los Sachas"	300	2020-11-03
+"Orellana"	"Loreto"	70	2020-11-03
+"Orellana"	"Orellana"	1243	2020-11-03
+"Orellana"	"Aguarico"	344	2020-11-04
+"Orellana"	"La Joya de los Sachas"	300	2020-11-04
+"Orellana"	"Loreto"	70	2020-11-04
+"Orellana"	"Orellana"	1246	2020-11-04
+"Orellana"	"Aguarico"	344	2020-11-05
+"Orellana"	"La Joya de los Sachas"	301	2020-11-05
+"Orellana"	"Loreto"	70	2020-11-05
+"Orellana"	"Orellana"	1247	2020-11-05
+"Orellana"	"Aguarico"	344	2020-11-06
+"Orellana"	"La Joya de los Sachas"	303	2020-11-06
+"Orellana"	"Loreto"	70	2020-11-06
+"Orellana"	"Orellana"	1255	2020-11-06
+"Orellana"	"Aguarico"	344	2020-11-07
+"Orellana"	"La Joya de los Sachas"	314	2020-11-07
+"Orellana"	"Loreto"	70	2020-11-07
+"Orellana"	"Orellana"	1259	2020-11-07
+"Orellana"	"Aguarico"	344	2020-11-08
+"Orellana"	"La Joya de los Sachas"	317	2020-11-08
+"Orellana"	"Loreto"	70	2020-11-08
+"Orellana"	"Orellana"	1271	2020-11-08
+"Orellana"	"Aguarico"	344	2020-11-09
+"Orellana"	"La Joya de los Sachas"	318	2020-11-09
+"Orellana"	"Loreto"	70	2020-11-09
+"Orellana"	"Orellana"	1271	2020-11-09
+"Orellana"	"Aguarico"	344	2020-11-10
+"Orellana"	"La Joya de los Sachas"	321	2020-11-10
+"Orellana"	"Loreto"	70	2020-11-10
+"Orellana"	"Orellana"	1272	2020-11-10
+"Orellana"	"Aguarico"	344	2020-11-11
+"Orellana"	"La Joya de los Sachas"	324	2020-11-11
+"Orellana"	"Loreto"	70	2020-11-11
+"Orellana"	"Orellana"	1277	2020-11-11
+"Orellana"	"Aguarico"	344	2020-11-12
+"Orellana"	"La Joya de los Sachas"	324	2020-11-12
+"Orellana"	"Loreto"	70	2020-11-12
+"Orellana"	"Orellana"	1289	2020-11-12
+"Orellana"	"Aguarico"	344	2020-11-13
+"Orellana"	"La Joya de los Sachas"	325	2020-11-13
+"Orellana"	"Loreto"	70	2020-11-13
+"Orellana"	"Orellana"	1293	2020-11-13
+"Orellana"	"Aguarico"	344	2020-11-14
+"Orellana"	"La Joya de los Sachas"	326	2020-11-14
+"Orellana"	"Loreto"	70	2020-11-14
+"Orellana"	"Orellana"	1297	2020-11-14
+"Orellana"	"Aguarico"	344	2020-11-15
+"Orellana"	"La Joya de los Sachas"	326	2020-11-15
+"Orellana"	"Loreto"	70	2020-11-15
+"Orellana"	"Orellana"	1298	2020-11-15
+"Orellana"	"Aguarico"	344	2020-11-16
+"Orellana"	"La Joya de los Sachas"	326	2020-11-16
+"Orellana"	"Loreto"	70	2020-11-16
+"Orellana"	"Orellana"	1299	2020-11-16
+"Orellana"	"Aguarico"	344	2020-11-17
+"Orellana"	"La Joya de los Sachas"	326	2020-11-17
+"Orellana"	"Loreto"	70	2020-11-17
+"Orellana"	"Orellana"	1300	2020-11-17
+"Orellana"	"Aguarico"	344	2020-11-18
+"Orellana"	"La Joya de los Sachas"	329	2020-11-18
+"Orellana"	"Loreto"	70	2020-11-18
+"Orellana"	"Orellana"	1304	2020-11-18
+"Orellana"	"Aguarico"	344	2020-11-19
+"Orellana"	"La Joya de los Sachas"	330	2020-11-19
+"Orellana"	"Loreto"	70	2020-11-19
+"Orellana"	"Orellana"	1306	2020-11-19
+"Orellana"	"Aguarico"	344	2020-11-20
+"Orellana"	"La Joya de los Sachas"	332	2020-11-20
+"Orellana"	"Loreto"	70	2020-11-20
+"Orellana"	"Orellana"	1306	2020-11-20
+"Orellana"	"Aguarico"	344	2020-11-21
+"Orellana"	"La Joya de los Sachas"	332	2020-11-21
+"Orellana"	"Loreto"	70	2020-11-21
+"Orellana"	"Orellana"	1306	2020-11-21
+"Orellana"	"Aguarico"	344	2020-11-22
+"Orellana"	"La Joya de los Sachas"	332	2020-11-22
+"Orellana"	"Loreto"	70	2020-11-22
+"Orellana"	"Orellana"	1316	2020-11-22
+"Orellana"	"Aguarico"	344	2020-11-23
+"Orellana"	"La Joya de los Sachas"	332	2020-11-23
+"Orellana"	"Loreto"	70	2020-11-23
+"Orellana"	"Orellana"	1317	2020-11-23
+"Orellana"	"Aguarico"	344	2020-11-24
+"Orellana"	"La Joya de los Sachas"	332	2020-11-24
+"Orellana"	"Loreto"	70	2020-11-24
+"Orellana"	"Orellana"	1317	2020-11-24
+"Orellana"	"Aguarico"	344	2020-11-25
+"Orellana"	"La Joya de los Sachas"	332	2020-11-25
+"Orellana"	"Loreto"	70	2020-11-25
+"Orellana"	"Orellana"	1317	2020-11-25
+"Orellana"	"Aguarico"	344	2020-11-26
+"Orellana"	"La Joya de los Sachas"	332	2020-11-26
+"Orellana"	"Loreto"	70	2020-11-26
+"Orellana"	"Orellana"	1317	2020-11-26
+"Orellana"	"Aguarico"	344	2020-11-27
+"Orellana"	"La Joya de los Sachas"	333	2020-11-27
+"Orellana"	"Loreto"	70	2020-11-27
+"Orellana"	"Orellana"	1317	2020-11-27
+"Orellana"	"Aguarico"	344	2020-11-28
+"Orellana"	"La Joya de los Sachas"	333	2020-11-28
+"Orellana"	"Loreto"	70	2020-11-28
+"Orellana"	"Orellana"	1317	2020-11-28
+"Orellana"	"Aguarico"	344	2020-11-29
+"Orellana"	"La Joya de los Sachas"	333	2020-11-29
+"Orellana"	"Loreto"	70	2020-11-29
+"Orellana"	"Orellana"	1317	2020-11-29
+"Orellana"	"Aguarico"	344	2020-11-30
+"Orellana"	"La Joya de los Sachas"	333	2020-11-30
+"Orellana"	"Loreto"	70	2020-11-30
+"Orellana"	"Orellana"	1317	2020-11-30
+"Orellana"	"Aguarico"	344	2020-12-01
+"Orellana"	"La Joya de los Sachas"	333	2020-12-01
+"Orellana"	"Loreto"	70	2020-12-01
+"Orellana"	"Orellana"	1317	2020-12-01
+"Orellana"	"Aguarico"	344	2020-12-02
+"Orellana"	"La Joya de los Sachas"	334	2020-12-02
+"Orellana"	"Loreto"	70	2020-12-02
+"Orellana"	"Orellana"	1318	2020-12-02
+"Orellana"	"Aguarico"	344	2020-12-03
+"Orellana"	"La Joya de los Sachas"	334	2020-12-03
+"Orellana"	"Loreto"	70	2020-12-03
+"Orellana"	"Orellana"	1318	2020-12-03
+"Orellana"	"Aguarico"	344	2020-12-04
+"Orellana"	"La Joya de los Sachas"	337	2020-12-04
+"Orellana"	"Loreto"	70	2020-12-04
+"Orellana"	"Orellana"	1345	2020-12-04
+"Orellana"	"Aguarico"	344	2020-12-05
+"Orellana"	"La Joya de los Sachas"	337	2020-12-05
+"Orellana"	"Loreto"	70	2020-12-05
+"Orellana"	"Orellana"	1345	2020-12-05
+"Orellana"	"Aguarico"	344	2020-12-06
+"Orellana"	"La Joya de los Sachas"	337	2020-12-06
+"Orellana"	"Loreto"	70	2020-12-06
+"Orellana"	"Orellana"	1345	2020-12-06
+"Orellana"	"Aguarico"	344	2020-12-07
+"Orellana"	"La Joya de los Sachas"	337	2020-12-07
+"Orellana"	"Loreto"	70	2020-12-07
+"Orellana"	"Orellana"	1345	2020-12-07
+"Orellana"	"Aguarico"	344	2020-12-08
+"Orellana"	"La Joya de los Sachas"	337	2020-12-08
+"Orellana"	"Loreto"	70	2020-12-08
+"Orellana"	"Orellana"	1345	2020-12-08
+"Orellana"	"Aguarico"	344	2020-12-09
+"Orellana"	"La Joya de los Sachas"	337	2020-12-09
+"Orellana"	"Loreto"	70	2020-12-09
+"Orellana"	"Orellana"	1345	2020-12-09
+"Orellana"	"Aguarico"	344	2020-12-10
+"Orellana"	"La Joya de los Sachas"	337	2020-12-10
+"Orellana"	"Loreto"	70	2020-12-10
+"Orellana"	"Orellana"	1345	2020-12-10
+"Orellana"	"Aguarico"	344	2020-12-11
+"Orellana"	"La Joya de los Sachas"	337	2020-12-11
+"Orellana"	"Loreto"	70	2020-12-11
+"Orellana"	"Orellana"	1345	2020-12-11
+"Orellana"	"Aguarico"	344	2020-12-12
+"Orellana"	"La Joya de los Sachas"	338	2020-12-12
+"Orellana"	"Loreto"	71	2020-12-12
+"Orellana"	"Orellana"	1347	2020-12-12
+"Orellana"	"Aguarico"	344	2020-12-13
+"Orellana"	"La Joya de los Sachas"	338	2020-12-13
+"Orellana"	"Loreto"	71	2020-12-13
+"Orellana"	"Orellana"	1347	2020-12-13
+"Orellana"	"Aguarico"	344	2020-12-14
+"Orellana"	"La Joya de los Sachas"	338	2020-12-14
+"Orellana"	"Loreto"	71	2020-12-14
+"Orellana"	"Orellana"	1347	2020-12-14
+"Orellana"	"Aguarico"	344	2020-12-15
+"Orellana"	"La Joya de los Sachas"	339	2020-12-15
+"Orellana"	"Loreto"	71	2020-12-15
+"Orellana"	"Orellana"	1347	2020-12-15
+"Orellana"	"Aguarico"	344	2020-12-16
+"Orellana"	"La Joya de los Sachas"	339	2020-12-16
+"Orellana"	"Loreto"	71	2020-12-16
+"Orellana"	"Orellana"	1347	2020-12-16
+"Orellana"	"Aguarico"	344	2020-12-17
+"Orellana"	"La Joya de los Sachas"	339	2020-12-17
+"Orellana"	"Loreto"	71	2020-12-17
+"Orellana"	"Orellana"	1347	2020-12-17
+"Orellana"	"Aguarico"	344	2020-12-18
+"Orellana"	"La Joya de los Sachas"	339	2020-12-18
+"Orellana"	"Loreto"	71	2020-12-18
+"Orellana"	"Orellana"	1348	2020-12-18
+"Orellana"	"Aguarico"	344	2020-12-19
+"Orellana"	"La Joya de los Sachas"	339	2020-12-19
+"Orellana"	"Loreto"	71	2020-12-19
+"Orellana"	"Orellana"	1349	2020-12-19
+"Orellana"	"Aguarico"	344	2020-12-20
+"Orellana"	"La Joya de los Sachas"	339	2020-12-20
+"Orellana"	"Loreto"	71	2020-12-20
+"Orellana"	"Orellana"	1349	2020-12-20
+"Orellana"	"Aguarico"	344	2020-12-21
+"Orellana"	"La Joya de los Sachas"	339	2020-12-21
+"Orellana"	"Loreto"	71	2020-12-21
+"Orellana"	"Orellana"	1349	2020-12-21
+"Orellana"	"Aguarico"	344	2020-12-22
+"Orellana"	"La Joya de los Sachas"	339	2020-12-22
+"Orellana"	"Loreto"	71	2020-12-22
+"Orellana"	"Orellana"	1349	2020-12-22
+"Orellana"	"Aguarico"	344	2020-12-23
+"Orellana"	"La Joya de los Sachas"	339	2020-12-23
+"Orellana"	"Loreto"	71	2020-12-23
+"Orellana"	"Orellana"	1349	2020-12-23
+"Orellana"	"Aguarico"	344	2020-12-24
+"Orellana"	"La Joya de los Sachas"	339	2020-12-24
+"Orellana"	"Loreto"	71	2020-12-24
+"Orellana"	"Orellana"	1349	2020-12-24
+"Orellana"	"Aguarico"	344	2020-12-25
+"Orellana"	"La Joya de los Sachas"	340	2020-12-25
+"Orellana"	"Loreto"	72	2020-12-25
+"Orellana"	"Orellana"	1350	2020-12-25
+"Orellana"	"Aguarico"	344	2020-12-26
+"Orellana"	"La Joya de los Sachas"	340	2020-12-26
+"Orellana"	"Loreto"	72	2020-12-26
+"Orellana"	"Orellana"	1350	2020-12-26
+"Orellana"	"Aguarico"	344	2020-12-27
+"Orellana"	"La Joya de los Sachas"	340	2020-12-27
+"Orellana"	"Loreto"	72	2020-12-27
+"Orellana"	"Orellana"	1350	2020-12-27
+"Orellana"	"Aguarico"	344	2020-12-28
+"Orellana"	"La Joya de los Sachas"	341	2020-12-28
+"Orellana"	"Loreto"	72	2020-12-28
+"Orellana"	"Orellana"	1353	2020-12-28
+"Orellana"	"Aguarico"	344	2020-12-29
+"Orellana"	"La Joya de los Sachas"	341	2020-12-29
+"Orellana"	"Loreto"	72	2020-12-29
+"Orellana"	"Orellana"	1353	2020-12-29
+"Orellana"	"Aguarico"	344	2020-12-30
+"Orellana"	"La Joya de los Sachas"	341	2020-12-30
+"Orellana"	"Loreto"	72	2020-12-30
+"Orellana"	"Orellana"	1353	2020-12-30
+"Orellana"	"Aguarico"	344	2020-12-31
+"Orellana"	"La Joya de los Sachas"	341	2020-12-31
+"Orellana"	"Loreto"	72	2020-12-31
+"Orellana"	"Orellana"	1353	2020-12-31
+"Orellana"	"Aguarico"	344	2021-01-01
+"Orellana"	"La Joya de los Sachas"	341	2021-01-01
+"Orellana"	"Loreto"	72	2021-01-01
+"Orellana"	"Orellana"	1356	2021-01-01
+"Orellana"	"Aguarico"	344	2021-01-02
+"Orellana"	"La Joya de los Sachas"	342	2021-01-02
+"Orellana"	"Loreto"	72	2021-01-02
+"Orellana"	"Orellana"	1360	2021-01-02
+"Orellana"	"Aguarico"	344	2021-01-03
+"Orellana"	"La Joya de los Sachas"	342	2021-01-03
+"Orellana"	"Loreto"	72	2021-01-03
+"Orellana"	"Orellana"	1360	2021-01-03
+"Orellana"	"Aguarico"	344	2021-01-04
+"Orellana"	"La Joya de los Sachas"	342	2021-01-04
+"Orellana"	"Loreto"	72	2021-01-04
+"Orellana"	"Orellana"	1360	2021-01-04
+"Orellana"	"Aguarico"	344	2021-01-05
+"Orellana"	"La Joya de los Sachas"	342	2021-01-05
+"Orellana"	"Loreto"	72	2021-01-05
+"Orellana"	"Orellana"	1360	2021-01-05
+"Orellana"	"Aguarico"	345	2021-01-06
+"Orellana"	"La Joya de los Sachas"	342	2021-01-06
+"Orellana"	"Loreto"	72	2021-01-06
+"Orellana"	"Orellana"	1361	2021-01-06
+"Orellana"	"Aguarico"	345	2021-01-07
+"Orellana"	"La Joya de los Sachas"	342	2021-01-07
+"Orellana"	"Loreto"	74	2021-01-07
+"Orellana"	"Orellana"	1367	2021-01-07
+"Orellana"	"Aguarico"	345	2021-01-08
+"Orellana"	"La Joya de los Sachas"	342	2021-01-08
+"Orellana"	"Loreto"	74	2021-01-08
+"Orellana"	"Orellana"	1370	2021-01-08
+"Orellana"	"Aguarico"	345	2021-01-09
+"Orellana"	"La Joya de los Sachas"	342	2021-01-09
+"Orellana"	"Loreto"	74	2021-01-09
+"Orellana"	"Orellana"	1370	2021-01-09
+"Orellana"	"Aguarico"	345	2021-01-10
+"Orellana"	"La Joya de los Sachas"	342	2021-01-10
+"Orellana"	"Loreto"	74	2021-01-10
+"Orellana"	"Orellana"	1370	2021-01-10
+"Orellana"	"Aguarico"	345	2021-01-11
+"Orellana"	"La Joya de los Sachas"	342	2021-01-11
+"Orellana"	"Loreto"	74	2021-01-11
+"Orellana"	"Orellana"	1370	2021-01-11
+"Orellana"	"Aguarico"	345	2021-01-12
+"Orellana"	"La Joya de los Sachas"	342	2021-01-12
+"Orellana"	"Loreto"	74	2021-01-12
+"Orellana"	"Orellana"	1370	2021-01-12
+"Orellana"	"Aguarico"	345	2021-01-13
+"Orellana"	"La Joya de los Sachas"	342	2021-01-13
+"Orellana"	"Loreto"	75	2021-01-13
+"Orellana"	"Orellana"	1374	2021-01-13
+"Orellana"	"Aguarico"	345	2021-01-14
+"Orellana"	"La Joya de los Sachas"	344	2021-01-14
+"Orellana"	"Loreto"	75	2021-01-14
+"Orellana"	"Orellana"	1386	2021-01-14
+"Orellana"	"Aguarico"	345	2021-01-15
+"Orellana"	"La Joya de los Sachas"	346	2021-01-15
+"Orellana"	"Loreto"	75	2021-01-15
+"Orellana"	"Orellana"	1387	2021-01-15
+"Orellana"	"Aguarico"	345	2021-01-16
+"Orellana"	"La Joya de los Sachas"	347	2021-01-16
+"Orellana"	"Loreto"	75	2021-01-16
+"Orellana"	"Orellana"	1390	2021-01-16
+"Orellana"	"Aguarico"	345	2021-01-17
+"Orellana"	"La Joya de los Sachas"	347	2021-01-17
+"Orellana"	"Loreto"	75	2021-01-17
+"Orellana"	"Orellana"	1390	2021-01-17
+"Orellana"	"Aguarico"	345	2021-01-18
+"Orellana"	"La Joya de los Sachas"	347	2021-01-18
+"Orellana"	"Loreto"	75	2021-01-18
+"Orellana"	"Orellana"	1390	2021-01-18
+"Orellana"	"Aguarico"	345	2021-01-19
+"Orellana"	"La Joya de los Sachas"	347	2021-01-19
+"Orellana"	"Loreto"	75	2021-01-19
+"Orellana"	"Orellana"	1390	2021-01-19
+"Orellana"	"Aguarico"	345	2021-01-20
+"Orellana"	"La Joya de los Sachas"	347	2021-01-20
+"Orellana"	"Loreto"	75	2021-01-20
+"Orellana"	"Orellana"	1392	2021-01-20
+"Orellana"	"Aguarico"	345	2021-01-21
+"Orellana"	"La Joya de los Sachas"	347	2021-01-21
+"Orellana"	"Loreto"	75	2021-01-21
+"Orellana"	"Orellana"	1394	2021-01-21
+"Orellana"	"Aguarico"	345	2021-01-22
+"Orellana"	"La Joya de los Sachas"	347	2021-01-22
+"Orellana"	"Loreto"	75	2021-01-22
+"Orellana"	"Orellana"	1394	2021-01-22
+"Orellana"	"Aguarico"	345	2021-01-23
+"Orellana"	"La Joya de los Sachas"	349	2021-01-23
+"Orellana"	"Loreto"	75	2021-01-23
+"Orellana"	"Orellana"	1396	2021-01-23
+"Orellana"	"Aguarico"	345	2021-01-24
+"Orellana"	"La Joya de los Sachas"	349	2021-01-24
+"Orellana"	"Loreto"	75	2021-01-24
+"Orellana"	"Orellana"	1397	2021-01-24
+"Orellana"	"Aguarico"	345	2021-01-25
+"Orellana"	"La Joya de los Sachas"	349	2021-01-25
+"Orellana"	"Loreto"	76	2021-01-25
+"Orellana"	"Orellana"	1397	2021-01-25
+"Orellana"	"Aguarico"	345	2021-01-26
+"Orellana"	"La Joya de los Sachas"	349	2021-01-26
+"Orellana"	"Loreto"	76	2021-01-26
+"Orellana"	"Orellana"	1397	2021-01-26
+"Orellana"	"Aguarico"	345	2021-01-27
+"Orellana"	"La Joya de los Sachas"	350	2021-01-27
+"Orellana"	"Loreto"	76	2021-01-27
+"Orellana"	"Orellana"	1399	2021-01-27
+"Orellana"	"Aguarico"	345	2021-01-28
+"Orellana"	"La Joya de los Sachas"	355	2021-01-28
+"Orellana"	"Loreto"	76	2021-01-28
+"Orellana"	"Orellana"	1405	2021-01-28
+"Orellana"	"Aguarico"	345	2021-01-29
+"Orellana"	"La Joya de los Sachas"	355	2021-01-29
+"Orellana"	"Loreto"	76	2021-01-29
+"Orellana"	"Orellana"	1405	2021-01-29
+"Orellana"	"Aguarico"	345	2021-01-30
+"Orellana"	"La Joya de los Sachas"	362	2021-01-30
+"Orellana"	"Loreto"	76	2021-01-30
+"Orellana"	"Orellana"	1414	2021-01-30
+"Orellana"	"Aguarico"	345	2021-01-31
+"Orellana"	"La Joya de los Sachas"	362	2021-01-31
+"Orellana"	"Loreto"	76	2021-01-31
+"Orellana"	"Orellana"	1415	2021-01-31
+"Orellana"	"Aguarico"	345	2021-02-01
+"Orellana"	"La Joya de los Sachas"	362	2021-02-01
+"Orellana"	"Loreto"	76	2021-02-01
+"Orellana"	"Orellana"	1415	2021-02-01
+"Orellana"	"Aguarico"	345	2021-02-02
+"Orellana"	"La Joya de los Sachas"	362	2021-02-02
+"Orellana"	"Loreto"	76	2021-02-02
+"Orellana"	"Orellana"	1415	2021-02-02
+"Orellana"	"Aguarico"	345	2021-02-03
+"Orellana"	"La Joya de los Sachas"	362	2021-02-03
+"Orellana"	"Loreto"	76	2021-02-03
+"Orellana"	"Orellana"	1415	2021-02-03
+"Orellana"	"Aguarico"	345	2021-02-04
+"Orellana"	"La Joya de los Sachas"	365	2021-02-04
+"Orellana"	"Loreto"	76	2021-02-04
+"Orellana"	"Orellana"	1418	2021-02-04
+"Orellana"	"Aguarico"	345	2021-02-05
+"Orellana"	"La Joya de los Sachas"	366	2021-02-05
+"Orellana"	"Loreto"	76	2021-02-05
+"Orellana"	"Orellana"	1418	2021-02-05
+"Orellana"	"Aguarico"	345	2021-02-06
+"Orellana"	"La Joya de los Sachas"	366	2021-02-06
+"Orellana"	"Loreto"	76	2021-02-06
+"Orellana"	"Orellana"	1420	2021-02-06
+"Orellana"	"Aguarico"	345	2021-02-07
+"Orellana"	"La Joya de los Sachas"	367	2021-02-07
+"Orellana"	"Loreto"	78	2021-02-07
+"Orellana"	"Orellana"	1430	2021-02-07
+"Orellana"	"Aguarico"	345	2021-02-08
+"Orellana"	"La Joya de los Sachas"	387	2021-02-08
+"Orellana"	"Loreto"	78	2021-02-08
+"Orellana"	"Orellana"	1440	2021-02-08
+"Orellana"	"Aguarico"	345	2021-02-09
+"Orellana"	"La Joya de los Sachas"	389	2021-02-09
+"Orellana"	"Loreto"	78	2021-02-09
+"Orellana"	"Orellana"	1442	2021-02-09
+"Orellana"	"Aguarico"	345	2021-02-10
+"Orellana"	"La Joya de los Sachas"	391	2021-02-10
+"Orellana"	"Loreto"	78	2021-02-10
+"Orellana"	"Orellana"	1442	2021-02-10
+"Orellana"	"Aguarico"	346	2021-02-11
+"Orellana"	"La Joya de los Sachas"	396	2021-02-11
+"Orellana"	"Loreto"	78	2021-02-11
+"Orellana"	"Orellana"	1449	2021-02-11
+"Orellana"	"Aguarico"	346	2021-02-12
+"Orellana"	"La Joya de los Sachas"	396	2021-02-12
+"Orellana"	"Loreto"	78	2021-02-12
+"Orellana"	"Orellana"	1449	2021-02-12
+"Orellana"	"Aguarico"	346	2021-02-13
+"Orellana"	"La Joya de los Sachas"	396	2021-02-13
+"Orellana"	"Loreto"	78	2021-02-13
+"Orellana"	"Orellana"	1456	2021-02-13
+"Orellana"	"Aguarico"	346	2021-02-14
+"Orellana"	"La Joya de los Sachas"	397	2021-02-14
+"Orellana"	"Loreto"	78	2021-02-14
+"Orellana"	"Orellana"	1462	2021-02-14
+"Orellana"	"Aguarico"	346	2021-02-15
+"Orellana"	"La Joya de los Sachas"	397	2021-02-15
+"Orellana"	"Loreto"	78	2021-02-15
+"Orellana"	"Orellana"	1462	2021-02-15
+"Orellana"	"Aguarico"	346	2021-02-16
+"Orellana"	"La Joya de los Sachas"	397	2021-02-16
+"Orellana"	"Loreto"	78	2021-02-16
+"Orellana"	"Orellana"	1462	2021-02-16
+"Orellana"	"Aguarico"	346	2021-02-17
+"Orellana"	"La Joya de los Sachas"	399	2021-02-17
+"Orellana"	"Loreto"	79	2021-02-17
+"Orellana"	"Orellana"	1466	2021-02-17
+"Orellana"	"Aguarico"	346	2021-02-18
+"Orellana"	"La Joya de los Sachas"	399	2021-02-18
+"Orellana"	"Loreto"	79	2021-02-18
+"Orellana"	"Orellana"	1466	2021-02-18
+"Orellana"	"Aguarico"	346	2021-02-19
+"Orellana"	"La Joya de los Sachas"	400	2021-02-19
+"Orellana"	"Loreto"	79	2021-02-19
+"Orellana"	"Orellana"	1466	2021-02-19
+"Orellana"	"Aguarico"	346	2021-02-20
+"Orellana"	"La Joya de los Sachas"	401	2021-02-20
+"Orellana"	"Loreto"	79	2021-02-20
+"Orellana"	"Orellana"	1468	2021-02-20
+"Orellana"	"Aguarico"	349	2021-02-21
+"Orellana"	"La Joya de los Sachas"	402	2021-02-21
+"Orellana"	"Loreto"	79	2021-02-21
+"Orellana"	"Orellana"	1468	2021-02-21
+"Orellana"	"Aguarico"	349	2021-02-22
+"Orellana"	"La Joya de los Sachas"	402	2021-02-22
+"Orellana"	"Loreto"	79	2021-02-22
+"Orellana"	"Orellana"	1468	2021-02-22
+"Orellana"	"Aguarico"	349	2021-02-23
+"Orellana"	"La Joya de los Sachas"	402	2021-02-23
+"Orellana"	"Loreto"	79	2021-02-23
+"Orellana"	"Orellana"	1468	2021-02-23
+"Orellana"	"Aguarico"	349	2021-02-24
+"Orellana"	"La Joya de los Sachas"	405	2021-02-24
+"Orellana"	"Loreto"	79	2021-02-24
+"Orellana"	"Orellana"	1470	2021-02-24
+"Orellana"	"Aguarico"	349	2021-02-25
+"Orellana"	"La Joya de los Sachas"	407	2021-02-25
+"Orellana"	"Loreto"	79	2021-02-25
+"Orellana"	"Orellana"	1474	2021-02-25
+"Orellana"	"Aguarico"	349	2021-02-26
+"Orellana"	"La Joya de los Sachas"	407	2021-02-26
+"Orellana"	"Loreto"	79	2021-02-26
+"Orellana"	"Orellana"	1474	2021-02-26
+"Orellana"	"Aguarico"	349	2021-02-27
+"Orellana"	"La Joya de los Sachas"	409	2021-02-27
+"Orellana"	"Loreto"	79	2021-02-27
+"Orellana"	"Orellana"	1478	2021-02-27
+"Orellana"	"Aguarico"	349	2021-02-28
+"Orellana"	"La Joya de los Sachas"	412	2021-02-28
+"Orellana"	"Loreto"	80	2021-02-28
+"Orellana"	"Orellana"	1482	2021-02-28
+"Orellana"	"Aguarico"	349	2021-03-01
+"Orellana"	"La Joya de los Sachas"	412	2021-03-01
+"Orellana"	"Loreto"	80	2021-03-01
+"Orellana"	"Orellana"	1482	2021-03-01
+"Orellana"	"Aguarico"	349	2021-03-02
+"Orellana"	"La Joya de los Sachas"	412	2021-03-02
+"Orellana"	"Loreto"	80	2021-03-02
+"Orellana"	"Orellana"	1482	2021-03-02
+"Orellana"	"Aguarico"	350	2021-03-03
+"Orellana"	"La Joya de los Sachas"	413	2021-03-03
+"Orellana"	"Loreto"	80	2021-03-03
+"Orellana"	"Orellana"	1483	2021-03-03
+"Orellana"	"Aguarico"	350	2021-03-04
+"Orellana"	"La Joya de los Sachas"	413	2021-03-04
+"Orellana"	"Loreto"	80	2021-03-04
+"Orellana"	"Orellana"	1483	2021-03-04
+"Orellana"	"Aguarico"	350	2021-03-05
+"Orellana"	"La Joya de los Sachas"	413	2021-03-05
+"Orellana"	"Loreto"	80	2021-03-05
+"Orellana"	"Orellana"	1483	2021-03-05
+"Orellana"	"Aguarico"	350	2021-03-06
+"Orellana"	"La Joya de los Sachas"	413	2021-03-06
+"Orellana"	"Loreto"	80	2021-03-06
+"Orellana"	"Orellana"	1490	2021-03-06
+"Orellana"	"Aguarico"	350	2021-03-07
+"Orellana"	"La Joya de los Sachas"	418	2021-03-07
+"Orellana"	"Loreto"	80	2021-03-07
+"Orellana"	"Orellana"	1500	2021-03-07
+"Orellana"	"Aguarico"	350	2021-03-08
+"Orellana"	"La Joya de los Sachas"	418	2021-03-08
+"Orellana"	"Loreto"	80	2021-03-08
+"Orellana"	"Orellana"	1500	2021-03-08
+"Orellana"	"Aguarico"	350	2021-03-09
+"Orellana"	"La Joya de los Sachas"	418	2021-03-09
+"Orellana"	"Loreto"	80	2021-03-09
+"Orellana"	"Orellana"	1500	2021-03-09
+"Orellana"	"Aguarico"	350	2021-03-10
+"Orellana"	"La Joya de los Sachas"	419	2021-03-10
+"Orellana"	"Loreto"	81	2021-03-10
+"Orellana"	"Orellana"	1501	2021-03-10
+"Orellana"	"Aguarico"	351	2021-03-11
+"Orellana"	"La Joya de los Sachas"	419	2021-03-11
+"Orellana"	"Loreto"	81	2021-03-11
+"Orellana"	"Orellana"	1511	2021-03-11
+"Orellana"	"Aguarico"	351	2021-03-12
+"Orellana"	"La Joya de los Sachas"	419	2021-03-12
+"Orellana"	"Loreto"	81	2021-03-12
+"Orellana"	"Orellana"	1515	2021-03-12
+"Orellana"	"Aguarico"	351	2021-03-13
+"Orellana"	"La Joya de los Sachas"	422	2021-03-13
+"Orellana"	"Loreto"	81	2021-03-13
+"Orellana"	"Orellana"	1520	2021-03-13
+"Orellana"	"Aguarico"	351	2021-03-14
+"Orellana"	"La Joya de los Sachas"	422	2021-03-14
+"Orellana"	"Loreto"	81	2021-03-14
+"Orellana"	"Orellana"	1520	2021-03-14
+"Orellana"	"Aguarico"	351	2021-03-15
+"Orellana"	"La Joya de los Sachas"	422	2021-03-15
+"Orellana"	"Loreto"	81	2021-03-15
+"Orellana"	"Orellana"	1520	2021-03-15
+"Orellana"	"Aguarico"	351	2021-03-16
+"Orellana"	"La Joya de los Sachas"	423	2021-03-16
+"Orellana"	"Loreto"	81	2021-03-16
+"Orellana"	"Orellana"	1520	2021-03-16
+"Orellana"	"Aguarico"	351	2021-03-17
+"Orellana"	"La Joya de los Sachas"	429	2021-03-17
+"Orellana"	"Loreto"	81	2021-03-17
+"Orellana"	"Orellana"	1537	2021-03-17
+"Orellana"	"Aguarico"	351	2021-03-18
+"Orellana"	"La Joya de los Sachas"	430	2021-03-18
+"Orellana"	"Loreto"	81	2021-03-18
+"Orellana"	"Orellana"	1546	2021-03-18
+"Orellana"	"Aguarico"	351	2021-03-19
+"Orellana"	"La Joya de los Sachas"	436	2021-03-19
+"Orellana"	"Loreto"	81	2021-03-19
+"Orellana"	"Orellana"	1560	2021-03-19
+"Orellana"	"Aguarico"	351	2021-03-20
+"Orellana"	"La Joya de los Sachas"	436	2021-03-20
+"Orellana"	"Loreto"	81	2021-03-20
+"Orellana"	"Orellana"	1564	2021-03-20
+"Orellana"	"Aguarico"	351	2021-03-21
+"Orellana"	"La Joya de los Sachas"	436	2021-03-21
+"Orellana"	"Loreto"	81	2021-03-21
+"Orellana"	"Orellana"	1569	2021-03-21
+"Orellana"	"Aguarico"	351	2021-03-22
+"Orellana"	"La Joya de los Sachas"	436	2021-03-22
+"Orellana"	"Loreto"	81	2021-03-22
+"Orellana"	"Orellana"	1569	2021-03-22
+"Orellana"	"Aguarico"	351	2021-03-23
+"Orellana"	"La Joya de los Sachas"	436	2021-03-23
+"Orellana"	"Loreto"	81	2021-03-23
+"Orellana"	"Orellana"	1572	2021-03-23
+"Orellana"	"Aguarico"	351	2021-03-24
+"Orellana"	"La Joya de los Sachas"	437	2021-03-24
+"Orellana"	"Loreto"	81	2021-03-24
+"Orellana"	"Orellana"	1578	2021-03-24
+"Orellana"	"Aguarico"	351	2021-03-25
+"Orellana"	"La Joya de los Sachas"	441	2021-03-25
+"Orellana"	"Loreto"	82	2021-03-25
+"Orellana"	"Orellana"	1605	2021-03-25
+"Orellana"	"Aguarico"	351	2021-03-26
+"Orellana"	"La Joya de los Sachas"	442	2021-03-26
+"Orellana"	"Loreto"	83	2021-03-26
+"Orellana"	"Orellana"	1610	2021-03-26
+"Orellana"	"Aguarico"	351	2021-03-27
+"Orellana"	"La Joya de los Sachas"	444	2021-03-27
+"Orellana"	"Loreto"	84	2021-03-27
+"Orellana"	"Orellana"	1610	2021-03-27
+"Orellana"	"Aguarico"	351	2021-03-28
+"Orellana"	"La Joya de los Sachas"	445	2021-03-28
+"Orellana"	"Loreto"	84	2021-03-28
+"Orellana"	"Orellana"	1610	2021-03-28
+"Orellana"	"Aguarico"	351	2021-03-29
+"Orellana"	"La Joya de los Sachas"	446	2021-03-29
+"Orellana"	"Loreto"	84	2021-03-29
+"Orellana"	"Orellana"	1611	2021-03-29
+"Orellana"	"Aguarico"	351	2021-03-30
+"Orellana"	"La Joya de los Sachas"	450	2021-03-30
+"Orellana"	"Loreto"	84	2021-03-30
+"Orellana"	"Orellana"	1615	2021-03-30
+"Orellana"	"Aguarico"	351	2021-03-31
+"Orellana"	"La Joya de los Sachas"	451	2021-03-31
+"Orellana"	"Loreto"	85	2021-03-31
+"Orellana"	"Orellana"	1619	2021-03-31
+"Orellana"	"Aguarico"	351	2021-04-01
+"Orellana"	"La Joya de los Sachas"	452	2021-04-01
+"Orellana"	"Loreto"	85	2021-04-01
+"Orellana"	"Orellana"	1624	2021-04-01
+"Orellana"	"Aguarico"	351	2021-04-02
+"Orellana"	"La Joya de los Sachas"	453	2021-04-02
+"Orellana"	"Loreto"	85	2021-04-02
+"Orellana"	"Orellana"	1637	2021-04-02
+"Orellana"	"Aguarico"	351	2021-04-03
+"Orellana"	"La Joya de los Sachas"	453	2021-04-03
+"Orellana"	"Loreto"	87	2021-04-03
+"Orellana"	"Orellana"	1651	2021-04-03
+"Orellana"	"Aguarico"	351	2021-04-04
+"Orellana"	"La Joya de los Sachas"	455	2021-04-04
+"Orellana"	"Loreto"	87	2021-04-04
+"Orellana"	"Orellana"	1651	2021-04-04
+"Orellana"	"Aguarico"	351	2021-04-05
+"Orellana"	"La Joya de los Sachas"	456	2021-04-05
+"Orellana"	"Loreto"	87	2021-04-05
+"Orellana"	"Orellana"	1651	2021-04-05
+"Orellana"	"Aguarico"	354	2021-04-06
+"Orellana"	"La Joya de los Sachas"	457	2021-04-06
+"Orellana"	"Loreto"	87	2021-04-06
+"Orellana"	"Orellana"	1652	2021-04-06
+"Orellana"	"Aguarico"	354	2021-04-07
+"Orellana"	"La Joya de los Sachas"	457	2021-04-07
+"Orellana"	"Loreto"	87	2021-04-07
+"Orellana"	"Orellana"	1655	2021-04-07
+"Orellana"	"Aguarico"	354	2021-04-08
+"Orellana"	"La Joya de los Sachas"	458	2021-04-08
+"Orellana"	"Loreto"	87	2021-04-08
+"Orellana"	"Orellana"	1655	2021-04-08
+"Orellana"	"Aguarico"	354	2021-04-09
+"Orellana"	"La Joya de los Sachas"	459	2021-04-09
+"Orellana"	"Loreto"	87	2021-04-09
+"Orellana"	"Orellana"	1655	2021-04-09
+"Orellana"	"Aguarico"	354	2021-04-10
+"Orellana"	"La Joya de los Sachas"	467	2021-04-10
+"Orellana"	"Loreto"	91	2021-04-10
+"Orellana"	"Orellana"	1688	2021-04-10
+"Orellana"	"Aguarico"	354	2021-04-11
+"Orellana"	"La Joya de los Sachas"	468	2021-04-11
+"Orellana"	"Loreto"	91	2021-04-11
+"Orellana"	"Orellana"	1689	2021-04-11
+"Orellana"	"Aguarico"	354	2021-04-12
+"Orellana"	"La Joya de los Sachas"	468	2021-04-12
+"Orellana"	"Loreto"	91	2021-04-12
+"Orellana"	"Orellana"	1689	2021-04-12
+"Orellana"	"Aguarico"	354	2021-04-13
+"Orellana"	"La Joya de los Sachas"	470	2021-04-13
+"Orellana"	"Loreto"	91	2021-04-13
+"Orellana"	"Orellana"	1689	2021-04-13
+"Orellana"	"Aguarico"	354	2021-04-14
+"Orellana"	"La Joya de los Sachas"	471	2021-04-14
+"Orellana"	"Loreto"	92	2021-04-14
+"Orellana"	"Orellana"	1698	2021-04-14
+"Orellana"	"Aguarico"	355	2021-04-15
+"Orellana"	"La Joya de los Sachas"	479	2021-04-15
+"Orellana"	"Loreto"	96	2021-04-15
+"Orellana"	"Orellana"	1731	2021-04-15
+"Orellana"	"Aguarico"	374	2021-04-16
+"Orellana"	"La Joya de los Sachas"	480	2021-04-16
+"Orellana"	"Loreto"	96	2021-04-16
+"Orellana"	"Orellana"	1733	2021-04-16
+"Orellana"	"Aguarico"	375	2021-04-17
+"Orellana"	"La Joya de los Sachas"	481	2021-04-17
+"Orellana"	"Loreto"	96	2021-04-17
+"Orellana"	"Orellana"	1737	2021-04-17
+"Orellana"	"Aguarico"	375	2021-04-18
+"Orellana"	"La Joya de los Sachas"	486	2021-04-18
+"Orellana"	"Loreto"	98	2021-04-18
+"Orellana"	"Orellana"	1761	2021-04-18
+"Orellana"	"Aguarico"	375	2021-04-19
+"Orellana"	"La Joya de los Sachas"	486	2021-04-19
+"Orellana"	"Loreto"	98	2021-04-19
+"Orellana"	"Orellana"	1761	2021-04-19
+"Orellana"	"Aguarico"	375	2021-04-20
+"Orellana"	"La Joya de los Sachas"	490	2021-04-20
+"Orellana"	"Loreto"	98	2021-04-20
+"Orellana"	"Orellana"	1768	2021-04-20
+"Orellana"	"Aguarico"	375	2021-04-21
+"Orellana"	"La Joya de los Sachas"	492	2021-04-21
+"Orellana"	"Loreto"	98	2021-04-21
+"Orellana"	"Orellana"	1786	2021-04-21
+"Orellana"	"Aguarico"	375	2021-04-22
+"Orellana"	"La Joya de los Sachas"	496	2021-04-22
+"Orellana"	"Loreto"	101	2021-04-22
+"Orellana"	"Orellana"	1790	2021-04-22
+"Orellana"	"Aguarico"	376	2021-04-23
+"Orellana"	"La Joya de los Sachas"	506	2021-04-23
+"Orellana"	"Loreto"	101	2021-04-23
+"Orellana"	"Orellana"	1826	2021-04-23
+"Orellana"	"Aguarico"	376	2021-04-24
+"Orellana"	"La Joya de los Sachas"	506	2021-04-24
+"Orellana"	"Loreto"	102	2021-04-24
+"Orellana"	"Orellana"	1829	2021-04-24
+"Orellana"	"Aguarico"	376	2021-04-25
+"Orellana"	"La Joya de los Sachas"	508	2021-04-25
+"Orellana"	"Loreto"	102	2021-04-25
+"Orellana"	"Orellana"	1829	2021-04-25
+"Orellana"	"Aguarico"	376	2021-04-26
+"Orellana"	"La Joya de los Sachas"	516	2021-04-26
+"Orellana"	"Loreto"	107	2021-04-26
+"Orellana"	"Orellana"	1866	2021-04-26
+"Orellana"	"Aguarico"	376	2021-04-27
+"Orellana"	"La Joya de los Sachas"	516	2021-04-27
+"Orellana"	"Loreto"	107	2021-04-27
+"Orellana"	"Orellana"	1866	2021-04-27
+"Orellana"	"Aguarico"	376	2021-04-28
+"Orellana"	"La Joya de los Sachas"	519	2021-04-28
+"Orellana"	"Loreto"	108	2021-04-28
+"Orellana"	"Orellana"	1871	2021-04-28
+"Orellana"	"Aguarico"	376	2021-04-29
+"Orellana"	"La Joya de los Sachas"	524	2021-04-29
+"Orellana"	"Loreto"	110	2021-04-29
+"Orellana"	"Orellana"	1876	2021-04-29
+"Orellana"	"Aguarico"	376	2021-04-30
+"Orellana"	"La Joya de los Sachas"	525	2021-04-30
+"Orellana"	"Loreto"	110	2021-04-30
+"Orellana"	"Orellana"	1884	2021-04-30
+"Orellana"	"Aguarico"	376	2021-05-01
+"Orellana"	"La Joya de los Sachas"	528	2021-05-01
+"Orellana"	"Loreto"	111	2021-05-01
+"Orellana"	"Orellana"	1932	2021-05-01
+"Orellana"	"Aguarico"	377	2021-05-02
+"Orellana"	"La Joya de los Sachas"	529	2021-05-02
+"Orellana"	"Loreto"	111	2021-05-02
+"Orellana"	"Orellana"	1943	2021-05-02
+"Orellana"	"Aguarico"	377	2021-05-03
+"Orellana"	"La Joya de los Sachas"	529	2021-05-03
+"Orellana"	"Loreto"	111	2021-05-03
+"Orellana"	"Orellana"	1943	2021-05-03
+"Orellana"	"Aguarico"	377	2021-05-04
+"Orellana"	"La Joya de los Sachas"	530	2021-05-04
+"Orellana"	"Loreto"	111	2021-05-04
+"Orellana"	"Orellana"	1943	2021-05-04
+"Orellana"	"Aguarico"	377	2021-05-05
+"Orellana"	"La Joya de los Sachas"	530	2021-05-05
+"Orellana"	"Loreto"	111	2021-05-05
+"Orellana"	"Orellana"	1943	2021-05-05
+"Orellana"	"Aguarico"	377	2021-05-06
+"Orellana"	"La Joya de los Sachas"	533	2021-05-06
+"Orellana"	"Loreto"	114	2021-05-06
+"Orellana"	"Orellana"	1950	2021-05-06
+"Orellana"	"Aguarico"	377	2021-05-07
+"Orellana"	"La Joya de los Sachas"	533	2021-05-07
+"Orellana"	"Loreto"	114	2021-05-07
+"Orellana"	"Orellana"	1950	2021-05-07
+"Orellana"	"Aguarico"	378	2021-05-08
+"Orellana"	"La Joya de los Sachas"	537	2021-05-08
+"Orellana"	"Loreto"	114	2021-05-08
+"Orellana"	"Orellana"	1982	2021-05-08
+"Orellana"	"Aguarico"	378	2021-05-09
+"Orellana"	"La Joya de los Sachas"	538	2021-05-09
+"Orellana"	"Loreto"	114	2021-05-09
+"Orellana"	"Orellana"	1982	2021-05-09
+"Orellana"	"Aguarico"	378	2021-05-10
+"Orellana"	"La Joya de los Sachas"	538	2021-05-10
+"Orellana"	"Loreto"	114	2021-05-10
+"Orellana"	"Orellana"	1982	2021-05-10
+"Orellana"	"Aguarico"	378	2021-05-11
+"Orellana"	"La Joya de los Sachas"	539	2021-05-11
+"Orellana"	"Loreto"	114	2021-05-11
+"Orellana"	"Orellana"	1984	2021-05-11
+"Orellana"	"Aguarico"	378	2021-05-12
+"Orellana"	"La Joya de los Sachas"	539	2021-05-12
+"Orellana"	"Loreto"	114	2021-05-12
+"Orellana"	"Orellana"	1989	2021-05-12
+"Orellana"	"Aguarico"	378	2021-05-13
+"Orellana"	"La Joya de los Sachas"	544	2021-05-13
+"Orellana"	"Loreto"	116	2021-05-13
+"Orellana"	"Orellana"	2007	2021-05-13
+"Orellana"	"Aguarico"	378	2021-05-14
+"Orellana"	"La Joya de los Sachas"	546	2021-05-14
+"Orellana"	"Loreto"	116	2021-05-14
+"Orellana"	"Orellana"	2007	2021-05-14
+"Orellana"	"Aguarico"	378	2021-05-15
+"Orellana"	"La Joya de los Sachas"	550	2021-05-15
+"Orellana"	"Loreto"	116	2021-05-15
+"Orellana"	"Orellana"	2037	2021-05-15
+"Orellana"	"Aguarico"	378	2021-05-16
+"Orellana"	"La Joya de los Sachas"	550	2021-05-16
+"Orellana"	"Loreto"	116	2021-05-16
+"Orellana"	"Orellana"	2037	2021-05-16
+"Orellana"	"Aguarico"	378	2021-05-17
+"Orellana"	"La Joya de los Sachas"	550	2021-05-17
+"Orellana"	"Loreto"	116	2021-05-17
+"Orellana"	"Orellana"	2037	2021-05-17
+"Orellana"	"Aguarico"	378	2021-05-18
+"Orellana"	"La Joya de los Sachas"	551	2021-05-18
+"Orellana"	"Loreto"	116	2021-05-18
+"Orellana"	"Orellana"	2037	2021-05-18
+"Orellana"	"Aguarico"	378	2021-05-19
+"Orellana"	"La Joya de los Sachas"	554	2021-05-19
+"Orellana"	"Loreto"	116	2021-05-19
+"Orellana"	"Orellana"	2064	2021-05-19
+"Orellana"	"Aguarico"	378	2021-05-20
+"Orellana"	"La Joya de los Sachas"	555	2021-05-20
+"Orellana"	"Loreto"	116	2021-05-20
+"Orellana"	"Orellana"	2075	2021-05-20
+"Orellana"	"Aguarico"	378	2021-05-21
+"Orellana"	"La Joya de los Sachas"	555	2021-05-21
+"Orellana"	"Loreto"	116	2021-05-21
+"Orellana"	"Orellana"	2075	2021-05-21
+"Orellana"	"Aguarico"	378	2021-05-22
+"Orellana"	"La Joya de los Sachas"	555	2021-05-22
+"Orellana"	"Loreto"	116	2021-05-22
+"Orellana"	"Orellana"	2076	2021-05-22
+"Orellana"	"Aguarico"	385	2021-05-23
+"Orellana"	"La Joya de los Sachas"	560	2021-05-23
+"Orellana"	"Loreto"	117	2021-05-23
+"Orellana"	"Orellana"	2090	2021-05-23
+"Orellana"	"Aguarico"	385	2021-05-24
+"Orellana"	"La Joya de los Sachas"	560	2021-05-24
+"Orellana"	"Loreto"	117	2021-05-24
+"Orellana"	"Orellana"	2090	2021-05-24
+"Orellana"	"Aguarico"	385	2021-05-25
+"Orellana"	"La Joya de los Sachas"	560	2021-05-25
+"Orellana"	"Loreto"	117	2021-05-25
+"Orellana"	"Orellana"	2090	2021-05-25
+"Orellana"	"Aguarico"	402	2021-05-26
+"Orellana"	"La Joya de los Sachas"	565	2021-05-26
+"Orellana"	"Loreto"	117	2021-05-26
+"Orellana"	"Orellana"	2105	2021-05-26
+"Orellana"	"Aguarico"	403	2021-05-27
+"Orellana"	"La Joya de los Sachas"	565	2021-05-27
+"Orellana"	"Loreto"	117	2021-05-27
+"Orellana"	"Orellana"	2107	2021-05-27
+"Orellana"	"Aguarico"	403	2021-05-28
+"Orellana"	"La Joya de los Sachas"	567	2021-05-28
+"Orellana"	"Loreto"	118	2021-05-28
+"Orellana"	"Orellana"	2107	2021-05-28
+"Orellana"	"Aguarico"	408	2021-05-29
+"Orellana"	"La Joya de los Sachas"	568	2021-05-29
+"Orellana"	"Loreto"	118	2021-05-29
+"Orellana"	"Orellana"	2108	2021-05-29
+"Orellana"	"Aguarico"	409	2021-05-30
+"Orellana"	"La Joya de los Sachas"	568	2021-05-30
+"Orellana"	"Loreto"	119	2021-05-30
+"Orellana"	"Orellana"	2114	2021-05-30
+"Orellana"	"Aguarico"	409	2021-05-31
+"Orellana"	"La Joya de los Sachas"	568	2021-05-31
+"Orellana"	"Loreto"	119	2021-05-31
+"Orellana"	"Orellana"	2114	2021-05-31
+"Orellana"	"Aguarico"	409	2021-06-01
+"Orellana"	"La Joya de los Sachas"	568	2021-06-01
+"Orellana"	"Loreto"	120	2021-06-01
+"Orellana"	"Orellana"	2118	2021-06-01
+"Orellana"	"Aguarico"	409	2021-06-02
+"Orellana"	"La Joya de los Sachas"	568	2021-06-02
+"Orellana"	"Loreto"	120	2021-06-02
+"Orellana"	"Orellana"	2118	2021-06-02
+"Orellana"	"Aguarico"	409	2021-06-03
+"Orellana"	"La Joya de los Sachas"	568	2021-06-03
+"Orellana"	"Loreto"	120	2021-06-03
+"Orellana"	"Orellana"	2128	2021-06-03
+"Orellana"	"Aguarico"	409	2021-06-04
+"Orellana"	"La Joya de los Sachas"	570	2021-06-04
+"Orellana"	"Loreto"	120	2021-06-04
+"Orellana"	"Orellana"	2131	2021-06-04
+"Orellana"	"Aguarico"	409	2021-06-05
+"Orellana"	"La Joya de los Sachas"	571	2021-06-05
+"Orellana"	"Loreto"	120	2021-06-05
+"Orellana"	"Orellana"	2134	2021-06-05
+"Orellana"	"Aguarico"	421	2021-06-06
+"Orellana"	"La Joya de los Sachas"	572	2021-06-06
+"Orellana"	"Loreto"	121	2021-06-06
+"Orellana"	"Orellana"	2145	2021-06-06
+"Orellana"	"Aguarico"	421	2021-06-07
+"Orellana"	"La Joya de los Sachas"	572	2021-06-07
+"Orellana"	"Loreto"	121	2021-06-07
+"Orellana"	"Orellana"	2145	2021-06-07
+"Orellana"	"Aguarico"	421	2021-06-08
+"Orellana"	"La Joya de los Sachas"	572	2021-06-08
+"Orellana"	"Loreto"	121	2021-06-08
+"Orellana"	"Orellana"	2145	2021-06-08
+"Orellana"	"Aguarico"	421	2021-06-09
+"Orellana"	"La Joya de los Sachas"	572	2021-06-09
+"Orellana"	"Loreto"	121	2021-06-09
+"Orellana"	"Orellana"	2149	2021-06-09
+"Orellana"	"Aguarico"	422	2021-06-10
+"Orellana"	"La Joya de los Sachas"	575	2021-06-10
+"Orellana"	"Loreto"	121	2021-06-10
+"Orellana"	"Orellana"	2151	2021-06-10
+"Orellana"	"Aguarico"	424	2021-06-11
+"Orellana"	"La Joya de los Sachas"	576	2021-06-11
+"Orellana"	"Loreto"	121	2021-06-11
+"Orellana"	"Orellana"	2151	2021-06-11
+"Orellana"	"Aguarico"	431	2021-06-12
+"Orellana"	"La Joya de los Sachas"	578	2021-06-12
+"Orellana"	"Loreto"	122	2021-06-12
+"Orellana"	"Orellana"	2178	2021-06-12
+"Orellana"	"Aguarico"	431	2021-06-13
+"Orellana"	"La Joya de los Sachas"	578	2021-06-13
+"Orellana"	"Loreto"	122	2021-06-13
+"Orellana"	"Orellana"	2183	2021-06-13
+"Orellana"	"Aguarico"	431	2021-06-14
+"Orellana"	"La Joya de los Sachas"	578	2021-06-14
+"Orellana"	"Loreto"	122	2021-06-14
+"Orellana"	"Orellana"	2184	2021-06-14
+"Orellana"	"Aguarico"	431	2021-06-15
+"Orellana"	"La Joya de los Sachas"	578	2021-06-15
+"Orellana"	"Loreto"	122	2021-06-15
+"Orellana"	"Orellana"	2184	2021-06-15
+"Orellana"	"Aguarico"	433	2021-06-16
+"Orellana"	"La Joya de los Sachas"	580	2021-06-16
+"Orellana"	"Loreto"	122	2021-06-16
+"Orellana"	"Orellana"	2195	2021-06-16
+"Orellana"	"Aguarico"	433	2021-06-17
+"Orellana"	"La Joya de los Sachas"	580	2021-06-17
+"Orellana"	"Loreto"	122	2021-06-17
+"Orellana"	"Orellana"	2199	2021-06-17
+"Orellana"	"Aguarico"	433	2021-06-18
+"Orellana"	"La Joya de los Sachas"	581	2021-06-18
+"Orellana"	"Loreto"	122	2021-06-18
+"Orellana"	"Orellana"	2199	2021-06-18
+"Orellana"	"Aguarico"	436	2021-06-19
+"Orellana"	"La Joya de los Sachas"	584	2021-06-19
+"Orellana"	"Loreto"	122	2021-06-19
+"Orellana"	"Orellana"	2219	2021-06-19
+"Orellana"	"Aguarico"	436	2021-06-20
+"Orellana"	"La Joya de los Sachas"	585	2021-06-20
+"Orellana"	"Loreto"	122	2021-06-20
+"Orellana"	"Orellana"	2223	2021-06-20
+"Orellana"	"Aguarico"	436	2021-06-21
+"Orellana"	"La Joya de los Sachas"	585	2021-06-21
+"Orellana"	"Loreto"	122	2021-06-21
+"Orellana"	"Orellana"	2223	2021-06-21
+"Orellana"	"Aguarico"	436	2021-06-22
+"Orellana"	"La Joya de los Sachas"	585	2021-06-22
+"Orellana"	"Loreto"	122	2021-06-22
+"Orellana"	"Orellana"	2223	2021-06-22
+"Orellana"	"Aguarico"	437	2021-06-23
+"Orellana"	"La Joya de los Sachas"	586	2021-06-23
+"Orellana"	"Loreto"	122	2021-06-23
+"Orellana"	"Orellana"	2230	2021-06-23
+"Orellana"	"Aguarico"	441	2021-06-24
+"Orellana"	"La Joya de los Sachas"	587	2021-06-24
+"Orellana"	"Loreto"	122	2021-06-24
+"Orellana"	"Orellana"	2231	2021-06-24
+"Orellana"	"Aguarico"	442	2021-06-25
+"Orellana"	"La Joya de los Sachas"	589	2021-06-25
+"Orellana"	"Loreto"	123	2021-06-25
+"Orellana"	"Orellana"	2234	2021-06-25
+"Orellana"	"Aguarico"	444	2021-06-26
+"Orellana"	"La Joya de los Sachas"	592	2021-06-26
+"Orellana"	"Loreto"	124	2021-06-26
+"Orellana"	"Orellana"	2255	2021-06-26
+"Orellana"	"Aguarico"	446	2021-06-27
+"Orellana"	"La Joya de los Sachas"	593	2021-06-27
+"Orellana"	"Loreto"	124	2021-06-27
+"Orellana"	"Orellana"	2255	2021-06-27
+"Orellana"	"Aguarico"	446	2021-06-28
+"Orellana"	"La Joya de los Sachas"	593	2021-06-28
+"Orellana"	"Loreto"	124	2021-06-28
+"Orellana"	"Orellana"	2255	2021-06-28
+"Orellana"	"Aguarico"	447	2021-06-29
+"Orellana"	"La Joya de los Sachas"	594	2021-06-29
+"Orellana"	"Loreto"	124	2021-06-29
+"Orellana"	"Orellana"	2268	2021-06-29
+"Orellana"	"Aguarico"	459	2021-06-30
+"Orellana"	"La Joya de los Sachas"	596	2021-06-30
+"Orellana"	"Loreto"	125	2021-06-30
+"Orellana"	"Orellana"	2269	2021-06-30
+"Orellana"	"Aguarico"	459	2021-07-01
+"Orellana"	"La Joya de los Sachas"	597	2021-07-01
+"Orellana"	"Loreto"	126	2021-07-01
+"Orellana"	"Orellana"	2269	2021-07-01
+"Orellana"	"Aguarico"	469	2021-07-02
+"Orellana"	"La Joya de los Sachas"	599	2021-07-02
+"Orellana"	"Loreto"	127	2021-07-02
+"Orellana"	"Orellana"	2280	2021-07-02
+"Orellana"	"Aguarico"	469	2021-07-03
+"Orellana"	"La Joya de los Sachas"	600	2021-07-03
+"Orellana"	"Loreto"	127	2021-07-03
+"Orellana"	"Orellana"	2280	2021-07-03
+"Orellana"	"Aguarico"	469	2021-07-04
+"Orellana"	"La Joya de los Sachas"	600	2021-07-04
+"Orellana"	"Loreto"	127	2021-07-04
+"Orellana"	"Orellana"	2280	2021-07-04
+"Orellana"	"Aguarico"	469	2021-07-05
+"Orellana"	"La Joya de los Sachas"	600	2021-07-05
+"Orellana"	"Loreto"	127	2021-07-05
+"Orellana"	"Orellana"	2280	2021-07-05
+"Orellana"	"Aguarico"	469	2021-07-06
+"Orellana"	"La Joya de los Sachas"	605	2021-07-06
+"Orellana"	"Loreto"	127	2021-07-06
+"Orellana"	"Orellana"	2293	2021-07-06
+"Orellana"	"Aguarico"	486	2021-07-07
+"Orellana"	"La Joya de los Sachas"	607	2021-07-07
+"Orellana"	"Loreto"	127	2021-07-07
+"Orellana"	"Orellana"	2299	2021-07-07
+"Orellana"	"Aguarico"	486	2021-07-08
+"Orellana"	"La Joya de los Sachas"	608	2021-07-08
+"Orellana"	"Loreto"	127	2021-07-08
+"Orellana"	"Orellana"	2302	2021-07-08
+"Orellana"	"Aguarico"	487	2021-07-09
+"Orellana"	"La Joya de los Sachas"	608	2021-07-09
+"Orellana"	"Loreto"	128	2021-07-09
+"Orellana"	"Orellana"	2307	2021-07-09
+"Orellana"	"Aguarico"	487	2021-07-10
+"Orellana"	"La Joya de los Sachas"	608	2021-07-10
+"Orellana"	"Loreto"	128	2021-07-10
+"Orellana"	"Orellana"	2307	2021-07-10
+"Orellana"	"Aguarico"	487	2021-07-11
+"Orellana"	"La Joya de los Sachas"	609	2021-07-11
+"Orellana"	"Loreto"	128	2021-07-11
+"Orellana"	"Orellana"	2307	2021-07-11
+"Orellana"	"Aguarico"	487	2021-07-12
+"Orellana"	"La Joya de los Sachas"	609	2021-07-12
+"Orellana"	"Loreto"	128	2021-07-12
+"Orellana"	"Orellana"	2307	2021-07-12
+"Orellana"	"Aguarico"	487	2021-07-13
+"Orellana"	"La Joya de los Sachas"	609	2021-07-13
+"Orellana"	"Loreto"	128	2021-07-13
+"Orellana"	"Orellana"	2307	2021-07-13
+"Orellana"	"Aguarico"	487	2021-07-14
+"Orellana"	"La Joya de los Sachas"	618	2021-07-14
+"Orellana"	"Loreto"	128	2021-07-14
+"Orellana"	"Orellana"	2309	2021-07-14
+"Orellana"	"Aguarico"	487	2021-07-15
+"Orellana"	"La Joya de los Sachas"	618	2021-07-15
+"Orellana"	"Loreto"	128	2021-07-15
+"Orellana"	"Orellana"	2310	2021-07-15
+"Orellana"	"Aguarico"	487	2021-07-16
+"Orellana"	"La Joya de los Sachas"	618	2021-07-16
+"Orellana"	"Loreto"	129	2021-07-16
+"Orellana"	"Orellana"	2311	2021-07-16
+"Orellana"	"Aguarico"	488	2021-07-17
+"Orellana"	"La Joya de los Sachas"	619	2021-07-17
+"Orellana"	"Loreto"	130	2021-07-17
+"Orellana"	"Orellana"	2314	2021-07-17
+"Orellana"	"Aguarico"	488	2021-07-18
+"Orellana"	"La Joya de los Sachas"	625	2021-07-18
+"Orellana"	"Loreto"	130	2021-07-18
+"Orellana"	"Orellana"	2319	2021-07-18
+"Orellana"	"Aguarico"	488	2021-07-19
+"Orellana"	"La Joya de los Sachas"	625	2021-07-19
+"Orellana"	"Loreto"	130	2021-07-19
+"Orellana"	"Orellana"	2319	2021-07-19
+"Orellana"	"Aguarico"	488	2021-07-20
+"Orellana"	"La Joya de los Sachas"	627	2021-07-20
+"Orellana"	"Loreto"	131	2021-07-20
+"Orellana"	"Orellana"	2320	2021-07-20
+"Orellana"	"Aguarico"	488	2021-07-21
+"Orellana"	"La Joya de los Sachas"	627	2021-07-21
+"Orellana"	"Loreto"	131	2021-07-21
+"Orellana"	"Orellana"	2323	2021-07-21
+"Orellana"	"Aguarico"	491	2021-07-22
+"Orellana"	"La Joya de los Sachas"	628	2021-07-22
+"Orellana"	"Loreto"	131	2021-07-22
+"Orellana"	"Orellana"	2323	2021-07-22
+"Orellana"	"Aguarico"	491	2021-07-23
+"Orellana"	"La Joya de los Sachas"	628	2021-07-23
+"Orellana"	"Loreto"	132	2021-07-23
+"Orellana"	"Orellana"	2333	2021-07-23
+"Orellana"	"Aguarico"	491	2021-07-24
+"Orellana"	"La Joya de los Sachas"	628	2021-07-24
+"Orellana"	"Loreto"	132	2021-07-24
+"Orellana"	"Orellana"	2333	2021-07-24
+"Orellana"	"Aguarico"	491	2021-07-25
+"Orellana"	"La Joya de los Sachas"	628	2021-07-25
+"Orellana"	"Loreto"	132	2021-07-25
+"Orellana"	"Orellana"	2333	2021-07-25
+"Orellana"	"Aguarico"	491	2021-07-26
+"Orellana"	"La Joya de los Sachas"	628	2021-07-26
+"Orellana"	"Loreto"	132	2021-07-26
+"Orellana"	"Orellana"	2333	2021-07-26
+"Orellana"	"Aguarico"	491	2021-07-27
+"Orellana"	"La Joya de los Sachas"	629	2021-07-27
+"Orellana"	"Loreto"	132	2021-07-27
+"Orellana"	"Orellana"	2334	2021-07-27
+"Orellana"	"Aguarico"	491	2021-07-28
+"Orellana"	"La Joya de los Sachas"	629	2021-07-28
+"Orellana"	"Loreto"	132	2021-07-28
+"Orellana"	"Orellana"	2334	2021-07-28
+"Orellana"	"Aguarico"	491	2021-07-29
+"Orellana"	"La Joya de los Sachas"	629	2021-07-29
+"Orellana"	"Loreto"	132	2021-07-29
+"Orellana"	"Orellana"	2334	2021-07-29
+"Orellana"	"Aguarico"	491	2021-07-30
+"Orellana"	"La Joya de los Sachas"	629	2021-07-30
+"Orellana"	"Loreto"	132	2021-07-30
+"Orellana"	"Orellana"	2334	2021-07-30
+"Orellana"	"Aguarico"	491	2021-07-31
+"Orellana"	"La Joya de los Sachas"	629	2021-07-31
+"Orellana"	"Loreto"	132	2021-07-31
+"Orellana"	"Orellana"	2334	2021-07-31
+"Orellana"	"Aguarico"	491	2021-08-01
+"Orellana"	"La Joya de los Sachas"	629	2021-08-01
+"Orellana"	"Loreto"	132	2021-08-01
+"Orellana"	"Orellana"	2334	2021-08-01
+"Orellana"	"Aguarico"	491	2021-08-02
+"Orellana"	"La Joya de los Sachas"	629	2021-08-02
+"Orellana"	"Loreto"	132	2021-08-02
+"Orellana"	"Orellana"	2334	2021-08-02
+"Orellana"	"Aguarico"	491	2021-08-03
+"Orellana"	"La Joya de los Sachas"	629	2021-08-03
+"Orellana"	"Loreto"	132	2021-08-03
+"Orellana"	"Orellana"	2334	2021-08-03
+"Orellana"	"Aguarico"	491	2021-08-04
+"Orellana"	"La Joya de los Sachas"	629	2021-08-04
+"Orellana"	"Loreto"	132	2021-08-04
+"Orellana"	"Orellana"	2334	2021-08-04
+"Orellana"	"Aguarico"	491	2021-08-05
+"Orellana"	"La Joya de los Sachas"	629	2021-08-05
+"Orellana"	"Loreto"	132	2021-08-05
+"Orellana"	"Orellana"	2334	2021-08-05
+"Orellana"	"Aguarico"	491	2021-08-06
+"Orellana"	"La Joya de los Sachas"	629	2021-08-06
+"Orellana"	"Loreto"	132	2021-08-06
+"Orellana"	"Orellana"	2334	2021-08-06
+"Orellana"	"Aguarico"	491	2021-08-07
+"Orellana"	"La Joya de los Sachas"	629	2021-08-07
+"Orellana"	"Loreto"	132	2021-08-07
+"Orellana"	"Orellana"	2334	2021-08-07
+"Orellana"	"Aguarico"	491	2021-08-08
+"Orellana"	"La Joya de los Sachas"	629	2021-08-08
+"Orellana"	"Loreto"	132	2021-08-08
+"Orellana"	"Orellana"	2334	2021-08-08
+"Orellana"	"Aguarico"	491	2021-08-09
+"Orellana"	"La Joya de los Sachas"	629	2021-08-09
+"Orellana"	"Loreto"	132	2021-08-09
+"Orellana"	"Orellana"	2334	2021-08-09
+"Orellana"	"Aguarico"	491	2021-08-10
+"Orellana"	"La Joya de los Sachas"	629	2021-08-10
+"Orellana"	"Loreto"	132	2021-08-10
+"Orellana"	"Orellana"	2334	2021-08-10
+"Orellana"	"Aguarico"	491	2021-08-11
+"Orellana"	"La Joya de los Sachas"	629	2021-08-11
+"Orellana"	"Loreto"	132	2021-08-11
+"Orellana"	"Orellana"	2334	2021-08-11
+"Orellana"	"Aguarico"	491	2021-08-12
+"Orellana"	"La Joya de los Sachas"	629	2021-08-12
+"Orellana"	"Loreto"	132	2021-08-12
+"Orellana"	"Orellana"	2334	2021-08-12
+"Orellana"	"Aguarico"	491	2021-08-13
+"Orellana"	"La Joya de los Sachas"	629	2021-08-13
+"Orellana"	"Loreto"	132	2021-08-13
+"Orellana"	"Orellana"	2334	2021-08-13
+"Orellana"	"Aguarico"	491	2021-08-14
+"Orellana"	"La Joya de los Sachas"	629	2021-08-14
+"Orellana"	"Loreto"	132	2021-08-14
+"Orellana"	"Orellana"	2334	2021-08-14
+"Orellana"	"Aguarico"	491	2021-08-15
+"Orellana"	"La Joya de los Sachas"	629	2021-08-15
+"Orellana"	"Loreto"	132	2021-08-15
+"Orellana"	"Orellana"	2334	2021-08-15
+"Orellana"	"Aguarico"	491	2021-08-16
+"Orellana"	"La Joya de los Sachas"	629	2021-08-16
+"Orellana"	"Loreto"	132	2021-08-16
+"Orellana"	"Orellana"	2334	2021-08-16
+"Orellana"	"Aguarico"	491	2021-08-17
+"Orellana"	"La Joya de los Sachas"	629	2021-08-17
+"Orellana"	"Loreto"	132	2021-08-17
+"Orellana"	"Orellana"	2334	2021-08-17
+"Orellana"	"Aguarico"	491	2021-08-18
+"Orellana"	"La Joya de los Sachas"	629	2021-08-18
+"Orellana"	"Loreto"	132	2021-08-18
+"Orellana"	"Orellana"	2334	2021-08-18
+"Orellana"	"Aguarico"	491	2021-08-19
+"Orellana"	"La Joya de los Sachas"	629	2021-08-19
+"Orellana"	"Loreto"	132	2021-08-19
+"Orellana"	"Orellana"	2334	2021-08-19
+"Orellana"	"Aguarico"	491	2021-08-20
+"Orellana"	"La Joya de los Sachas"	629	2021-08-20
+"Orellana"	"Loreto"	132	2021-08-20
+"Orellana"	"Orellana"	2334	2021-08-20
+"Orellana"	"Aguarico"	491	2021-08-21
+"Orellana"	"La Joya de los Sachas"	629	2021-08-21
+"Orellana"	"Loreto"	132	2021-08-21
+"Orellana"	"Orellana"	2334	2021-08-21
+"Orellana"	"Aguarico"	491	2021-08-22
+"Orellana"	"La Joya de los Sachas"	629	2021-08-22
+"Orellana"	"Loreto"	132	2021-08-22
+"Orellana"	"Orellana"	2334	2021-08-22
+"Orellana"	"Aguarico"	492	2021-08-23
+"Orellana"	"La Joya de los Sachas"	639	2021-08-23
+"Orellana"	"Loreto"	135	2021-08-23
+"Orellana"	"Orellana"	2363	2021-08-23
+"Orellana"	"Aguarico"	492	2021-08-24
+"Orellana"	"La Joya de los Sachas"	639	2021-08-24
+"Orellana"	"Loreto"	135	2021-08-24
+"Orellana"	"Orellana"	2368	2021-08-24
+"Orellana"	"Aguarico"	492	2021-08-25
+"Orellana"	"La Joya de los Sachas"	639	2021-08-25
+"Orellana"	"Loreto"	135	2021-08-25
+"Orellana"	"Orellana"	2368	2021-08-25
+"Orellana"	"Aguarico"	492	2021-08-26
+"Orellana"	"La Joya de los Sachas"	639	2021-08-26
+"Orellana"	"Loreto"	135	2021-08-26
+"Orellana"	"Orellana"	2368	2021-08-26
+"Orellana"	"Aguarico"	494	2021-08-27
+"Orellana"	"La Joya de los Sachas"	642	2021-08-27
+"Orellana"	"Loreto"	135	2021-08-27
+"Orellana"	"Orellana"	2371	2021-08-27
+"Orellana"	"Aguarico"	494	2021-08-28
+"Orellana"	"La Joya de los Sachas"	642	2021-08-28
+"Orellana"	"Loreto"	135	2021-08-28
+"Orellana"	"Orellana"	2374	2021-08-28
+"Orellana"	"Aguarico"	494	2021-08-29
+"Orellana"	"La Joya de los Sachas"	642	2021-08-29
+"Orellana"	"Loreto"	135	2021-08-29
+"Orellana"	"Orellana"	2374	2021-08-29
+"Orellana"	"Aguarico"	494	2021-08-30
+"Orellana"	"La Joya de los Sachas"	642	2021-08-30
+"Orellana"	"Loreto"	135	2021-08-30
+"Orellana"	"Orellana"	2374	2021-08-30
+"Orellana"	"Aguarico"	494	2021-08-31
+"Orellana"	"La Joya de los Sachas"	642	2021-08-31
+"Orellana"	"Loreto"	136	2021-08-31
+"Orellana"	"Orellana"	2376	2021-08-31
+"Orellana"	"Aguarico"	494	2021-09-01
+"Orellana"	"La Joya de los Sachas"	642	2021-09-01
+"Orellana"	"Loreto"	136	2021-09-01
+"Orellana"	"Orellana"	2376	2021-09-01
+"Orellana"	"Aguarico"	494	2021-09-02
+"Orellana"	"La Joya de los Sachas"	642	2021-09-02
+"Orellana"	"Loreto"	136	2021-09-02
+"Orellana"	"Orellana"	2376	2021-09-02
+"Orellana"	"Aguarico"	495	2021-09-03
+"Orellana"	"La Joya de los Sachas"	642	2021-09-03
+"Orellana"	"Loreto"	136	2021-09-03
+"Orellana"	"Orellana"	2376	2021-09-03
+"Orellana"	"Aguarico"	496	2021-09-04
+"Orellana"	"La Joya de los Sachas"	643	2021-09-04
+"Orellana"	"Loreto"	136	2021-09-04
+"Orellana"	"Orellana"	2376	2021-09-04
+"Orellana"	"Aguarico"	496	2021-09-05
+"Orellana"	"La Joya de los Sachas"	643	2021-09-05
+"Orellana"	"Loreto"	136	2021-09-05
+"Orellana"	"Orellana"	2376	2021-09-05
+"Orellana"	"Aguarico"	496	2021-09-06
+"Orellana"	"La Joya de los Sachas"	643	2021-09-06
+"Orellana"	"Loreto"	136	2021-09-06
+"Orellana"	"Orellana"	2376	2021-09-06
+"Orellana"	"Aguarico"	496	2021-09-07
+"Orellana"	"La Joya de los Sachas"	643	2021-09-07
+"Orellana"	"Loreto"	137	2021-09-07
+"Orellana"	"Orellana"	2376	2021-09-07
+"Orellana"	"Aguarico"	496	2021-09-08
+"Orellana"	"La Joya de los Sachas"	643	2021-09-08
+"Orellana"	"Loreto"	137	2021-09-08
+"Orellana"	"Orellana"	2376	2021-09-08
+"Orellana"	"Aguarico"	496	2021-09-09
+"Orellana"	"La Joya de los Sachas"	643	2021-09-09
+"Orellana"	"Loreto"	137	2021-09-09
+"Orellana"	"Orellana"	2376	2021-09-09
+"Orellana"	"Aguarico"	496	2021-09-10
+"Orellana"	"La Joya de los Sachas"	645	2021-09-10
+"Orellana"	"Loreto"	137	2021-09-10
+"Orellana"	"Orellana"	2377	2021-09-10
+"Orellana"	"Aguarico"	496	2021-09-11
+"Orellana"	"La Joya de los Sachas"	645	2021-09-11
+"Orellana"	"Loreto"	137	2021-09-11
+"Orellana"	"Orellana"	2377	2021-09-11
+"Orellana"	"Aguarico"	496	2021-09-12
+"Orellana"	"La Joya de los Sachas"	645	2021-09-12
+"Orellana"	"Loreto"	137	2021-09-12
+"Orellana"	"Orellana"	2377	2021-09-12
+"Orellana"	"Aguarico"	496	2021-09-13
+"Orellana"	"La Joya de los Sachas"	645	2021-09-13
+"Orellana"	"Loreto"	137	2021-09-13
+"Orellana"	"Orellana"	2377	2021-09-13
+"Orellana"	"Aguarico"	496	2021-09-14
+"Orellana"	"La Joya de los Sachas"	645	2021-09-14
+"Orellana"	"Loreto"	137	2021-09-14
+"Orellana"	"Orellana"	2381	2021-09-14
+"Orellana"	"Aguarico"	497	2021-09-15
+"Orellana"	"La Joya de los Sachas"	645	2021-09-15
+"Orellana"	"Loreto"	137	2021-09-15
+"Orellana"	"Orellana"	2382	2021-09-15
+"Orellana"	"Aguarico"	497	2021-09-16
+"Orellana"	"La Joya de los Sachas"	645	2021-09-16
+"Orellana"	"Loreto"	138	2021-09-16
+"Orellana"	"Orellana"	2382	2021-09-16
+"Orellana"	"Aguarico"	497	2021-09-17
+"Orellana"	"La Joya de los Sachas"	646	2021-09-17
+"Orellana"	"Loreto"	138	2021-09-17
+"Orellana"	"Orellana"	2383	2021-09-17
+"Orellana"	"Aguarico"	497	2021-09-18
+"Orellana"	"La Joya de los Sachas"	646	2021-09-18
+"Orellana"	"Loreto"	138	2021-09-18
+"Orellana"	"Orellana"	2383	2021-09-18
+"Orellana"	"Aguarico"	497	2021-09-19
+"Orellana"	"La Joya de los Sachas"	646	2021-09-19
+"Orellana"	"Loreto"	138	2021-09-19
+"Orellana"	"Orellana"	2383	2021-09-19
+"Orellana"	"Aguarico"	497	2021-09-20
+"Orellana"	"La Joya de los Sachas"	646	2021-09-20
+"Orellana"	"Loreto"	138	2021-09-20
+"Orellana"	"Orellana"	2383	2021-09-20
+"Orellana"	"Aguarico"	497	2021-09-21
+"Orellana"	"La Joya de los Sachas"	647	2021-09-21
+"Orellana"	"Loreto"	139	2021-09-21
+"Orellana"	"Orellana"	2386	2021-09-21
+"Orellana"	"Aguarico"	498	2021-09-22
+"Orellana"	"La Joya de los Sachas"	648	2021-09-22
+"Orellana"	"Loreto"	140	2021-09-22
+"Orellana"	"Orellana"	2386	2021-09-22
+"Orellana"	"Aguarico"	498	2021-09-23
+"Orellana"	"La Joya de los Sachas"	649	2021-09-23
+"Orellana"	"Loreto"	141	2021-09-23
+"Orellana"	"Orellana"	2386	2021-09-23
+"Orellana"	"Aguarico"	498	2021-09-24
+"Orellana"	"La Joya de los Sachas"	653	2021-09-24
+"Orellana"	"Loreto"	141	2021-09-24
+"Orellana"	"Orellana"	2387	2021-09-24
+"Orellana"	"Aguarico"	498	2021-09-25
+"Orellana"	"La Joya de los Sachas"	654	2021-09-25
+"Orellana"	"Loreto"	141	2021-09-25
+"Orellana"	"Orellana"	2388	2021-09-25
+"Orellana"	"Aguarico"	498	2021-09-26
+"Orellana"	"La Joya de los Sachas"	654	2021-09-26
+"Orellana"	"Loreto"	141	2021-09-26
+"Orellana"	"Orellana"	2388	2021-09-26
+"Orellana"	"Aguarico"	498	2021-09-27
+"Orellana"	"La Joya de los Sachas"	654	2021-09-27
+"Orellana"	"Loreto"	141	2021-09-27
+"Orellana"	"Orellana"	2388	2021-09-27
+"Orellana"	"Aguarico"	498	2021-09-28
+"Orellana"	"La Joya de los Sachas"	655	2021-09-28
+"Orellana"	"Loreto"	142	2021-09-28
+"Orellana"	"Orellana"	2390	2021-09-28
+"Orellana"	"Aguarico"	498	2021-09-29
+"Orellana"	"La Joya de los Sachas"	655	2021-09-29
+"Orellana"	"Loreto"	142	2021-09-29
+"Orellana"	"Orellana"	2390	2021-09-29
+"Orellana"	"Aguarico"	498	2021-09-30
+"Orellana"	"La Joya de los Sachas"	655	2021-09-30
+"Orellana"	"Loreto"	146	2021-09-30
+"Orellana"	"Orellana"	2392	2021-09-30
+"Orellana"	"Aguarico"	498	2021-10-01
+"Orellana"	"La Joya de los Sachas"	655	2021-10-01
+"Orellana"	"Loreto"	146	2021-10-01
+"Orellana"	"Orellana"	2393	2021-10-01
+"Orellana"	"Aguarico"	498	2021-10-02
+"Orellana"	"La Joya de los Sachas"	657	2021-10-02
+"Orellana"	"Loreto"	146	2021-10-02
+"Orellana"	"Orellana"	2398	2021-10-02
+"Orellana"	"Aguarico"	498	2021-10-03
+"Orellana"	"La Joya de los Sachas"	657	2021-10-03
+"Orellana"	"Loreto"	146	2021-10-03
+"Orellana"	"Orellana"	2398	2021-10-03
+"Orellana"	"Aguarico"	498	2021-10-04
+"Orellana"	"La Joya de los Sachas"	657	2021-10-04
+"Orellana"	"Loreto"	146	2021-10-04
+"Orellana"	"Orellana"	2398	2021-10-04
+"Orellana"	"Aguarico"	498	2021-10-05
+"Orellana"	"La Joya de los Sachas"	660	2021-10-05
+"Orellana"	"Loreto"	146	2021-10-05
+"Orellana"	"Orellana"	2402	2021-10-05
+"Orellana"	"Aguarico"	498	2021-10-06
+"Orellana"	"La Joya de los Sachas"	660	2021-10-06
+"Orellana"	"Loreto"	147	2021-10-06
+"Orellana"	"Orellana"	2404	2021-10-06
+"Orellana"	"Aguarico"	498	2021-10-07
+"Orellana"	"La Joya de los Sachas"	660	2021-10-07
+"Orellana"	"Loreto"	147	2021-10-07
+"Orellana"	"Orellana"	2407	2021-10-07
+"Orellana"	"Aguarico"	498	2021-10-08
+"Orellana"	"La Joya de los Sachas"	660	2021-10-08
+"Orellana"	"Loreto"	147	2021-10-08
+"Orellana"	"Orellana"	2407	2021-10-08
+"Orellana"	"Aguarico"	498	2021-10-09
+"Orellana"	"La Joya de los Sachas"	661	2021-10-09
+"Orellana"	"Loreto"	147	2021-10-09
+"Orellana"	"Orellana"	2407	2021-10-09
+"Orellana"	"Aguarico"	498	2021-10-10
+"Orellana"	"La Joya de los Sachas"	661	2021-10-10
+"Orellana"	"Loreto"	147	2021-10-10
+"Orellana"	"Orellana"	2407	2021-10-10
+"Orellana"	"Aguarico"	498	2021-10-11
+"Orellana"	"La Joya de los Sachas"	661	2021-10-11
+"Orellana"	"Loreto"	147	2021-10-11
+"Orellana"	"Orellana"	2407	2021-10-11
+"Orellana"	"Aguarico"	498	2021-10-12
+"Orellana"	"La Joya de los Sachas"	663	2021-10-12
+"Orellana"	"Loreto"	147	2021-10-12
+"Orellana"	"Orellana"	2409	2021-10-12
+"Orellana"	"Aguarico"	498	2021-10-13
+"Orellana"	"La Joya de los Sachas"	663	2021-10-13
+"Orellana"	"Loreto"	147	2021-10-13
+"Orellana"	"Orellana"	2410	2021-10-13
+"Orellana"	"Aguarico"	498	2021-10-14
+"Orellana"	"La Joya de los Sachas"	663	2021-10-14
+"Orellana"	"Loreto"	147	2021-10-14
+"Orellana"	"Orellana"	2412	2021-10-14
+"Orellana"	"Aguarico"	498	2021-10-15
+"Orellana"	"La Joya de los Sachas"	663	2021-10-15
+"Orellana"	"Loreto"	147	2021-10-15
+"Orellana"	"Orellana"	2412	2021-10-15
+"Orellana"	"Aguarico"	498	2021-10-16
+"Orellana"	"La Joya de los Sachas"	664	2021-10-16
+"Orellana"	"Loreto"	147	2021-10-16
+"Orellana"	"Orellana"	2416	2021-10-16
+"Orellana"	"Aguarico"	498	2021-10-17
+"Orellana"	"La Joya de los Sachas"	664	2021-10-17
+"Orellana"	"Loreto"	147	2021-10-17
+"Orellana"	"Orellana"	2416	2021-10-17
+"Orellana"	"Aguarico"	498	2021-10-18
+"Orellana"	"La Joya de los Sachas"	664	2021-10-18
+"Orellana"	"Loreto"	147	2021-10-18
+"Orellana"	"Orellana"	2417	2021-10-18
+"Orellana"	"Aguarico"	498	2021-10-19
+"Orellana"	"La Joya de los Sachas"	664	2021-10-19
+"Orellana"	"Loreto"	147	2021-10-19
+"Orellana"	"Orellana"	2422	2021-10-19
+"Orellana"	"Aguarico"	498	2021-10-20
+"Orellana"	"La Joya de los Sachas"	665	2021-10-20
+"Orellana"	"Loreto"	147	2021-10-20
+"Orellana"	"Orellana"	2426	2021-10-20
+"Orellana"	"Aguarico"	498	2021-10-21
+"Orellana"	"La Joya de los Sachas"	665	2021-10-21
+"Orellana"	"Loreto"	147	2021-10-21
+"Orellana"	"Orellana"	2429	2021-10-21
+"Orellana"	"Aguarico"	498	2021-10-22
+"Orellana"	"La Joya de los Sachas"	668	2021-10-22
+"Orellana"	"Loreto"	148	2021-10-22
+"Orellana"	"Orellana"	2432	2021-10-22
+"Orellana"	"Aguarico"	498	2021-10-23
+"Orellana"	"La Joya de los Sachas"	669	2021-10-23
+"Orellana"	"Loreto"	148	2021-10-23
+"Orellana"	"Orellana"	2434	2021-10-23
+"Orellana"	"Aguarico"	498	2021-10-24
+"Orellana"	"La Joya de los Sachas"	669	2021-10-24
+"Orellana"	"Loreto"	148	2021-10-24
+"Orellana"	"Orellana"	2434	2021-10-24
+"Orellana"	"Aguarico"	498	2021-10-25
+"Orellana"	"La Joya de los Sachas"	669	2021-10-25
+"Orellana"	"Loreto"	148	2021-10-25
+"Orellana"	"Orellana"	2438	2021-10-25
+"Orellana"	"Aguarico"	498	2021-10-26
+"Orellana"	"La Joya de los Sachas"	672	2021-10-26
+"Orellana"	"Loreto"	150	2021-10-26
+"Orellana"	"Orellana"	2443	2021-10-26
+"Orellana"	"Aguarico"	498	2021-10-27
+"Orellana"	"La Joya de los Sachas"	674	2021-10-27
+"Orellana"	"Loreto"	151	2021-10-27
+"Orellana"	"Orellana"	2447	2021-10-27
+"Orellana"	"Aguarico"	498	2021-10-28
+"Orellana"	"La Joya de los Sachas"	681	2021-10-28
+"Orellana"	"Loreto"	151	2021-10-28
+"Orellana"	"Orellana"	2448	2021-10-28
+"Orellana"	"Aguarico"	499	2021-10-29
+"Orellana"	"La Joya de los Sachas"	688	2021-10-29
+"Orellana"	"Loreto"	151	2021-10-29
+"Orellana"	"Orellana"	2454	2021-10-29
+"Orellana"	"Aguarico"	501	2021-10-30
+"Orellana"	"La Joya de los Sachas"	688	2021-10-30
+"Orellana"	"Loreto"	152	2021-10-30
+"Orellana"	"Orellana"	2473	2021-10-30
+"Orellana"	"Aguarico"	501	2021-10-31
+"Orellana"	"La Joya de los Sachas"	689	2021-10-31
+"Orellana"	"Loreto"	153	2021-10-31
+"Orellana"	"Orellana"	2475	2021-10-31
+"Orellana"	"Aguarico"	501	2021-11-01
+"Orellana"	"La Joya de los Sachas"	689	2021-11-01
+"Orellana"	"Loreto"	153	2021-11-01
+"Orellana"	"Orellana"	2475	2021-11-01
+"Orellana"	"Aguarico"	501	2021-11-02
+"Orellana"	"La Joya de los Sachas"	689	2021-11-02
+"Orellana"	"Loreto"	153	2021-11-02
+"Orellana"	"Orellana"	2476	2021-11-02
+"Orellana"	"Aguarico"	501	2021-11-03
+"Orellana"	"La Joya de los Sachas"	689	2021-11-03
+"Orellana"	"Loreto"	153	2021-11-03
+"Orellana"	"Orellana"	2478	2021-11-03
+"Orellana"	"Aguarico"	501	2021-11-04
+"Orellana"	"La Joya de los Sachas"	689	2021-11-04
+"Orellana"	"Loreto"	153	2021-11-04
+"Orellana"	"Orellana"	2482	2021-11-04
+"Orellana"	"Aguarico"	501	2021-11-05
+"Orellana"	"La Joya de los Sachas"	689	2021-11-05
+"Orellana"	"Loreto"	153	2021-11-05
+"Orellana"	"Orellana"	2484	2021-11-05
+"Orellana"	"Aguarico"	502	2021-11-06
+"Orellana"	"La Joya de los Sachas"	690	2021-11-06
+"Orellana"	"Loreto"	153	2021-11-06
+"Orellana"	"Orellana"	2493	2021-11-06
+"Orellana"	"Aguarico"	502	2021-11-07
+"Orellana"	"La Joya de los Sachas"	690	2021-11-07
+"Orellana"	"Loreto"	154	2021-11-07
+"Orellana"	"Orellana"	2494	2021-11-07
+"Orellana"	"Aguarico"	502	2021-11-08
+"Orellana"	"La Joya de los Sachas"	691	2021-11-08
+"Orellana"	"Loreto"	158	2021-11-08
+"Orellana"	"Orellana"	2495	2021-11-08
+"Orellana"	"Aguarico"	502	2021-11-09
+"Orellana"	"La Joya de los Sachas"	694	2021-11-09
+"Orellana"	"Loreto"	160	2021-11-09
+"Orellana"	"Orellana"	2510	2021-11-09
+"Orellana"	"Aguarico"	502	2021-11-10
+"Orellana"	"La Joya de los Sachas"	699	2021-11-10
+"Orellana"	"Loreto"	165	2021-11-10
+"Orellana"	"Orellana"	2519	2021-11-10
+"Orellana"	"Aguarico"	502	2021-11-11
+"Orellana"	"La Joya de los Sachas"	700	2021-11-11
+"Orellana"	"Loreto"	165	2021-11-11
+"Orellana"	"Orellana"	2521	2021-11-11
+"Orellana"	"Aguarico"	502	2021-11-12
+"Orellana"	"La Joya de los Sachas"	703	2021-11-12
+"Orellana"	"Loreto"	167	2021-11-12
+"Orellana"	"Orellana"	2531	2021-11-12
+"Orellana"	"Aguarico"	502	2021-11-13
+"Orellana"	"La Joya de los Sachas"	704	2021-11-13
+"Orellana"	"Loreto"	167	2021-11-13
+"Orellana"	"Orellana"	2532	2021-11-13
+"Orellana"	"Aguarico"	502	2021-11-14
+"Orellana"	"La Joya de los Sachas"	705	2021-11-14
+"Orellana"	"Loreto"	171	2021-11-14
+"Orellana"	"Orellana"	2533	2021-11-14
+"Orellana"	"Aguarico"	502	2021-11-15
+"Orellana"	"La Joya de los Sachas"	705	2021-11-15
+"Orellana"	"Loreto"	171	2021-11-15
+"Orellana"	"Orellana"	2536	2021-11-15
+"Orellana"	"Aguarico"	502	2021-11-16
+"Orellana"	"La Joya de los Sachas"	707	2021-11-16
+"Orellana"	"Loreto"	171	2021-11-16
+"Orellana"	"Orellana"	2554	2021-11-16
+"Orellana"	"Aguarico"	504	2021-11-17
+"Orellana"	"La Joya de los Sachas"	712	2021-11-17
+"Orellana"	"Loreto"	178	2021-11-17
+"Orellana"	"Orellana"	2562	2021-11-17
+"Orellana"	"Aguarico"	504	2021-11-18
+"Orellana"	"La Joya de los Sachas"	713	2021-11-18
+"Orellana"	"Loreto"	178	2021-11-18
+"Orellana"	"Orellana"	2567	2021-11-18
+"Orellana"	"Aguarico"	504	2021-11-19
+"Orellana"	"La Joya de los Sachas"	714	2021-11-19
+"Orellana"	"Loreto"	180	2021-11-19
+"Orellana"	"Orellana"	2580	2021-11-19
+"Orellana"	"Aguarico"	504	2021-11-20
+"Orellana"	"La Joya de los Sachas"	714	2021-11-20
+"Orellana"	"Loreto"	180	2021-11-20
+"Orellana"	"Orellana"	2585	2021-11-20
+"Orellana"	"Aguarico"	504	2021-11-21
+"Orellana"	"La Joya de los Sachas"	714	2021-11-21
+"Orellana"	"Loreto"	180	2021-11-21
+"Orellana"	"Orellana"	2588	2021-11-21
+"Orellana"	"Aguarico"	504	2021-11-22
+"Orellana"	"La Joya de los Sachas"	715	2021-11-22
+"Orellana"	"Loreto"	180	2021-11-22
+"Orellana"	"Orellana"	2588	2021-11-22
+"Orellana"	"Aguarico"	504	2021-11-23
+"Orellana"	"La Joya de los Sachas"	715	2021-11-23
+"Orellana"	"Loreto"	180	2021-11-23
+"Orellana"	"Orellana"	2601	2021-11-23
+"Orellana"	"Aguarico"	504	2021-11-24
+"Orellana"	"La Joya de los Sachas"	717	2021-11-24
+"Orellana"	"Loreto"	181	2021-11-24
+"Orellana"	"Orellana"	2607	2021-11-24
+"Orellana"	"Aguarico"	504	2021-11-25
+"Orellana"	"La Joya de los Sachas"	721	2021-11-25
+"Orellana"	"Loreto"	184	2021-11-25
+"Orellana"	"Orellana"	2613	2021-11-25
+"Orellana"	"Aguarico"	504	2021-11-26
+"Orellana"	"La Joya de los Sachas"	721	2021-11-26
+"Orellana"	"Loreto"	184	2021-11-26
+"Orellana"	"Orellana"	2616	2021-11-26
+"Orellana"	"Aguarico"	504	2021-11-27
+"Orellana"	"La Joya de los Sachas"	728	2021-11-27
+"Orellana"	"Loreto"	184	2021-11-27
+"Orellana"	"Orellana"	2620	2021-11-27
+"Orellana"	"Aguarico"	504	2021-11-28
+"Orellana"	"La Joya de los Sachas"	728	2021-11-28
+"Orellana"	"Loreto"	184	2021-11-28
+"Orellana"	"Orellana"	2626	2021-11-28
+"Orellana"	"Aguarico"	504	2021-11-29
+"Orellana"	"La Joya de los Sachas"	729	2021-11-29
+"Orellana"	"Loreto"	184	2021-11-29
+"Orellana"	"Orellana"	2629	2021-11-29
+"Orellana"	"Aguarico"	504	2021-11-30
+"Orellana"	"La Joya de los Sachas"	729	2021-11-30
+"Orellana"	"Loreto"	184	2021-11-30
+"Orellana"	"Orellana"	2629	2021-11-30
+"Orellana"	"Aguarico"	504	2021-12-01
+"Orellana"	"La Joya de los Sachas"	739	2021-12-01
+"Orellana"	"Loreto"	185	2021-12-01
+"Orellana"	"Orellana"	2637	2021-12-01
+"Orellana"	"Aguarico"	505	2021-12-02
+"Orellana"	"La Joya de los Sachas"	739	2021-12-02
+"Orellana"	"Loreto"	185	2021-12-02
+"Orellana"	"Orellana"	2638	2021-12-02
+"Orellana"	"Aguarico"	505	2021-12-03
+"Orellana"	"La Joya de los Sachas"	740	2021-12-03
+"Orellana"	"Loreto"	186	2021-12-03
+"Orellana"	"Orellana"	2650	2021-12-03
+"Orellana"	"Aguarico"	506	2021-12-04
+"Orellana"	"La Joya de los Sachas"	742	2021-12-04
+"Orellana"	"Loreto"	186	2021-12-04
+"Orellana"	"Orellana"	2654	2021-12-04
+"Orellana"	"Aguarico"	508	2021-12-05
+"Orellana"	"La Joya de los Sachas"	743	2021-12-05
+"Orellana"	"Loreto"	186	2021-12-05
+"Orellana"	"Orellana"	2657	2021-12-05
+"Orellana"	"Aguarico"	508	2021-12-06
+"Orellana"	"La Joya de los Sachas"	743	2021-12-06
+"Orellana"	"Loreto"	186	2021-12-06
+"Orellana"	"Orellana"	2658	2021-12-06
+"Orellana"	"Aguarico"	510	2021-12-07
+"Orellana"	"La Joya de los Sachas"	749	2021-12-07
+"Orellana"	"Loreto"	188	2021-12-07
+"Orellana"	"Orellana"	2672	2021-12-07
+"Orellana"	"Aguarico"	510	2021-12-08
+"Orellana"	"La Joya de los Sachas"	750	2021-12-08
+"Orellana"	"Loreto"	188	2021-12-08
+"Orellana"	"Orellana"	2674	2021-12-08
+"Orellana"	"Aguarico"	511	2021-12-09
+"Orellana"	"La Joya de los Sachas"	751	2021-12-09
+"Orellana"	"Loreto"	188	2021-12-09
+"Orellana"	"Orellana"	2680	2021-12-09
+"Orellana"	"Aguarico"	511	2021-12-10
+"Orellana"	"La Joya de los Sachas"	751	2021-12-10
+"Orellana"	"Loreto"	188	2021-12-10
+"Orellana"	"Orellana"	2682	2021-12-10
+"Orellana"	"Aguarico"	511	2021-12-11
+"Orellana"	"La Joya de los Sachas"	754	2021-12-11
+"Orellana"	"Loreto"	189	2021-12-11
+"Orellana"	"Orellana"	2686	2021-12-11
+"Orellana"	"Aguarico"	511	2021-12-12
+"Orellana"	"La Joya de los Sachas"	756	2021-12-12
+"Orellana"	"Loreto"	189	2021-12-12
+"Orellana"	"Orellana"	2690	2021-12-12
+"Orellana"	"Aguarico"	511	2021-12-13
+"Orellana"	"La Joya de los Sachas"	756	2021-12-13
+"Orellana"	"Loreto"	189	2021-12-13
+"Orellana"	"Orellana"	2693	2021-12-13
+"Orellana"	"Aguarico"	511	2021-12-14
+"Orellana"	"La Joya de los Sachas"	758	2021-12-14
+"Orellana"	"Loreto"	189	2021-12-14
+"Orellana"	"Orellana"	2696	2021-12-14
+"Orellana"	"Aguarico"	511	2021-12-15
+"Orellana"	"La Joya de los Sachas"	759	2021-12-15
+"Orellana"	"Loreto"	189	2021-12-15
+"Orellana"	"Orellana"	2701	2021-12-15
+"Orellana"	"Aguarico"	511	2021-12-16
+"Orellana"	"La Joya de los Sachas"	761	2021-12-16
+"Orellana"	"Loreto"	189	2021-12-16
+"Orellana"	"Orellana"	2705	2021-12-16
+"Orellana"	"Aguarico"	511	2021-12-17
+"Orellana"	"La Joya de los Sachas"	762	2021-12-17
+"Orellana"	"Loreto"	189	2021-12-17
+"Orellana"	"Orellana"	2707	2021-12-17
+"Orellana"	"Aguarico"	511	2021-12-18
+"Orellana"	"La Joya de los Sachas"	763	2021-12-18
+"Orellana"	"Loreto"	189	2021-12-18
+"Orellana"	"Orellana"	2710	2021-12-18
+"Orellana"	"Aguarico"	511	2021-12-19
+"Orellana"	"La Joya de los Sachas"	764	2021-12-19
+"Orellana"	"Loreto"	189	2021-12-19
+"Orellana"	"Orellana"	2712	2021-12-19
+"Orellana"	"Aguarico"	511	2021-12-20
+"Orellana"	"La Joya de los Sachas"	764	2021-12-20
+"Orellana"	"Loreto"	189	2021-12-20
+"Orellana"	"Orellana"	2716	2021-12-20
+"Orellana"	"Aguarico"	511	2021-12-21
+"Orellana"	"La Joya de los Sachas"	764	2021-12-21
+"Orellana"	"Loreto"	189	2021-12-21
+"Orellana"	"Orellana"	2721	2021-12-21
+"Orellana"	"Aguarico"	511	2021-12-22
+"Orellana"	"La Joya de los Sachas"	766	2021-12-22
+"Orellana"	"Loreto"	189	2021-12-22
+"Orellana"	"Orellana"	2724	2021-12-22
+"Orellana"	"Aguarico"	511	2021-12-23
+"Orellana"	"La Joya de los Sachas"	767	2021-12-23
+"Orellana"	"Loreto"	189	2021-12-23
+"Orellana"	"Orellana"	2726	2021-12-23
+"Orellana"	"Aguarico"	513	2021-12-24
+"Orellana"	"La Joya de los Sachas"	769	2021-12-24
+"Orellana"	"Loreto"	189	2021-12-24
+"Orellana"	"Orellana"	2729	2021-12-24
+"Orellana"	"Aguarico"	513	2021-12-25
+"Orellana"	"La Joya de los Sachas"	771	2021-12-25
+"Orellana"	"Loreto"	189	2021-12-25
+"Orellana"	"Orellana"	2730	2021-12-25
+"Orellana"	"Aguarico"	513	2021-12-26
+"Orellana"	"La Joya de los Sachas"	771	2021-12-26
+"Orellana"	"Loreto"	189	2021-12-26
+"Orellana"	"Orellana"	2730	2021-12-26
+"Orellana"	"Aguarico"	515	2021-12-27
+"Orellana"	"La Joya de los Sachas"	771	2021-12-27
+"Orellana"	"Loreto"	191	2021-12-27
+"Orellana"	"Orellana"	2732	2021-12-27
+"Orellana"	"Aguarico"	515	2021-12-28
+"Orellana"	"La Joya de los Sachas"	772	2021-12-28
+"Orellana"	"Loreto"	192	2021-12-28
+"Orellana"	"Orellana"	2738	2021-12-28
+"Orellana"	"Aguarico"	515	2021-12-29
+"Orellana"	"La Joya de los Sachas"	773	2021-12-29
+"Orellana"	"Loreto"	192	2021-12-29
+"Orellana"	"Orellana"	2740	2021-12-29
+"Orellana"	"Aguarico"	515	2021-12-30
+"Orellana"	"La Joya de los Sachas"	773	2021-12-30
+"Orellana"	"Loreto"	192	2021-12-30
+"Orellana"	"Orellana"	2741	2021-12-30
+"Orellana"	"Aguarico"	515	2021-12-31
+"Orellana"	"La Joya de los Sachas"	773	2021-12-31
+"Orellana"	"Loreto"	192	2021-12-31
+"Orellana"	"Orellana"	2741	2021-12-31
+"Orellana"	"Aguarico"	517	2022-01-01
+"Orellana"	"La Joya de los Sachas"	773	2022-01-01
+"Orellana"	"Loreto"	192	2022-01-01
+"Orellana"	"Orellana"	2742	2022-01-01
+"Orellana"	"Aguarico"	517	2022-01-02
+"Orellana"	"La Joya de los Sachas"	776	2022-01-02
+"Orellana"	"Loreto"	192	2022-01-02
+"Orellana"	"Orellana"	2746	2022-01-02
+"Orellana"	"Aguarico"	520	2022-01-03
+"Orellana"	"La Joya de los Sachas"	776	2022-01-03
+"Orellana"	"Loreto"	192	2022-01-03
+"Orellana"	"Orellana"	2748	2022-01-03
+"Orellana"	"Aguarico"	520	2022-01-04
+"Orellana"	"La Joya de los Sachas"	778	2022-01-04
+"Orellana"	"Loreto"	192	2022-01-04
+"Orellana"	"Orellana"	2749	2022-01-04
+"Orellana"	"Aguarico"	522	2022-01-05
+"Orellana"	"La Joya de los Sachas"	779	2022-01-05
+"Orellana"	"Loreto"	192	2022-01-05
+"Orellana"	"Orellana"	2750	2022-01-05
+"Orellana"	"Aguarico"	522	2022-01-06
+"Orellana"	"La Joya de los Sachas"	780	2022-01-06
+"Orellana"	"Loreto"	192	2022-01-06
+"Orellana"	"Orellana"	2751	2022-01-06
+"Orellana"	"Aguarico"	522	2022-01-07
+"Orellana"	"La Joya de los Sachas"	780	2022-01-07
+"Orellana"	"Loreto"	192	2022-01-07
+"Orellana"	"Orellana"	2752	2022-01-07
+"Orellana"	"Aguarico"	522	2022-01-08
+"Orellana"	"La Joya de los Sachas"	780	2022-01-08
+"Orellana"	"Loreto"	192	2022-01-08
+"Orellana"	"Orellana"	2757	2022-01-08
+"Orellana"	"Aguarico"	522	2022-01-09
+"Orellana"	"La Joya de los Sachas"	781	2022-01-09
+"Orellana"	"Loreto"	193	2022-01-09
+"Orellana"	"Orellana"	2768	2022-01-09
+"Orellana"	"Aguarico"	522	2022-01-10
+"Orellana"	"La Joya de los Sachas"	783	2022-01-10
+"Orellana"	"Loreto"	193	2022-01-10
+"Orellana"	"Orellana"	2771	2022-01-10
+"Orellana"	"Aguarico"	522	2022-01-11
+"Orellana"	"La Joya de los Sachas"	787	2022-01-11
+"Orellana"	"Loreto"	193	2022-01-11
+"Orellana"	"Orellana"	2791	2022-01-11
+"Orellana"	"Aguarico"	522	2022-01-12
+"Orellana"	"La Joya de los Sachas"	793	2022-01-12
+"Orellana"	"Loreto"	193	2022-01-12
+"Orellana"	"Orellana"	2806	2022-01-12
+"Orellana"	"Aguarico"	523	2022-01-13
+"Orellana"	"La Joya de los Sachas"	796	2022-01-13
+"Orellana"	"Loreto"	193	2022-01-13
+"Orellana"	"Orellana"	2827	2022-01-13
+"Orellana"	"Aguarico"	527	2022-01-14
+"Orellana"	"La Joya de los Sachas"	807	2022-01-14
+"Orellana"	"Loreto"	194	2022-01-14
+"Orellana"	"Orellana"	2850	2022-01-14
+"Orellana"	"Aguarico"	529	2022-01-15
+"Orellana"	"La Joya de los Sachas"	814	2022-01-15
+"Orellana"	"Loreto"	199	2022-01-15
+"Orellana"	"Orellana"	2898	2022-01-15
+"Orellana"	"Aguarico"	534	2022-01-16
+"Orellana"	"La Joya de los Sachas"	817	2022-01-16
+"Orellana"	"Loreto"	200	2022-01-16
+"Orellana"	"Orellana"	2909	2022-01-16
+"Orellana"	"Aguarico"	535	2022-01-17
+"Orellana"	"La Joya de los Sachas"	821	2022-01-17
+"Orellana"	"Loreto"	201	2022-01-17
+"Orellana"	"Orellana"	2924	2022-01-17
+"Orellana"	"Aguarico"	537	2022-01-18
+"Orellana"	"La Joya de los Sachas"	827	2022-01-18
+"Orellana"	"Loreto"	207	2022-01-18
+"Orellana"	"Orellana"	2966	2022-01-18
+"Orellana"	"Aguarico"	542	2022-01-19
+"Orellana"	"La Joya de los Sachas"	847	2022-01-19
+"Orellana"	"Loreto"	219	2022-01-19
+"Orellana"	"Orellana"	3001	2022-01-19
+"Orellana"	"Aguarico"	547	2022-01-20
+"Orellana"	"La Joya de los Sachas"	865	2022-01-20
+"Orellana"	"Loreto"	221	2022-01-20
+"Orellana"	"Orellana"	3036	2022-01-20
+"Orellana"	"Aguarico"	554	2022-01-21
+"Orellana"	"La Joya de los Sachas"	882	2022-01-21
+"Orellana"	"Loreto"	227	2022-01-21
+"Orellana"	"Orellana"	3069	2022-01-21
+"Orellana"	"Aguarico"	565	2022-01-22
+"Orellana"	"La Joya de los Sachas"	889	2022-01-22
+"Orellana"	"Loreto"	233	2022-01-22
+"Orellana"	"Orellana"	3082	2022-01-22
+"Orellana"	"Aguarico"	605	2022-01-23
+"Orellana"	"La Joya de los Sachas"	890	2022-01-23
+"Orellana"	"Loreto"	237	2022-01-23
+"Orellana"	"Orellana"	3087	2022-01-23
+"Orellana"	"Aguarico"	719	2022-01-24
+"Orellana"	"La Joya de los Sachas"	892	2022-01-24
+"Orellana"	"Loreto"	239	2022-01-24
+"Orellana"	"Orellana"	3096	2022-01-24
+"Orellana"	"Aguarico"	741	2022-01-25
+"Orellana"	"La Joya de los Sachas"	897	2022-01-25
+"Orellana"	"Loreto"	240	2022-01-25
+"Orellana"	"Orellana"	3125	2022-01-25
+"Orellana"	"Aguarico"	776	2022-01-26
+"Orellana"	"La Joya de los Sachas"	901	2022-01-26
+"Orellana"	"Loreto"	243	2022-01-26
+"Orellana"	"Orellana"	3146	2022-01-26
+"Orellana"	"Aguarico"	800	2022-01-27
+"Orellana"	"La Joya de los Sachas"	905	2022-01-27
+"Orellana"	"Loreto"	246	2022-01-27
+"Orellana"	"Orellana"	3167	2022-01-27
+"Orellana"	"Aguarico"	804	2022-01-28
+"Orellana"	"La Joya de los Sachas"	911	2022-01-28
+"Orellana"	"Loreto"	247	2022-01-28
+"Orellana"	"Orellana"	3185	2022-01-28
+"Orellana"	"Aguarico"	804	2022-01-29
+"Orellana"	"La Joya de los Sachas"	920	2022-01-29
+"Orellana"	"Loreto"	247	2022-01-29
+"Orellana"	"Orellana"	3192	2022-01-29
+"Orellana"	"Aguarico"	830	2022-01-30
+"Orellana"	"La Joya de los Sachas"	924	2022-01-30
+"Orellana"	"Loreto"	249	2022-01-30
+"Orellana"	"Orellana"	3201	2022-01-30
+"Orellana"	"Aguarico"	837	2022-01-31
+"Orellana"	"La Joya de los Sachas"	926	2022-01-31
+"Orellana"	"Loreto"	249	2022-01-31
+"Orellana"	"Orellana"	3211	2022-01-31
+"Orellana"	"Aguarico"	839	2022-02-01
+"Orellana"	"La Joya de los Sachas"	932	2022-02-01
+"Orellana"	"Loreto"	252	2022-02-01
+"Orellana"	"Orellana"	3218	2022-02-01
+"Orellana"	"Aguarico"	844	2022-02-02
+"Orellana"	"La Joya de los Sachas"	932	2022-02-02
+"Orellana"	"Loreto"	252	2022-02-02
+"Orellana"	"Orellana"	3224	2022-02-02
+"Orellana"	"Aguarico"	846	2022-02-03
+"Orellana"	"La Joya de los Sachas"	937	2022-02-03
+"Orellana"	"Loreto"	262	2022-02-03
+"Orellana"	"Orellana"	3254	2022-02-03
+"Orellana"	"Aguarico"	852	2022-02-04
+"Orellana"	"La Joya de los Sachas"	940	2022-02-04
+"Orellana"	"Loreto"	267	2022-02-04
+"Orellana"	"Orellana"	3284	2022-02-04
+"Orellana"	"Aguarico"	853	2022-02-05
+"Orellana"	"La Joya de los Sachas"	944	2022-02-05
+"Orellana"	"Loreto"	269	2022-02-05
+"Orellana"	"Orellana"	3316	2022-02-05
+"Orellana"	"Aguarico"	853	2022-02-06
+"Orellana"	"La Joya de los Sachas"	947	2022-02-06
+"Orellana"	"Loreto"	271	2022-02-06
+"Orellana"	"Orellana"	3329	2022-02-06
+"Orellana"	"Aguarico"	854	2022-02-07
+"Orellana"	"La Joya de los Sachas"	949	2022-02-07
+"Orellana"	"Loreto"	271	2022-02-07
+"Orellana"	"Orellana"	3336	2022-02-07
+"Orellana"	"Aguarico"	854	2022-02-08
+"Orellana"	"La Joya de los Sachas"	953	2022-02-08
+"Orellana"	"Loreto"	274	2022-02-08
+"Orellana"	"Orellana"	3345	2022-02-08
+"Orellana"	"Aguarico"	855	2022-02-09
+"Orellana"	"La Joya de los Sachas"	970	2022-02-09
+"Orellana"	"Loreto"	276	2022-02-09
+"Orellana"	"Orellana"	3377	2022-02-09
+"Orellana"	"Aguarico"	855	2022-02-10
+"Orellana"	"La Joya de los Sachas"	980	2022-02-10
+"Orellana"	"Loreto"	278	2022-02-10
+"Orellana"	"Orellana"	3400	2022-02-10
+"Orellana"	"Aguarico"	856	2022-02-11
+"Orellana"	"La Joya de los Sachas"	988	2022-02-11
+"Orellana"	"Loreto"	280	2022-02-11
+"Orellana"	"Orellana"	3421	2022-02-11
+"Orellana"	"Aguarico"	857	2022-02-12
+"Orellana"	"La Joya de los Sachas"	1005	2022-02-12
+"Orellana"	"Loreto"	280	2022-02-12
+"Orellana"	"Orellana"	3462	2022-02-12
+"Orellana"	"Aguarico"	858	2022-02-13
+"Orellana"	"La Joya de los Sachas"	1006	2022-02-13
+"Orellana"	"Loreto"	281	2022-02-13
+"Orellana"	"Orellana"	3465	2022-02-13
+"Orellana"	"Aguarico"	858	2022-02-14
+"Orellana"	"La Joya de los Sachas"	1006	2022-02-14
+"Orellana"	"Loreto"	282	2022-02-14
+"Orellana"	"Orellana"	3466	2022-02-14
+"Orellana"	"Aguarico"	859	2022-02-15
+"Orellana"	"La Joya de los Sachas"	1011	2022-02-15
+"Orellana"	"Loreto"	285	2022-02-15
+"Orellana"	"Orellana"	3477	2022-02-15
+"Orellana"	"Aguarico"	859	2022-02-16
+"Orellana"	"La Joya de los Sachas"	1011	2022-02-16
+"Orellana"	"Loreto"	285	2022-02-16
+"Orellana"	"Orellana"	3478	2022-02-16
+"Orellana"	"Aguarico"	859	2022-02-17
+"Orellana"	"La Joya de los Sachas"	1015	2022-02-17
+"Orellana"	"Loreto"	286	2022-02-17
+"Orellana"	"Orellana"	3488	2022-02-17
+"Orellana"	"Aguarico"	861	2022-02-18
+"Orellana"	"La Joya de los Sachas"	1020	2022-02-18
+"Orellana"	"Loreto"	286	2022-02-18
+"Orellana"	"Orellana"	3505	2022-02-18
+"Orellana"	"Aguarico"	865	2022-02-19
+"Orellana"	"La Joya de los Sachas"	1028	2022-02-19
+"Orellana"	"Loreto"	286	2022-02-19
+"Orellana"	"Orellana"	3517	2022-02-19
+"Orellana"	"Aguarico"	865	2022-02-20
+"Orellana"	"La Joya de los Sachas"	1029	2022-02-20
+"Orellana"	"Loreto"	287	2022-02-20
+"Orellana"	"Orellana"	3521	2022-02-20
+"Orellana"	"Aguarico"	865	2022-02-21
+"Orellana"	"La Joya de los Sachas"	1031	2022-02-21
+"Orellana"	"Loreto"	288	2022-02-21
+"Orellana"	"Orellana"	3525	2022-02-21
+"Orellana"	"Aguarico"	866	2022-02-22
+"Orellana"	"La Joya de los Sachas"	1034	2022-02-22
+"Orellana"	"Loreto"	288	2022-02-22
+"Orellana"	"Orellana"	3528	2022-02-22
+"Orellana"	"Aguarico"	866	2022-02-23
+"Orellana"	"La Joya de los Sachas"	1035	2022-02-23
+"Orellana"	"Loreto"	290	2022-02-23
+"Orellana"	"Orellana"	3531	2022-02-23
+"Orellana"	"Aguarico"	866	2022-02-24
+"Orellana"	"La Joya de los Sachas"	1036	2022-02-24
+"Orellana"	"Loreto"	291	2022-02-24
+"Orellana"	"Orellana"	3538	2022-02-24
+"Orellana"	"Aguarico"	866	2022-02-25
+"Orellana"	"La Joya de los Sachas"	1039	2022-02-25
+"Orellana"	"Loreto"	291	2022-02-25
+"Orellana"	"Orellana"	3551	2022-02-25
+"Orellana"	"Aguarico"	866	2022-02-26
+"Orellana"	"La Joya de los Sachas"	1040	2022-02-26
+"Orellana"	"Loreto"	290	2022-02-26
+"Orellana"	"Orellana"	3555	2022-02-26
+"Orellana"	"Aguarico"	866	2022-02-27
+"Orellana"	"La Joya de los Sachas"	1040	2022-02-27
+"Orellana"	"Loreto"	290	2022-02-27
+"Orellana"	"Orellana"	3556	2022-02-27
+"Orellana"	"Aguarico"	866	2022-02-28
+"Orellana"	"La Joya de los Sachas"	1040	2022-02-28
+"Orellana"	"Loreto"	290	2022-02-28
+"Orellana"	"Orellana"	3556	2022-02-28
+"Orellana"	"Aguarico"	867	2022-03-01
+"Orellana"	"La Joya de los Sachas"	1040	2022-03-01
+"Orellana"	"Loreto"	290	2022-03-01
+"Orellana"	"Orellana"	3556	2022-03-01
+"Orellana"	"Aguarico"	867	2022-03-02
+"Orellana"	"La Joya de los Sachas"	1040	2022-03-02
+"Orellana"	"Loreto"	290	2022-03-02
+"Orellana"	"Orellana"	3558	2022-03-02
+"Orellana"	"Aguarico"	867	2022-03-03
+"Orellana"	"La Joya de los Sachas"	1040	2022-03-03
+"Orellana"	"Loreto"	291	2022-03-03
+"Orellana"	"Orellana"	3558	2022-03-03
+"Orellana"	"Aguarico"	867	2022-03-04
+"Orellana"	"La Joya de los Sachas"	1042	2022-03-04
+"Orellana"	"Loreto"	292	2022-03-04
+"Orellana"	"Orellana"	3567	2022-03-04
+"Orellana"	"Aguarico"	868	2022-03-05
+"Orellana"	"La Joya de los Sachas"	1042	2022-03-05
+"Orellana"	"Loreto"	293	2022-03-05
+"Orellana"	"Orellana"	3567	2022-03-05
+"Orellana"	"Aguarico"	868	2022-03-06
+"Orellana"	"La Joya de los Sachas"	1042	2022-03-06
+"Orellana"	"Loreto"	293	2022-03-06
+"Orellana"	"Orellana"	3567	2022-03-06
+"Orellana"	"Aguarico"	868	2022-03-07
+"Orellana"	"La Joya de los Sachas"	1043	2022-03-07
+"Orellana"	"Loreto"	293	2022-03-07
+"Orellana"	"Orellana"	3567	2022-03-07
+"Orellana"	"Aguarico"	868	2022-03-08
+"Orellana"	"La Joya de los Sachas"	1044	2022-03-08
+"Orellana"	"Loreto"	293	2022-03-08
+"Orellana"	"Orellana"	3568	2022-03-08
+"Orellana"	"Aguarico"	868	2022-03-09
+"Orellana"	"La Joya de los Sachas"	1044	2022-03-09
+"Orellana"	"Loreto"	293	2022-03-09
+"Orellana"	"Orellana"	3568	2022-03-09
+"Orellana"	"Aguarico"	868	2022-03-10
+"Orellana"	"La Joya de los Sachas"	1046	2022-03-10
+"Orellana"	"Loreto"	294	2022-03-10
+"Orellana"	"Orellana"	3568	2022-03-10
+"Orellana"	"Aguarico"	868	2022-03-11
+"Orellana"	"La Joya de los Sachas"	1052	2022-03-11
+"Orellana"	"Loreto"	294	2022-03-11
+"Orellana"	"Orellana"	3571	2022-03-11
+"Orellana"	"Aguarico"	868	2022-03-12
+"Orellana"	"La Joya de los Sachas"	1052	2022-03-12
+"Orellana"	"Loreto"	294	2022-03-12
+"Orellana"	"Orellana"	3572	2022-03-12
+"Orellana"	"Aguarico"	868	2022-03-13
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-13
+"Orellana"	"Loreto"	295	2022-03-13
+"Orellana"	"Orellana"	3572	2022-03-13
+"Orellana"	"Aguarico"	868	2022-03-14
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-14
+"Orellana"	"Loreto"	295	2022-03-14
+"Orellana"	"Orellana"	3572	2022-03-14
+"Orellana"	"Aguarico"	868	2022-03-15
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-15
+"Orellana"	"Loreto"	297	2022-03-15
+"Orellana"	"Orellana"	3575	2022-03-15
+"Orellana"	"Aguarico"	868	2022-03-16
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-16
+"Orellana"	"Loreto"	297	2022-03-16
+"Orellana"	"Orellana"	3575	2022-03-16
+"Orellana"	"Aguarico"	868	2022-03-17
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-17
+"Orellana"	"Loreto"	298	2022-03-17
+"Orellana"	"Orellana"	3576	2022-03-17
+"Orellana"	"Aguarico"	868	2022-03-18
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-18
+"Orellana"	"Loreto"	298	2022-03-18
+"Orellana"	"Orellana"	3576	2022-03-18
+"Orellana"	"Aguarico"	868	2022-03-19
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-19
+"Orellana"	"Loreto"	299	2022-03-19
+"Orellana"	"Orellana"	3576	2022-03-19
+"Orellana"	"Aguarico"	868	2022-03-20
+"Orellana"	"La Joya de los Sachas"	1050	2022-03-20
+"Orellana"	"Loreto"	299	2022-03-20
+"Orellana"	"Orellana"	3574	2022-03-20
+"Orellana"	"Aguarico"	868	2022-03-21
+"Orellana"	"La Joya de los Sachas"	1050	2022-03-21
+"Orellana"	"Loreto"	300	2022-03-21
+"Orellana"	"Orellana"	3573	2022-03-21
+"Orellana"	"Aguarico"	868	2022-03-22
+"Orellana"	"La Joya de los Sachas"	1050	2022-03-22
+"Orellana"	"Loreto"	300	2022-03-22
+"Orellana"	"Orellana"	3572	2022-03-22
+"Orellana"	"Aguarico"	868	2022-03-23
+"Orellana"	"La Joya de los Sachas"	1050	2022-03-23
+"Orellana"	"Loreto"	301	2022-03-23
+"Orellana"	"Orellana"	3572	2022-03-23
+"Orellana"	"Aguarico"	868	2022-03-24
+"Orellana"	"La Joya de los Sachas"	1050	2022-03-24
+"Orellana"	"Loreto"	301	2022-03-24
+"Orellana"	"Orellana"	3574	2022-03-24
+"Orellana"	"Aguarico"	868	2022-03-25
+"Orellana"	"La Joya de los Sachas"	1052	2022-03-25
+"Orellana"	"Loreto"	301	2022-03-25
+"Orellana"	"Orellana"	3574	2022-03-25
+"Orellana"	"Aguarico"	868	2022-03-26
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-26
+"Orellana"	"Loreto"	301	2022-03-26
+"Orellana"	"Orellana"	3574	2022-03-26
+"Orellana"	"Aguarico"	868	2022-03-27
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-27
+"Orellana"	"Loreto"	301	2022-03-27
+"Orellana"	"Orellana"	3574	2022-03-27
+"Orellana"	"Aguarico"	868	2022-03-28
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-28
+"Orellana"	"Loreto"	301	2022-03-28
+"Orellana"	"Orellana"	3574	2022-03-28
+"Orellana"	"Aguarico"	868	2022-03-29
+"Orellana"	"La Joya de los Sachas"	1053	2022-03-29
+"Orellana"	"Loreto"	301	2022-03-29
+"Orellana"	"Orellana"	3575	2022-03-29
+"Orellana"	"Aguarico"	868	2022-03-30
+"Orellana"	"La Joya de los Sachas"	1054	2022-03-30
+"Orellana"	"Loreto"	301	2022-03-30
+"Orellana"	"Orellana"	3575	2022-03-30
+"Orellana"	"Aguarico"	868	2022-03-31
+"Orellana"	"La Joya de los Sachas"	1054	2022-03-31
+"Orellana"	"Loreto"	301	2022-03-31
+"Orellana"	"Orellana"	3575	2022-03-31
+"Orellana"	"Aguarico"	868	2022-04-01
+"Orellana"	"La Joya de los Sachas"	1054	2022-04-01
+"Orellana"	"Loreto"	301	2022-04-01
+"Orellana"	"Orellana"	3575	2022-04-01
+"Orellana"	"Aguarico"	868	2022-04-02
+"Orellana"	"La Joya de los Sachas"	1054	2022-04-02
+"Orellana"	"Loreto"	301	2022-04-02
+"Orellana"	"Orellana"	3578	2022-04-02
+"Orellana"	"Aguarico"	868	2022-04-03
+"Orellana"	"La Joya de los Sachas"	1054	2022-04-03
+"Orellana"	"Loreto"	301	2022-04-03
+"Orellana"	"Orellana"	3577	2022-04-03
+"Orellana"	"Aguarico"	868	2022-04-04
+"Orellana"	"La Joya de los Sachas"	1054	2022-04-04
+"Orellana"	"Loreto"	301	2022-04-04
+"Orellana"	"Orellana"	3576	2022-04-04
+"Orellana"	"Aguarico"	868	2022-04-05
+"Orellana"	"La Joya de los Sachas"	1054	2022-04-05
+"Orellana"	"Loreto"	301	2022-04-05
+"Orellana"	"Orellana"	3576	2022-04-05
+"Orellana"	"Aguarico"	868	2022-04-06
+"Orellana"	"La Joya de los Sachas"	1058	2022-04-06
+"Orellana"	"Loreto"	302	2022-04-06
+"Orellana"	"Orellana"	3591	2022-04-06
+"Orellana"	"Aguarico"	868	2022-04-07
+"Orellana"	"La Joya de los Sachas"	1059	2022-04-07
+"Orellana"	"Loreto"	302	2022-04-07
+"Orellana"	"Orellana"	3592	2022-04-07
+"Orellana"	"Aguarico"	868	2022-04-08
+"Orellana"	"La Joya de los Sachas"	1059	2022-04-08
+"Orellana"	"Loreto"	302	2022-04-08
+"Orellana"	"Orellana"	3592	2022-04-08
+"Orellana"	"Aguarico"	868	2022-04-09
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-09
+"Orellana"	"Loreto"	302	2022-04-09
+"Orellana"	"Orellana"	3607	2022-04-09
+"Orellana"	"Aguarico"	868	2022-04-10
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-10
+"Orellana"	"Loreto"	302	2022-04-10
+"Orellana"	"Orellana"	3607	2022-04-10
+"Orellana"	"Aguarico"	869	2022-04-11
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-11
+"Orellana"	"Loreto"	302	2022-04-11
+"Orellana"	"Orellana"	3607	2022-04-11
+"Orellana"	"Aguarico"	869	2022-04-12
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-12
+"Orellana"	"Loreto"	302	2022-04-12
+"Orellana"	"Orellana"	3607	2022-04-12
+"Orellana"	"Aguarico"	869	2022-04-13
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-13
+"Orellana"	"Loreto"	302	2022-04-13
+"Orellana"	"Orellana"	3608	2022-04-13
+"Orellana"	"Aguarico"	869	2022-04-14
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-14
+"Orellana"	"Loreto"	303	2022-04-14
+"Orellana"	"Orellana"	3608	2022-04-14
+"Orellana"	"Aguarico"	869	2022-04-15
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-15
+"Orellana"	"Loreto"	303	2022-04-15
+"Orellana"	"Orellana"	3608	2022-04-15
+"Orellana"	"Aguarico"	869	2022-04-16
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-16
+"Orellana"	"Loreto"	303	2022-04-16
+"Orellana"	"Orellana"	3608	2022-04-16
+"Orellana"	"Aguarico"	869	2022-04-17
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-17
+"Orellana"	"Loreto"	303	2022-04-17
+"Orellana"	"Orellana"	3608	2022-04-17
+"Orellana"	"Aguarico"	869	2022-04-18
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-18
+"Orellana"	"Loreto"	303	2022-04-18
+"Orellana"	"Orellana"	3608	2022-04-18
+"Orellana"	"Aguarico"	869	2022-04-19
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-19
+"Orellana"	"Loreto"	303	2022-04-19
+"Orellana"	"Orellana"	3608	2022-04-19
+"Orellana"	"Aguarico"	869	2022-04-20
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-20
+"Orellana"	"Loreto"	303	2022-04-20
+"Orellana"	"Orellana"	3608	2022-04-20
+"Orellana"	"Aguarico"	869	2022-04-21
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-21
+"Orellana"	"Loreto"	303	2022-04-21
+"Orellana"	"Orellana"	3609	2022-04-21
+"Orellana"	"Aguarico"	869	2022-04-22
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-22
+"Orellana"	"Loreto"	303	2022-04-22
+"Orellana"	"Orellana"	3610	2022-04-22
+"Orellana"	"Aguarico"	869	2022-04-23
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-23
+"Orellana"	"Loreto"	303	2022-04-23
+"Orellana"	"Orellana"	3611	2022-04-23
+"Orellana"	"Aguarico"	869	2022-04-24
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-24
+"Orellana"	"Loreto"	303	2022-04-24
+"Orellana"	"Orellana"	3611	2022-04-24
+"Orellana"	"Aguarico"	869	2022-04-25
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-25
+"Orellana"	"Loreto"	303	2022-04-25
+"Orellana"	"Orellana"	3611	2022-04-25
+"Orellana"	"Aguarico"	869	2022-04-26
+"Orellana"	"La Joya de los Sachas"	1065	2022-04-26
+"Orellana"	"Loreto"	303	2022-04-26
+"Orellana"	"Orellana"	3611	2022-04-26
+"Orellana"	"Aguarico"	869	2022-04-27
+"Orellana"	"La Joya de los Sachas"	1066	2022-04-27
+"Orellana"	"Loreto"	303	2022-04-27
+"Orellana"	"Orellana"	3611	2022-04-27
