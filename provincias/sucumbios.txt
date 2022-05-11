@@ -1,4 +1,2062 @@
 "provincia"	"canton"	"total"	"created_at"
+"Sucumbíos"	"Cascales"	0	2020-03-13
+"Sucumbíos"	"Cuyabeno"	0	2020-03-13
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-13
+"Sucumbíos"	"Lago Agrio"	1	2020-03-13
+"Sucumbíos"	"Putumayo"	0	2020-03-13
+"Sucumbíos"	"Shushufindi"	0	2020-03-13
+"Sucumbíos"	"Sucumbíos"	0	2020-03-13
+"Sucumbíos"	"Cascales"	0	2020-03-14
+"Sucumbíos"	"Cuyabeno"	0	2020-03-14
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-14
+"Sucumbíos"	"Lago Agrio"	1	2020-03-14
+"Sucumbíos"	"Putumayo"	0	2020-03-14
+"Sucumbíos"	"Shushufindi"	0	2020-03-14
+"Sucumbíos"	"Sucumbíos"	0	2020-03-14
+"Sucumbíos"	"Cascales"	0	2020-03-15
+"Sucumbíos"	"Cuyabeno"	0	2020-03-15
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-15
+"Sucumbíos"	"Lago Agrio"	1	2020-03-15
+"Sucumbíos"	"Putumayo"	0	2020-03-15
+"Sucumbíos"	"Shushufindi"	0	2020-03-15
+"Sucumbíos"	"Sucumbíos"	0	2020-03-15
+"Sucumbíos"	"Cascales"	0	2020-03-16
+"Sucumbíos"	"Cuyabeno"	0	2020-03-16
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-16
+"Sucumbíos"	"Lago Agrio"	1	2020-03-16
+"Sucumbíos"	"Putumayo"	0	2020-03-16
+"Sucumbíos"	"Shushufindi"	0	2020-03-16
+"Sucumbíos"	"Sucumbíos"	0	2020-03-16
+"Sucumbíos"	"Cascales"	0	2020-03-17
+"Sucumbíos"	"Cuyabeno"	0	2020-03-17
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-17
+"Sucumbíos"	"Lago Agrio"	1	2020-03-17
+"Sucumbíos"	"Putumayo"	0	2020-03-17
+"Sucumbíos"	"Shushufindi"	0	2020-03-17
+"Sucumbíos"	"Sucumbíos"	0	2020-03-17
+"Sucumbíos"	"Cascales"	0	2020-03-18
+"Sucumbíos"	"Cuyabeno"	0	2020-03-18
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-18
+"Sucumbíos"	"Lago Agrio"	1	2020-03-18
+"Sucumbíos"	"Putumayo"	0	2020-03-18
+"Sucumbíos"	"Shushufindi"	0	2020-03-18
+"Sucumbíos"	"Sucumbíos"	0	2020-03-18
+"Sucumbíos"	"Cascales"	0	2020-03-19
+"Sucumbíos"	"Cuyabeno"	1	2020-03-19
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-19
+"Sucumbíos"	"Lago Agrio"	1	2020-03-19
+"Sucumbíos"	"Putumayo"	0	2020-03-19
+"Sucumbíos"	"Shushufindi"	0	2020-03-19
+"Sucumbíos"	"Sucumbíos"	0	2020-03-19
+"Sucumbíos"	"Cascales"	0	2020-03-20
+"Sucumbíos"	"Cuyabeno"	1	2020-03-20
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-20
+"Sucumbíos"	"Lago Agrio"	2	2020-03-20
+"Sucumbíos"	"Putumayo"	0	2020-03-20
+"Sucumbíos"	"Shushufindi"	0	2020-03-20
+"Sucumbíos"	"Sucumbíos"	0	2020-03-20
+"Sucumbíos"	"Cascales"	0	2020-03-21
+"Sucumbíos"	"Cuyabeno"	1	2020-03-21
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-21
+"Sucumbíos"	"Lago Agrio"	2	2020-03-21
+"Sucumbíos"	"Putumayo"	0	2020-03-21
+"Sucumbíos"	"Shushufindi"	0	2020-03-21
+"Sucumbíos"	"Sucumbíos"	0	2020-03-21
+"Sucumbíos"	"Cascales"	0	2020-03-22
+"Sucumbíos"	"Cuyabeno"	1	2020-03-22
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-22
+"Sucumbíos"	"Lago Agrio"	5	2020-03-22
+"Sucumbíos"	"Putumayo"	0	2020-03-22
+"Sucumbíos"	"Shushufindi"	0	2020-03-22
+"Sucumbíos"	"Sucumbíos"	0	2020-03-22
+"Sucumbíos"	"Cascales"	0	2020-03-23
+"Sucumbíos"	"Cuyabeno"	1	2020-03-23
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-23
+"Sucumbíos"	"Lago Agrio"	5	2020-03-23
+"Sucumbíos"	"Putumayo"	0	2020-03-23
+"Sucumbíos"	"Shushufindi"	0	2020-03-23
+"Sucumbíos"	"Sucumbíos"	0	2020-03-23
+"Sucumbíos"	"Cascales"	0	2020-03-24
+"Sucumbíos"	"Cuyabeno"	1	2020-03-24
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-24
+"Sucumbíos"	"Lago Agrio"	5	2020-03-24
+"Sucumbíos"	"Putumayo"	0	2020-03-24
+"Sucumbíos"	"Shushufindi"	0	2020-03-24
+"Sucumbíos"	"Sucumbíos"	0	2020-03-24
+"Sucumbíos"	"Cascales"	0	2020-03-25
+"Sucumbíos"	"Cuyabeno"	1	2020-03-25
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-25
+"Sucumbíos"	"Lago Agrio"	5	2020-03-25
+"Sucumbíos"	"Putumayo"	0	2020-03-25
+"Sucumbíos"	"Shushufindi"	0	2020-03-25
+"Sucumbíos"	"Sucumbíos"	0	2020-03-25
+"Sucumbíos"	"Cascales"	0	2020-03-26
+"Sucumbíos"	"Cuyabeno"	2	2020-03-26
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-26
+"Sucumbíos"	"Lago Agrio"	16	2020-03-26
+"Sucumbíos"	"Putumayo"	0	2020-03-26
+"Sucumbíos"	"Shushufindi"	0	2020-03-26
+"Sucumbíos"	"Sucumbíos"	0	2020-03-26
+"Sucumbíos"	"Cascales"	0	2020-03-27
+"Sucumbíos"	"Cuyabeno"	2	2020-03-27
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-27
+"Sucumbíos"	"Lago Agrio"	16	2020-03-27
+"Sucumbíos"	"Putumayo"	0	2020-03-27
+"Sucumbíos"	"Shushufindi"	0	2020-03-27
+"Sucumbíos"	"Sucumbíos"	0	2020-03-27
+"Sucumbíos"	"Cascales"	0	2020-03-28
+"Sucumbíos"	"Cuyabeno"	3	2020-03-28
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-28
+"Sucumbíos"	"Lago Agrio"	15	2020-03-28
+"Sucumbíos"	"Putumayo"	0	2020-03-28
+"Sucumbíos"	"Shushufindi"	0	2020-03-28
+"Sucumbíos"	"Sucumbíos"	0	2020-03-28
+"Sucumbíos"	"Cascales"	0	2020-03-29
+"Sucumbíos"	"Cuyabeno"	3	2020-03-29
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-29
+"Sucumbíos"	"Lago Agrio"	22	2020-03-29
+"Sucumbíos"	"Putumayo"	0	2020-03-29
+"Sucumbíos"	"Shushufindi"	0	2020-03-29
+"Sucumbíos"	"Sucumbíos"	0	2020-03-29
+"Sucumbíos"	"Cascales"	0	2020-03-30
+"Sucumbíos"	"Cuyabeno"	3	2020-03-30
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-30
+"Sucumbíos"	"Lago Agrio"	22	2020-03-30
+"Sucumbíos"	"Putumayo"	0	2020-03-30
+"Sucumbíos"	"Shushufindi"	0	2020-03-30
+"Sucumbíos"	"Sucumbíos"	0	2020-03-30
+"Sucumbíos"	"Cascales"	0	2020-03-31
+"Sucumbíos"	"Cuyabeno"	3	2020-03-31
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-03-31
+"Sucumbíos"	"Lago Agrio"	24	2020-03-31
+"Sucumbíos"	"Putumayo"	0	2020-03-31
+"Sucumbíos"	"Shushufindi"	0	2020-03-31
+"Sucumbíos"	"Sucumbíos"	0	2020-03-31
+"Sucumbíos"	"Cascales"	0	2020-04-01
+"Sucumbíos"	"Cuyabeno"	3	2020-04-01
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-01
+"Sucumbíos"	"Lago Agrio"	24	2020-04-01
+"Sucumbíos"	"Putumayo"	0	2020-04-01
+"Sucumbíos"	"Shushufindi"	0	2020-04-01
+"Sucumbíos"	"Sucumbíos"	0	2020-04-01
+"Sucumbíos"	"Cascales"	0	2020-04-02
+"Sucumbíos"	"Cuyabeno"	3	2020-04-02
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-02
+"Sucumbíos"	"Lago Agrio"	24	2020-04-02
+"Sucumbíos"	"Putumayo"	0	2020-04-02
+"Sucumbíos"	"Shushufindi"	0	2020-04-02
+"Sucumbíos"	"Sucumbíos"	0	2020-04-02
+"Sucumbíos"	"Cascales"	0	2020-04-03
+"Sucumbíos"	"Cuyabeno"	3	2020-04-03
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-03
+"Sucumbíos"	"Lago Agrio"	24	2020-04-03
+"Sucumbíos"	"Putumayo"	0	2020-04-03
+"Sucumbíos"	"Shushufindi"	0	2020-04-03
+"Sucumbíos"	"Sucumbíos"	0	2020-04-03
+"Sucumbíos"	"Cascales"	0	2020-04-04
+"Sucumbíos"	"Cuyabeno"	3	2020-04-04
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-04
+"Sucumbíos"	"Lago Agrio"	24	2020-04-04
+"Sucumbíos"	"Putumayo"	0	2020-04-04
+"Sucumbíos"	"Shushufindi"	0	2020-04-04
+"Sucumbíos"	"Sucumbíos"	0	2020-04-04
+"Sucumbíos"	"Cascales"	0	2020-04-05
+"Sucumbíos"	"Cuyabeno"	3	2020-04-05
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-05
+"Sucumbíos"	"Lago Agrio"	26	2020-04-05
+"Sucumbíos"	"Putumayo"	0	2020-04-05
+"Sucumbíos"	"Shushufindi"	1	2020-04-05
+"Sucumbíos"	"Sucumbíos"	0	2020-04-05
+"Sucumbíos"	"Cascales"	0	2020-04-06
+"Sucumbíos"	"Cuyabeno"	3	2020-04-06
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-06
+"Sucumbíos"	"Lago Agrio"	26	2020-04-06
+"Sucumbíos"	"Putumayo"	0	2020-04-06
+"Sucumbíos"	"Shushufindi"	1	2020-04-06
+"Sucumbíos"	"Sucumbíos"	0	2020-04-06
+"Sucumbíos"	"Cascales"	0	2020-04-07
+"Sucumbíos"	"Cuyabeno"	3	2020-04-07
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-07
+"Sucumbíos"	"Lago Agrio"	29	2020-04-07
+"Sucumbíos"	"Putumayo"	0	2020-04-07
+"Sucumbíos"	"Shushufindi"	1	2020-04-07
+"Sucumbíos"	"Sucumbíos"	0	2020-04-07
+"Sucumbíos"	"Cascales"	0	2020-04-08
+"Sucumbíos"	"Cuyabeno"	3	2020-04-08
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-08
+"Sucumbíos"	"Lago Agrio"	29	2020-04-08
+"Sucumbíos"	"Putumayo"	0	2020-04-08
+"Sucumbíos"	"Shushufindi"	1	2020-04-08
+"Sucumbíos"	"Sucumbíos"	0	2020-04-08
+"Sucumbíos"	"Cascales"	0	2020-04-09
+"Sucumbíos"	"Cuyabeno"	3	2020-04-09
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-09
+"Sucumbíos"	"Lago Agrio"	29	2020-04-09
+"Sucumbíos"	"Putumayo"	0	2020-04-09
+"Sucumbíos"	"Shushufindi"	1	2020-04-09
+"Sucumbíos"	"Sucumbíos"	0	2020-04-09
+"Sucumbíos"	"Cascales"	0	2020-04-10
+"Sucumbíos"	"Cuyabeno"	3	2020-04-10
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-10
+"Sucumbíos"	"Lago Agrio"	30	2020-04-10
+"Sucumbíos"	"Putumayo"	0	2020-04-10
+"Sucumbíos"	"Shushufindi"	1	2020-04-10
+"Sucumbíos"	"Sucumbíos"	0	2020-04-10
+"Sucumbíos"	"Cascales"	0	2020-04-11
+"Sucumbíos"	"Cuyabeno"	3	2020-04-11
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-11
+"Sucumbíos"	"Lago Agrio"	29	2020-04-11
+"Sucumbíos"	"Putumayo"	0	2020-04-11
+"Sucumbíos"	"Shushufindi"	1	2020-04-11
+"Sucumbíos"	"Sucumbíos"	0	2020-04-11
+"Sucumbíos"	"Cascales"	0	2020-04-12
+"Sucumbíos"	"Cuyabeno"	3	2020-04-12
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-12
+"Sucumbíos"	"Lago Agrio"	29	2020-04-12
+"Sucumbíos"	"Putumayo"	0	2020-04-12
+"Sucumbíos"	"Shushufindi"	1	2020-04-12
+"Sucumbíos"	"Sucumbíos"	0	2020-04-12
+"Sucumbíos"	"Cascales"	0	2020-04-13
+"Sucumbíos"	"Cuyabeno"	3	2020-04-13
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-13
+"Sucumbíos"	"Lago Agrio"	29	2020-04-13
+"Sucumbíos"	"Putumayo"	0	2020-04-13
+"Sucumbíos"	"Shushufindi"	1	2020-04-13
+"Sucumbíos"	"Sucumbíos"	0	2020-04-13
+"Sucumbíos"	"Cascales"	0	2020-04-14
+"Sucumbíos"	"Cuyabeno"	3	2020-04-14
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-14
+"Sucumbíos"	"Lago Agrio"	29	2020-04-14
+"Sucumbíos"	"Putumayo"	0	2020-04-14
+"Sucumbíos"	"Shushufindi"	1	2020-04-14
+"Sucumbíos"	"Sucumbíos"	0	2020-04-14
+"Sucumbíos"	"Cascales"	0	2020-04-15
+"Sucumbíos"	"Cuyabeno"	3	2020-04-15
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-15
+"Sucumbíos"	"Lago Agrio"	29	2020-04-15
+"Sucumbíos"	"Putumayo"	0	2020-04-15
+"Sucumbíos"	"Shushufindi"	1	2020-04-15
+"Sucumbíos"	"Sucumbíos"	0	2020-04-15
+"Sucumbíos"	"Cascales"	0	2020-04-16
+"Sucumbíos"	"Cuyabeno"	3	2020-04-16
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-16
+"Sucumbíos"	"Lago Agrio"	29	2020-04-16
+"Sucumbíos"	"Putumayo"	0	2020-04-16
+"Sucumbíos"	"Shushufindi"	1	2020-04-16
+"Sucumbíos"	"Sucumbíos"	0	2020-04-16
+"Sucumbíos"	"Cascales"	0	2020-04-17
+"Sucumbíos"	"Cuyabeno"	3	2020-04-17
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-17
+"Sucumbíos"	"Lago Agrio"	30	2020-04-17
+"Sucumbíos"	"Putumayo"	0	2020-04-17
+"Sucumbíos"	"Shushufindi"	1	2020-04-17
+"Sucumbíos"	"Sucumbíos"	0	2020-04-17
+"Sucumbíos"	"Cascales"	0	2020-04-18
+"Sucumbíos"	"Cuyabeno"	3	2020-04-18
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-18
+"Sucumbíos"	"Lago Agrio"	30	2020-04-18
+"Sucumbíos"	"Putumayo"	0	2020-04-18
+"Sucumbíos"	"Shushufindi"	1	2020-04-18
+"Sucumbíos"	"Sucumbíos"	0	2020-04-18
+"Sucumbíos"	"Cascales"	0	2020-04-19
+"Sucumbíos"	"Cuyabeno"	3	2020-04-19
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-19
+"Sucumbíos"	"Lago Agrio"	30	2020-04-19
+"Sucumbíos"	"Putumayo"	0	2020-04-19
+"Sucumbíos"	"Shushufindi"	1	2020-04-19
+"Sucumbíos"	"Sucumbíos"	0	2020-04-19
+"Sucumbíos"	"Cascales"	0	2020-04-20
+"Sucumbíos"	"Cuyabeno"	3	2020-04-20
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-20
+"Sucumbíos"	"Lago Agrio"	30	2020-04-20
+"Sucumbíos"	"Putumayo"	0	2020-04-20
+"Sucumbíos"	"Shushufindi"	1	2020-04-20
+"Sucumbíos"	"Sucumbíos"	0	2020-04-20
+"Sucumbíos"	"Cascales"	0	2020-04-21
+"Sucumbíos"	"Cuyabeno"	3	2020-04-21
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-21
+"Sucumbíos"	"Lago Agrio"	30	2020-04-21
+"Sucumbíos"	"Putumayo"	0	2020-04-21
+"Sucumbíos"	"Shushufindi"	1	2020-04-21
+"Sucumbíos"	"Sucumbíos"	0	2020-04-21
+"Sucumbíos"	"Cascales"	0	2020-04-22
+"Sucumbíos"	"Cuyabeno"	3	2020-04-22
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-22
+"Sucumbíos"	"Lago Agrio"	31	2020-04-22
+"Sucumbíos"	"Putumayo"	0	2020-04-22
+"Sucumbíos"	"Shushufindi"	1	2020-04-22
+"Sucumbíos"	"Sucumbíos"	0	2020-04-22
+"Sucumbíos"	"Cascales"	0	2020-04-23
+"Sucumbíos"	"Cuyabeno"	3	2020-04-23
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-23
+"Sucumbíos"	"Lago Agrio"	31	2020-04-23
+"Sucumbíos"	"Putumayo"	0	2020-04-23
+"Sucumbíos"	"Shushufindi"	1	2020-04-23
+"Sucumbíos"	"Sucumbíos"	0	2020-04-23
+"Sucumbíos"	"Cascales"	0	2020-04-24
+"Sucumbíos"	"Cuyabeno"	3	2020-04-24
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-24
+"Sucumbíos"	"Lago Agrio"	31	2020-04-24
+"Sucumbíos"	"Putumayo"	0	2020-04-24
+"Sucumbíos"	"Shushufindi"	1	2020-04-24
+"Sucumbíos"	"Sucumbíos"	0	2020-04-24
+"Sucumbíos"	"Cascales"	0	2020-04-25
+"Sucumbíos"	"Cuyabeno"	3	2020-04-25
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-25
+"Sucumbíos"	"Lago Agrio"	31	2020-04-25
+"Sucumbíos"	"Putumayo"	0	2020-04-25
+"Sucumbíos"	"Shushufindi"	1	2020-04-25
+"Sucumbíos"	"Sucumbíos"	0	2020-04-25
+"Sucumbíos"	"Cascales"	0	2020-04-26
+"Sucumbíos"	"Cuyabeno"	3	2020-04-26
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-26
+"Sucumbíos"	"Lago Agrio"	31	2020-04-26
+"Sucumbíos"	"Putumayo"	0	2020-04-26
+"Sucumbíos"	"Shushufindi"	1	2020-04-26
+"Sucumbíos"	"Sucumbíos"	0	2020-04-26
+"Sucumbíos"	"Cascales"	0	2020-04-27
+"Sucumbíos"	"Cuyabeno"	3	2020-04-27
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-27
+"Sucumbíos"	"Lago Agrio"	31	2020-04-27
+"Sucumbíos"	"Putumayo"	0	2020-04-27
+"Sucumbíos"	"Shushufindi"	1	2020-04-27
+"Sucumbíos"	"Sucumbíos"	0	2020-04-27
+"Sucumbíos"	"Cascales"	0	2020-04-28
+"Sucumbíos"	"Cuyabeno"	3	2020-04-28
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-28
+"Sucumbíos"	"Lago Agrio"	34	2020-04-28
+"Sucumbíos"	"Putumayo"	0	2020-04-28
+"Sucumbíos"	"Shushufindi"	2	2020-04-28
+"Sucumbíos"	"Sucumbíos"	0	2020-04-28
+"Sucumbíos"	"Cascales"	0	2020-04-29
+"Sucumbíos"	"Cuyabeno"	3	2020-04-29
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-29
+"Sucumbíos"	"Lago Agrio"	34	2020-04-29
+"Sucumbíos"	"Putumayo"	0	2020-04-29
+"Sucumbíos"	"Shushufindi"	2	2020-04-29
+"Sucumbíos"	"Sucumbíos"	0	2020-04-29
+"Sucumbíos"	"Cascales"	0	2020-04-30
+"Sucumbíos"	"Cuyabeno"	3	2020-04-30
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-04-30
+"Sucumbíos"	"Lago Agrio"	37	2020-04-30
+"Sucumbíos"	"Putumayo"	0	2020-04-30
+"Sucumbíos"	"Shushufindi"	2	2020-04-30
+"Sucumbíos"	"Sucumbíos"	0	2020-04-30
+"Sucumbíos"	"Cascales"	0	2020-05-01
+"Sucumbíos"	"Cuyabeno"	4	2020-05-01
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-05-01
+"Sucumbíos"	"Lago Agrio"	37	2020-05-01
+"Sucumbíos"	"Putumayo"	0	2020-05-01
+"Sucumbíos"	"Shushufindi"	3	2020-05-01
+"Sucumbíos"	"Sucumbíos"	0	2020-05-01
+"Sucumbíos"	"Cascales"	0	2020-05-02
+"Sucumbíos"	"Cuyabeno"	4	2020-05-02
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-05-02
+"Sucumbíos"	"Lago Agrio"	37	2020-05-02
+"Sucumbíos"	"Putumayo"	0	2020-05-02
+"Sucumbíos"	"Shushufindi"	4	2020-05-02
+"Sucumbíos"	"Sucumbíos"	0	2020-05-02
+"Sucumbíos"	"Cascales"	0	2020-05-03
+"Sucumbíos"	"Cuyabeno"	3	2020-05-03
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-05-03
+"Sucumbíos"	"Lago Agrio"	37	2020-05-03
+"Sucumbíos"	"Putumayo"	0	2020-05-03
+"Sucumbíos"	"Shushufindi"	5	2020-05-03
+"Sucumbíos"	"Sucumbíos"	0	2020-05-03
+"Sucumbíos"	"Cascales"	0	2020-05-04
+"Sucumbíos"	"Cuyabeno"	5	2020-05-04
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-05-04
+"Sucumbíos"	"Lago Agrio"	33	2020-05-04
+"Sucumbíos"	"Putumayo"	0	2020-05-04
+"Sucumbíos"	"Shushufindi"	4	2020-05-04
+"Sucumbíos"	"Sucumbíos"	0	2020-05-04
+"Sucumbíos"	"Cascales"	0	2020-05-05
+"Sucumbíos"	"Cuyabeno"	5	2020-05-05
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-05-05
+"Sucumbíos"	"Lago Agrio"	33	2020-05-05
+"Sucumbíos"	"Putumayo"	0	2020-05-05
+"Sucumbíos"	"Shushufindi"	4	2020-05-05
+"Sucumbíos"	"Sucumbíos"	0	2020-05-05
+"Sucumbíos"	"Cascales"	0	2020-05-06
+"Sucumbíos"	"Cuyabeno"	4	2020-05-06
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-05-06
+"Sucumbíos"	"Lago Agrio"	33	2020-05-06
+"Sucumbíos"	"Putumayo"	0	2020-05-06
+"Sucumbíos"	"Shushufindi"	5	2020-05-06
+"Sucumbíos"	"Sucumbíos"	0	2020-05-06
+"Sucumbíos"	"Cascales"	0	2020-05-07
+"Sucumbíos"	"Cuyabeno"	4	2020-05-07
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-05-07
+"Sucumbíos"	"Lago Agrio"	33	2020-05-07
+"Sucumbíos"	"Putumayo"	0	2020-05-07
+"Sucumbíos"	"Shushufindi"	5	2020-05-07
+"Sucumbíos"	"Sucumbíos"	0	2020-05-07
+"Sucumbíos"	"Cascales"	0	2020-05-08
+"Sucumbíos"	"Cuyabeno"	4	2020-05-08
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-05-08
+"Sucumbíos"	"Lago Agrio"	43	2020-05-08
+"Sucumbíos"	"Putumayo"	0	2020-05-08
+"Sucumbíos"	"Shushufindi"	5	2020-05-08
+"Sucumbíos"	"Sucumbíos"	0	2020-05-08
+"Sucumbíos"	"Cascales"	0	2020-05-09
+"Sucumbíos"	"Cuyabeno"	5	2020-05-09
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-05-09
+"Sucumbíos"	"Lago Agrio"	52	2020-05-09
+"Sucumbíos"	"Putumayo"	0	2020-05-09
+"Sucumbíos"	"Shushufindi"	5	2020-05-09
+"Sucumbíos"	"Sucumbíos"	0	2020-05-09
+"Sucumbíos"	"Cascales"	0	2020-05-10
+"Sucumbíos"	"Cuyabeno"	5	2020-05-10
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-10
+"Sucumbíos"	"Lago Agrio"	54	2020-05-10
+"Sucumbíos"	"Putumayo"	0	2020-05-10
+"Sucumbíos"	"Shushufindi"	5	2020-05-10
+"Sucumbíos"	"Sucumbíos"	0	2020-05-10
+"Sucumbíos"	"Cascales"	0	2020-05-11
+"Sucumbíos"	"Cuyabeno"	5	2020-05-11
+"Sucumbíos"	"Gonzalo Pizarro"	0	2020-05-11
+"Sucumbíos"	"Lago Agrio"	53	2020-05-11
+"Sucumbíos"	"Putumayo"	0	2020-05-11
+"Sucumbíos"	"Shushufindi"	5	2020-05-11
+"Sucumbíos"	"Sucumbíos"	0	2020-05-11
+"Sucumbíos"	"Cascales"	0	2020-05-12
+"Sucumbíos"	"Cuyabeno"	6	2020-05-12
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-12
+"Sucumbíos"	"Lago Agrio"	55	2020-05-12
+"Sucumbíos"	"Putumayo"	0	2020-05-12
+"Sucumbíos"	"Shushufindi"	5	2020-05-12
+"Sucumbíos"	"Sucumbíos"	0	2020-05-12
+"Sucumbíos"	"Cascales"	0	2020-05-13
+"Sucumbíos"	"Cuyabeno"	6	2020-05-13
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-13
+"Sucumbíos"	"Lago Agrio"	55	2020-05-13
+"Sucumbíos"	"Putumayo"	0	2020-05-13
+"Sucumbíos"	"Shushufindi"	5	2020-05-13
+"Sucumbíos"	"Sucumbíos"	0	2020-05-13
+"Sucumbíos"	"Cascales"	0	2020-05-14
+"Sucumbíos"	"Cuyabeno"	6	2020-05-14
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-14
+"Sucumbíos"	"Lago Agrio"	55	2020-05-14
+"Sucumbíos"	"Putumayo"	0	2020-05-14
+"Sucumbíos"	"Shushufindi"	5	2020-05-14
+"Sucumbíos"	"Sucumbíos"	0	2020-05-14
+"Sucumbíos"	"Cascales"	0	2020-05-15
+"Sucumbíos"	"Cuyabeno"	6	2020-05-15
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-15
+"Sucumbíos"	"Lago Agrio"	61	2020-05-15
+"Sucumbíos"	"Putumayo"	1	2020-05-15
+"Sucumbíos"	"Shushufindi"	5	2020-05-15
+"Sucumbíos"	"Sucumbíos"	0	2020-05-15
+"Sucumbíos"	"Cascales"	0	2020-05-16
+"Sucumbíos"	"Cuyabeno"	6	2020-05-16
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-16
+"Sucumbíos"	"Lago Agrio"	62	2020-05-16
+"Sucumbíos"	"Putumayo"	1	2020-05-16
+"Sucumbíos"	"Shushufindi"	5	2020-05-16
+"Sucumbíos"	"Sucumbíos"	0	2020-05-16
+"Sucumbíos"	"Cascales"	0	2020-05-17
+"Sucumbíos"	"Cuyabeno"	6	2020-05-17
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-17
+"Sucumbíos"	"Lago Agrio"	63	2020-05-17
+"Sucumbíos"	"Putumayo"	1	2020-05-17
+"Sucumbíos"	"Shushufindi"	5	2020-05-17
+"Sucumbíos"	"Sucumbíos"	0	2020-05-17
+"Sucumbíos"	"Cascales"	0	2020-05-18
+"Sucumbíos"	"Cuyabeno"	6	2020-05-18
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-18
+"Sucumbíos"	"Lago Agrio"	67	2020-05-18
+"Sucumbíos"	"Putumayo"	1	2020-05-18
+"Sucumbíos"	"Shushufindi"	9	2020-05-18
+"Sucumbíos"	"Sucumbíos"	0	2020-05-18
+"Sucumbíos"	"Cascales"	0	2020-05-19
+"Sucumbíos"	"Cuyabeno"	6	2020-05-19
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-19
+"Sucumbíos"	"Lago Agrio"	68	2020-05-19
+"Sucumbíos"	"Putumayo"	1	2020-05-19
+"Sucumbíos"	"Shushufindi"	9	2020-05-19
+"Sucumbíos"	"Sucumbíos"	0	2020-05-19
+"Sucumbíos"	"Cascales"	0	2020-05-20
+"Sucumbíos"	"Cuyabeno"	6	2020-05-20
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-20
+"Sucumbíos"	"Lago Agrio"	68	2020-05-20
+"Sucumbíos"	"Putumayo"	1	2020-05-20
+"Sucumbíos"	"Shushufindi"	9	2020-05-20
+"Sucumbíos"	"Sucumbíos"	0	2020-05-20
+"Sucumbíos"	"Cascales"	0	2020-05-21
+"Sucumbíos"	"Cuyabeno"	6	2020-05-21
+"Sucumbíos"	"Gonzalo Pizarro"	1	2020-05-21
+"Sucumbíos"	"Lago Agrio"	69	2020-05-21
+"Sucumbíos"	"Putumayo"	1	2020-05-21
+"Sucumbíos"	"Shushufindi"	9	2020-05-21
+"Sucumbíos"	"Sucumbíos"	0	2020-05-21
+"Sucumbíos"	"Cascales"	0	2020-05-22
+"Sucumbíos"	"Cuyabeno"	6	2020-05-22
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-05-22
+"Sucumbíos"	"Lago Agrio"	69	2020-05-22
+"Sucumbíos"	"Putumayo"	1	2020-05-22
+"Sucumbíos"	"Shushufindi"	9	2020-05-22
+"Sucumbíos"	"Sucumbíos"	0	2020-05-22
+"Sucumbíos"	"Cascales"	0	2020-05-23
+"Sucumbíos"	"Cuyabeno"	6	2020-05-23
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-05-23
+"Sucumbíos"	"Lago Agrio"	75	2020-05-23
+"Sucumbíos"	"Putumayo"	1	2020-05-23
+"Sucumbíos"	"Shushufindi"	9	2020-05-23
+"Sucumbíos"	"Sucumbíos"	0	2020-05-23
+"Sucumbíos"	"Cascales"	1	2020-05-24
+"Sucumbíos"	"Cuyabeno"	6	2020-05-24
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-05-24
+"Sucumbíos"	"Lago Agrio"	76	2020-05-24
+"Sucumbíos"	"Putumayo"	1	2020-05-24
+"Sucumbíos"	"Shushufindi"	11	2020-05-24
+"Sucumbíos"	"Sucumbíos"	0	2020-05-24
+"Sucumbíos"	"Cascales"	1	2020-05-25
+"Sucumbíos"	"Cuyabeno"	6	2020-05-25
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-05-25
+"Sucumbíos"	"Lago Agrio"	76	2020-05-25
+"Sucumbíos"	"Putumayo"	1	2020-05-25
+"Sucumbíos"	"Shushufindi"	12	2020-05-25
+"Sucumbíos"	"Sucumbíos"	0	2020-05-25
+"Sucumbíos"	"Cascales"	1	2020-05-26
+"Sucumbíos"	"Cuyabeno"	6	2020-05-26
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-05-26
+"Sucumbíos"	"Lago Agrio"	77	2020-05-26
+"Sucumbíos"	"Putumayo"	1	2020-05-26
+"Sucumbíos"	"Shushufindi"	12	2020-05-26
+"Sucumbíos"	"Sucumbíos"	0	2020-05-26
+"Sucumbíos"	"Cascales"	2	2020-05-27
+"Sucumbíos"	"Cuyabeno"	6	2020-05-27
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-05-27
+"Sucumbíos"	"Lago Agrio"	78	2020-05-27
+"Sucumbíos"	"Putumayo"	1	2020-05-27
+"Sucumbíos"	"Shushufindi"	17	2020-05-27
+"Sucumbíos"	"Sucumbíos"	0	2020-05-27
+"Sucumbíos"	"Cascales"	2	2020-05-28
+"Sucumbíos"	"Cuyabeno"	6	2020-05-28
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-05-28
+"Sucumbíos"	"Lago Agrio"	80	2020-05-28
+"Sucumbíos"	"Putumayo"	1	2020-05-28
+"Sucumbíos"	"Shushufindi"	17	2020-05-28
+"Sucumbíos"	"Sucumbíos"	0	2020-05-28
+"Sucumbíos"	"Cascales"	2	2020-05-29
+"Sucumbíos"	"Cuyabeno"	6	2020-05-29
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-05-29
+"Sucumbíos"	"Lago Agrio"	80	2020-05-29
+"Sucumbíos"	"Putumayo"	1	2020-05-29
+"Sucumbíos"	"Shushufindi"	17	2020-05-29
+"Sucumbíos"	"Sucumbíos"	0	2020-05-29
+"Sucumbíos"	"Cascales"	2	2020-05-30
+"Sucumbíos"	"Cuyabeno"	6	2020-05-30
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-05-30
+"Sucumbíos"	"Lago Agrio"	82	2020-05-30
+"Sucumbíos"	"Putumayo"	1	2020-05-30
+"Sucumbíos"	"Shushufindi"	17	2020-05-30
+"Sucumbíos"	"Sucumbíos"	0	2020-05-30
+"Sucumbíos"	"Cascales"	2	2020-05-31
+"Sucumbíos"	"Cuyabeno"	6	2020-05-31
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-05-31
+"Sucumbíos"	"Lago Agrio"	82	2020-05-31
+"Sucumbíos"	"Putumayo"	1	2020-05-31
+"Sucumbíos"	"Shushufindi"	17	2020-05-31
+"Sucumbíos"	"Sucumbíos"	0	2020-05-31
+"Sucumbíos"	"Cascales"	5	2020-06-01
+"Sucumbíos"	"Cuyabeno"	7	2020-06-01
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-06-01
+"Sucumbíos"	"Lago Agrio"	91	2020-06-01
+"Sucumbíos"	"Putumayo"	1	2020-06-01
+"Sucumbíos"	"Shushufindi"	20	2020-06-01
+"Sucumbíos"	"Sucumbíos"	0	2020-06-01
+"Sucumbíos"	"Cascales"	5	2020-06-02
+"Sucumbíos"	"Cuyabeno"	7	2020-06-02
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-06-02
+"Sucumbíos"	"Lago Agrio"	97	2020-06-02
+"Sucumbíos"	"Putumayo"	1	2020-06-02
+"Sucumbíos"	"Shushufindi"	21	2020-06-02
+"Sucumbíos"	"Sucumbíos"	0	2020-06-02
+"Sucumbíos"	"Cascales"	5	2020-06-03
+"Sucumbíos"	"Cuyabeno"	7	2020-06-03
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-06-03
+"Sucumbíos"	"Lago Agrio"	97	2020-06-03
+"Sucumbíos"	"Putumayo"	1	2020-06-03
+"Sucumbíos"	"Shushufindi"	23	2020-06-03
+"Sucumbíos"	"Sucumbíos"	0	2020-06-03
+"Sucumbíos"	"Cascales"	5	2020-06-04
+"Sucumbíos"	"Cuyabeno"	7	2020-06-04
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-06-04
+"Sucumbíos"	"Lago Agrio"	97	2020-06-04
+"Sucumbíos"	"Putumayo"	1	2020-06-04
+"Sucumbíos"	"Shushufindi"	23	2020-06-04
+"Sucumbíos"	"Sucumbíos"	0	2020-06-04
+"Sucumbíos"	"Cascales"	5	2020-06-05
+"Sucumbíos"	"Cuyabeno"	7	2020-06-05
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-06-05
+"Sucumbíos"	"Lago Agrio"	98	2020-06-05
+"Sucumbíos"	"Putumayo"	1	2020-06-05
+"Sucumbíos"	"Shushufindi"	24	2020-06-05
+"Sucumbíos"	"Sucumbíos"	0	2020-06-05
+"Sucumbíos"	"Cascales"	5	2020-06-06
+"Sucumbíos"	"Cuyabeno"	7	2020-06-06
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-06-06
+"Sucumbíos"	"Lago Agrio"	114	2020-06-06
+"Sucumbíos"	"Putumayo"	1	2020-06-06
+"Sucumbíos"	"Shushufindi"	36	2020-06-06
+"Sucumbíos"	"Sucumbíos"	0	2020-06-06
+"Sucumbíos"	"Cascales"	5	2020-06-07
+"Sucumbíos"	"Cuyabeno"	7	2020-06-07
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-06-07
+"Sucumbíos"	"Lago Agrio"	114	2020-06-07
+"Sucumbíos"	"Putumayo"	1	2020-06-07
+"Sucumbíos"	"Shushufindi"	36	2020-06-07
+"Sucumbíos"	"Sucumbíos"	0	2020-06-07
+"Sucumbíos"	"Cascales"	5	2020-06-08
+"Sucumbíos"	"Cuyabeno"	7	2020-06-08
+"Sucumbíos"	"Gonzalo Pizarro"	2	2020-06-08
+"Sucumbíos"	"Lago Agrio"	114	2020-06-08
+"Sucumbíos"	"Putumayo"	1	2020-06-08
+"Sucumbíos"	"Shushufindi"	36	2020-06-08
+"Sucumbíos"	"Sucumbíos"	0	2020-06-08
+"Sucumbíos"	"Cascales"	8	2020-06-09
+"Sucumbíos"	"Cuyabeno"	7	2020-06-09
+"Sucumbíos"	"Gonzalo Pizarro"	3	2020-06-09
+"Sucumbíos"	"Lago Agrio"	118	2020-06-09
+"Sucumbíos"	"Putumayo"	1	2020-06-09
+"Sucumbíos"	"Shushufindi"	38	2020-06-09
+"Sucumbíos"	"Sucumbíos"	0	2020-06-09
+"Sucumbíos"	"Cascales"	8	2020-06-10
+"Sucumbíos"	"Cuyabeno"	7	2020-06-10
+"Sucumbíos"	"Gonzalo Pizarro"	3	2020-06-10
+"Sucumbíos"	"Lago Agrio"	119	2020-06-10
+"Sucumbíos"	"Putumayo"	1	2020-06-10
+"Sucumbíos"	"Shushufindi"	38	2020-06-10
+"Sucumbíos"	"Sucumbíos"	0	2020-06-10
+"Sucumbíos"	"Cascales"	9	2020-06-11
+"Sucumbíos"	"Cuyabeno"	7	2020-06-11
+"Sucumbíos"	"Gonzalo Pizarro"	3	2020-06-11
+"Sucumbíos"	"Lago Agrio"	121	2020-06-11
+"Sucumbíos"	"Putumayo"	3	2020-06-11
+"Sucumbíos"	"Shushufindi"	38	2020-06-11
+"Sucumbíos"	"Sucumbíos"	0	2020-06-11
+"Sucumbíos"	"Cascales"	9	2020-06-12
+"Sucumbíos"	"Cuyabeno"	7	2020-06-12
+"Sucumbíos"	"Gonzalo Pizarro"	3	2020-06-12
+"Sucumbíos"	"Lago Agrio"	164	2020-06-12
+"Sucumbíos"	"Putumayo"	3	2020-06-12
+"Sucumbíos"	"Shushufindi"	40	2020-06-12
+"Sucumbíos"	"Sucumbíos"	0	2020-06-12
+"Sucumbíos"	"Cascales"	9	2020-06-13
+"Sucumbíos"	"Cuyabeno"	8	2020-06-13
+"Sucumbíos"	"Gonzalo Pizarro"	3	2020-06-13
+"Sucumbíos"	"Lago Agrio"	167	2020-06-13
+"Sucumbíos"	"Putumayo"	3	2020-06-13
+"Sucumbíos"	"Shushufindi"	40	2020-06-13
+"Sucumbíos"	"Sucumbíos"	0	2020-06-13
+"Sucumbíos"	"Cascales"	9	2020-06-14
+"Sucumbíos"	"Cuyabeno"	8	2020-06-14
+"Sucumbíos"	"Gonzalo Pizarro"	3	2020-06-14
+"Sucumbíos"	"Lago Agrio"	179	2020-06-14
+"Sucumbíos"	"Putumayo"	3	2020-06-14
+"Sucumbíos"	"Shushufindi"	40	2020-06-14
+"Sucumbíos"	"Sucumbíos"	0	2020-06-14
+"Sucumbíos"	"Cascales"	13	2020-06-15
+"Sucumbíos"	"Cuyabeno"	8	2020-06-15
+"Sucumbíos"	"Gonzalo Pizarro"	5	2020-06-15
+"Sucumbíos"	"Lago Agrio"	203	2020-06-15
+"Sucumbíos"	"Putumayo"	3	2020-06-15
+"Sucumbíos"	"Shushufindi"	41	2020-06-15
+"Sucumbíos"	"Sucumbíos"	0	2020-06-15
+"Sucumbíos"	"Cascales"	13	2020-06-16
+"Sucumbíos"	"Cuyabeno"	8	2020-06-16
+"Sucumbíos"	"Gonzalo Pizarro"	5	2020-06-16
+"Sucumbíos"	"Lago Agrio"	205	2020-06-16
+"Sucumbíos"	"Putumayo"	3	2020-06-16
+"Sucumbíos"	"Shushufindi"	41	2020-06-16
+"Sucumbíos"	"Sucumbíos"	0	2020-06-16
+"Sucumbíos"	"Cascales"	13	2020-06-17
+"Sucumbíos"	"Cuyabeno"	8	2020-06-17
+"Sucumbíos"	"Gonzalo Pizarro"	5	2020-06-17
+"Sucumbíos"	"Lago Agrio"	205	2020-06-17
+"Sucumbíos"	"Putumayo"	3	2020-06-17
+"Sucumbíos"	"Shushufindi"	41	2020-06-17
+"Sucumbíos"	"Sucumbíos"	0	2020-06-17
+"Sucumbíos"	"Cascales"	13	2020-06-18
+"Sucumbíos"	"Cuyabeno"	8	2020-06-18
+"Sucumbíos"	"Gonzalo Pizarro"	5	2020-06-18
+"Sucumbíos"	"Lago Agrio"	213	2020-06-18
+"Sucumbíos"	"Putumayo"	3	2020-06-18
+"Sucumbíos"	"Shushufindi"	41	2020-06-18
+"Sucumbíos"	"Sucumbíos"	0	2020-06-18
+"Sucumbíos"	"Cascales"	13	2020-06-19
+"Sucumbíos"	"Cuyabeno"	8	2020-06-19
+"Sucumbíos"	"Gonzalo Pizarro"	5	2020-06-19
+"Sucumbíos"	"Lago Agrio"	215	2020-06-19
+"Sucumbíos"	"Putumayo"	3	2020-06-19
+"Sucumbíos"	"Shushufindi"	41	2020-06-19
+"Sucumbíos"	"Sucumbíos"	0	2020-06-19
+"Sucumbíos"	"Cascales"	16	2020-06-20
+"Sucumbíos"	"Cuyabeno"	8	2020-06-20
+"Sucumbíos"	"Gonzalo Pizarro"	5	2020-06-20
+"Sucumbíos"	"Lago Agrio"	223	2020-06-20
+"Sucumbíos"	"Putumayo"	3	2020-06-20
+"Sucumbíos"	"Shushufindi"	41	2020-06-20
+"Sucumbíos"	"Sucumbíos"	0	2020-06-20
+"Sucumbíos"	"Cascales"	16	2020-06-21
+"Sucumbíos"	"Cuyabeno"	8	2020-06-21
+"Sucumbíos"	"Gonzalo Pizarro"	5	2020-06-21
+"Sucumbíos"	"Lago Agrio"	223	2020-06-21
+"Sucumbíos"	"Putumayo"	3	2020-06-21
+"Sucumbíos"	"Shushufindi"	41	2020-06-21
+"Sucumbíos"	"Sucumbíos"	0	2020-06-21
+"Sucumbíos"	"Cascales"	16	2020-06-22
+"Sucumbíos"	"Cuyabeno"	8	2020-06-22
+"Sucumbíos"	"Gonzalo Pizarro"	5	2020-06-22
+"Sucumbíos"	"Lago Agrio"	224	2020-06-22
+"Sucumbíos"	"Putumayo"	3	2020-06-22
+"Sucumbíos"	"Shushufindi"	42	2020-06-22
+"Sucumbíos"	"Sucumbíos"	0	2020-06-22
+"Sucumbíos"	"Cascales"	18	2020-06-23
+"Sucumbíos"	"Cuyabeno"	8	2020-06-23
+"Sucumbíos"	"Gonzalo Pizarro"	7	2020-06-23
+"Sucumbíos"	"Lago Agrio"	264	2020-06-23
+"Sucumbíos"	"Putumayo"	3	2020-06-23
+"Sucumbíos"	"Shushufindi"	43	2020-06-23
+"Sucumbíos"	"Sucumbíos"	0	2020-06-23
+"Sucumbíos"	"Cascales"	18	2020-06-24
+"Sucumbíos"	"Cuyabeno"	8	2020-06-24
+"Sucumbíos"	"Gonzalo Pizarro"	7	2020-06-24
+"Sucumbíos"	"Lago Agrio"	268	2020-06-24
+"Sucumbíos"	"Putumayo"	3	2020-06-24
+"Sucumbíos"	"Shushufindi"	43	2020-06-24
+"Sucumbíos"	"Sucumbíos"	0	2020-06-24
+"Sucumbíos"	"Cascales"	18	2020-06-25
+"Sucumbíos"	"Cuyabeno"	8	2020-06-25
+"Sucumbíos"	"Gonzalo Pizarro"	7	2020-06-25
+"Sucumbíos"	"Lago Agrio"	271	2020-06-25
+"Sucumbíos"	"Putumayo"	3	2020-06-25
+"Sucumbíos"	"Shushufindi"	43	2020-06-25
+"Sucumbíos"	"Sucumbíos"	0	2020-06-25
+"Sucumbíos"	"Cascales"	18	2020-06-26
+"Sucumbíos"	"Cuyabeno"	8	2020-06-26
+"Sucumbíos"	"Gonzalo Pizarro"	7	2020-06-26
+"Sucumbíos"	"Lago Agrio"	290	2020-06-26
+"Sucumbíos"	"Putumayo"	3	2020-06-26
+"Sucumbíos"	"Shushufindi"	43	2020-06-26
+"Sucumbíos"	"Sucumbíos"	0	2020-06-26
+"Sucumbíos"	"Cascales"	18	2020-06-27
+"Sucumbíos"	"Cuyabeno"	14	2020-06-27
+"Sucumbíos"	"Gonzalo Pizarro"	7	2020-06-27
+"Sucumbíos"	"Lago Agrio"	291	2020-06-27
+"Sucumbíos"	"Putumayo"	3	2020-06-27
+"Sucumbíos"	"Shushufindi"	43	2020-06-27
+"Sucumbíos"	"Sucumbíos"	0	2020-06-27
+"Sucumbíos"	"Cascales"	18	2020-06-28
+"Sucumbíos"	"Cuyabeno"	14	2020-06-28
+"Sucumbíos"	"Gonzalo Pizarro"	7	2020-06-28
+"Sucumbíos"	"Lago Agrio"	304	2020-06-28
+"Sucumbíos"	"Putumayo"	4	2020-06-28
+"Sucumbíos"	"Shushufindi"	43	2020-06-28
+"Sucumbíos"	"Sucumbíos"	0	2020-06-28
+"Sucumbíos"	"Cascales"	19	2020-06-29
+"Sucumbíos"	"Cuyabeno"	14	2020-06-29
+"Sucumbíos"	"Gonzalo Pizarro"	7	2020-06-29
+"Sucumbíos"	"Lago Agrio"	312	2020-06-29
+"Sucumbíos"	"Putumayo"	4	2020-06-29
+"Sucumbíos"	"Shushufindi"	43	2020-06-29
+"Sucumbíos"	"Sucumbíos"	0	2020-06-29
+"Sucumbíos"	"Cascales"	19	2020-06-30
+"Sucumbíos"	"Cuyabeno"	14	2020-06-30
+"Sucumbíos"	"Gonzalo Pizarro"	8	2020-06-30
+"Sucumbíos"	"Lago Agrio"	322	2020-06-30
+"Sucumbíos"	"Putumayo"	5	2020-06-30
+"Sucumbíos"	"Shushufindi"	45	2020-06-30
+"Sucumbíos"	"Sucumbíos"	0	2020-06-30
+"Sucumbíos"	"Cascales"	19	2020-07-01
+"Sucumbíos"	"Cuyabeno"	14	2020-07-01
+"Sucumbíos"	"Gonzalo Pizarro"	9	2020-07-01
+"Sucumbíos"	"Lago Agrio"	329	2020-07-01
+"Sucumbíos"	"Putumayo"	5	2020-07-01
+"Sucumbíos"	"Shushufindi"	45	2020-07-01
+"Sucumbíos"	"Sucumbíos"	1	2020-07-01
+"Sucumbíos"	"Cascales"	19	2020-07-02
+"Sucumbíos"	"Cuyabeno"	14	2020-07-02
+"Sucumbíos"	"Gonzalo Pizarro"	9	2020-07-02
+"Sucumbíos"	"Lago Agrio"	337	2020-07-02
+"Sucumbíos"	"Putumayo"	5	2020-07-02
+"Sucumbíos"	"Shushufindi"	45	2020-07-02
+"Sucumbíos"	"Sucumbíos"	1	2020-07-02
+"Sucumbíos"	"Cascales"	19	2020-07-03
+"Sucumbíos"	"Cuyabeno"	14	2020-07-03
+"Sucumbíos"	"Gonzalo Pizarro"	10	2020-07-03
+"Sucumbíos"	"Lago Agrio"	419	2020-07-03
+"Sucumbíos"	"Putumayo"	5	2020-07-03
+"Sucumbíos"	"Shushufindi"	48	2020-07-03
+"Sucumbíos"	"Sucumbíos"	1	2020-07-03
+"Sucumbíos"	"Cascales"	19	2020-07-04
+"Sucumbíos"	"Cuyabeno"	14	2020-07-04
+"Sucumbíos"	"Gonzalo Pizarro"	10	2020-07-04
+"Sucumbíos"	"Lago Agrio"	424	2020-07-04
+"Sucumbíos"	"Putumayo"	5	2020-07-04
+"Sucumbíos"	"Shushufindi"	48	2020-07-04
+"Sucumbíos"	"Sucumbíos"	1	2020-07-04
+"Sucumbíos"	"Cascales"	19	2020-07-05
+"Sucumbíos"	"Cuyabeno"	14	2020-07-05
+"Sucumbíos"	"Gonzalo Pizarro"	10	2020-07-05
+"Sucumbíos"	"Lago Agrio"	424	2020-07-05
+"Sucumbíos"	"Putumayo"	5	2020-07-05
+"Sucumbíos"	"Shushufindi"	48	2020-07-05
+"Sucumbíos"	"Sucumbíos"	1	2020-07-05
+"Sucumbíos"	"Cascales"	19	2020-07-06
+"Sucumbíos"	"Cuyabeno"	14	2020-07-06
+"Sucumbíos"	"Gonzalo Pizarro"	10	2020-07-06
+"Sucumbíos"	"Lago Agrio"	424	2020-07-06
+"Sucumbíos"	"Putumayo"	5	2020-07-06
+"Sucumbíos"	"Shushufindi"	48	2020-07-06
+"Sucumbíos"	"Sucumbíos"	1	2020-07-06
+"Sucumbíos"	"Cascales"	19	2020-07-07
+"Sucumbíos"	"Cuyabeno"	14	2020-07-07
+"Sucumbíos"	"Gonzalo Pizarro"	10	2020-07-07
+"Sucumbíos"	"Lago Agrio"	430	2020-07-07
+"Sucumbíos"	"Putumayo"	5	2020-07-07
+"Sucumbíos"	"Shushufindi"	48	2020-07-07
+"Sucumbíos"	"Sucumbíos"	1	2020-07-07
+"Sucumbíos"	"Cascales"	20	2020-07-08
+"Sucumbíos"	"Cuyabeno"	14	2020-07-08
+"Sucumbíos"	"Gonzalo Pizarro"	22	2020-07-08
+"Sucumbíos"	"Lago Agrio"	497	2020-07-08
+"Sucumbíos"	"Putumayo"	5	2020-07-08
+"Sucumbíos"	"Shushufindi"	50	2020-07-08
+"Sucumbíos"	"Sucumbíos"	1	2020-07-08
+"Sucumbíos"	"Cascales"	26	2020-07-09
+"Sucumbíos"	"Cuyabeno"	14	2020-07-09
+"Sucumbíos"	"Gonzalo Pizarro"	27	2020-07-09
+"Sucumbíos"	"Lago Agrio"	498	2020-07-09
+"Sucumbíos"	"Putumayo"	5	2020-07-09
+"Sucumbíos"	"Shushufindi"	50	2020-07-09
+"Sucumbíos"	"Sucumbíos"	1	2020-07-09
+"Sucumbíos"	"Cascales"	26	2020-07-10
+"Sucumbíos"	"Cuyabeno"	14	2020-07-10
+"Sucumbíos"	"Gonzalo Pizarro"	28	2020-07-10
+"Sucumbíos"	"Lago Agrio"	498	2020-07-10
+"Sucumbíos"	"Putumayo"	5	2020-07-10
+"Sucumbíos"	"Shushufindi"	50	2020-07-10
+"Sucumbíos"	"Sucumbíos"	1	2020-07-10
+"Sucumbíos"	"Cascales"	26	2020-07-11
+"Sucumbíos"	"Cuyabeno"	14	2020-07-11
+"Sucumbíos"	"Gonzalo Pizarro"	29	2020-07-11
+"Sucumbíos"	"Lago Agrio"	517	2020-07-11
+"Sucumbíos"	"Putumayo"	5	2020-07-11
+"Sucumbíos"	"Shushufindi"	50	2020-07-11
+"Sucumbíos"	"Sucumbíos"	1	2020-07-11
+"Sucumbíos"	"Cascales"	26	2020-07-12
+"Sucumbíos"	"Cuyabeno"	14	2020-07-12
+"Sucumbíos"	"Gonzalo Pizarro"	29	2020-07-12
+"Sucumbíos"	"Lago Agrio"	519	2020-07-12
+"Sucumbíos"	"Putumayo"	5	2020-07-12
+"Sucumbíos"	"Shushufindi"	50	2020-07-12
+"Sucumbíos"	"Sucumbíos"	1	2020-07-12
+"Sucumbíos"	"Cascales"	26	2020-07-13
+"Sucumbíos"	"Cuyabeno"	14	2020-07-13
+"Sucumbíos"	"Gonzalo Pizarro"	29	2020-07-13
+"Sucumbíos"	"Lago Agrio"	519	2020-07-13
+"Sucumbíos"	"Putumayo"	5	2020-07-13
+"Sucumbíos"	"Shushufindi"	50	2020-07-13
+"Sucumbíos"	"Sucumbíos"	1	2020-07-13
+"Sucumbíos"	"Cascales"	36	2020-07-14
+"Sucumbíos"	"Cuyabeno"	14	2020-07-14
+"Sucumbíos"	"Gonzalo Pizarro"	39	2020-07-14
+"Sucumbíos"	"Lago Agrio"	555	2020-07-14
+"Sucumbíos"	"Putumayo"	5	2020-07-14
+"Sucumbíos"	"Shushufindi"	50	2020-07-14
+"Sucumbíos"	"Sucumbíos"	1	2020-07-14
+"Sucumbíos"	"Cascales"	36	2020-07-15
+"Sucumbíos"	"Cuyabeno"	14	2020-07-15
+"Sucumbíos"	"Gonzalo Pizarro"	39	2020-07-15
+"Sucumbíos"	"Lago Agrio"	562	2020-07-15
+"Sucumbíos"	"Putumayo"	7	2020-07-15
+"Sucumbíos"	"Shushufindi"	50	2020-07-15
+"Sucumbíos"	"Sucumbíos"	1	2020-07-15
+"Sucumbíos"	"Cascales"	38	2020-07-16
+"Sucumbíos"	"Cuyabeno"	14	2020-07-16
+"Sucumbíos"	"Gonzalo Pizarro"	45	2020-07-16
+"Sucumbíos"	"Lago Agrio"	613	2020-07-16
+"Sucumbíos"	"Putumayo"	7	2020-07-16
+"Sucumbíos"	"Shushufindi"	50	2020-07-16
+"Sucumbíos"	"Sucumbíos"	1	2020-07-16
+"Sucumbíos"	"Cascales"	39	2020-07-17
+"Sucumbíos"	"Cuyabeno"	15	2020-07-17
+"Sucumbíos"	"Gonzalo Pizarro"	53	2020-07-17
+"Sucumbíos"	"Lago Agrio"	632	2020-07-17
+"Sucumbíos"	"Putumayo"	7	2020-07-17
+"Sucumbíos"	"Shushufindi"	51	2020-07-17
+"Sucumbíos"	"Sucumbíos"	1	2020-07-17
+"Sucumbíos"	"Cascales"	39	2020-07-18
+"Sucumbíos"	"Cuyabeno"	18	2020-07-18
+"Sucumbíos"	"Gonzalo Pizarro"	54	2020-07-18
+"Sucumbíos"	"Lago Agrio"	650	2020-07-18
+"Sucumbíos"	"Putumayo"	7	2020-07-18
+"Sucumbíos"	"Shushufindi"	51	2020-07-18
+"Sucumbíos"	"Sucumbíos"	1	2020-07-18
+"Sucumbíos"	"Cascales"	39	2020-07-19
+"Sucumbíos"	"Cuyabeno"	18	2020-07-19
+"Sucumbíos"	"Gonzalo Pizarro"	55	2020-07-19
+"Sucumbíos"	"Lago Agrio"	650	2020-07-19
+"Sucumbíos"	"Putumayo"	7	2020-07-19
+"Sucumbíos"	"Shushufindi"	52	2020-07-19
+"Sucumbíos"	"Sucumbíos"	1	2020-07-19
+"Sucumbíos"	"Cascales"	39	2020-07-20
+"Sucumbíos"	"Cuyabeno"	18	2020-07-20
+"Sucumbíos"	"Gonzalo Pizarro"	55	2020-07-20
+"Sucumbíos"	"Lago Agrio"	651	2020-07-20
+"Sucumbíos"	"Putumayo"	7	2020-07-20
+"Sucumbíos"	"Shushufindi"	52	2020-07-20
+"Sucumbíos"	"Sucumbíos"	1	2020-07-20
+"Sucumbíos"	"Cascales"	39	2020-07-21
+"Sucumbíos"	"Cuyabeno"	18	2020-07-21
+"Sucumbíos"	"Gonzalo Pizarro"	55	2020-07-21
+"Sucumbíos"	"Lago Agrio"	653	2020-07-21
+"Sucumbíos"	"Putumayo"	7	2020-07-21
+"Sucumbíos"	"Shushufindi"	52	2020-07-21
+"Sucumbíos"	"Sucumbíos"	1	2020-07-21
+"Sucumbíos"	"Cascales"	64	2020-07-22
+"Sucumbíos"	"Cuyabeno"	20	2020-07-22
+"Sucumbíos"	"Gonzalo Pizarro"	81	2020-07-22
+"Sucumbíos"	"Lago Agrio"	757	2020-07-22
+"Sucumbíos"	"Putumayo"	8	2020-07-22
+"Sucumbíos"	"Shushufindi"	54	2020-07-22
+"Sucumbíos"	"Sucumbíos"	1	2020-07-22
+"Sucumbíos"	"Cascales"	64	2020-07-23
+"Sucumbíos"	"Cuyabeno"	20	2020-07-23
+"Sucumbíos"	"Gonzalo Pizarro"	81	2020-07-23
+"Sucumbíos"	"Lago Agrio"	760	2020-07-23
+"Sucumbíos"	"Putumayo"	8	2020-07-23
+"Sucumbíos"	"Shushufindi"	54	2020-07-23
+"Sucumbíos"	"Sucumbíos"	1	2020-07-23
+"Sucumbíos"	"Cascales"	64	2020-07-24
+"Sucumbíos"	"Cuyabeno"	20	2020-07-24
+"Sucumbíos"	"Gonzalo Pizarro"	81	2020-07-24
+"Sucumbíos"	"Lago Agrio"	762	2020-07-24
+"Sucumbíos"	"Putumayo"	8	2020-07-24
+"Sucumbíos"	"Shushufindi"	54	2020-07-24
+"Sucumbíos"	"Sucumbíos"	1	2020-07-24
+"Sucumbíos"	"Cascales"	66	2020-07-25
+"Sucumbíos"	"Cuyabeno"	21	2020-07-25
+"Sucumbíos"	"Gonzalo Pizarro"	100	2020-07-25
+"Sucumbíos"	"Lago Agrio"	840	2020-07-25
+"Sucumbíos"	"Putumayo"	8	2020-07-25
+"Sucumbíos"	"Shushufindi"	55	2020-07-25
+"Sucumbíos"	"Sucumbíos"	1	2020-07-25
+"Sucumbíos"	"Cascales"	66	2020-07-26
+"Sucumbíos"	"Cuyabeno"	21	2020-07-26
+"Sucumbíos"	"Gonzalo Pizarro"	100	2020-07-26
+"Sucumbíos"	"Lago Agrio"	844	2020-07-26
+"Sucumbíos"	"Putumayo"	8	2020-07-26
+"Sucumbíos"	"Shushufindi"	55	2020-07-26
+"Sucumbíos"	"Sucumbíos"	2	2020-07-26
+"Sucumbíos"	"Cascales"	66	2020-07-27
+"Sucumbíos"	"Cuyabeno"	21	2020-07-27
+"Sucumbíos"	"Gonzalo Pizarro"	100	2020-07-27
+"Sucumbíos"	"Lago Agrio"	844	2020-07-27
+"Sucumbíos"	"Putumayo"	8	2020-07-27
+"Sucumbíos"	"Shushufindi"	56	2020-07-27
+"Sucumbíos"	"Sucumbíos"	2	2020-07-27
+"Sucumbíos"	"Cascales"	66	2020-07-28
+"Sucumbíos"	"Cuyabeno"	24	2020-07-28
+"Sucumbíos"	"Gonzalo Pizarro"	100	2020-07-28
+"Sucumbíos"	"Lago Agrio"	847	2020-07-28
+"Sucumbíos"	"Putumayo"	10	2020-07-28
+"Sucumbíos"	"Shushufindi"	56	2020-07-28
+"Sucumbíos"	"Sucumbíos"	2	2020-07-28
+"Sucumbíos"	"Cascales"	66	2020-07-29
+"Sucumbíos"	"Cuyabeno"	25	2020-07-29
+"Sucumbíos"	"Gonzalo Pizarro"	100	2020-07-29
+"Sucumbíos"	"Lago Agrio"	849	2020-07-29
+"Sucumbíos"	"Putumayo"	10	2020-07-29
+"Sucumbíos"	"Shushufindi"	60	2020-07-29
+"Sucumbíos"	"Sucumbíos"	2	2020-07-29
+"Sucumbíos"	"Cascales"	66	2020-07-30
+"Sucumbíos"	"Cuyabeno"	25	2020-07-30
+"Sucumbíos"	"Gonzalo Pizarro"	100	2020-07-30
+"Sucumbíos"	"Lago Agrio"	850	2020-07-30
+"Sucumbíos"	"Putumayo"	10	2020-07-30
+"Sucumbíos"	"Shushufindi"	60	2020-07-30
+"Sucumbíos"	"Sucumbíos"	2	2020-07-30
+"Sucumbíos"	"Cascales"	66	2020-07-31
+"Sucumbíos"	"Cuyabeno"	25	2020-07-31
+"Sucumbíos"	"Gonzalo Pizarro"	100	2020-07-31
+"Sucumbíos"	"Lago Agrio"	860	2020-07-31
+"Sucumbíos"	"Putumayo"	11	2020-07-31
+"Sucumbíos"	"Shushufindi"	80	2020-07-31
+"Sucumbíos"	"Sucumbíos"	2	2020-07-31
+"Sucumbíos"	"Cascales"	66	2020-08-01
+"Sucumbíos"	"Cuyabeno"	25	2020-08-01
+"Sucumbíos"	"Gonzalo Pizarro"	100	2020-08-01
+"Sucumbíos"	"Lago Agrio"	900	2020-08-01
+"Sucumbíos"	"Putumayo"	11	2020-08-01
+"Sucumbíos"	"Shushufindi"	82	2020-08-01
+"Sucumbíos"	"Sucumbíos"	2	2020-08-01
+"Sucumbíos"	"Cascales"	79	2020-08-02
+"Sucumbíos"	"Cuyabeno"	25	2020-08-02
+"Sucumbíos"	"Gonzalo Pizarro"	100	2020-08-02
+"Sucumbíos"	"Lago Agrio"	917	2020-08-02
+"Sucumbíos"	"Putumayo"	11	2020-08-02
+"Sucumbíos"	"Shushufindi"	86	2020-08-02
+"Sucumbíos"	"Sucumbíos"	2	2020-08-02
+"Sucumbíos"	"Cascales"	79	2020-08-03
+"Sucumbíos"	"Cuyabeno"	25	2020-08-03
+"Sucumbíos"	"Gonzalo Pizarro"	100	2020-08-03
+"Sucumbíos"	"Lago Agrio"	917	2020-08-03
+"Sucumbíos"	"Putumayo"	11	2020-08-03
+"Sucumbíos"	"Shushufindi"	86	2020-08-03
+"Sucumbíos"	"Sucumbíos"	2	2020-08-03
+"Sucumbíos"	"Cascales"	80	2020-08-04
+"Sucumbíos"	"Cuyabeno"	28	2020-08-04
+"Sucumbíos"	"Gonzalo Pizarro"	112	2020-08-04
+"Sucumbíos"	"Lago Agrio"	1037	2020-08-04
+"Sucumbíos"	"Putumayo"	12	2020-08-04
+"Sucumbíos"	"Shushufindi"	86	2020-08-04
+"Sucumbíos"	"Sucumbíos"	2	2020-08-04
+"Sucumbíos"	"Cascales"	80	2020-08-05
+"Sucumbíos"	"Cuyabeno"	28	2020-08-05
+"Sucumbíos"	"Gonzalo Pizarro"	112	2020-08-05
+"Sucumbíos"	"Lago Agrio"	1037	2020-08-05
+"Sucumbíos"	"Putumayo"	15	2020-08-05
+"Sucumbíos"	"Shushufindi"	87	2020-08-05
+"Sucumbíos"	"Sucumbíos"	2	2020-08-05
+"Sucumbíos"	"Cascales"	80	2020-08-06
+"Sucumbíos"	"Cuyabeno"	28	2020-08-06
+"Sucumbíos"	"Gonzalo Pizarro"	112	2020-08-06
+"Sucumbíos"	"Lago Agrio"	1038	2020-08-06
+"Sucumbíos"	"Putumayo"	15	2020-08-06
+"Sucumbíos"	"Shushufindi"	137	2020-08-06
+"Sucumbíos"	"Sucumbíos"	2	2020-08-06
+"Sucumbíos"	"Cascales"	80	2020-08-07
+"Sucumbíos"	"Cuyabeno"	30	2020-08-07
+"Sucumbíos"	"Gonzalo Pizarro"	112	2020-08-07
+"Sucumbíos"	"Lago Agrio"	1039	2020-08-07
+"Sucumbíos"	"Putumayo"	15	2020-08-07
+"Sucumbíos"	"Shushufindi"	137	2020-08-07
+"Sucumbíos"	"Sucumbíos"	2	2020-08-07
+"Sucumbíos"	"Cascales"	80	2020-08-08
+"Sucumbíos"	"Cuyabeno"	30	2020-08-08
+"Sucumbíos"	"Gonzalo Pizarro"	112	2020-08-08
+"Sucumbíos"	"Lago Agrio"	1039	2020-08-08
+"Sucumbíos"	"Putumayo"	15	2020-08-08
+"Sucumbíos"	"Shushufindi"	169	2020-08-08
+"Sucumbíos"	"Sucumbíos"	2	2020-08-08
+"Sucumbíos"	"Cascales"	95	2020-08-09
+"Sucumbíos"	"Cuyabeno"	30	2020-08-09
+"Sucumbíos"	"Gonzalo Pizarro"	134	2020-08-09
+"Sucumbíos"	"Lago Agrio"	1122	2020-08-09
+"Sucumbíos"	"Putumayo"	15	2020-08-09
+"Sucumbíos"	"Shushufindi"	189	2020-08-09
+"Sucumbíos"	"Sucumbíos"	6	2020-08-09
+"Sucumbíos"	"Cascales"	95	2020-08-10
+"Sucumbíos"	"Cuyabeno"	30	2020-08-10
+"Sucumbíos"	"Gonzalo Pizarro"	134	2020-08-10
+"Sucumbíos"	"Lago Agrio"	1122	2020-08-10
+"Sucumbíos"	"Putumayo"	15	2020-08-10
+"Sucumbíos"	"Shushufindi"	189	2020-08-10
+"Sucumbíos"	"Sucumbíos"	6	2020-08-10
+"Sucumbíos"	"Cascales"	95	2020-08-11
+"Sucumbíos"	"Cuyabeno"	30	2020-08-11
+"Sucumbíos"	"Gonzalo Pizarro"	134	2020-08-11
+"Sucumbíos"	"Lago Agrio"	1134	2020-08-11
+"Sucumbíos"	"Putumayo"	15	2020-08-11
+"Sucumbíos"	"Shushufindi"	190	2020-08-11
+"Sucumbíos"	"Sucumbíos"	6	2020-08-11
+"Sucumbíos"	"Cascales"	95	2020-08-12
+"Sucumbíos"	"Cuyabeno"	30	2020-08-12
+"Sucumbíos"	"Gonzalo Pizarro"	138	2020-08-12
+"Sucumbíos"	"Lago Agrio"	1170	2020-08-12
+"Sucumbíos"	"Putumayo"	15	2020-08-12
+"Sucumbíos"	"Shushufindi"	191	2020-08-12
+"Sucumbíos"	"Sucumbíos"	11	2020-08-12
+"Sucumbíos"	"Cascales"	95	2020-08-13
+"Sucumbíos"	"Cuyabeno"	30	2020-08-13
+"Sucumbíos"	"Gonzalo Pizarro"	138	2020-08-13
+"Sucumbíos"	"Lago Agrio"	1192	2020-08-13
+"Sucumbíos"	"Putumayo"	15	2020-08-13
+"Sucumbíos"	"Shushufindi"	191	2020-08-13
+"Sucumbíos"	"Sucumbíos"	11	2020-08-13
+"Sucumbíos"	"Cascales"	95	2020-08-14
+"Sucumbíos"	"Cuyabeno"	44	2020-08-14
+"Sucumbíos"	"Gonzalo Pizarro"	138	2020-08-14
+"Sucumbíos"	"Lago Agrio"	1195	2020-08-14
+"Sucumbíos"	"Putumayo"	17	2020-08-14
+"Sucumbíos"	"Shushufindi"	191	2020-08-14
+"Sucumbíos"	"Sucumbíos"	11	2020-08-14
+"Sucumbíos"	"Cascales"	99	2020-08-15
+"Sucumbíos"	"Cuyabeno"	46	2020-08-15
+"Sucumbíos"	"Gonzalo Pizarro"	145	2020-08-15
+"Sucumbíos"	"Lago Agrio"	1250	2020-08-15
+"Sucumbíos"	"Putumayo"	20	2020-08-15
+"Sucumbíos"	"Shushufindi"	193	2020-08-15
+"Sucumbíos"	"Sucumbíos"	16	2020-08-15
+"Sucumbíos"	"Cascales"	99	2020-08-16
+"Sucumbíos"	"Cuyabeno"	46	2020-08-16
+"Sucumbíos"	"Gonzalo Pizarro"	145	2020-08-16
+"Sucumbíos"	"Lago Agrio"	1267	2020-08-16
+"Sucumbíos"	"Putumayo"	20	2020-08-16
+"Sucumbíos"	"Shushufindi"	193	2020-08-16
+"Sucumbíos"	"Sucumbíos"	16	2020-08-16
+"Sucumbíos"	"Cascales"	99	2020-08-17
+"Sucumbíos"	"Cuyabeno"	46	2020-08-17
+"Sucumbíos"	"Gonzalo Pizarro"	145	2020-08-17
+"Sucumbíos"	"Lago Agrio"	1267	2020-08-17
+"Sucumbíos"	"Putumayo"	20	2020-08-17
+"Sucumbíos"	"Shushufindi"	193	2020-08-17
+"Sucumbíos"	"Sucumbíos"	16	2020-08-17
+"Sucumbíos"	"Cascales"	99	2020-08-18
+"Sucumbíos"	"Cuyabeno"	69	2020-08-18
+"Sucumbíos"	"Gonzalo Pizarro"	145	2020-08-18
+"Sucumbíos"	"Lago Agrio"	1277	2020-08-18
+"Sucumbíos"	"Putumayo"	43	2020-08-18
+"Sucumbíos"	"Shushufindi"	193	2020-08-18
+"Sucumbíos"	"Sucumbíos"	16	2020-08-18
+"Sucumbíos"	"Cascales"	100	2020-08-19
+"Sucumbíos"	"Cuyabeno"	69	2020-08-19
+"Sucumbíos"	"Gonzalo Pizarro"	154	2020-08-19
+"Sucumbíos"	"Lago Agrio"	1298	2020-08-19
+"Sucumbíos"	"Putumayo"	75	2020-08-19
+"Sucumbíos"	"Shushufindi"	196	2020-08-19
+"Sucumbíos"	"Sucumbíos"	16	2020-08-19
+"Sucumbíos"	"Cascales"	100	2020-08-20
+"Sucumbíos"	"Cuyabeno"	69	2020-08-20
+"Sucumbíos"	"Gonzalo Pizarro"	155	2020-08-20
+"Sucumbíos"	"Lago Agrio"	1315	2020-08-20
+"Sucumbíos"	"Putumayo"	76	2020-08-20
+"Sucumbíos"	"Shushufindi"	199	2020-08-20
+"Sucumbíos"	"Sucumbíos"	16	2020-08-20
+"Sucumbíos"	"Cascales"	101	2020-08-21
+"Sucumbíos"	"Cuyabeno"	69	2020-08-21
+"Sucumbíos"	"Gonzalo Pizarro"	155	2020-08-21
+"Sucumbíos"	"Lago Agrio"	1318	2020-08-21
+"Sucumbíos"	"Putumayo"	77	2020-08-21
+"Sucumbíos"	"Shushufindi"	200	2020-08-21
+"Sucumbíos"	"Sucumbíos"	16	2020-08-21
+"Sucumbíos"	"Cascales"	101	2020-08-22
+"Sucumbíos"	"Cuyabeno"	69	2020-08-22
+"Sucumbíos"	"Gonzalo Pizarro"	155	2020-08-22
+"Sucumbíos"	"Lago Agrio"	1319	2020-08-22
+"Sucumbíos"	"Putumayo"	77	2020-08-22
+"Sucumbíos"	"Shushufindi"	200	2020-08-22
+"Sucumbíos"	"Sucumbíos"	16	2020-08-22
+"Sucumbíos"	"Cascales"	101	2020-08-23
+"Sucumbíos"	"Cuyabeno"	69	2020-08-23
+"Sucumbíos"	"Gonzalo Pizarro"	156	2020-08-23
+"Sucumbíos"	"Lago Agrio"	1319	2020-08-23
+"Sucumbíos"	"Putumayo"	77	2020-08-23
+"Sucumbíos"	"Shushufindi"	203	2020-08-23
+"Sucumbíos"	"Sucumbíos"	16	2020-08-23
+"Sucumbíos"	"Cascales"	101	2020-08-24
+"Sucumbíos"	"Cuyabeno"	69	2020-08-24
+"Sucumbíos"	"Gonzalo Pizarro"	156	2020-08-24
+"Sucumbíos"	"Lago Agrio"	1319	2020-08-24
+"Sucumbíos"	"Putumayo"	77	2020-08-24
+"Sucumbíos"	"Shushufindi"	203	2020-08-24
+"Sucumbíos"	"Sucumbíos"	16	2020-08-24
+"Sucumbíos"	"Cascales"	103	2020-08-25
+"Sucumbíos"	"Cuyabeno"	69	2020-08-25
+"Sucumbíos"	"Gonzalo Pizarro"	157	2020-08-25
+"Sucumbíos"	"Lago Agrio"	1339	2020-08-25
+"Sucumbíos"	"Putumayo"	78	2020-08-25
+"Sucumbíos"	"Shushufindi"	209	2020-08-25
+"Sucumbíos"	"Sucumbíos"	25	2020-08-25
+"Sucumbíos"	"Cascales"	103	2020-08-26
+"Sucumbíos"	"Cuyabeno"	110	2020-08-26
+"Sucumbíos"	"Gonzalo Pizarro"	157	2020-08-26
+"Sucumbíos"	"Lago Agrio"	1339	2020-08-26
+"Sucumbíos"	"Putumayo"	80	2020-08-26
+"Sucumbíos"	"Shushufindi"	268	2020-08-26
+"Sucumbíos"	"Sucumbíos"	25	2020-08-26
+"Sucumbíos"	"Cascales"	104	2020-08-27
+"Sucumbíos"	"Cuyabeno"	111	2020-08-27
+"Sucumbíos"	"Gonzalo Pizarro"	157	2020-08-27
+"Sucumbíos"	"Lago Agrio"	1358	2020-08-27
+"Sucumbíos"	"Putumayo"	83	2020-08-27
+"Sucumbíos"	"Shushufindi"	279	2020-08-27
+"Sucumbíos"	"Sucumbíos"	25	2020-08-27
+"Sucumbíos"	"Cascales"	104	2020-08-28
+"Sucumbíos"	"Cuyabeno"	111	2020-08-28
+"Sucumbíos"	"Gonzalo Pizarro"	157	2020-08-28
+"Sucumbíos"	"Lago Agrio"	1359	2020-08-28
+"Sucumbíos"	"Putumayo"	83	2020-08-28
+"Sucumbíos"	"Shushufindi"	347	2020-08-28
+"Sucumbíos"	"Sucumbíos"	25	2020-08-28
+"Sucumbíos"	"Cascales"	104	2020-08-29
+"Sucumbíos"	"Cuyabeno"	111	2020-08-29
+"Sucumbíos"	"Gonzalo Pizarro"	158	2020-08-29
+"Sucumbíos"	"Lago Agrio"	1361	2020-08-29
+"Sucumbíos"	"Putumayo"	83	2020-08-29
+"Sucumbíos"	"Shushufindi"	355	2020-08-29
+"Sucumbíos"	"Sucumbíos"	25	2020-08-29
+"Sucumbíos"	"Cascales"	104	2020-08-30
+"Sucumbíos"	"Cuyabeno"	111	2020-08-30
+"Sucumbíos"	"Gonzalo Pizarro"	158	2020-08-30
+"Sucumbíos"	"Lago Agrio"	1362	2020-08-30
+"Sucumbíos"	"Putumayo"	83	2020-08-30
+"Sucumbíos"	"Shushufindi"	414	2020-08-30
+"Sucumbíos"	"Sucumbíos"	25	2020-08-30
+"Sucumbíos"	"Cascales"	104	2020-08-31
+"Sucumbíos"	"Cuyabeno"	111	2020-08-31
+"Sucumbíos"	"Gonzalo Pizarro"	158	2020-08-31
+"Sucumbíos"	"Lago Agrio"	1362	2020-08-31
+"Sucumbíos"	"Putumayo"	83	2020-08-31
+"Sucumbíos"	"Shushufindi"	414	2020-08-31
+"Sucumbíos"	"Sucumbíos"	25	2020-08-31
+"Sucumbíos"	"Cascales"	104	2020-09-01
+"Sucumbíos"	"Cuyabeno"	111	2020-09-01
+"Sucumbíos"	"Gonzalo Pizarro"	164	2020-09-01
+"Sucumbíos"	"Lago Agrio"	1384	2020-09-01
+"Sucumbíos"	"Putumayo"	85	2020-09-01
+"Sucumbíos"	"Shushufindi"	425	2020-09-01
+"Sucumbíos"	"Sucumbíos"	27	2020-09-01
+"Sucumbíos"	"Cascales"	104	2020-09-02
+"Sucumbíos"	"Cuyabeno"	112	2020-09-02
+"Sucumbíos"	"Gonzalo Pizarro"	164	2020-09-02
+"Sucumbíos"	"Lago Agrio"	1386	2020-09-02
+"Sucumbíos"	"Putumayo"	85	2020-09-02
+"Sucumbíos"	"Shushufindi"	426	2020-09-02
+"Sucumbíos"	"Sucumbíos"	27	2020-09-02
+"Sucumbíos"	"Cascales"	104	2020-09-03
+"Sucumbíos"	"Cuyabeno"	112	2020-09-03
+"Sucumbíos"	"Gonzalo Pizarro"	164	2020-09-03
+"Sucumbíos"	"Lago Agrio"	1411	2020-09-03
+"Sucumbíos"	"Putumayo"	89	2020-09-03
+"Sucumbíos"	"Shushufindi"	428	2020-09-03
+"Sucumbíos"	"Sucumbíos"	27	2020-09-03
+"Sucumbíos"	"Cascales"	105	2020-09-04
+"Sucumbíos"	"Cuyabeno"	112	2020-09-04
+"Sucumbíos"	"Gonzalo Pizarro"	164	2020-09-04
+"Sucumbíos"	"Lago Agrio"	1414	2020-09-04
+"Sucumbíos"	"Putumayo"	89	2020-09-04
+"Sucumbíos"	"Shushufindi"	428	2020-09-04
+"Sucumbíos"	"Sucumbíos"	27	2020-09-04
+"Sucumbíos"	"Cascales"	105	2020-09-05
+"Sucumbíos"	"Cuyabeno"	112	2020-09-05
+"Sucumbíos"	"Gonzalo Pizarro"	164	2020-09-05
+"Sucumbíos"	"Lago Agrio"	1415	2020-09-05
+"Sucumbíos"	"Putumayo"	90	2020-09-05
+"Sucumbíos"	"Shushufindi"	429	2020-09-05
+"Sucumbíos"	"Sucumbíos"	27	2020-09-05
+"Sucumbíos"	"Cascales"	105	2020-09-06
+"Sucumbíos"	"Cuyabeno"	112	2020-09-06
+"Sucumbíos"	"Gonzalo Pizarro"	164	2020-09-06
+"Sucumbíos"	"Lago Agrio"	1415	2020-09-06
+"Sucumbíos"	"Putumayo"	90	2020-09-06
+"Sucumbíos"	"Shushufindi"	431	2020-09-06
+"Sucumbíos"	"Sucumbíos"	27	2020-09-06
+"Sucumbíos"	"Cascales"	105	2020-09-07
+"Sucumbíos"	"Cuyabeno"	112	2020-09-07
+"Sucumbíos"	"Gonzalo Pizarro"	164	2020-09-07
+"Sucumbíos"	"Lago Agrio"	1415	2020-09-07
+"Sucumbíos"	"Putumayo"	90	2020-09-07
+"Sucumbíos"	"Shushufindi"	431	2020-09-07
+"Sucumbíos"	"Sucumbíos"	27	2020-09-07
+"Sucumbíos"	"Cascales"	105	2020-09-08
+"Sucumbíos"	"Cuyabeno"	112	2020-09-08
+"Sucumbíos"	"Gonzalo Pizarro"	165	2020-09-08
+"Sucumbíos"	"Lago Agrio"	1415	2020-09-08
+"Sucumbíos"	"Putumayo"	90	2020-09-08
+"Sucumbíos"	"Shushufindi"	432	2020-09-08
+"Sucumbíos"	"Sucumbíos"	29	2020-09-08
+"Sucumbíos"	"Cascales"	105	2020-09-09
+"Sucumbíos"	"Cuyabeno"	112	2020-09-09
+"Sucumbíos"	"Gonzalo Pizarro"	165	2020-09-09
+"Sucumbíos"	"Lago Agrio"	1418	2020-09-09
+"Sucumbíos"	"Putumayo"	90	2020-09-09
+"Sucumbíos"	"Shushufindi"	434	2020-09-09
+"Sucumbíos"	"Sucumbíos"	29	2020-09-09
+"Sucumbíos"	"Cascales"	105	2020-09-10
+"Sucumbíos"	"Cuyabeno"	113	2020-09-10
+"Sucumbíos"	"Gonzalo Pizarro"	165	2020-09-10
+"Sucumbíos"	"Lago Agrio"	1419	2020-09-10
+"Sucumbíos"	"Putumayo"	90	2020-09-10
+"Sucumbíos"	"Shushufindi"	476	2020-09-10
+"Sucumbíos"	"Sucumbíos"	29	2020-09-10
+"Sucumbíos"	"Cascales"	106	2020-09-11
+"Sucumbíos"	"Cuyabeno"	113	2020-09-11
+"Sucumbíos"	"Gonzalo Pizarro"	165	2020-09-11
+"Sucumbíos"	"Lago Agrio"	1420	2020-09-11
+"Sucumbíos"	"Putumayo"	91	2020-09-11
+"Sucumbíos"	"Shushufindi"	477	2020-09-11
+"Sucumbíos"	"Sucumbíos"	29	2020-09-11
+"Sucumbíos"	"Cascales"	106	2020-09-12
+"Sucumbíos"	"Cuyabeno"	113	2020-09-12
+"Sucumbíos"	"Gonzalo Pizarro"	165	2020-09-12
+"Sucumbíos"	"Lago Agrio"	1423	2020-09-12
+"Sucumbíos"	"Putumayo"	91	2020-09-12
+"Sucumbíos"	"Shushufindi"	478	2020-09-12
+"Sucumbíos"	"Sucumbíos"	29	2020-09-12
+"Sucumbíos"	"Cascales"	106	2020-09-13
+"Sucumbíos"	"Cuyabeno"	116	2020-09-13
+"Sucumbíos"	"Gonzalo Pizarro"	165	2020-09-13
+"Sucumbíos"	"Lago Agrio"	1424	2020-09-13
+"Sucumbíos"	"Putumayo"	93	2020-09-13
+"Sucumbíos"	"Shushufindi"	478	2020-09-13
+"Sucumbíos"	"Sucumbíos"	29	2020-09-13
+"Sucumbíos"	"Cascales"	106	2020-09-14
+"Sucumbíos"	"Cuyabeno"	116	2020-09-14
+"Sucumbíos"	"Gonzalo Pizarro"	165	2020-09-14
+"Sucumbíos"	"Lago Agrio"	1424	2020-09-14
+"Sucumbíos"	"Putumayo"	93	2020-09-14
+"Sucumbíos"	"Shushufindi"	478	2020-09-14
+"Sucumbíos"	"Sucumbíos"	29	2020-09-14
+"Sucumbíos"	"Cascales"	106	2020-09-15
+"Sucumbíos"	"Cuyabeno"	116	2020-09-15
+"Sucumbíos"	"Gonzalo Pizarro"	165	2020-09-15
+"Sucumbíos"	"Lago Agrio"	1430	2020-09-15
+"Sucumbíos"	"Putumayo"	97	2020-09-15
+"Sucumbíos"	"Shushufindi"	486	2020-09-15
+"Sucumbíos"	"Sucumbíos"	32	2020-09-15
+"Sucumbíos"	"Cascales"	106	2020-09-16
+"Sucumbíos"	"Cuyabeno"	117	2020-09-16
+"Sucumbíos"	"Gonzalo Pizarro"	165	2020-09-16
+"Sucumbíos"	"Lago Agrio"	1436	2020-09-16
+"Sucumbíos"	"Putumayo"	97	2020-09-16
+"Sucumbíos"	"Shushufindi"	487	2020-09-16
+"Sucumbíos"	"Sucumbíos"	32	2020-09-16
+"Sucumbíos"	"Cascales"	106	2020-09-17
+"Sucumbíos"	"Cuyabeno"	117	2020-09-17
+"Sucumbíos"	"Gonzalo Pizarro"	166	2020-09-17
+"Sucumbíos"	"Lago Agrio"	1465	2020-09-17
+"Sucumbíos"	"Putumayo"	97	2020-09-17
+"Sucumbíos"	"Shushufindi"	488	2020-09-17
+"Sucumbíos"	"Sucumbíos"	32	2020-09-17
+"Sucumbíos"	"Cascales"	106	2020-09-18
+"Sucumbíos"	"Cuyabeno"	117	2020-09-18
+"Sucumbíos"	"Gonzalo Pizarro"	166	2020-09-18
+"Sucumbíos"	"Lago Agrio"	1466	2020-09-18
+"Sucumbíos"	"Putumayo"	98	2020-09-18
+"Sucumbíos"	"Shushufindi"	488	2020-09-18
+"Sucumbíos"	"Sucumbíos"	32	2020-09-18
+"Sucumbíos"	"Cascales"	106	2020-09-19
+"Sucumbíos"	"Cuyabeno"	117	2020-09-19
+"Sucumbíos"	"Gonzalo Pizarro"	166	2020-09-19
+"Sucumbíos"	"Lago Agrio"	1466	2020-09-19
+"Sucumbíos"	"Putumayo"	98	2020-09-19
+"Sucumbíos"	"Shushufindi"	500	2020-09-19
+"Sucumbíos"	"Sucumbíos"	32	2020-09-19
+"Sucumbíos"	"Cascales"	106	2020-09-20
+"Sucumbíos"	"Cuyabeno"	117	2020-09-20
+"Sucumbíos"	"Gonzalo Pizarro"	166	2020-09-20
+"Sucumbíos"	"Lago Agrio"	1470	2020-09-20
+"Sucumbíos"	"Putumayo"	98	2020-09-20
+"Sucumbíos"	"Shushufindi"	518	2020-09-20
+"Sucumbíos"	"Sucumbíos"	32	2020-09-20
+"Sucumbíos"	"Cascales"	106	2020-09-21
+"Sucumbíos"	"Cuyabeno"	117	2020-09-21
+"Sucumbíos"	"Gonzalo Pizarro"	166	2020-09-21
+"Sucumbíos"	"Lago Agrio"	1470	2020-09-21
+"Sucumbíos"	"Putumayo"	98	2020-09-21
+"Sucumbíos"	"Shushufindi"	518	2020-09-21
+"Sucumbíos"	"Sucumbíos"	32	2020-09-21
+"Sucumbíos"	"Cascales"	106	2020-09-22
+"Sucumbíos"	"Cuyabeno"	117	2020-09-22
+"Sucumbíos"	"Gonzalo Pizarro"	166	2020-09-22
+"Sucumbíos"	"Lago Agrio"	1470	2020-09-22
+"Sucumbíos"	"Putumayo"	98	2020-09-22
+"Sucumbíos"	"Shushufindi"	518	2020-09-22
+"Sucumbíos"	"Sucumbíos"	32	2020-09-22
+"Sucumbíos"	"Cascales"	107	2020-09-23
+"Sucumbíos"	"Cuyabeno"	117	2020-09-23
+"Sucumbíos"	"Gonzalo Pizarro"	166	2020-09-23
+"Sucumbíos"	"Lago Agrio"	1472	2020-09-23
+"Sucumbíos"	"Putumayo"	98	2020-09-23
+"Sucumbíos"	"Shushufindi"	518	2020-09-23
+"Sucumbíos"	"Sucumbíos"	32	2020-09-23
+"Sucumbíos"	"Cascales"	108	2020-09-24
+"Sucumbíos"	"Cuyabeno"	117	2020-09-24
+"Sucumbíos"	"Gonzalo Pizarro"	167	2020-09-24
+"Sucumbíos"	"Lago Agrio"	1481	2020-09-24
+"Sucumbíos"	"Putumayo"	98	2020-09-24
+"Sucumbíos"	"Shushufindi"	519	2020-09-24
+"Sucumbíos"	"Sucumbíos"	32	2020-09-24
+"Sucumbíos"	"Cascales"	108	2020-09-25
+"Sucumbíos"	"Cuyabeno"	117	2020-09-25
+"Sucumbíos"	"Gonzalo Pizarro"	167	2020-09-25
+"Sucumbíos"	"Lago Agrio"	1481	2020-09-25
+"Sucumbíos"	"Putumayo"	98	2020-09-25
+"Sucumbíos"	"Shushufindi"	519	2020-09-25
+"Sucumbíos"	"Sucumbíos"	32	2020-09-25
+"Sucumbíos"	"Cascales"	111	2020-09-26
+"Sucumbíos"	"Cuyabeno"	117	2020-09-26
+"Sucumbíos"	"Gonzalo Pizarro"	167	2020-09-26
+"Sucumbíos"	"Lago Agrio"	1484	2020-09-26
+"Sucumbíos"	"Putumayo"	99	2020-09-26
+"Sucumbíos"	"Shushufindi"	519	2020-09-26
+"Sucumbíos"	"Sucumbíos"	32	2020-09-26
+"Sucumbíos"	"Cascales"	112	2020-09-27
+"Sucumbíos"	"Cuyabeno"	117	2020-09-27
+"Sucumbíos"	"Gonzalo Pizarro"	167	2020-09-27
+"Sucumbíos"	"Lago Agrio"	1492	2020-09-27
+"Sucumbíos"	"Putumayo"	99	2020-09-27
+"Sucumbíos"	"Shushufindi"	520	2020-09-27
+"Sucumbíos"	"Sucumbíos"	32	2020-09-27
+"Sucumbíos"	"Cascales"	112	2020-09-28
+"Sucumbíos"	"Cuyabeno"	117	2020-09-28
+"Sucumbíos"	"Gonzalo Pizarro"	167	2020-09-28
+"Sucumbíos"	"Lago Agrio"	1492	2020-09-28
+"Sucumbíos"	"Putumayo"	99	2020-09-28
+"Sucumbíos"	"Shushufindi"	520	2020-09-28
+"Sucumbíos"	"Sucumbíos"	32	2020-09-28
+"Sucumbíos"	"Cascales"	113	2020-09-29
+"Sucumbíos"	"Cuyabeno"	117	2020-09-29
+"Sucumbíos"	"Gonzalo Pizarro"	167	2020-09-29
+"Sucumbíos"	"Lago Agrio"	1495	2020-09-29
+"Sucumbíos"	"Putumayo"	99	2020-09-29
+"Sucumbíos"	"Shushufindi"	521	2020-09-29
+"Sucumbíos"	"Sucumbíos"	33	2020-09-29
+"Sucumbíos"	"Cascales"	113	2020-09-30
+"Sucumbíos"	"Cuyabeno"	117	2020-09-30
+"Sucumbíos"	"Gonzalo Pizarro"	168	2020-09-30
+"Sucumbíos"	"Lago Agrio"	1496	2020-09-30
+"Sucumbíos"	"Putumayo"	99	2020-09-30
+"Sucumbíos"	"Shushufindi"	530	2020-09-30
+"Sucumbíos"	"Sucumbíos"	33	2020-09-30
+"Sucumbíos"	"Cascales"	113	2020-10-01
+"Sucumbíos"	"Cuyabeno"	124	2020-10-01
+"Sucumbíos"	"Gonzalo Pizarro"	168	2020-10-01
+"Sucumbíos"	"Lago Agrio"	1496	2020-10-01
+"Sucumbíos"	"Putumayo"	100	2020-10-01
+"Sucumbíos"	"Shushufindi"	531	2020-10-01
+"Sucumbíos"	"Sucumbíos"	33	2020-10-01
+"Sucumbíos"	"Cascales"	113	2020-10-02
+"Sucumbíos"	"Cuyabeno"	130	2020-10-02
+"Sucumbíos"	"Gonzalo Pizarro"	168	2020-10-02
+"Sucumbíos"	"Lago Agrio"	1502	2020-10-02
+"Sucumbíos"	"Putumayo"	100	2020-10-02
+"Sucumbíos"	"Shushufindi"	532	2020-10-02
+"Sucumbíos"	"Sucumbíos"	34	2020-10-02
+"Sucumbíos"	"Cascales"	113	2020-10-03
+"Sucumbíos"	"Cuyabeno"	130	2020-10-03
+"Sucumbíos"	"Gonzalo Pizarro"	168	2020-10-03
+"Sucumbíos"	"Lago Agrio"	1506	2020-10-03
+"Sucumbíos"	"Putumayo"	100	2020-10-03
+"Sucumbíos"	"Shushufindi"	532	2020-10-03
+"Sucumbíos"	"Sucumbíos"	34	2020-10-03
+"Sucumbíos"	"Cascales"	113	2020-10-04
+"Sucumbíos"	"Cuyabeno"	130	2020-10-04
+"Sucumbíos"	"Gonzalo Pizarro"	168	2020-10-04
+"Sucumbíos"	"Lago Agrio"	1508	2020-10-04
+"Sucumbíos"	"Putumayo"	100	2020-10-04
+"Sucumbíos"	"Shushufindi"	534	2020-10-04
+"Sucumbíos"	"Sucumbíos"	34	2020-10-04
+"Sucumbíos"	"Cascales"	113	2020-10-05
+"Sucumbíos"	"Cuyabeno"	130	2020-10-05
+"Sucumbíos"	"Gonzalo Pizarro"	168	2020-10-05
+"Sucumbíos"	"Lago Agrio"	1508	2020-10-05
+"Sucumbíos"	"Putumayo"	100	2020-10-05
+"Sucumbíos"	"Shushufindi"	534	2020-10-05
+"Sucumbíos"	"Sucumbíos"	34	2020-10-05
+"Sucumbíos"	"Cascales"	114	2020-10-06
+"Sucumbíos"	"Cuyabeno"	130	2020-10-06
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-06
+"Sucumbíos"	"Lago Agrio"	1513	2020-10-06
+"Sucumbíos"	"Putumayo"	100	2020-10-06
+"Sucumbíos"	"Shushufindi"	534	2020-10-06
+"Sucumbíos"	"Sucumbíos"	36	2020-10-06
+"Sucumbíos"	"Cascales"	114	2020-10-07
+"Sucumbíos"	"Cuyabeno"	131	2020-10-07
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-07
+"Sucumbíos"	"Lago Agrio"	1517	2020-10-07
+"Sucumbíos"	"Putumayo"	100	2020-10-07
+"Sucumbíos"	"Shushufindi"	537	2020-10-07
+"Sucumbíos"	"Sucumbíos"	36	2020-10-07
+"Sucumbíos"	"Cascales"	114	2020-10-08
+"Sucumbíos"	"Cuyabeno"	132	2020-10-08
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-08
+"Sucumbíos"	"Lago Agrio"	1522	2020-10-08
+"Sucumbíos"	"Putumayo"	102	2020-10-08
+"Sucumbíos"	"Shushufindi"	540	2020-10-08
+"Sucumbíos"	"Sucumbíos"	36	2020-10-08
+"Sucumbíos"	"Cascales"	114	2020-10-09
+"Sucumbíos"	"Cuyabeno"	133	2020-10-09
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-09
+"Sucumbíos"	"Lago Agrio"	1526	2020-10-09
+"Sucumbíos"	"Putumayo"	103	2020-10-09
+"Sucumbíos"	"Shushufindi"	541	2020-10-09
+"Sucumbíos"	"Sucumbíos"	36	2020-10-09
+"Sucumbíos"	"Cascales"	114	2020-10-10
+"Sucumbíos"	"Cuyabeno"	133	2020-10-10
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-10
+"Sucumbíos"	"Lago Agrio"	1527	2020-10-10
+"Sucumbíos"	"Putumayo"	103	2020-10-10
+"Sucumbíos"	"Shushufindi"	543	2020-10-10
+"Sucumbíos"	"Sucumbíos"	36	2020-10-10
+"Sucumbíos"	"Cascales"	114	2020-10-11
+"Sucumbíos"	"Cuyabeno"	133	2020-10-11
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-11
+"Sucumbíos"	"Lago Agrio"	1527	2020-10-11
+"Sucumbíos"	"Putumayo"	103	2020-10-11
+"Sucumbíos"	"Shushufindi"	543	2020-10-11
+"Sucumbíos"	"Sucumbíos"	36	2020-10-11
+"Sucumbíos"	"Cascales"	114	2020-10-12
+"Sucumbíos"	"Cuyabeno"	133	2020-10-12
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-12
+"Sucumbíos"	"Lago Agrio"	1527	2020-10-12
+"Sucumbíos"	"Putumayo"	103	2020-10-12
+"Sucumbíos"	"Shushufindi"	543	2020-10-12
+"Sucumbíos"	"Sucumbíos"	36	2020-10-12
+"Sucumbíos"	"Cascales"	114	2020-10-13
+"Sucumbíos"	"Cuyabeno"	133	2020-10-13
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-13
+"Sucumbíos"	"Lago Agrio"	1533	2020-10-13
+"Sucumbíos"	"Putumayo"	103	2020-10-13
+"Sucumbíos"	"Shushufindi"	543	2020-10-13
+"Sucumbíos"	"Sucumbíos"	36	2020-10-13
+"Sucumbíos"	"Cascales"	115	2020-10-14
+"Sucumbíos"	"Cuyabeno"	133	2020-10-14
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-14
+"Sucumbíos"	"Lago Agrio"	1550	2020-10-14
+"Sucumbíos"	"Putumayo"	103	2020-10-14
+"Sucumbíos"	"Shushufindi"	543	2020-10-14
+"Sucumbíos"	"Sucumbíos"	36	2020-10-14
+"Sucumbíos"	"Cascales"	115	2020-10-15
+"Sucumbíos"	"Cuyabeno"	133	2020-10-15
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-15
+"Sucumbíos"	"Lago Agrio"	1560	2020-10-15
+"Sucumbíos"	"Putumayo"	103	2020-10-15
+"Sucumbíos"	"Shushufindi"	546	2020-10-15
+"Sucumbíos"	"Sucumbíos"	36	2020-10-15
+"Sucumbíos"	"Cascales"	115	2020-10-16
+"Sucumbíos"	"Cuyabeno"	133	2020-10-16
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-16
+"Sucumbíos"	"Lago Agrio"	1564	2020-10-16
+"Sucumbíos"	"Putumayo"	103	2020-10-16
+"Sucumbíos"	"Shushufindi"	546	2020-10-16
+"Sucumbíos"	"Sucumbíos"	36	2020-10-16
+"Sucumbíos"	"Cascales"	115	2020-10-17
+"Sucumbíos"	"Cuyabeno"	133	2020-10-17
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-17
+"Sucumbíos"	"Lago Agrio"	1566	2020-10-17
+"Sucumbíos"	"Putumayo"	103	2020-10-17
+"Sucumbíos"	"Shushufindi"	546	2020-10-17
+"Sucumbíos"	"Sucumbíos"	36	2020-10-17
+"Sucumbíos"	"Cascales"	115	2020-10-18
+"Sucumbíos"	"Cuyabeno"	133	2020-10-18
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-18
+"Sucumbíos"	"Lago Agrio"	1567	2020-10-18
+"Sucumbíos"	"Putumayo"	103	2020-10-18
+"Sucumbíos"	"Shushufindi"	549	2020-10-18
+"Sucumbíos"	"Sucumbíos"	36	2020-10-18
+"Sucumbíos"	"Cascales"	115	2020-10-19
+"Sucumbíos"	"Cuyabeno"	133	2020-10-19
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-19
+"Sucumbíos"	"Lago Agrio"	1567	2020-10-19
+"Sucumbíos"	"Putumayo"	103	2020-10-19
+"Sucumbíos"	"Shushufindi"	549	2020-10-19
+"Sucumbíos"	"Sucumbíos"	36	2020-10-19
+"Sucumbíos"	"Cascales"	115	2020-10-20
+"Sucumbíos"	"Cuyabeno"	133	2020-10-20
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-20
+"Sucumbíos"	"Lago Agrio"	1567	2020-10-20
+"Sucumbíos"	"Putumayo"	103	2020-10-20
+"Sucumbíos"	"Shushufindi"	549	2020-10-20
+"Sucumbíos"	"Sucumbíos"	37	2020-10-20
+"Sucumbíos"	"Cascales"	115	2020-10-21
+"Sucumbíos"	"Cuyabeno"	135	2020-10-21
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-21
+"Sucumbíos"	"Lago Agrio"	1579	2020-10-21
+"Sucumbíos"	"Putumayo"	103	2020-10-21
+"Sucumbíos"	"Shushufindi"	553	2020-10-21
+"Sucumbíos"	"Sucumbíos"	37	2020-10-21
+"Sucumbíos"	"Cascales"	116	2020-10-22
+"Sucumbíos"	"Cuyabeno"	136	2020-10-22
+"Sucumbíos"	"Gonzalo Pizarro"	169	2020-10-22
+"Sucumbíos"	"Lago Agrio"	1585	2020-10-22
+"Sucumbíos"	"Putumayo"	103	2020-10-22
+"Sucumbíos"	"Shushufindi"	554	2020-10-22
+"Sucumbíos"	"Sucumbíos"	37	2020-10-22
+"Sucumbíos"	"Cascales"	117	2020-10-23
+"Sucumbíos"	"Cuyabeno"	138	2020-10-23
+"Sucumbíos"	"Gonzalo Pizarro"	170	2020-10-23
+"Sucumbíos"	"Lago Agrio"	1587	2020-10-23
+"Sucumbíos"	"Putumayo"	103	2020-10-23
+"Sucumbíos"	"Shushufindi"	558	2020-10-23
+"Sucumbíos"	"Sucumbíos"	37	2020-10-23
+"Sucumbíos"	"Cascales"	117	2020-10-24
+"Sucumbíos"	"Cuyabeno"	138	2020-10-24
+"Sucumbíos"	"Gonzalo Pizarro"	170	2020-10-24
+"Sucumbíos"	"Lago Agrio"	1588	2020-10-24
+"Sucumbíos"	"Putumayo"	103	2020-10-24
+"Sucumbíos"	"Shushufindi"	562	2020-10-24
+"Sucumbíos"	"Sucumbíos"	37	2020-10-24
+"Sucumbíos"	"Cascales"	117	2020-10-25
+"Sucumbíos"	"Cuyabeno"	138	2020-10-25
+"Sucumbíos"	"Gonzalo Pizarro"	170	2020-10-25
+"Sucumbíos"	"Lago Agrio"	1591	2020-10-25
+"Sucumbíos"	"Putumayo"	103	2020-10-25
+"Sucumbíos"	"Shushufindi"	563	2020-10-25
+"Sucumbíos"	"Sucumbíos"	37	2020-10-25
+"Sucumbíos"	"Cascales"	117	2020-10-26
+"Sucumbíos"	"Cuyabeno"	138	2020-10-26
+"Sucumbíos"	"Gonzalo Pizarro"	170	2020-10-26
+"Sucumbíos"	"Lago Agrio"	1591	2020-10-26
+"Sucumbíos"	"Putumayo"	103	2020-10-26
+"Sucumbíos"	"Shushufindi"	563	2020-10-26
+"Sucumbíos"	"Sucumbíos"	37	2020-10-26
+"Sucumbíos"	"Cascales"	118	2020-10-27
+"Sucumbíos"	"Cuyabeno"	138	2020-10-27
+"Sucumbíos"	"Gonzalo Pizarro"	170	2020-10-27
+"Sucumbíos"	"Lago Agrio"	1592	2020-10-27
+"Sucumbíos"	"Putumayo"	103	2020-10-27
+"Sucumbíos"	"Shushufindi"	564	2020-10-27
+"Sucumbíos"	"Sucumbíos"	37	2020-10-27
+"Sucumbíos"	"Cascales"	118	2020-10-28
+"Sucumbíos"	"Cuyabeno"	139	2020-10-28
+"Sucumbíos"	"Gonzalo Pizarro"	170	2020-10-28
+"Sucumbíos"	"Lago Agrio"	1595	2020-10-28
+"Sucumbíos"	"Putumayo"	104	2020-10-28
+"Sucumbíos"	"Shushufindi"	567	2020-10-28
+"Sucumbíos"	"Sucumbíos"	37	2020-10-28
+"Sucumbíos"	"Cascales"	118	2020-10-29
+"Sucumbíos"	"Cuyabeno"	139	2020-10-29
+"Sucumbíos"	"Gonzalo Pizarro"	172	2020-10-29
+"Sucumbíos"	"Lago Agrio"	1598	2020-10-29
+"Sucumbíos"	"Putumayo"	104	2020-10-29
+"Sucumbíos"	"Shushufindi"	567	2020-10-29
+"Sucumbíos"	"Sucumbíos"	37	2020-10-29
+"Sucumbíos"	"Cascales"	118	2020-10-30
+"Sucumbíos"	"Cuyabeno"	139	2020-10-30
+"Sucumbíos"	"Gonzalo Pizarro"	173	2020-10-30
+"Sucumbíos"	"Lago Agrio"	1605	2020-10-30
+"Sucumbíos"	"Putumayo"	104	2020-10-30
+"Sucumbíos"	"Shushufindi"	567	2020-10-30
+"Sucumbíos"	"Sucumbíos"	37	2020-10-30
+"Sucumbíos"	"Cascales"	118	2020-10-31
+"Sucumbíos"	"Cuyabeno"	139	2020-10-31
+"Sucumbíos"	"Gonzalo Pizarro"	173	2020-10-31
+"Sucumbíos"	"Lago Agrio"	1615	2020-10-31
+"Sucumbíos"	"Putumayo"	104	2020-10-31
+"Sucumbíos"	"Shushufindi"	568	2020-10-31
+"Sucumbíos"	"Sucumbíos"	37	2020-10-31
+"Sucumbíos"	"Cascales"	119	2020-11-01
+"Sucumbíos"	"Cuyabeno"	139	2020-11-01
+"Sucumbíos"	"Gonzalo Pizarro"	173	2020-11-01
+"Sucumbíos"	"Lago Agrio"	1620	2020-11-01
+"Sucumbíos"	"Putumayo"	104	2020-11-01
+"Sucumbíos"	"Shushufindi"	571	2020-11-01
+"Sucumbíos"	"Sucumbíos"	37	2020-11-01
+"Sucumbíos"	"Cascales"	119	2020-11-02
+"Sucumbíos"	"Cuyabeno"	139	2020-11-02
+"Sucumbíos"	"Gonzalo Pizarro"	173	2020-11-02
+"Sucumbíos"	"Lago Agrio"	1622	2020-11-02
+"Sucumbíos"	"Putumayo"	104	2020-11-02
+"Sucumbíos"	"Shushufindi"	571	2020-11-02
+"Sucumbíos"	"Sucumbíos"	37	2020-11-02
+"Sucumbíos"	"Cascales"	119	2020-11-03
+"Sucumbíos"	"Cuyabeno"	139	2020-11-03
+"Sucumbíos"	"Gonzalo Pizarro"	173	2020-11-03
+"Sucumbíos"	"Lago Agrio"	1622	2020-11-03
+"Sucumbíos"	"Putumayo"	104	2020-11-03
+"Sucumbíos"	"Shushufindi"	571	2020-11-03
+"Sucumbíos"	"Sucumbíos"	37	2020-11-03
+"Sucumbíos"	"Cascales"	119	2020-11-04
+"Sucumbíos"	"Cuyabeno"	139	2020-11-04
+"Sucumbíos"	"Gonzalo Pizarro"	173	2020-11-04
+"Sucumbíos"	"Lago Agrio"	1624	2020-11-04
+"Sucumbíos"	"Putumayo"	104	2020-11-04
+"Sucumbíos"	"Shushufindi"	572	2020-11-04
+"Sucumbíos"	"Sucumbíos"	37	2020-11-04
+"Sucumbíos"	"Cascales"	120	2020-11-05
+"Sucumbíos"	"Cuyabeno"	139	2020-11-05
+"Sucumbíos"	"Gonzalo Pizarro"	173	2020-11-05
+"Sucumbíos"	"Lago Agrio"	1627	2020-11-05
+"Sucumbíos"	"Putumayo"	104	2020-11-05
+"Sucumbíos"	"Shushufindi"	573	2020-11-05
+"Sucumbíos"	"Sucumbíos"	37	2020-11-05
+"Sucumbíos"	"Cascales"	121	2020-11-06
+"Sucumbíos"	"Cuyabeno"	139	2020-11-06
+"Sucumbíos"	"Gonzalo Pizarro"	173	2020-11-06
+"Sucumbíos"	"Lago Agrio"	1631	2020-11-06
+"Sucumbíos"	"Putumayo"	104	2020-11-06
+"Sucumbíos"	"Shushufindi"	573	2020-11-06
+"Sucumbíos"	"Sucumbíos"	37	2020-11-06
+"Sucumbíos"	"Cascales"	121	2020-11-07
+"Sucumbíos"	"Cuyabeno"	139	2020-11-07
+"Sucumbíos"	"Gonzalo Pizarro"	175	2020-11-07
+"Sucumbíos"	"Lago Agrio"	1636	2020-11-07
+"Sucumbíos"	"Putumayo"	105	2020-11-07
+"Sucumbíos"	"Shushufindi"	573	2020-11-07
+"Sucumbíos"	"Sucumbíos"	37	2020-11-07
+"Sucumbíos"	"Cascales"	121	2020-11-08
+"Sucumbíos"	"Cuyabeno"	141	2020-11-08
+"Sucumbíos"	"Gonzalo Pizarro"	175	2020-11-08
+"Sucumbíos"	"Lago Agrio"	1649	2020-11-08
+"Sucumbíos"	"Putumayo"	107	2020-11-08
+"Sucumbíos"	"Shushufindi"	574	2020-11-08
+"Sucumbíos"	"Sucumbíos"	38	2020-11-08
+"Sucumbíos"	"Cascales"	121	2020-11-09
+"Sucumbíos"	"Cuyabeno"	141	2020-11-09
+"Sucumbíos"	"Gonzalo Pizarro"	175	2020-11-09
+"Sucumbíos"	"Lago Agrio"	1650	2020-11-09
+"Sucumbíos"	"Putumayo"	107	2020-11-09
+"Sucumbíos"	"Shushufindi"	574	2020-11-09
+"Sucumbíos"	"Sucumbíos"	38	2020-11-09
+"Sucumbíos"	"Cascales"	121	2020-11-10
+"Sucumbíos"	"Cuyabeno"	141	2020-11-10
+"Sucumbíos"	"Gonzalo Pizarro"	175	2020-11-10
+"Sucumbíos"	"Lago Agrio"	1650	2020-11-10
+"Sucumbíos"	"Putumayo"	107	2020-11-10
+"Sucumbíos"	"Shushufindi"	576	2020-11-10
+"Sucumbíos"	"Sucumbíos"	38	2020-11-10
+"Sucumbíos"	"Cascales"	121	2020-11-11
+"Sucumbíos"	"Cuyabeno"	141	2020-11-11
+"Sucumbíos"	"Gonzalo Pizarro"	176	2020-11-11
+"Sucumbíos"	"Lago Agrio"	1651	2020-11-11
+"Sucumbíos"	"Putumayo"	107	2020-11-11
+"Sucumbíos"	"Shushufindi"	576	2020-11-11
+"Sucumbíos"	"Sucumbíos"	38	2020-11-11
+"Sucumbíos"	"Cascales"	121	2020-11-12
+"Sucumbíos"	"Cuyabeno"	141	2020-11-12
+"Sucumbíos"	"Gonzalo Pizarro"	176	2020-11-12
+"Sucumbíos"	"Lago Agrio"	1654	2020-11-12
+"Sucumbíos"	"Putumayo"	109	2020-11-12
+"Sucumbíos"	"Shushufindi"	579	2020-11-12
+"Sucumbíos"	"Sucumbíos"	38	2020-11-12
+"Sucumbíos"	"Cascales"	121	2020-11-13
+"Sucumbíos"	"Cuyabeno"	141	2020-11-13
+"Sucumbíos"	"Gonzalo Pizarro"	176	2020-11-13
+"Sucumbíos"	"Lago Agrio"	1656	2020-11-13
+"Sucumbíos"	"Putumayo"	109	2020-11-13
+"Sucumbíos"	"Shushufindi"	580	2020-11-13
+"Sucumbíos"	"Sucumbíos"	38	2020-11-13
+"Sucumbíos"	"Cascales"	121	2020-11-14
+"Sucumbíos"	"Cuyabeno"	141	2020-11-14
+"Sucumbíos"	"Gonzalo Pizarro"	176	2020-11-14
+"Sucumbíos"	"Lago Agrio"	1664	2020-11-14
+"Sucumbíos"	"Putumayo"	109	2020-11-14
+"Sucumbíos"	"Shushufindi"	582	2020-11-14
+"Sucumbíos"	"Sucumbíos"	38	2020-11-14
+"Sucumbíos"	"Cascales"	121	2020-11-15
+"Sucumbíos"	"Cuyabeno"	141	2020-11-15
+"Sucumbíos"	"Gonzalo Pizarro"	176	2020-11-15
+"Sucumbíos"	"Lago Agrio"	1665	2020-11-15
+"Sucumbíos"	"Putumayo"	109	2020-11-15
+"Sucumbíos"	"Shushufindi"	582	2020-11-15
+"Sucumbíos"	"Sucumbíos"	38	2020-11-15
+"Sucumbíos"	"Cascales"	121	2020-11-16
+"Sucumbíos"	"Cuyabeno"	144	2020-11-16
+"Sucumbíos"	"Gonzalo Pizarro"	176	2020-11-16
+"Sucumbíos"	"Lago Agrio"	1666	2020-11-16
+"Sucumbíos"	"Putumayo"	112	2020-11-16
+"Sucumbíos"	"Shushufindi"	582	2020-11-16
+"Sucumbíos"	"Sucumbíos"	38	2020-11-16
+"Sucumbíos"	"Cascales"	121	2020-11-17
+"Sucumbíos"	"Cuyabeno"	145	2020-11-17
+"Sucumbíos"	"Gonzalo Pizarro"	177	2020-11-17
+"Sucumbíos"	"Lago Agrio"	1668	2020-11-17
+"Sucumbíos"	"Putumayo"	112	2020-11-17
+"Sucumbíos"	"Shushufindi"	582	2020-11-17
+"Sucumbíos"	"Sucumbíos"	38	2020-11-17
+"Sucumbíos"	"Cascales"	121	2020-11-18
+"Sucumbíos"	"Cuyabeno"	145	2020-11-18
+"Sucumbíos"	"Gonzalo Pizarro"	178	2020-11-18
+"Sucumbíos"	"Lago Agrio"	1675	2020-11-18
+"Sucumbíos"	"Putumayo"	113	2020-11-18
+"Sucumbíos"	"Shushufindi"	583	2020-11-18
+"Sucumbíos"	"Sucumbíos"	38	2020-11-18
+"Sucumbíos"	"Cascales"	121	2020-11-19
+"Sucumbíos"	"Cuyabeno"	146	2020-11-19
+"Sucumbíos"	"Gonzalo Pizarro"	178	2020-11-19
+"Sucumbíos"	"Lago Agrio"	1677	2020-11-19
+"Sucumbíos"	"Putumayo"	114	2020-11-19
+"Sucumbíos"	"Shushufindi"	584	2020-11-19
+"Sucumbíos"	"Sucumbíos"	38	2020-11-19
+"Sucumbíos"	"Cascales"	121	2020-11-20
+"Sucumbíos"	"Cuyabeno"	146	2020-11-20
+"Sucumbíos"	"Gonzalo Pizarro"	178	2020-11-20
+"Sucumbíos"	"Lago Agrio"	1678	2020-11-20
+"Sucumbíos"	"Putumayo"	115	2020-11-20
+"Sucumbíos"	"Shushufindi"	584	2020-11-20
+"Sucumbíos"	"Sucumbíos"	38	2020-11-20
+"Sucumbíos"	"Cascales"	121	2020-11-21
+"Sucumbíos"	"Cuyabeno"	147	2020-11-21
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-11-21
+"Sucumbíos"	"Lago Agrio"	1681	2020-11-21
+"Sucumbíos"	"Putumayo"	115	2020-11-21
+"Sucumbíos"	"Shushufindi"	585	2020-11-21
+"Sucumbíos"	"Sucumbíos"	38	2020-11-21
+"Sucumbíos"	"Cascales"	121	2020-11-22
+"Sucumbíos"	"Cuyabeno"	147	2020-11-22
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-11-22
+"Sucumbíos"	"Lago Agrio"	1682	2020-11-22
+"Sucumbíos"	"Putumayo"	115	2020-11-22
+"Sucumbíos"	"Shushufindi"	585	2020-11-22
+"Sucumbíos"	"Sucumbíos"	38	2020-11-22
+"Sucumbíos"	"Cascales"	121	2020-11-23
+"Sucumbíos"	"Cuyabeno"	147	2020-11-23
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-11-23
+"Sucumbíos"	"Lago Agrio"	1683	2020-11-23
+"Sucumbíos"	"Putumayo"	115	2020-11-23
+"Sucumbíos"	"Shushufindi"	585	2020-11-23
+"Sucumbíos"	"Sucumbíos"	38	2020-11-23
+"Sucumbíos"	"Cascales"	121	2020-11-24
+"Sucumbíos"	"Cuyabeno"	147	2020-11-24
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-11-24
+"Sucumbíos"	"Lago Agrio"	1683	2020-11-24
+"Sucumbíos"	"Putumayo"	115	2020-11-24
+"Sucumbíos"	"Shushufindi"	585	2020-11-24
+"Sucumbíos"	"Sucumbíos"	38	2020-11-24
+"Sucumbíos"	"Cascales"	121	2020-11-25
+"Sucumbíos"	"Cuyabeno"	147	2020-11-25
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-11-25
+"Sucumbíos"	"Lago Agrio"	1684	2020-11-25
+"Sucumbíos"	"Putumayo"	115	2020-11-25
+"Sucumbíos"	"Shushufindi"	585	2020-11-25
+"Sucumbíos"	"Sucumbíos"	38	2020-11-25
+"Sucumbíos"	"Cascales"	121	2020-11-26
+"Sucumbíos"	"Cuyabeno"	147	2020-11-26
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-11-26
+"Sucumbíos"	"Lago Agrio"	1686	2020-11-26
+"Sucumbíos"	"Putumayo"	115	2020-11-26
+"Sucumbíos"	"Shushufindi"	588	2020-11-26
+"Sucumbíos"	"Sucumbíos"	38	2020-11-26
+"Sucumbíos"	"Cascales"	122	2020-11-27
+"Sucumbíos"	"Cuyabeno"	147	2020-11-27
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-11-27
+"Sucumbíos"	"Lago Agrio"	1692	2020-11-27
+"Sucumbíos"	"Putumayo"	117	2020-11-27
+"Sucumbíos"	"Shushufindi"	593	2020-11-27
+"Sucumbíos"	"Sucumbíos"	38	2020-11-27
+"Sucumbíos"	"Cascales"	123	2020-11-28
+"Sucumbíos"	"Cuyabeno"	147	2020-11-28
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-11-28
+"Sucumbíos"	"Lago Agrio"	1694	2020-11-28
+"Sucumbíos"	"Putumayo"	117	2020-11-28
+"Sucumbíos"	"Shushufindi"	593	2020-11-28
+"Sucumbíos"	"Sucumbíos"	38	2020-11-28
+"Sucumbíos"	"Cascales"	123	2020-11-29
+"Sucumbíos"	"Cuyabeno"	147	2020-11-29
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-11-29
+"Sucumbíos"	"Lago Agrio"	1696	2020-11-29
+"Sucumbíos"	"Putumayo"	117	2020-11-29
+"Sucumbíos"	"Shushufindi"	593	2020-11-29
+"Sucumbíos"	"Sucumbíos"	38	2020-11-29
+"Sucumbíos"	"Cascales"	123	2020-11-30
+"Sucumbíos"	"Cuyabeno"	147	2020-11-30
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-11-30
+"Sucumbíos"	"Lago Agrio"	1696	2020-11-30
+"Sucumbíos"	"Putumayo"	117	2020-11-30
+"Sucumbíos"	"Shushufindi"	593	2020-11-30
+"Sucumbíos"	"Sucumbíos"	38	2020-11-30
+"Sucumbíos"	"Cascales"	123	2020-12-01
+"Sucumbíos"	"Cuyabeno"	147	2020-12-01
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-01
+"Sucumbíos"	"Lago Agrio"	1698	2020-12-01
+"Sucumbíos"	"Putumayo"	117	2020-12-01
+"Sucumbíos"	"Shushufindi"	594	2020-12-01
+"Sucumbíos"	"Sucumbíos"	39	2020-12-01
+"Sucumbíos"	"Cascales"	123	2020-12-02
+"Sucumbíos"	"Cuyabeno"	147	2020-12-02
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-02
+"Sucumbíos"	"Lago Agrio"	1698	2020-12-02
+"Sucumbíos"	"Putumayo"	117	2020-12-02
+"Sucumbíos"	"Shushufindi"	596	2020-12-02
+"Sucumbíos"	"Sucumbíos"	39	2020-12-02
+"Sucumbíos"	"Cascales"	123	2020-12-03
+"Sucumbíos"	"Cuyabeno"	147	2020-12-03
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-03
+"Sucumbíos"	"Lago Agrio"	1703	2020-12-03
+"Sucumbíos"	"Putumayo"	117	2020-12-03
+"Sucumbíos"	"Shushufindi"	596	2020-12-03
+"Sucumbíos"	"Sucumbíos"	39	2020-12-03
+"Sucumbíos"	"Cascales"	123	2020-12-04
+"Sucumbíos"	"Cuyabeno"	147	2020-12-04
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-04
+"Sucumbíos"	"Lago Agrio"	1708	2020-12-04
+"Sucumbíos"	"Putumayo"	117	2020-12-04
+"Sucumbíos"	"Shushufindi"	596	2020-12-04
+"Sucumbíos"	"Sucumbíos"	39	2020-12-04
+"Sucumbíos"	"Cascales"	123	2020-12-05
+"Sucumbíos"	"Cuyabeno"	147	2020-12-05
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-05
+"Sucumbíos"	"Lago Agrio"	1708	2020-12-05
+"Sucumbíos"	"Putumayo"	117	2020-12-05
+"Sucumbíos"	"Shushufindi"	596	2020-12-05
+"Sucumbíos"	"Sucumbíos"	39	2020-12-05
+"Sucumbíos"	"Cascales"	123	2020-12-06
+"Sucumbíos"	"Cuyabeno"	147	2020-12-06
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-06
+"Sucumbíos"	"Lago Agrio"	1708	2020-12-06
+"Sucumbíos"	"Putumayo"	117	2020-12-06
+"Sucumbíos"	"Shushufindi"	596	2020-12-06
+"Sucumbíos"	"Sucumbíos"	39	2020-12-06
+"Sucumbíos"	"Cascales"	123	2020-12-07
+"Sucumbíos"	"Cuyabeno"	147	2020-12-07
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-07
+"Sucumbíos"	"Lago Agrio"	1708	2020-12-07
+"Sucumbíos"	"Putumayo"	117	2020-12-07
+"Sucumbíos"	"Shushufindi"	596	2020-12-07
+"Sucumbíos"	"Sucumbíos"	39	2020-12-07
+"Sucumbíos"	"Cascales"	123	2020-12-08
+"Sucumbíos"	"Cuyabeno"	147	2020-12-08
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-08
+"Sucumbíos"	"Lago Agrio"	1708	2020-12-08
+"Sucumbíos"	"Putumayo"	117	2020-12-08
+"Sucumbíos"	"Shushufindi"	596	2020-12-08
+"Sucumbíos"	"Sucumbíos"	39	2020-12-08
+"Sucumbíos"	"Cascales"	123	2020-12-09
+"Sucumbíos"	"Cuyabeno"	147	2020-12-09
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-09
+"Sucumbíos"	"Lago Agrio"	1711	2020-12-09
+"Sucumbíos"	"Putumayo"	117	2020-12-09
+"Sucumbíos"	"Shushufindi"	611	2020-12-09
+"Sucumbíos"	"Sucumbíos"	39	2020-12-09
+"Sucumbíos"	"Cascales"	123	2020-12-10
+"Sucumbíos"	"Cuyabeno"	147	2020-12-10
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-10
+"Sucumbíos"	"Lago Agrio"	1712	2020-12-10
+"Sucumbíos"	"Putumayo"	118	2020-12-10
+"Sucumbíos"	"Shushufindi"	611	2020-12-10
+"Sucumbíos"	"Sucumbíos"	39	2020-12-10
+"Sucumbíos"	"Cascales"	123	2020-12-11
+"Sucumbíos"	"Cuyabeno"	147	2020-12-11
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-11
+"Sucumbíos"	"Lago Agrio"	1712	2020-12-11
+"Sucumbíos"	"Putumayo"	118	2020-12-11
+"Sucumbíos"	"Shushufindi"	611	2020-12-11
+"Sucumbíos"	"Sucumbíos"	39	2020-12-11
+"Sucumbíos"	"Cascales"	124	2020-12-12
+"Sucumbíos"	"Cuyabeno"	147	2020-12-12
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-12
+"Sucumbíos"	"Lago Agrio"	1715	2020-12-12
+"Sucumbíos"	"Putumayo"	118	2020-12-12
+"Sucumbíos"	"Shushufindi"	611	2020-12-12
+"Sucumbíos"	"Sucumbíos"	40	2020-12-12
+"Sucumbíos"	"Cascales"	124	2020-12-13
+"Sucumbíos"	"Cuyabeno"	147	2020-12-13
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-13
+"Sucumbíos"	"Lago Agrio"	1715	2020-12-13
+"Sucumbíos"	"Putumayo"	118	2020-12-13
+"Sucumbíos"	"Shushufindi"	611	2020-12-13
+"Sucumbíos"	"Sucumbíos"	40	2020-12-13
+"Sucumbíos"	"Cascales"	124	2020-12-14
+"Sucumbíos"	"Cuyabeno"	147	2020-12-14
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-14
+"Sucumbíos"	"Lago Agrio"	1715	2020-12-14
+"Sucumbíos"	"Putumayo"	118	2020-12-14
+"Sucumbíos"	"Shushufindi"	611	2020-12-14
+"Sucumbíos"	"Sucumbíos"	40	2020-12-14
+"Sucumbíos"	"Cascales"	124	2020-12-15
+"Sucumbíos"	"Cuyabeno"	147	2020-12-15
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-15
+"Sucumbíos"	"Lago Agrio"	1715	2020-12-15
+"Sucumbíos"	"Putumayo"	118	2020-12-15
+"Sucumbíos"	"Shushufindi"	611	2020-12-15
+"Sucumbíos"	"Sucumbíos"	40	2020-12-15
+"Sucumbíos"	"Cascales"	124	2020-12-16
+"Sucumbíos"	"Cuyabeno"	147	2020-12-16
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-16
+"Sucumbíos"	"Lago Agrio"	1722	2020-12-16
+"Sucumbíos"	"Putumayo"	118	2020-12-16
+"Sucumbíos"	"Shushufindi"	631	2020-12-16
+"Sucumbíos"	"Sucumbíos"	40	2020-12-16
+"Sucumbíos"	"Cascales"	124	2020-12-17
+"Sucumbíos"	"Cuyabeno"	147	2020-12-17
+"Sucumbíos"	"Gonzalo Pizarro"	179	2020-12-17
+"Sucumbíos"	"Lago Agrio"	1723	2020-12-17
+"Sucumbíos"	"Putumayo"	118	2020-12-17
+"Sucumbíos"	"Shushufindi"	631	2020-12-17
+"Sucumbíos"	"Sucumbíos"	40	2020-12-17
+"Sucumbíos"	"Cascales"	124	2020-12-18
+"Sucumbíos"	"Cuyabeno"	147	2020-12-18
+"Sucumbíos"	"Gonzalo Pizarro"	180	2020-12-18
+"Sucumbíos"	"Lago Agrio"	1724	2020-12-18
+"Sucumbíos"	"Putumayo"	118	2020-12-18
+"Sucumbíos"	"Shushufindi"	631	2020-12-18
+"Sucumbíos"	"Sucumbíos"	40	2020-12-18
+"Sucumbíos"	"Cascales"	124	2020-12-19
+"Sucumbíos"	"Cuyabeno"	147	2020-12-19
+"Sucumbíos"	"Gonzalo Pizarro"	180	2020-12-19
+"Sucumbíos"	"Lago Agrio"	1727	2020-12-19
+"Sucumbíos"	"Putumayo"	118	2020-12-19
+"Sucumbíos"	"Shushufindi"	631	2020-12-19
+"Sucumbíos"	"Sucumbíos"	40	2020-12-19
+"Sucumbíos"	"Cascales"	124	2020-12-20
+"Sucumbíos"	"Cuyabeno"	147	2020-12-20
+"Sucumbíos"	"Gonzalo Pizarro"	180	2020-12-20
+"Sucumbíos"	"Lago Agrio"	1728	2020-12-20
+"Sucumbíos"	"Putumayo"	118	2020-12-20
+"Sucumbíos"	"Shushufindi"	636	2020-12-20
+"Sucumbíos"	"Sucumbíos"	40	2020-12-20
+"Sucumbíos"	"Cascales"	124	2020-12-21
+"Sucumbíos"	"Cuyabeno"	147	2020-12-21
+"Sucumbíos"	"Gonzalo Pizarro"	180	2020-12-21
+"Sucumbíos"	"Lago Agrio"	1728	2020-12-21
+"Sucumbíos"	"Putumayo"	118	2020-12-21
+"Sucumbíos"	"Shushufindi"	636	2020-12-21
+"Sucumbíos"	"Sucumbíos"	40	2020-12-21
+"Sucumbíos"	"Cascales"	124	2020-12-22
+"Sucumbíos"	"Cuyabeno"	147	2020-12-22
+"Sucumbíos"	"Gonzalo Pizarro"	180	2020-12-22
+"Sucumbíos"	"Lago Agrio"	1728	2020-12-22
+"Sucumbíos"	"Putumayo"	118	2020-12-22
+"Sucumbíos"	"Shushufindi"	636	2020-12-22
+"Sucumbíos"	"Sucumbíos"	40	2020-12-22
+"Sucumbíos"	"Cascales"	124	2020-12-23
+"Sucumbíos"	"Cuyabeno"	147	2020-12-23
+"Sucumbíos"	"Gonzalo Pizarro"	181	2020-12-23
+"Sucumbíos"	"Lago Agrio"	1730	2020-12-23
+"Sucumbíos"	"Putumayo"	119	2020-12-23
+"Sucumbíos"	"Shushufindi"	639	2020-12-23
+"Sucumbíos"	"Sucumbíos"	40	2020-12-23
+"Sucumbíos"	"Cascales"	124	2020-12-24
+"Sucumbíos"	"Cuyabeno"	147	2020-12-24
+"Sucumbíos"	"Gonzalo Pizarro"	181	2020-12-24
+"Sucumbíos"	"Lago Agrio"	1731	2020-12-24
+"Sucumbíos"	"Putumayo"	119	2020-12-24
+"Sucumbíos"	"Shushufindi"	640	2020-12-24
+"Sucumbíos"	"Sucumbíos"	40	2020-12-24
+"Sucumbíos"	"Cascales"	124	2020-12-25
+"Sucumbíos"	"Cuyabeno"	147	2020-12-25
+"Sucumbíos"	"Gonzalo Pizarro"	181	2020-12-25
+"Sucumbíos"	"Lago Agrio"	1731	2020-12-25
+"Sucumbíos"	"Putumayo"	119	2020-12-25
+"Sucumbíos"	"Shushufindi"	642	2020-12-25
+"Sucumbíos"	"Sucumbíos"	40	2020-12-25
+"Sucumbíos"	"Cascales"	124	2020-12-26
+"Sucumbíos"	"Cuyabeno"	147	2020-12-26
+"Sucumbíos"	"Gonzalo Pizarro"	181	2020-12-26
+"Sucumbíos"	"Lago Agrio"	1732	2020-12-26
+"Sucumbíos"	"Putumayo"	119	2020-12-26
+"Sucumbíos"	"Shushufindi"	642	2020-12-26
+"Sucumbíos"	"Sucumbíos"	40	2020-12-26
+"Sucumbíos"	"Cascales"	124	2020-12-27
+"Sucumbíos"	"Cuyabeno"	147	2020-12-27
+"Sucumbíos"	"Gonzalo Pizarro"	181	2020-12-27
+"Sucumbíos"	"Lago Agrio"	1732	2020-12-27
+"Sucumbíos"	"Putumayo"	119	2020-12-27
+"Sucumbíos"	"Shushufindi"	642	2020-12-27
+"Sucumbíos"	"Sucumbíos"	40	2020-12-27
+"Sucumbíos"	"Cascales"	124	2020-12-28
+"Sucumbíos"	"Cuyabeno"	148	2020-12-28
+"Sucumbíos"	"Gonzalo Pizarro"	181	2020-12-28
+"Sucumbíos"	"Lago Agrio"	1732	2020-12-28
+"Sucumbíos"	"Putumayo"	119	2020-12-28
+"Sucumbíos"	"Shushufindi"	642	2020-12-28
+"Sucumbíos"	"Sucumbíos"	41	2020-12-28
+"Sucumbíos"	"Cascales"	124	2020-12-29
+"Sucumbíos"	"Cuyabeno"	148	2020-12-29
+"Sucumbíos"	"Gonzalo Pizarro"	181	2020-12-29
+"Sucumbíos"	"Lago Agrio"	1732	2020-12-29
+"Sucumbíos"	"Putumayo"	119	2020-12-29
+"Sucumbíos"	"Shushufindi"	642	2020-12-29
+"Sucumbíos"	"Sucumbíos"	41	2020-12-29
+"Sucumbíos"	"Cascales"	124	2020-12-30
+"Sucumbíos"	"Cuyabeno"	149	2020-12-30
+"Sucumbíos"	"Gonzalo Pizarro"	181	2020-12-30
+"Sucumbíos"	"Lago Agrio"	1733	2020-12-30
+"Sucumbíos"	"Putumayo"	119	2020-12-30
+"Sucumbíos"	"Shushufindi"	661	2020-12-30
+"Sucumbíos"	"Sucumbíos"	41	2020-12-30
+"Sucumbíos"	"Cascales"	124	2020-12-31
+"Sucumbíos"	"Cuyabeno"	149	2020-12-31
+"Sucumbíos"	"Gonzalo Pizarro"	181	2020-12-31
+"Sucumbíos"	"Lago Agrio"	1734	2020-12-31
+"Sucumbíos"	"Putumayo"	119	2020-12-31
+"Sucumbíos"	"Shushufindi"	661	2020-12-31
+"Sucumbíos"	"Sucumbíos"	41	2020-12-31
 "Sucumbíos"	"Cascales"	124	2021-01-01
 "Sucumbíos"	"Cuyabeno"	149	2021-01-01
 "Sucumbíos"	"Gonzalo Pizarro"	181	2021-01-01
@@ -3317,3 +5375,59 @@
 "Sucumbíos"	"Putumayo"	373	2022-04-19
 "Sucumbíos"	"Shushufindi"	1697	2022-04-19
 "Sucumbíos"	"Sucumbíos"	195	2022-04-19
+"Sucumbíos"	"Cascales"	396	2022-04-20
+"Sucumbíos"	"Cuyabeno"	464	2022-04-20
+"Sucumbíos"	"Gonzalo Pizarro"	470	2022-04-20
+"Sucumbíos"	"Lago Agrio"	5192	2022-04-20
+"Sucumbíos"	"Putumayo"	373	2022-04-20
+"Sucumbíos"	"Shushufindi"	1697	2022-04-20
+"Sucumbíos"	"Sucumbíos"	195	2022-04-20
+"Sucumbíos"	"Cascales"	396	2022-04-21
+"Sucumbíos"	"Cuyabeno"	464	2022-04-21
+"Sucumbíos"	"Gonzalo Pizarro"	470	2022-04-21
+"Sucumbíos"	"Lago Agrio"	5193	2022-04-21
+"Sucumbíos"	"Putumayo"	373	2022-04-21
+"Sucumbíos"	"Shushufindi"	1697	2022-04-21
+"Sucumbíos"	"Sucumbíos"	195	2022-04-21
+"Sucumbíos"	"Cascales"	396	2022-04-22
+"Sucumbíos"	"Cuyabeno"	464	2022-04-22
+"Sucumbíos"	"Gonzalo Pizarro"	470	2022-04-22
+"Sucumbíos"	"Lago Agrio"	5193	2022-04-22
+"Sucumbíos"	"Putumayo"	373	2022-04-22
+"Sucumbíos"	"Shushufindi"	1697	2022-04-22
+"Sucumbíos"	"Sucumbíos"	195	2022-04-22
+"Sucumbíos"	"Cascales"	396	2022-04-23
+"Sucumbíos"	"Cuyabeno"	464	2022-04-23
+"Sucumbíos"	"Gonzalo Pizarro"	470	2022-04-23
+"Sucumbíos"	"Lago Agrio"	5193	2022-04-23
+"Sucumbíos"	"Putumayo"	373	2022-04-23
+"Sucumbíos"	"Shushufindi"	1697	2022-04-23
+"Sucumbíos"	"Sucumbíos"	195	2022-04-23
+"Sucumbíos"	"Cascales"	396	2022-04-24
+"Sucumbíos"	"Cuyabeno"	464	2022-04-24
+"Sucumbíos"	"Gonzalo Pizarro"	470	2022-04-24
+"Sucumbíos"	"Lago Agrio"	5193	2022-04-24
+"Sucumbíos"	"Putumayo"	373	2022-04-24
+"Sucumbíos"	"Shushufindi"	1697	2022-04-24
+"Sucumbíos"	"Sucumbíos"	195	2022-04-24
+"Sucumbíos"	"Cascales"	396	2022-04-25
+"Sucumbíos"	"Cuyabeno"	464	2022-04-25
+"Sucumbíos"	"Gonzalo Pizarro"	470	2022-04-25
+"Sucumbíos"	"Lago Agrio"	5193	2022-04-25
+"Sucumbíos"	"Putumayo"	373	2022-04-25
+"Sucumbíos"	"Shushufindi"	1697	2022-04-25
+"Sucumbíos"	"Sucumbíos"	195	2022-04-25
+"Sucumbíos"	"Cascales"	396	2022-04-26
+"Sucumbíos"	"Cuyabeno"	464	2022-04-26
+"Sucumbíos"	"Gonzalo Pizarro"	470	2022-04-26
+"Sucumbíos"	"Lago Agrio"	5193	2022-04-26
+"Sucumbíos"	"Putumayo"	373	2022-04-26
+"Sucumbíos"	"Shushufindi"	1697	2022-04-26
+"Sucumbíos"	"Sucumbíos"	195	2022-04-26
+"Sucumbíos"	"Cascales"	396	2022-04-27
+"Sucumbíos"	"Cuyabeno"	464	2022-04-27
+"Sucumbíos"	"Gonzalo Pizarro"	470	2022-04-27
+"Sucumbíos"	"Lago Agrio"	5193	2022-04-27
+"Sucumbíos"	"Putumayo"	373	2022-04-27
+"Sucumbíos"	"Shushufindi"	1697	2022-04-27
+"Sucumbíos"	"Sucumbíos"	195	2022-04-27

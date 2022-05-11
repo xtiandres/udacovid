@@ -1,4 +1,886 @@
 "provincia"	"canton"	"total"	"created_at"
+"Santa Elena"	"La Libertad"	0	2020-03-13
+"Santa Elena"	"Salinas"	0	2020-03-13
+"Santa Elena"	"Santa Elena"	0	2020-03-13
+"Santa Elena"	"La Libertad"	0	2020-03-14
+"Santa Elena"	"Salinas"	0	2020-03-14
+"Santa Elena"	"Santa Elena"	0	2020-03-14
+"Santa Elena"	"La Libertad"	0	2020-03-15
+"Santa Elena"	"Salinas"	0	2020-03-15
+"Santa Elena"	"Santa Elena"	0	2020-03-15
+"Santa Elena"	"La Libertad"	0	2020-03-16
+"Santa Elena"	"Salinas"	0	2020-03-16
+"Santa Elena"	"Santa Elena"	0	2020-03-16
+"Santa Elena"	"La Libertad"	0	2020-03-17
+"Santa Elena"	"Salinas"	0	2020-03-17
+"Santa Elena"	"Santa Elena"	3	2020-03-17
+"Santa Elena"	"La Libertad"	0	2020-03-18
+"Santa Elena"	"Salinas"	0	2020-03-18
+"Santa Elena"	"Santa Elena"	0	2020-03-18
+"Santa Elena"	"La Libertad"	0	2020-03-19
+"Santa Elena"	"Salinas"	0	2020-03-19
+"Santa Elena"	"Santa Elena"	0	2020-03-19
+"Santa Elena"	"La Libertad"	0	2020-03-20
+"Santa Elena"	"Salinas"	0	2020-03-20
+"Santa Elena"	"Santa Elena"	1	2020-03-20
+"Santa Elena"	"La Libertad"	0	2020-03-21
+"Santa Elena"	"Salinas"	0	2020-03-21
+"Santa Elena"	"Santa Elena"	1	2020-03-21
+"Santa Elena"	"La Libertad"	0	2020-03-22
+"Santa Elena"	"Salinas"	0	2020-03-22
+"Santa Elena"	"Santa Elena"	2	2020-03-22
+"Santa Elena"	"La Libertad"	2	2020-03-23
+"Santa Elena"	"Salinas"	0	2020-03-23
+"Santa Elena"	"Santa Elena"	2	2020-03-23
+"Santa Elena"	"La Libertad"	3	2020-03-24
+"Santa Elena"	"Salinas"	0	2020-03-24
+"Santa Elena"	"Santa Elena"	3	2020-03-24
+"Santa Elena"	"La Libertad"	3	2020-03-25
+"Santa Elena"	"Salinas"	0	2020-03-25
+"Santa Elena"	"Santa Elena"	3	2020-03-25
+"Santa Elena"	"La Libertad"	3	2020-03-26
+"Santa Elena"	"Salinas"	0	2020-03-26
+"Santa Elena"	"Santa Elena"	4	2020-03-26
+"Santa Elena"	"La Libertad"	5	2020-03-27
+"Santa Elena"	"Salinas"	0	2020-03-27
+"Santa Elena"	"Santa Elena"	5	2020-03-27
+"Santa Elena"	"La Libertad"	5	2020-03-28
+"Santa Elena"	"Salinas"	0	2020-03-28
+"Santa Elena"	"Santa Elena"	5	2020-03-28
+"Santa Elena"	"La Libertad"	5	2020-03-29
+"Santa Elena"	"Salinas"	0	2020-03-29
+"Santa Elena"	"Santa Elena"	5	2020-03-29
+"Santa Elena"	"La Libertad"	5	2020-03-30
+"Santa Elena"	"Salinas"	0	2020-03-30
+"Santa Elena"	"Santa Elena"	5	2020-03-30
+"Santa Elena"	"La Libertad"	8	2020-03-31
+"Santa Elena"	"Salinas"	4	2020-03-31
+"Santa Elena"	"Santa Elena"	5	2020-03-31
+"Santa Elena"	"La Libertad"	12	2020-04-01
+"Santa Elena"	"Salinas"	6	2020-04-01
+"Santa Elena"	"Santa Elena"	12	2020-04-01
+"Santa Elena"	"La Libertad"	18	2020-04-02
+"Santa Elena"	"Salinas"	7	2020-04-02
+"Santa Elena"	"Santa Elena"	19	2020-04-02
+"Santa Elena"	"La Libertad"	19	2020-04-03
+"Santa Elena"	"Salinas"	10	2020-04-03
+"Santa Elena"	"Santa Elena"	19	2020-04-03
+"Santa Elena"	"La Libertad"	19	2020-04-04
+"Santa Elena"	"Salinas"	10	2020-04-04
+"Santa Elena"	"Santa Elena"	19	2020-04-04
+"Santa Elena"	"La Libertad"	19	2020-04-05
+"Santa Elena"	"Salinas"	10	2020-04-05
+"Santa Elena"	"Santa Elena"	23	2020-04-05
+"Santa Elena"	"La Libertad"	19	2020-04-06
+"Santa Elena"	"Salinas"	10	2020-04-06
+"Santa Elena"	"Santa Elena"	23	2020-04-06
+"Santa Elena"	"La Libertad"	19	2020-04-07
+"Santa Elena"	"Salinas"	10	2020-04-07
+"Santa Elena"	"Santa Elena"	23	2020-04-07
+"Santa Elena"	"La Libertad"	22	2020-04-08
+"Santa Elena"	"Salinas"	10	2020-04-08
+"Santa Elena"	"Santa Elena"	23	2020-04-08
+"Santa Elena"	"La Libertad"	26	2020-04-09
+"Santa Elena"	"Salinas"	12	2020-04-09
+"Santa Elena"	"Santa Elena"	25	2020-04-09
+"Santa Elena"	"La Libertad"	28	2020-04-10
+"Santa Elena"	"Salinas"	13	2020-04-10
+"Santa Elena"	"Santa Elena"	33	2020-04-10
+"Santa Elena"	"La Libertad"	28	2020-04-11
+"Santa Elena"	"Salinas"	14	2020-04-11
+"Santa Elena"	"Santa Elena"	32	2020-04-11
+"Santa Elena"	"La Libertad"	30	2020-04-12
+"Santa Elena"	"Salinas"	15	2020-04-12
+"Santa Elena"	"Santa Elena"	32	2020-04-12
+"Santa Elena"	"La Libertad"	30	2020-04-13
+"Santa Elena"	"Salinas"	16	2020-04-13
+"Santa Elena"	"Santa Elena"	32	2020-04-13
+"Santa Elena"	"La Libertad"	30	2020-04-14
+"Santa Elena"	"Salinas"	16	2020-04-14
+"Santa Elena"	"Santa Elena"	32	2020-04-14
+"Santa Elena"	"La Libertad"	32	2020-04-15
+"Santa Elena"	"Salinas"	17	2020-04-15
+"Santa Elena"	"Santa Elena"	43	2020-04-15
+"Santa Elena"	"La Libertad"	33	2020-04-16
+"Santa Elena"	"Salinas"	18	2020-04-16
+"Santa Elena"	"Santa Elena"	44	2020-04-16
+"Santa Elena"	"La Libertad"	33	2020-04-17
+"Santa Elena"	"Salinas"	18	2020-04-17
+"Santa Elena"	"Santa Elena"	44	2020-04-17
+"Santa Elena"	"La Libertad"	50	2020-04-18
+"Santa Elena"	"Salinas"	24	2020-04-18
+"Santa Elena"	"Santa Elena"	61	2020-04-18
+"Santa Elena"	"La Libertad"	53	2020-04-19
+"Santa Elena"	"Salinas"	26	2020-04-19
+"Santa Elena"	"Santa Elena"	66	2020-04-19
+"Santa Elena"	"La Libertad"	60	2020-04-20
+"Santa Elena"	"Salinas"	31	2020-04-20
+"Santa Elena"	"Santa Elena"	72	2020-04-20
+"Santa Elena"	"La Libertad"	60	2020-04-21
+"Santa Elena"	"Salinas"	32	2020-04-21
+"Santa Elena"	"Santa Elena"	73	2020-04-21
+"Santa Elena"	"La Libertad"	66	2020-04-22
+"Santa Elena"	"Salinas"	33	2020-04-22
+"Santa Elena"	"Santa Elena"	78	2020-04-22
+"Santa Elena"	"La Libertad"	67	2020-04-23
+"Santa Elena"	"Salinas"	35	2020-04-23
+"Santa Elena"	"Santa Elena"	80	2020-04-23
+"Santa Elena"	"La Libertad"	67	2020-04-24
+"Santa Elena"	"Salinas"	35	2020-04-24
+"Santa Elena"	"Santa Elena"	80	2020-04-24
+"Santa Elena"	"La Libertad"	67	2020-04-25
+"Santa Elena"	"Salinas"	35	2020-04-25
+"Santa Elena"	"Santa Elena"	80	2020-04-25
+"Santa Elena"	"La Libertad"	67	2020-04-26
+"Santa Elena"	"Salinas"	35	2020-04-26
+"Santa Elena"	"Santa Elena"	80	2020-04-26
+"Santa Elena"	"La Libertad"	67	2020-04-27
+"Santa Elena"	"Salinas"	35	2020-04-27
+"Santa Elena"	"Santa Elena"	80	2020-04-27
+"Santa Elena"	"La Libertad"	120	2020-04-28
+"Santa Elena"	"Salinas"	60	2020-04-28
+"Santa Elena"	"Santa Elena"	167	2020-04-28
+"Santa Elena"	"La Libertad"	121	2020-04-29
+"Santa Elena"	"Salinas"	65	2020-04-29
+"Santa Elena"	"Santa Elena"	174	2020-04-29
+"Santa Elena"	"La Libertad"	123	2020-04-30
+"Santa Elena"	"Salinas"	65	2020-04-30
+"Santa Elena"	"Santa Elena"	174	2020-04-30
+"Santa Elena"	"La Libertad"	141	2020-05-01
+"Santa Elena"	"Salinas"	75	2020-05-01
+"Santa Elena"	"Santa Elena"	196	2020-05-01
+"Santa Elena"	"La Libertad"	163	2020-05-02
+"Santa Elena"	"Salinas"	93	2020-05-02
+"Santa Elena"	"Santa Elena"	214	2020-05-02
+"Santa Elena"	"La Libertad"	209	2020-05-03
+"Santa Elena"	"Salinas"	111	2020-05-03
+"Santa Elena"	"Santa Elena"	263	2020-05-03
+"Santa Elena"	"La Libertad"	211	2020-05-04
+"Santa Elena"	"Salinas"	119	2020-05-04
+"Santa Elena"	"Santa Elena"	266	2020-05-04
+"Santa Elena"	"La Libertad"	211	2020-05-05
+"Santa Elena"	"Salinas"	119	2020-05-05
+"Santa Elena"	"Santa Elena"	266	2020-05-05
+"Santa Elena"	"La Libertad"	201	2020-05-06
+"Santa Elena"	"Salinas"	113	2020-05-06
+"Santa Elena"	"Santa Elena"	265	2020-05-06
+"Santa Elena"	"La Libertad"	209	2020-05-07
+"Santa Elena"	"Salinas"	119	2020-05-07
+"Santa Elena"	"Santa Elena"	280	2020-05-07
+"Santa Elena"	"La Libertad"	165	2020-05-08
+"Santa Elena"	"Salinas"	101	2020-05-08
+"Santa Elena"	"Santa Elena"	215	2020-05-08
+"Santa Elena"	"La Libertad"	172	2020-05-09
+"Santa Elena"	"Salinas"	104	2020-05-09
+"Santa Elena"	"Santa Elena"	219	2020-05-09
+"Santa Elena"	"La Libertad"	181	2020-05-10
+"Santa Elena"	"Salinas"	111	2020-05-10
+"Santa Elena"	"Santa Elena"	242	2020-05-10
+"Santa Elena"	"La Libertad"	182	2020-05-11
+"Santa Elena"	"Salinas"	109	2020-05-11
+"Santa Elena"	"Santa Elena"	223	2020-05-11
+"Santa Elena"	"La Libertad"	190	2020-05-12
+"Santa Elena"	"Salinas"	109	2020-05-12
+"Santa Elena"	"Santa Elena"	222	2020-05-12
+"Santa Elena"	"La Libertad"	191	2020-05-13
+"Santa Elena"	"Salinas"	109	2020-05-13
+"Santa Elena"	"Santa Elena"	224	2020-05-13
+"Santa Elena"	"La Libertad"	191	2020-05-14
+"Santa Elena"	"Salinas"	109	2020-05-14
+"Santa Elena"	"Santa Elena"	224	2020-05-14
+"Santa Elena"	"La Libertad"	226	2020-05-15
+"Santa Elena"	"Salinas"	136	2020-05-15
+"Santa Elena"	"Santa Elena"	265	2020-05-15
+"Santa Elena"	"La Libertad"	235	2020-05-16
+"Santa Elena"	"Salinas"	142	2020-05-16
+"Santa Elena"	"Santa Elena"	267	2020-05-16
+"Santa Elena"	"La Libertad"	237	2020-05-17
+"Santa Elena"	"Salinas"	142	2020-05-17
+"Santa Elena"	"Santa Elena"	269	2020-05-17
+"Santa Elena"	"La Libertad"	239	2020-05-18
+"Santa Elena"	"Salinas"	143	2020-05-18
+"Santa Elena"	"Santa Elena"	270	2020-05-18
+"Santa Elena"	"La Libertad"	259	2020-05-19
+"Santa Elena"	"Salinas"	152	2020-05-19
+"Santa Elena"	"Santa Elena"	295	2020-05-19
+"Santa Elena"	"La Libertad"	263	2020-05-20
+"Santa Elena"	"Salinas"	153	2020-05-20
+"Santa Elena"	"Santa Elena"	299	2020-05-20
+"Santa Elena"	"La Libertad"	264	2020-05-21
+"Santa Elena"	"Salinas"	154	2020-05-21
+"Santa Elena"	"Santa Elena"	301	2020-05-21
+"Santa Elena"	"La Libertad"	264	2020-05-22
+"Santa Elena"	"Salinas"	154	2020-05-22
+"Santa Elena"	"Santa Elena"	302	2020-05-22
+"Santa Elena"	"La Libertad"	266	2020-05-23
+"Santa Elena"	"Salinas"	155	2020-05-23
+"Santa Elena"	"Santa Elena"	305	2020-05-23
+"Santa Elena"	"La Libertad"	272	2020-05-24
+"Santa Elena"	"Salinas"	155	2020-05-24
+"Santa Elena"	"Santa Elena"	306	2020-05-24
+"Santa Elena"	"La Libertad"	274	2020-05-25
+"Santa Elena"	"Salinas"	156	2020-05-25
+"Santa Elena"	"Santa Elena"	310	2020-05-25
+"Santa Elena"	"La Libertad"	277	2020-05-26
+"Santa Elena"	"Salinas"	157	2020-05-26
+"Santa Elena"	"Santa Elena"	314	2020-05-26
+"Santa Elena"	"La Libertad"	286	2020-05-27
+"Santa Elena"	"Salinas"	157	2020-05-27
+"Santa Elena"	"Santa Elena"	315	2020-05-27
+"Santa Elena"	"La Libertad"	290	2020-05-28
+"Santa Elena"	"Salinas"	157	2020-05-28
+"Santa Elena"	"Santa Elena"	322	2020-05-28
+"Santa Elena"	"La Libertad"	290	2020-05-29
+"Santa Elena"	"Salinas"	157	2020-05-29
+"Santa Elena"	"Santa Elena"	322	2020-05-29
+"Santa Elena"	"La Libertad"	292	2020-05-30
+"Santa Elena"	"Salinas"	157	2020-05-30
+"Santa Elena"	"Santa Elena"	322	2020-05-30
+"Santa Elena"	"La Libertad"	292	2020-05-31
+"Santa Elena"	"Salinas"	157	2020-05-31
+"Santa Elena"	"Santa Elena"	322	2020-05-31
+"Santa Elena"	"La Libertad"	297	2020-06-01
+"Santa Elena"	"Salinas"	162	2020-06-01
+"Santa Elena"	"Santa Elena"	328	2020-06-01
+"Santa Elena"	"La Libertad"	297	2020-06-02
+"Santa Elena"	"Salinas"	166	2020-06-02
+"Santa Elena"	"Santa Elena"	332	2020-06-02
+"Santa Elena"	"La Libertad"	297	2020-06-03
+"Santa Elena"	"Salinas"	167	2020-06-03
+"Santa Elena"	"Santa Elena"	335	2020-06-03
+"Santa Elena"	"La Libertad"	299	2020-06-04
+"Santa Elena"	"Salinas"	172	2020-06-04
+"Santa Elena"	"Santa Elena"	343	2020-06-04
+"Santa Elena"	"La Libertad"	302	2020-06-05
+"Santa Elena"	"Salinas"	172	2020-06-05
+"Santa Elena"	"Santa Elena"	347	2020-06-05
+"Santa Elena"	"La Libertad"	303	2020-06-06
+"Santa Elena"	"Salinas"	174	2020-06-06
+"Santa Elena"	"Santa Elena"	347	2020-06-06
+"Santa Elena"	"La Libertad"	303	2020-06-07
+"Santa Elena"	"Salinas"	174	2020-06-07
+"Santa Elena"	"Santa Elena"	347	2020-06-07
+"Santa Elena"	"La Libertad"	303	2020-06-08
+"Santa Elena"	"Salinas"	174	2020-06-08
+"Santa Elena"	"Santa Elena"	347	2020-06-08
+"Santa Elena"	"La Libertad"	304	2020-06-09
+"Santa Elena"	"Salinas"	175	2020-06-09
+"Santa Elena"	"Santa Elena"	355	2020-06-09
+"Santa Elena"	"La Libertad"	305	2020-06-10
+"Santa Elena"	"Salinas"	175	2020-06-10
+"Santa Elena"	"Santa Elena"	356	2020-06-10
+"Santa Elena"	"La Libertad"	305	2020-06-11
+"Santa Elena"	"Salinas"	179	2020-06-11
+"Santa Elena"	"Santa Elena"	360	2020-06-11
+"Santa Elena"	"La Libertad"	308	2020-06-12
+"Santa Elena"	"Salinas"	179	2020-06-12
+"Santa Elena"	"Santa Elena"	367	2020-06-12
+"Santa Elena"	"La Libertad"	309	2020-06-13
+"Santa Elena"	"Salinas"	179	2020-06-13
+"Santa Elena"	"Santa Elena"	367	2020-06-13
+"Santa Elena"	"La Libertad"	310	2020-06-14
+"Santa Elena"	"Salinas"	180	2020-06-14
+"Santa Elena"	"Santa Elena"	367	2020-06-14
+"Santa Elena"	"La Libertad"	310	2020-06-15
+"Santa Elena"	"Salinas"	180	2020-06-15
+"Santa Elena"	"Santa Elena"	368	2020-06-15
+"Santa Elena"	"La Libertad"	315	2020-06-16
+"Santa Elena"	"Salinas"	180	2020-06-16
+"Santa Elena"	"Santa Elena"	375	2020-06-16
+"Santa Elena"	"La Libertad"	316	2020-06-17
+"Santa Elena"	"Salinas"	181	2020-06-17
+"Santa Elena"	"Santa Elena"	377	2020-06-17
+"Santa Elena"	"La Libertad"	324	2020-06-18
+"Santa Elena"	"Salinas"	182	2020-06-18
+"Santa Elena"	"Santa Elena"	381	2020-06-18
+"Santa Elena"	"La Libertad"	324	2020-06-19
+"Santa Elena"	"Salinas"	182	2020-06-19
+"Santa Elena"	"Santa Elena"	385	2020-06-19
+"Santa Elena"	"La Libertad"	325	2020-06-20
+"Santa Elena"	"Salinas"	182	2020-06-20
+"Santa Elena"	"Santa Elena"	386	2020-06-20
+"Santa Elena"	"La Libertad"	325	2020-06-21
+"Santa Elena"	"Salinas"	182	2020-06-21
+"Santa Elena"	"Santa Elena"	386	2020-06-21
+"Santa Elena"	"La Libertad"	326	2020-06-22
+"Santa Elena"	"Salinas"	182	2020-06-22
+"Santa Elena"	"Santa Elena"	387	2020-06-22
+"Santa Elena"	"La Libertad"	328	2020-06-23
+"Santa Elena"	"Salinas"	182	2020-06-23
+"Santa Elena"	"Santa Elena"	391	2020-06-23
+"Santa Elena"	"La Libertad"	330	2020-06-24
+"Santa Elena"	"Salinas"	182	2020-06-24
+"Santa Elena"	"Santa Elena"	392	2020-06-24
+"Santa Elena"	"La Libertad"	332	2020-06-25
+"Santa Elena"	"Salinas"	183	2020-06-25
+"Santa Elena"	"Santa Elena"	396	2020-06-25
+"Santa Elena"	"La Libertad"	335	2020-06-26
+"Santa Elena"	"Salinas"	184	2020-06-26
+"Santa Elena"	"Santa Elena"	398	2020-06-26
+"Santa Elena"	"La Libertad"	335	2020-06-27
+"Santa Elena"	"Salinas"	184	2020-06-27
+"Santa Elena"	"Santa Elena"	403	2020-06-27
+"Santa Elena"	"La Libertad"	335	2020-06-28
+"Santa Elena"	"Salinas"	184	2020-06-28
+"Santa Elena"	"Santa Elena"	403	2020-06-28
+"Santa Elena"	"La Libertad"	335	2020-06-29
+"Santa Elena"	"Salinas"	184	2020-06-29
+"Santa Elena"	"Santa Elena"	403	2020-06-29
+"Santa Elena"	"La Libertad"	335	2020-06-30
+"Santa Elena"	"Salinas"	186	2020-06-30
+"Santa Elena"	"Santa Elena"	403	2020-06-30
+"Santa Elena"	"La Libertad"	340	2020-07-01
+"Santa Elena"	"Salinas"	189	2020-07-01
+"Santa Elena"	"Santa Elena"	403	2020-07-01
+"Santa Elena"	"La Libertad"	345	2020-07-02
+"Santa Elena"	"Salinas"	192	2020-07-02
+"Santa Elena"	"Santa Elena"	406	2020-07-02
+"Santa Elena"	"La Libertad"	345	2020-07-03
+"Santa Elena"	"Salinas"	193	2020-07-03
+"Santa Elena"	"Santa Elena"	406	2020-07-03
+"Santa Elena"	"La Libertad"	346	2020-07-04
+"Santa Elena"	"Salinas"	193	2020-07-04
+"Santa Elena"	"Santa Elena"	407	2020-07-04
+"Santa Elena"	"La Libertad"	346	2020-07-05
+"Santa Elena"	"Salinas"	193	2020-07-05
+"Santa Elena"	"Santa Elena"	413	2020-07-05
+"Santa Elena"	"La Libertad"	346	2020-07-06
+"Santa Elena"	"Salinas"	202	2020-07-06
+"Santa Elena"	"Santa Elena"	414	2020-07-06
+"Santa Elena"	"La Libertad"	348	2020-07-07
+"Santa Elena"	"Salinas"	204	2020-07-07
+"Santa Elena"	"Santa Elena"	417	2020-07-07
+"Santa Elena"	"La Libertad"	348	2020-07-08
+"Santa Elena"	"Salinas"	204	2020-07-08
+"Santa Elena"	"Santa Elena"	418	2020-07-08
+"Santa Elena"	"La Libertad"	349	2020-07-09
+"Santa Elena"	"Salinas"	204	2020-07-09
+"Santa Elena"	"Santa Elena"	419	2020-07-09
+"Santa Elena"	"La Libertad"	349	2020-07-10
+"Santa Elena"	"Salinas"	205	2020-07-10
+"Santa Elena"	"Santa Elena"	420	2020-07-10
+"Santa Elena"	"La Libertad"	350	2020-07-11
+"Santa Elena"	"Salinas"	208	2020-07-11
+"Santa Elena"	"Santa Elena"	428	2020-07-11
+"Santa Elena"	"La Libertad"	351	2020-07-12
+"Santa Elena"	"Salinas"	209	2020-07-12
+"Santa Elena"	"Santa Elena"	428	2020-07-12
+"Santa Elena"	"La Libertad"	351	2020-07-13
+"Santa Elena"	"Salinas"	209	2020-07-13
+"Santa Elena"	"Santa Elena"	428	2020-07-13
+"Santa Elena"	"La Libertad"	355	2020-07-14
+"Santa Elena"	"Salinas"	215	2020-07-14
+"Santa Elena"	"Santa Elena"	428	2020-07-14
+"Santa Elena"	"La Libertad"	356	2020-07-15
+"Santa Elena"	"Salinas"	215	2020-07-15
+"Santa Elena"	"Santa Elena"	428	2020-07-15
+"Santa Elena"	"La Libertad"	357	2020-07-16
+"Santa Elena"	"Salinas"	217	2020-07-16
+"Santa Elena"	"Santa Elena"	432	2020-07-16
+"Santa Elena"	"La Libertad"	383	2020-07-17
+"Santa Elena"	"Salinas"	267	2020-07-17
+"Santa Elena"	"Santa Elena"	442	2020-07-17
+"Santa Elena"	"La Libertad"	384	2020-07-18
+"Santa Elena"	"Salinas"	272	2020-07-18
+"Santa Elena"	"Santa Elena"	444	2020-07-18
+"Santa Elena"	"La Libertad"	384	2020-07-19
+"Santa Elena"	"Salinas"	272	2020-07-19
+"Santa Elena"	"Santa Elena"	444	2020-07-19
+"Santa Elena"	"La Libertad"	384	2020-07-20
+"Santa Elena"	"Salinas"	272	2020-07-20
+"Santa Elena"	"Santa Elena"	444	2020-07-20
+"Santa Elena"	"La Libertad"	386	2020-07-21
+"Santa Elena"	"Salinas"	273	2020-07-21
+"Santa Elena"	"Santa Elena"	444	2020-07-21
+"Santa Elena"	"La Libertad"	389	2020-07-22
+"Santa Elena"	"Salinas"	276	2020-07-22
+"Santa Elena"	"Santa Elena"	444	2020-07-22
+"Santa Elena"	"La Libertad"	392	2020-07-23
+"Santa Elena"	"Salinas"	276	2020-07-23
+"Santa Elena"	"Santa Elena"	445	2020-07-23
+"Santa Elena"	"La Libertad"	392	2020-07-24
+"Santa Elena"	"Salinas"	276	2020-07-24
+"Santa Elena"	"Santa Elena"	445	2020-07-24
+"Santa Elena"	"La Libertad"	395	2020-07-25
+"Santa Elena"	"Salinas"	282	2020-07-25
+"Santa Elena"	"Santa Elena"	454	2020-07-25
+"Santa Elena"	"La Libertad"	395	2020-07-26
+"Santa Elena"	"Salinas"	282	2020-07-26
+"Santa Elena"	"Santa Elena"	454	2020-07-26
+"Santa Elena"	"La Libertad"	395	2020-07-27
+"Santa Elena"	"Salinas"	282	2020-07-27
+"Santa Elena"	"Santa Elena"	454	2020-07-27
+"Santa Elena"	"La Libertad"	395	2020-07-28
+"Santa Elena"	"Salinas"	283	2020-07-28
+"Santa Elena"	"Santa Elena"	454	2020-07-28
+"Santa Elena"	"La Libertad"	395	2020-07-29
+"Santa Elena"	"Salinas"	283	2020-07-29
+"Santa Elena"	"Santa Elena"	459	2020-07-29
+"Santa Elena"	"La Libertad"	396	2020-07-30
+"Santa Elena"	"Salinas"	284	2020-07-30
+"Santa Elena"	"Santa Elena"	459	2020-07-30
+"Santa Elena"	"La Libertad"	399	2020-07-31
+"Santa Elena"	"Salinas"	286	2020-07-31
+"Santa Elena"	"Santa Elena"	463	2020-07-31
+"Santa Elena"	"La Libertad"	400	2020-08-01
+"Santa Elena"	"Salinas"	288	2020-08-01
+"Santa Elena"	"Santa Elena"	463	2020-08-01
+"Santa Elena"	"La Libertad"	400	2020-08-02
+"Santa Elena"	"Salinas"	288	2020-08-02
+"Santa Elena"	"Santa Elena"	463	2020-08-02
+"Santa Elena"	"La Libertad"	403	2020-08-03
+"Santa Elena"	"Salinas"	288	2020-08-03
+"Santa Elena"	"Santa Elena"	465	2020-08-03
+"Santa Elena"	"La Libertad"	404	2020-08-04
+"Santa Elena"	"Salinas"	289	2020-08-04
+"Santa Elena"	"Santa Elena"	465	2020-08-04
+"Santa Elena"	"La Libertad"	404	2020-08-05
+"Santa Elena"	"Salinas"	289	2020-08-05
+"Santa Elena"	"Santa Elena"	466	2020-08-05
+"Santa Elena"	"La Libertad"	405	2020-08-06
+"Santa Elena"	"Salinas"	289	2020-08-06
+"Santa Elena"	"Santa Elena"	467	2020-08-06
+"Santa Elena"	"La Libertad"	406	2020-08-07
+"Santa Elena"	"Salinas"	290	2020-08-07
+"Santa Elena"	"Santa Elena"	468	2020-08-07
+"Santa Elena"	"La Libertad"	407	2020-08-08
+"Santa Elena"	"Salinas"	290	2020-08-08
+"Santa Elena"	"Santa Elena"	470	2020-08-08
+"Santa Elena"	"La Libertad"	409	2020-08-09
+"Santa Elena"	"Salinas"	290	2020-08-09
+"Santa Elena"	"Santa Elena"	470	2020-08-09
+"Santa Elena"	"La Libertad"	410	2020-08-10
+"Santa Elena"	"Salinas"	290	2020-08-10
+"Santa Elena"	"Santa Elena"	470	2020-08-10
+"Santa Elena"	"La Libertad"	410	2020-08-11
+"Santa Elena"	"Salinas"	291	2020-08-11
+"Santa Elena"	"Santa Elena"	471	2020-08-11
+"Santa Elena"	"La Libertad"	410	2020-08-12
+"Santa Elena"	"Salinas"	292	2020-08-12
+"Santa Elena"	"Santa Elena"	476	2020-08-12
+"Santa Elena"	"La Libertad"	411	2020-08-13
+"Santa Elena"	"Salinas"	294	2020-08-13
+"Santa Elena"	"Santa Elena"	478	2020-08-13
+"Santa Elena"	"La Libertad"	412	2020-08-14
+"Santa Elena"	"Salinas"	295	2020-08-14
+"Santa Elena"	"Santa Elena"	478	2020-08-14
+"Santa Elena"	"La Libertad"	413	2020-08-15
+"Santa Elena"	"Salinas"	297	2020-08-15
+"Santa Elena"	"Santa Elena"	478	2020-08-15
+"Santa Elena"	"La Libertad"	413	2020-08-16
+"Santa Elena"	"Salinas"	298	2020-08-16
+"Santa Elena"	"Santa Elena"	479	2020-08-16
+"Santa Elena"	"La Libertad"	413	2020-08-17
+"Santa Elena"	"Salinas"	298	2020-08-17
+"Santa Elena"	"Santa Elena"	479	2020-08-17
+"Santa Elena"	"La Libertad"	415	2020-08-18
+"Santa Elena"	"Salinas"	299	2020-08-18
+"Santa Elena"	"Santa Elena"	485	2020-08-18
+"Santa Elena"	"La Libertad"	426	2020-08-19
+"Santa Elena"	"Salinas"	302	2020-08-19
+"Santa Elena"	"Santa Elena"	493	2020-08-19
+"Santa Elena"	"La Libertad"	426	2020-08-20
+"Santa Elena"	"Salinas"	302	2020-08-20
+"Santa Elena"	"Santa Elena"	493	2020-08-20
+"Santa Elena"	"La Libertad"	427	2020-08-21
+"Santa Elena"	"Salinas"	303	2020-08-21
+"Santa Elena"	"Santa Elena"	494	2020-08-21
+"Santa Elena"	"La Libertad"	430	2020-08-22
+"Santa Elena"	"Salinas"	304	2020-08-22
+"Santa Elena"	"Santa Elena"	498	2020-08-22
+"Santa Elena"	"La Libertad"	432	2020-08-23
+"Santa Elena"	"Salinas"	304	2020-08-23
+"Santa Elena"	"Santa Elena"	498	2020-08-23
+"Santa Elena"	"La Libertad"	432	2020-08-24
+"Santa Elena"	"Salinas"	304	2020-08-24
+"Santa Elena"	"Santa Elena"	499	2020-08-24
+"Santa Elena"	"La Libertad"	434	2020-08-25
+"Santa Elena"	"Salinas"	306	2020-08-25
+"Santa Elena"	"Santa Elena"	502	2020-08-25
+"Santa Elena"	"La Libertad"	440	2020-08-26
+"Santa Elena"	"Salinas"	307	2020-08-26
+"Santa Elena"	"Santa Elena"	504	2020-08-26
+"Santa Elena"	"La Libertad"	443	2020-08-27
+"Santa Elena"	"Salinas"	308	2020-08-27
+"Santa Elena"	"Santa Elena"	510	2020-08-27
+"Santa Elena"	"La Libertad"	452	2020-08-28
+"Santa Elena"	"Salinas"	310	2020-08-28
+"Santa Elena"	"Santa Elena"	512	2020-08-28
+"Santa Elena"	"La Libertad"	456	2020-08-29
+"Santa Elena"	"Salinas"	310	2020-08-29
+"Santa Elena"	"Santa Elena"	514	2020-08-29
+"Santa Elena"	"La Libertad"	460	2020-08-30
+"Santa Elena"	"Salinas"	315	2020-08-30
+"Santa Elena"	"Santa Elena"	518	2020-08-30
+"Santa Elena"	"La Libertad"	463	2020-08-31
+"Santa Elena"	"Salinas"	316	2020-08-31
+"Santa Elena"	"Santa Elena"	518	2020-08-31
+"Santa Elena"	"La Libertad"	463	2020-09-01
+"Santa Elena"	"Salinas"	316	2020-09-01
+"Santa Elena"	"Santa Elena"	518	2020-09-01
+"Santa Elena"	"La Libertad"	467	2020-09-02
+"Santa Elena"	"Salinas"	316	2020-09-02
+"Santa Elena"	"Santa Elena"	519	2020-09-02
+"Santa Elena"	"La Libertad"	467	2020-09-03
+"Santa Elena"	"Salinas"	317	2020-09-03
+"Santa Elena"	"Santa Elena"	526	2020-09-03
+"Santa Elena"	"La Libertad"	468	2020-09-04
+"Santa Elena"	"Salinas"	320	2020-09-04
+"Santa Elena"	"Santa Elena"	529	2020-09-04
+"Santa Elena"	"La Libertad"	472	2020-09-05
+"Santa Elena"	"Salinas"	320	2020-09-05
+"Santa Elena"	"Santa Elena"	532	2020-09-05
+"Santa Elena"	"La Libertad"	472	2020-09-06
+"Santa Elena"	"Salinas"	322	2020-09-06
+"Santa Elena"	"Santa Elena"	532	2020-09-06
+"Santa Elena"	"La Libertad"	472	2020-09-07
+"Santa Elena"	"Salinas"	322	2020-09-07
+"Santa Elena"	"Santa Elena"	532	2020-09-07
+"Santa Elena"	"La Libertad"	476	2020-09-08
+"Santa Elena"	"Salinas"	324	2020-09-08
+"Santa Elena"	"Santa Elena"	534	2020-09-08
+"Santa Elena"	"La Libertad"	476	2020-09-09
+"Santa Elena"	"Salinas"	324	2020-09-09
+"Santa Elena"	"Santa Elena"	563	2020-09-09
+"Santa Elena"	"La Libertad"	481	2020-09-10
+"Santa Elena"	"Salinas"	330	2020-09-10
+"Santa Elena"	"Santa Elena"	569	2020-09-10
+"Santa Elena"	"La Libertad"	489	2020-09-11
+"Santa Elena"	"Salinas"	337	2020-09-11
+"Santa Elena"	"Santa Elena"	583	2020-09-11
+"Santa Elena"	"La Libertad"	494	2020-09-12
+"Santa Elena"	"Salinas"	338	2020-09-12
+"Santa Elena"	"Santa Elena"	588	2020-09-12
+"Santa Elena"	"La Libertad"	498	2020-09-13
+"Santa Elena"	"Salinas"	341	2020-09-13
+"Santa Elena"	"Santa Elena"	599	2020-09-13
+"Santa Elena"	"La Libertad"	498	2020-09-14
+"Santa Elena"	"Salinas"	341	2020-09-14
+"Santa Elena"	"Santa Elena"	599	2020-09-14
+"Santa Elena"	"La Libertad"	498	2020-09-15
+"Santa Elena"	"Salinas"	342	2020-09-15
+"Santa Elena"	"Santa Elena"	599	2020-09-15
+"Santa Elena"	"La Libertad"	498	2020-09-16
+"Santa Elena"	"Salinas"	345	2020-09-16
+"Santa Elena"	"Santa Elena"	599	2020-09-16
+"Santa Elena"	"La Libertad"	498	2020-09-17
+"Santa Elena"	"Salinas"	345	2020-09-17
+"Santa Elena"	"Santa Elena"	599	2020-09-17
+"Santa Elena"	"La Libertad"	500	2020-09-18
+"Santa Elena"	"Salinas"	345	2020-09-18
+"Santa Elena"	"Santa Elena"	599	2020-09-18
+"Santa Elena"	"La Libertad"	500	2020-09-19
+"Santa Elena"	"Salinas"	345	2020-09-19
+"Santa Elena"	"Santa Elena"	600	2020-09-19
+"Santa Elena"	"La Libertad"	500	2020-09-20
+"Santa Elena"	"Salinas"	345	2020-09-20
+"Santa Elena"	"Santa Elena"	600	2020-09-20
+"Santa Elena"	"La Libertad"	500	2020-09-21
+"Santa Elena"	"Salinas"	345	2020-09-21
+"Santa Elena"	"Santa Elena"	600	2020-09-21
+"Santa Elena"	"La Libertad"	501	2020-09-22
+"Santa Elena"	"Salinas"	345	2020-09-22
+"Santa Elena"	"Santa Elena"	600	2020-09-22
+"Santa Elena"	"La Libertad"	501	2020-09-23
+"Santa Elena"	"Salinas"	345	2020-09-23
+"Santa Elena"	"Santa Elena"	612	2020-09-23
+"Santa Elena"	"La Libertad"	504	2020-09-24
+"Santa Elena"	"Salinas"	346	2020-09-24
+"Santa Elena"	"Santa Elena"	615	2020-09-24
+"Santa Elena"	"La Libertad"	504	2020-09-25
+"Santa Elena"	"Salinas"	347	2020-09-25
+"Santa Elena"	"Santa Elena"	615	2020-09-25
+"Santa Elena"	"La Libertad"	506	2020-09-26
+"Santa Elena"	"Salinas"	348	2020-09-26
+"Santa Elena"	"Santa Elena"	616	2020-09-26
+"Santa Elena"	"La Libertad"	507	2020-09-27
+"Santa Elena"	"Salinas"	348	2020-09-27
+"Santa Elena"	"Santa Elena"	618	2020-09-27
+"Santa Elena"	"La Libertad"	507	2020-09-28
+"Santa Elena"	"Salinas"	348	2020-09-28
+"Santa Elena"	"Santa Elena"	618	2020-09-28
+"Santa Elena"	"La Libertad"	507	2020-09-29
+"Santa Elena"	"Salinas"	349	2020-09-29
+"Santa Elena"	"Santa Elena"	621	2020-09-29
+"Santa Elena"	"La Libertad"	508	2020-09-30
+"Santa Elena"	"Salinas"	349	2020-09-30
+"Santa Elena"	"Santa Elena"	627	2020-09-30
+"Santa Elena"	"La Libertad"	509	2020-10-01
+"Santa Elena"	"Salinas"	350	2020-10-01
+"Santa Elena"	"Santa Elena"	627	2020-10-01
+"Santa Elena"	"La Libertad"	511	2020-10-02
+"Santa Elena"	"Salinas"	352	2020-10-02
+"Santa Elena"	"Santa Elena"	627	2020-10-02
+"Santa Elena"	"La Libertad"	516	2020-10-03
+"Santa Elena"	"Salinas"	352	2020-10-03
+"Santa Elena"	"Santa Elena"	629	2020-10-03
+"Santa Elena"	"La Libertad"	516	2020-10-04
+"Santa Elena"	"Salinas"	352	2020-10-04
+"Santa Elena"	"Santa Elena"	630	2020-10-04
+"Santa Elena"	"La Libertad"	516	2020-10-05
+"Santa Elena"	"Salinas"	352	2020-10-05
+"Santa Elena"	"Santa Elena"	630	2020-10-05
+"Santa Elena"	"La Libertad"	516	2020-10-06
+"Santa Elena"	"Salinas"	353	2020-10-06
+"Santa Elena"	"Santa Elena"	630	2020-10-06
+"Santa Elena"	"La Libertad"	516	2020-10-07
+"Santa Elena"	"Salinas"	354	2020-10-07
+"Santa Elena"	"Santa Elena"	630	2020-10-07
+"Santa Elena"	"La Libertad"	521	2020-10-08
+"Santa Elena"	"Salinas"	357	2020-10-08
+"Santa Elena"	"Santa Elena"	637	2020-10-08
+"Santa Elena"	"La Libertad"	521	2020-10-09
+"Santa Elena"	"Salinas"	357	2020-10-09
+"Santa Elena"	"Santa Elena"	637	2020-10-09
+"Santa Elena"	"La Libertad"	521	2020-10-10
+"Santa Elena"	"Salinas"	360	2020-10-10
+"Santa Elena"	"Santa Elena"	641	2020-10-10
+"Santa Elena"	"La Libertad"	521	2020-10-11
+"Santa Elena"	"Salinas"	360	2020-10-11
+"Santa Elena"	"Santa Elena"	641	2020-10-11
+"Santa Elena"	"La Libertad"	523	2020-10-12
+"Santa Elena"	"Salinas"	361	2020-10-12
+"Santa Elena"	"Santa Elena"	642	2020-10-12
+"Santa Elena"	"La Libertad"	526	2020-10-13
+"Santa Elena"	"Salinas"	361	2020-10-13
+"Santa Elena"	"Santa Elena"	643	2020-10-13
+"Santa Elena"	"La Libertad"	527	2020-10-14
+"Santa Elena"	"Salinas"	361	2020-10-14
+"Santa Elena"	"Santa Elena"	643	2020-10-14
+"Santa Elena"	"La Libertad"	537	2020-10-15
+"Santa Elena"	"Salinas"	368	2020-10-15
+"Santa Elena"	"Santa Elena"	655	2020-10-15
+"Santa Elena"	"La Libertad"	539	2020-10-16
+"Santa Elena"	"Salinas"	368	2020-10-16
+"Santa Elena"	"Santa Elena"	656	2020-10-16
+"Santa Elena"	"La Libertad"	539	2020-10-17
+"Santa Elena"	"Salinas"	368	2020-10-17
+"Santa Elena"	"Santa Elena"	657	2020-10-17
+"Santa Elena"	"La Libertad"	541	2020-10-18
+"Santa Elena"	"Salinas"	368	2020-10-18
+"Santa Elena"	"Santa Elena"	658	2020-10-18
+"Santa Elena"	"La Libertad"	542	2020-10-19
+"Santa Elena"	"Salinas"	368	2020-10-19
+"Santa Elena"	"Santa Elena"	664	2020-10-19
+"Santa Elena"	"La Libertad"	543	2020-10-20
+"Santa Elena"	"Salinas"	368	2020-10-20
+"Santa Elena"	"Santa Elena"	678	2020-10-20
+"Santa Elena"	"La Libertad"	544	2020-10-21
+"Santa Elena"	"Salinas"	368	2020-10-21
+"Santa Elena"	"Santa Elena"	678	2020-10-21
+"Santa Elena"	"La Libertad"	545	2020-10-22
+"Santa Elena"	"Salinas"	368	2020-10-22
+"Santa Elena"	"Santa Elena"	682	2020-10-22
+"Santa Elena"	"La Libertad"	549	2020-10-23
+"Santa Elena"	"Salinas"	370	2020-10-23
+"Santa Elena"	"Santa Elena"	686	2020-10-23
+"Santa Elena"	"La Libertad"	552	2020-10-24
+"Santa Elena"	"Salinas"	372	2020-10-24
+"Santa Elena"	"Santa Elena"	690	2020-10-24
+"Santa Elena"	"La Libertad"	560	2020-10-25
+"Santa Elena"	"Salinas"	373	2020-10-25
+"Santa Elena"	"Santa Elena"	691	2020-10-25
+"Santa Elena"	"La Libertad"	560	2020-10-26
+"Santa Elena"	"Salinas"	373	2020-10-26
+"Santa Elena"	"Santa Elena"	691	2020-10-26
+"Santa Elena"	"La Libertad"	564	2020-10-27
+"Santa Elena"	"Salinas"	374	2020-10-27
+"Santa Elena"	"Santa Elena"	694	2020-10-27
+"Santa Elena"	"La Libertad"	572	2020-10-28
+"Santa Elena"	"Salinas"	374	2020-10-28
+"Santa Elena"	"Santa Elena"	714	2020-10-28
+"Santa Elena"	"La Libertad"	579	2020-10-29
+"Santa Elena"	"Salinas"	376	2020-10-29
+"Santa Elena"	"Santa Elena"	728	2020-10-29
+"Santa Elena"	"La Libertad"	580	2020-10-30
+"Santa Elena"	"Salinas"	379	2020-10-30
+"Santa Elena"	"Santa Elena"	732	2020-10-30
+"Santa Elena"	"La Libertad"	580	2020-10-31
+"Santa Elena"	"Salinas"	381	2020-10-31
+"Santa Elena"	"Santa Elena"	759	2020-10-31
+"Santa Elena"	"La Libertad"	583	2020-11-01
+"Santa Elena"	"Salinas"	385	2020-11-01
+"Santa Elena"	"Santa Elena"	770	2020-11-01
+"Santa Elena"	"La Libertad"	583	2020-11-02
+"Santa Elena"	"Salinas"	385	2020-11-02
+"Santa Elena"	"Santa Elena"	783	2020-11-02
+"Santa Elena"	"La Libertad"	583	2020-11-03
+"Santa Elena"	"Salinas"	386	2020-11-03
+"Santa Elena"	"Santa Elena"	785	2020-11-03
+"Santa Elena"	"La Libertad"	585	2020-11-04
+"Santa Elena"	"Salinas"	386	2020-11-04
+"Santa Elena"	"Santa Elena"	785	2020-11-04
+"Santa Elena"	"La Libertad"	590	2020-11-05
+"Santa Elena"	"Salinas"	386	2020-11-05
+"Santa Elena"	"Santa Elena"	796	2020-11-05
+"Santa Elena"	"La Libertad"	607	2020-11-06
+"Santa Elena"	"Salinas"	390	2020-11-06
+"Santa Elena"	"Santa Elena"	799	2020-11-06
+"Santa Elena"	"La Libertad"	608	2020-11-07
+"Santa Elena"	"Salinas"	391	2020-11-07
+"Santa Elena"	"Santa Elena"	799	2020-11-07
+"Santa Elena"	"La Libertad"	613	2020-11-08
+"Santa Elena"	"Salinas"	394	2020-11-08
+"Santa Elena"	"Santa Elena"	807	2020-11-08
+"Santa Elena"	"La Libertad"	613	2020-11-09
+"Santa Elena"	"Salinas"	394	2020-11-09
+"Santa Elena"	"Santa Elena"	807	2020-11-09
+"Santa Elena"	"La Libertad"	619	2020-11-10
+"Santa Elena"	"Salinas"	399	2020-11-10
+"Santa Elena"	"Santa Elena"	814	2020-11-10
+"Santa Elena"	"La Libertad"	621	2020-11-11
+"Santa Elena"	"Salinas"	402	2020-11-11
+"Santa Elena"	"Santa Elena"	816	2020-11-11
+"Santa Elena"	"La Libertad"	622	2020-11-12
+"Santa Elena"	"Salinas"	404	2020-11-12
+"Santa Elena"	"Santa Elena"	824	2020-11-12
+"Santa Elena"	"La Libertad"	622	2020-11-13
+"Santa Elena"	"Salinas"	404	2020-11-13
+"Santa Elena"	"Santa Elena"	826	2020-11-13
+"Santa Elena"	"La Libertad"	622	2020-11-14
+"Santa Elena"	"Salinas"	404	2020-11-14
+"Santa Elena"	"Santa Elena"	826	2020-11-14
+"Santa Elena"	"La Libertad"	626	2020-11-15
+"Santa Elena"	"Salinas"	407	2020-11-15
+"Santa Elena"	"Santa Elena"	828	2020-11-15
+"Santa Elena"	"La Libertad"	626	2020-11-16
+"Santa Elena"	"Salinas"	408	2020-11-16
+"Santa Elena"	"Santa Elena"	828	2020-11-16
+"Santa Elena"	"La Libertad"	626	2020-11-17
+"Santa Elena"	"Salinas"	408	2020-11-17
+"Santa Elena"	"Santa Elena"	828	2020-11-17
+"Santa Elena"	"La Libertad"	634	2020-11-18
+"Santa Elena"	"Salinas"	411	2020-11-18
+"Santa Elena"	"Santa Elena"	830	2020-11-18
+"Santa Elena"	"La Libertad"	639	2020-11-19
+"Santa Elena"	"Salinas"	414	2020-11-19
+"Santa Elena"	"Santa Elena"	839	2020-11-19
+"Santa Elena"	"La Libertad"	639	2020-11-20
+"Santa Elena"	"Salinas"	414	2020-11-20
+"Santa Elena"	"Santa Elena"	839	2020-11-20
+"Santa Elena"	"La Libertad"	642	2020-11-21
+"Santa Elena"	"Salinas"	417	2020-11-21
+"Santa Elena"	"Santa Elena"	839	2020-11-21
+"Santa Elena"	"La Libertad"	644	2020-11-22
+"Santa Elena"	"Salinas"	419	2020-11-22
+"Santa Elena"	"Santa Elena"	840	2020-11-22
+"Santa Elena"	"La Libertad"	646	2020-11-23
+"Santa Elena"	"Salinas"	419	2020-11-23
+"Santa Elena"	"Santa Elena"	840	2020-11-23
+"Santa Elena"	"La Libertad"	664	2020-11-24
+"Santa Elena"	"Salinas"	427	2020-11-24
+"Santa Elena"	"Santa Elena"	847	2020-11-24
+"Santa Elena"	"La Libertad"	665	2020-11-25
+"Santa Elena"	"Salinas"	428	2020-11-25
+"Santa Elena"	"Santa Elena"	847	2020-11-25
+"Santa Elena"	"La Libertad"	672	2020-11-26
+"Santa Elena"	"Salinas"	436	2020-11-26
+"Santa Elena"	"Santa Elena"	873	2020-11-26
+"Santa Elena"	"La Libertad"	678	2020-11-27
+"Santa Elena"	"Salinas"	441	2020-11-27
+"Santa Elena"	"Santa Elena"	877	2020-11-27
+"Santa Elena"	"La Libertad"	702	2020-11-28
+"Santa Elena"	"Salinas"	459	2020-11-28
+"Santa Elena"	"Santa Elena"	922	2020-11-28
+"Santa Elena"	"La Libertad"	719	2020-11-29
+"Santa Elena"	"Salinas"	467	2020-11-29
+"Santa Elena"	"Santa Elena"	942	2020-11-29
+"Santa Elena"	"La Libertad"	721	2020-11-30
+"Santa Elena"	"Salinas"	468	2020-11-30
+"Santa Elena"	"Santa Elena"	951	2020-11-30
+"Santa Elena"	"La Libertad"	725	2020-12-01
+"Santa Elena"	"Salinas"	470	2020-12-01
+"Santa Elena"	"Santa Elena"	951	2020-12-01
+"Santa Elena"	"La Libertad"	727	2020-12-02
+"Santa Elena"	"Salinas"	470	2020-12-02
+"Santa Elena"	"Santa Elena"	951	2020-12-02
+"Santa Elena"	"La Libertad"	730	2020-12-03
+"Santa Elena"	"Salinas"	473	2020-12-03
+"Santa Elena"	"Santa Elena"	956	2020-12-03
+"Santa Elena"	"La Libertad"	738	2020-12-04
+"Santa Elena"	"Salinas"	483	2020-12-04
+"Santa Elena"	"Santa Elena"	966	2020-12-04
+"Santa Elena"	"La Libertad"	742	2020-12-05
+"Santa Elena"	"Salinas"	488	2020-12-05
+"Santa Elena"	"Santa Elena"	975	2020-12-05
+"Santa Elena"	"La Libertad"	744	2020-12-06
+"Santa Elena"	"Salinas"	497	2020-12-06
+"Santa Elena"	"Santa Elena"	990	2020-12-06
+"Santa Elena"	"La Libertad"	787	2020-12-07
+"Santa Elena"	"Salinas"	506	2020-12-07
+"Santa Elena"	"Santa Elena"	1038	2020-12-07
+"Santa Elena"	"La Libertad"	791	2020-12-08
+"Santa Elena"	"Salinas"	506	2020-12-08
+"Santa Elena"	"Santa Elena"	1044	2020-12-08
+"Santa Elena"	"La Libertad"	795	2020-12-09
+"Santa Elena"	"Salinas"	508	2020-12-09
+"Santa Elena"	"Santa Elena"	1047	2020-12-09
+"Santa Elena"	"La Libertad"	809	2020-12-10
+"Santa Elena"	"Salinas"	516	2020-12-10
+"Santa Elena"	"Santa Elena"	1062	2020-12-10
+"Santa Elena"	"La Libertad"	811	2020-12-11
+"Santa Elena"	"Salinas"	517	2020-12-11
+"Santa Elena"	"Santa Elena"	1068	2020-12-11
+"Santa Elena"	"La Libertad"	814	2020-12-12
+"Santa Elena"	"Salinas"	522	2020-12-12
+"Santa Elena"	"Santa Elena"	1074	2020-12-12
+"Santa Elena"	"La Libertad"	814	2020-12-13
+"Santa Elena"	"Salinas"	523	2020-12-13
+"Santa Elena"	"Santa Elena"	1079	2020-12-13
+"Santa Elena"	"La Libertad"	814	2020-12-14
+"Santa Elena"	"Salinas"	524	2020-12-14
+"Santa Elena"	"Santa Elena"	1082	2020-12-14
+"Santa Elena"	"La Libertad"	815	2020-12-15
+"Santa Elena"	"Salinas"	525	2020-12-15
+"Santa Elena"	"Santa Elena"	1083	2020-12-15
+"Santa Elena"	"La Libertad"	816	2020-12-16
+"Santa Elena"	"Salinas"	528	2020-12-16
+"Santa Elena"	"Santa Elena"	1083	2020-12-16
+"Santa Elena"	"La Libertad"	836	2020-12-17
+"Santa Elena"	"Salinas"	532	2020-12-17
+"Santa Elena"	"Santa Elena"	1108	2020-12-17
+"Santa Elena"	"La Libertad"	848	2020-12-18
+"Santa Elena"	"Salinas"	537	2020-12-18
+"Santa Elena"	"Santa Elena"	1114	2020-12-18
+"Santa Elena"	"La Libertad"	854	2020-12-19
+"Santa Elena"	"Salinas"	542	2020-12-19
+"Santa Elena"	"Santa Elena"	1116	2020-12-19
+"Santa Elena"	"La Libertad"	855	2020-12-20
+"Santa Elena"	"Salinas"	543	2020-12-20
+"Santa Elena"	"Santa Elena"	1117	2020-12-20
+"Santa Elena"	"La Libertad"	855	2020-12-21
+"Santa Elena"	"Salinas"	543	2020-12-21
+"Santa Elena"	"Santa Elena"	1117	2020-12-21
+"Santa Elena"	"La Libertad"	855	2020-12-22
+"Santa Elena"	"Salinas"	543	2020-12-22
+"Santa Elena"	"Santa Elena"	1117	2020-12-22
+"Santa Elena"	"La Libertad"	859	2020-12-23
+"Santa Elena"	"Salinas"	547	2020-12-23
+"Santa Elena"	"Santa Elena"	1124	2020-12-23
+"Santa Elena"	"La Libertad"	869	2020-12-24
+"Santa Elena"	"Salinas"	553	2020-12-24
+"Santa Elena"	"Santa Elena"	1134	2020-12-24
+"Santa Elena"	"La Libertad"	876	2020-12-25
+"Santa Elena"	"Salinas"	558	2020-12-25
+"Santa Elena"	"Santa Elena"	1148	2020-12-25
+"Santa Elena"	"La Libertad"	876	2020-12-26
+"Santa Elena"	"Salinas"	558	2020-12-26
+"Santa Elena"	"Santa Elena"	1148	2020-12-26
+"Santa Elena"	"La Libertad"	876	2020-12-27
+"Santa Elena"	"Salinas"	558	2020-12-27
+"Santa Elena"	"Santa Elena"	1148	2020-12-27
+"Santa Elena"	"La Libertad"	876	2020-12-28
+"Santa Elena"	"Salinas"	558	2020-12-28
+"Santa Elena"	"Santa Elena"	1149	2020-12-28
+"Santa Elena"	"La Libertad"	886	2020-12-29
+"Santa Elena"	"Salinas"	566	2020-12-29
+"Santa Elena"	"Santa Elena"	1155	2020-12-29
+"Santa Elena"	"La Libertad"	891	2020-12-30
+"Santa Elena"	"Salinas"	568	2020-12-30
+"Santa Elena"	"Santa Elena"	1160	2020-12-30
+"Santa Elena"	"La Libertad"	897	2020-12-31
+"Santa Elena"	"Salinas"	571	2020-12-31
+"Santa Elena"	"Santa Elena"	1163	2020-12-31
 "Santa Elena"	"La Libertad"	908	2021-01-01
 "Santa Elena"	"Salinas"	572	2021-01-01
 "Santa Elena"	"Santa Elena"	1173	2021-01-01
@@ -1421,3 +2303,27 @@
 "Santa Elena"	"La Libertad"	2247	2022-04-19
 "Santa Elena"	"Salinas"	1580	2022-04-19
 "Santa Elena"	"Santa Elena"	2694	2022-04-19
+"Santa Elena"	"La Libertad"	2248	2022-04-20
+"Santa Elena"	"Salinas"	1581	2022-04-20
+"Santa Elena"	"Santa Elena"	2694	2022-04-20
+"Santa Elena"	"La Libertad"	2248	2022-04-21
+"Santa Elena"	"Salinas"	1581	2022-04-21
+"Santa Elena"	"Santa Elena"	2694	2022-04-21
+"Santa Elena"	"La Libertad"	2248	2022-04-22
+"Santa Elena"	"Salinas"	1581	2022-04-22
+"Santa Elena"	"Santa Elena"	2694	2022-04-22
+"Santa Elena"	"La Libertad"	2248	2022-04-23
+"Santa Elena"	"Salinas"	1581	2022-04-23
+"Santa Elena"	"Santa Elena"	2694	2022-04-23
+"Santa Elena"	"La Libertad"	2248	2022-04-24
+"Santa Elena"	"Salinas"	1581	2022-04-24
+"Santa Elena"	"Santa Elena"	2694	2022-04-24
+"Santa Elena"	"La Libertad"	2248	2022-04-25
+"Santa Elena"	"Salinas"	1581	2022-04-25
+"Santa Elena"	"Santa Elena"	2694	2022-04-25
+"Santa Elena"	"La Libertad"	2248	2022-04-26
+"Santa Elena"	"Salinas"	1581	2022-04-26
+"Santa Elena"	"Santa Elena"	2694	2022-04-26
+"Santa Elena"	"La Libertad"	2248	2022-04-27
+"Santa Elena"	"Salinas"	1581	2022-04-27
+"Santa Elena"	"Santa Elena"	2695	2022-04-27

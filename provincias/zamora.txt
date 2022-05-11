@@ -1,4 +1,2650 @@
 "provincia"	"canton"	"total"	"created_at"
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-13
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-13
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-13
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-13
+"Zamora Chinchipe"	"Palanda"	0	2020-03-13
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-13
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-13
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-13
+"Zamora Chinchipe"	"Zamora"	0	2020-03-13
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-14
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-14
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-14
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-14
+"Zamora Chinchipe"	"Palanda"	0	2020-03-14
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-14
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-14
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-14
+"Zamora Chinchipe"	"Zamora"	0	2020-03-14
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-15
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-15
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-15
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-15
+"Zamora Chinchipe"	"Palanda"	0	2020-03-15
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-15
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-15
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-15
+"Zamora Chinchipe"	"Zamora"	0	2020-03-15
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-16
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-16
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-16
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-16
+"Zamora Chinchipe"	"Palanda"	0	2020-03-16
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-16
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-16
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-16
+"Zamora Chinchipe"	"Zamora"	0	2020-03-16
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-17
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-17
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-17
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-17
+"Zamora Chinchipe"	"Palanda"	0	2020-03-17
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-17
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-17
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-17
+"Zamora Chinchipe"	"Zamora"	0	2020-03-17
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-18
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-18
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-18
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-18
+"Zamora Chinchipe"	"Palanda"	0	2020-03-18
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-18
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-18
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-18
+"Zamora Chinchipe"	"Zamora"	0	2020-03-18
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-19
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-19
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-19
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-19
+"Zamora Chinchipe"	"Palanda"	0	2020-03-19
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-19
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-19
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-19
+"Zamora Chinchipe"	"Zamora"	0	2020-03-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-20
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-20
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-20
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-20
+"Zamora Chinchipe"	"Palanda"	0	2020-03-20
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-20
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-20
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-20
+"Zamora Chinchipe"	"Zamora"	0	2020-03-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-21
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-21
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-21
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-21
+"Zamora Chinchipe"	"Palanda"	0	2020-03-21
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-21
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-21
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-21
+"Zamora Chinchipe"	"Zamora"	0	2020-03-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-22
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-22
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-22
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-22
+"Zamora Chinchipe"	"Palanda"	0	2020-03-22
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-22
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-22
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-22
+"Zamora Chinchipe"	"Zamora"	0	2020-03-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-23
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-23
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-23
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-23
+"Zamora Chinchipe"	"Palanda"	0	2020-03-23
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-23
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-23
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-23
+"Zamora Chinchipe"	"Zamora"	0	2020-03-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-24
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-24
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-24
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-24
+"Zamora Chinchipe"	"Palanda"	0	2020-03-24
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-24
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-24
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-24
+"Zamora Chinchipe"	"Zamora"	0	2020-03-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-25
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-25
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-25
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-25
+"Zamora Chinchipe"	"Palanda"	0	2020-03-25
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-25
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-25
+"Zamora Chinchipe"	"Yantzaza"	0	2020-03-25
+"Zamora Chinchipe"	"Zamora"	0	2020-03-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-26
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-26
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-26
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-26
+"Zamora Chinchipe"	"Palanda"	0	2020-03-26
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-26
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-26
+"Zamora Chinchipe"	"Yantzaza"	1	2020-03-26
+"Zamora Chinchipe"	"Zamora"	0	2020-03-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-27
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-27
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-27
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-27
+"Zamora Chinchipe"	"Palanda"	0	2020-03-27
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-27
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-27
+"Zamora Chinchipe"	"Yantzaza"	1	2020-03-27
+"Zamora Chinchipe"	"Zamora"	0	2020-03-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-28
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-28
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-28
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-28
+"Zamora Chinchipe"	"Palanda"	0	2020-03-28
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-28
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-28
+"Zamora Chinchipe"	"Yantzaza"	1	2020-03-28
+"Zamora Chinchipe"	"Zamora"	0	2020-03-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-29
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-29
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-29
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-29
+"Zamora Chinchipe"	"Palanda"	0	2020-03-29
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-29
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-29
+"Zamora Chinchipe"	"Yantzaza"	1	2020-03-29
+"Zamora Chinchipe"	"Zamora"	0	2020-03-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-30
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-30
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-30
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-30
+"Zamora Chinchipe"	"Palanda"	0	2020-03-30
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-30
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-30
+"Zamora Chinchipe"	"Yantzaza"	1	2020-03-30
+"Zamora Chinchipe"	"Zamora"	1	2020-03-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-03-31
+"Zamora Chinchipe"	"Chinchipe"	0	2020-03-31
+"Zamora Chinchipe"	"El Pangui"	0	2020-03-31
+"Zamora Chinchipe"	"Nangaritza"	0	2020-03-31
+"Zamora Chinchipe"	"Palanda"	0	2020-03-31
+"Zamora Chinchipe"	"Paquisha"	0	2020-03-31
+"Zamora Chinchipe"	"Yacuambi"	0	2020-03-31
+"Zamora Chinchipe"	"Yantzaza"	1	2020-03-31
+"Zamora Chinchipe"	"Zamora"	1	2020-03-31
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-01
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-01
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-01
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-01
+"Zamora Chinchipe"	"Palanda"	0	2020-04-01
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-01
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-01
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-01
+"Zamora Chinchipe"	"Zamora"	1	2020-04-01
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-02
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-02
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-02
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-02
+"Zamora Chinchipe"	"Palanda"	0	2020-04-02
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-02
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-02
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-02
+"Zamora Chinchipe"	"Zamora"	1	2020-04-02
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-03
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-03
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-03
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-03
+"Zamora Chinchipe"	"Palanda"	0	2020-04-03
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-03
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-03
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-03
+"Zamora Chinchipe"	"Zamora"	1	2020-04-03
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-04
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-04
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-04
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-04
+"Zamora Chinchipe"	"Palanda"	0	2020-04-04
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-04
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-04
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-04
+"Zamora Chinchipe"	"Zamora"	1	2020-04-04
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-05
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-05
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-05
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-05
+"Zamora Chinchipe"	"Palanda"	0	2020-04-05
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-05
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-05
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-05
+"Zamora Chinchipe"	"Zamora"	1	2020-04-05
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-06
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-06
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-06
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-06
+"Zamora Chinchipe"	"Palanda"	0	2020-04-06
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-06
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-06
+"Zamora Chinchipe"	"Yantzaza"	2	2020-04-06
+"Zamora Chinchipe"	"Zamora"	1	2020-04-06
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-07
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-07
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-07
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-07
+"Zamora Chinchipe"	"Palanda"	0	2020-04-07
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-07
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-07
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-07
+"Zamora Chinchipe"	"Zamora"	1	2020-04-07
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-08
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-08
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-08
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-08
+"Zamora Chinchipe"	"Palanda"	0	2020-04-08
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-08
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-08
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-08
+"Zamora Chinchipe"	"Zamora"	1	2020-04-08
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-09
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-09
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-09
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-09
+"Zamora Chinchipe"	"Palanda"	0	2020-04-09
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-09
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-09
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-09
+"Zamora Chinchipe"	"Zamora"	2	2020-04-09
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-10
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-10
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-10
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-10
+"Zamora Chinchipe"	"Palanda"	0	2020-04-10
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-10
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-10
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-10
+"Zamora Chinchipe"	"Zamora"	3	2020-04-10
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-11
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-11
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-11
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-11
+"Zamora Chinchipe"	"Palanda"	0	2020-04-11
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-11
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-11
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-11
+"Zamora Chinchipe"	"Zamora"	3	2020-04-11
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-12
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-12
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-12
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-12
+"Zamora Chinchipe"	"Palanda"	0	2020-04-12
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-12
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-12
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-12
+"Zamora Chinchipe"	"Zamora"	3	2020-04-12
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-13
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-13
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-13
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-13
+"Zamora Chinchipe"	"Palanda"	0	2020-04-13
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-13
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-13
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-13
+"Zamora Chinchipe"	"Zamora"	3	2020-04-13
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-14
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-14
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-14
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-14
+"Zamora Chinchipe"	"Palanda"	0	2020-04-14
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-14
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-14
+"Zamora Chinchipe"	"Yantzaza"	1	2020-04-14
+"Zamora Chinchipe"	"Zamora"	3	2020-04-14
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-15
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-15
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-15
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-15
+"Zamora Chinchipe"	"Palanda"	0	2020-04-15
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-15
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-15
+"Zamora Chinchipe"	"Yantzaza"	2	2020-04-15
+"Zamora Chinchipe"	"Zamora"	3	2020-04-15
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-16
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-16
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-16
+"Zamora Chinchipe"	"Nangaritza"	0	2020-04-16
+"Zamora Chinchipe"	"Palanda"	0	2020-04-16
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-16
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-16
+"Zamora Chinchipe"	"Yantzaza"	2	2020-04-16
+"Zamora Chinchipe"	"Zamora"	3	2020-04-16
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-17
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-17
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-17
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-17
+"Zamora Chinchipe"	"Palanda"	0	2020-04-17
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-17
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-17
+"Zamora Chinchipe"	"Yantzaza"	4	2020-04-17
+"Zamora Chinchipe"	"Zamora"	3	2020-04-17
+"Zamora Chinchipe"	"Centinela del Cóndor"	0	2020-04-18
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-18
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-18
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-18
+"Zamora Chinchipe"	"Palanda"	0	2020-04-18
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-18
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-18
+"Zamora Chinchipe"	"Yantzaza"	4	2020-04-18
+"Zamora Chinchipe"	"Zamora"	12	2020-04-18
+"Zamora Chinchipe"	"Centinela del Cóndor"	1	2020-04-19
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-19
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-19
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-19
+"Zamora Chinchipe"	"Palanda"	0	2020-04-19
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-19
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-19
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-19
+"Zamora Chinchipe"	"Zamora"	13	2020-04-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	1	2020-04-20
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-20
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-20
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-20
+"Zamora Chinchipe"	"Palanda"	0	2020-04-20
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-20
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-20
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-20
+"Zamora Chinchipe"	"Zamora"	13	2020-04-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	1	2020-04-21
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-21
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-21
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-21
+"Zamora Chinchipe"	"Palanda"	0	2020-04-21
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-21
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-21
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-21
+"Zamora Chinchipe"	"Zamora"	13	2020-04-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	1	2020-04-22
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-22
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-22
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-22
+"Zamora Chinchipe"	"Palanda"	0	2020-04-22
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-22
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-22
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-22
+"Zamora Chinchipe"	"Zamora"	14	2020-04-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	3	2020-04-23
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-23
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-23
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-23
+"Zamora Chinchipe"	"Palanda"	0	2020-04-23
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-23
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-23
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-23
+"Zamora Chinchipe"	"Zamora"	15	2020-04-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	3	2020-04-24
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-24
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-24
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-24
+"Zamora Chinchipe"	"Palanda"	0	2020-04-24
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-24
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-24
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-24
+"Zamora Chinchipe"	"Zamora"	15	2020-04-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	3	2020-04-25
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-25
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-25
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-25
+"Zamora Chinchipe"	"Palanda"	0	2020-04-25
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-25
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-25
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-25
+"Zamora Chinchipe"	"Zamora"	15	2020-04-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	3	2020-04-26
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-26
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-26
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-26
+"Zamora Chinchipe"	"Palanda"	0	2020-04-26
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-26
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-26
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-26
+"Zamora Chinchipe"	"Zamora"	15	2020-04-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	3	2020-04-27
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-27
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-27
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-27
+"Zamora Chinchipe"	"Palanda"	0	2020-04-27
+"Zamora Chinchipe"	"Paquisha"	0	2020-04-27
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-27
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-27
+"Zamora Chinchipe"	"Zamora"	15	2020-04-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-04-28
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-28
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-28
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-28
+"Zamora Chinchipe"	"Palanda"	0	2020-04-28
+"Zamora Chinchipe"	"Paquisha"	3	2020-04-28
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-28
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-28
+"Zamora Chinchipe"	"Zamora"	30	2020-04-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-04-29
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-29
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-29
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-29
+"Zamora Chinchipe"	"Palanda"	0	2020-04-29
+"Zamora Chinchipe"	"Paquisha"	3	2020-04-29
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-29
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-29
+"Zamora Chinchipe"	"Zamora"	30	2020-04-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-04-30
+"Zamora Chinchipe"	"Chinchipe"	0	2020-04-30
+"Zamora Chinchipe"	"El Pangui"	0	2020-04-30
+"Zamora Chinchipe"	"Nangaritza"	1	2020-04-30
+"Zamora Chinchipe"	"Palanda"	0	2020-04-30
+"Zamora Chinchipe"	"Paquisha"	3	2020-04-30
+"Zamora Chinchipe"	"Yacuambi"	0	2020-04-30
+"Zamora Chinchipe"	"Yantzaza"	5	2020-04-30
+"Zamora Chinchipe"	"Zamora"	31	2020-04-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-01
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-01
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-01
+"Zamora Chinchipe"	"Nangaritza"	1	2020-05-01
+"Zamora Chinchipe"	"Palanda"	0	2020-05-01
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-01
+"Zamora Chinchipe"	"Yacuambi"	0	2020-05-01
+"Zamora Chinchipe"	"Yantzaza"	6	2020-05-01
+"Zamora Chinchipe"	"Zamora"	40	2020-05-01
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-02
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-02
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-02
+"Zamora Chinchipe"	"Nangaritza"	1	2020-05-02
+"Zamora Chinchipe"	"Palanda"	0	2020-05-02
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-02
+"Zamora Chinchipe"	"Yacuambi"	0	2020-05-02
+"Zamora Chinchipe"	"Yantzaza"	8	2020-05-02
+"Zamora Chinchipe"	"Zamora"	43	2020-05-02
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-03
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-03
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-03
+"Zamora Chinchipe"	"Nangaritza"	1	2020-05-03
+"Zamora Chinchipe"	"Palanda"	0	2020-05-03
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-03
+"Zamora Chinchipe"	"Yacuambi"	0	2020-05-03
+"Zamora Chinchipe"	"Yantzaza"	11	2020-05-03
+"Zamora Chinchipe"	"Zamora"	56	2020-05-03
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-04
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-04
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-04
+"Zamora Chinchipe"	"Nangaritza"	1	2020-05-04
+"Zamora Chinchipe"	"Palanda"	0	2020-05-04
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-04
+"Zamora Chinchipe"	"Yacuambi"	0	2020-05-04
+"Zamora Chinchipe"	"Yantzaza"	11	2020-05-04
+"Zamora Chinchipe"	"Zamora"	56	2020-05-04
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-05
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-05
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-05
+"Zamora Chinchipe"	"Nangaritza"	1	2020-05-05
+"Zamora Chinchipe"	"Palanda"	0	2020-05-05
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-05
+"Zamora Chinchipe"	"Yacuambi"	0	2020-05-05
+"Zamora Chinchipe"	"Yantzaza"	11	2020-05-05
+"Zamora Chinchipe"	"Zamora"	56	2020-05-05
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-06
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-06
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-06
+"Zamora Chinchipe"	"Nangaritza"	1	2020-05-06
+"Zamora Chinchipe"	"Palanda"	0	2020-05-06
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-06
+"Zamora Chinchipe"	"Yacuambi"	0	2020-05-06
+"Zamora Chinchipe"	"Yantzaza"	8	2020-05-06
+"Zamora Chinchipe"	"Zamora"	44	2020-05-06
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-07
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-07
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-07
+"Zamora Chinchipe"	"Nangaritza"	1	2020-05-07
+"Zamora Chinchipe"	"Palanda"	0	2020-05-07
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-07
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-07
+"Zamora Chinchipe"	"Yantzaza"	8	2020-05-07
+"Zamora Chinchipe"	"Zamora"	60	2020-05-07
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-08
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-08
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-08
+"Zamora Chinchipe"	"Nangaritza"	2	2020-05-08
+"Zamora Chinchipe"	"Palanda"	0	2020-05-08
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-08
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-08
+"Zamora Chinchipe"	"Yantzaza"	6	2020-05-08
+"Zamora Chinchipe"	"Zamora"	49	2020-05-08
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-09
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-09
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-09
+"Zamora Chinchipe"	"Nangaritza"	2	2020-05-09
+"Zamora Chinchipe"	"Palanda"	0	2020-05-09
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-09
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-09
+"Zamora Chinchipe"	"Yantzaza"	6	2020-05-09
+"Zamora Chinchipe"	"Zamora"	50	2020-05-09
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-10
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-10
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-10
+"Zamora Chinchipe"	"Nangaritza"	2	2020-05-10
+"Zamora Chinchipe"	"Palanda"	0	2020-05-10
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-10
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-10
+"Zamora Chinchipe"	"Yantzaza"	6	2020-05-10
+"Zamora Chinchipe"	"Zamora"	51	2020-05-10
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-11
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-11
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-11
+"Zamora Chinchipe"	"Nangaritza"	2	2020-05-11
+"Zamora Chinchipe"	"Palanda"	0	2020-05-11
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-11
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-11
+"Zamora Chinchipe"	"Yantzaza"	6	2020-05-11
+"Zamora Chinchipe"	"Zamora"	50	2020-05-11
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-12
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-12
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-12
+"Zamora Chinchipe"	"Nangaritza"	3	2020-05-12
+"Zamora Chinchipe"	"Palanda"	0	2020-05-12
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-12
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-12
+"Zamora Chinchipe"	"Yantzaza"	7	2020-05-12
+"Zamora Chinchipe"	"Zamora"	51	2020-05-12
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-13
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-13
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-13
+"Zamora Chinchipe"	"Nangaritza"	3	2020-05-13
+"Zamora Chinchipe"	"Palanda"	0	2020-05-13
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-13
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-13
+"Zamora Chinchipe"	"Yantzaza"	7	2020-05-13
+"Zamora Chinchipe"	"Zamora"	51	2020-05-13
+"Zamora Chinchipe"	"Centinela del Cóndor"	4	2020-05-14
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-14
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-14
+"Zamora Chinchipe"	"Nangaritza"	3	2020-05-14
+"Zamora Chinchipe"	"Palanda"	0	2020-05-14
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-14
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-14
+"Zamora Chinchipe"	"Yantzaza"	7	2020-05-14
+"Zamora Chinchipe"	"Zamora"	53	2020-05-14
+"Zamora Chinchipe"	"Centinela del Cóndor"	6	2020-05-15
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-15
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-15
+"Zamora Chinchipe"	"Nangaritza"	3	2020-05-15
+"Zamora Chinchipe"	"Palanda"	0	2020-05-15
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-15
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-15
+"Zamora Chinchipe"	"Yantzaza"	13	2020-05-15
+"Zamora Chinchipe"	"Zamora"	58	2020-05-15
+"Zamora Chinchipe"	"Centinela del Cóndor"	6	2020-05-16
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-16
+"Zamora Chinchipe"	"El Pangui"	0	2020-05-16
+"Zamora Chinchipe"	"Nangaritza"	4	2020-05-16
+"Zamora Chinchipe"	"Palanda"	0	2020-05-16
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-16
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-16
+"Zamora Chinchipe"	"Yantzaza"	13	2020-05-16
+"Zamora Chinchipe"	"Zamora"	65	2020-05-16
+"Zamora Chinchipe"	"Centinela del Cóndor"	6	2020-05-17
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-17
+"Zamora Chinchipe"	"El Pangui"	1	2020-05-17
+"Zamora Chinchipe"	"Nangaritza"	6	2020-05-17
+"Zamora Chinchipe"	"Palanda"	0	2020-05-17
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-17
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-17
+"Zamora Chinchipe"	"Yantzaza"	13	2020-05-17
+"Zamora Chinchipe"	"Zamora"	70	2020-05-17
+"Zamora Chinchipe"	"Centinela del Cóndor"	6	2020-05-18
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-18
+"Zamora Chinchipe"	"El Pangui"	1	2020-05-18
+"Zamora Chinchipe"	"Nangaritza"	7	2020-05-18
+"Zamora Chinchipe"	"Palanda"	0	2020-05-18
+"Zamora Chinchipe"	"Paquisha"	4	2020-05-18
+"Zamora Chinchipe"	"Yacuambi"	1	2020-05-18
+"Zamora Chinchipe"	"Yantzaza"	13	2020-05-18
+"Zamora Chinchipe"	"Zamora"	74	2020-05-18
+"Zamora Chinchipe"	"Centinela del Cóndor"	6	2020-05-19
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-19
+"Zamora Chinchipe"	"El Pangui"	1	2020-05-19
+"Zamora Chinchipe"	"Nangaritza"	7	2020-05-19
+"Zamora Chinchipe"	"Palanda"	0	2020-05-19
+"Zamora Chinchipe"	"Paquisha"	5	2020-05-19
+"Zamora Chinchipe"	"Yacuambi"	2	2020-05-19
+"Zamora Chinchipe"	"Yantzaza"	14	2020-05-19
+"Zamora Chinchipe"	"Zamora"	76	2020-05-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	8	2020-05-20
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-20
+"Zamora Chinchipe"	"El Pangui"	6	2020-05-20
+"Zamora Chinchipe"	"Nangaritza"	7	2020-05-20
+"Zamora Chinchipe"	"Palanda"	0	2020-05-20
+"Zamora Chinchipe"	"Paquisha"	5	2020-05-20
+"Zamora Chinchipe"	"Yacuambi"	2	2020-05-20
+"Zamora Chinchipe"	"Yantzaza"	21	2020-05-20
+"Zamora Chinchipe"	"Zamora"	82	2020-05-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	8	2020-05-21
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-21
+"Zamora Chinchipe"	"El Pangui"	6	2020-05-21
+"Zamora Chinchipe"	"Nangaritza"	8	2020-05-21
+"Zamora Chinchipe"	"Palanda"	0	2020-05-21
+"Zamora Chinchipe"	"Paquisha"	5	2020-05-21
+"Zamora Chinchipe"	"Yacuambi"	2	2020-05-21
+"Zamora Chinchipe"	"Yantzaza"	25	2020-05-21
+"Zamora Chinchipe"	"Zamora"	83	2020-05-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	9	2020-05-22
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-22
+"Zamora Chinchipe"	"El Pangui"	7	2020-05-22
+"Zamora Chinchipe"	"Nangaritza"	12	2020-05-22
+"Zamora Chinchipe"	"Palanda"	0	2020-05-22
+"Zamora Chinchipe"	"Paquisha"	5	2020-05-22
+"Zamora Chinchipe"	"Yacuambi"	2	2020-05-22
+"Zamora Chinchipe"	"Yantzaza"	30	2020-05-22
+"Zamora Chinchipe"	"Zamora"	83	2020-05-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	9	2020-05-23
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-23
+"Zamora Chinchipe"	"El Pangui"	7	2020-05-23
+"Zamora Chinchipe"	"Nangaritza"	12	2020-05-23
+"Zamora Chinchipe"	"Palanda"	0	2020-05-23
+"Zamora Chinchipe"	"Paquisha"	5	2020-05-23
+"Zamora Chinchipe"	"Yacuambi"	2	2020-05-23
+"Zamora Chinchipe"	"Yantzaza"	30	2020-05-23
+"Zamora Chinchipe"	"Zamora"	84	2020-05-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	9	2020-05-24
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-24
+"Zamora Chinchipe"	"El Pangui"	7	2020-05-24
+"Zamora Chinchipe"	"Nangaritza"	12	2020-05-24
+"Zamora Chinchipe"	"Palanda"	0	2020-05-24
+"Zamora Chinchipe"	"Paquisha"	5	2020-05-24
+"Zamora Chinchipe"	"Yacuambi"	2	2020-05-24
+"Zamora Chinchipe"	"Yantzaza"	30	2020-05-24
+"Zamora Chinchipe"	"Zamora"	84	2020-05-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	9	2020-05-25
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-25
+"Zamora Chinchipe"	"El Pangui"	7	2020-05-25
+"Zamora Chinchipe"	"Nangaritza"	12	2020-05-25
+"Zamora Chinchipe"	"Palanda"	0	2020-05-25
+"Zamora Chinchipe"	"Paquisha"	5	2020-05-25
+"Zamora Chinchipe"	"Yacuambi"	4	2020-05-25
+"Zamora Chinchipe"	"Yantzaza"	42	2020-05-25
+"Zamora Chinchipe"	"Zamora"	84	2020-05-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	10	2020-05-26
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-26
+"Zamora Chinchipe"	"El Pangui"	7	2020-05-26
+"Zamora Chinchipe"	"Nangaritza"	13	2020-05-26
+"Zamora Chinchipe"	"Palanda"	0	2020-05-26
+"Zamora Chinchipe"	"Paquisha"	6	2020-05-26
+"Zamora Chinchipe"	"Yacuambi"	5	2020-05-26
+"Zamora Chinchipe"	"Yantzaza"	46	2020-05-26
+"Zamora Chinchipe"	"Zamora"	84	2020-05-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	10	2020-05-27
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-27
+"Zamora Chinchipe"	"El Pangui"	7	2020-05-27
+"Zamora Chinchipe"	"Nangaritza"	13	2020-05-27
+"Zamora Chinchipe"	"Palanda"	0	2020-05-27
+"Zamora Chinchipe"	"Paquisha"	6	2020-05-27
+"Zamora Chinchipe"	"Yacuambi"	5	2020-05-27
+"Zamora Chinchipe"	"Yantzaza"	46	2020-05-27
+"Zamora Chinchipe"	"Zamora"	85	2020-05-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	10	2020-05-28
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-28
+"Zamora Chinchipe"	"El Pangui"	7	2020-05-28
+"Zamora Chinchipe"	"Nangaritza"	13	2020-05-28
+"Zamora Chinchipe"	"Palanda"	0	2020-05-28
+"Zamora Chinchipe"	"Paquisha"	6	2020-05-28
+"Zamora Chinchipe"	"Yacuambi"	5	2020-05-28
+"Zamora Chinchipe"	"Yantzaza"	52	2020-05-28
+"Zamora Chinchipe"	"Zamora"	85	2020-05-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	10	2020-05-29
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-29
+"Zamora Chinchipe"	"El Pangui"	7	2020-05-29
+"Zamora Chinchipe"	"Nangaritza"	13	2020-05-29
+"Zamora Chinchipe"	"Palanda"	0	2020-05-29
+"Zamora Chinchipe"	"Paquisha"	6	2020-05-29
+"Zamora Chinchipe"	"Yacuambi"	5	2020-05-29
+"Zamora Chinchipe"	"Yantzaza"	55	2020-05-29
+"Zamora Chinchipe"	"Zamora"	85	2020-05-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	10	2020-05-30
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-30
+"Zamora Chinchipe"	"El Pangui"	7	2020-05-30
+"Zamora Chinchipe"	"Nangaritza"	13	2020-05-30
+"Zamora Chinchipe"	"Palanda"	0	2020-05-30
+"Zamora Chinchipe"	"Paquisha"	6	2020-05-30
+"Zamora Chinchipe"	"Yacuambi"	8	2020-05-30
+"Zamora Chinchipe"	"Yantzaza"	55	2020-05-30
+"Zamora Chinchipe"	"Zamora"	87	2020-05-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	10	2020-05-31
+"Zamora Chinchipe"	"Chinchipe"	0	2020-05-31
+"Zamora Chinchipe"	"El Pangui"	7	2020-05-31
+"Zamora Chinchipe"	"Nangaritza"	13	2020-05-31
+"Zamora Chinchipe"	"Palanda"	0	2020-05-31
+"Zamora Chinchipe"	"Paquisha"	6	2020-05-31
+"Zamora Chinchipe"	"Yacuambi"	8	2020-05-31
+"Zamora Chinchipe"	"Yantzaza"	55	2020-05-31
+"Zamora Chinchipe"	"Zamora"	87	2020-05-31
+"Zamora Chinchipe"	"Centinela del Cóndor"	10	2020-06-01
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-01
+"Zamora Chinchipe"	"El Pangui"	9	2020-06-01
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-01
+"Zamora Chinchipe"	"Palanda"	0	2020-06-01
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-01
+"Zamora Chinchipe"	"Yacuambi"	15	2020-06-01
+"Zamora Chinchipe"	"Yantzaza"	86	2020-06-01
+"Zamora Chinchipe"	"Zamora"	91	2020-06-01
+"Zamora Chinchipe"	"Centinela del Cóndor"	11	2020-06-02
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-02
+"Zamora Chinchipe"	"El Pangui"	17	2020-06-02
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-02
+"Zamora Chinchipe"	"Palanda"	0	2020-06-02
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-02
+"Zamora Chinchipe"	"Yacuambi"	15	2020-06-02
+"Zamora Chinchipe"	"Yantzaza"	91	2020-06-02
+"Zamora Chinchipe"	"Zamora"	94	2020-06-02
+"Zamora Chinchipe"	"Centinela del Cóndor"	11	2020-06-03
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-03
+"Zamora Chinchipe"	"El Pangui"	21	2020-06-03
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-03
+"Zamora Chinchipe"	"Palanda"	0	2020-06-03
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-03
+"Zamora Chinchipe"	"Yacuambi"	15	2020-06-03
+"Zamora Chinchipe"	"Yantzaza"	91	2020-06-03
+"Zamora Chinchipe"	"Zamora"	96	2020-06-03
+"Zamora Chinchipe"	"Centinela del Cóndor"	11	2020-06-04
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-04
+"Zamora Chinchipe"	"El Pangui"	21	2020-06-04
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-04
+"Zamora Chinchipe"	"Palanda"	0	2020-06-04
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-04
+"Zamora Chinchipe"	"Yacuambi"	15	2020-06-04
+"Zamora Chinchipe"	"Yantzaza"	92	2020-06-04
+"Zamora Chinchipe"	"Zamora"	96	2020-06-04
+"Zamora Chinchipe"	"Centinela del Cóndor"	12	2020-06-05
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-05
+"Zamora Chinchipe"	"El Pangui"	26	2020-06-05
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-05
+"Zamora Chinchipe"	"Palanda"	1	2020-06-05
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-05
+"Zamora Chinchipe"	"Yacuambi"	15	2020-06-05
+"Zamora Chinchipe"	"Yantzaza"	100	2020-06-05
+"Zamora Chinchipe"	"Zamora"	102	2020-06-05
+"Zamora Chinchipe"	"Centinela del Cóndor"	12	2020-06-06
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-06
+"Zamora Chinchipe"	"El Pangui"	26	2020-06-06
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-06
+"Zamora Chinchipe"	"Palanda"	1	2020-06-06
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-06
+"Zamora Chinchipe"	"Yacuambi"	15	2020-06-06
+"Zamora Chinchipe"	"Yantzaza"	102	2020-06-06
+"Zamora Chinchipe"	"Zamora"	102	2020-06-06
+"Zamora Chinchipe"	"Centinela del Cóndor"	12	2020-06-07
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-07
+"Zamora Chinchipe"	"El Pangui"	26	2020-06-07
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-07
+"Zamora Chinchipe"	"Palanda"	1	2020-06-07
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-07
+"Zamora Chinchipe"	"Yacuambi"	15	2020-06-07
+"Zamora Chinchipe"	"Yantzaza"	102	2020-06-07
+"Zamora Chinchipe"	"Zamora"	102	2020-06-07
+"Zamora Chinchipe"	"Centinela del Cóndor"	12	2020-06-08
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-08
+"Zamora Chinchipe"	"El Pangui"	26	2020-06-08
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-08
+"Zamora Chinchipe"	"Palanda"	1	2020-06-08
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-08
+"Zamora Chinchipe"	"Yacuambi"	15	2020-06-08
+"Zamora Chinchipe"	"Yantzaza"	102	2020-06-08
+"Zamora Chinchipe"	"Zamora"	102	2020-06-08
+"Zamora Chinchipe"	"Centinela del Cóndor"	12	2020-06-09
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-09
+"Zamora Chinchipe"	"El Pangui"	26	2020-06-09
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-09
+"Zamora Chinchipe"	"Palanda"	1	2020-06-09
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-09
+"Zamora Chinchipe"	"Yacuambi"	15	2020-06-09
+"Zamora Chinchipe"	"Yantzaza"	103	2020-06-09
+"Zamora Chinchipe"	"Zamora"	103	2020-06-09
+"Zamora Chinchipe"	"Centinela del Cóndor"	13	2020-06-10
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-10
+"Zamora Chinchipe"	"El Pangui"	30	2020-06-10
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-10
+"Zamora Chinchipe"	"Palanda"	1	2020-06-10
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-10
+"Zamora Chinchipe"	"Yacuambi"	17	2020-06-10
+"Zamora Chinchipe"	"Yantzaza"	123	2020-06-10
+"Zamora Chinchipe"	"Zamora"	106	2020-06-10
+"Zamora Chinchipe"	"Centinela del Cóndor"	13	2020-06-11
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-11
+"Zamora Chinchipe"	"El Pangui"	30	2020-06-11
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-11
+"Zamora Chinchipe"	"Palanda"	1	2020-06-11
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-11
+"Zamora Chinchipe"	"Yacuambi"	17	2020-06-11
+"Zamora Chinchipe"	"Yantzaza"	123	2020-06-11
+"Zamora Chinchipe"	"Zamora"	113	2020-06-11
+"Zamora Chinchipe"	"Centinela del Cóndor"	13	2020-06-12
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-12
+"Zamora Chinchipe"	"El Pangui"	40	2020-06-12
+"Zamora Chinchipe"	"Nangaritza"	13	2020-06-12
+"Zamora Chinchipe"	"Palanda"	1	2020-06-12
+"Zamora Chinchipe"	"Paquisha"	6	2020-06-12
+"Zamora Chinchipe"	"Yacuambi"	17	2020-06-12
+"Zamora Chinchipe"	"Yantzaza"	137	2020-06-12
+"Zamora Chinchipe"	"Zamora"	116	2020-06-12
+"Zamora Chinchipe"	"Centinela del Cóndor"	15	2020-06-13
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-13
+"Zamora Chinchipe"	"El Pangui"	44	2020-06-13
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-13
+"Zamora Chinchipe"	"Palanda"	1	2020-06-13
+"Zamora Chinchipe"	"Paquisha"	7	2020-06-13
+"Zamora Chinchipe"	"Yacuambi"	17	2020-06-13
+"Zamora Chinchipe"	"Yantzaza"	142	2020-06-13
+"Zamora Chinchipe"	"Zamora"	117	2020-06-13
+"Zamora Chinchipe"	"Centinela del Cóndor"	15	2020-06-14
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-14
+"Zamora Chinchipe"	"El Pangui"	45	2020-06-14
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-14
+"Zamora Chinchipe"	"Palanda"	1	2020-06-14
+"Zamora Chinchipe"	"Paquisha"	7	2020-06-14
+"Zamora Chinchipe"	"Yacuambi"	17	2020-06-14
+"Zamora Chinchipe"	"Yantzaza"	142	2020-06-14
+"Zamora Chinchipe"	"Zamora"	117	2020-06-14
+"Zamora Chinchipe"	"Centinela del Cóndor"	15	2020-06-15
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-15
+"Zamora Chinchipe"	"El Pangui"	48	2020-06-15
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-15
+"Zamora Chinchipe"	"Palanda"	1	2020-06-15
+"Zamora Chinchipe"	"Paquisha"	7	2020-06-15
+"Zamora Chinchipe"	"Yacuambi"	17	2020-06-15
+"Zamora Chinchipe"	"Yantzaza"	143	2020-06-15
+"Zamora Chinchipe"	"Zamora"	120	2020-06-15
+"Zamora Chinchipe"	"Centinela del Cóndor"	15	2020-06-16
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-16
+"Zamora Chinchipe"	"El Pangui"	53	2020-06-16
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-16
+"Zamora Chinchipe"	"Palanda"	1	2020-06-16
+"Zamora Chinchipe"	"Paquisha"	8	2020-06-16
+"Zamora Chinchipe"	"Yacuambi"	20	2020-06-16
+"Zamora Chinchipe"	"Yantzaza"	145	2020-06-16
+"Zamora Chinchipe"	"Zamora"	127	2020-06-16
+"Zamora Chinchipe"	"Centinela del Cóndor"	15	2020-06-17
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-17
+"Zamora Chinchipe"	"El Pangui"	53	2020-06-17
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-17
+"Zamora Chinchipe"	"Palanda"	1	2020-06-17
+"Zamora Chinchipe"	"Paquisha"	8	2020-06-17
+"Zamora Chinchipe"	"Yacuambi"	20	2020-06-17
+"Zamora Chinchipe"	"Yantzaza"	146	2020-06-17
+"Zamora Chinchipe"	"Zamora"	128	2020-06-17
+"Zamora Chinchipe"	"Centinela del Cóndor"	16	2020-06-18
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-18
+"Zamora Chinchipe"	"El Pangui"	56	2020-06-18
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-18
+"Zamora Chinchipe"	"Palanda"	1	2020-06-18
+"Zamora Chinchipe"	"Paquisha"	8	2020-06-18
+"Zamora Chinchipe"	"Yacuambi"	20	2020-06-18
+"Zamora Chinchipe"	"Yantzaza"	148	2020-06-18
+"Zamora Chinchipe"	"Zamora"	139	2020-06-18
+"Zamora Chinchipe"	"Centinela del Cóndor"	17	2020-06-19
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-19
+"Zamora Chinchipe"	"El Pangui"	57	2020-06-19
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-19
+"Zamora Chinchipe"	"Palanda"	1	2020-06-19
+"Zamora Chinchipe"	"Paquisha"	8	2020-06-19
+"Zamora Chinchipe"	"Yacuambi"	20	2020-06-19
+"Zamora Chinchipe"	"Yantzaza"	152	2020-06-19
+"Zamora Chinchipe"	"Zamora"	140	2020-06-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	17	2020-06-20
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-20
+"Zamora Chinchipe"	"El Pangui"	58	2020-06-20
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-20
+"Zamora Chinchipe"	"Palanda"	1	2020-06-20
+"Zamora Chinchipe"	"Paquisha"	12	2020-06-20
+"Zamora Chinchipe"	"Yacuambi"	20	2020-06-20
+"Zamora Chinchipe"	"Yantzaza"	156	2020-06-20
+"Zamora Chinchipe"	"Zamora"	141	2020-06-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	18	2020-06-21
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-21
+"Zamora Chinchipe"	"El Pangui"	58	2020-06-21
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-21
+"Zamora Chinchipe"	"Palanda"	1	2020-06-21
+"Zamora Chinchipe"	"Paquisha"	12	2020-06-21
+"Zamora Chinchipe"	"Yacuambi"	20	2020-06-21
+"Zamora Chinchipe"	"Yantzaza"	156	2020-06-21
+"Zamora Chinchipe"	"Zamora"	143	2020-06-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	18	2020-06-22
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-22
+"Zamora Chinchipe"	"El Pangui"	58	2020-06-22
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-22
+"Zamora Chinchipe"	"Palanda"	1	2020-06-22
+"Zamora Chinchipe"	"Paquisha"	12	2020-06-22
+"Zamora Chinchipe"	"Yacuambi"	20	2020-06-22
+"Zamora Chinchipe"	"Yantzaza"	156	2020-06-22
+"Zamora Chinchipe"	"Zamora"	143	2020-06-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	19	2020-06-23
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-23
+"Zamora Chinchipe"	"El Pangui"	59	2020-06-23
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-23
+"Zamora Chinchipe"	"Palanda"	1	2020-06-23
+"Zamora Chinchipe"	"Paquisha"	12	2020-06-23
+"Zamora Chinchipe"	"Yacuambi"	20	2020-06-23
+"Zamora Chinchipe"	"Yantzaza"	159	2020-06-23
+"Zamora Chinchipe"	"Zamora"	144	2020-06-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	20	2020-06-24
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-24
+"Zamora Chinchipe"	"El Pangui"	63	2020-06-24
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-24
+"Zamora Chinchipe"	"Palanda"	1	2020-06-24
+"Zamora Chinchipe"	"Paquisha"	12	2020-06-24
+"Zamora Chinchipe"	"Yacuambi"	29	2020-06-24
+"Zamora Chinchipe"	"Yantzaza"	167	2020-06-24
+"Zamora Chinchipe"	"Zamora"	150	2020-06-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	20	2020-06-25
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-25
+"Zamora Chinchipe"	"El Pangui"	66	2020-06-25
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-25
+"Zamora Chinchipe"	"Palanda"	1	2020-06-25
+"Zamora Chinchipe"	"Paquisha"	12	2020-06-25
+"Zamora Chinchipe"	"Yacuambi"	29	2020-06-25
+"Zamora Chinchipe"	"Yantzaza"	171	2020-06-25
+"Zamora Chinchipe"	"Zamora"	153	2020-06-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	20	2020-06-26
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-26
+"Zamora Chinchipe"	"El Pangui"	66	2020-06-26
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-26
+"Zamora Chinchipe"	"Palanda"	1	2020-06-26
+"Zamora Chinchipe"	"Paquisha"	12	2020-06-26
+"Zamora Chinchipe"	"Yacuambi"	29	2020-06-26
+"Zamora Chinchipe"	"Yantzaza"	171	2020-06-26
+"Zamora Chinchipe"	"Zamora"	153	2020-06-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	24	2020-06-27
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-27
+"Zamora Chinchipe"	"El Pangui"	69	2020-06-27
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-27
+"Zamora Chinchipe"	"Palanda"	1	2020-06-27
+"Zamora Chinchipe"	"Paquisha"	14	2020-06-27
+"Zamora Chinchipe"	"Yacuambi"	31	2020-06-27
+"Zamora Chinchipe"	"Yantzaza"	182	2020-06-27
+"Zamora Chinchipe"	"Zamora"	161	2020-06-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	26	2020-06-28
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-28
+"Zamora Chinchipe"	"El Pangui"	70	2020-06-28
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-28
+"Zamora Chinchipe"	"Palanda"	1	2020-06-28
+"Zamora Chinchipe"	"Paquisha"	15	2020-06-28
+"Zamora Chinchipe"	"Yacuambi"	31	2020-06-28
+"Zamora Chinchipe"	"Yantzaza"	198	2020-06-28
+"Zamora Chinchipe"	"Zamora"	168	2020-06-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	26	2020-06-29
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-29
+"Zamora Chinchipe"	"El Pangui"	70	2020-06-29
+"Zamora Chinchipe"	"Nangaritza"	14	2020-06-29
+"Zamora Chinchipe"	"Palanda"	1	2020-06-29
+"Zamora Chinchipe"	"Paquisha"	15	2020-06-29
+"Zamora Chinchipe"	"Yacuambi"	31	2020-06-29
+"Zamora Chinchipe"	"Yantzaza"	198	2020-06-29
+"Zamora Chinchipe"	"Zamora"	168	2020-06-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	26	2020-06-30
+"Zamora Chinchipe"	"Chinchipe"	0	2020-06-30
+"Zamora Chinchipe"	"El Pangui"	70	2020-06-30
+"Zamora Chinchipe"	"Nangaritza"	16	2020-06-30
+"Zamora Chinchipe"	"Palanda"	1	2020-06-30
+"Zamora Chinchipe"	"Paquisha"	15	2020-06-30
+"Zamora Chinchipe"	"Yacuambi"	41	2020-06-30
+"Zamora Chinchipe"	"Yantzaza"	198	2020-06-30
+"Zamora Chinchipe"	"Zamora"	169	2020-06-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	27	2020-07-01
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-01
+"Zamora Chinchipe"	"El Pangui"	70	2020-07-01
+"Zamora Chinchipe"	"Nangaritza"	16	2020-07-01
+"Zamora Chinchipe"	"Palanda"	1	2020-07-01
+"Zamora Chinchipe"	"Paquisha"	15	2020-07-01
+"Zamora Chinchipe"	"Yacuambi"	41	2020-07-01
+"Zamora Chinchipe"	"Yantzaza"	203	2020-07-01
+"Zamora Chinchipe"	"Zamora"	171	2020-07-01
+"Zamora Chinchipe"	"Centinela del Cóndor"	34	2020-07-02
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-02
+"Zamora Chinchipe"	"El Pangui"	72	2020-07-02
+"Zamora Chinchipe"	"Nangaritza"	16	2020-07-02
+"Zamora Chinchipe"	"Palanda"	1	2020-07-02
+"Zamora Chinchipe"	"Paquisha"	15	2020-07-02
+"Zamora Chinchipe"	"Yacuambi"	44	2020-07-02
+"Zamora Chinchipe"	"Yantzaza"	218	2020-07-02
+"Zamora Chinchipe"	"Zamora"	184	2020-07-02
+"Zamora Chinchipe"	"Centinela del Cóndor"	39	2020-07-03
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-03
+"Zamora Chinchipe"	"El Pangui"	74	2020-07-03
+"Zamora Chinchipe"	"Nangaritza"	16	2020-07-03
+"Zamora Chinchipe"	"Palanda"	1	2020-07-03
+"Zamora Chinchipe"	"Paquisha"	15	2020-07-03
+"Zamora Chinchipe"	"Yacuambi"	44	2020-07-03
+"Zamora Chinchipe"	"Yantzaza"	220	2020-07-03
+"Zamora Chinchipe"	"Zamora"	188	2020-07-03
+"Zamora Chinchipe"	"Centinela del Cóndor"	39	2020-07-04
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-04
+"Zamora Chinchipe"	"El Pangui"	74	2020-07-04
+"Zamora Chinchipe"	"Nangaritza"	16	2020-07-04
+"Zamora Chinchipe"	"Palanda"	1	2020-07-04
+"Zamora Chinchipe"	"Paquisha"	15	2020-07-04
+"Zamora Chinchipe"	"Yacuambi"	45	2020-07-04
+"Zamora Chinchipe"	"Yantzaza"	220	2020-07-04
+"Zamora Chinchipe"	"Zamora"	195	2020-07-04
+"Zamora Chinchipe"	"Centinela del Cóndor"	40	2020-07-05
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-05
+"Zamora Chinchipe"	"El Pangui"	75	2020-07-05
+"Zamora Chinchipe"	"Nangaritza"	16	2020-07-05
+"Zamora Chinchipe"	"Palanda"	2	2020-07-05
+"Zamora Chinchipe"	"Paquisha"	15	2020-07-05
+"Zamora Chinchipe"	"Yacuambi"	45	2020-07-05
+"Zamora Chinchipe"	"Yantzaza"	223	2020-07-05
+"Zamora Chinchipe"	"Zamora"	199	2020-07-05
+"Zamora Chinchipe"	"Centinela del Cóndor"	41	2020-07-06
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-06
+"Zamora Chinchipe"	"El Pangui"	75	2020-07-06
+"Zamora Chinchipe"	"Nangaritza"	16	2020-07-06
+"Zamora Chinchipe"	"Palanda"	2	2020-07-06
+"Zamora Chinchipe"	"Paquisha"	18	2020-07-06
+"Zamora Chinchipe"	"Yacuambi"	53	2020-07-06
+"Zamora Chinchipe"	"Yantzaza"	226	2020-07-06
+"Zamora Chinchipe"	"Zamora"	206	2020-07-06
+"Zamora Chinchipe"	"Centinela del Cóndor"	41	2020-07-07
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-07
+"Zamora Chinchipe"	"El Pangui"	75	2020-07-07
+"Zamora Chinchipe"	"Nangaritza"	16	2020-07-07
+"Zamora Chinchipe"	"Palanda"	2	2020-07-07
+"Zamora Chinchipe"	"Paquisha"	19	2020-07-07
+"Zamora Chinchipe"	"Yacuambi"	53	2020-07-07
+"Zamora Chinchipe"	"Yantzaza"	229	2020-07-07
+"Zamora Chinchipe"	"Zamora"	207	2020-07-07
+"Zamora Chinchipe"	"Centinela del Cóndor"	41	2020-07-08
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-08
+"Zamora Chinchipe"	"El Pangui"	75	2020-07-08
+"Zamora Chinchipe"	"Nangaritza"	16	2020-07-08
+"Zamora Chinchipe"	"Palanda"	2	2020-07-08
+"Zamora Chinchipe"	"Paquisha"	19	2020-07-08
+"Zamora Chinchipe"	"Yacuambi"	54	2020-07-08
+"Zamora Chinchipe"	"Yantzaza"	229	2020-07-08
+"Zamora Chinchipe"	"Zamora"	207	2020-07-08
+"Zamora Chinchipe"	"Centinela del Cóndor"	42	2020-07-09
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-09
+"Zamora Chinchipe"	"El Pangui"	81	2020-07-09
+"Zamora Chinchipe"	"Nangaritza"	18	2020-07-09
+"Zamora Chinchipe"	"Palanda"	2	2020-07-09
+"Zamora Chinchipe"	"Paquisha"	21	2020-07-09
+"Zamora Chinchipe"	"Yacuambi"	61	2020-07-09
+"Zamora Chinchipe"	"Yantzaza"	235	2020-07-09
+"Zamora Chinchipe"	"Zamora"	215	2020-07-09
+"Zamora Chinchipe"	"Centinela del Cóndor"	43	2020-07-10
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-10
+"Zamora Chinchipe"	"El Pangui"	83	2020-07-10
+"Zamora Chinchipe"	"Nangaritza"	18	2020-07-10
+"Zamora Chinchipe"	"Palanda"	2	2020-07-10
+"Zamora Chinchipe"	"Paquisha"	21	2020-07-10
+"Zamora Chinchipe"	"Yacuambi"	61	2020-07-10
+"Zamora Chinchipe"	"Yantzaza"	245	2020-07-10
+"Zamora Chinchipe"	"Zamora"	220	2020-07-10
+"Zamora Chinchipe"	"Centinela del Cóndor"	44	2020-07-11
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-11
+"Zamora Chinchipe"	"El Pangui"	85	2020-07-11
+"Zamora Chinchipe"	"Nangaritza"	18	2020-07-11
+"Zamora Chinchipe"	"Palanda"	9	2020-07-11
+"Zamora Chinchipe"	"Paquisha"	23	2020-07-11
+"Zamora Chinchipe"	"Yacuambi"	61	2020-07-11
+"Zamora Chinchipe"	"Yantzaza"	255	2020-07-11
+"Zamora Chinchipe"	"Zamora"	221	2020-07-11
+"Zamora Chinchipe"	"Centinela del Cóndor"	44	2020-07-12
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-12
+"Zamora Chinchipe"	"El Pangui"	86	2020-07-12
+"Zamora Chinchipe"	"Nangaritza"	18	2020-07-12
+"Zamora Chinchipe"	"Palanda"	9	2020-07-12
+"Zamora Chinchipe"	"Paquisha"	23	2020-07-12
+"Zamora Chinchipe"	"Yacuambi"	63	2020-07-12
+"Zamora Chinchipe"	"Yantzaza"	255	2020-07-12
+"Zamora Chinchipe"	"Zamora"	222	2020-07-12
+"Zamora Chinchipe"	"Centinela del Cóndor"	52	2020-07-13
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-13
+"Zamora Chinchipe"	"El Pangui"	90	2020-07-13
+"Zamora Chinchipe"	"Nangaritza"	18	2020-07-13
+"Zamora Chinchipe"	"Palanda"	9	2020-07-13
+"Zamora Chinchipe"	"Paquisha"	25	2020-07-13
+"Zamora Chinchipe"	"Yacuambi"	63	2020-07-13
+"Zamora Chinchipe"	"Yantzaza"	260	2020-07-13
+"Zamora Chinchipe"	"Zamora"	230	2020-07-13
+"Zamora Chinchipe"	"Centinela del Cóndor"	55	2020-07-14
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-14
+"Zamora Chinchipe"	"El Pangui"	93	2020-07-14
+"Zamora Chinchipe"	"Nangaritza"	18	2020-07-14
+"Zamora Chinchipe"	"Palanda"	9	2020-07-14
+"Zamora Chinchipe"	"Paquisha"	28	2020-07-14
+"Zamora Chinchipe"	"Yacuambi"	63	2020-07-14
+"Zamora Chinchipe"	"Yantzaza"	263	2020-07-14
+"Zamora Chinchipe"	"Zamora"	242	2020-07-14
+"Zamora Chinchipe"	"Centinela del Cóndor"	55	2020-07-15
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-15
+"Zamora Chinchipe"	"El Pangui"	93	2020-07-15
+"Zamora Chinchipe"	"Nangaritza"	18	2020-07-15
+"Zamora Chinchipe"	"Palanda"	9	2020-07-15
+"Zamora Chinchipe"	"Paquisha"	28	2020-07-15
+"Zamora Chinchipe"	"Yacuambi"	63	2020-07-15
+"Zamora Chinchipe"	"Yantzaza"	265	2020-07-15
+"Zamora Chinchipe"	"Zamora"	244	2020-07-15
+"Zamora Chinchipe"	"Centinela del Cóndor"	56	2020-07-16
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-16
+"Zamora Chinchipe"	"El Pangui"	93	2020-07-16
+"Zamora Chinchipe"	"Nangaritza"	19	2020-07-16
+"Zamora Chinchipe"	"Palanda"	9	2020-07-16
+"Zamora Chinchipe"	"Paquisha"	28	2020-07-16
+"Zamora Chinchipe"	"Yacuambi"	63	2020-07-16
+"Zamora Chinchipe"	"Yantzaza"	265	2020-07-16
+"Zamora Chinchipe"	"Zamora"	247	2020-07-16
+"Zamora Chinchipe"	"Centinela del Cóndor"	58	2020-07-17
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-17
+"Zamora Chinchipe"	"El Pangui"	93	2020-07-17
+"Zamora Chinchipe"	"Nangaritza"	19	2020-07-17
+"Zamora Chinchipe"	"Palanda"	9	2020-07-17
+"Zamora Chinchipe"	"Paquisha"	28	2020-07-17
+"Zamora Chinchipe"	"Yacuambi"	63	2020-07-17
+"Zamora Chinchipe"	"Yantzaza"	265	2020-07-17
+"Zamora Chinchipe"	"Zamora"	247	2020-07-17
+"Zamora Chinchipe"	"Centinela del Cóndor"	58	2020-07-18
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-18
+"Zamora Chinchipe"	"El Pangui"	93	2020-07-18
+"Zamora Chinchipe"	"Nangaritza"	19	2020-07-18
+"Zamora Chinchipe"	"Palanda"	9	2020-07-18
+"Zamora Chinchipe"	"Paquisha"	28	2020-07-18
+"Zamora Chinchipe"	"Yacuambi"	63	2020-07-18
+"Zamora Chinchipe"	"Yantzaza"	265	2020-07-18
+"Zamora Chinchipe"	"Zamora"	248	2020-07-18
+"Zamora Chinchipe"	"Centinela del Cóndor"	58	2020-07-19
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-19
+"Zamora Chinchipe"	"El Pangui"	94	2020-07-19
+"Zamora Chinchipe"	"Nangaritza"	19	2020-07-19
+"Zamora Chinchipe"	"Palanda"	9	2020-07-19
+"Zamora Chinchipe"	"Paquisha"	28	2020-07-19
+"Zamora Chinchipe"	"Yacuambi"	63	2020-07-19
+"Zamora Chinchipe"	"Yantzaza"	267	2020-07-19
+"Zamora Chinchipe"	"Zamora"	254	2020-07-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	59	2020-07-20
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-20
+"Zamora Chinchipe"	"El Pangui"	94	2020-07-20
+"Zamora Chinchipe"	"Nangaritza"	21	2020-07-20
+"Zamora Chinchipe"	"Palanda"	9	2020-07-20
+"Zamora Chinchipe"	"Paquisha"	29	2020-07-20
+"Zamora Chinchipe"	"Yacuambi"	65	2020-07-20
+"Zamora Chinchipe"	"Yantzaza"	270	2020-07-20
+"Zamora Chinchipe"	"Zamora"	265	2020-07-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	59	2020-07-21
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-21
+"Zamora Chinchipe"	"El Pangui"	94	2020-07-21
+"Zamora Chinchipe"	"Nangaritza"	21	2020-07-21
+"Zamora Chinchipe"	"Palanda"	9	2020-07-21
+"Zamora Chinchipe"	"Paquisha"	30	2020-07-21
+"Zamora Chinchipe"	"Yacuambi"	65	2020-07-21
+"Zamora Chinchipe"	"Yantzaza"	271	2020-07-21
+"Zamora Chinchipe"	"Zamora"	267	2020-07-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	64	2020-07-22
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-22
+"Zamora Chinchipe"	"El Pangui"	96	2020-07-22
+"Zamora Chinchipe"	"Nangaritza"	22	2020-07-22
+"Zamora Chinchipe"	"Palanda"	9	2020-07-22
+"Zamora Chinchipe"	"Paquisha"	33	2020-07-22
+"Zamora Chinchipe"	"Yacuambi"	66	2020-07-22
+"Zamora Chinchipe"	"Yantzaza"	272	2020-07-22
+"Zamora Chinchipe"	"Zamora"	274	2020-07-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	64	2020-07-23
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-23
+"Zamora Chinchipe"	"El Pangui"	97	2020-07-23
+"Zamora Chinchipe"	"Nangaritza"	22	2020-07-23
+"Zamora Chinchipe"	"Palanda"	9	2020-07-23
+"Zamora Chinchipe"	"Paquisha"	34	2020-07-23
+"Zamora Chinchipe"	"Yacuambi"	68	2020-07-23
+"Zamora Chinchipe"	"Yantzaza"	279	2020-07-23
+"Zamora Chinchipe"	"Zamora"	286	2020-07-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	64	2020-07-24
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-24
+"Zamora Chinchipe"	"El Pangui"	99	2020-07-24
+"Zamora Chinchipe"	"Nangaritza"	23	2020-07-24
+"Zamora Chinchipe"	"Palanda"	9	2020-07-24
+"Zamora Chinchipe"	"Paquisha"	36	2020-07-24
+"Zamora Chinchipe"	"Yacuambi"	68	2020-07-24
+"Zamora Chinchipe"	"Yantzaza"	283	2020-07-24
+"Zamora Chinchipe"	"Zamora"	291	2020-07-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	65	2020-07-25
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-25
+"Zamora Chinchipe"	"El Pangui"	99	2020-07-25
+"Zamora Chinchipe"	"Nangaritza"	23	2020-07-25
+"Zamora Chinchipe"	"Palanda"	9	2020-07-25
+"Zamora Chinchipe"	"Paquisha"	36	2020-07-25
+"Zamora Chinchipe"	"Yacuambi"	72	2020-07-25
+"Zamora Chinchipe"	"Yantzaza"	286	2020-07-25
+"Zamora Chinchipe"	"Zamora"	292	2020-07-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	65	2020-07-26
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-26
+"Zamora Chinchipe"	"El Pangui"	99	2020-07-26
+"Zamora Chinchipe"	"Nangaritza"	23	2020-07-26
+"Zamora Chinchipe"	"Palanda"	9	2020-07-26
+"Zamora Chinchipe"	"Paquisha"	36	2020-07-26
+"Zamora Chinchipe"	"Yacuambi"	73	2020-07-26
+"Zamora Chinchipe"	"Yantzaza"	294	2020-07-26
+"Zamora Chinchipe"	"Zamora"	296	2020-07-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	65	2020-07-27
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-27
+"Zamora Chinchipe"	"El Pangui"	99	2020-07-27
+"Zamora Chinchipe"	"Nangaritza"	23	2020-07-27
+"Zamora Chinchipe"	"Palanda"	9	2020-07-27
+"Zamora Chinchipe"	"Paquisha"	36	2020-07-27
+"Zamora Chinchipe"	"Yacuambi"	73	2020-07-27
+"Zamora Chinchipe"	"Yantzaza"	294	2020-07-27
+"Zamora Chinchipe"	"Zamora"	297	2020-07-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	67	2020-07-28
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-28
+"Zamora Chinchipe"	"El Pangui"	100	2020-07-28
+"Zamora Chinchipe"	"Nangaritza"	23	2020-07-28
+"Zamora Chinchipe"	"Palanda"	9	2020-07-28
+"Zamora Chinchipe"	"Paquisha"	36	2020-07-28
+"Zamora Chinchipe"	"Yacuambi"	73	2020-07-28
+"Zamora Chinchipe"	"Yantzaza"	294	2020-07-28
+"Zamora Chinchipe"	"Zamora"	303	2020-07-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	67	2020-07-29
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-29
+"Zamora Chinchipe"	"El Pangui"	100	2020-07-29
+"Zamora Chinchipe"	"Nangaritza"	23	2020-07-29
+"Zamora Chinchipe"	"Palanda"	9	2020-07-29
+"Zamora Chinchipe"	"Paquisha"	37	2020-07-29
+"Zamora Chinchipe"	"Yacuambi"	73	2020-07-29
+"Zamora Chinchipe"	"Yantzaza"	297	2020-07-29
+"Zamora Chinchipe"	"Zamora"	306	2020-07-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	70	2020-07-30
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-30
+"Zamora Chinchipe"	"El Pangui"	101	2020-07-30
+"Zamora Chinchipe"	"Nangaritza"	25	2020-07-30
+"Zamora Chinchipe"	"Palanda"	9	2020-07-30
+"Zamora Chinchipe"	"Paquisha"	39	2020-07-30
+"Zamora Chinchipe"	"Yacuambi"	73	2020-07-30
+"Zamora Chinchipe"	"Yantzaza"	305	2020-07-30
+"Zamora Chinchipe"	"Zamora"	318	2020-07-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	70	2020-07-31
+"Zamora Chinchipe"	"Chinchipe"	0	2020-07-31
+"Zamora Chinchipe"	"El Pangui"	102	2020-07-31
+"Zamora Chinchipe"	"Nangaritza"	26	2020-07-31
+"Zamora Chinchipe"	"Palanda"	9	2020-07-31
+"Zamora Chinchipe"	"Paquisha"	39	2020-07-31
+"Zamora Chinchipe"	"Yacuambi"	73	2020-07-31
+"Zamora Chinchipe"	"Yantzaza"	306	2020-07-31
+"Zamora Chinchipe"	"Zamora"	320	2020-07-31
+"Zamora Chinchipe"	"Centinela del Cóndor"	74	2020-08-01
+"Zamora Chinchipe"	"Chinchipe"	0	2020-08-01
+"Zamora Chinchipe"	"El Pangui"	104	2020-08-01
+"Zamora Chinchipe"	"Nangaritza"	26	2020-08-01
+"Zamora Chinchipe"	"Palanda"	9	2020-08-01
+"Zamora Chinchipe"	"Paquisha"	39	2020-08-01
+"Zamora Chinchipe"	"Yacuambi"	73	2020-08-01
+"Zamora Chinchipe"	"Yantzaza"	312	2020-08-01
+"Zamora Chinchipe"	"Zamora"	341	2020-08-01
+"Zamora Chinchipe"	"Centinela del Cóndor"	74	2020-08-02
+"Zamora Chinchipe"	"Chinchipe"	0	2020-08-02
+"Zamora Chinchipe"	"El Pangui"	104	2020-08-02
+"Zamora Chinchipe"	"Nangaritza"	27	2020-08-02
+"Zamora Chinchipe"	"Palanda"	9	2020-08-02
+"Zamora Chinchipe"	"Paquisha"	40	2020-08-02
+"Zamora Chinchipe"	"Yacuambi"	73	2020-08-02
+"Zamora Chinchipe"	"Yantzaza"	314	2020-08-02
+"Zamora Chinchipe"	"Zamora"	349	2020-08-02
+"Zamora Chinchipe"	"Centinela del Cóndor"	74	2020-08-03
+"Zamora Chinchipe"	"Chinchipe"	0	2020-08-03
+"Zamora Chinchipe"	"El Pangui"	104	2020-08-03
+"Zamora Chinchipe"	"Nangaritza"	27	2020-08-03
+"Zamora Chinchipe"	"Palanda"	9	2020-08-03
+"Zamora Chinchipe"	"Paquisha"	40	2020-08-03
+"Zamora Chinchipe"	"Yacuambi"	73	2020-08-03
+"Zamora Chinchipe"	"Yantzaza"	314	2020-08-03
+"Zamora Chinchipe"	"Zamora"	349	2020-08-03
+"Zamora Chinchipe"	"Centinela del Cóndor"	79	2020-08-04
+"Zamora Chinchipe"	"Chinchipe"	1	2020-08-04
+"Zamora Chinchipe"	"El Pangui"	104	2020-08-04
+"Zamora Chinchipe"	"Nangaritza"	27	2020-08-04
+"Zamora Chinchipe"	"Palanda"	9	2020-08-04
+"Zamora Chinchipe"	"Paquisha"	40	2020-08-04
+"Zamora Chinchipe"	"Yacuambi"	73	2020-08-04
+"Zamora Chinchipe"	"Yantzaza"	317	2020-08-04
+"Zamora Chinchipe"	"Zamora"	355	2020-08-04
+"Zamora Chinchipe"	"Centinela del Cóndor"	79	2020-08-05
+"Zamora Chinchipe"	"Chinchipe"	1	2020-08-05
+"Zamora Chinchipe"	"El Pangui"	104	2020-08-05
+"Zamora Chinchipe"	"Nangaritza"	27	2020-08-05
+"Zamora Chinchipe"	"Palanda"	9	2020-08-05
+"Zamora Chinchipe"	"Paquisha"	40	2020-08-05
+"Zamora Chinchipe"	"Yacuambi"	73	2020-08-05
+"Zamora Chinchipe"	"Yantzaza"	317	2020-08-05
+"Zamora Chinchipe"	"Zamora"	355	2020-08-05
+"Zamora Chinchipe"	"Centinela del Cóndor"	80	2020-08-06
+"Zamora Chinchipe"	"Chinchipe"	2	2020-08-06
+"Zamora Chinchipe"	"El Pangui"	104	2020-08-06
+"Zamora Chinchipe"	"Nangaritza"	27	2020-08-06
+"Zamora Chinchipe"	"Palanda"	9	2020-08-06
+"Zamora Chinchipe"	"Paquisha"	40	2020-08-06
+"Zamora Chinchipe"	"Yacuambi"	73	2020-08-06
+"Zamora Chinchipe"	"Yantzaza"	317	2020-08-06
+"Zamora Chinchipe"	"Zamora"	362	2020-08-06
+"Zamora Chinchipe"	"Centinela del Cóndor"	80	2020-08-07
+"Zamora Chinchipe"	"Chinchipe"	2	2020-08-07
+"Zamora Chinchipe"	"El Pangui"	104	2020-08-07
+"Zamora Chinchipe"	"Nangaritza"	27	2020-08-07
+"Zamora Chinchipe"	"Palanda"	9	2020-08-07
+"Zamora Chinchipe"	"Paquisha"	41	2020-08-07
+"Zamora Chinchipe"	"Yacuambi"	73	2020-08-07
+"Zamora Chinchipe"	"Yantzaza"	317	2020-08-07
+"Zamora Chinchipe"	"Zamora"	363	2020-08-07
+"Zamora Chinchipe"	"Centinela del Cóndor"	84	2020-08-08
+"Zamora Chinchipe"	"Chinchipe"	2	2020-08-08
+"Zamora Chinchipe"	"El Pangui"	106	2020-08-08
+"Zamora Chinchipe"	"Nangaritza"	30	2020-08-08
+"Zamora Chinchipe"	"Palanda"	9	2020-08-08
+"Zamora Chinchipe"	"Paquisha"	47	2020-08-08
+"Zamora Chinchipe"	"Yacuambi"	73	2020-08-08
+"Zamora Chinchipe"	"Yantzaza"	318	2020-08-08
+"Zamora Chinchipe"	"Zamora"	370	2020-08-08
+"Zamora Chinchipe"	"Centinela del Cóndor"	84	2020-08-09
+"Zamora Chinchipe"	"Chinchipe"	3	2020-08-09
+"Zamora Chinchipe"	"El Pangui"	106	2020-08-09
+"Zamora Chinchipe"	"Nangaritza"	30	2020-08-09
+"Zamora Chinchipe"	"Palanda"	9	2020-08-09
+"Zamora Chinchipe"	"Paquisha"	47	2020-08-09
+"Zamora Chinchipe"	"Yacuambi"	74	2020-08-09
+"Zamora Chinchipe"	"Yantzaza"	318	2020-08-09
+"Zamora Chinchipe"	"Zamora"	376	2020-08-09
+"Zamora Chinchipe"	"Centinela del Cóndor"	84	2020-08-10
+"Zamora Chinchipe"	"Chinchipe"	3	2020-08-10
+"Zamora Chinchipe"	"El Pangui"	106	2020-08-10
+"Zamora Chinchipe"	"Nangaritza"	30	2020-08-10
+"Zamora Chinchipe"	"Palanda"	9	2020-08-10
+"Zamora Chinchipe"	"Paquisha"	47	2020-08-10
+"Zamora Chinchipe"	"Yacuambi"	74	2020-08-10
+"Zamora Chinchipe"	"Yantzaza"	318	2020-08-10
+"Zamora Chinchipe"	"Zamora"	376	2020-08-10
+"Zamora Chinchipe"	"Centinela del Cóndor"	84	2020-08-11
+"Zamora Chinchipe"	"Chinchipe"	3	2020-08-11
+"Zamora Chinchipe"	"El Pangui"	106	2020-08-11
+"Zamora Chinchipe"	"Nangaritza"	30	2020-08-11
+"Zamora Chinchipe"	"Palanda"	9	2020-08-11
+"Zamora Chinchipe"	"Paquisha"	47	2020-08-11
+"Zamora Chinchipe"	"Yacuambi"	74	2020-08-11
+"Zamora Chinchipe"	"Yantzaza"	318	2020-08-11
+"Zamora Chinchipe"	"Zamora"	376	2020-08-11
+"Zamora Chinchipe"	"Centinela del Cóndor"	84	2020-08-12
+"Zamora Chinchipe"	"Chinchipe"	3	2020-08-12
+"Zamora Chinchipe"	"El Pangui"	106	2020-08-12
+"Zamora Chinchipe"	"Nangaritza"	31	2020-08-12
+"Zamora Chinchipe"	"Palanda"	9	2020-08-12
+"Zamora Chinchipe"	"Paquisha"	47	2020-08-12
+"Zamora Chinchipe"	"Yacuambi"	74	2020-08-12
+"Zamora Chinchipe"	"Yantzaza"	329	2020-08-12
+"Zamora Chinchipe"	"Zamora"	387	2020-08-12
+"Zamora Chinchipe"	"Centinela del Cóndor"	84	2020-08-13
+"Zamora Chinchipe"	"Chinchipe"	3	2020-08-13
+"Zamora Chinchipe"	"El Pangui"	106	2020-08-13
+"Zamora Chinchipe"	"Nangaritza"	31	2020-08-13
+"Zamora Chinchipe"	"Palanda"	9	2020-08-13
+"Zamora Chinchipe"	"Paquisha"	47	2020-08-13
+"Zamora Chinchipe"	"Yacuambi"	74	2020-08-13
+"Zamora Chinchipe"	"Yantzaza"	330	2020-08-13
+"Zamora Chinchipe"	"Zamora"	396	2020-08-13
+"Zamora Chinchipe"	"Centinela del Cóndor"	84	2020-08-14
+"Zamora Chinchipe"	"Chinchipe"	3	2020-08-14
+"Zamora Chinchipe"	"El Pangui"	106	2020-08-14
+"Zamora Chinchipe"	"Nangaritza"	31	2020-08-14
+"Zamora Chinchipe"	"Palanda"	10	2020-08-14
+"Zamora Chinchipe"	"Paquisha"	47	2020-08-14
+"Zamora Chinchipe"	"Yacuambi"	74	2020-08-14
+"Zamora Chinchipe"	"Yantzaza"	330	2020-08-14
+"Zamora Chinchipe"	"Zamora"	397	2020-08-14
+"Zamora Chinchipe"	"Centinela del Cóndor"	84	2020-08-15
+"Zamora Chinchipe"	"Chinchipe"	3	2020-08-15
+"Zamora Chinchipe"	"El Pangui"	106	2020-08-15
+"Zamora Chinchipe"	"Nangaritza"	31	2020-08-15
+"Zamora Chinchipe"	"Palanda"	10	2020-08-15
+"Zamora Chinchipe"	"Paquisha"	47	2020-08-15
+"Zamora Chinchipe"	"Yacuambi"	74	2020-08-15
+"Zamora Chinchipe"	"Yantzaza"	331	2020-08-15
+"Zamora Chinchipe"	"Zamora"	397	2020-08-15
+"Zamora Chinchipe"	"Centinela del Cóndor"	84	2020-08-16
+"Zamora Chinchipe"	"Chinchipe"	3	2020-08-16
+"Zamora Chinchipe"	"El Pangui"	106	2020-08-16
+"Zamora Chinchipe"	"Nangaritza"	31	2020-08-16
+"Zamora Chinchipe"	"Palanda"	10	2020-08-16
+"Zamora Chinchipe"	"Paquisha"	47	2020-08-16
+"Zamora Chinchipe"	"Yacuambi"	74	2020-08-16
+"Zamora Chinchipe"	"Yantzaza"	331	2020-08-16
+"Zamora Chinchipe"	"Zamora"	398	2020-08-16
+"Zamora Chinchipe"	"Centinela del Cóndor"	84	2020-08-17
+"Zamora Chinchipe"	"Chinchipe"	3	2020-08-17
+"Zamora Chinchipe"	"El Pangui"	106	2020-08-17
+"Zamora Chinchipe"	"Nangaritza"	31	2020-08-17
+"Zamora Chinchipe"	"Palanda"	10	2020-08-17
+"Zamora Chinchipe"	"Paquisha"	47	2020-08-17
+"Zamora Chinchipe"	"Yacuambi"	74	2020-08-17
+"Zamora Chinchipe"	"Yantzaza"	331	2020-08-17
+"Zamora Chinchipe"	"Zamora"	399	2020-08-17
+"Zamora Chinchipe"	"Centinela del Cóndor"	87	2020-08-18
+"Zamora Chinchipe"	"Chinchipe"	5	2020-08-18
+"Zamora Chinchipe"	"El Pangui"	108	2020-08-18
+"Zamora Chinchipe"	"Nangaritza"	32	2020-08-18
+"Zamora Chinchipe"	"Palanda"	10	2020-08-18
+"Zamora Chinchipe"	"Paquisha"	49	2020-08-18
+"Zamora Chinchipe"	"Yacuambi"	74	2020-08-18
+"Zamora Chinchipe"	"Yantzaza"	333	2020-08-18
+"Zamora Chinchipe"	"Zamora"	416	2020-08-18
+"Zamora Chinchipe"	"Centinela del Cóndor"	87	2020-08-19
+"Zamora Chinchipe"	"Chinchipe"	5	2020-08-19
+"Zamora Chinchipe"	"El Pangui"	108	2020-08-19
+"Zamora Chinchipe"	"Nangaritza"	32	2020-08-19
+"Zamora Chinchipe"	"Palanda"	10	2020-08-19
+"Zamora Chinchipe"	"Paquisha"	49	2020-08-19
+"Zamora Chinchipe"	"Yacuambi"	78	2020-08-19
+"Zamora Chinchipe"	"Yantzaza"	339	2020-08-19
+"Zamora Chinchipe"	"Zamora"	417	2020-08-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	87	2020-08-20
+"Zamora Chinchipe"	"Chinchipe"	5	2020-08-20
+"Zamora Chinchipe"	"El Pangui"	110	2020-08-20
+"Zamora Chinchipe"	"Nangaritza"	32	2020-08-20
+"Zamora Chinchipe"	"Palanda"	10	2020-08-20
+"Zamora Chinchipe"	"Paquisha"	49	2020-08-20
+"Zamora Chinchipe"	"Yacuambi"	78	2020-08-20
+"Zamora Chinchipe"	"Yantzaza"	339	2020-08-20
+"Zamora Chinchipe"	"Zamora"	417	2020-08-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	93	2020-08-21
+"Zamora Chinchipe"	"Chinchipe"	5	2020-08-21
+"Zamora Chinchipe"	"El Pangui"	111	2020-08-21
+"Zamora Chinchipe"	"Nangaritza"	36	2020-08-21
+"Zamora Chinchipe"	"Palanda"	10	2020-08-21
+"Zamora Chinchipe"	"Paquisha"	54	2020-08-21
+"Zamora Chinchipe"	"Yacuambi"	81	2020-08-21
+"Zamora Chinchipe"	"Yantzaza"	341	2020-08-21
+"Zamora Chinchipe"	"Zamora"	424	2020-08-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	93	2020-08-22
+"Zamora Chinchipe"	"Chinchipe"	5	2020-08-22
+"Zamora Chinchipe"	"El Pangui"	112	2020-08-22
+"Zamora Chinchipe"	"Nangaritza"	36	2020-08-22
+"Zamora Chinchipe"	"Palanda"	10	2020-08-22
+"Zamora Chinchipe"	"Paquisha"	54	2020-08-22
+"Zamora Chinchipe"	"Yacuambi"	81	2020-08-22
+"Zamora Chinchipe"	"Yantzaza"	349	2020-08-22
+"Zamora Chinchipe"	"Zamora"	424	2020-08-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	93	2020-08-23
+"Zamora Chinchipe"	"Chinchipe"	5	2020-08-23
+"Zamora Chinchipe"	"El Pangui"	112	2020-08-23
+"Zamora Chinchipe"	"Nangaritza"	36	2020-08-23
+"Zamora Chinchipe"	"Palanda"	10	2020-08-23
+"Zamora Chinchipe"	"Paquisha"	54	2020-08-23
+"Zamora Chinchipe"	"Yacuambi"	81	2020-08-23
+"Zamora Chinchipe"	"Yantzaza"	351	2020-08-23
+"Zamora Chinchipe"	"Zamora"	424	2020-08-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	93	2020-08-24
+"Zamora Chinchipe"	"Chinchipe"	5	2020-08-24
+"Zamora Chinchipe"	"El Pangui"	112	2020-08-24
+"Zamora Chinchipe"	"Nangaritza"	36	2020-08-24
+"Zamora Chinchipe"	"Palanda"	10	2020-08-24
+"Zamora Chinchipe"	"Paquisha"	54	2020-08-24
+"Zamora Chinchipe"	"Yacuambi"	81	2020-08-24
+"Zamora Chinchipe"	"Yantzaza"	351	2020-08-24
+"Zamora Chinchipe"	"Zamora"	424	2020-08-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	93	2020-08-25
+"Zamora Chinchipe"	"Chinchipe"	5	2020-08-25
+"Zamora Chinchipe"	"El Pangui"	112	2020-08-25
+"Zamora Chinchipe"	"Nangaritza"	36	2020-08-25
+"Zamora Chinchipe"	"Palanda"	10	2020-08-25
+"Zamora Chinchipe"	"Paquisha"	54	2020-08-25
+"Zamora Chinchipe"	"Yacuambi"	81	2020-08-25
+"Zamora Chinchipe"	"Yantzaza"	351	2020-08-25
+"Zamora Chinchipe"	"Zamora"	427	2020-08-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	93	2020-08-26
+"Zamora Chinchipe"	"Chinchipe"	5	2020-08-26
+"Zamora Chinchipe"	"El Pangui"	112	2020-08-26
+"Zamora Chinchipe"	"Nangaritza"	36	2020-08-26
+"Zamora Chinchipe"	"Palanda"	10	2020-08-26
+"Zamora Chinchipe"	"Paquisha"	54	2020-08-26
+"Zamora Chinchipe"	"Yacuambi"	81	2020-08-26
+"Zamora Chinchipe"	"Yantzaza"	351	2020-08-26
+"Zamora Chinchipe"	"Zamora"	428	2020-08-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	93	2020-08-27
+"Zamora Chinchipe"	"Chinchipe"	5	2020-08-27
+"Zamora Chinchipe"	"El Pangui"	112	2020-08-27
+"Zamora Chinchipe"	"Nangaritza"	36	2020-08-27
+"Zamora Chinchipe"	"Palanda"	10	2020-08-27
+"Zamora Chinchipe"	"Paquisha"	54	2020-08-27
+"Zamora Chinchipe"	"Yacuambi"	81	2020-08-27
+"Zamora Chinchipe"	"Yantzaza"	351	2020-08-27
+"Zamora Chinchipe"	"Zamora"	428	2020-08-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	95	2020-08-28
+"Zamora Chinchipe"	"Chinchipe"	12	2020-08-28
+"Zamora Chinchipe"	"El Pangui"	113	2020-08-28
+"Zamora Chinchipe"	"Nangaritza"	36	2020-08-28
+"Zamora Chinchipe"	"Palanda"	11	2020-08-28
+"Zamora Chinchipe"	"Paquisha"	55	2020-08-28
+"Zamora Chinchipe"	"Yacuambi"	81	2020-08-28
+"Zamora Chinchipe"	"Yantzaza"	358	2020-08-28
+"Zamora Chinchipe"	"Zamora"	443	2020-08-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	95	2020-08-29
+"Zamora Chinchipe"	"Chinchipe"	17	2020-08-29
+"Zamora Chinchipe"	"El Pangui"	113	2020-08-29
+"Zamora Chinchipe"	"Nangaritza"	37	2020-08-29
+"Zamora Chinchipe"	"Palanda"	11	2020-08-29
+"Zamora Chinchipe"	"Paquisha"	55	2020-08-29
+"Zamora Chinchipe"	"Yacuambi"	83	2020-08-29
+"Zamora Chinchipe"	"Yantzaza"	363	2020-08-29
+"Zamora Chinchipe"	"Zamora"	458	2020-08-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	95	2020-08-30
+"Zamora Chinchipe"	"Chinchipe"	17	2020-08-30
+"Zamora Chinchipe"	"El Pangui"	113	2020-08-30
+"Zamora Chinchipe"	"Nangaritza"	37	2020-08-30
+"Zamora Chinchipe"	"Palanda"	11	2020-08-30
+"Zamora Chinchipe"	"Paquisha"	55	2020-08-30
+"Zamora Chinchipe"	"Yacuambi"	83	2020-08-30
+"Zamora Chinchipe"	"Yantzaza"	363	2020-08-30
+"Zamora Chinchipe"	"Zamora"	458	2020-08-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	95	2020-08-31
+"Zamora Chinchipe"	"Chinchipe"	17	2020-08-31
+"Zamora Chinchipe"	"El Pangui"	113	2020-08-31
+"Zamora Chinchipe"	"Nangaritza"	37	2020-08-31
+"Zamora Chinchipe"	"Palanda"	11	2020-08-31
+"Zamora Chinchipe"	"Paquisha"	55	2020-08-31
+"Zamora Chinchipe"	"Yacuambi"	83	2020-08-31
+"Zamora Chinchipe"	"Yantzaza"	363	2020-08-31
+"Zamora Chinchipe"	"Zamora"	458	2020-08-31
+"Zamora Chinchipe"	"Centinela del Cóndor"	95	2020-09-01
+"Zamora Chinchipe"	"Chinchipe"	17	2020-09-01
+"Zamora Chinchipe"	"El Pangui"	113	2020-09-01
+"Zamora Chinchipe"	"Nangaritza"	37	2020-09-01
+"Zamora Chinchipe"	"Palanda"	11	2020-09-01
+"Zamora Chinchipe"	"Paquisha"	55	2020-09-01
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-01
+"Zamora Chinchipe"	"Yantzaza"	365	2020-09-01
+"Zamora Chinchipe"	"Zamora"	458	2020-09-01
+"Zamora Chinchipe"	"Centinela del Cóndor"	106	2020-09-02
+"Zamora Chinchipe"	"Chinchipe"	35	2020-09-02
+"Zamora Chinchipe"	"El Pangui"	116	2020-09-02
+"Zamora Chinchipe"	"Nangaritza"	40	2020-09-02
+"Zamora Chinchipe"	"Palanda"	11	2020-09-02
+"Zamora Chinchipe"	"Paquisha"	59	2020-09-02
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-02
+"Zamora Chinchipe"	"Yantzaza"	367	2020-09-02
+"Zamora Chinchipe"	"Zamora"	471	2020-09-02
+"Zamora Chinchipe"	"Centinela del Cóndor"	108	2020-09-03
+"Zamora Chinchipe"	"Chinchipe"	35	2020-09-03
+"Zamora Chinchipe"	"El Pangui"	125	2020-09-03
+"Zamora Chinchipe"	"Nangaritza"	40	2020-09-03
+"Zamora Chinchipe"	"Palanda"	11	2020-09-03
+"Zamora Chinchipe"	"Paquisha"	59	2020-09-03
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-03
+"Zamora Chinchipe"	"Yantzaza"	374	2020-09-03
+"Zamora Chinchipe"	"Zamora"	475	2020-09-03
+"Zamora Chinchipe"	"Centinela del Cóndor"	112	2020-09-04
+"Zamora Chinchipe"	"Chinchipe"	49	2020-09-04
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-04
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-04
+"Zamora Chinchipe"	"Palanda"	11	2020-09-04
+"Zamora Chinchipe"	"Paquisha"	63	2020-09-04
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-04
+"Zamora Chinchipe"	"Yantzaza"	378	2020-09-04
+"Zamora Chinchipe"	"Zamora"	485	2020-09-04
+"Zamora Chinchipe"	"Centinela del Cóndor"	112	2020-09-05
+"Zamora Chinchipe"	"Chinchipe"	49	2020-09-05
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-05
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-05
+"Zamora Chinchipe"	"Palanda"	11	2020-09-05
+"Zamora Chinchipe"	"Paquisha"	63	2020-09-05
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-05
+"Zamora Chinchipe"	"Yantzaza"	379	2020-09-05
+"Zamora Chinchipe"	"Zamora"	485	2020-09-05
+"Zamora Chinchipe"	"Centinela del Cóndor"	112	2020-09-06
+"Zamora Chinchipe"	"Chinchipe"	49	2020-09-06
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-06
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-06
+"Zamora Chinchipe"	"Palanda"	11	2020-09-06
+"Zamora Chinchipe"	"Paquisha"	63	2020-09-06
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-06
+"Zamora Chinchipe"	"Yantzaza"	379	2020-09-06
+"Zamora Chinchipe"	"Zamora"	485	2020-09-06
+"Zamora Chinchipe"	"Centinela del Cóndor"	112	2020-09-07
+"Zamora Chinchipe"	"Chinchipe"	49	2020-09-07
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-07
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-07
+"Zamora Chinchipe"	"Palanda"	11	2020-09-07
+"Zamora Chinchipe"	"Paquisha"	63	2020-09-07
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-07
+"Zamora Chinchipe"	"Yantzaza"	379	2020-09-07
+"Zamora Chinchipe"	"Zamora"	485	2020-09-07
+"Zamora Chinchipe"	"Centinela del Cóndor"	113	2020-09-08
+"Zamora Chinchipe"	"Chinchipe"	49	2020-09-08
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-08
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-08
+"Zamora Chinchipe"	"Palanda"	11	2020-09-08
+"Zamora Chinchipe"	"Paquisha"	63	2020-09-08
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-08
+"Zamora Chinchipe"	"Yantzaza"	379	2020-09-08
+"Zamora Chinchipe"	"Zamora"	491	2020-09-08
+"Zamora Chinchipe"	"Centinela del Cóndor"	116	2020-09-09
+"Zamora Chinchipe"	"Chinchipe"	71	2020-09-09
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-09
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-09
+"Zamora Chinchipe"	"Palanda"	11	2020-09-09
+"Zamora Chinchipe"	"Paquisha"	64	2020-09-09
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-09
+"Zamora Chinchipe"	"Yantzaza"	380	2020-09-09
+"Zamora Chinchipe"	"Zamora"	496	2020-09-09
+"Zamora Chinchipe"	"Centinela del Cóndor"	116	2020-09-10
+"Zamora Chinchipe"	"Chinchipe"	71	2020-09-10
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-10
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-10
+"Zamora Chinchipe"	"Palanda"	11	2020-09-10
+"Zamora Chinchipe"	"Paquisha"	64	2020-09-10
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-10
+"Zamora Chinchipe"	"Yantzaza"	380	2020-09-10
+"Zamora Chinchipe"	"Zamora"	496	2020-09-10
+"Zamora Chinchipe"	"Centinela del Cóndor"	116	2020-09-11
+"Zamora Chinchipe"	"Chinchipe"	71	2020-09-11
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-11
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-11
+"Zamora Chinchipe"	"Palanda"	11	2020-09-11
+"Zamora Chinchipe"	"Paquisha"	64	2020-09-11
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-11
+"Zamora Chinchipe"	"Yantzaza"	380	2020-09-11
+"Zamora Chinchipe"	"Zamora"	496	2020-09-11
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-12
+"Zamora Chinchipe"	"Chinchipe"	74	2020-09-12
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-12
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-12
+"Zamora Chinchipe"	"Palanda"	11	2020-09-12
+"Zamora Chinchipe"	"Paquisha"	65	2020-09-12
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-12
+"Zamora Chinchipe"	"Yantzaza"	381	2020-09-12
+"Zamora Chinchipe"	"Zamora"	508	2020-09-12
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-13
+"Zamora Chinchipe"	"Chinchipe"	74	2020-09-13
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-13
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-13
+"Zamora Chinchipe"	"Palanda"	11	2020-09-13
+"Zamora Chinchipe"	"Paquisha"	65	2020-09-13
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-13
+"Zamora Chinchipe"	"Yantzaza"	381	2020-09-13
+"Zamora Chinchipe"	"Zamora"	508	2020-09-13
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-14
+"Zamora Chinchipe"	"Chinchipe"	74	2020-09-14
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-14
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-14
+"Zamora Chinchipe"	"Palanda"	11	2020-09-14
+"Zamora Chinchipe"	"Paquisha"	65	2020-09-14
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-14
+"Zamora Chinchipe"	"Yantzaza"	381	2020-09-14
+"Zamora Chinchipe"	"Zamora"	508	2020-09-14
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-15
+"Zamora Chinchipe"	"Chinchipe"	74	2020-09-15
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-15
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-15
+"Zamora Chinchipe"	"Palanda"	11	2020-09-15
+"Zamora Chinchipe"	"Paquisha"	65	2020-09-15
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-15
+"Zamora Chinchipe"	"Yantzaza"	381	2020-09-15
+"Zamora Chinchipe"	"Zamora"	508	2020-09-15
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-16
+"Zamora Chinchipe"	"Chinchipe"	74	2020-09-16
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-16
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-16
+"Zamora Chinchipe"	"Palanda"	11	2020-09-16
+"Zamora Chinchipe"	"Paquisha"	65	2020-09-16
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-16
+"Zamora Chinchipe"	"Yantzaza"	381	2020-09-16
+"Zamora Chinchipe"	"Zamora"	509	2020-09-16
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-17
+"Zamora Chinchipe"	"Chinchipe"	74	2020-09-17
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-17
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-17
+"Zamora Chinchipe"	"Palanda"	11	2020-09-17
+"Zamora Chinchipe"	"Paquisha"	65	2020-09-17
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-17
+"Zamora Chinchipe"	"Yantzaza"	385	2020-09-17
+"Zamora Chinchipe"	"Zamora"	509	2020-09-17
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-18
+"Zamora Chinchipe"	"Chinchipe"	74	2020-09-18
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-18
+"Zamora Chinchipe"	"Nangaritza"	43	2020-09-18
+"Zamora Chinchipe"	"Palanda"	11	2020-09-18
+"Zamora Chinchipe"	"Paquisha"	65	2020-09-18
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-18
+"Zamora Chinchipe"	"Yantzaza"	388	2020-09-18
+"Zamora Chinchipe"	"Zamora"	512	2020-09-18
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-19
+"Zamora Chinchipe"	"Chinchipe"	79	2020-09-19
+"Zamora Chinchipe"	"El Pangui"	127	2020-09-19
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-19
+"Zamora Chinchipe"	"Palanda"	12	2020-09-19
+"Zamora Chinchipe"	"Paquisha"	65	2020-09-19
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-19
+"Zamora Chinchipe"	"Yantzaza"	398	2020-09-19
+"Zamora Chinchipe"	"Zamora"	516	2020-09-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-20
+"Zamora Chinchipe"	"Chinchipe"	79	2020-09-20
+"Zamora Chinchipe"	"El Pangui"	128	2020-09-20
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-20
+"Zamora Chinchipe"	"Palanda"	12	2020-09-20
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-20
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-20
+"Zamora Chinchipe"	"Yantzaza"	398	2020-09-20
+"Zamora Chinchipe"	"Zamora"	516	2020-09-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-21
+"Zamora Chinchipe"	"Chinchipe"	79	2020-09-21
+"Zamora Chinchipe"	"El Pangui"	128	2020-09-21
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-21
+"Zamora Chinchipe"	"Palanda"	12	2020-09-21
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-21
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-21
+"Zamora Chinchipe"	"Yantzaza"	398	2020-09-21
+"Zamora Chinchipe"	"Zamora"	516	2020-09-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-22
+"Zamora Chinchipe"	"Chinchipe"	79	2020-09-22
+"Zamora Chinchipe"	"El Pangui"	128	2020-09-22
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-22
+"Zamora Chinchipe"	"Palanda"	12	2020-09-22
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-22
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-22
+"Zamora Chinchipe"	"Yantzaza"	398	2020-09-22
+"Zamora Chinchipe"	"Zamora"	516	2020-09-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	119	2020-09-23
+"Zamora Chinchipe"	"Chinchipe"	79	2020-09-23
+"Zamora Chinchipe"	"El Pangui"	128	2020-09-23
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-23
+"Zamora Chinchipe"	"Palanda"	12	2020-09-23
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-23
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-23
+"Zamora Chinchipe"	"Yantzaza"	398	2020-09-23
+"Zamora Chinchipe"	"Zamora"	516	2020-09-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	120	2020-09-24
+"Zamora Chinchipe"	"Chinchipe"	79	2020-09-24
+"Zamora Chinchipe"	"El Pangui"	131	2020-09-24
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-24
+"Zamora Chinchipe"	"Palanda"	12	2020-09-24
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-24
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-24
+"Zamora Chinchipe"	"Yantzaza"	403	2020-09-24
+"Zamora Chinchipe"	"Zamora"	516	2020-09-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	120	2020-09-25
+"Zamora Chinchipe"	"Chinchipe"	79	2020-09-25
+"Zamora Chinchipe"	"El Pangui"	131	2020-09-25
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-25
+"Zamora Chinchipe"	"Palanda"	12	2020-09-25
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-25
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-25
+"Zamora Chinchipe"	"Yantzaza"	403	2020-09-25
+"Zamora Chinchipe"	"Zamora"	516	2020-09-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	120	2020-09-26
+"Zamora Chinchipe"	"Chinchipe"	82	2020-09-26
+"Zamora Chinchipe"	"El Pangui"	131	2020-09-26
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-26
+"Zamora Chinchipe"	"Palanda"	12	2020-09-26
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-26
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-26
+"Zamora Chinchipe"	"Yantzaza"	404	2020-09-26
+"Zamora Chinchipe"	"Zamora"	519	2020-09-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-09-27
+"Zamora Chinchipe"	"Chinchipe"	88	2020-09-27
+"Zamora Chinchipe"	"El Pangui"	132	2020-09-27
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-27
+"Zamora Chinchipe"	"Palanda"	12	2020-09-27
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-27
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-27
+"Zamora Chinchipe"	"Yantzaza"	407	2020-09-27
+"Zamora Chinchipe"	"Zamora"	519	2020-09-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-09-28
+"Zamora Chinchipe"	"Chinchipe"	88	2020-09-28
+"Zamora Chinchipe"	"El Pangui"	133	2020-09-28
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-28
+"Zamora Chinchipe"	"Palanda"	12	2020-09-28
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-28
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-28
+"Zamora Chinchipe"	"Yantzaza"	413	2020-09-28
+"Zamora Chinchipe"	"Zamora"	519	2020-09-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-09-29
+"Zamora Chinchipe"	"Chinchipe"	88	2020-09-29
+"Zamora Chinchipe"	"El Pangui"	133	2020-09-29
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-29
+"Zamora Chinchipe"	"Palanda"	12	2020-09-29
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-29
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-29
+"Zamora Chinchipe"	"Yantzaza"	413	2020-09-29
+"Zamora Chinchipe"	"Zamora"	519	2020-09-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-09-30
+"Zamora Chinchipe"	"Chinchipe"	89	2020-09-30
+"Zamora Chinchipe"	"El Pangui"	140	2020-09-30
+"Zamora Chinchipe"	"Nangaritza"	44	2020-09-30
+"Zamora Chinchipe"	"Palanda"	12	2020-09-30
+"Zamora Chinchipe"	"Paquisha"	66	2020-09-30
+"Zamora Chinchipe"	"Yacuambi"	83	2020-09-30
+"Zamora Chinchipe"	"Yantzaza"	413	2020-09-30
+"Zamora Chinchipe"	"Zamora"	520	2020-09-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-10-01
+"Zamora Chinchipe"	"Chinchipe"	91	2020-10-01
+"Zamora Chinchipe"	"El Pangui"	140	2020-10-01
+"Zamora Chinchipe"	"Nangaritza"	45	2020-10-01
+"Zamora Chinchipe"	"Palanda"	13	2020-10-01
+"Zamora Chinchipe"	"Paquisha"	66	2020-10-01
+"Zamora Chinchipe"	"Yacuambi"	83	2020-10-01
+"Zamora Chinchipe"	"Yantzaza"	414	2020-10-01
+"Zamora Chinchipe"	"Zamora"	521	2020-10-01
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-10-02
+"Zamora Chinchipe"	"Chinchipe"	91	2020-10-02
+"Zamora Chinchipe"	"El Pangui"	144	2020-10-02
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-02
+"Zamora Chinchipe"	"Palanda"	13	2020-10-02
+"Zamora Chinchipe"	"Paquisha"	66	2020-10-02
+"Zamora Chinchipe"	"Yacuambi"	83	2020-10-02
+"Zamora Chinchipe"	"Yantzaza"	415	2020-10-02
+"Zamora Chinchipe"	"Zamora"	521	2020-10-02
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-10-03
+"Zamora Chinchipe"	"Chinchipe"	91	2020-10-03
+"Zamora Chinchipe"	"El Pangui"	144	2020-10-03
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-03
+"Zamora Chinchipe"	"Palanda"	13	2020-10-03
+"Zamora Chinchipe"	"Paquisha"	66	2020-10-03
+"Zamora Chinchipe"	"Yacuambi"	83	2020-10-03
+"Zamora Chinchipe"	"Yantzaza"	415	2020-10-03
+"Zamora Chinchipe"	"Zamora"	528	2020-10-03
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-10-04
+"Zamora Chinchipe"	"Chinchipe"	91	2020-10-04
+"Zamora Chinchipe"	"El Pangui"	146	2020-10-04
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-04
+"Zamora Chinchipe"	"Palanda"	13	2020-10-04
+"Zamora Chinchipe"	"Paquisha"	66	2020-10-04
+"Zamora Chinchipe"	"Yacuambi"	83	2020-10-04
+"Zamora Chinchipe"	"Yantzaza"	416	2020-10-04
+"Zamora Chinchipe"	"Zamora"	529	2020-10-04
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-10-05
+"Zamora Chinchipe"	"Chinchipe"	91	2020-10-05
+"Zamora Chinchipe"	"El Pangui"	146	2020-10-05
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-05
+"Zamora Chinchipe"	"Palanda"	13	2020-10-05
+"Zamora Chinchipe"	"Paquisha"	66	2020-10-05
+"Zamora Chinchipe"	"Yacuambi"	83	2020-10-05
+"Zamora Chinchipe"	"Yantzaza"	416	2020-10-05
+"Zamora Chinchipe"	"Zamora"	529	2020-10-05
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-10-06
+"Zamora Chinchipe"	"Chinchipe"	91	2020-10-06
+"Zamora Chinchipe"	"El Pangui"	147	2020-10-06
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-06
+"Zamora Chinchipe"	"Palanda"	13	2020-10-06
+"Zamora Chinchipe"	"Paquisha"	66	2020-10-06
+"Zamora Chinchipe"	"Yacuambi"	83	2020-10-06
+"Zamora Chinchipe"	"Yantzaza"	420	2020-10-06
+"Zamora Chinchipe"	"Zamora"	530	2020-10-06
+"Zamora Chinchipe"	"Centinela del Cóndor"	122	2020-10-07
+"Zamora Chinchipe"	"Chinchipe"	91	2020-10-07
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-07
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-07
+"Zamora Chinchipe"	"Palanda"	13	2020-10-07
+"Zamora Chinchipe"	"Paquisha"	66	2020-10-07
+"Zamora Chinchipe"	"Yacuambi"	83	2020-10-07
+"Zamora Chinchipe"	"Yantzaza"	421	2020-10-07
+"Zamora Chinchipe"	"Zamora"	532	2020-10-07
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-08
+"Zamora Chinchipe"	"Chinchipe"	91	2020-10-08
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-08
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-08
+"Zamora Chinchipe"	"Palanda"	13	2020-10-08
+"Zamora Chinchipe"	"Paquisha"	66	2020-10-08
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-08
+"Zamora Chinchipe"	"Yantzaza"	422	2020-10-08
+"Zamora Chinchipe"	"Zamora"	536	2020-10-08
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-09
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-09
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-09
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-09
+"Zamora Chinchipe"	"Palanda"	17	2020-10-09
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-09
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-09
+"Zamora Chinchipe"	"Yantzaza"	422	2020-10-09
+"Zamora Chinchipe"	"Zamora"	540	2020-10-09
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-10
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-10
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-10
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-10
+"Zamora Chinchipe"	"Palanda"	17	2020-10-10
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-10
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-10
+"Zamora Chinchipe"	"Yantzaza"	423	2020-10-10
+"Zamora Chinchipe"	"Zamora"	541	2020-10-10
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-11
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-11
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-11
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-11
+"Zamora Chinchipe"	"Palanda"	17	2020-10-11
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-11
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-11
+"Zamora Chinchipe"	"Yantzaza"	423	2020-10-11
+"Zamora Chinchipe"	"Zamora"	542	2020-10-11
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-12
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-12
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-12
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-12
+"Zamora Chinchipe"	"Palanda"	17	2020-10-12
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-12
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-12
+"Zamora Chinchipe"	"Yantzaza"	423	2020-10-12
+"Zamora Chinchipe"	"Zamora"	542	2020-10-12
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-13
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-13
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-13
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-13
+"Zamora Chinchipe"	"Palanda"	17	2020-10-13
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-13
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-13
+"Zamora Chinchipe"	"Yantzaza"	427	2020-10-13
+"Zamora Chinchipe"	"Zamora"	542	2020-10-13
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-14
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-14
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-14
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-14
+"Zamora Chinchipe"	"Palanda"	17	2020-10-14
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-14
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-14
+"Zamora Chinchipe"	"Yantzaza"	429	2020-10-14
+"Zamora Chinchipe"	"Zamora"	544	2020-10-14
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-15
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-15
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-15
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-15
+"Zamora Chinchipe"	"Palanda"	17	2020-10-15
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-15
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-15
+"Zamora Chinchipe"	"Yantzaza"	429	2020-10-15
+"Zamora Chinchipe"	"Zamora"	544	2020-10-15
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-16
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-16
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-16
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-16
+"Zamora Chinchipe"	"Palanda"	17	2020-10-16
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-16
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-16
+"Zamora Chinchipe"	"Yantzaza"	431	2020-10-16
+"Zamora Chinchipe"	"Zamora"	545	2020-10-16
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-17
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-17
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-17
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-17
+"Zamora Chinchipe"	"Palanda"	17	2020-10-17
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-17
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-17
+"Zamora Chinchipe"	"Yantzaza"	431	2020-10-17
+"Zamora Chinchipe"	"Zamora"	545	2020-10-17
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-18
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-18
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-18
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-18
+"Zamora Chinchipe"	"Palanda"	17	2020-10-18
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-18
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-18
+"Zamora Chinchipe"	"Yantzaza"	431	2020-10-18
+"Zamora Chinchipe"	"Zamora"	545	2020-10-18
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-19
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-19
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-19
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-19
+"Zamora Chinchipe"	"Palanda"	17	2020-10-19
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-19
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-19
+"Zamora Chinchipe"	"Yantzaza"	431	2020-10-19
+"Zamora Chinchipe"	"Zamora"	545	2020-10-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-20
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-20
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-20
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-20
+"Zamora Chinchipe"	"Palanda"	17	2020-10-20
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-20
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-20
+"Zamora Chinchipe"	"Yantzaza"	431	2020-10-20
+"Zamora Chinchipe"	"Zamora"	545	2020-10-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-21
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-21
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-21
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-21
+"Zamora Chinchipe"	"Palanda"	17	2020-10-21
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-21
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-21
+"Zamora Chinchipe"	"Yantzaza"	433	2020-10-21
+"Zamora Chinchipe"	"Zamora"	545	2020-10-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-22
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-22
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-22
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-22
+"Zamora Chinchipe"	"Palanda"	17	2020-10-22
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-22
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-22
+"Zamora Chinchipe"	"Yantzaza"	433	2020-10-22
+"Zamora Chinchipe"	"Zamora"	545	2020-10-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	123	2020-10-23
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-23
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-23
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-23
+"Zamora Chinchipe"	"Palanda"	17	2020-10-23
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-23
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-23
+"Zamora Chinchipe"	"Yantzaza"	434	2020-10-23
+"Zamora Chinchipe"	"Zamora"	545	2020-10-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-10-24
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-24
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-24
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-24
+"Zamora Chinchipe"	"Palanda"	17	2020-10-24
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-24
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-24
+"Zamora Chinchipe"	"Yantzaza"	435	2020-10-24
+"Zamora Chinchipe"	"Zamora"	546	2020-10-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-10-25
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-25
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-25
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-25
+"Zamora Chinchipe"	"Palanda"	17	2020-10-25
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-25
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-25
+"Zamora Chinchipe"	"Yantzaza"	435	2020-10-25
+"Zamora Chinchipe"	"Zamora"	546	2020-10-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-10-26
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-26
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-26
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-26
+"Zamora Chinchipe"	"Palanda"	17	2020-10-26
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-26
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-26
+"Zamora Chinchipe"	"Yantzaza"	435	2020-10-26
+"Zamora Chinchipe"	"Zamora"	546	2020-10-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-10-27
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-27
+"Zamora Chinchipe"	"El Pangui"	148	2020-10-27
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-27
+"Zamora Chinchipe"	"Palanda"	17	2020-10-27
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-27
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-27
+"Zamora Chinchipe"	"Yantzaza"	435	2020-10-27
+"Zamora Chinchipe"	"Zamora"	546	2020-10-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-10-28
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-28
+"Zamora Chinchipe"	"El Pangui"	149	2020-10-28
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-28
+"Zamora Chinchipe"	"Palanda"	17	2020-10-28
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-28
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-28
+"Zamora Chinchipe"	"Yantzaza"	435	2020-10-28
+"Zamora Chinchipe"	"Zamora"	548	2020-10-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-10-29
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-29
+"Zamora Chinchipe"	"El Pangui"	149	2020-10-29
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-29
+"Zamora Chinchipe"	"Palanda"	17	2020-10-29
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-29
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-29
+"Zamora Chinchipe"	"Yantzaza"	435	2020-10-29
+"Zamora Chinchipe"	"Zamora"	549	2020-10-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-10-30
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-30
+"Zamora Chinchipe"	"El Pangui"	149	2020-10-30
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-30
+"Zamora Chinchipe"	"Palanda"	17	2020-10-30
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-30
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-30
+"Zamora Chinchipe"	"Yantzaza"	435	2020-10-30
+"Zamora Chinchipe"	"Zamora"	551	2020-10-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-10-31
+"Zamora Chinchipe"	"Chinchipe"	92	2020-10-31
+"Zamora Chinchipe"	"El Pangui"	150	2020-10-31
+"Zamora Chinchipe"	"Nangaritza"	46	2020-10-31
+"Zamora Chinchipe"	"Palanda"	17	2020-10-31
+"Zamora Chinchipe"	"Paquisha"	68	2020-10-31
+"Zamora Chinchipe"	"Yacuambi"	84	2020-10-31
+"Zamora Chinchipe"	"Yantzaza"	445	2020-10-31
+"Zamora Chinchipe"	"Zamora"	551	2020-10-31
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-01
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-01
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-01
+"Zamora Chinchipe"	"Nangaritza"	46	2020-11-01
+"Zamora Chinchipe"	"Palanda"	17	2020-11-01
+"Zamora Chinchipe"	"Paquisha"	68	2020-11-01
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-01
+"Zamora Chinchipe"	"Yantzaza"	446	2020-11-01
+"Zamora Chinchipe"	"Zamora"	552	2020-11-01
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-02
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-02
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-02
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-02
+"Zamora Chinchipe"	"Palanda"	17	2020-11-02
+"Zamora Chinchipe"	"Paquisha"	68	2020-11-02
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-02
+"Zamora Chinchipe"	"Yantzaza"	446	2020-11-02
+"Zamora Chinchipe"	"Zamora"	552	2020-11-02
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-03
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-03
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-03
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-03
+"Zamora Chinchipe"	"Palanda"	17	2020-11-03
+"Zamora Chinchipe"	"Paquisha"	68	2020-11-03
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-03
+"Zamora Chinchipe"	"Yantzaza"	446	2020-11-03
+"Zamora Chinchipe"	"Zamora"	552	2020-11-03
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-04
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-04
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-04
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-04
+"Zamora Chinchipe"	"Palanda"	17	2020-11-04
+"Zamora Chinchipe"	"Paquisha"	68	2020-11-04
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-04
+"Zamora Chinchipe"	"Yantzaza"	446	2020-11-04
+"Zamora Chinchipe"	"Zamora"	552	2020-11-04
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-05
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-05
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-05
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-05
+"Zamora Chinchipe"	"Palanda"	17	2020-11-05
+"Zamora Chinchipe"	"Paquisha"	68	2020-11-05
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-05
+"Zamora Chinchipe"	"Yantzaza"	446	2020-11-05
+"Zamora Chinchipe"	"Zamora"	552	2020-11-05
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-06
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-06
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-06
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-06
+"Zamora Chinchipe"	"Palanda"	17	2020-11-06
+"Zamora Chinchipe"	"Paquisha"	68	2020-11-06
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-06
+"Zamora Chinchipe"	"Yantzaza"	447	2020-11-06
+"Zamora Chinchipe"	"Zamora"	552	2020-11-06
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-07
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-07
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-07
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-07
+"Zamora Chinchipe"	"Palanda"	17	2020-11-07
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-07
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-07
+"Zamora Chinchipe"	"Yantzaza"	447	2020-11-07
+"Zamora Chinchipe"	"Zamora"	552	2020-11-07
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-08
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-08
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-08
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-08
+"Zamora Chinchipe"	"Palanda"	17	2020-11-08
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-08
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-08
+"Zamora Chinchipe"	"Yantzaza"	448	2020-11-08
+"Zamora Chinchipe"	"Zamora"	552	2020-11-08
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-09
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-09
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-09
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-09
+"Zamora Chinchipe"	"Palanda"	18	2020-11-09
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-09
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-09
+"Zamora Chinchipe"	"Yantzaza"	448	2020-11-09
+"Zamora Chinchipe"	"Zamora"	552	2020-11-09
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-10
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-10
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-10
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-10
+"Zamora Chinchipe"	"Palanda"	18	2020-11-10
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-10
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-10
+"Zamora Chinchipe"	"Yantzaza"	448	2020-11-10
+"Zamora Chinchipe"	"Zamora"	552	2020-11-10
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-11
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-11
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-11
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-11
+"Zamora Chinchipe"	"Palanda"	18	2020-11-11
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-11
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-11
+"Zamora Chinchipe"	"Yantzaza"	448	2020-11-11
+"Zamora Chinchipe"	"Zamora"	552	2020-11-11
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-12
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-12
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-12
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-12
+"Zamora Chinchipe"	"Palanda"	18	2020-11-12
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-12
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-12
+"Zamora Chinchipe"	"Yantzaza"	448	2020-11-12
+"Zamora Chinchipe"	"Zamora"	552	2020-11-12
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-13
+"Zamora Chinchipe"	"Chinchipe"	92	2020-11-13
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-13
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-13
+"Zamora Chinchipe"	"Palanda"	18	2020-11-13
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-13
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-13
+"Zamora Chinchipe"	"Yantzaza"	449	2020-11-13
+"Zamora Chinchipe"	"Zamora"	552	2020-11-13
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-14
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-14
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-14
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-14
+"Zamora Chinchipe"	"Palanda"	18	2020-11-14
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-14
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-14
+"Zamora Chinchipe"	"Yantzaza"	449	2020-11-14
+"Zamora Chinchipe"	"Zamora"	552	2020-11-14
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-15
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-15
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-15
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-15
+"Zamora Chinchipe"	"Palanda"	18	2020-11-15
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-15
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-15
+"Zamora Chinchipe"	"Yantzaza"	449	2020-11-15
+"Zamora Chinchipe"	"Zamora"	552	2020-11-15
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-16
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-16
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-16
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-16
+"Zamora Chinchipe"	"Palanda"	18	2020-11-16
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-16
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-16
+"Zamora Chinchipe"	"Yantzaza"	449	2020-11-16
+"Zamora Chinchipe"	"Zamora"	552	2020-11-16
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-17
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-17
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-17
+"Zamora Chinchipe"	"Nangaritza"	47	2020-11-17
+"Zamora Chinchipe"	"Palanda"	18	2020-11-17
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-17
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-17
+"Zamora Chinchipe"	"Yantzaza"	449	2020-11-17
+"Zamora Chinchipe"	"Zamora"	552	2020-11-17
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-18
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-18
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-18
+"Zamora Chinchipe"	"Nangaritza"	48	2020-11-18
+"Zamora Chinchipe"	"Palanda"	18	2020-11-18
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-18
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-18
+"Zamora Chinchipe"	"Yantzaza"	449	2020-11-18
+"Zamora Chinchipe"	"Zamora"	552	2020-11-18
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-19
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-19
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-19
+"Zamora Chinchipe"	"Nangaritza"	48	2020-11-19
+"Zamora Chinchipe"	"Palanda"	18	2020-11-19
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-19
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-19
+"Zamora Chinchipe"	"Yantzaza"	452	2020-11-19
+"Zamora Chinchipe"	"Zamora"	552	2020-11-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-20
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-20
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-20
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-20
+"Zamora Chinchipe"	"Palanda"	18	2020-11-20
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-20
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-20
+"Zamora Chinchipe"	"Yantzaza"	452	2020-11-20
+"Zamora Chinchipe"	"Zamora"	552	2020-11-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-21
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-21
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-21
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-21
+"Zamora Chinchipe"	"Palanda"	18	2020-11-21
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-21
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-21
+"Zamora Chinchipe"	"Yantzaza"	453	2020-11-21
+"Zamora Chinchipe"	"Zamora"	552	2020-11-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-22
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-22
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-22
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-22
+"Zamora Chinchipe"	"Palanda"	19	2020-11-22
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-22
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-22
+"Zamora Chinchipe"	"Yantzaza"	453	2020-11-22
+"Zamora Chinchipe"	"Zamora"	552	2020-11-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-23
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-23
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-23
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-23
+"Zamora Chinchipe"	"Palanda"	19	2020-11-23
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-23
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-23
+"Zamora Chinchipe"	"Yantzaza"	453	2020-11-23
+"Zamora Chinchipe"	"Zamora"	552	2020-11-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-24
+"Zamora Chinchipe"	"Chinchipe"	98	2020-11-24
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-24
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-24
+"Zamora Chinchipe"	"Palanda"	19	2020-11-24
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-24
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-24
+"Zamora Chinchipe"	"Yantzaza"	453	2020-11-24
+"Zamora Chinchipe"	"Zamora"	552	2020-11-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-25
+"Zamora Chinchipe"	"Chinchipe"	99	2020-11-25
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-25
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-25
+"Zamora Chinchipe"	"Palanda"	19	2020-11-25
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-25
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-25
+"Zamora Chinchipe"	"Yantzaza"	453	2020-11-25
+"Zamora Chinchipe"	"Zamora"	553	2020-11-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-26
+"Zamora Chinchipe"	"Chinchipe"	99	2020-11-26
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-26
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-26
+"Zamora Chinchipe"	"Palanda"	19	2020-11-26
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-26
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-26
+"Zamora Chinchipe"	"Yantzaza"	454	2020-11-26
+"Zamora Chinchipe"	"Zamora"	554	2020-11-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-27
+"Zamora Chinchipe"	"Chinchipe"	99	2020-11-27
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-27
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-27
+"Zamora Chinchipe"	"Palanda"	20	2020-11-27
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-27
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-27
+"Zamora Chinchipe"	"Yantzaza"	454	2020-11-27
+"Zamora Chinchipe"	"Zamora"	555	2020-11-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-28
+"Zamora Chinchipe"	"Chinchipe"	99	2020-11-28
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-28
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-28
+"Zamora Chinchipe"	"Palanda"	20	2020-11-28
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-28
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-28
+"Zamora Chinchipe"	"Yantzaza"	455	2020-11-28
+"Zamora Chinchipe"	"Zamora"	555	2020-11-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-29
+"Zamora Chinchipe"	"Chinchipe"	99	2020-11-29
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-29
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-29
+"Zamora Chinchipe"	"Palanda"	20	2020-11-29
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-29
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-29
+"Zamora Chinchipe"	"Yantzaza"	455	2020-11-29
+"Zamora Chinchipe"	"Zamora"	556	2020-11-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-11-30
+"Zamora Chinchipe"	"Chinchipe"	99	2020-11-30
+"Zamora Chinchipe"	"El Pangui"	150	2020-11-30
+"Zamora Chinchipe"	"Nangaritza"	49	2020-11-30
+"Zamora Chinchipe"	"Palanda"	20	2020-11-30
+"Zamora Chinchipe"	"Paquisha"	72	2020-11-30
+"Zamora Chinchipe"	"Yacuambi"	85	2020-11-30
+"Zamora Chinchipe"	"Yantzaza"	455	2020-11-30
+"Zamora Chinchipe"	"Zamora"	556	2020-11-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-12-01
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-01
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-01
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-01
+"Zamora Chinchipe"	"Palanda"	20	2020-12-01
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-01
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-01
+"Zamora Chinchipe"	"Yantzaza"	455	2020-12-01
+"Zamora Chinchipe"	"Zamora"	556	2020-12-01
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-12-02
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-02
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-02
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-02
+"Zamora Chinchipe"	"Palanda"	20	2020-12-02
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-02
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-02
+"Zamora Chinchipe"	"Yantzaza"	455	2020-12-02
+"Zamora Chinchipe"	"Zamora"	556	2020-12-02
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-12-03
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-03
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-03
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-03
+"Zamora Chinchipe"	"Palanda"	20	2020-12-03
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-03
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-03
+"Zamora Chinchipe"	"Yantzaza"	457	2020-12-03
+"Zamora Chinchipe"	"Zamora"	556	2020-12-03
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-12-04
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-04
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-04
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-04
+"Zamora Chinchipe"	"Palanda"	20	2020-12-04
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-04
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-04
+"Zamora Chinchipe"	"Yantzaza"	458	2020-12-04
+"Zamora Chinchipe"	"Zamora"	556	2020-12-04
+"Zamora Chinchipe"	"Centinela del Cóndor"	124	2020-12-05
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-05
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-05
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-05
+"Zamora Chinchipe"	"Palanda"	20	2020-12-05
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-05
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-05
+"Zamora Chinchipe"	"Yantzaza"	459	2020-12-05
+"Zamora Chinchipe"	"Zamora"	557	2020-12-05
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-06
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-06
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-06
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-06
+"Zamora Chinchipe"	"Palanda"	21	2020-12-06
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-06
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-06
+"Zamora Chinchipe"	"Yantzaza"	461	2020-12-06
+"Zamora Chinchipe"	"Zamora"	559	2020-12-06
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-07
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-07
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-07
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-07
+"Zamora Chinchipe"	"Palanda"	21	2020-12-07
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-07
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-07
+"Zamora Chinchipe"	"Yantzaza"	461	2020-12-07
+"Zamora Chinchipe"	"Zamora"	559	2020-12-07
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-08
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-08
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-08
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-08
+"Zamora Chinchipe"	"Palanda"	21	2020-12-08
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-08
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-08
+"Zamora Chinchipe"	"Yantzaza"	461	2020-12-08
+"Zamora Chinchipe"	"Zamora"	559	2020-12-08
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-09
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-09
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-09
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-09
+"Zamora Chinchipe"	"Palanda"	22	2020-12-09
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-09
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-09
+"Zamora Chinchipe"	"Yantzaza"	461	2020-12-09
+"Zamora Chinchipe"	"Zamora"	559	2020-12-09
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-10
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-10
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-10
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-10
+"Zamora Chinchipe"	"Palanda"	22	2020-12-10
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-10
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-10
+"Zamora Chinchipe"	"Yantzaza"	461	2020-12-10
+"Zamora Chinchipe"	"Zamora"	560	2020-12-10
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-11
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-11
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-11
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-11
+"Zamora Chinchipe"	"Palanda"	22	2020-12-11
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-11
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-11
+"Zamora Chinchipe"	"Yantzaza"	462	2020-12-11
+"Zamora Chinchipe"	"Zamora"	560	2020-12-11
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-12
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-12
+"Zamora Chinchipe"	"El Pangui"	150	2020-12-12
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-12
+"Zamora Chinchipe"	"Palanda"	22	2020-12-12
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-12
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-12
+"Zamora Chinchipe"	"Yantzaza"	462	2020-12-12
+"Zamora Chinchipe"	"Zamora"	561	2020-12-12
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-13
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-13
+"Zamora Chinchipe"	"El Pangui"	151	2020-12-13
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-13
+"Zamora Chinchipe"	"Palanda"	22	2020-12-13
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-13
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-13
+"Zamora Chinchipe"	"Yantzaza"	463	2020-12-13
+"Zamora Chinchipe"	"Zamora"	562	2020-12-13
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-14
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-14
+"Zamora Chinchipe"	"El Pangui"	151	2020-12-14
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-14
+"Zamora Chinchipe"	"Palanda"	22	2020-12-14
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-14
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-14
+"Zamora Chinchipe"	"Yantzaza"	463	2020-12-14
+"Zamora Chinchipe"	"Zamora"	562	2020-12-14
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-15
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-15
+"Zamora Chinchipe"	"El Pangui"	151	2020-12-15
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-15
+"Zamora Chinchipe"	"Palanda"	22	2020-12-15
+"Zamora Chinchipe"	"Paquisha"	72	2020-12-15
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-15
+"Zamora Chinchipe"	"Yantzaza"	463	2020-12-15
+"Zamora Chinchipe"	"Zamora"	562	2020-12-15
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-16
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-16
+"Zamora Chinchipe"	"El Pangui"	154	2020-12-16
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-16
+"Zamora Chinchipe"	"Palanda"	22	2020-12-16
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-16
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-16
+"Zamora Chinchipe"	"Yantzaza"	465	2020-12-16
+"Zamora Chinchipe"	"Zamora"	563	2020-12-16
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-17
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-17
+"Zamora Chinchipe"	"El Pangui"	154	2020-12-17
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-17
+"Zamora Chinchipe"	"Palanda"	22	2020-12-17
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-17
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-17
+"Zamora Chinchipe"	"Yantzaza"	465	2020-12-17
+"Zamora Chinchipe"	"Zamora"	563	2020-12-17
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-18
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-18
+"Zamora Chinchipe"	"El Pangui"	154	2020-12-18
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-18
+"Zamora Chinchipe"	"Palanda"	22	2020-12-18
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-18
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-18
+"Zamora Chinchipe"	"Yantzaza"	466	2020-12-18
+"Zamora Chinchipe"	"Zamora"	563	2020-12-18
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-19
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-19
+"Zamora Chinchipe"	"El Pangui"	154	2020-12-19
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-19
+"Zamora Chinchipe"	"Palanda"	22	2020-12-19
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-19
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-19
+"Zamora Chinchipe"	"Yantzaza"	466	2020-12-19
+"Zamora Chinchipe"	"Zamora"	564	2020-12-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-20
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-20
+"Zamora Chinchipe"	"El Pangui"	154	2020-12-20
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-20
+"Zamora Chinchipe"	"Palanda"	22	2020-12-20
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-20
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-20
+"Zamora Chinchipe"	"Yantzaza"	466	2020-12-20
+"Zamora Chinchipe"	"Zamora"	564	2020-12-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-21
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-21
+"Zamora Chinchipe"	"El Pangui"	154	2020-12-21
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-21
+"Zamora Chinchipe"	"Palanda"	22	2020-12-21
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-21
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-21
+"Zamora Chinchipe"	"Yantzaza"	466	2020-12-21
+"Zamora Chinchipe"	"Zamora"	564	2020-12-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-22
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-22
+"Zamora Chinchipe"	"El Pangui"	154	2020-12-22
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-22
+"Zamora Chinchipe"	"Palanda"	22	2020-12-22
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-22
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-22
+"Zamora Chinchipe"	"Yantzaza"	466	2020-12-22
+"Zamora Chinchipe"	"Zamora"	564	2020-12-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-23
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-23
+"Zamora Chinchipe"	"El Pangui"	154	2020-12-23
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-23
+"Zamora Chinchipe"	"Palanda"	22	2020-12-23
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-23
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-23
+"Zamora Chinchipe"	"Yantzaza"	466	2020-12-23
+"Zamora Chinchipe"	"Zamora"	565	2020-12-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-24
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-24
+"Zamora Chinchipe"	"El Pangui"	161	2020-12-24
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-24
+"Zamora Chinchipe"	"Palanda"	22	2020-12-24
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-24
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-24
+"Zamora Chinchipe"	"Yantzaza"	468	2020-12-24
+"Zamora Chinchipe"	"Zamora"	565	2020-12-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-25
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-25
+"Zamora Chinchipe"	"El Pangui"	162	2020-12-25
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-25
+"Zamora Chinchipe"	"Palanda"	22	2020-12-25
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-25
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-25
+"Zamora Chinchipe"	"Yantzaza"	472	2020-12-25
+"Zamora Chinchipe"	"Zamora"	565	2020-12-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	125	2020-12-26
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-26
+"Zamora Chinchipe"	"El Pangui"	162	2020-12-26
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-26
+"Zamora Chinchipe"	"Palanda"	22	2020-12-26
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-26
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-26
+"Zamora Chinchipe"	"Yantzaza"	472	2020-12-26
+"Zamora Chinchipe"	"Zamora"	565	2020-12-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	126	2020-12-27
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-27
+"Zamora Chinchipe"	"El Pangui"	162	2020-12-27
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-27
+"Zamora Chinchipe"	"Palanda"	22	2020-12-27
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-27
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-27
+"Zamora Chinchipe"	"Yantzaza"	473	2020-12-27
+"Zamora Chinchipe"	"Zamora"	565	2020-12-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	126	2020-12-28
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-28
+"Zamora Chinchipe"	"El Pangui"	162	2020-12-28
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-28
+"Zamora Chinchipe"	"Palanda"	22	2020-12-28
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-28
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-28
+"Zamora Chinchipe"	"Yantzaza"	473	2020-12-28
+"Zamora Chinchipe"	"Zamora"	565	2020-12-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	126	2020-12-29
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-29
+"Zamora Chinchipe"	"El Pangui"	170	2020-12-29
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-29
+"Zamora Chinchipe"	"Palanda"	22	2020-12-29
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-29
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-29
+"Zamora Chinchipe"	"Yantzaza"	473	2020-12-29
+"Zamora Chinchipe"	"Zamora"	566	2020-12-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	126	2020-12-30
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-30
+"Zamora Chinchipe"	"El Pangui"	170	2020-12-30
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-30
+"Zamora Chinchipe"	"Palanda"	22	2020-12-30
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-30
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-30
+"Zamora Chinchipe"	"Yantzaza"	475	2020-12-30
+"Zamora Chinchipe"	"Zamora"	567	2020-12-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	126	2020-12-31
+"Zamora Chinchipe"	"Chinchipe"	99	2020-12-31
+"Zamora Chinchipe"	"El Pangui"	170	2020-12-31
+"Zamora Chinchipe"	"Nangaritza"	49	2020-12-31
+"Zamora Chinchipe"	"Palanda"	22	2020-12-31
+"Zamora Chinchipe"	"Paquisha"	74	2020-12-31
+"Zamora Chinchipe"	"Yacuambi"	85	2020-12-31
+"Zamora Chinchipe"	"Yantzaza"	475	2020-12-31
+"Zamora Chinchipe"	"Zamora"	569	2020-12-31
 "Zamora Chinchipe"	"Centinela del Cóndor"	126	2021-01-01
 "Zamora Chinchipe"	"Chinchipe"	99	2021-01-01
 "Zamora Chinchipe"	"El Pangui"	170	2021-01-01
@@ -4265,3 +6911,75 @@
 "Zamora Chinchipe"	"Yacuambi"	148	2022-04-19
 "Zamora Chinchipe"	"Yantzaza"	1379	2022-04-19
 "Zamora Chinchipe"	"Zamora"	1514	2022-04-19
+"Zamora Chinchipe"	"Centinela del Cóndor"	362	2022-04-20
+"Zamora Chinchipe"	"Chinchipe"	549	2022-04-20
+"Zamora Chinchipe"	"El Pangui"	653	2022-04-20
+"Zamora Chinchipe"	"Nangaritza"	209	2022-04-20
+"Zamora Chinchipe"	"Palanda"	207	2022-04-20
+"Zamora Chinchipe"	"Paquisha"	202	2022-04-20
+"Zamora Chinchipe"	"Yacuambi"	148	2022-04-20
+"Zamora Chinchipe"	"Yantzaza"	1379	2022-04-20
+"Zamora Chinchipe"	"Zamora"	1515	2022-04-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	362	2022-04-21
+"Zamora Chinchipe"	"Chinchipe"	549	2022-04-21
+"Zamora Chinchipe"	"El Pangui"	653	2022-04-21
+"Zamora Chinchipe"	"Nangaritza"	209	2022-04-21
+"Zamora Chinchipe"	"Palanda"	207	2022-04-21
+"Zamora Chinchipe"	"Paquisha"	202	2022-04-21
+"Zamora Chinchipe"	"Yacuambi"	148	2022-04-21
+"Zamora Chinchipe"	"Yantzaza"	1379	2022-04-21
+"Zamora Chinchipe"	"Zamora"	1515	2022-04-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	362	2022-04-22
+"Zamora Chinchipe"	"Chinchipe"	549	2022-04-22
+"Zamora Chinchipe"	"El Pangui"	653	2022-04-22
+"Zamora Chinchipe"	"Nangaritza"	209	2022-04-22
+"Zamora Chinchipe"	"Palanda"	207	2022-04-22
+"Zamora Chinchipe"	"Paquisha"	202	2022-04-22
+"Zamora Chinchipe"	"Yacuambi"	148	2022-04-22
+"Zamora Chinchipe"	"Yantzaza"	1379	2022-04-22
+"Zamora Chinchipe"	"Zamora"	1515	2022-04-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	362	2022-04-23
+"Zamora Chinchipe"	"Chinchipe"	549	2022-04-23
+"Zamora Chinchipe"	"El Pangui"	653	2022-04-23
+"Zamora Chinchipe"	"Nangaritza"	209	2022-04-23
+"Zamora Chinchipe"	"Palanda"	207	2022-04-23
+"Zamora Chinchipe"	"Paquisha"	202	2022-04-23
+"Zamora Chinchipe"	"Yacuambi"	148	2022-04-23
+"Zamora Chinchipe"	"Yantzaza"	1379	2022-04-23
+"Zamora Chinchipe"	"Zamora"	1515	2022-04-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	362	2022-04-24
+"Zamora Chinchipe"	"Chinchipe"	550	2022-04-24
+"Zamora Chinchipe"	"El Pangui"	653	2022-04-24
+"Zamora Chinchipe"	"Nangaritza"	209	2022-04-24
+"Zamora Chinchipe"	"Palanda"	207	2022-04-24
+"Zamora Chinchipe"	"Paquisha"	202	2022-04-24
+"Zamora Chinchipe"	"Yacuambi"	148	2022-04-24
+"Zamora Chinchipe"	"Yantzaza"	1379	2022-04-24
+"Zamora Chinchipe"	"Zamora"	1515	2022-04-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	362	2022-04-25
+"Zamora Chinchipe"	"Chinchipe"	550	2022-04-25
+"Zamora Chinchipe"	"El Pangui"	653	2022-04-25
+"Zamora Chinchipe"	"Nangaritza"	209	2022-04-25
+"Zamora Chinchipe"	"Palanda"	207	2022-04-25
+"Zamora Chinchipe"	"Paquisha"	202	2022-04-25
+"Zamora Chinchipe"	"Yacuambi"	148	2022-04-25
+"Zamora Chinchipe"	"Yantzaza"	1379	2022-04-25
+"Zamora Chinchipe"	"Zamora"	1515	2022-04-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	362	2022-04-26
+"Zamora Chinchipe"	"Chinchipe"	550	2022-04-26
+"Zamora Chinchipe"	"El Pangui"	653	2022-04-26
+"Zamora Chinchipe"	"Nangaritza"	209	2022-04-26
+"Zamora Chinchipe"	"Palanda"	207	2022-04-26
+"Zamora Chinchipe"	"Paquisha"	202	2022-04-26
+"Zamora Chinchipe"	"Yacuambi"	148	2022-04-26
+"Zamora Chinchipe"	"Yantzaza"	1379	2022-04-26
+"Zamora Chinchipe"	"Zamora"	1515	2022-04-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	362	2022-04-27
+"Zamora Chinchipe"	"Chinchipe"	550	2022-04-27
+"Zamora Chinchipe"	"El Pangui"	653	2022-04-27
+"Zamora Chinchipe"	"Nangaritza"	210	2022-04-27
+"Zamora Chinchipe"	"Palanda"	207	2022-04-27
+"Zamora Chinchipe"	"Paquisha"	202	2022-04-27
+"Zamora Chinchipe"	"Yacuambi"	148	2022-04-27
+"Zamora Chinchipe"	"Yantzaza"	1380	2022-04-27
+"Zamora Chinchipe"	"Zamora"	1516	2022-04-27

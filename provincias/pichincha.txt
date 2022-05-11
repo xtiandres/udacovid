@@ -1,4 +1,2356 @@
 "provincia"	"canton"	"total"	"created_at"
+"Pichincha"	"Cayambe"	0	2020-03-13
+"Pichincha"	"Mejía"	0	2020-03-13
+"Pichincha"	"Pedro Moncayo"	0	2020-03-13
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-13
+"Pichincha"	"Puerto Quito"	0	2020-03-13
+"Pichincha"	"Quito"	4	2020-03-13
+"Pichincha"	"Rumiñahui"	0	2020-03-13
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-13
+"Pichincha"	"Cayambe"	0	2020-03-14
+"Pichincha"	"Mejía"	0	2020-03-14
+"Pichincha"	"Pedro Moncayo"	0	2020-03-14
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-14
+"Pichincha"	"Puerto Quito"	0	2020-03-14
+"Pichincha"	"Quito"	4	2020-03-14
+"Pichincha"	"Rumiñahui"	0	2020-03-14
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-14
+"Pichincha"	"Cayambe"	0	2020-03-15
+"Pichincha"	"Mejía"	0	2020-03-15
+"Pichincha"	"Pedro Moncayo"	0	2020-03-15
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-15
+"Pichincha"	"Puerto Quito"	0	2020-03-15
+"Pichincha"	"Quito"	6	2020-03-15
+"Pichincha"	"Rumiñahui"	0	2020-03-15
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-15
+"Pichincha"	"Cayambe"	0	2020-03-16
+"Pichincha"	"Mejía"	0	2020-03-16
+"Pichincha"	"Pedro Moncayo"	0	2020-03-16
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-16
+"Pichincha"	"Puerto Quito"	0	2020-03-16
+"Pichincha"	"Quito"	8	2020-03-16
+"Pichincha"	"Rumiñahui"	0	2020-03-16
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-16
+"Pichincha"	"Cayambe"	0	2020-03-17
+"Pichincha"	"Mejía"	0	2020-03-17
+"Pichincha"	"Pedro Moncayo"	0	2020-03-17
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-17
+"Pichincha"	"Puerto Quito"	0	2020-03-17
+"Pichincha"	"Quito"	8	2020-03-17
+"Pichincha"	"Rumiñahui"	0	2020-03-17
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-17
+"Pichincha"	"Cayambe"	0	2020-03-18
+"Pichincha"	"Mejía"	0	2020-03-18
+"Pichincha"	"Pedro Moncayo"	0	2020-03-18
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-18
+"Pichincha"	"Puerto Quito"	0	2020-03-18
+"Pichincha"	"Quito"	12	2020-03-18
+"Pichincha"	"Rumiñahui"	0	2020-03-18
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-18
+"Pichincha"	"Cayambe"	0	2020-03-19
+"Pichincha"	"Mejía"	0	2020-03-19
+"Pichincha"	"Pedro Moncayo"	0	2020-03-19
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-19
+"Pichincha"	"Puerto Quito"	0	2020-03-19
+"Pichincha"	"Quito"	16	2020-03-19
+"Pichincha"	"Rumiñahui"	0	2020-03-19
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-19
+"Pichincha"	"Cayambe"	0	2020-03-20
+"Pichincha"	"Mejía"	0	2020-03-20
+"Pichincha"	"Pedro Moncayo"	0	2020-03-20
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-20
+"Pichincha"	"Puerto Quito"	0	2020-03-20
+"Pichincha"	"Quito"	35	2020-03-20
+"Pichincha"	"Rumiñahui"	0	2020-03-20
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-20
+"Pichincha"	"Cayambe"	0	2020-03-21
+"Pichincha"	"Mejía"	0	2020-03-21
+"Pichincha"	"Pedro Moncayo"	0	2020-03-21
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-21
+"Pichincha"	"Puerto Quito"	0	2020-03-21
+"Pichincha"	"Quito"	50	2020-03-21
+"Pichincha"	"Rumiñahui"	0	2020-03-21
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-21
+"Pichincha"	"Cayambe"	0	2020-03-22
+"Pichincha"	"Mejía"	0	2020-03-22
+"Pichincha"	"Pedro Moncayo"	0	2020-03-22
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-22
+"Pichincha"	"Puerto Quito"	0	2020-03-22
+"Pichincha"	"Quito"	59	2020-03-22
+"Pichincha"	"Rumiñahui"	1	2020-03-22
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-22
+"Pichincha"	"Cayambe"	0	2020-03-23
+"Pichincha"	"Mejía"	0	2020-03-23
+"Pichincha"	"Pedro Moncayo"	0	2020-03-23
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-23
+"Pichincha"	"Puerto Quito"	0	2020-03-23
+"Pichincha"	"Quito"	63	2020-03-23
+"Pichincha"	"Rumiñahui"	2	2020-03-23
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-23
+"Pichincha"	"Cayambe"	0	2020-03-24
+"Pichincha"	"Mejía"	0	2020-03-24
+"Pichincha"	"Pedro Moncayo"	0	2020-03-24
+"Pichincha"	"Pedro Vicente Maldonado"	0	2020-03-24
+"Pichincha"	"Puerto Quito"	0	2020-03-24
+"Pichincha"	"Quito"	70	2020-03-24
+"Pichincha"	"Rumiñahui"	2	2020-03-24
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-24
+"Pichincha"	"Cayambe"	0	2020-03-25
+"Pichincha"	"Mejía"	0	2020-03-25
+"Pichincha"	"Pedro Moncayo"	0	2020-03-25
+"Pichincha"	"Pedro Vicente Maldonado"	1	2020-03-25
+"Pichincha"	"Puerto Quito"	0	2020-03-25
+"Pichincha"	"Quito"	101	2020-03-25
+"Pichincha"	"Rumiñahui"	6	2020-03-25
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-25
+"Pichincha"	"Cayambe"	0	2020-03-26
+"Pichincha"	"Mejía"	0	2020-03-26
+"Pichincha"	"Pedro Moncayo"	0	2020-03-26
+"Pichincha"	"Pedro Vicente Maldonado"	1	2020-03-26
+"Pichincha"	"Puerto Quito"	0	2020-03-26
+"Pichincha"	"Quito"	114	2020-03-26
+"Pichincha"	"Rumiñahui"	6	2020-03-26
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-26
+"Pichincha"	"Cayambe"	0	2020-03-27
+"Pichincha"	"Mejía"	0	2020-03-27
+"Pichincha"	"Pedro Moncayo"	0	2020-03-27
+"Pichincha"	"Pedro Vicente Maldonado"	1	2020-03-27
+"Pichincha"	"Puerto Quito"	0	2020-03-27
+"Pichincha"	"Quito"	130	2020-03-27
+"Pichincha"	"Rumiñahui"	6	2020-03-27
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-27
+"Pichincha"	"Cayambe"	0	2020-03-28
+"Pichincha"	"Mejía"	1	2020-03-28
+"Pichincha"	"Pedro Moncayo"	0	2020-03-28
+"Pichincha"	"Pedro Vicente Maldonado"	1	2020-03-28
+"Pichincha"	"Puerto Quito"	0	2020-03-28
+"Pichincha"	"Quito"	161	2020-03-28
+"Pichincha"	"Rumiñahui"	8	2020-03-28
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-28
+"Pichincha"	"Cayambe"	0	2020-03-29
+"Pichincha"	"Mejía"	1	2020-03-29
+"Pichincha"	"Pedro Moncayo"	0	2020-03-29
+"Pichincha"	"Pedro Vicente Maldonado"	1	2020-03-29
+"Pichincha"	"Puerto Quito"	0	2020-03-29
+"Pichincha"	"Quito"	176	2020-03-29
+"Pichincha"	"Rumiñahui"	10	2020-03-29
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-29
+"Pichincha"	"Cayambe"	0	2020-03-30
+"Pichincha"	"Mejía"	1	2020-03-30
+"Pichincha"	"Pedro Moncayo"	0	2020-03-30
+"Pichincha"	"Pedro Vicente Maldonado"	1	2020-03-30
+"Pichincha"	"Puerto Quito"	0	2020-03-30
+"Pichincha"	"Quito"	179	2020-03-30
+"Pichincha"	"Rumiñahui"	10	2020-03-30
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-30
+"Pichincha"	"Cayambe"	0	2020-03-31
+"Pichincha"	"Mejía"	1	2020-03-31
+"Pichincha"	"Pedro Moncayo"	1	2020-03-31
+"Pichincha"	"Pedro Vicente Maldonado"	2	2020-03-31
+"Pichincha"	"Puerto Quito"	0	2020-03-31
+"Pichincha"	"Quito"	204	2020-03-31
+"Pichincha"	"Rumiñahui"	11	2020-03-31
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-03-31
+"Pichincha"	"Cayambe"	0	2020-04-01
+"Pichincha"	"Mejía"	1	2020-04-01
+"Pichincha"	"Pedro Moncayo"	1	2020-04-01
+"Pichincha"	"Pedro Vicente Maldonado"	2	2020-04-01
+"Pichincha"	"Puerto Quito"	0	2020-04-01
+"Pichincha"	"Quito"	228	2020-04-01
+"Pichincha"	"Rumiñahui"	16	2020-04-01
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-01
+"Pichincha"	"Cayambe"	0	2020-04-02
+"Pichincha"	"Mejía"	1	2020-04-02
+"Pichincha"	"Pedro Moncayo"	1	2020-04-02
+"Pichincha"	"Pedro Vicente Maldonado"	2	2020-04-02
+"Pichincha"	"Puerto Quito"	0	2020-04-02
+"Pichincha"	"Quito"	239	2020-04-02
+"Pichincha"	"Rumiñahui"	16	2020-04-02
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-02
+"Pichincha"	"Cayambe"	0	2020-04-03
+"Pichincha"	"Mejía"	2	2020-04-03
+"Pichincha"	"Pedro Moncayo"	1	2020-04-03
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-03
+"Pichincha"	"Puerto Quito"	0	2020-04-03
+"Pichincha"	"Quito"	263	2020-04-03
+"Pichincha"	"Rumiñahui"	16	2020-04-03
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-03
+"Pichincha"	"Cayambe"	0	2020-04-04
+"Pichincha"	"Mejía"	4	2020-04-04
+"Pichincha"	"Pedro Moncayo"	1	2020-04-04
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-04
+"Pichincha"	"Puerto Quito"	0	2020-04-04
+"Pichincha"	"Quito"	297	2020-04-04
+"Pichincha"	"Rumiñahui"	16	2020-04-04
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-04
+"Pichincha"	"Cayambe"	0	2020-04-05
+"Pichincha"	"Mejía"	5	2020-04-05
+"Pichincha"	"Pedro Moncayo"	1	2020-04-05
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-05
+"Pichincha"	"Puerto Quito"	0	2020-04-05
+"Pichincha"	"Quito"	319	2020-04-05
+"Pichincha"	"Rumiñahui"	17	2020-04-05
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-05
+"Pichincha"	"Cayambe"	1	2020-04-06
+"Pichincha"	"Mejía"	7	2020-04-06
+"Pichincha"	"Pedro Moncayo"	2	2020-04-06
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-06
+"Pichincha"	"Puerto Quito"	0	2020-04-06
+"Pichincha"	"Quito"	364	2020-04-06
+"Pichincha"	"Rumiñahui"	18	2020-04-06
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-06
+"Pichincha"	"Cayambe"	1	2020-04-07
+"Pichincha"	"Mejía"	8	2020-04-07
+"Pichincha"	"Pedro Moncayo"	2	2020-04-07
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-07
+"Pichincha"	"Puerto Quito"	0	2020-04-07
+"Pichincha"	"Quito"	386	2020-04-07
+"Pichincha"	"Rumiñahui"	18	2020-04-07
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-07
+"Pichincha"	"Cayambe"	1	2020-04-08
+"Pichincha"	"Mejía"	10	2020-04-08
+"Pichincha"	"Pedro Moncayo"	2	2020-04-08
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-08
+"Pichincha"	"Puerto Quito"	0	2020-04-08
+"Pichincha"	"Quito"	405	2020-04-08
+"Pichincha"	"Rumiñahui"	19	2020-04-08
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-08
+"Pichincha"	"Cayambe"	1	2020-04-09
+"Pichincha"	"Mejía"	10	2020-04-09
+"Pichincha"	"Pedro Moncayo"	2	2020-04-09
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-09
+"Pichincha"	"Puerto Quito"	0	2020-04-09
+"Pichincha"	"Quito"	458	2020-04-09
+"Pichincha"	"Rumiñahui"	20	2020-04-09
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-09
+"Pichincha"	"Cayambe"	1	2020-04-10
+"Pichincha"	"Mejía"	13	2020-04-10
+"Pichincha"	"Pedro Moncayo"	2	2020-04-10
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-10
+"Pichincha"	"Puerto Quito"	0	2020-04-10
+"Pichincha"	"Quito"	538	2020-04-10
+"Pichincha"	"Rumiñahui"	22	2020-04-10
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-10
+"Pichincha"	"Cayambe"	1	2020-04-11
+"Pichincha"	"Mejía"	17	2020-04-11
+"Pichincha"	"Pedro Moncayo"	2	2020-04-11
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-11
+"Pichincha"	"Puerto Quito"	0	2020-04-11
+"Pichincha"	"Quito"	561	2020-04-11
+"Pichincha"	"Rumiñahui"	22	2020-04-11
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-11
+"Pichincha"	"Cayambe"	1	2020-04-12
+"Pichincha"	"Mejía"	19	2020-04-12
+"Pichincha"	"Pedro Moncayo"	2	2020-04-12
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-12
+"Pichincha"	"Puerto Quito"	0	2020-04-12
+"Pichincha"	"Quito"	579	2020-04-12
+"Pichincha"	"Rumiñahui"	23	2020-04-12
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-12
+"Pichincha"	"Cayambe"	1	2020-04-13
+"Pichincha"	"Mejía"	19	2020-04-13
+"Pichincha"	"Pedro Moncayo"	2	2020-04-13
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-13
+"Pichincha"	"Puerto Quito"	0	2020-04-13
+"Pichincha"	"Quito"	586	2020-04-13
+"Pichincha"	"Rumiñahui"	23	2020-04-13
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-13
+"Pichincha"	"Cayambe"	1	2020-04-14
+"Pichincha"	"Mejía"	19	2020-04-14
+"Pichincha"	"Pedro Moncayo"	2	2020-04-14
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-14
+"Pichincha"	"Puerto Quito"	0	2020-04-14
+"Pichincha"	"Quito"	598	2020-04-14
+"Pichincha"	"Rumiñahui"	23	2020-04-14
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-14
+"Pichincha"	"Cayambe"	1	2020-04-15
+"Pichincha"	"Mejía"	21	2020-04-15
+"Pichincha"	"Pedro Moncayo"	2	2020-04-15
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-15
+"Pichincha"	"Puerto Quito"	0	2020-04-15
+"Pichincha"	"Quito"	623	2020-04-15
+"Pichincha"	"Rumiñahui"	24	2020-04-15
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-15
+"Pichincha"	"Cayambe"	1	2020-04-16
+"Pichincha"	"Mejía"	22	2020-04-16
+"Pichincha"	"Pedro Moncayo"	2	2020-04-16
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-16
+"Pichincha"	"Puerto Quito"	0	2020-04-16
+"Pichincha"	"Quito"	682	2020-04-16
+"Pichincha"	"Rumiñahui"	26	2020-04-16
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-16
+"Pichincha"	"Cayambe"	1	2020-04-17
+"Pichincha"	"Mejía"	22	2020-04-17
+"Pichincha"	"Pedro Moncayo"	2	2020-04-17
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-17
+"Pichincha"	"Puerto Quito"	1	2020-04-17
+"Pichincha"	"Quito"	720	2020-04-17
+"Pichincha"	"Rumiñahui"	30	2020-04-17
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-17
+"Pichincha"	"Cayambe"	1	2020-04-18
+"Pichincha"	"Mejía"	22	2020-04-18
+"Pichincha"	"Pedro Moncayo"	2	2020-04-18
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-18
+"Pichincha"	"Puerto Quito"	1	2020-04-18
+"Pichincha"	"Quito"	734	2020-04-18
+"Pichincha"	"Rumiñahui"	31	2020-04-18
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-18
+"Pichincha"	"Cayambe"	1	2020-04-19
+"Pichincha"	"Mejía"	23	2020-04-19
+"Pichincha"	"Pedro Moncayo"	2	2020-04-19
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-19
+"Pichincha"	"Puerto Quito"	1	2020-04-19
+"Pichincha"	"Quito"	757	2020-04-19
+"Pichincha"	"Rumiñahui"	32	2020-04-19
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-19
+"Pichincha"	"Cayambe"	1	2020-04-20
+"Pichincha"	"Mejía"	23	2020-04-20
+"Pichincha"	"Pedro Moncayo"	2	2020-04-20
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-20
+"Pichincha"	"Puerto Quito"	1	2020-04-20
+"Pichincha"	"Quito"	777	2020-04-20
+"Pichincha"	"Rumiñahui"	34	2020-04-20
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-20
+"Pichincha"	"Cayambe"	1	2020-04-21
+"Pichincha"	"Mejía"	23	2020-04-21
+"Pichincha"	"Pedro Moncayo"	2	2020-04-21
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-21
+"Pichincha"	"Puerto Quito"	2	2020-04-21
+"Pichincha"	"Quito"	801	2020-04-21
+"Pichincha"	"Rumiñahui"	36	2020-04-21
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-21
+"Pichincha"	"Cayambe"	1	2020-04-22
+"Pichincha"	"Mejía"	24	2020-04-22
+"Pichincha"	"Pedro Moncayo"	2	2020-04-22
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-22
+"Pichincha"	"Puerto Quito"	2	2020-04-22
+"Pichincha"	"Quito"	856	2020-04-22
+"Pichincha"	"Rumiñahui"	38	2020-04-22
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-22
+"Pichincha"	"Cayambe"	1	2020-04-23
+"Pichincha"	"Mejía"	25	2020-04-23
+"Pichincha"	"Pedro Moncayo"	2	2020-04-23
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-23
+"Pichincha"	"Puerto Quito"	2	2020-04-23
+"Pichincha"	"Quito"	919	2020-04-23
+"Pichincha"	"Rumiñahui"	39	2020-04-23
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-23
+"Pichincha"	"Cayambe"	1	2020-04-24
+"Pichincha"	"Mejía"	25	2020-04-24
+"Pichincha"	"Pedro Moncayo"	2	2020-04-24
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-24
+"Pichincha"	"Puerto Quito"	2	2020-04-24
+"Pichincha"	"Quito"	919	2020-04-24
+"Pichincha"	"Rumiñahui"	39	2020-04-24
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-24
+"Pichincha"	"Cayambe"	1	2020-04-25
+"Pichincha"	"Mejía"	25	2020-04-25
+"Pichincha"	"Pedro Moncayo"	2	2020-04-25
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-25
+"Pichincha"	"Puerto Quito"	2	2020-04-25
+"Pichincha"	"Quito"	919	2020-04-25
+"Pichincha"	"Rumiñahui"	39	2020-04-25
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-25
+"Pichincha"	"Cayambe"	1	2020-04-26
+"Pichincha"	"Mejía"	25	2020-04-26
+"Pichincha"	"Pedro Moncayo"	2	2020-04-26
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-26
+"Pichincha"	"Puerto Quito"	2	2020-04-26
+"Pichincha"	"Quito"	919	2020-04-26
+"Pichincha"	"Rumiñahui"	39	2020-04-26
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-26
+"Pichincha"	"Cayambe"	1	2020-04-27
+"Pichincha"	"Mejía"	25	2020-04-27
+"Pichincha"	"Pedro Moncayo"	2	2020-04-27
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-27
+"Pichincha"	"Puerto Quito"	2	2020-04-27
+"Pichincha"	"Quito"	919	2020-04-27
+"Pichincha"	"Rumiñahui"	39	2020-04-27
+"Pichincha"	"San Miguel de Los Bancos"	0	2020-04-27
+"Pichincha"	"Cayambe"	2	2020-04-28
+"Pichincha"	"Mejía"	34	2020-04-28
+"Pichincha"	"Pedro Moncayo"	2	2020-04-28
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-28
+"Pichincha"	"Puerto Quito"	3	2020-04-28
+"Pichincha"	"Quito"	1205	2020-04-28
+"Pichincha"	"Rumiñahui"	48	2020-04-28
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-04-28
+"Pichincha"	"Cayambe"	3	2020-04-29
+"Pichincha"	"Mejía"	34	2020-04-29
+"Pichincha"	"Pedro Moncayo"	2	2020-04-29
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-29
+"Pichincha"	"Puerto Quito"	5	2020-04-29
+"Pichincha"	"Quito"	1254	2020-04-29
+"Pichincha"	"Rumiñahui"	49	2020-04-29
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-04-29
+"Pichincha"	"Cayambe"	3	2020-04-30
+"Pichincha"	"Mejía"	37	2020-04-30
+"Pichincha"	"Pedro Moncayo"	2	2020-04-30
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-04-30
+"Pichincha"	"Puerto Quito"	5	2020-04-30
+"Pichincha"	"Quito"	1320	2020-04-30
+"Pichincha"	"Rumiñahui"	49	2020-04-30
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-04-30
+"Pichincha"	"Cayambe"	4	2020-05-01
+"Pichincha"	"Mejía"	38	2020-05-01
+"Pichincha"	"Pedro Moncayo"	2	2020-05-01
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-01
+"Pichincha"	"Puerto Quito"	5	2020-05-01
+"Pichincha"	"Quito"	1405	2020-05-01
+"Pichincha"	"Rumiñahui"	49	2020-05-01
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-01
+"Pichincha"	"Cayambe"	4	2020-05-02
+"Pichincha"	"Mejía"	39	2020-05-02
+"Pichincha"	"Pedro Moncayo"	3	2020-05-02
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-02
+"Pichincha"	"Puerto Quito"	5	2020-05-02
+"Pichincha"	"Quito"	1488	2020-05-02
+"Pichincha"	"Rumiñahui"	50	2020-05-02
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-02
+"Pichincha"	"Cayambe"	4	2020-05-03
+"Pichincha"	"Mejía"	41	2020-05-03
+"Pichincha"	"Pedro Moncayo"	5	2020-05-03
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-03
+"Pichincha"	"Puerto Quito"	8	2020-05-03
+"Pichincha"	"Quito"	1586	2020-05-03
+"Pichincha"	"Rumiñahui"	50	2020-05-03
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-03
+"Pichincha"	"Cayambe"	4	2020-05-04
+"Pichincha"	"Mejía"	41	2020-05-04
+"Pichincha"	"Pedro Moncayo"	5	2020-05-04
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-04
+"Pichincha"	"Puerto Quito"	8	2020-05-04
+"Pichincha"	"Quito"	1619	2020-05-04
+"Pichincha"	"Rumiñahui"	51	2020-05-04
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-04
+"Pichincha"	"Cayambe"	4	2020-05-05
+"Pichincha"	"Mejía"	41	2020-05-05
+"Pichincha"	"Pedro Moncayo"	5	2020-05-05
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-05
+"Pichincha"	"Puerto Quito"	8	2020-05-05
+"Pichincha"	"Quito"	1619	2020-05-05
+"Pichincha"	"Rumiñahui"	51	2020-05-05
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-05
+"Pichincha"	"Cayambe"	6	2020-05-06
+"Pichincha"	"Mejía"	42	2020-05-06
+"Pichincha"	"Pedro Moncayo"	6	2020-05-06
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-06
+"Pichincha"	"Puerto Quito"	8	2020-05-06
+"Pichincha"	"Quito"	1795	2020-05-06
+"Pichincha"	"Rumiñahui"	52	2020-05-06
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-06
+"Pichincha"	"Cayambe"	6	2020-05-07
+"Pichincha"	"Mejía"	43	2020-05-07
+"Pichincha"	"Pedro Moncayo"	6	2020-05-07
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-07
+"Pichincha"	"Puerto Quito"	8	2020-05-07
+"Pichincha"	"Quito"	1836	2020-05-07
+"Pichincha"	"Rumiñahui"	53	2020-05-07
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-07
+"Pichincha"	"Cayambe"	6	2020-05-08
+"Pichincha"	"Mejía"	45	2020-05-08
+"Pichincha"	"Pedro Moncayo"	6	2020-05-08
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-08
+"Pichincha"	"Puerto Quito"	8	2020-05-08
+"Pichincha"	"Quito"	1867	2020-05-08
+"Pichincha"	"Rumiñahui"	52	2020-05-08
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-08
+"Pichincha"	"Cayambe"	6	2020-05-09
+"Pichincha"	"Mejía"	45	2020-05-09
+"Pichincha"	"Pedro Moncayo"	8	2020-05-09
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-09
+"Pichincha"	"Puerto Quito"	9	2020-05-09
+"Pichincha"	"Quito"	1938	2020-05-09
+"Pichincha"	"Rumiñahui"	54	2020-05-09
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-09
+"Pichincha"	"Cayambe"	6	2020-05-10
+"Pichincha"	"Mejía"	48	2020-05-10
+"Pichincha"	"Pedro Moncayo"	8	2020-05-10
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-10
+"Pichincha"	"Puerto Quito"	9	2020-05-10
+"Pichincha"	"Quito"	1964	2020-05-10
+"Pichincha"	"Rumiñahui"	57	2020-05-10
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-10
+"Pichincha"	"Cayambe"	6	2020-05-11
+"Pichincha"	"Mejía"	45	2020-05-11
+"Pichincha"	"Pedro Moncayo"	8	2020-05-11
+"Pichincha"	"Pedro Vicente Maldonado"	3	2020-05-11
+"Pichincha"	"Puerto Quito"	9	2020-05-11
+"Pichincha"	"Quito"	1945	2020-05-11
+"Pichincha"	"Rumiñahui"	54	2020-05-11
+"Pichincha"	"San Miguel de Los Bancos"	1	2020-05-11
+"Pichincha"	"Cayambe"	6	2020-05-12
+"Pichincha"	"Mejía"	51	2020-05-12
+"Pichincha"	"Pedro Moncayo"	8	2020-05-12
+"Pichincha"	"Pedro Vicente Maldonado"	4	2020-05-12
+"Pichincha"	"Puerto Quito"	9	2020-05-12
+"Pichincha"	"Quito"	2195	2020-05-12
+"Pichincha"	"Rumiñahui"	61	2020-05-12
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-12
+"Pichincha"	"Cayambe"	6	2020-05-13
+"Pichincha"	"Mejía"	51	2020-05-13
+"Pichincha"	"Pedro Moncayo"	8	2020-05-13
+"Pichincha"	"Pedro Vicente Maldonado"	4	2020-05-13
+"Pichincha"	"Puerto Quito"	9	2020-05-13
+"Pichincha"	"Quito"	2198	2020-05-13
+"Pichincha"	"Rumiñahui"	61	2020-05-13
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-13
+"Pichincha"	"Cayambe"	6	2020-05-14
+"Pichincha"	"Mejía"	51	2020-05-14
+"Pichincha"	"Pedro Moncayo"	8	2020-05-14
+"Pichincha"	"Pedro Vicente Maldonado"	4	2020-05-14
+"Pichincha"	"Puerto Quito"	9	2020-05-14
+"Pichincha"	"Quito"	2198	2020-05-14
+"Pichincha"	"Rumiñahui"	61	2020-05-14
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-14
+"Pichincha"	"Cayambe"	7	2020-05-15
+"Pichincha"	"Mejía"	56	2020-05-15
+"Pichincha"	"Pedro Moncayo"	8	2020-05-15
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-15
+"Pichincha"	"Puerto Quito"	9	2020-05-15
+"Pichincha"	"Quito"	2334	2020-05-15
+"Pichincha"	"Rumiñahui"	63	2020-05-15
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-15
+"Pichincha"	"Cayambe"	7	2020-05-16
+"Pichincha"	"Mejía"	59	2020-05-16
+"Pichincha"	"Pedro Moncayo"	8	2020-05-16
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-16
+"Pichincha"	"Puerto Quito"	11	2020-05-16
+"Pichincha"	"Quito"	2363	2020-05-16
+"Pichincha"	"Rumiñahui"	65	2020-05-16
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-16
+"Pichincha"	"Cayambe"	7	2020-05-17
+"Pichincha"	"Mejía"	61	2020-05-17
+"Pichincha"	"Pedro Moncayo"	8	2020-05-17
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-17
+"Pichincha"	"Puerto Quito"	11	2020-05-17
+"Pichincha"	"Quito"	2422	2020-05-17
+"Pichincha"	"Rumiñahui"	66	2020-05-17
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-17
+"Pichincha"	"Cayambe"	7	2020-05-18
+"Pichincha"	"Mejía"	65	2020-05-18
+"Pichincha"	"Pedro Moncayo"	8	2020-05-18
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-18
+"Pichincha"	"Puerto Quito"	11	2020-05-18
+"Pichincha"	"Quito"	2514	2020-05-18
+"Pichincha"	"Rumiñahui"	69	2020-05-18
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-18
+"Pichincha"	"Cayambe"	7	2020-05-19
+"Pichincha"	"Mejía"	69	2020-05-19
+"Pichincha"	"Pedro Moncayo"	9	2020-05-19
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-19
+"Pichincha"	"Puerto Quito"	11	2020-05-19
+"Pichincha"	"Quito"	2667	2020-05-19
+"Pichincha"	"Rumiñahui"	70	2020-05-19
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-19
+"Pichincha"	"Cayambe"	8	2020-05-20
+"Pichincha"	"Mejía"	74	2020-05-20
+"Pichincha"	"Pedro Moncayo"	9	2020-05-20
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-20
+"Pichincha"	"Puerto Quito"	11	2020-05-20
+"Pichincha"	"Quito"	2769	2020-05-20
+"Pichincha"	"Rumiñahui"	74	2020-05-20
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-20
+"Pichincha"	"Cayambe"	9	2020-05-21
+"Pichincha"	"Mejía"	78	2020-05-21
+"Pichincha"	"Pedro Moncayo"	10	2020-05-21
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-21
+"Pichincha"	"Puerto Quito"	11	2020-05-21
+"Pichincha"	"Quito"	2864	2020-05-21
+"Pichincha"	"Rumiñahui"	75	2020-05-21
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-21
+"Pichincha"	"Cayambe"	9	2020-05-22
+"Pichincha"	"Mejía"	83	2020-05-22
+"Pichincha"	"Pedro Moncayo"	11	2020-05-22
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-22
+"Pichincha"	"Puerto Quito"	11	2020-05-22
+"Pichincha"	"Quito"	2999	2020-05-22
+"Pichincha"	"Rumiñahui"	81	2020-05-22
+"Pichincha"	"San Miguel de Los Bancos"	2	2020-05-22
+"Pichincha"	"Cayambe"	9	2020-05-23
+"Pichincha"	"Mejía"	87	2020-05-23
+"Pichincha"	"Pedro Moncayo"	11	2020-05-23
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-23
+"Pichincha"	"Puerto Quito"	11	2020-05-23
+"Pichincha"	"Quito"	3132	2020-05-23
+"Pichincha"	"Rumiñahui"	85	2020-05-23
+"Pichincha"	"San Miguel de Los Bancos"	4	2020-05-23
+"Pichincha"	"Cayambe"	9	2020-05-24
+"Pichincha"	"Mejía"	88	2020-05-24
+"Pichincha"	"Pedro Moncayo"	11	2020-05-24
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-24
+"Pichincha"	"Puerto Quito"	11	2020-05-24
+"Pichincha"	"Quito"	3188	2020-05-24
+"Pichincha"	"Rumiñahui"	89	2020-05-24
+"Pichincha"	"San Miguel de Los Bancos"	4	2020-05-24
+"Pichincha"	"Cayambe"	10	2020-05-25
+"Pichincha"	"Mejía"	95	2020-05-25
+"Pichincha"	"Pedro Moncayo"	11	2020-05-25
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-25
+"Pichincha"	"Puerto Quito"	11	2020-05-25
+"Pichincha"	"Quito"	3309	2020-05-25
+"Pichincha"	"Rumiñahui"	95	2020-05-25
+"Pichincha"	"San Miguel de Los Bancos"	4	2020-05-25
+"Pichincha"	"Cayambe"	10	2020-05-26
+"Pichincha"	"Mejía"	101	2020-05-26
+"Pichincha"	"Pedro Moncayo"	11	2020-05-26
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-26
+"Pichincha"	"Puerto Quito"	14	2020-05-26
+"Pichincha"	"Quito"	3380	2020-05-26
+"Pichincha"	"Rumiñahui"	101	2020-05-26
+"Pichincha"	"San Miguel de Los Bancos"	4	2020-05-26
+"Pichincha"	"Cayambe"	15	2020-05-27
+"Pichincha"	"Mejía"	101	2020-05-27
+"Pichincha"	"Pedro Moncayo"	11	2020-05-27
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-27
+"Pichincha"	"Puerto Quito"	15	2020-05-27
+"Pichincha"	"Quito"	3516	2020-05-27
+"Pichincha"	"Rumiñahui"	102	2020-05-27
+"Pichincha"	"San Miguel de Los Bancos"	4	2020-05-27
+"Pichincha"	"Cayambe"	15	2020-05-28
+"Pichincha"	"Mejía"	103	2020-05-28
+"Pichincha"	"Pedro Moncayo"	11	2020-05-28
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-28
+"Pichincha"	"Puerto Quito"	15	2020-05-28
+"Pichincha"	"Quito"	3603	2020-05-28
+"Pichincha"	"Rumiñahui"	103	2020-05-28
+"Pichincha"	"San Miguel de Los Bancos"	4	2020-05-28
+"Pichincha"	"Cayambe"	15	2020-05-29
+"Pichincha"	"Mejía"	106	2020-05-29
+"Pichincha"	"Pedro Moncayo"	11	2020-05-29
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-29
+"Pichincha"	"Puerto Quito"	15	2020-05-29
+"Pichincha"	"Quito"	3652	2020-05-29
+"Pichincha"	"Rumiñahui"	103	2020-05-29
+"Pichincha"	"San Miguel de Los Bancos"	4	2020-05-29
+"Pichincha"	"Cayambe"	16	2020-05-30
+"Pichincha"	"Mejía"	106	2020-05-30
+"Pichincha"	"Pedro Moncayo"	11	2020-05-30
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-30
+"Pichincha"	"Puerto Quito"	16	2020-05-30
+"Pichincha"	"Quito"	3667	2020-05-30
+"Pichincha"	"Rumiñahui"	103	2020-05-30
+"Pichincha"	"San Miguel de Los Bancos"	5	2020-05-30
+"Pichincha"	"Cayambe"	16	2020-05-31
+"Pichincha"	"Mejía"	106	2020-05-31
+"Pichincha"	"Pedro Moncayo"	11	2020-05-31
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-05-31
+"Pichincha"	"Puerto Quito"	16	2020-05-31
+"Pichincha"	"Quito"	3676	2020-05-31
+"Pichincha"	"Rumiñahui"	105	2020-05-31
+"Pichincha"	"San Miguel de Los Bancos"	5	2020-05-31
+"Pichincha"	"Cayambe"	20	2020-06-01
+"Pichincha"	"Mejía"	123	2020-06-01
+"Pichincha"	"Pedro Moncayo"	11	2020-06-01
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-01
+"Pichincha"	"Puerto Quito"	16	2020-06-01
+"Pichincha"	"Quito"	3737	2020-06-01
+"Pichincha"	"Rumiñahui"	124	2020-06-01
+"Pichincha"	"San Miguel de Los Bancos"	6	2020-06-01
+"Pichincha"	"Cayambe"	20	2020-06-02
+"Pichincha"	"Mejía"	125	2020-06-02
+"Pichincha"	"Pedro Moncayo"	11	2020-06-02
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-02
+"Pichincha"	"Puerto Quito"	16	2020-06-02
+"Pichincha"	"Quito"	3777	2020-06-02
+"Pichincha"	"Rumiñahui"	127	2020-06-02
+"Pichincha"	"San Miguel de Los Bancos"	6	2020-06-02
+"Pichincha"	"Cayambe"	20	2020-06-03
+"Pichincha"	"Mejía"	131	2020-06-03
+"Pichincha"	"Pedro Moncayo"	11	2020-06-03
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-03
+"Pichincha"	"Puerto Quito"	19	2020-06-03
+"Pichincha"	"Quito"	3842	2020-06-03
+"Pichincha"	"Rumiñahui"	131	2020-06-03
+"Pichincha"	"San Miguel de Los Bancos"	7	2020-06-03
+"Pichincha"	"Cayambe"	20	2020-06-04
+"Pichincha"	"Mejía"	134	2020-06-04
+"Pichincha"	"Pedro Moncayo"	11	2020-06-04
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-04
+"Pichincha"	"Puerto Quito"	19	2020-06-04
+"Pichincha"	"Quito"	3949	2020-06-04
+"Pichincha"	"Rumiñahui"	134	2020-06-04
+"Pichincha"	"San Miguel de Los Bancos"	7	2020-06-04
+"Pichincha"	"Cayambe"	23	2020-06-05
+"Pichincha"	"Mejía"	136	2020-06-05
+"Pichincha"	"Pedro Moncayo"	11	2020-06-05
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-05
+"Pichincha"	"Puerto Quito"	20	2020-06-05
+"Pichincha"	"Quito"	4038	2020-06-05
+"Pichincha"	"Rumiñahui"	135	2020-06-05
+"Pichincha"	"San Miguel de Los Bancos"	7	2020-06-05
+"Pichincha"	"Cayambe"	23	2020-06-06
+"Pichincha"	"Mejía"	140	2020-06-06
+"Pichincha"	"Pedro Moncayo"	11	2020-06-06
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-06
+"Pichincha"	"Puerto Quito"	22	2020-06-06
+"Pichincha"	"Quito"	4129	2020-06-06
+"Pichincha"	"Rumiñahui"	141	2020-06-06
+"Pichincha"	"San Miguel de Los Bancos"	7	2020-06-06
+"Pichincha"	"Cayambe"	27	2020-06-07
+"Pichincha"	"Mejía"	145	2020-06-07
+"Pichincha"	"Pedro Moncayo"	11	2020-06-07
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-07
+"Pichincha"	"Puerto Quito"	22	2020-06-07
+"Pichincha"	"Quito"	4235	2020-06-07
+"Pichincha"	"Rumiñahui"	146	2020-06-07
+"Pichincha"	"San Miguel de Los Bancos"	7	2020-06-07
+"Pichincha"	"Cayambe"	27	2020-06-08
+"Pichincha"	"Mejía"	147	2020-06-08
+"Pichincha"	"Pedro Moncayo"	11	2020-06-08
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-08
+"Pichincha"	"Puerto Quito"	22	2020-06-08
+"Pichincha"	"Quito"	4346	2020-06-08
+"Pichincha"	"Rumiñahui"	148	2020-06-08
+"Pichincha"	"San Miguel de Los Bancos"	7	2020-06-08
+"Pichincha"	"Cayambe"	27	2020-06-09
+"Pichincha"	"Mejía"	149	2020-06-09
+"Pichincha"	"Pedro Moncayo"	11	2020-06-09
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-09
+"Pichincha"	"Puerto Quito"	22	2020-06-09
+"Pichincha"	"Quito"	4452	2020-06-09
+"Pichincha"	"Rumiñahui"	157	2020-06-09
+"Pichincha"	"San Miguel de Los Bancos"	7	2020-06-09
+"Pichincha"	"Cayambe"	27	2020-06-10
+"Pichincha"	"Mejía"	152	2020-06-10
+"Pichincha"	"Pedro Moncayo"	11	2020-06-10
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-10
+"Pichincha"	"Puerto Quito"	22	2020-06-10
+"Pichincha"	"Quito"	4510	2020-06-10
+"Pichincha"	"Rumiñahui"	164	2020-06-10
+"Pichincha"	"San Miguel de Los Bancos"	7	2020-06-10
+"Pichincha"	"Cayambe"	29	2020-06-11
+"Pichincha"	"Mejía"	154	2020-06-11
+"Pichincha"	"Pedro Moncayo"	11	2020-06-11
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-11
+"Pichincha"	"Puerto Quito"	25	2020-06-11
+"Pichincha"	"Quito"	4549	2020-06-11
+"Pichincha"	"Rumiñahui"	166	2020-06-11
+"Pichincha"	"San Miguel de Los Bancos"	7	2020-06-11
+"Pichincha"	"Cayambe"	30	2020-06-12
+"Pichincha"	"Mejía"	162	2020-06-12
+"Pichincha"	"Pedro Moncayo"	11	2020-06-12
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-12
+"Pichincha"	"Puerto Quito"	26	2020-06-12
+"Pichincha"	"Quito"	4650	2020-06-12
+"Pichincha"	"Rumiñahui"	168	2020-06-12
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-12
+"Pichincha"	"Cayambe"	38	2020-06-13
+"Pichincha"	"Mejía"	168	2020-06-13
+"Pichincha"	"Pedro Moncayo"	12	2020-06-13
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-13
+"Pichincha"	"Puerto Quito"	34	2020-06-13
+"Pichincha"	"Quito"	4746	2020-06-13
+"Pichincha"	"Rumiñahui"	174	2020-06-13
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-13
+"Pichincha"	"Cayambe"	39	2020-06-14
+"Pichincha"	"Mejía"	168	2020-06-14
+"Pichincha"	"Pedro Moncayo"	12	2020-06-14
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-14
+"Pichincha"	"Puerto Quito"	34	2020-06-14
+"Pichincha"	"Quito"	4792	2020-06-14
+"Pichincha"	"Rumiñahui"	175	2020-06-14
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-14
+"Pichincha"	"Cayambe"	39	2020-06-15
+"Pichincha"	"Mejía"	178	2020-06-15
+"Pichincha"	"Pedro Moncayo"	12	2020-06-15
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-15
+"Pichincha"	"Puerto Quito"	34	2020-06-15
+"Pichincha"	"Quito"	4873	2020-06-15
+"Pichincha"	"Rumiñahui"	180	2020-06-15
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-15
+"Pichincha"	"Cayambe"	39	2020-06-16
+"Pichincha"	"Mejía"	183	2020-06-16
+"Pichincha"	"Pedro Moncayo"	12	2020-06-16
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-16
+"Pichincha"	"Puerto Quito"	34	2020-06-16
+"Pichincha"	"Quito"	4983	2020-06-16
+"Pichincha"	"Rumiñahui"	193	2020-06-16
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-16
+"Pichincha"	"Cayambe"	40	2020-06-17
+"Pichincha"	"Mejía"	183	2020-06-17
+"Pichincha"	"Pedro Moncayo"	12	2020-06-17
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-17
+"Pichincha"	"Puerto Quito"	34	2020-06-17
+"Pichincha"	"Quito"	5062	2020-06-17
+"Pichincha"	"Rumiñahui"	194	2020-06-17
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-17
+"Pichincha"	"Cayambe"	40	2020-06-18
+"Pichincha"	"Mejía"	189	2020-06-18
+"Pichincha"	"Pedro Moncayo"	12	2020-06-18
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-18
+"Pichincha"	"Puerto Quito"	34	2020-06-18
+"Pichincha"	"Quito"	5160	2020-06-18
+"Pichincha"	"Rumiñahui"	197	2020-06-18
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-18
+"Pichincha"	"Cayambe"	40	2020-06-19
+"Pichincha"	"Mejía"	189	2020-06-19
+"Pichincha"	"Pedro Moncayo"	12	2020-06-19
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-19
+"Pichincha"	"Puerto Quito"	34	2020-06-19
+"Pichincha"	"Quito"	5271	2020-06-19
+"Pichincha"	"Rumiñahui"	206	2020-06-19
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-19
+"Pichincha"	"Cayambe"	40	2020-06-20
+"Pichincha"	"Mejía"	193	2020-06-20
+"Pichincha"	"Pedro Moncayo"	12	2020-06-20
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-20
+"Pichincha"	"Puerto Quito"	34	2020-06-20
+"Pichincha"	"Quito"	5400	2020-06-20
+"Pichincha"	"Rumiñahui"	210	2020-06-20
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-20
+"Pichincha"	"Cayambe"	42	2020-06-21
+"Pichincha"	"Mejía"	201	2020-06-21
+"Pichincha"	"Pedro Moncayo"	13	2020-06-21
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-21
+"Pichincha"	"Puerto Quito"	37	2020-06-21
+"Pichincha"	"Quito"	5528	2020-06-21
+"Pichincha"	"Rumiñahui"	219	2020-06-21
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-21
+"Pichincha"	"Cayambe"	43	2020-06-22
+"Pichincha"	"Mejía"	201	2020-06-22
+"Pichincha"	"Pedro Moncayo"	13	2020-06-22
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-22
+"Pichincha"	"Puerto Quito"	37	2020-06-22
+"Pichincha"	"Quito"	5646	2020-06-22
+"Pichincha"	"Rumiñahui"	219	2020-06-22
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-22
+"Pichincha"	"Cayambe"	44	2020-06-23
+"Pichincha"	"Mejía"	203	2020-06-23
+"Pichincha"	"Pedro Moncayo"	13	2020-06-23
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-23
+"Pichincha"	"Puerto Quito"	38	2020-06-23
+"Pichincha"	"Quito"	5747	2020-06-23
+"Pichincha"	"Rumiñahui"	221	2020-06-23
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-23
+"Pichincha"	"Cayambe"	45	2020-06-24
+"Pichincha"	"Mejía"	207	2020-06-24
+"Pichincha"	"Pedro Moncayo"	13	2020-06-24
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-24
+"Pichincha"	"Puerto Quito"	38	2020-06-24
+"Pichincha"	"Quito"	5912	2020-06-24
+"Pichincha"	"Rumiñahui"	228	2020-06-24
+"Pichincha"	"San Miguel de Los Bancos"	8	2020-06-24
+"Pichincha"	"Cayambe"	46	2020-06-25
+"Pichincha"	"Mejía"	216	2020-06-25
+"Pichincha"	"Pedro Moncayo"	13	2020-06-25
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-25
+"Pichincha"	"Puerto Quito"	43	2020-06-25
+"Pichincha"	"Quito"	6049	2020-06-25
+"Pichincha"	"Rumiñahui"	239	2020-06-25
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-06-25
+"Pichincha"	"Cayambe"	47	2020-06-26
+"Pichincha"	"Mejía"	216	2020-06-26
+"Pichincha"	"Pedro Moncayo"	13	2020-06-26
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-26
+"Pichincha"	"Puerto Quito"	43	2020-06-26
+"Pichincha"	"Quito"	6171	2020-06-26
+"Pichincha"	"Rumiñahui"	240	2020-06-26
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-06-26
+"Pichincha"	"Cayambe"	47	2020-06-27
+"Pichincha"	"Mejía"	221	2020-06-27
+"Pichincha"	"Pedro Moncayo"	13	2020-06-27
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-27
+"Pichincha"	"Puerto Quito"	44	2020-06-27
+"Pichincha"	"Quito"	6261	2020-06-27
+"Pichincha"	"Rumiñahui"	250	2020-06-27
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-06-27
+"Pichincha"	"Cayambe"	50	2020-06-28
+"Pichincha"	"Mejía"	226	2020-06-28
+"Pichincha"	"Pedro Moncayo"	13	2020-06-28
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-28
+"Pichincha"	"Puerto Quito"	44	2020-06-28
+"Pichincha"	"Quito"	6372	2020-06-28
+"Pichincha"	"Rumiñahui"	264	2020-06-28
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-06-28
+"Pichincha"	"Cayambe"	51	2020-06-29
+"Pichincha"	"Mejía"	232	2020-06-29
+"Pichincha"	"Pedro Moncayo"	13	2020-06-29
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-29
+"Pichincha"	"Puerto Quito"	44	2020-06-29
+"Pichincha"	"Quito"	6453	2020-06-29
+"Pichincha"	"Rumiñahui"	274	2020-06-29
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-06-29
+"Pichincha"	"Cayambe"	53	2020-06-30
+"Pichincha"	"Mejía"	234	2020-06-30
+"Pichincha"	"Pedro Moncayo"	13	2020-06-30
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-06-30
+"Pichincha"	"Puerto Quito"	44	2020-06-30
+"Pichincha"	"Quito"	6571	2020-06-30
+"Pichincha"	"Rumiñahui"	291	2020-06-30
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-06-30
+"Pichincha"	"Cayambe"	67	2020-07-01
+"Pichincha"	"Mejía"	242	2020-07-01
+"Pichincha"	"Pedro Moncayo"	15	2020-07-01
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-07-01
+"Pichincha"	"Puerto Quito"	44	2020-07-01
+"Pichincha"	"Quito"	7253	2020-07-01
+"Pichincha"	"Rumiñahui"	296	2020-07-01
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-07-01
+"Pichincha"	"Cayambe"	73	2020-07-02
+"Pichincha"	"Mejía"	253	2020-07-02
+"Pichincha"	"Pedro Moncayo"	15	2020-07-02
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-07-02
+"Pichincha"	"Puerto Quito"	44	2020-07-02
+"Pichincha"	"Quito"	7542	2020-07-02
+"Pichincha"	"Rumiñahui"	312	2020-07-02
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-07-02
+"Pichincha"	"Cayambe"	80	2020-07-03
+"Pichincha"	"Mejía"	260	2020-07-03
+"Pichincha"	"Pedro Moncayo"	17	2020-07-03
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-07-03
+"Pichincha"	"Puerto Quito"	49	2020-07-03
+"Pichincha"	"Quito"	7816	2020-07-03
+"Pichincha"	"Rumiñahui"	338	2020-07-03
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-07-03
+"Pichincha"	"Cayambe"	88	2020-07-04
+"Pichincha"	"Mejía"	271	2020-07-04
+"Pichincha"	"Pedro Moncayo"	18	2020-07-04
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-07-04
+"Pichincha"	"Puerto Quito"	49	2020-07-04
+"Pichincha"	"Quito"	8022	2020-07-04
+"Pichincha"	"Rumiñahui"	344	2020-07-04
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-07-04
+"Pichincha"	"Cayambe"	89	2020-07-05
+"Pichincha"	"Mejía"	274	2020-07-05
+"Pichincha"	"Pedro Moncayo"	18	2020-07-05
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-07-05
+"Pichincha"	"Puerto Quito"	49	2020-07-05
+"Pichincha"	"Quito"	8132	2020-07-05
+"Pichincha"	"Rumiñahui"	348	2020-07-05
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-07-05
+"Pichincha"	"Cayambe"	89	2020-07-06
+"Pichincha"	"Mejía"	275	2020-07-06
+"Pichincha"	"Pedro Moncayo"	18	2020-07-06
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-07-06
+"Pichincha"	"Puerto Quito"	49	2020-07-06
+"Pichincha"	"Quito"	8195	2020-07-06
+"Pichincha"	"Rumiñahui"	354	2020-07-06
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-07-06
+"Pichincha"	"Cayambe"	94	2020-07-07
+"Pichincha"	"Mejía"	313	2020-07-07
+"Pichincha"	"Pedro Moncayo"	18	2020-07-07
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-07-07
+"Pichincha"	"Puerto Quito"	49	2020-07-07
+"Pichincha"	"Quito"	8346	2020-07-07
+"Pichincha"	"Rumiñahui"	357	2020-07-07
+"Pichincha"	"San Miguel de Los Bancos"	9	2020-07-07
+"Pichincha"	"Cayambe"	95	2020-07-08
+"Pichincha"	"Mejía"	321	2020-07-08
+"Pichincha"	"Pedro Moncayo"	19	2020-07-08
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-07-08
+"Pichincha"	"Puerto Quito"	52	2020-07-08
+"Pichincha"	"Quito"	8581	2020-07-08
+"Pichincha"	"Rumiñahui"	370	2020-07-08
+"Pichincha"	"San Miguel de Los Bancos"	15	2020-07-08
+"Pichincha"	"Cayambe"	96	2020-07-09
+"Pichincha"	"Mejía"	329	2020-07-09
+"Pichincha"	"Pedro Moncayo"	21	2020-07-09
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-07-09
+"Pichincha"	"Puerto Quito"	52	2020-07-09
+"Pichincha"	"Quito"	8746	2020-07-09
+"Pichincha"	"Rumiñahui"	378	2020-07-09
+"Pichincha"	"San Miguel de Los Bancos"	15	2020-07-09
+"Pichincha"	"Cayambe"	99	2020-07-10
+"Pichincha"	"Mejía"	334	2020-07-10
+"Pichincha"	"Pedro Moncayo"	22	2020-07-10
+"Pichincha"	"Pedro Vicente Maldonado"	5	2020-07-10
+"Pichincha"	"Puerto Quito"	52	2020-07-10
+"Pichincha"	"Quito"	8953	2020-07-10
+"Pichincha"	"Rumiñahui"	396	2020-07-10
+"Pichincha"	"San Miguel de Los Bancos"	15	2020-07-10
+"Pichincha"	"Cayambe"	101	2020-07-11
+"Pichincha"	"Mejía"	344	2020-07-11
+"Pichincha"	"Pedro Moncayo"	22	2020-07-11
+"Pichincha"	"Pedro Vicente Maldonado"	10	2020-07-11
+"Pichincha"	"Puerto Quito"	55	2020-07-11
+"Pichincha"	"Quito"	9450	2020-07-11
+"Pichincha"	"Rumiñahui"	410	2020-07-11
+"Pichincha"	"San Miguel de Los Bancos"	22	2020-07-11
+"Pichincha"	"Cayambe"	103	2020-07-12
+"Pichincha"	"Mejía"	351	2020-07-12
+"Pichincha"	"Pedro Moncayo"	23	2020-07-12
+"Pichincha"	"Pedro Vicente Maldonado"	10	2020-07-12
+"Pichincha"	"Puerto Quito"	55	2020-07-12
+"Pichincha"	"Quito"	9670	2020-07-12
+"Pichincha"	"Rumiñahui"	439	2020-07-12
+"Pichincha"	"San Miguel de Los Bancos"	22	2020-07-12
+"Pichincha"	"Cayambe"	104	2020-07-13
+"Pichincha"	"Mejía"	351	2020-07-13
+"Pichincha"	"Pedro Moncayo"	23	2020-07-13
+"Pichincha"	"Pedro Vicente Maldonado"	10	2020-07-13
+"Pichincha"	"Puerto Quito"	55	2020-07-13
+"Pichincha"	"Quito"	9677	2020-07-13
+"Pichincha"	"Rumiñahui"	439	2020-07-13
+"Pichincha"	"San Miguel de Los Bancos"	22	2020-07-13
+"Pichincha"	"Cayambe"	106	2020-07-14
+"Pichincha"	"Mejía"	361	2020-07-14
+"Pichincha"	"Pedro Moncayo"	23	2020-07-14
+"Pichincha"	"Pedro Vicente Maldonado"	10	2020-07-14
+"Pichincha"	"Puerto Quito"	58	2020-07-14
+"Pichincha"	"Quito"	9893	2020-07-14
+"Pichincha"	"Rumiñahui"	445	2020-07-14
+"Pichincha"	"San Miguel de Los Bancos"	24	2020-07-14
+"Pichincha"	"Cayambe"	107	2020-07-15
+"Pichincha"	"Mejía"	363	2020-07-15
+"Pichincha"	"Pedro Moncayo"	25	2020-07-15
+"Pichincha"	"Pedro Vicente Maldonado"	10	2020-07-15
+"Pichincha"	"Puerto Quito"	58	2020-07-15
+"Pichincha"	"Quito"	10035	2020-07-15
+"Pichincha"	"Rumiñahui"	456	2020-07-15
+"Pichincha"	"San Miguel de Los Bancos"	25	2020-07-15
+"Pichincha"	"Cayambe"	110	2020-07-16
+"Pichincha"	"Mejía"	371	2020-07-16
+"Pichincha"	"Pedro Moncayo"	25	2020-07-16
+"Pichincha"	"Pedro Vicente Maldonado"	10	2020-07-16
+"Pichincha"	"Puerto Quito"	58	2020-07-16
+"Pichincha"	"Quito"	10208	2020-07-16
+"Pichincha"	"Rumiñahui"	462	2020-07-16
+"Pichincha"	"San Miguel de Los Bancos"	25	2020-07-16
+"Pichincha"	"Cayambe"	111	2020-07-17
+"Pichincha"	"Mejía"	373	2020-07-17
+"Pichincha"	"Pedro Moncayo"	25	2020-07-17
+"Pichincha"	"Pedro Vicente Maldonado"	15	2020-07-17
+"Pichincha"	"Puerto Quito"	58	2020-07-17
+"Pichincha"	"Quito"	10386	2020-07-17
+"Pichincha"	"Rumiñahui"	478	2020-07-17
+"Pichincha"	"San Miguel de Los Bancos"	32	2020-07-17
+"Pichincha"	"Cayambe"	112	2020-07-18
+"Pichincha"	"Mejía"	377	2020-07-18
+"Pichincha"	"Pedro Moncayo"	25	2020-07-18
+"Pichincha"	"Pedro Vicente Maldonado"	16	2020-07-18
+"Pichincha"	"Puerto Quito"	61	2020-07-18
+"Pichincha"	"Quito"	10534	2020-07-18
+"Pichincha"	"Rumiñahui"	488	2020-07-18
+"Pichincha"	"San Miguel de Los Bancos"	32	2020-07-18
+"Pichincha"	"Cayambe"	113	2020-07-19
+"Pichincha"	"Mejía"	378	2020-07-19
+"Pichincha"	"Pedro Moncayo"	26	2020-07-19
+"Pichincha"	"Pedro Vicente Maldonado"	16	2020-07-19
+"Pichincha"	"Puerto Quito"	61	2020-07-19
+"Pichincha"	"Quito"	10599	2020-07-19
+"Pichincha"	"Rumiñahui"	489	2020-07-19
+"Pichincha"	"San Miguel de Los Bancos"	32	2020-07-19
+"Pichincha"	"Cayambe"	113	2020-07-20
+"Pichincha"	"Mejía"	380	2020-07-20
+"Pichincha"	"Pedro Moncayo"	26	2020-07-20
+"Pichincha"	"Pedro Vicente Maldonado"	16	2020-07-20
+"Pichincha"	"Puerto Quito"	61	2020-07-20
+"Pichincha"	"Quito"	10967	2020-07-20
+"Pichincha"	"Rumiñahui"	494	2020-07-20
+"Pichincha"	"San Miguel de Los Bancos"	32	2020-07-20
+"Pichincha"	"Cayambe"	114	2020-07-21
+"Pichincha"	"Mejía"	401	2020-07-21
+"Pichincha"	"Pedro Moncayo"	26	2020-07-21
+"Pichincha"	"Pedro Vicente Maldonado"	16	2020-07-21
+"Pichincha"	"Puerto Quito"	61	2020-07-21
+"Pichincha"	"Quito"	11524	2020-07-21
+"Pichincha"	"Rumiñahui"	530	2020-07-21
+"Pichincha"	"San Miguel de Los Bancos"	32	2020-07-21
+"Pichincha"	"Cayambe"	115	2020-07-22
+"Pichincha"	"Mejía"	421	2020-07-22
+"Pichincha"	"Pedro Moncayo"	26	2020-07-22
+"Pichincha"	"Pedro Vicente Maldonado"	16	2020-07-22
+"Pichincha"	"Puerto Quito"	61	2020-07-22
+"Pichincha"	"Quito"	11741	2020-07-22
+"Pichincha"	"Rumiñahui"	544	2020-07-22
+"Pichincha"	"San Miguel de Los Bancos"	32	2020-07-22
+"Pichincha"	"Cayambe"	120	2020-07-23
+"Pichincha"	"Mejía"	424	2020-07-23
+"Pichincha"	"Pedro Moncayo"	27	2020-07-23
+"Pichincha"	"Pedro Vicente Maldonado"	19	2020-07-23
+"Pichincha"	"Puerto Quito"	69	2020-07-23
+"Pichincha"	"Quito"	11900	2020-07-23
+"Pichincha"	"Rumiñahui"	555	2020-07-23
+"Pichincha"	"San Miguel de Los Bancos"	45	2020-07-23
+"Pichincha"	"Cayambe"	126	2020-07-24
+"Pichincha"	"Mejía"	429	2020-07-24
+"Pichincha"	"Pedro Moncayo"	31	2020-07-24
+"Pichincha"	"Pedro Vicente Maldonado"	19	2020-07-24
+"Pichincha"	"Puerto Quito"	69	2020-07-24
+"Pichincha"	"Quito"	12157	2020-07-24
+"Pichincha"	"Rumiñahui"	569	2020-07-24
+"Pichincha"	"San Miguel de Los Bancos"	49	2020-07-24
+"Pichincha"	"Cayambe"	127	2020-07-25
+"Pichincha"	"Mejía"	436	2020-07-25
+"Pichincha"	"Pedro Moncayo"	32	2020-07-25
+"Pichincha"	"Pedro Vicente Maldonado"	19	2020-07-25
+"Pichincha"	"Puerto Quito"	70	2020-07-25
+"Pichincha"	"Quito"	12340	2020-07-25
+"Pichincha"	"Rumiñahui"	582	2020-07-25
+"Pichincha"	"San Miguel de Los Bancos"	49	2020-07-25
+"Pichincha"	"Cayambe"	129	2020-07-26
+"Pichincha"	"Mejía"	448	2020-07-26
+"Pichincha"	"Pedro Moncayo"	32	2020-07-26
+"Pichincha"	"Pedro Vicente Maldonado"	22	2020-07-26
+"Pichincha"	"Puerto Quito"	78	2020-07-26
+"Pichincha"	"Quito"	12459	2020-07-26
+"Pichincha"	"Rumiñahui"	585	2020-07-26
+"Pichincha"	"San Miguel de Los Bancos"	58	2020-07-26
+"Pichincha"	"Cayambe"	131	2020-07-27
+"Pichincha"	"Mejía"	451	2020-07-27
+"Pichincha"	"Pedro Moncayo"	33	2020-07-27
+"Pichincha"	"Pedro Vicente Maldonado"	22	2020-07-27
+"Pichincha"	"Puerto Quito"	78	2020-07-27
+"Pichincha"	"Quito"	12561	2020-07-27
+"Pichincha"	"Rumiñahui"	591	2020-07-27
+"Pichincha"	"San Miguel de Los Bancos"	58	2020-07-27
+"Pichincha"	"Cayambe"	138	2020-07-28
+"Pichincha"	"Mejía"	453	2020-07-28
+"Pichincha"	"Pedro Moncayo"	34	2020-07-28
+"Pichincha"	"Pedro Vicente Maldonado"	22	2020-07-28
+"Pichincha"	"Puerto Quito"	78	2020-07-28
+"Pichincha"	"Quito"	12747	2020-07-28
+"Pichincha"	"Rumiñahui"	609	2020-07-28
+"Pichincha"	"San Miguel de Los Bancos"	58	2020-07-28
+"Pichincha"	"Cayambe"	141	2020-07-29
+"Pichincha"	"Mejía"	454	2020-07-29
+"Pichincha"	"Pedro Moncayo"	34	2020-07-29
+"Pichincha"	"Pedro Vicente Maldonado"	22	2020-07-29
+"Pichincha"	"Puerto Quito"	78	2020-07-29
+"Pichincha"	"Quito"	12947	2020-07-29
+"Pichincha"	"Rumiñahui"	628	2020-07-29
+"Pichincha"	"San Miguel de Los Bancos"	58	2020-07-29
+"Pichincha"	"Cayambe"	143	2020-07-30
+"Pichincha"	"Mejía"	467	2020-07-30
+"Pichincha"	"Pedro Moncayo"	35	2020-07-30
+"Pichincha"	"Pedro Vicente Maldonado"	22	2020-07-30
+"Pichincha"	"Puerto Quito"	78	2020-07-30
+"Pichincha"	"Quito"	13212	2020-07-30
+"Pichincha"	"Rumiñahui"	640	2020-07-30
+"Pichincha"	"San Miguel de Los Bancos"	58	2020-07-30
+"Pichincha"	"Cayambe"	147	2020-07-31
+"Pichincha"	"Mejía"	488	2020-07-31
+"Pichincha"	"Pedro Moncayo"	35	2020-07-31
+"Pichincha"	"Pedro Vicente Maldonado"	22	2020-07-31
+"Pichincha"	"Puerto Quito"	78	2020-07-31
+"Pichincha"	"Quito"	13342	2020-07-31
+"Pichincha"	"Rumiñahui"	643	2020-07-31
+"Pichincha"	"San Miguel de Los Bancos"	58	2020-07-31
+"Pichincha"	"Cayambe"	152	2020-08-01
+"Pichincha"	"Mejía"	488	2020-08-01
+"Pichincha"	"Pedro Moncayo"	36	2020-08-01
+"Pichincha"	"Pedro Vicente Maldonado"	22	2020-08-01
+"Pichincha"	"Puerto Quito"	78	2020-08-01
+"Pichincha"	"Quito"	13438	2020-08-01
+"Pichincha"	"Rumiñahui"	646	2020-08-01
+"Pichincha"	"San Miguel de Los Bancos"	59	2020-08-01
+"Pichincha"	"Cayambe"	153	2020-08-02
+"Pichincha"	"Mejía"	488	2020-08-02
+"Pichincha"	"Pedro Moncayo"	36	2020-08-02
+"Pichincha"	"Pedro Vicente Maldonado"	24	2020-08-02
+"Pichincha"	"Puerto Quito"	86	2020-08-02
+"Pichincha"	"Quito"	13474	2020-08-02
+"Pichincha"	"Rumiñahui"	648	2020-08-02
+"Pichincha"	"San Miguel de Los Bancos"	63	2020-08-02
+"Pichincha"	"Cayambe"	153	2020-08-03
+"Pichincha"	"Mejía"	488	2020-08-03
+"Pichincha"	"Pedro Moncayo"	36	2020-08-03
+"Pichincha"	"Pedro Vicente Maldonado"	24	2020-08-03
+"Pichincha"	"Puerto Quito"	86	2020-08-03
+"Pichincha"	"Quito"	13514	2020-08-03
+"Pichincha"	"Rumiñahui"	649	2020-08-03
+"Pichincha"	"San Miguel de Los Bancos"	63	2020-08-03
+"Pichincha"	"Cayambe"	154	2020-08-04
+"Pichincha"	"Mejía"	499	2020-08-04
+"Pichincha"	"Pedro Moncayo"	36	2020-08-04
+"Pichincha"	"Pedro Vicente Maldonado"	24	2020-08-04
+"Pichincha"	"Puerto Quito"	86	2020-08-04
+"Pichincha"	"Quito"	13651	2020-08-04
+"Pichincha"	"Rumiñahui"	678	2020-08-04
+"Pichincha"	"San Miguel de Los Bancos"	63	2020-08-04
+"Pichincha"	"Cayambe"	154	2020-08-05
+"Pichincha"	"Mejía"	505	2020-08-05
+"Pichincha"	"Pedro Moncayo"	37	2020-08-05
+"Pichincha"	"Pedro Vicente Maldonado"	31	2020-08-05
+"Pichincha"	"Puerto Quito"	93	2020-08-05
+"Pichincha"	"Quito"	13949	2020-08-05
+"Pichincha"	"Rumiñahui"	703	2020-08-05
+"Pichincha"	"San Miguel de Los Bancos"	70	2020-08-05
+"Pichincha"	"Cayambe"	158	2020-08-06
+"Pichincha"	"Mejía"	522	2020-08-06
+"Pichincha"	"Pedro Moncayo"	41	2020-08-06
+"Pichincha"	"Pedro Vicente Maldonado"	31	2020-08-06
+"Pichincha"	"Puerto Quito"	93	2020-08-06
+"Pichincha"	"Quito"	14857	2020-08-06
+"Pichincha"	"Rumiñahui"	712	2020-08-06
+"Pichincha"	"San Miguel de Los Bancos"	71	2020-08-06
+"Pichincha"	"Cayambe"	159	2020-08-07
+"Pichincha"	"Mejía"	536	2020-08-07
+"Pichincha"	"Pedro Moncayo"	43	2020-08-07
+"Pichincha"	"Pedro Vicente Maldonado"	31	2020-08-07
+"Pichincha"	"Puerto Quito"	94	2020-08-07
+"Pichincha"	"Quito"	15597	2020-08-07
+"Pichincha"	"Rumiñahui"	717	2020-08-07
+"Pichincha"	"San Miguel de Los Bancos"	71	2020-08-07
+"Pichincha"	"Cayambe"	160	2020-08-08
+"Pichincha"	"Mejía"	540	2020-08-08
+"Pichincha"	"Pedro Moncayo"	44	2020-08-08
+"Pichincha"	"Pedro Vicente Maldonado"	31	2020-08-08
+"Pichincha"	"Puerto Quito"	94	2020-08-08
+"Pichincha"	"Quito"	16019	2020-08-08
+"Pichincha"	"Rumiñahui"	722	2020-08-08
+"Pichincha"	"San Miguel de Los Bancos"	71	2020-08-08
+"Pichincha"	"Cayambe"	160	2020-08-09
+"Pichincha"	"Mejía"	542	2020-08-09
+"Pichincha"	"Pedro Moncayo"	44	2020-08-09
+"Pichincha"	"Pedro Vicente Maldonado"	31	2020-08-09
+"Pichincha"	"Puerto Quito"	94	2020-08-09
+"Pichincha"	"Quito"	16154	2020-08-09
+"Pichincha"	"Rumiñahui"	745	2020-08-09
+"Pichincha"	"San Miguel de Los Bancos"	79	2020-08-09
+"Pichincha"	"Cayambe"	160	2020-08-10
+"Pichincha"	"Mejía"	543	2020-08-10
+"Pichincha"	"Pedro Moncayo"	44	2020-08-10
+"Pichincha"	"Pedro Vicente Maldonado"	31	2020-08-10
+"Pichincha"	"Puerto Quito"	94	2020-08-10
+"Pichincha"	"Quito"	16210	2020-08-10
+"Pichincha"	"Rumiñahui"	749	2020-08-10
+"Pichincha"	"San Miguel de Los Bancos"	79	2020-08-10
+"Pichincha"	"Cayambe"	169	2020-08-11
+"Pichincha"	"Mejía"	550	2020-08-11
+"Pichincha"	"Pedro Moncayo"	54	2020-08-11
+"Pichincha"	"Pedro Vicente Maldonado"	43	2020-08-11
+"Pichincha"	"Puerto Quito"	97	2020-08-11
+"Pichincha"	"Quito"	16520	2020-08-11
+"Pichincha"	"Rumiñahui"	760	2020-08-11
+"Pichincha"	"San Miguel de Los Bancos"	82	2020-08-11
+"Pichincha"	"Cayambe"	176	2020-08-12
+"Pichincha"	"Mejía"	577	2020-08-12
+"Pichincha"	"Pedro Moncayo"	58	2020-08-12
+"Pichincha"	"Pedro Vicente Maldonado"	49	2020-08-12
+"Pichincha"	"Puerto Quito"	101	2020-08-12
+"Pichincha"	"Quito"	17232	2020-08-12
+"Pichincha"	"Rumiñahui"	779	2020-08-12
+"Pichincha"	"San Miguel de Los Bancos"	85	2020-08-12
+"Pichincha"	"Cayambe"	176	2020-08-13
+"Pichincha"	"Mejía"	582	2020-08-13
+"Pichincha"	"Pedro Moncayo"	58	2020-08-13
+"Pichincha"	"Pedro Vicente Maldonado"	49	2020-08-13
+"Pichincha"	"Puerto Quito"	101	2020-08-13
+"Pichincha"	"Quito"	17685	2020-08-13
+"Pichincha"	"Rumiñahui"	800	2020-08-13
+"Pichincha"	"San Miguel de Los Bancos"	85	2020-08-13
+"Pichincha"	"Cayambe"	177	2020-08-14
+"Pichincha"	"Mejía"	586	2020-08-14
+"Pichincha"	"Pedro Moncayo"	58	2020-08-14
+"Pichincha"	"Pedro Vicente Maldonado"	49	2020-08-14
+"Pichincha"	"Puerto Quito"	101	2020-08-14
+"Pichincha"	"Quito"	17992	2020-08-14
+"Pichincha"	"Rumiñahui"	803	2020-08-14
+"Pichincha"	"San Miguel de Los Bancos"	85	2020-08-14
+"Pichincha"	"Cayambe"	183	2020-08-15
+"Pichincha"	"Mejía"	605	2020-08-15
+"Pichincha"	"Pedro Moncayo"	59	2020-08-15
+"Pichincha"	"Pedro Vicente Maldonado"	55	2020-08-15
+"Pichincha"	"Puerto Quito"	101	2020-08-15
+"Pichincha"	"Quito"	18392	2020-08-15
+"Pichincha"	"Rumiñahui"	812	2020-08-15
+"Pichincha"	"San Miguel de Los Bancos"	97	2020-08-15
+"Pichincha"	"Cayambe"	185	2020-08-16
+"Pichincha"	"Mejía"	608	2020-08-16
+"Pichincha"	"Pedro Moncayo"	59	2020-08-16
+"Pichincha"	"Pedro Vicente Maldonado"	55	2020-08-16
+"Pichincha"	"Puerto Quito"	101	2020-08-16
+"Pichincha"	"Quito"	18571	2020-08-16
+"Pichincha"	"Rumiñahui"	833	2020-08-16
+"Pichincha"	"San Miguel de Los Bancos"	98	2020-08-16
+"Pichincha"	"Cayambe"	185	2020-08-17
+"Pichincha"	"Mejía"	609	2020-08-17
+"Pichincha"	"Pedro Moncayo"	59	2020-08-17
+"Pichincha"	"Pedro Vicente Maldonado"	55	2020-08-17
+"Pichincha"	"Puerto Quito"	101	2020-08-17
+"Pichincha"	"Quito"	18600	2020-08-17
+"Pichincha"	"Rumiñahui"	835	2020-08-17
+"Pichincha"	"San Miguel de Los Bancos"	98	2020-08-17
+"Pichincha"	"Cayambe"	229	2020-08-18
+"Pichincha"	"Mejía"	619	2020-08-18
+"Pichincha"	"Pedro Moncayo"	62	2020-08-18
+"Pichincha"	"Pedro Vicente Maldonado"	62	2020-08-18
+"Pichincha"	"Puerto Quito"	107	2020-08-18
+"Pichincha"	"Quito"	18945	2020-08-18
+"Pichincha"	"Rumiñahui"	857	2020-08-18
+"Pichincha"	"San Miguel de Los Bancos"	105	2020-08-18
+"Pichincha"	"Cayambe"	241	2020-08-19
+"Pichincha"	"Mejía"	622	2020-08-19
+"Pichincha"	"Pedro Moncayo"	65	2020-08-19
+"Pichincha"	"Pedro Vicente Maldonado"	62	2020-08-19
+"Pichincha"	"Puerto Quito"	107	2020-08-19
+"Pichincha"	"Quito"	19550	2020-08-19
+"Pichincha"	"Rumiñahui"	867	2020-08-19
+"Pichincha"	"San Miguel de Los Bancos"	105	2020-08-19
+"Pichincha"	"Cayambe"	243	2020-08-20
+"Pichincha"	"Mejía"	623	2020-08-20
+"Pichincha"	"Pedro Moncayo"	65	2020-08-20
+"Pichincha"	"Pedro Vicente Maldonado"	62	2020-08-20
+"Pichincha"	"Puerto Quito"	111	2020-08-20
+"Pichincha"	"Quito"	19794	2020-08-20
+"Pichincha"	"Rumiñahui"	880	2020-08-20
+"Pichincha"	"San Miguel de Los Bancos"	105	2020-08-20
+"Pichincha"	"Cayambe"	246	2020-08-21
+"Pichincha"	"Mejía"	625	2020-08-21
+"Pichincha"	"Pedro Moncayo"	65	2020-08-21
+"Pichincha"	"Pedro Vicente Maldonado"	62	2020-08-21
+"Pichincha"	"Puerto Quito"	111	2020-08-21
+"Pichincha"	"Quito"	19972	2020-08-21
+"Pichincha"	"Rumiñahui"	884	2020-08-21
+"Pichincha"	"San Miguel de Los Bancos"	105	2020-08-21
+"Pichincha"	"Cayambe"	248	2020-08-22
+"Pichincha"	"Mejía"	634	2020-08-22
+"Pichincha"	"Pedro Moncayo"	65	2020-08-22
+"Pichincha"	"Pedro Vicente Maldonado"	62	2020-08-22
+"Pichincha"	"Puerto Quito"	111	2020-08-22
+"Pichincha"	"Quito"	20085	2020-08-22
+"Pichincha"	"Rumiñahui"	899	2020-08-22
+"Pichincha"	"San Miguel de Los Bancos"	105	2020-08-22
+"Pichincha"	"Cayambe"	248	2020-08-23
+"Pichincha"	"Mejía"	637	2020-08-23
+"Pichincha"	"Pedro Moncayo"	65	2020-08-23
+"Pichincha"	"Pedro Vicente Maldonado"	62	2020-08-23
+"Pichincha"	"Puerto Quito"	111	2020-08-23
+"Pichincha"	"Quito"	20253	2020-08-23
+"Pichincha"	"Rumiñahui"	905	2020-08-23
+"Pichincha"	"San Miguel de Los Bancos"	107	2020-08-23
+"Pichincha"	"Cayambe"	251	2020-08-24
+"Pichincha"	"Mejía"	638	2020-08-24
+"Pichincha"	"Pedro Moncayo"	66	2020-08-24
+"Pichincha"	"Pedro Vicente Maldonado"	62	2020-08-24
+"Pichincha"	"Puerto Quito"	111	2020-08-24
+"Pichincha"	"Quito"	20354	2020-08-24
+"Pichincha"	"Rumiñahui"	912	2020-08-24
+"Pichincha"	"San Miguel de Los Bancos"	107	2020-08-24
+"Pichincha"	"Cayambe"	260	2020-08-25
+"Pichincha"	"Mejía"	638	2020-08-25
+"Pichincha"	"Pedro Moncayo"	66	2020-08-25
+"Pichincha"	"Pedro Vicente Maldonado"	76	2020-08-25
+"Pichincha"	"Puerto Quito"	111	2020-08-25
+"Pichincha"	"Quito"	20498	2020-08-25
+"Pichincha"	"Rumiñahui"	926	2020-08-25
+"Pichincha"	"San Miguel de Los Bancos"	108	2020-08-25
+"Pichincha"	"Cayambe"	285	2020-08-26
+"Pichincha"	"Mejía"	644	2020-08-26
+"Pichincha"	"Pedro Moncayo"	70	2020-08-26
+"Pichincha"	"Pedro Vicente Maldonado"	76	2020-08-26
+"Pichincha"	"Puerto Quito"	111	2020-08-26
+"Pichincha"	"Quito"	20853	2020-08-26
+"Pichincha"	"Rumiñahui"	936	2020-08-26
+"Pichincha"	"San Miguel de Los Bancos"	108	2020-08-26
+"Pichincha"	"Cayambe"	285	2020-08-27
+"Pichincha"	"Mejía"	647	2020-08-27
+"Pichincha"	"Pedro Moncayo"	71	2020-08-27
+"Pichincha"	"Pedro Vicente Maldonado"	91	2020-08-27
+"Pichincha"	"Puerto Quito"	117	2020-08-27
+"Pichincha"	"Quito"	21112	2020-08-27
+"Pichincha"	"Rumiñahui"	945	2020-08-27
+"Pichincha"	"San Miguel de Los Bancos"	113	2020-08-27
+"Pichincha"	"Cayambe"	289	2020-08-28
+"Pichincha"	"Mejía"	652	2020-08-28
+"Pichincha"	"Pedro Moncayo"	72	2020-08-28
+"Pichincha"	"Pedro Vicente Maldonado"	91	2020-08-28
+"Pichincha"	"Puerto Quito"	119	2020-08-28
+"Pichincha"	"Quito"	21238	2020-08-28
+"Pichincha"	"Rumiñahui"	951	2020-08-28
+"Pichincha"	"San Miguel de Los Bancos"	113	2020-08-28
+"Pichincha"	"Cayambe"	291	2020-08-29
+"Pichincha"	"Mejía"	653	2020-08-29
+"Pichincha"	"Pedro Moncayo"	73	2020-08-29
+"Pichincha"	"Pedro Vicente Maldonado"	91	2020-08-29
+"Pichincha"	"Puerto Quito"	119	2020-08-29
+"Pichincha"	"Quito"	21432	2020-08-29
+"Pichincha"	"Rumiñahui"	954	2020-08-29
+"Pichincha"	"San Miguel de Los Bancos"	113	2020-08-29
+"Pichincha"	"Cayambe"	291	2020-08-30
+"Pichincha"	"Mejía"	654	2020-08-30
+"Pichincha"	"Pedro Moncayo"	73	2020-08-30
+"Pichincha"	"Pedro Vicente Maldonado"	91	2020-08-30
+"Pichincha"	"Puerto Quito"	119	2020-08-30
+"Pichincha"	"Quito"	21558	2020-08-30
+"Pichincha"	"Rumiñahui"	966	2020-08-30
+"Pichincha"	"San Miguel de Los Bancos"	113	2020-08-30
+"Pichincha"	"Cayambe"	291	2020-08-31
+"Pichincha"	"Mejía"	654	2020-08-31
+"Pichincha"	"Pedro Moncayo"	73	2020-08-31
+"Pichincha"	"Pedro Vicente Maldonado"	91	2020-08-31
+"Pichincha"	"Puerto Quito"	119	2020-08-31
+"Pichincha"	"Quito"	21589	2020-08-31
+"Pichincha"	"Rumiñahui"	967	2020-08-31
+"Pichincha"	"San Miguel de Los Bancos"	114	2020-08-31
+"Pichincha"	"Cayambe"	300	2020-09-01
+"Pichincha"	"Mejía"	661	2020-09-01
+"Pichincha"	"Pedro Moncayo"	74	2020-09-01
+"Pichincha"	"Pedro Vicente Maldonado"	95	2020-09-01
+"Pichincha"	"Puerto Quito"	122	2020-09-01
+"Pichincha"	"Quito"	21739	2020-09-01
+"Pichincha"	"Rumiñahui"	970	2020-09-01
+"Pichincha"	"San Miguel de Los Bancos"	115	2020-09-01
+"Pichincha"	"Cayambe"	320	2020-09-02
+"Pichincha"	"Mejía"	666	2020-09-02
+"Pichincha"	"Pedro Moncayo"	77	2020-09-02
+"Pichincha"	"Pedro Vicente Maldonado"	95	2020-09-02
+"Pichincha"	"Puerto Quito"	122	2020-09-02
+"Pichincha"	"Quito"	21957	2020-09-02
+"Pichincha"	"Rumiñahui"	978	2020-09-02
+"Pichincha"	"San Miguel de Los Bancos"	116	2020-09-02
+"Pichincha"	"Cayambe"	324	2020-09-03
+"Pichincha"	"Mejía"	674	2020-09-03
+"Pichincha"	"Pedro Moncayo"	78	2020-09-03
+"Pichincha"	"Pedro Vicente Maldonado"	101	2020-09-03
+"Pichincha"	"Puerto Quito"	124	2020-09-03
+"Pichincha"	"Quito"	22158	2020-09-03
+"Pichincha"	"Rumiñahui"	983	2020-09-03
+"Pichincha"	"San Miguel de Los Bancos"	121	2020-09-03
+"Pichincha"	"Cayambe"	333	2020-09-04
+"Pichincha"	"Mejía"	681	2020-09-04
+"Pichincha"	"Pedro Moncayo"	79	2020-09-04
+"Pichincha"	"Pedro Vicente Maldonado"	102	2020-09-04
+"Pichincha"	"Puerto Quito"	124	2020-09-04
+"Pichincha"	"Quito"	22281	2020-09-04
+"Pichincha"	"Rumiñahui"	984	2020-09-04
+"Pichincha"	"San Miguel de Los Bancos"	121	2020-09-04
+"Pichincha"	"Cayambe"	340	2020-09-05
+"Pichincha"	"Mejía"	685	2020-09-05
+"Pichincha"	"Pedro Moncayo"	79	2020-09-05
+"Pichincha"	"Pedro Vicente Maldonado"	103	2020-09-05
+"Pichincha"	"Puerto Quito"	125	2020-09-05
+"Pichincha"	"Quito"	22460	2020-09-05
+"Pichincha"	"Rumiñahui"	999	2020-09-05
+"Pichincha"	"San Miguel de Los Bancos"	121	2020-09-05
+"Pichincha"	"Cayambe"	343	2020-09-06
+"Pichincha"	"Mejía"	686	2020-09-06
+"Pichincha"	"Pedro Moncayo"	79	2020-09-06
+"Pichincha"	"Pedro Vicente Maldonado"	104	2020-09-06
+"Pichincha"	"Puerto Quito"	125	2020-09-06
+"Pichincha"	"Quito"	22600	2020-09-06
+"Pichincha"	"Rumiñahui"	1007	2020-09-06
+"Pichincha"	"San Miguel de Los Bancos"	121	2020-09-06
+"Pichincha"	"Cayambe"	343	2020-09-07
+"Pichincha"	"Mejía"	686	2020-09-07
+"Pichincha"	"Pedro Moncayo"	79	2020-09-07
+"Pichincha"	"Pedro Vicente Maldonado"	104	2020-09-07
+"Pichincha"	"Puerto Quito"	126	2020-09-07
+"Pichincha"	"Quito"	22614	2020-09-07
+"Pichincha"	"Rumiñahui"	1007	2020-09-07
+"Pichincha"	"San Miguel de Los Bancos"	121	2020-09-07
+"Pichincha"	"Cayambe"	343	2020-09-08
+"Pichincha"	"Mejía"	690	2020-09-08
+"Pichincha"	"Pedro Moncayo"	79	2020-09-08
+"Pichincha"	"Pedro Vicente Maldonado"	104	2020-09-08
+"Pichincha"	"Puerto Quito"	126	2020-09-08
+"Pichincha"	"Quito"	22742	2020-09-08
+"Pichincha"	"Rumiñahui"	1011	2020-09-08
+"Pichincha"	"San Miguel de Los Bancos"	121	2020-09-08
+"Pichincha"	"Cayambe"	346	2020-09-09
+"Pichincha"	"Mejía"	709	2020-09-09
+"Pichincha"	"Pedro Moncayo"	79	2020-09-09
+"Pichincha"	"Pedro Vicente Maldonado"	105	2020-09-09
+"Pichincha"	"Puerto Quito"	129	2020-09-09
+"Pichincha"	"Quito"	23217	2020-09-09
+"Pichincha"	"Rumiñahui"	1028	2020-09-09
+"Pichincha"	"San Miguel de Los Bancos"	121	2020-09-09
+"Pichincha"	"Cayambe"	348	2020-09-10
+"Pichincha"	"Mejía"	716	2020-09-10
+"Pichincha"	"Pedro Moncayo"	81	2020-09-10
+"Pichincha"	"Pedro Vicente Maldonado"	105	2020-09-10
+"Pichincha"	"Puerto Quito"	129	2020-09-10
+"Pichincha"	"Quito"	23583	2020-09-10
+"Pichincha"	"Rumiñahui"	1037	2020-09-10
+"Pichincha"	"San Miguel de Los Bancos"	123	2020-09-10
+"Pichincha"	"Cayambe"	357	2020-09-11
+"Pichincha"	"Mejía"	719	2020-09-11
+"Pichincha"	"Pedro Moncayo"	82	2020-09-11
+"Pichincha"	"Pedro Vicente Maldonado"	109	2020-09-11
+"Pichincha"	"Puerto Quito"	131	2020-09-11
+"Pichincha"	"Quito"	23979	2020-09-11
+"Pichincha"	"Rumiñahui"	1049	2020-09-11
+"Pichincha"	"San Miguel de Los Bancos"	124	2020-09-11
+"Pichincha"	"Cayambe"	366	2020-09-12
+"Pichincha"	"Mejía"	725	2020-09-12
+"Pichincha"	"Pedro Moncayo"	84	2020-09-12
+"Pichincha"	"Pedro Vicente Maldonado"	109	2020-09-12
+"Pichincha"	"Puerto Quito"	134	2020-09-12
+"Pichincha"	"Quito"	24978	2020-09-12
+"Pichincha"	"Rumiñahui"	1055	2020-09-12
+"Pichincha"	"San Miguel de Los Bancos"	124	2020-09-12
+"Pichincha"	"Cayambe"	368	2020-09-13
+"Pichincha"	"Mejía"	747	2020-09-13
+"Pichincha"	"Pedro Moncayo"	84	2020-09-13
+"Pichincha"	"Pedro Vicente Maldonado"	109	2020-09-13
+"Pichincha"	"Puerto Quito"	135	2020-09-13
+"Pichincha"	"Quito"	26551	2020-09-13
+"Pichincha"	"Rumiñahui"	1065	2020-09-13
+"Pichincha"	"San Miguel de Los Bancos"	124	2020-09-13
+"Pichincha"	"Cayambe"	371	2020-09-14
+"Pichincha"	"Mejía"	748	2020-09-14
+"Pichincha"	"Pedro Moncayo"	84	2020-09-14
+"Pichincha"	"Pedro Vicente Maldonado"	109	2020-09-14
+"Pichincha"	"Puerto Quito"	135	2020-09-14
+"Pichincha"	"Quito"	26766	2020-09-14
+"Pichincha"	"Rumiñahui"	1073	2020-09-14
+"Pichincha"	"San Miguel de Los Bancos"	124	2020-09-14
+"Pichincha"	"Cayambe"	371	2020-09-15
+"Pichincha"	"Mejía"	751	2020-09-15
+"Pichincha"	"Pedro Moncayo"	84	2020-09-15
+"Pichincha"	"Pedro Vicente Maldonado"	109	2020-09-15
+"Pichincha"	"Puerto Quito"	135	2020-09-15
+"Pichincha"	"Quito"	27104	2020-09-15
+"Pichincha"	"Rumiñahui"	1077	2020-09-15
+"Pichincha"	"San Miguel de Los Bancos"	125	2020-09-15
+"Pichincha"	"Cayambe"	376	2020-09-16
+"Pichincha"	"Mejía"	760	2020-09-16
+"Pichincha"	"Pedro Moncayo"	86	2020-09-16
+"Pichincha"	"Pedro Vicente Maldonado"	120	2020-09-16
+"Pichincha"	"Puerto Quito"	143	2020-09-16
+"Pichincha"	"Quito"	27989	2020-09-16
+"Pichincha"	"Rumiñahui"	1092	2020-09-16
+"Pichincha"	"San Miguel de Los Bancos"	127	2020-09-16
+"Pichincha"	"Cayambe"	382	2020-09-17
+"Pichincha"	"Mejía"	770	2020-09-17
+"Pichincha"	"Pedro Moncayo"	87	2020-09-17
+"Pichincha"	"Pedro Vicente Maldonado"	120	2020-09-17
+"Pichincha"	"Puerto Quito"	144	2020-09-17
+"Pichincha"	"Quito"	28060	2020-09-17
+"Pichincha"	"Rumiñahui"	1103	2020-09-17
+"Pichincha"	"San Miguel de Los Bancos"	127	2020-09-17
+"Pichincha"	"Cayambe"	390	2020-09-18
+"Pichincha"	"Mejía"	791	2020-09-18
+"Pichincha"	"Pedro Moncayo"	87	2020-09-18
+"Pichincha"	"Pedro Vicente Maldonado"	121	2020-09-18
+"Pichincha"	"Puerto Quito"	146	2020-09-18
+"Pichincha"	"Quito"	29416	2020-09-18
+"Pichincha"	"Rumiñahui"	1117	2020-09-18
+"Pichincha"	"San Miguel de Los Bancos"	127	2020-09-18
+"Pichincha"	"Cayambe"	395	2020-09-19
+"Pichincha"	"Mejía"	799	2020-09-19
+"Pichincha"	"Pedro Moncayo"	87	2020-09-19
+"Pichincha"	"Pedro Vicente Maldonado"	122	2020-09-19
+"Pichincha"	"Puerto Quito"	146	2020-09-19
+"Pichincha"	"Quito"	30174	2020-09-19
+"Pichincha"	"Rumiñahui"	1136	2020-09-19
+"Pichincha"	"San Miguel de Los Bancos"	129	2020-09-19
+"Pichincha"	"Cayambe"	396	2020-09-20
+"Pichincha"	"Mejía"	819	2020-09-20
+"Pichincha"	"Pedro Moncayo"	87	2020-09-20
+"Pichincha"	"Pedro Vicente Maldonado"	128	2020-09-20
+"Pichincha"	"Puerto Quito"	146	2020-09-20
+"Pichincha"	"Quito"	30557	2020-09-20
+"Pichincha"	"Rumiñahui"	1173	2020-09-20
+"Pichincha"	"San Miguel de Los Bancos"	129	2020-09-20
+"Pichincha"	"Cayambe"	397	2020-09-21
+"Pichincha"	"Mejía"	819	2020-09-21
+"Pichincha"	"Pedro Moncayo"	87	2020-09-21
+"Pichincha"	"Pedro Vicente Maldonado"	128	2020-09-21
+"Pichincha"	"Puerto Quito"	146	2020-09-21
+"Pichincha"	"Quito"	30723	2020-09-21
+"Pichincha"	"Rumiñahui"	1176	2020-09-21
+"Pichincha"	"San Miguel de Los Bancos"	129	2020-09-21
+"Pichincha"	"Cayambe"	399	2020-09-22
+"Pichincha"	"Mejía"	828	2020-09-22
+"Pichincha"	"Pedro Moncayo"	89	2020-09-22
+"Pichincha"	"Pedro Vicente Maldonado"	128	2020-09-22
+"Pichincha"	"Puerto Quito"	146	2020-09-22
+"Pichincha"	"Quito"	31041	2020-09-22
+"Pichincha"	"Rumiñahui"	1187	2020-09-22
+"Pichincha"	"San Miguel de Los Bancos"	129	2020-09-22
+"Pichincha"	"Cayambe"	401	2020-09-23
+"Pichincha"	"Mejía"	849	2020-09-23
+"Pichincha"	"Pedro Moncayo"	91	2020-09-23
+"Pichincha"	"Pedro Vicente Maldonado"	128	2020-09-23
+"Pichincha"	"Puerto Quito"	147	2020-09-23
+"Pichincha"	"Quito"	32543	2020-09-23
+"Pichincha"	"Rumiñahui"	1227	2020-09-23
+"Pichincha"	"San Miguel de Los Bancos"	129	2020-09-23
+"Pichincha"	"Cayambe"	403	2020-09-24
+"Pichincha"	"Mejía"	860	2020-09-24
+"Pichincha"	"Pedro Moncayo"	92	2020-09-24
+"Pichincha"	"Pedro Vicente Maldonado"	129	2020-09-24
+"Pichincha"	"Puerto Quito"	148	2020-09-24
+"Pichincha"	"Quito"	33269	2020-09-24
+"Pichincha"	"Rumiñahui"	1257	2020-09-24
+"Pichincha"	"San Miguel de Los Bancos"	130	2020-09-24
+"Pichincha"	"Cayambe"	407	2020-09-25
+"Pichincha"	"Mejía"	867	2020-09-25
+"Pichincha"	"Pedro Moncayo"	95	2020-09-25
+"Pichincha"	"Pedro Vicente Maldonado"	129	2020-09-25
+"Pichincha"	"Puerto Quito"	148	2020-09-25
+"Pichincha"	"Quito"	34079	2020-09-25
+"Pichincha"	"Rumiñahui"	1289	2020-09-25
+"Pichincha"	"San Miguel de Los Bancos"	131	2020-09-25
+"Pichincha"	"Cayambe"	421	2020-09-26
+"Pichincha"	"Mejía"	888	2020-09-26
+"Pichincha"	"Pedro Moncayo"	103	2020-09-26
+"Pichincha"	"Pedro Vicente Maldonado"	129	2020-09-26
+"Pichincha"	"Puerto Quito"	149	2020-09-26
+"Pichincha"	"Quito"	35025	2020-09-26
+"Pichincha"	"Rumiñahui"	1321	2020-09-26
+"Pichincha"	"San Miguel de Los Bancos"	138	2020-09-26
+"Pichincha"	"Cayambe"	424	2020-09-27
+"Pichincha"	"Mejía"	890	2020-09-27
+"Pichincha"	"Pedro Moncayo"	105	2020-09-27
+"Pichincha"	"Pedro Vicente Maldonado"	129	2020-09-27
+"Pichincha"	"Puerto Quito"	149	2020-09-27
+"Pichincha"	"Quito"	35457	2020-09-27
+"Pichincha"	"Rumiñahui"	1336	2020-09-27
+"Pichincha"	"San Miguel de Los Bancos"	138	2020-09-27
+"Pichincha"	"Cayambe"	426	2020-09-28
+"Pichincha"	"Mejía"	892	2020-09-28
+"Pichincha"	"Pedro Moncayo"	105	2020-09-28
+"Pichincha"	"Pedro Vicente Maldonado"	129	2020-09-28
+"Pichincha"	"Puerto Quito"	149	2020-09-28
+"Pichincha"	"Quito"	35602	2020-09-28
+"Pichincha"	"Rumiñahui"	1340	2020-09-28
+"Pichincha"	"San Miguel de Los Bancos"	138	2020-09-28
+"Pichincha"	"Cayambe"	433	2020-09-29
+"Pichincha"	"Mejía"	907	2020-09-29
+"Pichincha"	"Pedro Moncayo"	108	2020-09-29
+"Pichincha"	"Pedro Vicente Maldonado"	134	2020-09-29
+"Pichincha"	"Puerto Quito"	149	2020-09-29
+"Pichincha"	"Quito"	35972	2020-09-29
+"Pichincha"	"Rumiñahui"	1350	2020-09-29
+"Pichincha"	"San Miguel de Los Bancos"	139	2020-09-29
+"Pichincha"	"Cayambe"	460	2020-09-30
+"Pichincha"	"Mejía"	923	2020-09-30
+"Pichincha"	"Pedro Moncayo"	116	2020-09-30
+"Pichincha"	"Pedro Vicente Maldonado"	135	2020-09-30
+"Pichincha"	"Puerto Quito"	149	2020-09-30
+"Pichincha"	"Quito"	36629	2020-09-30
+"Pichincha"	"Rumiñahui"	1375	2020-09-30
+"Pichincha"	"San Miguel de Los Bancos"	143	2020-09-30
+"Pichincha"	"Cayambe"	469	2020-10-01
+"Pichincha"	"Mejía"	937	2020-10-01
+"Pichincha"	"Pedro Moncayo"	125	2020-10-01
+"Pichincha"	"Pedro Vicente Maldonado"	135	2020-10-01
+"Pichincha"	"Puerto Quito"	158	2020-10-01
+"Pichincha"	"Quito"	37403	2020-10-01
+"Pichincha"	"Rumiñahui"	1403	2020-10-01
+"Pichincha"	"San Miguel de Los Bancos"	145	2020-10-01
+"Pichincha"	"Cayambe"	476	2020-10-02
+"Pichincha"	"Mejía"	957	2020-10-02
+"Pichincha"	"Pedro Moncayo"	129	2020-10-02
+"Pichincha"	"Pedro Vicente Maldonado"	135	2020-10-02
+"Pichincha"	"Puerto Quito"	158	2020-10-02
+"Pichincha"	"Quito"	37922	2020-10-02
+"Pichincha"	"Rumiñahui"	1436	2020-10-02
+"Pichincha"	"San Miguel de Los Bancos"	145	2020-10-02
+"Pichincha"	"Cayambe"	481	2020-10-03
+"Pichincha"	"Mejía"	966	2020-10-03
+"Pichincha"	"Pedro Moncayo"	129	2020-10-03
+"Pichincha"	"Pedro Vicente Maldonado"	135	2020-10-03
+"Pichincha"	"Puerto Quito"	158	2020-10-03
+"Pichincha"	"Quito"	38245	2020-10-03
+"Pichincha"	"Rumiñahui"	1454	2020-10-03
+"Pichincha"	"San Miguel de Los Bancos"	145	2020-10-03
+"Pichincha"	"Cayambe"	482	2020-10-04
+"Pichincha"	"Mejía"	967	2020-10-04
+"Pichincha"	"Pedro Moncayo"	132	2020-10-04
+"Pichincha"	"Pedro Vicente Maldonado"	136	2020-10-04
+"Pichincha"	"Puerto Quito"	158	2020-10-04
+"Pichincha"	"Quito"	38526	2020-10-04
+"Pichincha"	"Rumiñahui"	1471	2020-10-04
+"Pichincha"	"San Miguel de Los Bancos"	146	2020-10-04
+"Pichincha"	"Cayambe"	483	2020-10-05
+"Pichincha"	"Mejía"	971	2020-10-05
+"Pichincha"	"Pedro Moncayo"	132	2020-10-05
+"Pichincha"	"Pedro Vicente Maldonado"	136	2020-10-05
+"Pichincha"	"Puerto Quito"	158	2020-10-05
+"Pichincha"	"Quito"	38717	2020-10-05
+"Pichincha"	"Rumiñahui"	1481	2020-10-05
+"Pichincha"	"San Miguel de Los Bancos"	146	2020-10-05
+"Pichincha"	"Cayambe"	492	2020-10-06
+"Pichincha"	"Mejía"	978	2020-10-06
+"Pichincha"	"Pedro Moncayo"	135	2020-10-06
+"Pichincha"	"Pedro Vicente Maldonado"	136	2020-10-06
+"Pichincha"	"Puerto Quito"	159	2020-10-06
+"Pichincha"	"Quito"	39102	2020-10-06
+"Pichincha"	"Rumiñahui"	1502	2020-10-06
+"Pichincha"	"San Miguel de Los Bancos"	147	2020-10-06
+"Pichincha"	"Cayambe"	506	2020-10-07
+"Pichincha"	"Mejía"	991	2020-10-07
+"Pichincha"	"Pedro Moncayo"	135	2020-10-07
+"Pichincha"	"Pedro Vicente Maldonado"	137	2020-10-07
+"Pichincha"	"Puerto Quito"	159	2020-10-07
+"Pichincha"	"Quito"	40021	2020-10-07
+"Pichincha"	"Rumiñahui"	1560	2020-10-07
+"Pichincha"	"San Miguel de Los Bancos"	150	2020-10-07
+"Pichincha"	"Cayambe"	512	2020-10-08
+"Pichincha"	"Mejía"	1006	2020-10-08
+"Pichincha"	"Pedro Moncayo"	136	2020-10-08
+"Pichincha"	"Pedro Vicente Maldonado"	139	2020-10-08
+"Pichincha"	"Puerto Quito"	159	2020-10-08
+"Pichincha"	"Quito"	40982	2020-10-08
+"Pichincha"	"Rumiñahui"	1578	2020-10-08
+"Pichincha"	"San Miguel de Los Bancos"	150	2020-10-08
+"Pichincha"	"Cayambe"	523	2020-10-09
+"Pichincha"	"Mejía"	1016	2020-10-09
+"Pichincha"	"Pedro Moncayo"	138	2020-10-09
+"Pichincha"	"Pedro Vicente Maldonado"	139	2020-10-09
+"Pichincha"	"Puerto Quito"	159	2020-10-09
+"Pichincha"	"Quito"	41441	2020-10-09
+"Pichincha"	"Rumiñahui"	1596	2020-10-09
+"Pichincha"	"San Miguel de Los Bancos"	150	2020-10-09
+"Pichincha"	"Cayambe"	529	2020-10-10
+"Pichincha"	"Mejía"	1044	2020-10-10
+"Pichincha"	"Pedro Moncayo"	143	2020-10-10
+"Pichincha"	"Pedro Vicente Maldonado"	139	2020-10-10
+"Pichincha"	"Puerto Quito"	159	2020-10-10
+"Pichincha"	"Quito"	42008	2020-10-10
+"Pichincha"	"Rumiñahui"	1634	2020-10-10
+"Pichincha"	"San Miguel de Los Bancos"	150	2020-10-10
+"Pichincha"	"Cayambe"	529	2020-10-11
+"Pichincha"	"Mejía"	1044	2020-10-11
+"Pichincha"	"Pedro Moncayo"	143	2020-10-11
+"Pichincha"	"Pedro Vicente Maldonado"	139	2020-10-11
+"Pichincha"	"Puerto Quito"	159	2020-10-11
+"Pichincha"	"Quito"	42155	2020-10-11
+"Pichincha"	"Rumiñahui"	1639	2020-10-11
+"Pichincha"	"San Miguel de Los Bancos"	150	2020-10-11
+"Pichincha"	"Cayambe"	529	2020-10-12
+"Pichincha"	"Mejía"	1049	2020-10-12
+"Pichincha"	"Pedro Moncayo"	143	2020-10-12
+"Pichincha"	"Pedro Vicente Maldonado"	139	2020-10-12
+"Pichincha"	"Puerto Quito"	159	2020-10-12
+"Pichincha"	"Quito"	42339	2020-10-12
+"Pichincha"	"Rumiñahui"	1646	2020-10-12
+"Pichincha"	"San Miguel de Los Bancos"	150	2020-10-12
+"Pichincha"	"Cayambe"	537	2020-10-13
+"Pichincha"	"Mejía"	1057	2020-10-13
+"Pichincha"	"Pedro Moncayo"	143	2020-10-13
+"Pichincha"	"Pedro Vicente Maldonado"	139	2020-10-13
+"Pichincha"	"Puerto Quito"	159	2020-10-13
+"Pichincha"	"Quito"	42841	2020-10-13
+"Pichincha"	"Rumiñahui"	1664	2020-10-13
+"Pichincha"	"San Miguel de Los Bancos"	150	2020-10-13
+"Pichincha"	"Cayambe"	547	2020-10-14
+"Pichincha"	"Mejía"	1061	2020-10-14
+"Pichincha"	"Pedro Moncayo"	143	2020-10-14
+"Pichincha"	"Pedro Vicente Maldonado"	140	2020-10-14
+"Pichincha"	"Puerto Quito"	161	2020-10-14
+"Pichincha"	"Quito"	43307	2020-10-14
+"Pichincha"	"Rumiñahui"	1695	2020-10-14
+"Pichincha"	"San Miguel de Los Bancos"	154	2020-10-14
+"Pichincha"	"Cayambe"	558	2020-10-15
+"Pichincha"	"Mejía"	1068	2020-10-15
+"Pichincha"	"Pedro Moncayo"	143	2020-10-15
+"Pichincha"	"Pedro Vicente Maldonado"	140	2020-10-15
+"Pichincha"	"Puerto Quito"	161	2020-10-15
+"Pichincha"	"Quito"	43977	2020-10-15
+"Pichincha"	"Rumiñahui"	1720	2020-10-15
+"Pichincha"	"San Miguel de Los Bancos"	154	2020-10-15
+"Pichincha"	"Cayambe"	565	2020-10-16
+"Pichincha"	"Mejía"	1078	2020-10-16
+"Pichincha"	"Pedro Moncayo"	143	2020-10-16
+"Pichincha"	"Pedro Vicente Maldonado"	140	2020-10-16
+"Pichincha"	"Puerto Quito"	161	2020-10-16
+"Pichincha"	"Quito"	44624	2020-10-16
+"Pichincha"	"Rumiñahui"	1742	2020-10-16
+"Pichincha"	"San Miguel de Los Bancos"	154	2020-10-16
+"Pichincha"	"Cayambe"	571	2020-10-17
+"Pichincha"	"Mejía"	1085	2020-10-17
+"Pichincha"	"Pedro Moncayo"	144	2020-10-17
+"Pichincha"	"Pedro Vicente Maldonado"	140	2020-10-17
+"Pichincha"	"Puerto Quito"	161	2020-10-17
+"Pichincha"	"Quito"	45052	2020-10-17
+"Pichincha"	"Rumiñahui"	1764	2020-10-17
+"Pichincha"	"San Miguel de Los Bancos"	154	2020-10-17
+"Pichincha"	"Cayambe"	578	2020-10-18
+"Pichincha"	"Mejía"	1094	2020-10-18
+"Pichincha"	"Pedro Moncayo"	149	2020-10-18
+"Pichincha"	"Pedro Vicente Maldonado"	141	2020-10-18
+"Pichincha"	"Puerto Quito"	161	2020-10-18
+"Pichincha"	"Quito"	45448	2020-10-18
+"Pichincha"	"Rumiñahui"	1803	2020-10-18
+"Pichincha"	"San Miguel de Los Bancos"	154	2020-10-18
+"Pichincha"	"Cayambe"	579	2020-10-19
+"Pichincha"	"Mejía"	1094	2020-10-19
+"Pichincha"	"Pedro Moncayo"	149	2020-10-19
+"Pichincha"	"Pedro Vicente Maldonado"	141	2020-10-19
+"Pichincha"	"Puerto Quito"	161	2020-10-19
+"Pichincha"	"Quito"	45499	2020-10-19
+"Pichincha"	"Rumiñahui"	1806	2020-10-19
+"Pichincha"	"San Miguel de Los Bancos"	154	2020-10-19
+"Pichincha"	"Cayambe"	581	2020-10-20
+"Pichincha"	"Mejía"	1097	2020-10-20
+"Pichincha"	"Pedro Moncayo"	149	2020-10-20
+"Pichincha"	"Pedro Vicente Maldonado"	141	2020-10-20
+"Pichincha"	"Puerto Quito"	161	2020-10-20
+"Pichincha"	"Quito"	45928	2020-10-20
+"Pichincha"	"Rumiñahui"	1813	2020-10-20
+"Pichincha"	"San Miguel de Los Bancos"	155	2020-10-20
+"Pichincha"	"Cayambe"	584	2020-10-21
+"Pichincha"	"Mejía"	1104	2020-10-21
+"Pichincha"	"Pedro Moncayo"	151	2020-10-21
+"Pichincha"	"Pedro Vicente Maldonado"	141	2020-10-21
+"Pichincha"	"Puerto Quito"	161	2020-10-21
+"Pichincha"	"Quito"	46712	2020-10-21
+"Pichincha"	"Rumiñahui"	1850	2020-10-21
+"Pichincha"	"San Miguel de Los Bancos"	155	2020-10-21
+"Pichincha"	"Cayambe"	584	2020-10-22
+"Pichincha"	"Mejía"	1111	2020-10-22
+"Pichincha"	"Pedro Moncayo"	151	2020-10-22
+"Pichincha"	"Pedro Vicente Maldonado"	141	2020-10-22
+"Pichincha"	"Puerto Quito"	161	2020-10-22
+"Pichincha"	"Quito"	47028	2020-10-22
+"Pichincha"	"Rumiñahui"	1876	2020-10-22
+"Pichincha"	"San Miguel de Los Bancos"	155	2020-10-22
+"Pichincha"	"Cayambe"	586	2020-10-23
+"Pichincha"	"Mejía"	1131	2020-10-23
+"Pichincha"	"Pedro Moncayo"	151	2020-10-23
+"Pichincha"	"Pedro Vicente Maldonado"	142	2020-10-23
+"Pichincha"	"Puerto Quito"	162	2020-10-23
+"Pichincha"	"Quito"	48076	2020-10-23
+"Pichincha"	"Rumiñahui"	1910	2020-10-23
+"Pichincha"	"San Miguel de Los Bancos"	156	2020-10-23
+"Pichincha"	"Cayambe"	596	2020-10-24
+"Pichincha"	"Mejía"	1149	2020-10-24
+"Pichincha"	"Pedro Moncayo"	152	2020-10-24
+"Pichincha"	"Pedro Vicente Maldonado"	142	2020-10-24
+"Pichincha"	"Puerto Quito"	162	2020-10-24
+"Pichincha"	"Quito"	49085	2020-10-24
+"Pichincha"	"Rumiñahui"	1945	2020-10-24
+"Pichincha"	"San Miguel de Los Bancos"	156	2020-10-24
+"Pichincha"	"Cayambe"	605	2020-10-25
+"Pichincha"	"Mejía"	1173	2020-10-25
+"Pichincha"	"Pedro Moncayo"	152	2020-10-25
+"Pichincha"	"Pedro Vicente Maldonado"	142	2020-10-25
+"Pichincha"	"Puerto Quito"	162	2020-10-25
+"Pichincha"	"Quito"	50694	2020-10-25
+"Pichincha"	"Rumiñahui"	1987	2020-10-25
+"Pichincha"	"San Miguel de Los Bancos"	156	2020-10-25
+"Pichincha"	"Cayambe"	607	2020-10-26
+"Pichincha"	"Mejía"	1179	2020-10-26
+"Pichincha"	"Pedro Moncayo"	154	2020-10-26
+"Pichincha"	"Pedro Vicente Maldonado"	142	2020-10-26
+"Pichincha"	"Puerto Quito"	162	2020-10-26
+"Pichincha"	"Quito"	51095	2020-10-26
+"Pichincha"	"Rumiñahui"	2003	2020-10-26
+"Pichincha"	"San Miguel de Los Bancos"	156	2020-10-26
+"Pichincha"	"Cayambe"	618	2020-10-27
+"Pichincha"	"Mejía"	1187	2020-10-27
+"Pichincha"	"Pedro Moncayo"	158	2020-10-27
+"Pichincha"	"Pedro Vicente Maldonado"	143	2020-10-27
+"Pichincha"	"Puerto Quito"	162	2020-10-27
+"Pichincha"	"Quito"	51666	2020-10-27
+"Pichincha"	"Rumiñahui"	2039	2020-10-27
+"Pichincha"	"San Miguel de Los Bancos"	161	2020-10-27
+"Pichincha"	"Cayambe"	660	2020-10-28
+"Pichincha"	"Mejía"	1204	2020-10-28
+"Pichincha"	"Pedro Moncayo"	162	2020-10-28
+"Pichincha"	"Pedro Vicente Maldonado"	144	2020-10-28
+"Pichincha"	"Puerto Quito"	162	2020-10-28
+"Pichincha"	"Quito"	52689	2020-10-28
+"Pichincha"	"Rumiñahui"	2074	2020-10-28
+"Pichincha"	"San Miguel de Los Bancos"	162	2020-10-28
+"Pichincha"	"Cayambe"	665	2020-10-29
+"Pichincha"	"Mejía"	1219	2020-10-29
+"Pichincha"	"Pedro Moncayo"	164	2020-10-29
+"Pichincha"	"Pedro Vicente Maldonado"	147	2020-10-29
+"Pichincha"	"Puerto Quito"	165	2020-10-29
+"Pichincha"	"Quito"	53411	2020-10-29
+"Pichincha"	"Rumiñahui"	2109	2020-10-29
+"Pichincha"	"San Miguel de Los Bancos"	162	2020-10-29
+"Pichincha"	"Cayambe"	666	2020-10-30
+"Pichincha"	"Mejía"	1227	2020-10-30
+"Pichincha"	"Pedro Moncayo"	164	2020-10-30
+"Pichincha"	"Pedro Vicente Maldonado"	147	2020-10-30
+"Pichincha"	"Puerto Quito"	165	2020-10-30
+"Pichincha"	"Quito"	53812	2020-10-30
+"Pichincha"	"Rumiñahui"	2130	2020-10-30
+"Pichincha"	"San Miguel de Los Bancos"	163	2020-10-30
+"Pichincha"	"Cayambe"	672	2020-10-31
+"Pichincha"	"Mejía"	1234	2020-10-31
+"Pichincha"	"Pedro Moncayo"	165	2020-10-31
+"Pichincha"	"Pedro Vicente Maldonado"	147	2020-10-31
+"Pichincha"	"Puerto Quito"	165	2020-10-31
+"Pichincha"	"Quito"	54291	2020-10-31
+"Pichincha"	"Rumiñahui"	2158	2020-10-31
+"Pichincha"	"San Miguel de Los Bancos"	163	2020-10-31
+"Pichincha"	"Cayambe"	678	2020-11-01
+"Pichincha"	"Mejía"	1242	2020-11-01
+"Pichincha"	"Pedro Moncayo"	165	2020-11-01
+"Pichincha"	"Pedro Vicente Maldonado"	149	2020-11-01
+"Pichincha"	"Puerto Quito"	165	2020-11-01
+"Pichincha"	"Quito"	54729	2020-11-01
+"Pichincha"	"Rumiñahui"	2184	2020-11-01
+"Pichincha"	"San Miguel de Los Bancos"	165	2020-11-01
+"Pichincha"	"Cayambe"	678	2020-11-02
+"Pichincha"	"Mejía"	1244	2020-11-02
+"Pichincha"	"Pedro Moncayo"	165	2020-11-02
+"Pichincha"	"Pedro Vicente Maldonado"	150	2020-11-02
+"Pichincha"	"Puerto Quito"	165	2020-11-02
+"Pichincha"	"Quito"	54852	2020-11-02
+"Pichincha"	"Rumiñahui"	2204	2020-11-02
+"Pichincha"	"San Miguel de Los Bancos"	171	2020-11-02
+"Pichincha"	"Cayambe"	679	2020-11-03
+"Pichincha"	"Mejía"	1245	2020-11-03
+"Pichincha"	"Pedro Moncayo"	165	2020-11-03
+"Pichincha"	"Pedro Vicente Maldonado"	150	2020-11-03
+"Pichincha"	"Puerto Quito"	165	2020-11-03
+"Pichincha"	"Quito"	55047	2020-11-03
+"Pichincha"	"Rumiñahui"	2204	2020-11-03
+"Pichincha"	"San Miguel de Los Bancos"	171	2020-11-03
+"Pichincha"	"Cayambe"	679	2020-11-04
+"Pichincha"	"Mejía"	1247	2020-11-04
+"Pichincha"	"Pedro Moncayo"	166	2020-11-04
+"Pichincha"	"Pedro Vicente Maldonado"	150	2020-11-04
+"Pichincha"	"Puerto Quito"	165	2020-11-04
+"Pichincha"	"Quito"	55191	2020-11-04
+"Pichincha"	"Rumiñahui"	2210	2020-11-04
+"Pichincha"	"San Miguel de Los Bancos"	173	2020-11-04
+"Pichincha"	"Cayambe"	682	2020-11-05
+"Pichincha"	"Mejía"	1250	2020-11-05
+"Pichincha"	"Pedro Moncayo"	168	2020-11-05
+"Pichincha"	"Pedro Vicente Maldonado"	150	2020-11-05
+"Pichincha"	"Puerto Quito"	165	2020-11-05
+"Pichincha"	"Quito"	55379	2020-11-05
+"Pichincha"	"Rumiñahui"	2213	2020-11-05
+"Pichincha"	"San Miguel de Los Bancos"	173	2020-11-05
+"Pichincha"	"Cayambe"	683	2020-11-06
+"Pichincha"	"Mejía"	1254	2020-11-06
+"Pichincha"	"Pedro Moncayo"	170	2020-11-06
+"Pichincha"	"Pedro Vicente Maldonado"	150	2020-11-06
+"Pichincha"	"Puerto Quito"	165	2020-11-06
+"Pichincha"	"Quito"	55674	2020-11-06
+"Pichincha"	"Rumiñahui"	2225	2020-11-06
+"Pichincha"	"San Miguel de Los Bancos"	173	2020-11-06
+"Pichincha"	"Cayambe"	688	2020-11-07
+"Pichincha"	"Mejía"	1260	2020-11-07
+"Pichincha"	"Pedro Moncayo"	171	2020-11-07
+"Pichincha"	"Pedro Vicente Maldonado"	150	2020-11-07
+"Pichincha"	"Puerto Quito"	165	2020-11-07
+"Pichincha"	"Quito"	56217	2020-11-07
+"Pichincha"	"Rumiñahui"	2244	2020-11-07
+"Pichincha"	"San Miguel de Los Bancos"	174	2020-11-07
+"Pichincha"	"Cayambe"	696	2020-11-08
+"Pichincha"	"Mejía"	1269	2020-11-08
+"Pichincha"	"Pedro Moncayo"	172	2020-11-08
+"Pichincha"	"Pedro Vicente Maldonado"	150	2020-11-08
+"Pichincha"	"Puerto Quito"	166	2020-11-08
+"Pichincha"	"Quito"	56871	2020-11-08
+"Pichincha"	"Rumiñahui"	2275	2020-11-08
+"Pichincha"	"San Miguel de Los Bancos"	180	2020-11-08
+"Pichincha"	"Cayambe"	703	2020-11-09
+"Pichincha"	"Mejía"	1271	2020-11-09
+"Pichincha"	"Pedro Moncayo"	178	2020-11-09
+"Pichincha"	"Pedro Vicente Maldonado"	150	2020-11-09
+"Pichincha"	"Puerto Quito"	166	2020-11-09
+"Pichincha"	"Quito"	57105	2020-11-09
+"Pichincha"	"Rumiñahui"	2283	2020-11-09
+"Pichincha"	"San Miguel de Los Bancos"	180	2020-11-09
+"Pichincha"	"Cayambe"	706	2020-11-10
+"Pichincha"	"Mejía"	1276	2020-11-10
+"Pichincha"	"Pedro Moncayo"	178	2020-11-10
+"Pichincha"	"Pedro Vicente Maldonado"	151	2020-11-10
+"Pichincha"	"Puerto Quito"	166	2020-11-10
+"Pichincha"	"Quito"	57247	2020-11-10
+"Pichincha"	"Rumiñahui"	2291	2020-11-10
+"Pichincha"	"San Miguel de Los Bancos"	180	2020-11-10
+"Pichincha"	"Cayambe"	715	2020-11-11
+"Pichincha"	"Mejía"	1279	2020-11-11
+"Pichincha"	"Pedro Moncayo"	178	2020-11-11
+"Pichincha"	"Pedro Vicente Maldonado"	151	2020-11-11
+"Pichincha"	"Puerto Quito"	166	2020-11-11
+"Pichincha"	"Quito"	57680	2020-11-11
+"Pichincha"	"Rumiñahui"	2301	2020-11-11
+"Pichincha"	"San Miguel de Los Bancos"	180	2020-11-11
+"Pichincha"	"Cayambe"	718	2020-11-12
+"Pichincha"	"Mejía"	1283	2020-11-12
+"Pichincha"	"Pedro Moncayo"	178	2020-11-12
+"Pichincha"	"Pedro Vicente Maldonado"	151	2020-11-12
+"Pichincha"	"Puerto Quito"	166	2020-11-12
+"Pichincha"	"Quito"	58029	2020-11-12
+"Pichincha"	"Rumiñahui"	2313	2020-11-12
+"Pichincha"	"San Miguel de Los Bancos"	180	2020-11-12
+"Pichincha"	"Cayambe"	733	2020-11-13
+"Pichincha"	"Mejía"	1297	2020-11-13
+"Pichincha"	"Pedro Moncayo"	179	2020-11-13
+"Pichincha"	"Pedro Vicente Maldonado"	151	2020-11-13
+"Pichincha"	"Puerto Quito"	167	2020-11-13
+"Pichincha"	"Quito"	58513	2020-11-13
+"Pichincha"	"Rumiñahui"	2335	2020-11-13
+"Pichincha"	"San Miguel de Los Bancos"	180	2020-11-13
+"Pichincha"	"Cayambe"	737	2020-11-14
+"Pichincha"	"Mejía"	1298	2020-11-14
+"Pichincha"	"Pedro Moncayo"	179	2020-11-14
+"Pichincha"	"Pedro Vicente Maldonado"	152	2020-11-14
+"Pichincha"	"Puerto Quito"	167	2020-11-14
+"Pichincha"	"Quito"	58922	2020-11-14
+"Pichincha"	"Rumiñahui"	2365	2020-11-14
+"Pichincha"	"San Miguel de Los Bancos"	180	2020-11-14
+"Pichincha"	"Cayambe"	743	2020-11-15
+"Pichincha"	"Mejía"	1305	2020-11-15
+"Pichincha"	"Pedro Moncayo"	179	2020-11-15
+"Pichincha"	"Pedro Vicente Maldonado"	152	2020-11-15
+"Pichincha"	"Puerto Quito"	167	2020-11-15
+"Pichincha"	"Quito"	59211	2020-11-15
+"Pichincha"	"Rumiñahui"	2383	2020-11-15
+"Pichincha"	"San Miguel de Los Bancos"	180	2020-11-15
+"Pichincha"	"Cayambe"	744	2020-11-16
+"Pichincha"	"Mejía"	1307	2020-11-16
+"Pichincha"	"Pedro Moncayo"	179	2020-11-16
+"Pichincha"	"Pedro Vicente Maldonado"	152	2020-11-16
+"Pichincha"	"Puerto Quito"	167	2020-11-16
+"Pichincha"	"Quito"	59403	2020-11-16
+"Pichincha"	"Rumiñahui"	2397	2020-11-16
+"Pichincha"	"San Miguel de Los Bancos"	180	2020-11-16
+"Pichincha"	"Cayambe"	746	2020-11-17
+"Pichincha"	"Mejía"	1313	2020-11-17
+"Pichincha"	"Pedro Moncayo"	180	2020-11-17
+"Pichincha"	"Pedro Vicente Maldonado"	152	2020-11-17
+"Pichincha"	"Puerto Quito"	167	2020-11-17
+"Pichincha"	"Quito"	59579	2020-11-17
+"Pichincha"	"Rumiñahui"	2409	2020-11-17
+"Pichincha"	"San Miguel de Los Bancos"	182	2020-11-17
+"Pichincha"	"Cayambe"	752	2020-11-18
+"Pichincha"	"Mejía"	1319	2020-11-18
+"Pichincha"	"Pedro Moncayo"	183	2020-11-18
+"Pichincha"	"Pedro Vicente Maldonado"	152	2020-11-18
+"Pichincha"	"Puerto Quito"	167	2020-11-18
+"Pichincha"	"Quito"	60079	2020-11-18
+"Pichincha"	"Rumiñahui"	2439	2020-11-18
+"Pichincha"	"San Miguel de Los Bancos"	182	2020-11-18
+"Pichincha"	"Cayambe"	761	2020-11-19
+"Pichincha"	"Mejía"	1332	2020-11-19
+"Pichincha"	"Pedro Moncayo"	184	2020-11-19
+"Pichincha"	"Pedro Vicente Maldonado"	152	2020-11-19
+"Pichincha"	"Puerto Quito"	167	2020-11-19
+"Pichincha"	"Quito"	60470	2020-11-19
+"Pichincha"	"Rumiñahui"	2450	2020-11-19
+"Pichincha"	"San Miguel de Los Bancos"	182	2020-11-19
+"Pichincha"	"Cayambe"	772	2020-11-20
+"Pichincha"	"Mejía"	1346	2020-11-20
+"Pichincha"	"Pedro Moncayo"	186	2020-11-20
+"Pichincha"	"Pedro Vicente Maldonado"	152	2020-11-20
+"Pichincha"	"Puerto Quito"	167	2020-11-20
+"Pichincha"	"Quito"	60760	2020-11-20
+"Pichincha"	"Rumiñahui"	2466	2020-11-20
+"Pichincha"	"San Miguel de Los Bancos"	182	2020-11-20
+"Pichincha"	"Cayambe"	779	2020-11-21
+"Pichincha"	"Mejía"	1356	2020-11-21
+"Pichincha"	"Pedro Moncayo"	186	2020-11-21
+"Pichincha"	"Pedro Vicente Maldonado"	152	2020-11-21
+"Pichincha"	"Puerto Quito"	167	2020-11-21
+"Pichincha"	"Quito"	61247	2020-11-21
+"Pichincha"	"Rumiñahui"	2489	2020-11-21
+"Pichincha"	"San Miguel de Los Bancos"	182	2020-11-21
+"Pichincha"	"Cayambe"	784	2020-11-22
+"Pichincha"	"Mejía"	1358	2020-11-22
+"Pichincha"	"Pedro Moncayo"	188	2020-11-22
+"Pichincha"	"Pedro Vicente Maldonado"	153	2020-11-22
+"Pichincha"	"Puerto Quito"	167	2020-11-22
+"Pichincha"	"Quito"	61491	2020-11-22
+"Pichincha"	"Rumiñahui"	2503	2020-11-22
+"Pichincha"	"San Miguel de Los Bancos"	183	2020-11-22
+"Pichincha"	"Cayambe"	787	2020-11-23
+"Pichincha"	"Mejía"	1360	2020-11-23
+"Pichincha"	"Pedro Moncayo"	190	2020-11-23
+"Pichincha"	"Pedro Vicente Maldonado"	153	2020-11-23
+"Pichincha"	"Puerto Quito"	167	2020-11-23
+"Pichincha"	"Quito"	61639	2020-11-23
+"Pichincha"	"Rumiñahui"	2511	2020-11-23
+"Pichincha"	"San Miguel de Los Bancos"	183	2020-11-23
+"Pichincha"	"Cayambe"	791	2020-11-24
+"Pichincha"	"Mejía"	1363	2020-11-24
+"Pichincha"	"Pedro Moncayo"	192	2020-11-24
+"Pichincha"	"Pedro Vicente Maldonado"	153	2020-11-24
+"Pichincha"	"Puerto Quito"	167	2020-11-24
+"Pichincha"	"Quito"	61782	2020-11-24
+"Pichincha"	"Rumiñahui"	2517	2020-11-24
+"Pichincha"	"San Miguel de Los Bancos"	183	2020-11-24
+"Pichincha"	"Cayambe"	792	2020-11-25
+"Pichincha"	"Mejía"	1369	2020-11-25
+"Pichincha"	"Pedro Moncayo"	193	2020-11-25
+"Pichincha"	"Pedro Vicente Maldonado"	153	2020-11-25
+"Pichincha"	"Puerto Quito"	167	2020-11-25
+"Pichincha"	"Quito"	62077	2020-11-25
+"Pichincha"	"Rumiñahui"	2530	2020-11-25
+"Pichincha"	"San Miguel de Los Bancos"	183	2020-11-25
+"Pichincha"	"Cayambe"	796	2020-11-26
+"Pichincha"	"Mejía"	1376	2020-11-26
+"Pichincha"	"Pedro Moncayo"	194	2020-11-26
+"Pichincha"	"Pedro Vicente Maldonado"	153	2020-11-26
+"Pichincha"	"Puerto Quito"	168	2020-11-26
+"Pichincha"	"Quito"	62305	2020-11-26
+"Pichincha"	"Rumiñahui"	2540	2020-11-26
+"Pichincha"	"San Miguel de Los Bancos"	184	2020-11-26
+"Pichincha"	"Cayambe"	802	2020-11-27
+"Pichincha"	"Mejía"	1381	2020-11-27
+"Pichincha"	"Pedro Moncayo"	195	2020-11-27
+"Pichincha"	"Pedro Vicente Maldonado"	154	2020-11-27
+"Pichincha"	"Puerto Quito"	168	2020-11-27
+"Pichincha"	"Quito"	62714	2020-11-27
+"Pichincha"	"Rumiñahui"	2569	2020-11-27
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-11-27
+"Pichincha"	"Cayambe"	803	2020-11-28
+"Pichincha"	"Mejía"	1383	2020-11-28
+"Pichincha"	"Pedro Moncayo"	196	2020-11-28
+"Pichincha"	"Pedro Vicente Maldonado"	154	2020-11-28
+"Pichincha"	"Puerto Quito"	168	2020-11-28
+"Pichincha"	"Quito"	63353	2020-11-28
+"Pichincha"	"Rumiñahui"	2579	2020-11-28
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-11-28
+"Pichincha"	"Cayambe"	806	2020-11-29
+"Pichincha"	"Mejía"	1394	2020-11-29
+"Pichincha"	"Pedro Moncayo"	197	2020-11-29
+"Pichincha"	"Pedro Vicente Maldonado"	154	2020-11-29
+"Pichincha"	"Puerto Quito"	168	2020-11-29
+"Pichincha"	"Quito"	64020	2020-11-29
+"Pichincha"	"Rumiñahui"	2589	2020-11-29
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-11-29
+"Pichincha"	"Cayambe"	806	2020-11-30
+"Pichincha"	"Mejía"	1396	2020-11-30
+"Pichincha"	"Pedro Moncayo"	197	2020-11-30
+"Pichincha"	"Pedro Vicente Maldonado"	154	2020-11-30
+"Pichincha"	"Puerto Quito"	168	2020-11-30
+"Pichincha"	"Quito"	64134	2020-11-30
+"Pichincha"	"Rumiñahui"	2589	2020-11-30
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-11-30
+"Pichincha"	"Cayambe"	809	2020-12-01
+"Pichincha"	"Mejía"	1403	2020-12-01
+"Pichincha"	"Pedro Moncayo"	198	2020-12-01
+"Pichincha"	"Pedro Vicente Maldonado"	154	2020-12-01
+"Pichincha"	"Puerto Quito"	168	2020-12-01
+"Pichincha"	"Quito"	64469	2020-12-01
+"Pichincha"	"Rumiñahui"	2597	2020-12-01
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-12-01
+"Pichincha"	"Cayambe"	810	2020-12-02
+"Pichincha"	"Mejía"	1403	2020-12-02
+"Pichincha"	"Pedro Moncayo"	198	2020-12-02
+"Pichincha"	"Pedro Vicente Maldonado"	155	2020-12-02
+"Pichincha"	"Puerto Quito"	168	2020-12-02
+"Pichincha"	"Quito"	64777	2020-12-02
+"Pichincha"	"Rumiñahui"	2606	2020-12-02
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-12-02
+"Pichincha"	"Cayambe"	813	2020-12-03
+"Pichincha"	"Mejía"	1411	2020-12-03
+"Pichincha"	"Pedro Moncayo"	198	2020-12-03
+"Pichincha"	"Pedro Vicente Maldonado"	155	2020-12-03
+"Pichincha"	"Puerto Quito"	168	2020-12-03
+"Pichincha"	"Quito"	64965	2020-12-03
+"Pichincha"	"Rumiñahui"	2619	2020-12-03
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-12-03
+"Pichincha"	"Cayambe"	816	2020-12-04
+"Pichincha"	"Mejía"	1413	2020-12-04
+"Pichincha"	"Pedro Moncayo"	198	2020-12-04
+"Pichincha"	"Pedro Vicente Maldonado"	156	2020-12-04
+"Pichincha"	"Puerto Quito"	168	2020-12-04
+"Pichincha"	"Quito"	65102	2020-12-04
+"Pichincha"	"Rumiñahui"	2629	2020-12-04
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-12-04
+"Pichincha"	"Cayambe"	817	2020-12-05
+"Pichincha"	"Mejía"	1416	2020-12-05
+"Pichincha"	"Pedro Moncayo"	199	2020-12-05
+"Pichincha"	"Pedro Vicente Maldonado"	156	2020-12-05
+"Pichincha"	"Puerto Quito"	168	2020-12-05
+"Pichincha"	"Quito"	65267	2020-12-05
+"Pichincha"	"Rumiñahui"	2655	2020-12-05
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-12-05
+"Pichincha"	"Cayambe"	817	2020-12-06
+"Pichincha"	"Mejía"	1416	2020-12-06
+"Pichincha"	"Pedro Moncayo"	199	2020-12-06
+"Pichincha"	"Pedro Vicente Maldonado"	156	2020-12-06
+"Pichincha"	"Puerto Quito"	168	2020-12-06
+"Pichincha"	"Quito"	65356	2020-12-06
+"Pichincha"	"Rumiñahui"	2661	2020-12-06
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-12-06
+"Pichincha"	"Cayambe"	817	2020-12-07
+"Pichincha"	"Mejía"	1416	2020-12-07
+"Pichincha"	"Pedro Moncayo"	199	2020-12-07
+"Pichincha"	"Pedro Vicente Maldonado"	156	2020-12-07
+"Pichincha"	"Puerto Quito"	168	2020-12-07
+"Pichincha"	"Quito"	65368	2020-12-07
+"Pichincha"	"Rumiñahui"	2661	2020-12-07
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-12-07
+"Pichincha"	"Cayambe"	818	2020-12-08
+"Pichincha"	"Mejía"	1417	2020-12-08
+"Pichincha"	"Pedro Moncayo"	201	2020-12-08
+"Pichincha"	"Pedro Vicente Maldonado"	156	2020-12-08
+"Pichincha"	"Puerto Quito"	168	2020-12-08
+"Pichincha"	"Quito"	65417	2020-12-08
+"Pichincha"	"Rumiñahui"	2662	2020-12-08
+"Pichincha"	"San Miguel de Los Bancos"	185	2020-12-08
+"Pichincha"	"Cayambe"	818	2020-12-09
+"Pichincha"	"Mejía"	1417	2020-12-09
+"Pichincha"	"Pedro Moncayo"	201	2020-12-09
+"Pichincha"	"Pedro Vicente Maldonado"	157	2020-12-09
+"Pichincha"	"Puerto Quito"	168	2020-12-09
+"Pichincha"	"Quito"	65512	2020-12-09
+"Pichincha"	"Rumiñahui"	2665	2020-12-09
+"Pichincha"	"San Miguel de Los Bancos"	186	2020-12-09
+"Pichincha"	"Cayambe"	820	2020-12-10
+"Pichincha"	"Mejía"	1426	2020-12-10
+"Pichincha"	"Pedro Moncayo"	201	2020-12-10
+"Pichincha"	"Pedro Vicente Maldonado"	161	2020-12-10
+"Pichincha"	"Puerto Quito"	168	2020-12-10
+"Pichincha"	"Quito"	66028	2020-12-10
+"Pichincha"	"Rumiñahui"	2681	2020-12-10
+"Pichincha"	"San Miguel de Los Bancos"	192	2020-12-10
+"Pichincha"	"Cayambe"	822	2020-12-11
+"Pichincha"	"Mejía"	1428	2020-12-11
+"Pichincha"	"Pedro Moncayo"	201	2020-12-11
+"Pichincha"	"Pedro Vicente Maldonado"	161	2020-12-11
+"Pichincha"	"Puerto Quito"	168	2020-12-11
+"Pichincha"	"Quito"	66125	2020-12-11
+"Pichincha"	"Rumiñahui"	2683	2020-12-11
+"Pichincha"	"San Miguel de Los Bancos"	192	2020-12-11
+"Pichincha"	"Cayambe"	823	2020-12-12
+"Pichincha"	"Mejía"	1435	2020-12-12
+"Pichincha"	"Pedro Moncayo"	201	2020-12-12
+"Pichincha"	"Pedro Vicente Maldonado"	161	2020-12-12
+"Pichincha"	"Puerto Quito"	168	2020-12-12
+"Pichincha"	"Quito"	66400	2020-12-12
+"Pichincha"	"Rumiñahui"	2690	2020-12-12
+"Pichincha"	"San Miguel de Los Bancos"	192	2020-12-12
+"Pichincha"	"Cayambe"	823	2020-12-13
+"Pichincha"	"Mejía"	1439	2020-12-13
+"Pichincha"	"Pedro Moncayo"	201	2020-12-13
+"Pichincha"	"Pedro Vicente Maldonado"	161	2020-12-13
+"Pichincha"	"Puerto Quito"	168	2020-12-13
+"Pichincha"	"Quito"	66610	2020-12-13
+"Pichincha"	"Rumiñahui"	2696	2020-12-13
+"Pichincha"	"San Miguel de Los Bancos"	192	2020-12-13
+"Pichincha"	"Cayambe"	823	2020-12-14
+"Pichincha"	"Mejía"	1439	2020-12-14
+"Pichincha"	"Pedro Moncayo"	201	2020-12-14
+"Pichincha"	"Pedro Vicente Maldonado"	162	2020-12-14
+"Pichincha"	"Puerto Quito"	168	2020-12-14
+"Pichincha"	"Quito"	66624	2020-12-14
+"Pichincha"	"Rumiñahui"	2696	2020-12-14
+"Pichincha"	"San Miguel de Los Bancos"	192	2020-12-14
+"Pichincha"	"Cayambe"	828	2020-12-15
+"Pichincha"	"Mejía"	1440	2020-12-15
+"Pichincha"	"Pedro Moncayo"	204	2020-12-15
+"Pichincha"	"Pedro Vicente Maldonado"	162	2020-12-15
+"Pichincha"	"Puerto Quito"	168	2020-12-15
+"Pichincha"	"Quito"	66645	2020-12-15
+"Pichincha"	"Rumiñahui"	2698	2020-12-15
+"Pichincha"	"San Miguel de Los Bancos"	192	2020-12-15
+"Pichincha"	"Cayambe"	830	2020-12-16
+"Pichincha"	"Mejía"	1447	2020-12-16
+"Pichincha"	"Pedro Moncayo"	204	2020-12-16
+"Pichincha"	"Pedro Vicente Maldonado"	164	2020-12-16
+"Pichincha"	"Puerto Quito"	168	2020-12-16
+"Pichincha"	"Quito"	66961	2020-12-16
+"Pichincha"	"Rumiñahui"	2709	2020-12-16
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-16
+"Pichincha"	"Cayambe"	831	2020-12-17
+"Pichincha"	"Mejía"	1449	2020-12-17
+"Pichincha"	"Pedro Moncayo"	204	2020-12-17
+"Pichincha"	"Pedro Vicente Maldonado"	165	2020-12-17
+"Pichincha"	"Puerto Quito"	168	2020-12-17
+"Pichincha"	"Quito"	67226	2020-12-17
+"Pichincha"	"Rumiñahui"	2721	2020-12-17
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-17
+"Pichincha"	"Cayambe"	832	2020-12-18
+"Pichincha"	"Mejía"	1459	2020-12-18
+"Pichincha"	"Pedro Moncayo"	204	2020-12-18
+"Pichincha"	"Pedro Vicente Maldonado"	165	2020-12-18
+"Pichincha"	"Puerto Quito"	168	2020-12-18
+"Pichincha"	"Quito"	67333	2020-12-18
+"Pichincha"	"Rumiñahui"	2729	2020-12-18
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-18
+"Pichincha"	"Cayambe"	834	2020-12-19
+"Pichincha"	"Mejía"	1463	2020-12-19
+"Pichincha"	"Pedro Moncayo"	204	2020-12-19
+"Pichincha"	"Pedro Vicente Maldonado"	166	2020-12-19
+"Pichincha"	"Puerto Quito"	168	2020-12-19
+"Pichincha"	"Quito"	67737	2020-12-19
+"Pichincha"	"Rumiñahui"	2738	2020-12-19
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-19
+"Pichincha"	"Cayambe"	834	2020-12-20
+"Pichincha"	"Mejía"	1466	2020-12-20
+"Pichincha"	"Pedro Moncayo"	204	2020-12-20
+"Pichincha"	"Pedro Vicente Maldonado"	166	2020-12-20
+"Pichincha"	"Puerto Quito"	168	2020-12-20
+"Pichincha"	"Quito"	67792	2020-12-20
+"Pichincha"	"Rumiñahui"	2738	2020-12-20
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-20
+"Pichincha"	"Cayambe"	834	2020-12-21
+"Pichincha"	"Mejía"	1467	2020-12-21
+"Pichincha"	"Pedro Moncayo"	204	2020-12-21
+"Pichincha"	"Pedro Vicente Maldonado"	166	2020-12-21
+"Pichincha"	"Puerto Quito"	168	2020-12-21
+"Pichincha"	"Quito"	67812	2020-12-21
+"Pichincha"	"Rumiñahui"	2738	2020-12-21
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-21
+"Pichincha"	"Cayambe"	834	2020-12-22
+"Pichincha"	"Mejía"	1467	2020-12-22
+"Pichincha"	"Pedro Moncayo"	204	2020-12-22
+"Pichincha"	"Pedro Vicente Maldonado"	166	2020-12-22
+"Pichincha"	"Puerto Quito"	168	2020-12-22
+"Pichincha"	"Quito"	67816	2020-12-22
+"Pichincha"	"Rumiñahui"	2741	2020-12-22
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-22
+"Pichincha"	"Cayambe"	833	2020-12-23
+"Pichincha"	"Mejía"	1468	2020-12-23
+"Pichincha"	"Pedro Moncayo"	204	2020-12-23
+"Pichincha"	"Pedro Vicente Maldonado"	166	2020-12-23
+"Pichincha"	"Puerto Quito"	169	2020-12-23
+"Pichincha"	"Quito"	67966	2020-12-23
+"Pichincha"	"Rumiñahui"	2749	2020-12-23
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-23
+"Pichincha"	"Cayambe"	839	2020-12-24
+"Pichincha"	"Mejía"	1473	2020-12-24
+"Pichincha"	"Pedro Moncayo"	205	2020-12-24
+"Pichincha"	"Pedro Vicente Maldonado"	166	2020-12-24
+"Pichincha"	"Puerto Quito"	169	2020-12-24
+"Pichincha"	"Quito"	68141	2020-12-24
+"Pichincha"	"Rumiñahui"	2753	2020-12-24
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-24
+"Pichincha"	"Cayambe"	840	2020-12-25
+"Pichincha"	"Mejía"	1487	2020-12-25
+"Pichincha"	"Pedro Moncayo"	205	2020-12-25
+"Pichincha"	"Pedro Vicente Maldonado"	167	2020-12-25
+"Pichincha"	"Puerto Quito"	169	2020-12-25
+"Pichincha"	"Quito"	68319	2020-12-25
+"Pichincha"	"Rumiñahui"	2763	2020-12-25
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-25
+"Pichincha"	"Cayambe"	841	2020-12-26
+"Pichincha"	"Mejía"	1488	2020-12-26
+"Pichincha"	"Pedro Moncayo"	205	2020-12-26
+"Pichincha"	"Pedro Vicente Maldonado"	168	2020-12-26
+"Pichincha"	"Puerto Quito"	169	2020-12-26
+"Pichincha"	"Quito"	68429	2020-12-26
+"Pichincha"	"Rumiñahui"	2768	2020-12-26
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-26
+"Pichincha"	"Cayambe"	842	2020-12-27
+"Pichincha"	"Mejía"	1491	2020-12-27
+"Pichincha"	"Pedro Moncayo"	205	2020-12-27
+"Pichincha"	"Pedro Vicente Maldonado"	168	2020-12-27
+"Pichincha"	"Puerto Quito"	169	2020-12-27
+"Pichincha"	"Quito"	68446	2020-12-27
+"Pichincha"	"Rumiñahui"	2768	2020-12-27
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-27
+"Pichincha"	"Cayambe"	842	2020-12-28
+"Pichincha"	"Mejía"	1500	2020-12-28
+"Pichincha"	"Pedro Moncayo"	205	2020-12-28
+"Pichincha"	"Pedro Vicente Maldonado"	168	2020-12-28
+"Pichincha"	"Puerto Quito"	169	2020-12-28
+"Pichincha"	"Quito"	68512	2020-12-28
+"Pichincha"	"Rumiñahui"	2773	2020-12-28
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-28
+"Pichincha"	"Cayambe"	842	2020-12-29
+"Pichincha"	"Mejía"	1501	2020-12-29
+"Pichincha"	"Pedro Moncayo"	205	2020-12-29
+"Pichincha"	"Pedro Vicente Maldonado"	168	2020-12-29
+"Pichincha"	"Puerto Quito"	169	2020-12-29
+"Pichincha"	"Quito"	68604	2020-12-29
+"Pichincha"	"Rumiñahui"	2775	2020-12-29
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-29
+"Pichincha"	"Cayambe"	848	2020-12-30
+"Pichincha"	"Mejía"	1504	2020-12-30
+"Pichincha"	"Pedro Moncayo"	206	2020-12-30
+"Pichincha"	"Pedro Vicente Maldonado"	168	2020-12-30
+"Pichincha"	"Puerto Quito"	169	2020-12-30
+"Pichincha"	"Quito"	69067	2020-12-30
+"Pichincha"	"Rumiñahui"	2782	2020-12-30
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-30
+"Pichincha"	"Cayambe"	853	2020-12-31
+"Pichincha"	"Mejía"	1508	2020-12-31
+"Pichincha"	"Pedro Moncayo"	206	2020-12-31
+"Pichincha"	"Pedro Vicente Maldonado"	168	2020-12-31
+"Pichincha"	"Puerto Quito"	169	2020-12-31
+"Pichincha"	"Quito"	69583	2020-12-31
+"Pichincha"	"Rumiñahui"	2785	2020-12-31
+"Pichincha"	"San Miguel de Los Bancos"	193	2020-12-31
 "Pichincha"	"Cayambe"	854	2021-01-01
 "Pichincha"	"Mejía"	1511	2021-01-01
 "Pichincha"	"Pedro Moncayo"	206	2021-01-01
@@ -3791,3 +6143,67 @@
 "Pichincha"	"Quito"	297764	2022-04-19
 "Pichincha"	"Rumiñahui"	10650	2022-04-19
 "Pichincha"	"San Miguel de Los Bancos"	1026	2022-04-19
+"Pichincha"	"Cayambe"	4163	2022-04-20
+"Pichincha"	"Mejía"	6026	2022-04-20
+"Pichincha"	"Pedro Moncayo"	1142	2022-04-20
+"Pichincha"	"Pedro Vicente Maldonado"	605	2022-04-20
+"Pichincha"	"Puerto Quito"	830	2022-04-20
+"Pichincha"	"Quito"	297963	2022-04-20
+"Pichincha"	"Rumiñahui"	10664	2022-04-20
+"Pichincha"	"San Miguel de Los Bancos"	1026	2022-04-20
+"Pichincha"	"Cayambe"	4163	2022-04-21
+"Pichincha"	"Mejía"	6028	2022-04-21
+"Pichincha"	"Pedro Moncayo"	1142	2022-04-21
+"Pichincha"	"Pedro Vicente Maldonado"	606	2022-04-21
+"Pichincha"	"Puerto Quito"	830	2022-04-21
+"Pichincha"	"Quito"	298069	2022-04-21
+"Pichincha"	"Rumiñahui"	10667	2022-04-21
+"Pichincha"	"San Miguel de Los Bancos"	1026	2022-04-21
+"Pichincha"	"Cayambe"	4165	2022-04-22
+"Pichincha"	"Mejía"	6034	2022-04-22
+"Pichincha"	"Pedro Moncayo"	1142	2022-04-22
+"Pichincha"	"Pedro Vicente Maldonado"	606	2022-04-22
+"Pichincha"	"Puerto Quito"	830	2022-04-22
+"Pichincha"	"Quito"	298269	2022-04-22
+"Pichincha"	"Rumiñahui"	10671	2022-04-22
+"Pichincha"	"San Miguel de Los Bancos"	1026	2022-04-22
+"Pichincha"	"Cayambe"	4165	2022-04-23
+"Pichincha"	"Mejía"	6035	2022-04-23
+"Pichincha"	"Pedro Moncayo"	1142	2022-04-23
+"Pichincha"	"Pedro Vicente Maldonado"	606	2022-04-23
+"Pichincha"	"Puerto Quito"	830	2022-04-23
+"Pichincha"	"Quito"	298354	2022-04-23
+"Pichincha"	"Rumiñahui"	10672	2022-04-23
+"Pichincha"	"San Miguel de Los Bancos"	1026	2022-04-23
+"Pichincha"	"Cayambe"	4165	2022-04-24
+"Pichincha"	"Mejía"	6035	2022-04-24
+"Pichincha"	"Pedro Moncayo"	1142	2022-04-24
+"Pichincha"	"Pedro Vicente Maldonado"	606	2022-04-24
+"Pichincha"	"Puerto Quito"	830	2022-04-24
+"Pichincha"	"Quito"	298383	2022-04-24
+"Pichincha"	"Rumiñahui"	10674	2022-04-24
+"Pichincha"	"San Miguel de Los Bancos"	1026	2022-04-24
+"Pichincha"	"Cayambe"	4165	2022-04-25
+"Pichincha"	"Mejía"	6035	2022-04-25
+"Pichincha"	"Pedro Moncayo"	1142	2022-04-25
+"Pichincha"	"Pedro Vicente Maldonado"	606	2022-04-25
+"Pichincha"	"Puerto Quito"	830	2022-04-25
+"Pichincha"	"Quito"	298405	2022-04-25
+"Pichincha"	"Rumiñahui"	10674	2022-04-25
+"Pichincha"	"San Miguel de Los Bancos"	1026	2022-04-25
+"Pichincha"	"Cayambe"	4166	2022-04-26
+"Pichincha"	"Mejía"	6040	2022-04-26
+"Pichincha"	"Pedro Moncayo"	1142	2022-04-26
+"Pichincha"	"Pedro Vicente Maldonado"	606	2022-04-26
+"Pichincha"	"Puerto Quito"	830	2022-04-26
+"Pichincha"	"Quito"	298529	2022-04-26
+"Pichincha"	"Rumiñahui"	10681	2022-04-26
+"Pichincha"	"San Miguel de Los Bancos"	1026	2022-04-26
+"Pichincha"	"Cayambe"	4167	2022-04-27
+"Pichincha"	"Mejía"	6040	2022-04-27
+"Pichincha"	"Pedro Moncayo"	1142	2022-04-27
+"Pichincha"	"Pedro Vicente Maldonado"	606	2022-04-27
+"Pichincha"	"Puerto Quito"	830	2022-04-27
+"Pichincha"	"Quito"	298734	2022-04-27
+"Pichincha"	"Rumiñahui"	10689	2022-04-27
+"Pichincha"	"San Miguel de Los Bancos"	1026	2022-04-27
