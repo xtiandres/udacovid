@@ -1,4 +1,2062 @@
 "provincia"	"canton"	"total"	"created_at"
+"Esmeraldas"	"Atacames"	0	2020-03-13
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-13
+"Esmeraldas"	"Esmeraldas"	0	2020-03-13
+"Esmeraldas"	"Muisne"	0	2020-03-13
+"Esmeraldas"	"Quinindé"	0	2020-03-13
+"Esmeraldas"	"Rioverde"	0	2020-03-13
+"Esmeraldas"	"San Lorenzo"	0	2020-03-13
+"Esmeraldas"	"Atacames"	0	2020-03-14
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-14
+"Esmeraldas"	"Esmeraldas"	0	2020-03-14
+"Esmeraldas"	"Muisne"	0	2020-03-14
+"Esmeraldas"	"Quinindé"	0	2020-03-14
+"Esmeraldas"	"Rioverde"	0	2020-03-14
+"Esmeraldas"	"San Lorenzo"	0	2020-03-14
+"Esmeraldas"	"Atacames"	0	2020-03-15
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-15
+"Esmeraldas"	"Esmeraldas"	0	2020-03-15
+"Esmeraldas"	"Muisne"	0	2020-03-15
+"Esmeraldas"	"Quinindé"	0	2020-03-15
+"Esmeraldas"	"Rioverde"	0	2020-03-15
+"Esmeraldas"	"San Lorenzo"	0	2020-03-15
+"Esmeraldas"	"Atacames"	0	2020-03-16
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-16
+"Esmeraldas"	"Esmeraldas"	0	2020-03-16
+"Esmeraldas"	"Muisne"	0	2020-03-16
+"Esmeraldas"	"Quinindé"	0	2020-03-16
+"Esmeraldas"	"Rioverde"	0	2020-03-16
+"Esmeraldas"	"San Lorenzo"	0	2020-03-16
+"Esmeraldas"	"Atacames"	0	2020-03-17
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-17
+"Esmeraldas"	"Esmeraldas"	0	2020-03-17
+"Esmeraldas"	"Muisne"	0	2020-03-17
+"Esmeraldas"	"Quinindé"	0	2020-03-17
+"Esmeraldas"	"Rioverde"	0	2020-03-17
+"Esmeraldas"	"San Lorenzo"	0	2020-03-17
+"Esmeraldas"	"Atacames"	0	2020-03-18
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-18
+"Esmeraldas"	"Esmeraldas"	0	2020-03-18
+"Esmeraldas"	"Muisne"	0	2020-03-18
+"Esmeraldas"	"Quinindé"	0	2020-03-18
+"Esmeraldas"	"Rioverde"	0	2020-03-18
+"Esmeraldas"	"San Lorenzo"	0	2020-03-18
+"Esmeraldas"	"Atacames"	0	2020-03-19
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-19
+"Esmeraldas"	"Esmeraldas"	0	2020-03-19
+"Esmeraldas"	"Muisne"	0	2020-03-19
+"Esmeraldas"	"Quinindé"	0	2020-03-19
+"Esmeraldas"	"Rioverde"	0	2020-03-19
+"Esmeraldas"	"San Lorenzo"	0	2020-03-19
+"Esmeraldas"	"Atacames"	0	2020-03-20
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-20
+"Esmeraldas"	"Esmeraldas"	0	2020-03-20
+"Esmeraldas"	"Muisne"	0	2020-03-20
+"Esmeraldas"	"Quinindé"	0	2020-03-20
+"Esmeraldas"	"Rioverde"	0	2020-03-20
+"Esmeraldas"	"San Lorenzo"	0	2020-03-20
+"Esmeraldas"	"Atacames"	0	2020-03-21
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-21
+"Esmeraldas"	"Esmeraldas"	2	2020-03-21
+"Esmeraldas"	"Muisne"	0	2020-03-21
+"Esmeraldas"	"Quinindé"	0	2020-03-21
+"Esmeraldas"	"Rioverde"	0	2020-03-21
+"Esmeraldas"	"San Lorenzo"	0	2020-03-21
+"Esmeraldas"	"Atacames"	0	2020-03-22
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-22
+"Esmeraldas"	"Esmeraldas"	2	2020-03-22
+"Esmeraldas"	"Muisne"	0	2020-03-22
+"Esmeraldas"	"Quinindé"	0	2020-03-22
+"Esmeraldas"	"Rioverde"	0	2020-03-22
+"Esmeraldas"	"San Lorenzo"	0	2020-03-22
+"Esmeraldas"	"Atacames"	0	2020-03-23
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-23
+"Esmeraldas"	"Esmeraldas"	3	2020-03-23
+"Esmeraldas"	"Muisne"	0	2020-03-23
+"Esmeraldas"	"Quinindé"	0	2020-03-23
+"Esmeraldas"	"Rioverde"	0	2020-03-23
+"Esmeraldas"	"San Lorenzo"	0	2020-03-23
+"Esmeraldas"	"Atacames"	0	2020-03-24
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-24
+"Esmeraldas"	"Esmeraldas"	3	2020-03-24
+"Esmeraldas"	"Muisne"	0	2020-03-24
+"Esmeraldas"	"Quinindé"	0	2020-03-24
+"Esmeraldas"	"Rioverde"	0	2020-03-24
+"Esmeraldas"	"San Lorenzo"	0	2020-03-24
+"Esmeraldas"	"Atacames"	0	2020-03-25
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-25
+"Esmeraldas"	"Esmeraldas"	4	2020-03-25
+"Esmeraldas"	"Muisne"	0	2020-03-25
+"Esmeraldas"	"Quinindé"	0	2020-03-25
+"Esmeraldas"	"Rioverde"	0	2020-03-25
+"Esmeraldas"	"San Lorenzo"	0	2020-03-25
+"Esmeraldas"	"Atacames"	0	2020-03-26
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-26
+"Esmeraldas"	"Esmeraldas"	4	2020-03-26
+"Esmeraldas"	"Muisne"	0	2020-03-26
+"Esmeraldas"	"Quinindé"	0	2020-03-26
+"Esmeraldas"	"Rioverde"	0	2020-03-26
+"Esmeraldas"	"San Lorenzo"	0	2020-03-26
+"Esmeraldas"	"Atacames"	0	2020-03-27
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-27
+"Esmeraldas"	"Esmeraldas"	4	2020-03-27
+"Esmeraldas"	"Muisne"	0	2020-03-27
+"Esmeraldas"	"Quinindé"	0	2020-03-27
+"Esmeraldas"	"Rioverde"	0	2020-03-27
+"Esmeraldas"	"San Lorenzo"	0	2020-03-27
+"Esmeraldas"	"Atacames"	0	2020-03-28
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-28
+"Esmeraldas"	"Esmeraldas"	4	2020-03-28
+"Esmeraldas"	"Muisne"	0	2020-03-28
+"Esmeraldas"	"Quinindé"	0	2020-03-28
+"Esmeraldas"	"Rioverde"	0	2020-03-28
+"Esmeraldas"	"San Lorenzo"	0	2020-03-28
+"Esmeraldas"	"Atacames"	0	2020-03-29
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-29
+"Esmeraldas"	"Esmeraldas"	7	2020-03-29
+"Esmeraldas"	"Muisne"	0	2020-03-29
+"Esmeraldas"	"Quinindé"	0	2020-03-29
+"Esmeraldas"	"Rioverde"	0	2020-03-29
+"Esmeraldas"	"San Lorenzo"	0	2020-03-29
+"Esmeraldas"	"Atacames"	0	2020-03-30
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-30
+"Esmeraldas"	"Esmeraldas"	7	2020-03-30
+"Esmeraldas"	"Muisne"	0	2020-03-30
+"Esmeraldas"	"Quinindé"	0	2020-03-30
+"Esmeraldas"	"Rioverde"	0	2020-03-30
+"Esmeraldas"	"San Lorenzo"	0	2020-03-30
+"Esmeraldas"	"Atacames"	1	2020-03-31
+"Esmeraldas"	"Eloy Alfaro"	0	2020-03-31
+"Esmeraldas"	"Esmeraldas"	7	2020-03-31
+"Esmeraldas"	"Muisne"	0	2020-03-31
+"Esmeraldas"	"Quinindé"	1	2020-03-31
+"Esmeraldas"	"Rioverde"	1	2020-03-31
+"Esmeraldas"	"San Lorenzo"	0	2020-03-31
+"Esmeraldas"	"Atacames"	1	2020-04-01
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-01
+"Esmeraldas"	"Esmeraldas"	7	2020-04-01
+"Esmeraldas"	"Muisne"	0	2020-04-01
+"Esmeraldas"	"Quinindé"	1	2020-04-01
+"Esmeraldas"	"Rioverde"	1	2020-04-01
+"Esmeraldas"	"San Lorenzo"	0	2020-04-01
+"Esmeraldas"	"Atacames"	1	2020-04-02
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-02
+"Esmeraldas"	"Esmeraldas"	8	2020-04-02
+"Esmeraldas"	"Muisne"	0	2020-04-02
+"Esmeraldas"	"Quinindé"	1	2020-04-02
+"Esmeraldas"	"Rioverde"	1	2020-04-02
+"Esmeraldas"	"San Lorenzo"	0	2020-04-02
+"Esmeraldas"	"Atacames"	1	2020-04-03
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-03
+"Esmeraldas"	"Esmeraldas"	11	2020-04-03
+"Esmeraldas"	"Muisne"	0	2020-04-03
+"Esmeraldas"	"Quinindé"	1	2020-04-03
+"Esmeraldas"	"Rioverde"	1	2020-04-03
+"Esmeraldas"	"San Lorenzo"	0	2020-04-03
+"Esmeraldas"	"Atacames"	1	2020-04-04
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-04
+"Esmeraldas"	"Esmeraldas"	11	2020-04-04
+"Esmeraldas"	"Muisne"	0	2020-04-04
+"Esmeraldas"	"Quinindé"	1	2020-04-04
+"Esmeraldas"	"Rioverde"	1	2020-04-04
+"Esmeraldas"	"San Lorenzo"	0	2020-04-04
+"Esmeraldas"	"Atacames"	1	2020-04-05
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-05
+"Esmeraldas"	"Esmeraldas"	13	2020-04-05
+"Esmeraldas"	"Muisne"	0	2020-04-05
+"Esmeraldas"	"Quinindé"	1	2020-04-05
+"Esmeraldas"	"Rioverde"	1	2020-04-05
+"Esmeraldas"	"San Lorenzo"	0	2020-04-05
+"Esmeraldas"	"Atacames"	1	2020-04-06
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-06
+"Esmeraldas"	"Esmeraldas"	14	2020-04-06
+"Esmeraldas"	"Muisne"	0	2020-04-06
+"Esmeraldas"	"Quinindé"	1	2020-04-06
+"Esmeraldas"	"Rioverde"	1	2020-04-06
+"Esmeraldas"	"San Lorenzo"	0	2020-04-06
+"Esmeraldas"	"Atacames"	1	2020-04-07
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-07
+"Esmeraldas"	"Esmeraldas"	17	2020-04-07
+"Esmeraldas"	"Muisne"	0	2020-04-07
+"Esmeraldas"	"Quinindé"	1	2020-04-07
+"Esmeraldas"	"Rioverde"	1	2020-04-07
+"Esmeraldas"	"San Lorenzo"	0	2020-04-07
+"Esmeraldas"	"Atacames"	2	2020-04-08
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-08
+"Esmeraldas"	"Esmeraldas"	19	2020-04-08
+"Esmeraldas"	"Muisne"	0	2020-04-08
+"Esmeraldas"	"Quinindé"	2	2020-04-08
+"Esmeraldas"	"Rioverde"	1	2020-04-08
+"Esmeraldas"	"San Lorenzo"	1	2020-04-08
+"Esmeraldas"	"Atacames"	2	2020-04-09
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-09
+"Esmeraldas"	"Esmeraldas"	21	2020-04-09
+"Esmeraldas"	"Muisne"	0	2020-04-09
+"Esmeraldas"	"Quinindé"	2	2020-04-09
+"Esmeraldas"	"Rioverde"	1	2020-04-09
+"Esmeraldas"	"San Lorenzo"	1	2020-04-09
+"Esmeraldas"	"Atacames"	2	2020-04-10
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-10
+"Esmeraldas"	"Esmeraldas"	24	2020-04-10
+"Esmeraldas"	"Muisne"	0	2020-04-10
+"Esmeraldas"	"Quinindé"	3	2020-04-10
+"Esmeraldas"	"Rioverde"	1	2020-04-10
+"Esmeraldas"	"San Lorenzo"	1	2020-04-10
+"Esmeraldas"	"Atacames"	2	2020-04-11
+"Esmeraldas"	"Eloy Alfaro"	0	2020-04-11
+"Esmeraldas"	"Esmeraldas"	24	2020-04-11
+"Esmeraldas"	"Muisne"	0	2020-04-11
+"Esmeraldas"	"Quinindé"	3	2020-04-11
+"Esmeraldas"	"Rioverde"	1	2020-04-11
+"Esmeraldas"	"San Lorenzo"	1	2020-04-11
+"Esmeraldas"	"Atacames"	2	2020-04-12
+"Esmeraldas"	"Eloy Alfaro"	1	2020-04-12
+"Esmeraldas"	"Esmeraldas"	27	2020-04-12
+"Esmeraldas"	"Muisne"	1	2020-04-12
+"Esmeraldas"	"Quinindé"	5	2020-04-12
+"Esmeraldas"	"Rioverde"	1	2020-04-12
+"Esmeraldas"	"San Lorenzo"	1	2020-04-12
+"Esmeraldas"	"Atacames"	2	2020-04-13
+"Esmeraldas"	"Eloy Alfaro"	1	2020-04-13
+"Esmeraldas"	"Esmeraldas"	27	2020-04-13
+"Esmeraldas"	"Muisne"	1	2020-04-13
+"Esmeraldas"	"Quinindé"	5	2020-04-13
+"Esmeraldas"	"Rioverde"	1	2020-04-13
+"Esmeraldas"	"San Lorenzo"	1	2020-04-13
+"Esmeraldas"	"Atacames"	2	2020-04-14
+"Esmeraldas"	"Eloy Alfaro"	1	2020-04-14
+"Esmeraldas"	"Esmeraldas"	29	2020-04-14
+"Esmeraldas"	"Muisne"	1	2020-04-14
+"Esmeraldas"	"Quinindé"	6	2020-04-14
+"Esmeraldas"	"Rioverde"	1	2020-04-14
+"Esmeraldas"	"San Lorenzo"	1	2020-04-14
+"Esmeraldas"	"Atacames"	3	2020-04-15
+"Esmeraldas"	"Eloy Alfaro"	1	2020-04-15
+"Esmeraldas"	"Esmeraldas"	30	2020-04-15
+"Esmeraldas"	"Muisne"	1	2020-04-15
+"Esmeraldas"	"Quinindé"	7	2020-04-15
+"Esmeraldas"	"Rioverde"	1	2020-04-15
+"Esmeraldas"	"San Lorenzo"	1	2020-04-15
+"Esmeraldas"	"Atacames"	3	2020-04-16
+"Esmeraldas"	"Eloy Alfaro"	1	2020-04-16
+"Esmeraldas"	"Esmeraldas"	37	2020-04-16
+"Esmeraldas"	"Muisne"	1	2020-04-16
+"Esmeraldas"	"Quinindé"	9	2020-04-16
+"Esmeraldas"	"Rioverde"	1	2020-04-16
+"Esmeraldas"	"San Lorenzo"	1	2020-04-16
+"Esmeraldas"	"Atacames"	3	2020-04-17
+"Esmeraldas"	"Eloy Alfaro"	1	2020-04-17
+"Esmeraldas"	"Esmeraldas"	66	2020-04-17
+"Esmeraldas"	"Muisne"	3	2020-04-17
+"Esmeraldas"	"Quinindé"	10	2020-04-17
+"Esmeraldas"	"Rioverde"	1	2020-04-17
+"Esmeraldas"	"San Lorenzo"	1	2020-04-17
+"Esmeraldas"	"Atacames"	3	2020-04-18
+"Esmeraldas"	"Eloy Alfaro"	1	2020-04-18
+"Esmeraldas"	"Esmeraldas"	67	2020-04-18
+"Esmeraldas"	"Muisne"	3	2020-04-18
+"Esmeraldas"	"Quinindé"	10	2020-04-18
+"Esmeraldas"	"Rioverde"	1	2020-04-18
+"Esmeraldas"	"San Lorenzo"	1	2020-04-18
+"Esmeraldas"	"Atacames"	3	2020-04-19
+"Esmeraldas"	"Eloy Alfaro"	1	2020-04-19
+"Esmeraldas"	"Esmeraldas"	69	2020-04-19
+"Esmeraldas"	"Muisne"	3	2020-04-19
+"Esmeraldas"	"Quinindé"	11	2020-04-19
+"Esmeraldas"	"Rioverde"	1	2020-04-19
+"Esmeraldas"	"San Lorenzo"	1	2020-04-19
+"Esmeraldas"	"Atacames"	3	2020-04-20
+"Esmeraldas"	"Eloy Alfaro"	1	2020-04-20
+"Esmeraldas"	"Esmeraldas"	78	2020-04-20
+"Esmeraldas"	"Muisne"	3	2020-04-20
+"Esmeraldas"	"Quinindé"	13	2020-04-20
+"Esmeraldas"	"Rioverde"	1	2020-04-20
+"Esmeraldas"	"San Lorenzo"	3	2020-04-20
+"Esmeraldas"	"Atacames"	3	2020-04-21
+"Esmeraldas"	"Eloy Alfaro"	1	2020-04-21
+"Esmeraldas"	"Esmeraldas"	78	2020-04-21
+"Esmeraldas"	"Muisne"	3	2020-04-21
+"Esmeraldas"	"Quinindé"	13	2020-04-21
+"Esmeraldas"	"Rioverde"	1	2020-04-21
+"Esmeraldas"	"San Lorenzo"	3	2020-04-21
+"Esmeraldas"	"Atacames"	4	2020-04-22
+"Esmeraldas"	"Eloy Alfaro"	2	2020-04-22
+"Esmeraldas"	"Esmeraldas"	78	2020-04-22
+"Esmeraldas"	"Muisne"	3	2020-04-22
+"Esmeraldas"	"Quinindé"	13	2020-04-22
+"Esmeraldas"	"Rioverde"	1	2020-04-22
+"Esmeraldas"	"San Lorenzo"	3	2020-04-22
+"Esmeraldas"	"Atacames"	4	2020-04-23
+"Esmeraldas"	"Eloy Alfaro"	4	2020-04-23
+"Esmeraldas"	"Esmeraldas"	81	2020-04-23
+"Esmeraldas"	"Muisne"	3	2020-04-23
+"Esmeraldas"	"Quinindé"	16	2020-04-23
+"Esmeraldas"	"Rioverde"	2	2020-04-23
+"Esmeraldas"	"San Lorenzo"	5	2020-04-23
+"Esmeraldas"	"Atacames"	4	2020-04-24
+"Esmeraldas"	"Eloy Alfaro"	4	2020-04-24
+"Esmeraldas"	"Esmeraldas"	81	2020-04-24
+"Esmeraldas"	"Muisne"	3	2020-04-24
+"Esmeraldas"	"Quinindé"	16	2020-04-24
+"Esmeraldas"	"Rioverde"	2	2020-04-24
+"Esmeraldas"	"San Lorenzo"	5	2020-04-24
+"Esmeraldas"	"Atacames"	4	2020-04-25
+"Esmeraldas"	"Eloy Alfaro"	4	2020-04-25
+"Esmeraldas"	"Esmeraldas"	81	2020-04-25
+"Esmeraldas"	"Muisne"	3	2020-04-25
+"Esmeraldas"	"Quinindé"	16	2020-04-25
+"Esmeraldas"	"Rioverde"	2	2020-04-25
+"Esmeraldas"	"San Lorenzo"	5	2020-04-25
+"Esmeraldas"	"Atacames"	4	2020-04-26
+"Esmeraldas"	"Eloy Alfaro"	4	2020-04-26
+"Esmeraldas"	"Esmeraldas"	81	2020-04-26
+"Esmeraldas"	"Muisne"	3	2020-04-26
+"Esmeraldas"	"Quinindé"	16	2020-04-26
+"Esmeraldas"	"Rioverde"	2	2020-04-26
+"Esmeraldas"	"San Lorenzo"	5	2020-04-26
+"Esmeraldas"	"Atacames"	4	2020-04-27
+"Esmeraldas"	"Eloy Alfaro"	4	2020-04-27
+"Esmeraldas"	"Esmeraldas"	81	2020-04-27
+"Esmeraldas"	"Muisne"	3	2020-04-27
+"Esmeraldas"	"Quinindé"	16	2020-04-27
+"Esmeraldas"	"Rioverde"	2	2020-04-27
+"Esmeraldas"	"San Lorenzo"	5	2020-04-27
+"Esmeraldas"	"Atacames"	5	2020-04-28
+"Esmeraldas"	"Eloy Alfaro"	4	2020-04-28
+"Esmeraldas"	"Esmeraldas"	115	2020-04-28
+"Esmeraldas"	"Muisne"	7	2020-04-28
+"Esmeraldas"	"Quinindé"	22	2020-04-28
+"Esmeraldas"	"Rioverde"	4	2020-04-28
+"Esmeraldas"	"San Lorenzo"	7	2020-04-28
+"Esmeraldas"	"Atacames"	5	2020-04-29
+"Esmeraldas"	"Eloy Alfaro"	5	2020-04-29
+"Esmeraldas"	"Esmeraldas"	118	2020-04-29
+"Esmeraldas"	"Muisne"	7	2020-04-29
+"Esmeraldas"	"Quinindé"	24	2020-04-29
+"Esmeraldas"	"Rioverde"	5	2020-04-29
+"Esmeraldas"	"San Lorenzo"	9	2020-04-29
+"Esmeraldas"	"Atacames"	5	2020-04-30
+"Esmeraldas"	"Eloy Alfaro"	7	2020-04-30
+"Esmeraldas"	"Esmeraldas"	128	2020-04-30
+"Esmeraldas"	"Muisne"	8	2020-04-30
+"Esmeraldas"	"Quinindé"	24	2020-04-30
+"Esmeraldas"	"Rioverde"	5	2020-04-30
+"Esmeraldas"	"San Lorenzo"	10	2020-04-30
+"Esmeraldas"	"Atacames"	7	2020-05-01
+"Esmeraldas"	"Eloy Alfaro"	7	2020-05-01
+"Esmeraldas"	"Esmeraldas"	147	2020-05-01
+"Esmeraldas"	"Muisne"	8	2020-05-01
+"Esmeraldas"	"Quinindé"	25	2020-05-01
+"Esmeraldas"	"Rioverde"	4	2020-05-01
+"Esmeraldas"	"San Lorenzo"	10	2020-05-01
+"Esmeraldas"	"Atacames"	5	2020-05-02
+"Esmeraldas"	"Eloy Alfaro"	7	2020-05-02
+"Esmeraldas"	"Esmeraldas"	142	2020-05-02
+"Esmeraldas"	"Muisne"	9	2020-05-02
+"Esmeraldas"	"Quinindé"	28	2020-05-02
+"Esmeraldas"	"Rioverde"	9	2020-05-02
+"Esmeraldas"	"San Lorenzo"	12	2020-05-02
+"Esmeraldas"	"Atacames"	5	2020-05-03
+"Esmeraldas"	"Eloy Alfaro"	8	2020-05-03
+"Esmeraldas"	"Esmeraldas"	146	2020-05-03
+"Esmeraldas"	"Muisne"	10	2020-05-03
+"Esmeraldas"	"Quinindé"	29	2020-05-03
+"Esmeraldas"	"Rioverde"	12	2020-05-03
+"Esmeraldas"	"San Lorenzo"	13	2020-05-03
+"Esmeraldas"	"Atacames"	5	2020-05-04
+"Esmeraldas"	"Eloy Alfaro"	10	2020-05-04
+"Esmeraldas"	"Esmeraldas"	162	2020-05-04
+"Esmeraldas"	"Muisne"	10	2020-05-04
+"Esmeraldas"	"Quinindé"	33	2020-05-04
+"Esmeraldas"	"Rioverde"	9	2020-05-04
+"Esmeraldas"	"San Lorenzo"	13	2020-05-04
+"Esmeraldas"	"Atacames"	5	2020-05-05
+"Esmeraldas"	"Eloy Alfaro"	10	2020-05-05
+"Esmeraldas"	"Esmeraldas"	162	2020-05-05
+"Esmeraldas"	"Muisne"	10	2020-05-05
+"Esmeraldas"	"Quinindé"	33	2020-05-05
+"Esmeraldas"	"Rioverde"	9	2020-05-05
+"Esmeraldas"	"San Lorenzo"	13	2020-05-05
+"Esmeraldas"	"Atacames"	6	2020-05-06
+"Esmeraldas"	"Eloy Alfaro"	11	2020-05-06
+"Esmeraldas"	"Esmeraldas"	181	2020-05-06
+"Esmeraldas"	"Muisne"	11	2020-05-06
+"Esmeraldas"	"Quinindé"	34	2020-05-06
+"Esmeraldas"	"Rioverde"	10	2020-05-06
+"Esmeraldas"	"San Lorenzo"	12	2020-05-06
+"Esmeraldas"	"Atacames"	8	2020-05-07
+"Esmeraldas"	"Eloy Alfaro"	12	2020-05-07
+"Esmeraldas"	"Esmeraldas"	202	2020-05-07
+"Esmeraldas"	"Muisne"	12	2020-05-07
+"Esmeraldas"	"Quinindé"	34	2020-05-07
+"Esmeraldas"	"Rioverde"	10	2020-05-07
+"Esmeraldas"	"San Lorenzo"	12	2020-05-07
+"Esmeraldas"	"Atacames"	10	2020-05-08
+"Esmeraldas"	"Eloy Alfaro"	12	2020-05-08
+"Esmeraldas"	"Esmeraldas"	196	2020-05-08
+"Esmeraldas"	"Muisne"	12	2020-05-08
+"Esmeraldas"	"Quinindé"	32	2020-05-08
+"Esmeraldas"	"Rioverde"	9	2020-05-08
+"Esmeraldas"	"San Lorenzo"	12	2020-05-08
+"Esmeraldas"	"Atacames"	10	2020-05-09
+"Esmeraldas"	"Eloy Alfaro"	12	2020-05-09
+"Esmeraldas"	"Esmeraldas"	197	2020-05-09
+"Esmeraldas"	"Muisne"	12	2020-05-09
+"Esmeraldas"	"Quinindé"	33	2020-05-09
+"Esmeraldas"	"Rioverde"	9	2020-05-09
+"Esmeraldas"	"San Lorenzo"	12	2020-05-09
+"Esmeraldas"	"Atacames"	10	2020-05-10
+"Esmeraldas"	"Eloy Alfaro"	12	2020-05-10
+"Esmeraldas"	"Esmeraldas"	199	2020-05-10
+"Esmeraldas"	"Muisne"	12	2020-05-10
+"Esmeraldas"	"Quinindé"	34	2020-05-10
+"Esmeraldas"	"Rioverde"	11	2020-05-10
+"Esmeraldas"	"San Lorenzo"	12	2020-05-10
+"Esmeraldas"	"Atacames"	10	2020-05-11
+"Esmeraldas"	"Eloy Alfaro"	12	2020-05-11
+"Esmeraldas"	"Esmeraldas"	202	2020-05-11
+"Esmeraldas"	"Muisne"	12	2020-05-11
+"Esmeraldas"	"Quinindé"	34	2020-05-11
+"Esmeraldas"	"Rioverde"	10	2020-05-11
+"Esmeraldas"	"San Lorenzo"	12	2020-05-11
+"Esmeraldas"	"Atacames"	11	2020-05-12
+"Esmeraldas"	"Eloy Alfaro"	12	2020-05-12
+"Esmeraldas"	"Esmeraldas"	241	2020-05-12
+"Esmeraldas"	"Muisne"	15	2020-05-12
+"Esmeraldas"	"Quinindé"	66	2020-05-12
+"Esmeraldas"	"Rioverde"	14	2020-05-12
+"Esmeraldas"	"San Lorenzo"	13	2020-05-12
+"Esmeraldas"	"Atacames"	11	2020-05-13
+"Esmeraldas"	"Eloy Alfaro"	12	2020-05-13
+"Esmeraldas"	"Esmeraldas"	241	2020-05-13
+"Esmeraldas"	"Muisne"	15	2020-05-13
+"Esmeraldas"	"Quinindé"	68	2020-05-13
+"Esmeraldas"	"Rioverde"	14	2020-05-13
+"Esmeraldas"	"San Lorenzo"	13	2020-05-13
+"Esmeraldas"	"Atacames"	11	2020-05-14
+"Esmeraldas"	"Eloy Alfaro"	12	2020-05-14
+"Esmeraldas"	"Esmeraldas"	241	2020-05-14
+"Esmeraldas"	"Muisne"	15	2020-05-14
+"Esmeraldas"	"Quinindé"	68	2020-05-14
+"Esmeraldas"	"Rioverde"	14	2020-05-14
+"Esmeraldas"	"San Lorenzo"	13	2020-05-14
+"Esmeraldas"	"Atacames"	13	2020-05-15
+"Esmeraldas"	"Eloy Alfaro"	13	2020-05-15
+"Esmeraldas"	"Esmeraldas"	249	2020-05-15
+"Esmeraldas"	"Muisne"	15	2020-05-15
+"Esmeraldas"	"Quinindé"	76	2020-05-15
+"Esmeraldas"	"Rioverde"	14	2020-05-15
+"Esmeraldas"	"San Lorenzo"	14	2020-05-15
+"Esmeraldas"	"Atacames"	13	2020-05-16
+"Esmeraldas"	"Eloy Alfaro"	13	2020-05-16
+"Esmeraldas"	"Esmeraldas"	267	2020-05-16
+"Esmeraldas"	"Muisne"	15	2020-05-16
+"Esmeraldas"	"Quinindé"	81	2020-05-16
+"Esmeraldas"	"Rioverde"	14	2020-05-16
+"Esmeraldas"	"San Lorenzo"	14	2020-05-16
+"Esmeraldas"	"Atacames"	14	2020-05-17
+"Esmeraldas"	"Eloy Alfaro"	18	2020-05-17
+"Esmeraldas"	"Esmeraldas"	287	2020-05-17
+"Esmeraldas"	"Muisne"	15	2020-05-17
+"Esmeraldas"	"Quinindé"	93	2020-05-17
+"Esmeraldas"	"Rioverde"	14	2020-05-17
+"Esmeraldas"	"San Lorenzo"	15	2020-05-17
+"Esmeraldas"	"Atacames"	15	2020-05-18
+"Esmeraldas"	"Eloy Alfaro"	26	2020-05-18
+"Esmeraldas"	"Esmeraldas"	292	2020-05-18
+"Esmeraldas"	"Muisne"	17	2020-05-18
+"Esmeraldas"	"Quinindé"	95	2020-05-18
+"Esmeraldas"	"Rioverde"	15	2020-05-18
+"Esmeraldas"	"San Lorenzo"	19	2020-05-18
+"Esmeraldas"	"Atacames"	17	2020-05-19
+"Esmeraldas"	"Eloy Alfaro"	31	2020-05-19
+"Esmeraldas"	"Esmeraldas"	298	2020-05-19
+"Esmeraldas"	"Muisne"	22	2020-05-19
+"Esmeraldas"	"Quinindé"	96	2020-05-19
+"Esmeraldas"	"Rioverde"	16	2020-05-19
+"Esmeraldas"	"San Lorenzo"	19	2020-05-19
+"Esmeraldas"	"Atacames"	19	2020-05-20
+"Esmeraldas"	"Eloy Alfaro"	31	2020-05-20
+"Esmeraldas"	"Esmeraldas"	316	2020-05-20
+"Esmeraldas"	"Muisne"	24	2020-05-20
+"Esmeraldas"	"Quinindé"	98	2020-05-20
+"Esmeraldas"	"Rioverde"	16	2020-05-20
+"Esmeraldas"	"San Lorenzo"	19	2020-05-20
+"Esmeraldas"	"Atacames"	19	2020-05-21
+"Esmeraldas"	"Eloy Alfaro"	34	2020-05-21
+"Esmeraldas"	"Esmeraldas"	330	2020-05-21
+"Esmeraldas"	"Muisne"	25	2020-05-21
+"Esmeraldas"	"Quinindé"	102	2020-05-21
+"Esmeraldas"	"Rioverde"	16	2020-05-21
+"Esmeraldas"	"San Lorenzo"	19	2020-05-21
+"Esmeraldas"	"Atacames"	25	2020-05-22
+"Esmeraldas"	"Eloy Alfaro"	37	2020-05-22
+"Esmeraldas"	"Esmeraldas"	348	2020-05-22
+"Esmeraldas"	"Muisne"	27	2020-05-22
+"Esmeraldas"	"Quinindé"	110	2020-05-22
+"Esmeraldas"	"Rioverde"	19	2020-05-22
+"Esmeraldas"	"San Lorenzo"	19	2020-05-22
+"Esmeraldas"	"Atacames"	25	2020-05-23
+"Esmeraldas"	"Eloy Alfaro"	37	2020-05-23
+"Esmeraldas"	"Esmeraldas"	367	2020-05-23
+"Esmeraldas"	"Muisne"	27	2020-05-23
+"Esmeraldas"	"Quinindé"	112	2020-05-23
+"Esmeraldas"	"Rioverde"	19	2020-05-23
+"Esmeraldas"	"San Lorenzo"	20	2020-05-23
+"Esmeraldas"	"Atacames"	26	2020-05-24
+"Esmeraldas"	"Eloy Alfaro"	43	2020-05-24
+"Esmeraldas"	"Esmeraldas"	380	2020-05-24
+"Esmeraldas"	"Muisne"	28	2020-05-24
+"Esmeraldas"	"Quinindé"	123	2020-05-24
+"Esmeraldas"	"Rioverde"	20	2020-05-24
+"Esmeraldas"	"San Lorenzo"	20	2020-05-24
+"Esmeraldas"	"Atacames"	27	2020-05-25
+"Esmeraldas"	"Eloy Alfaro"	46	2020-05-25
+"Esmeraldas"	"Esmeraldas"	427	2020-05-25
+"Esmeraldas"	"Muisne"	28	2020-05-25
+"Esmeraldas"	"Quinindé"	132	2020-05-25
+"Esmeraldas"	"Rioverde"	23	2020-05-25
+"Esmeraldas"	"San Lorenzo"	24	2020-05-25
+"Esmeraldas"	"Atacames"	27	2020-05-26
+"Esmeraldas"	"Eloy Alfaro"	46	2020-05-26
+"Esmeraldas"	"Esmeraldas"	427	2020-05-26
+"Esmeraldas"	"Muisne"	28	2020-05-26
+"Esmeraldas"	"Quinindé"	133	2020-05-26
+"Esmeraldas"	"Rioverde"	23	2020-05-26
+"Esmeraldas"	"San Lorenzo"	24	2020-05-26
+"Esmeraldas"	"Atacames"	30	2020-05-27
+"Esmeraldas"	"Eloy Alfaro"	51	2020-05-27
+"Esmeraldas"	"Esmeraldas"	427	2020-05-27
+"Esmeraldas"	"Muisne"	29	2020-05-27
+"Esmeraldas"	"Quinindé"	159	2020-05-27
+"Esmeraldas"	"Rioverde"	23	2020-05-27
+"Esmeraldas"	"San Lorenzo"	25	2020-05-27
+"Esmeraldas"	"Atacames"	31	2020-05-28
+"Esmeraldas"	"Eloy Alfaro"	51	2020-05-28
+"Esmeraldas"	"Esmeraldas"	467	2020-05-28
+"Esmeraldas"	"Muisne"	29	2020-05-28
+"Esmeraldas"	"Quinindé"	171	2020-05-28
+"Esmeraldas"	"Rioverde"	26	2020-05-28
+"Esmeraldas"	"San Lorenzo"	25	2020-05-28
+"Esmeraldas"	"Atacames"	31	2020-05-29
+"Esmeraldas"	"Eloy Alfaro"	51	2020-05-29
+"Esmeraldas"	"Esmeraldas"	467	2020-05-29
+"Esmeraldas"	"Muisne"	29	2020-05-29
+"Esmeraldas"	"Quinindé"	171	2020-05-29
+"Esmeraldas"	"Rioverde"	26	2020-05-29
+"Esmeraldas"	"San Lorenzo"	25	2020-05-29
+"Esmeraldas"	"Atacames"	31	2020-05-30
+"Esmeraldas"	"Eloy Alfaro"	51	2020-05-30
+"Esmeraldas"	"Esmeraldas"	467	2020-05-30
+"Esmeraldas"	"Muisne"	29	2020-05-30
+"Esmeraldas"	"Quinindé"	173	2020-05-30
+"Esmeraldas"	"Rioverde"	26	2020-05-30
+"Esmeraldas"	"San Lorenzo"	25	2020-05-30
+"Esmeraldas"	"Atacames"	31	2020-05-31
+"Esmeraldas"	"Eloy Alfaro"	51	2020-05-31
+"Esmeraldas"	"Esmeraldas"	517	2020-05-31
+"Esmeraldas"	"Muisne"	29	2020-05-31
+"Esmeraldas"	"Quinindé"	173	2020-05-31
+"Esmeraldas"	"Rioverde"	26	2020-05-31
+"Esmeraldas"	"San Lorenzo"	25	2020-05-31
+"Esmeraldas"	"Atacames"	35	2020-06-01
+"Esmeraldas"	"Eloy Alfaro"	57	2020-06-01
+"Esmeraldas"	"Esmeraldas"	534	2020-06-01
+"Esmeraldas"	"Muisne"	31	2020-06-01
+"Esmeraldas"	"Quinindé"	199	2020-06-01
+"Esmeraldas"	"Rioverde"	31	2020-06-01
+"Esmeraldas"	"San Lorenzo"	28	2020-06-01
+"Esmeraldas"	"Atacames"	38	2020-06-02
+"Esmeraldas"	"Eloy Alfaro"	83	2020-06-02
+"Esmeraldas"	"Esmeraldas"	562	2020-06-02
+"Esmeraldas"	"Muisne"	32	2020-06-02
+"Esmeraldas"	"Quinindé"	211	2020-06-02
+"Esmeraldas"	"Rioverde"	31	2020-06-02
+"Esmeraldas"	"San Lorenzo"	29	2020-06-02
+"Esmeraldas"	"Atacames"	41	2020-06-03
+"Esmeraldas"	"Eloy Alfaro"	84	2020-06-03
+"Esmeraldas"	"Esmeraldas"	597	2020-06-03
+"Esmeraldas"	"Muisne"	34	2020-06-03
+"Esmeraldas"	"Quinindé"	214	2020-06-03
+"Esmeraldas"	"Rioverde"	37	2020-06-03
+"Esmeraldas"	"San Lorenzo"	29	2020-06-03
+"Esmeraldas"	"Atacames"	42	2020-06-04
+"Esmeraldas"	"Eloy Alfaro"	84	2020-06-04
+"Esmeraldas"	"Esmeraldas"	609	2020-06-04
+"Esmeraldas"	"Muisne"	34	2020-06-04
+"Esmeraldas"	"Quinindé"	226	2020-06-04
+"Esmeraldas"	"Rioverde"	37	2020-06-04
+"Esmeraldas"	"San Lorenzo"	29	2020-06-04
+"Esmeraldas"	"Atacames"	57	2020-06-05
+"Esmeraldas"	"Eloy Alfaro"	84	2020-06-05
+"Esmeraldas"	"Esmeraldas"	620	2020-06-05
+"Esmeraldas"	"Muisne"	34	2020-06-05
+"Esmeraldas"	"Quinindé"	238	2020-06-05
+"Esmeraldas"	"Rioverde"	41	2020-06-05
+"Esmeraldas"	"San Lorenzo"	30	2020-06-05
+"Esmeraldas"	"Atacames"	58	2020-06-06
+"Esmeraldas"	"Eloy Alfaro"	84	2020-06-06
+"Esmeraldas"	"Esmeraldas"	621	2020-06-06
+"Esmeraldas"	"Muisne"	35	2020-06-06
+"Esmeraldas"	"Quinindé"	252	2020-06-06
+"Esmeraldas"	"Rioverde"	42	2020-06-06
+"Esmeraldas"	"San Lorenzo"	31	2020-06-06
+"Esmeraldas"	"Atacames"	60	2020-06-07
+"Esmeraldas"	"Eloy Alfaro"	125	2020-06-07
+"Esmeraldas"	"Esmeraldas"	626	2020-06-07
+"Esmeraldas"	"Muisne"	36	2020-06-07
+"Esmeraldas"	"Quinindé"	252	2020-06-07
+"Esmeraldas"	"Rioverde"	42	2020-06-07
+"Esmeraldas"	"San Lorenzo"	31	2020-06-07
+"Esmeraldas"	"Atacames"	60	2020-06-08
+"Esmeraldas"	"Eloy Alfaro"	125	2020-06-08
+"Esmeraldas"	"Esmeraldas"	650	2020-06-08
+"Esmeraldas"	"Muisne"	36	2020-06-08
+"Esmeraldas"	"Quinindé"	253	2020-06-08
+"Esmeraldas"	"Rioverde"	43	2020-06-08
+"Esmeraldas"	"San Lorenzo"	31	2020-06-08
+"Esmeraldas"	"Atacames"	73	2020-06-09
+"Esmeraldas"	"Eloy Alfaro"	129	2020-06-09
+"Esmeraldas"	"Esmeraldas"	665	2020-06-09
+"Esmeraldas"	"Muisne"	37	2020-06-09
+"Esmeraldas"	"Quinindé"	272	2020-06-09
+"Esmeraldas"	"Rioverde"	49	2020-06-09
+"Esmeraldas"	"San Lorenzo"	31	2020-06-09
+"Esmeraldas"	"Atacames"	75	2020-06-10
+"Esmeraldas"	"Eloy Alfaro"	129	2020-06-10
+"Esmeraldas"	"Esmeraldas"	680	2020-06-10
+"Esmeraldas"	"Muisne"	46	2020-06-10
+"Esmeraldas"	"Quinindé"	291	2020-06-10
+"Esmeraldas"	"Rioverde"	53	2020-06-10
+"Esmeraldas"	"San Lorenzo"	33	2020-06-10
+"Esmeraldas"	"Atacames"	75	2020-06-11
+"Esmeraldas"	"Eloy Alfaro"	129	2020-06-11
+"Esmeraldas"	"Esmeraldas"	704	2020-06-11
+"Esmeraldas"	"Muisne"	47	2020-06-11
+"Esmeraldas"	"Quinindé"	296	2020-06-11
+"Esmeraldas"	"Rioverde"	55	2020-06-11
+"Esmeraldas"	"San Lorenzo"	33	2020-06-11
+"Esmeraldas"	"Atacames"	75	2020-06-12
+"Esmeraldas"	"Eloy Alfaro"	143	2020-06-12
+"Esmeraldas"	"Esmeraldas"	720	2020-06-12
+"Esmeraldas"	"Muisne"	47	2020-06-12
+"Esmeraldas"	"Quinindé"	299	2020-06-12
+"Esmeraldas"	"Rioverde"	56	2020-06-12
+"Esmeraldas"	"San Lorenzo"	34	2020-06-12
+"Esmeraldas"	"Atacames"	75	2020-06-13
+"Esmeraldas"	"Eloy Alfaro"	143	2020-06-13
+"Esmeraldas"	"Esmeraldas"	734	2020-06-13
+"Esmeraldas"	"Muisne"	47	2020-06-13
+"Esmeraldas"	"Quinindé"	330	2020-06-13
+"Esmeraldas"	"Rioverde"	57	2020-06-13
+"Esmeraldas"	"San Lorenzo"	34	2020-06-13
+"Esmeraldas"	"Atacames"	76	2020-06-14
+"Esmeraldas"	"Eloy Alfaro"	143	2020-06-14
+"Esmeraldas"	"Esmeraldas"	769	2020-06-14
+"Esmeraldas"	"Muisne"	47	2020-06-14
+"Esmeraldas"	"Quinindé"	350	2020-06-14
+"Esmeraldas"	"Rioverde"	59	2020-06-14
+"Esmeraldas"	"San Lorenzo"	34	2020-06-14
+"Esmeraldas"	"Atacames"	77	2020-06-15
+"Esmeraldas"	"Eloy Alfaro"	151	2020-06-15
+"Esmeraldas"	"Esmeraldas"	798	2020-06-15
+"Esmeraldas"	"Muisne"	47	2020-06-15
+"Esmeraldas"	"Quinindé"	362	2020-06-15
+"Esmeraldas"	"Rioverde"	62	2020-06-15
+"Esmeraldas"	"San Lorenzo"	34	2020-06-15
+"Esmeraldas"	"Atacames"	77	2020-06-16
+"Esmeraldas"	"Eloy Alfaro"	161	2020-06-16
+"Esmeraldas"	"Esmeraldas"	825	2020-06-16
+"Esmeraldas"	"Muisne"	48	2020-06-16
+"Esmeraldas"	"Quinindé"	374	2020-06-16
+"Esmeraldas"	"Rioverde"	64	2020-06-16
+"Esmeraldas"	"San Lorenzo"	34	2020-06-16
+"Esmeraldas"	"Atacames"	80	2020-06-17
+"Esmeraldas"	"Eloy Alfaro"	175	2020-06-17
+"Esmeraldas"	"Esmeraldas"	860	2020-06-17
+"Esmeraldas"	"Muisne"	48	2020-06-17
+"Esmeraldas"	"Quinindé"	398	2020-06-17
+"Esmeraldas"	"Rioverde"	66	2020-06-17
+"Esmeraldas"	"San Lorenzo"	37	2020-06-17
+"Esmeraldas"	"Atacames"	80	2020-06-18
+"Esmeraldas"	"Eloy Alfaro"	175	2020-06-18
+"Esmeraldas"	"Esmeraldas"	862	2020-06-18
+"Esmeraldas"	"Muisne"	48	2020-06-18
+"Esmeraldas"	"Quinindé"	408	2020-06-18
+"Esmeraldas"	"Rioverde"	66	2020-06-18
+"Esmeraldas"	"San Lorenzo"	38	2020-06-18
+"Esmeraldas"	"Atacames"	80	2020-06-19
+"Esmeraldas"	"Eloy Alfaro"	177	2020-06-19
+"Esmeraldas"	"Esmeraldas"	864	2020-06-19
+"Esmeraldas"	"Muisne"	48	2020-06-19
+"Esmeraldas"	"Quinindé"	412	2020-06-19
+"Esmeraldas"	"Rioverde"	70	2020-06-19
+"Esmeraldas"	"San Lorenzo"	39	2020-06-19
+"Esmeraldas"	"Atacames"	87	2020-06-20
+"Esmeraldas"	"Eloy Alfaro"	177	2020-06-20
+"Esmeraldas"	"Esmeraldas"	877	2020-06-20
+"Esmeraldas"	"Muisne"	48	2020-06-20
+"Esmeraldas"	"Quinindé"	419	2020-06-20
+"Esmeraldas"	"Rioverde"	70	2020-06-20
+"Esmeraldas"	"San Lorenzo"	39	2020-06-20
+"Esmeraldas"	"Atacames"	89	2020-06-21
+"Esmeraldas"	"Eloy Alfaro"	177	2020-06-21
+"Esmeraldas"	"Esmeraldas"	879	2020-06-21
+"Esmeraldas"	"Muisne"	49	2020-06-21
+"Esmeraldas"	"Quinindé"	451	2020-06-21
+"Esmeraldas"	"Rioverde"	70	2020-06-21
+"Esmeraldas"	"San Lorenzo"	40	2020-06-21
+"Esmeraldas"	"Atacames"	89	2020-06-22
+"Esmeraldas"	"Eloy Alfaro"	177	2020-06-22
+"Esmeraldas"	"Esmeraldas"	880	2020-06-22
+"Esmeraldas"	"Muisne"	49	2020-06-22
+"Esmeraldas"	"Quinindé"	451	2020-06-22
+"Esmeraldas"	"Rioverde"	70	2020-06-22
+"Esmeraldas"	"San Lorenzo"	40	2020-06-22
+"Esmeraldas"	"Atacames"	89	2020-06-23
+"Esmeraldas"	"Eloy Alfaro"	189	2020-06-23
+"Esmeraldas"	"Esmeraldas"	890	2020-06-23
+"Esmeraldas"	"Muisne"	50	2020-06-23
+"Esmeraldas"	"Quinindé"	466	2020-06-23
+"Esmeraldas"	"Rioverde"	72	2020-06-23
+"Esmeraldas"	"San Lorenzo"	40	2020-06-23
+"Esmeraldas"	"Atacames"	89	2020-06-24
+"Esmeraldas"	"Eloy Alfaro"	192	2020-06-24
+"Esmeraldas"	"Esmeraldas"	894	2020-06-24
+"Esmeraldas"	"Muisne"	56	2020-06-24
+"Esmeraldas"	"Quinindé"	467	2020-06-24
+"Esmeraldas"	"Rioverde"	73	2020-06-24
+"Esmeraldas"	"San Lorenzo"	40	2020-06-24
+"Esmeraldas"	"Atacames"	94	2020-06-25
+"Esmeraldas"	"Eloy Alfaro"	195	2020-06-25
+"Esmeraldas"	"Esmeraldas"	929	2020-06-25
+"Esmeraldas"	"Muisne"	57	2020-06-25
+"Esmeraldas"	"Quinindé"	473	2020-06-25
+"Esmeraldas"	"Rioverde"	74	2020-06-25
+"Esmeraldas"	"San Lorenzo"	40	2020-06-25
+"Esmeraldas"	"Atacames"	101	2020-06-26
+"Esmeraldas"	"Eloy Alfaro"	209	2020-06-26
+"Esmeraldas"	"Esmeraldas"	958	2020-06-26
+"Esmeraldas"	"Muisne"	59	2020-06-26
+"Esmeraldas"	"Quinindé"	503	2020-06-26
+"Esmeraldas"	"Rioverde"	78	2020-06-26
+"Esmeraldas"	"San Lorenzo"	41	2020-06-26
+"Esmeraldas"	"Atacames"	114	2020-06-27
+"Esmeraldas"	"Eloy Alfaro"	221	2020-06-27
+"Esmeraldas"	"Esmeraldas"	960	2020-06-27
+"Esmeraldas"	"Muisne"	62	2020-06-27
+"Esmeraldas"	"Quinindé"	511	2020-06-27
+"Esmeraldas"	"Rioverde"	78	2020-06-27
+"Esmeraldas"	"San Lorenzo"	42	2020-06-27
+"Esmeraldas"	"Atacames"	115	2020-06-28
+"Esmeraldas"	"Eloy Alfaro"	221	2020-06-28
+"Esmeraldas"	"Esmeraldas"	989	2020-06-28
+"Esmeraldas"	"Muisne"	62	2020-06-28
+"Esmeraldas"	"Quinindé"	515	2020-06-28
+"Esmeraldas"	"Rioverde"	79	2020-06-28
+"Esmeraldas"	"San Lorenzo"	43	2020-06-28
+"Esmeraldas"	"Atacames"	115	2020-06-29
+"Esmeraldas"	"Eloy Alfaro"	221	2020-06-29
+"Esmeraldas"	"Esmeraldas"	989	2020-06-29
+"Esmeraldas"	"Muisne"	62	2020-06-29
+"Esmeraldas"	"Quinindé"	519	2020-06-29
+"Esmeraldas"	"Rioverde"	80	2020-06-29
+"Esmeraldas"	"San Lorenzo"	43	2020-06-29
+"Esmeraldas"	"Atacames"	119	2020-06-30
+"Esmeraldas"	"Eloy Alfaro"	226	2020-06-30
+"Esmeraldas"	"Esmeraldas"	1009	2020-06-30
+"Esmeraldas"	"Muisne"	63	2020-06-30
+"Esmeraldas"	"Quinindé"	543	2020-06-30
+"Esmeraldas"	"Rioverde"	81	2020-06-30
+"Esmeraldas"	"San Lorenzo"	43	2020-06-30
+"Esmeraldas"	"Atacames"	119	2020-07-01
+"Esmeraldas"	"Eloy Alfaro"	226	2020-07-01
+"Esmeraldas"	"Esmeraldas"	1010	2020-07-01
+"Esmeraldas"	"Muisne"	63	2020-07-01
+"Esmeraldas"	"Quinindé"	544	2020-07-01
+"Esmeraldas"	"Rioverde"	81	2020-07-01
+"Esmeraldas"	"San Lorenzo"	44	2020-07-01
+"Esmeraldas"	"Atacames"	122	2020-07-02
+"Esmeraldas"	"Eloy Alfaro"	235	2020-07-02
+"Esmeraldas"	"Esmeraldas"	1042	2020-07-02
+"Esmeraldas"	"Muisne"	63	2020-07-02
+"Esmeraldas"	"Quinindé"	566	2020-07-02
+"Esmeraldas"	"Rioverde"	84	2020-07-02
+"Esmeraldas"	"San Lorenzo"	44	2020-07-02
+"Esmeraldas"	"Atacames"	122	2020-07-03
+"Esmeraldas"	"Eloy Alfaro"	235	2020-07-03
+"Esmeraldas"	"Esmeraldas"	1042	2020-07-03
+"Esmeraldas"	"Muisne"	63	2020-07-03
+"Esmeraldas"	"Quinindé"	567	2020-07-03
+"Esmeraldas"	"Rioverde"	84	2020-07-03
+"Esmeraldas"	"San Lorenzo"	44	2020-07-03
+"Esmeraldas"	"Atacames"	126	2020-07-04
+"Esmeraldas"	"Eloy Alfaro"	235	2020-07-04
+"Esmeraldas"	"Esmeraldas"	1065	2020-07-04
+"Esmeraldas"	"Muisne"	63	2020-07-04
+"Esmeraldas"	"Quinindé"	568	2020-07-04
+"Esmeraldas"	"Rioverde"	85	2020-07-04
+"Esmeraldas"	"San Lorenzo"	44	2020-07-04
+"Esmeraldas"	"Atacames"	132	2020-07-05
+"Esmeraldas"	"Eloy Alfaro"	235	2020-07-05
+"Esmeraldas"	"Esmeraldas"	1076	2020-07-05
+"Esmeraldas"	"Muisne"	64	2020-07-05
+"Esmeraldas"	"Quinindé"	571	2020-07-05
+"Esmeraldas"	"Rioverde"	85	2020-07-05
+"Esmeraldas"	"San Lorenzo"	44	2020-07-05
+"Esmeraldas"	"Atacames"	136	2020-07-06
+"Esmeraldas"	"Eloy Alfaro"	244	2020-07-06
+"Esmeraldas"	"Esmeraldas"	1081	2020-07-06
+"Esmeraldas"	"Muisne"	64	2020-07-06
+"Esmeraldas"	"Quinindé"	573	2020-07-06
+"Esmeraldas"	"Rioverde"	86	2020-07-06
+"Esmeraldas"	"San Lorenzo"	44	2020-07-06
+"Esmeraldas"	"Atacames"	136	2020-07-07
+"Esmeraldas"	"Eloy Alfaro"	246	2020-07-07
+"Esmeraldas"	"Esmeraldas"	1086	2020-07-07
+"Esmeraldas"	"Muisne"	67	2020-07-07
+"Esmeraldas"	"Quinindé"	575	2020-07-07
+"Esmeraldas"	"Rioverde"	86	2020-07-07
+"Esmeraldas"	"San Lorenzo"	44	2020-07-07
+"Esmeraldas"	"Atacames"	163	2020-07-08
+"Esmeraldas"	"Eloy Alfaro"	248	2020-07-08
+"Esmeraldas"	"Esmeraldas"	1121	2020-07-08
+"Esmeraldas"	"Muisne"	71	2020-07-08
+"Esmeraldas"	"Quinindé"	600	2020-07-08
+"Esmeraldas"	"Rioverde"	122	2020-07-08
+"Esmeraldas"	"San Lorenzo"	45	2020-07-08
+"Esmeraldas"	"Atacames"	182	2020-07-09
+"Esmeraldas"	"Eloy Alfaro"	248	2020-07-09
+"Esmeraldas"	"Esmeraldas"	1140	2020-07-09
+"Esmeraldas"	"Muisne"	72	2020-07-09
+"Esmeraldas"	"Quinindé"	617	2020-07-09
+"Esmeraldas"	"Rioverde"	122	2020-07-09
+"Esmeraldas"	"San Lorenzo"	45	2020-07-09
+"Esmeraldas"	"Atacames"	182	2020-07-10
+"Esmeraldas"	"Eloy Alfaro"	248	2020-07-10
+"Esmeraldas"	"Esmeraldas"	1141	2020-07-10
+"Esmeraldas"	"Muisne"	72	2020-07-10
+"Esmeraldas"	"Quinindé"	617	2020-07-10
+"Esmeraldas"	"Rioverde"	122	2020-07-10
+"Esmeraldas"	"San Lorenzo"	45	2020-07-10
+"Esmeraldas"	"Atacames"	185	2020-07-11
+"Esmeraldas"	"Eloy Alfaro"	248	2020-07-11
+"Esmeraldas"	"Esmeraldas"	1184	2020-07-11
+"Esmeraldas"	"Muisne"	73	2020-07-11
+"Esmeraldas"	"Quinindé"	657	2020-07-11
+"Esmeraldas"	"Rioverde"	125	2020-07-11
+"Esmeraldas"	"San Lorenzo"	46	2020-07-11
+"Esmeraldas"	"Atacames"	185	2020-07-12
+"Esmeraldas"	"Eloy Alfaro"	249	2020-07-12
+"Esmeraldas"	"Esmeraldas"	1185	2020-07-12
+"Esmeraldas"	"Muisne"	73	2020-07-12
+"Esmeraldas"	"Quinindé"	660	2020-07-12
+"Esmeraldas"	"Rioverde"	125	2020-07-12
+"Esmeraldas"	"San Lorenzo"	46	2020-07-12
+"Esmeraldas"	"Atacames"	185	2020-07-13
+"Esmeraldas"	"Eloy Alfaro"	250	2020-07-13
+"Esmeraldas"	"Esmeraldas"	1193	2020-07-13
+"Esmeraldas"	"Muisne"	73	2020-07-13
+"Esmeraldas"	"Quinindé"	663	2020-07-13
+"Esmeraldas"	"Rioverde"	125	2020-07-13
+"Esmeraldas"	"San Lorenzo"	49	2020-07-13
+"Esmeraldas"	"Atacames"	199	2020-07-14
+"Esmeraldas"	"Eloy Alfaro"	250	2020-07-14
+"Esmeraldas"	"Esmeraldas"	1248	2020-07-14
+"Esmeraldas"	"Muisne"	78	2020-07-14
+"Esmeraldas"	"Quinindé"	679	2020-07-14
+"Esmeraldas"	"Rioverde"	132	2020-07-14
+"Esmeraldas"	"San Lorenzo"	50	2020-07-14
+"Esmeraldas"	"Atacames"	199	2020-07-15
+"Esmeraldas"	"Eloy Alfaro"	251	2020-07-15
+"Esmeraldas"	"Esmeraldas"	1257	2020-07-15
+"Esmeraldas"	"Muisne"	78	2020-07-15
+"Esmeraldas"	"Quinindé"	680	2020-07-15
+"Esmeraldas"	"Rioverde"	132	2020-07-15
+"Esmeraldas"	"San Lorenzo"	50	2020-07-15
+"Esmeraldas"	"Atacames"	201	2020-07-16
+"Esmeraldas"	"Eloy Alfaro"	254	2020-07-16
+"Esmeraldas"	"Esmeraldas"	1264	2020-07-16
+"Esmeraldas"	"Muisne"	79	2020-07-16
+"Esmeraldas"	"Quinindé"	707	2020-07-16
+"Esmeraldas"	"Rioverde"	138	2020-07-16
+"Esmeraldas"	"San Lorenzo"	50	2020-07-16
+"Esmeraldas"	"Atacames"	214	2020-07-17
+"Esmeraldas"	"Eloy Alfaro"	265	2020-07-17
+"Esmeraldas"	"Esmeraldas"	1317	2020-07-17
+"Esmeraldas"	"Muisne"	101	2020-07-17
+"Esmeraldas"	"Quinindé"	744	2020-07-17
+"Esmeraldas"	"Rioverde"	163	2020-07-17
+"Esmeraldas"	"San Lorenzo"	50	2020-07-17
+"Esmeraldas"	"Atacames"	214	2020-07-18
+"Esmeraldas"	"Eloy Alfaro"	265	2020-07-18
+"Esmeraldas"	"Esmeraldas"	1318	2020-07-18
+"Esmeraldas"	"Muisne"	101	2020-07-18
+"Esmeraldas"	"Quinindé"	744	2020-07-18
+"Esmeraldas"	"Rioverde"	164	2020-07-18
+"Esmeraldas"	"San Lorenzo"	50	2020-07-18
+"Esmeraldas"	"Atacames"	216	2020-07-19
+"Esmeraldas"	"Eloy Alfaro"	267	2020-07-19
+"Esmeraldas"	"Esmeraldas"	1326	2020-07-19
+"Esmeraldas"	"Muisne"	101	2020-07-19
+"Esmeraldas"	"Quinindé"	744	2020-07-19
+"Esmeraldas"	"Rioverde"	164	2020-07-19
+"Esmeraldas"	"San Lorenzo"	50	2020-07-19
+"Esmeraldas"	"Atacames"	218	2020-07-20
+"Esmeraldas"	"Eloy Alfaro"	267	2020-07-20
+"Esmeraldas"	"Esmeraldas"	1326	2020-07-20
+"Esmeraldas"	"Muisne"	101	2020-07-20
+"Esmeraldas"	"Quinindé"	744	2020-07-20
+"Esmeraldas"	"Rioverde"	165	2020-07-20
+"Esmeraldas"	"San Lorenzo"	51	2020-07-20
+"Esmeraldas"	"Atacames"	218	2020-07-21
+"Esmeraldas"	"Eloy Alfaro"	267	2020-07-21
+"Esmeraldas"	"Esmeraldas"	1332	2020-07-21
+"Esmeraldas"	"Muisne"	101	2020-07-21
+"Esmeraldas"	"Quinindé"	749	2020-07-21
+"Esmeraldas"	"Rioverde"	166	2020-07-21
+"Esmeraldas"	"San Lorenzo"	54	2020-07-21
+"Esmeraldas"	"Atacames"	218	2020-07-22
+"Esmeraldas"	"Eloy Alfaro"	267	2020-07-22
+"Esmeraldas"	"Esmeraldas"	1341	2020-07-22
+"Esmeraldas"	"Muisne"	101	2020-07-22
+"Esmeraldas"	"Quinindé"	751	2020-07-22
+"Esmeraldas"	"Rioverde"	166	2020-07-22
+"Esmeraldas"	"San Lorenzo"	54	2020-07-22
+"Esmeraldas"	"Atacames"	218	2020-07-23
+"Esmeraldas"	"Eloy Alfaro"	267	2020-07-23
+"Esmeraldas"	"Esmeraldas"	1343	2020-07-23
+"Esmeraldas"	"Muisne"	101	2020-07-23
+"Esmeraldas"	"Quinindé"	757	2020-07-23
+"Esmeraldas"	"Rioverde"	166	2020-07-23
+"Esmeraldas"	"San Lorenzo"	54	2020-07-23
+"Esmeraldas"	"Atacames"	218	2020-07-24
+"Esmeraldas"	"Eloy Alfaro"	267	2020-07-24
+"Esmeraldas"	"Esmeraldas"	1343	2020-07-24
+"Esmeraldas"	"Muisne"	101	2020-07-24
+"Esmeraldas"	"Quinindé"	758	2020-07-24
+"Esmeraldas"	"Rioverde"	166	2020-07-24
+"Esmeraldas"	"San Lorenzo"	55	2020-07-24
+"Esmeraldas"	"Atacames"	218	2020-07-25
+"Esmeraldas"	"Eloy Alfaro"	267	2020-07-25
+"Esmeraldas"	"Esmeraldas"	1343	2020-07-25
+"Esmeraldas"	"Muisne"	102	2020-07-25
+"Esmeraldas"	"Quinindé"	802	2020-07-25
+"Esmeraldas"	"Rioverde"	168	2020-07-25
+"Esmeraldas"	"San Lorenzo"	55	2020-07-25
+"Esmeraldas"	"Atacames"	219	2020-07-26
+"Esmeraldas"	"Eloy Alfaro"	267	2020-07-26
+"Esmeraldas"	"Esmeraldas"	1344	2020-07-26
+"Esmeraldas"	"Muisne"	102	2020-07-26
+"Esmeraldas"	"Quinindé"	803	2020-07-26
+"Esmeraldas"	"Rioverde"	180	2020-07-26
+"Esmeraldas"	"San Lorenzo"	55	2020-07-26
+"Esmeraldas"	"Atacames"	221	2020-07-27
+"Esmeraldas"	"Eloy Alfaro"	269	2020-07-27
+"Esmeraldas"	"Esmeraldas"	1347	2020-07-27
+"Esmeraldas"	"Muisne"	103	2020-07-27
+"Esmeraldas"	"Quinindé"	803	2020-07-27
+"Esmeraldas"	"Rioverde"	186	2020-07-27
+"Esmeraldas"	"San Lorenzo"	57	2020-07-27
+"Esmeraldas"	"Atacames"	236	2020-07-28
+"Esmeraldas"	"Eloy Alfaro"	270	2020-07-28
+"Esmeraldas"	"Esmeraldas"	1359	2020-07-28
+"Esmeraldas"	"Muisne"	104	2020-07-28
+"Esmeraldas"	"Quinindé"	824	2020-07-28
+"Esmeraldas"	"Rioverde"	188	2020-07-28
+"Esmeraldas"	"San Lorenzo"	59	2020-07-28
+"Esmeraldas"	"Atacames"	238	2020-07-29
+"Esmeraldas"	"Eloy Alfaro"	270	2020-07-29
+"Esmeraldas"	"Esmeraldas"	1366	2020-07-29
+"Esmeraldas"	"Muisne"	105	2020-07-29
+"Esmeraldas"	"Quinindé"	825	2020-07-29
+"Esmeraldas"	"Rioverde"	188	2020-07-29
+"Esmeraldas"	"San Lorenzo"	59	2020-07-29
+"Esmeraldas"	"Atacames"	252	2020-07-30
+"Esmeraldas"	"Eloy Alfaro"	282	2020-07-30
+"Esmeraldas"	"Esmeraldas"	1400	2020-07-30
+"Esmeraldas"	"Muisne"	121	2020-07-30
+"Esmeraldas"	"Quinindé"	867	2020-07-30
+"Esmeraldas"	"Rioverde"	200	2020-07-30
+"Esmeraldas"	"San Lorenzo"	67	2020-07-30
+"Esmeraldas"	"Atacames"	253	2020-07-31
+"Esmeraldas"	"Eloy Alfaro"	282	2020-07-31
+"Esmeraldas"	"Esmeraldas"	1402	2020-07-31
+"Esmeraldas"	"Muisne"	121	2020-07-31
+"Esmeraldas"	"Quinindé"	898	2020-07-31
+"Esmeraldas"	"Rioverde"	200	2020-07-31
+"Esmeraldas"	"San Lorenzo"	67	2020-07-31
+"Esmeraldas"	"Atacames"	253	2020-08-01
+"Esmeraldas"	"Eloy Alfaro"	282	2020-08-01
+"Esmeraldas"	"Esmeraldas"	1407	2020-08-01
+"Esmeraldas"	"Muisne"	121	2020-08-01
+"Esmeraldas"	"Quinindé"	899	2020-08-01
+"Esmeraldas"	"Rioverde"	201	2020-08-01
+"Esmeraldas"	"San Lorenzo"	67	2020-08-01
+"Esmeraldas"	"Atacames"	253	2020-08-02
+"Esmeraldas"	"Eloy Alfaro"	282	2020-08-02
+"Esmeraldas"	"Esmeraldas"	1407	2020-08-02
+"Esmeraldas"	"Muisne"	121	2020-08-02
+"Esmeraldas"	"Quinindé"	899	2020-08-02
+"Esmeraldas"	"Rioverde"	201	2020-08-02
+"Esmeraldas"	"San Lorenzo"	68	2020-08-02
+"Esmeraldas"	"Atacames"	253	2020-08-03
+"Esmeraldas"	"Eloy Alfaro"	282	2020-08-03
+"Esmeraldas"	"Esmeraldas"	1409	2020-08-03
+"Esmeraldas"	"Muisne"	121	2020-08-03
+"Esmeraldas"	"Quinindé"	899	2020-08-03
+"Esmeraldas"	"Rioverde"	201	2020-08-03
+"Esmeraldas"	"San Lorenzo"	68	2020-08-03
+"Esmeraldas"	"Atacames"	254	2020-08-04
+"Esmeraldas"	"Eloy Alfaro"	287	2020-08-04
+"Esmeraldas"	"Esmeraldas"	1413	2020-08-04
+"Esmeraldas"	"Muisne"	121	2020-08-04
+"Esmeraldas"	"Quinindé"	899	2020-08-04
+"Esmeraldas"	"Rioverde"	203	2020-08-04
+"Esmeraldas"	"San Lorenzo"	70	2020-08-04
+"Esmeraldas"	"Atacames"	254	2020-08-05
+"Esmeraldas"	"Eloy Alfaro"	287	2020-08-05
+"Esmeraldas"	"Esmeraldas"	1424	2020-08-05
+"Esmeraldas"	"Muisne"	121	2020-08-05
+"Esmeraldas"	"Quinindé"	899	2020-08-05
+"Esmeraldas"	"Rioverde"	203	2020-08-05
+"Esmeraldas"	"San Lorenzo"	72	2020-08-05
+"Esmeraldas"	"Atacames"	254	2020-08-06
+"Esmeraldas"	"Eloy Alfaro"	287	2020-08-06
+"Esmeraldas"	"Esmeraldas"	1424	2020-08-06
+"Esmeraldas"	"Muisne"	121	2020-08-06
+"Esmeraldas"	"Quinindé"	899	2020-08-06
+"Esmeraldas"	"Rioverde"	203	2020-08-06
+"Esmeraldas"	"San Lorenzo"	72	2020-08-06
+"Esmeraldas"	"Atacames"	254	2020-08-07
+"Esmeraldas"	"Eloy Alfaro"	287	2020-08-07
+"Esmeraldas"	"Esmeraldas"	1424	2020-08-07
+"Esmeraldas"	"Muisne"	121	2020-08-07
+"Esmeraldas"	"Quinindé"	903	2020-08-07
+"Esmeraldas"	"Rioverde"	203	2020-08-07
+"Esmeraldas"	"San Lorenzo"	72	2020-08-07
+"Esmeraldas"	"Atacames"	257	2020-08-08
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-08
+"Esmeraldas"	"Esmeraldas"	1445	2020-08-08
+"Esmeraldas"	"Muisne"	124	2020-08-08
+"Esmeraldas"	"Quinindé"	910	2020-08-08
+"Esmeraldas"	"Rioverde"	214	2020-08-08
+"Esmeraldas"	"San Lorenzo"	82	2020-08-08
+"Esmeraldas"	"Atacames"	257	2020-08-09
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-09
+"Esmeraldas"	"Esmeraldas"	1448	2020-08-09
+"Esmeraldas"	"Muisne"	124	2020-08-09
+"Esmeraldas"	"Quinindé"	910	2020-08-09
+"Esmeraldas"	"Rioverde"	214	2020-08-09
+"Esmeraldas"	"San Lorenzo"	82	2020-08-09
+"Esmeraldas"	"Atacames"	257	2020-08-10
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-10
+"Esmeraldas"	"Esmeraldas"	1452	2020-08-10
+"Esmeraldas"	"Muisne"	124	2020-08-10
+"Esmeraldas"	"Quinindé"	937	2020-08-10
+"Esmeraldas"	"Rioverde"	216	2020-08-10
+"Esmeraldas"	"San Lorenzo"	85	2020-08-10
+"Esmeraldas"	"Atacames"	258	2020-08-11
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-11
+"Esmeraldas"	"Esmeraldas"	1458	2020-08-11
+"Esmeraldas"	"Muisne"	124	2020-08-11
+"Esmeraldas"	"Quinindé"	939	2020-08-11
+"Esmeraldas"	"Rioverde"	216	2020-08-11
+"Esmeraldas"	"San Lorenzo"	85	2020-08-11
+"Esmeraldas"	"Atacames"	262	2020-08-12
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-12
+"Esmeraldas"	"Esmeraldas"	1461	2020-08-12
+"Esmeraldas"	"Muisne"	124	2020-08-12
+"Esmeraldas"	"Quinindé"	945	2020-08-12
+"Esmeraldas"	"Rioverde"	216	2020-08-12
+"Esmeraldas"	"San Lorenzo"	85	2020-08-12
+"Esmeraldas"	"Atacames"	263	2020-08-13
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-13
+"Esmeraldas"	"Esmeraldas"	1463	2020-08-13
+"Esmeraldas"	"Muisne"	124	2020-08-13
+"Esmeraldas"	"Quinindé"	947	2020-08-13
+"Esmeraldas"	"Rioverde"	216	2020-08-13
+"Esmeraldas"	"San Lorenzo"	85	2020-08-13
+"Esmeraldas"	"Atacames"	264	2020-08-14
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-14
+"Esmeraldas"	"Esmeraldas"	1466	2020-08-14
+"Esmeraldas"	"Muisne"	124	2020-08-14
+"Esmeraldas"	"Quinindé"	956	2020-08-14
+"Esmeraldas"	"Rioverde"	217	2020-08-14
+"Esmeraldas"	"San Lorenzo"	85	2020-08-14
+"Esmeraldas"	"Atacames"	270	2020-08-15
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-15
+"Esmeraldas"	"Esmeraldas"	1467	2020-08-15
+"Esmeraldas"	"Muisne"	125	2020-08-15
+"Esmeraldas"	"Quinindé"	958	2020-08-15
+"Esmeraldas"	"Rioverde"	217	2020-08-15
+"Esmeraldas"	"San Lorenzo"	85	2020-08-15
+"Esmeraldas"	"Atacames"	270	2020-08-16
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-16
+"Esmeraldas"	"Esmeraldas"	1469	2020-08-16
+"Esmeraldas"	"Muisne"	125	2020-08-16
+"Esmeraldas"	"Quinindé"	958	2020-08-16
+"Esmeraldas"	"Rioverde"	218	2020-08-16
+"Esmeraldas"	"San Lorenzo"	85	2020-08-16
+"Esmeraldas"	"Atacames"	270	2020-08-17
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-17
+"Esmeraldas"	"Esmeraldas"	1469	2020-08-17
+"Esmeraldas"	"Muisne"	125	2020-08-17
+"Esmeraldas"	"Quinindé"	958	2020-08-17
+"Esmeraldas"	"Rioverde"	218	2020-08-17
+"Esmeraldas"	"San Lorenzo"	85	2020-08-17
+"Esmeraldas"	"Atacames"	271	2020-08-18
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-18
+"Esmeraldas"	"Esmeraldas"	1469	2020-08-18
+"Esmeraldas"	"Muisne"	125	2020-08-18
+"Esmeraldas"	"Quinindé"	982	2020-08-18
+"Esmeraldas"	"Rioverde"	218	2020-08-18
+"Esmeraldas"	"San Lorenzo"	86	2020-08-18
+"Esmeraldas"	"Atacames"	271	2020-08-19
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-19
+"Esmeraldas"	"Esmeraldas"	1470	2020-08-19
+"Esmeraldas"	"Muisne"	126	2020-08-19
+"Esmeraldas"	"Quinindé"	982	2020-08-19
+"Esmeraldas"	"Rioverde"	218	2020-08-19
+"Esmeraldas"	"San Lorenzo"	87	2020-08-19
+"Esmeraldas"	"Atacames"	273	2020-08-20
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-20
+"Esmeraldas"	"Esmeraldas"	1475	2020-08-20
+"Esmeraldas"	"Muisne"	126	2020-08-20
+"Esmeraldas"	"Quinindé"	986	2020-08-20
+"Esmeraldas"	"Rioverde"	218	2020-08-20
+"Esmeraldas"	"San Lorenzo"	88	2020-08-20
+"Esmeraldas"	"Atacames"	273	2020-08-21
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-21
+"Esmeraldas"	"Esmeraldas"	1478	2020-08-21
+"Esmeraldas"	"Muisne"	127	2020-08-21
+"Esmeraldas"	"Quinindé"	990	2020-08-21
+"Esmeraldas"	"Rioverde"	218	2020-08-21
+"Esmeraldas"	"San Lorenzo"	88	2020-08-21
+"Esmeraldas"	"Atacames"	274	2020-08-22
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-22
+"Esmeraldas"	"Esmeraldas"	1479	2020-08-22
+"Esmeraldas"	"Muisne"	128	2020-08-22
+"Esmeraldas"	"Quinindé"	992	2020-08-22
+"Esmeraldas"	"Rioverde"	218	2020-08-22
+"Esmeraldas"	"San Lorenzo"	88	2020-08-22
+"Esmeraldas"	"Atacames"	274	2020-08-23
+"Esmeraldas"	"Eloy Alfaro"	290	2020-08-23
+"Esmeraldas"	"Esmeraldas"	1485	2020-08-23
+"Esmeraldas"	"Muisne"	129	2020-08-23
+"Esmeraldas"	"Quinindé"	998	2020-08-23
+"Esmeraldas"	"Rioverde"	218	2020-08-23
+"Esmeraldas"	"San Lorenzo"	88	2020-08-23
+"Esmeraldas"	"Atacames"	277	2020-08-24
+"Esmeraldas"	"Eloy Alfaro"	291	2020-08-24
+"Esmeraldas"	"Esmeraldas"	1488	2020-08-24
+"Esmeraldas"	"Muisne"	132	2020-08-24
+"Esmeraldas"	"Quinindé"	1005	2020-08-24
+"Esmeraldas"	"Rioverde"	218	2020-08-24
+"Esmeraldas"	"San Lorenzo"	88	2020-08-24
+"Esmeraldas"	"Atacames"	277	2020-08-25
+"Esmeraldas"	"Eloy Alfaro"	291	2020-08-25
+"Esmeraldas"	"Esmeraldas"	1488	2020-08-25
+"Esmeraldas"	"Muisne"	134	2020-08-25
+"Esmeraldas"	"Quinindé"	1006	2020-08-25
+"Esmeraldas"	"Rioverde"	218	2020-08-25
+"Esmeraldas"	"San Lorenzo"	88	2020-08-25
+"Esmeraldas"	"Atacames"	277	2020-08-26
+"Esmeraldas"	"Eloy Alfaro"	291	2020-08-26
+"Esmeraldas"	"Esmeraldas"	1488	2020-08-26
+"Esmeraldas"	"Muisne"	134	2020-08-26
+"Esmeraldas"	"Quinindé"	1007	2020-08-26
+"Esmeraldas"	"Rioverde"	218	2020-08-26
+"Esmeraldas"	"San Lorenzo"	88	2020-08-26
+"Esmeraldas"	"Atacames"	279	2020-08-27
+"Esmeraldas"	"Eloy Alfaro"	292	2020-08-27
+"Esmeraldas"	"Esmeraldas"	1490	2020-08-27
+"Esmeraldas"	"Muisne"	134	2020-08-27
+"Esmeraldas"	"Quinindé"	1013	2020-08-27
+"Esmeraldas"	"Rioverde"	218	2020-08-27
+"Esmeraldas"	"San Lorenzo"	88	2020-08-27
+"Esmeraldas"	"Atacames"	280	2020-08-28
+"Esmeraldas"	"Eloy Alfaro"	292	2020-08-28
+"Esmeraldas"	"Esmeraldas"	1500	2020-08-28
+"Esmeraldas"	"Muisne"	135	2020-08-28
+"Esmeraldas"	"Quinindé"	1015	2020-08-28
+"Esmeraldas"	"Rioverde"	218	2020-08-28
+"Esmeraldas"	"San Lorenzo"	88	2020-08-28
+"Esmeraldas"	"Atacames"	280	2020-08-29
+"Esmeraldas"	"Eloy Alfaro"	292	2020-08-29
+"Esmeraldas"	"Esmeraldas"	1500	2020-08-29
+"Esmeraldas"	"Muisne"	136	2020-08-29
+"Esmeraldas"	"Quinindé"	1020	2020-08-29
+"Esmeraldas"	"Rioverde"	218	2020-08-29
+"Esmeraldas"	"San Lorenzo"	88	2020-08-29
+"Esmeraldas"	"Atacames"	280	2020-08-30
+"Esmeraldas"	"Eloy Alfaro"	292	2020-08-30
+"Esmeraldas"	"Esmeraldas"	1500	2020-08-30
+"Esmeraldas"	"Muisne"	144	2020-08-30
+"Esmeraldas"	"Quinindé"	1020	2020-08-30
+"Esmeraldas"	"Rioverde"	219	2020-08-30
+"Esmeraldas"	"San Lorenzo"	88	2020-08-30
+"Esmeraldas"	"Atacames"	280	2020-08-31
+"Esmeraldas"	"Eloy Alfaro"	292	2020-08-31
+"Esmeraldas"	"Esmeraldas"	1500	2020-08-31
+"Esmeraldas"	"Muisne"	144	2020-08-31
+"Esmeraldas"	"Quinindé"	1020	2020-08-31
+"Esmeraldas"	"Rioverde"	219	2020-08-31
+"Esmeraldas"	"San Lorenzo"	88	2020-08-31
+"Esmeraldas"	"Atacames"	282	2020-09-01
+"Esmeraldas"	"Eloy Alfaro"	292	2020-09-01
+"Esmeraldas"	"Esmeraldas"	1500	2020-09-01
+"Esmeraldas"	"Muisne"	145	2020-09-01
+"Esmeraldas"	"Quinindé"	1020	2020-09-01
+"Esmeraldas"	"Rioverde"	219	2020-09-01
+"Esmeraldas"	"San Lorenzo"	90	2020-09-01
+"Esmeraldas"	"Atacames"	283	2020-09-02
+"Esmeraldas"	"Eloy Alfaro"	292	2020-09-02
+"Esmeraldas"	"Esmeraldas"	1505	2020-09-02
+"Esmeraldas"	"Muisne"	146	2020-09-02
+"Esmeraldas"	"Quinindé"	1021	2020-09-02
+"Esmeraldas"	"Rioverde"	219	2020-09-02
+"Esmeraldas"	"San Lorenzo"	90	2020-09-02
+"Esmeraldas"	"Atacames"	283	2020-09-03
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-03
+"Esmeraldas"	"Esmeraldas"	1508	2020-09-03
+"Esmeraldas"	"Muisne"	146	2020-09-03
+"Esmeraldas"	"Quinindé"	1024	2020-09-03
+"Esmeraldas"	"Rioverde"	219	2020-09-03
+"Esmeraldas"	"San Lorenzo"	90	2020-09-03
+"Esmeraldas"	"Atacames"	285	2020-09-04
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-04
+"Esmeraldas"	"Esmeraldas"	1512	2020-09-04
+"Esmeraldas"	"Muisne"	148	2020-09-04
+"Esmeraldas"	"Quinindé"	1026	2020-09-04
+"Esmeraldas"	"Rioverde"	219	2020-09-04
+"Esmeraldas"	"San Lorenzo"	90	2020-09-04
+"Esmeraldas"	"Atacames"	285	2020-09-05
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-05
+"Esmeraldas"	"Esmeraldas"	1515	2020-09-05
+"Esmeraldas"	"Muisne"	148	2020-09-05
+"Esmeraldas"	"Quinindé"	1029	2020-09-05
+"Esmeraldas"	"Rioverde"	219	2020-09-05
+"Esmeraldas"	"San Lorenzo"	90	2020-09-05
+"Esmeraldas"	"Atacames"	285	2020-09-06
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-06
+"Esmeraldas"	"Esmeraldas"	1516	2020-09-06
+"Esmeraldas"	"Muisne"	148	2020-09-06
+"Esmeraldas"	"Quinindé"	1029	2020-09-06
+"Esmeraldas"	"Rioverde"	219	2020-09-06
+"Esmeraldas"	"San Lorenzo"	91	2020-09-06
+"Esmeraldas"	"Atacames"	285	2020-09-07
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-07
+"Esmeraldas"	"Esmeraldas"	1517	2020-09-07
+"Esmeraldas"	"Muisne"	148	2020-09-07
+"Esmeraldas"	"Quinindé"	1031	2020-09-07
+"Esmeraldas"	"Rioverde"	219	2020-09-07
+"Esmeraldas"	"San Lorenzo"	91	2020-09-07
+"Esmeraldas"	"Atacames"	285	2020-09-08
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-08
+"Esmeraldas"	"Esmeraldas"	1517	2020-09-08
+"Esmeraldas"	"Muisne"	148	2020-09-08
+"Esmeraldas"	"Quinindé"	1031	2020-09-08
+"Esmeraldas"	"Rioverde"	219	2020-09-08
+"Esmeraldas"	"San Lorenzo"	91	2020-09-08
+"Esmeraldas"	"Atacames"	287	2020-09-09
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-09
+"Esmeraldas"	"Esmeraldas"	1521	2020-09-09
+"Esmeraldas"	"Muisne"	148	2020-09-09
+"Esmeraldas"	"Quinindé"	1034	2020-09-09
+"Esmeraldas"	"Rioverde"	219	2020-09-09
+"Esmeraldas"	"San Lorenzo"	93	2020-09-09
+"Esmeraldas"	"Atacames"	288	2020-09-10
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-10
+"Esmeraldas"	"Esmeraldas"	1528	2020-09-10
+"Esmeraldas"	"Muisne"	148	2020-09-10
+"Esmeraldas"	"Quinindé"	1040	2020-09-10
+"Esmeraldas"	"Rioverde"	219	2020-09-10
+"Esmeraldas"	"San Lorenzo"	93	2020-09-10
+"Esmeraldas"	"Atacames"	288	2020-09-11
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-11
+"Esmeraldas"	"Esmeraldas"	1537	2020-09-11
+"Esmeraldas"	"Muisne"	148	2020-09-11
+"Esmeraldas"	"Quinindé"	1046	2020-09-11
+"Esmeraldas"	"Rioverde"	219	2020-09-11
+"Esmeraldas"	"San Lorenzo"	95	2020-09-11
+"Esmeraldas"	"Atacames"	289	2020-09-12
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-12
+"Esmeraldas"	"Esmeraldas"	1543	2020-09-12
+"Esmeraldas"	"Muisne"	148	2020-09-12
+"Esmeraldas"	"Quinindé"	1046	2020-09-12
+"Esmeraldas"	"Rioverde"	219	2020-09-12
+"Esmeraldas"	"San Lorenzo"	95	2020-09-12
+"Esmeraldas"	"Atacames"	289	2020-09-13
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-13
+"Esmeraldas"	"Esmeraldas"	1546	2020-09-13
+"Esmeraldas"	"Muisne"	148	2020-09-13
+"Esmeraldas"	"Quinindé"	1049	2020-09-13
+"Esmeraldas"	"Rioverde"	219	2020-09-13
+"Esmeraldas"	"San Lorenzo"	95	2020-09-13
+"Esmeraldas"	"Atacames"	289	2020-09-14
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-14
+"Esmeraldas"	"Esmeraldas"	1546	2020-09-14
+"Esmeraldas"	"Muisne"	148	2020-09-14
+"Esmeraldas"	"Quinindé"	1050	2020-09-14
+"Esmeraldas"	"Rioverde"	219	2020-09-14
+"Esmeraldas"	"San Lorenzo"	95	2020-09-14
+"Esmeraldas"	"Atacames"	289	2020-09-15
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-15
+"Esmeraldas"	"Esmeraldas"	1546	2020-09-15
+"Esmeraldas"	"Muisne"	148	2020-09-15
+"Esmeraldas"	"Quinindé"	1050	2020-09-15
+"Esmeraldas"	"Rioverde"	219	2020-09-15
+"Esmeraldas"	"San Lorenzo"	95	2020-09-15
+"Esmeraldas"	"Atacames"	289	2020-09-16
+"Esmeraldas"	"Eloy Alfaro"	293	2020-09-16
+"Esmeraldas"	"Esmeraldas"	1549	2020-09-16
+"Esmeraldas"	"Muisne"	148	2020-09-16
+"Esmeraldas"	"Quinindé"	1050	2020-09-16
+"Esmeraldas"	"Rioverde"	219	2020-09-16
+"Esmeraldas"	"San Lorenzo"	95	2020-09-16
+"Esmeraldas"	"Atacames"	289	2020-09-17
+"Esmeraldas"	"Eloy Alfaro"	294	2020-09-17
+"Esmeraldas"	"Esmeraldas"	1556	2020-09-17
+"Esmeraldas"	"Muisne"	148	2020-09-17
+"Esmeraldas"	"Quinindé"	1050	2020-09-17
+"Esmeraldas"	"Rioverde"	219	2020-09-17
+"Esmeraldas"	"San Lorenzo"	95	2020-09-17
+"Esmeraldas"	"Atacames"	289	2020-09-18
+"Esmeraldas"	"Eloy Alfaro"	295	2020-09-18
+"Esmeraldas"	"Esmeraldas"	1564	2020-09-18
+"Esmeraldas"	"Muisne"	148	2020-09-18
+"Esmeraldas"	"Quinindé"	1050	2020-09-18
+"Esmeraldas"	"Rioverde"	219	2020-09-18
+"Esmeraldas"	"San Lorenzo"	95	2020-09-18
+"Esmeraldas"	"Atacames"	291	2020-09-19
+"Esmeraldas"	"Eloy Alfaro"	295	2020-09-19
+"Esmeraldas"	"Esmeraldas"	1568	2020-09-19
+"Esmeraldas"	"Muisne"	148	2020-09-19
+"Esmeraldas"	"Quinindé"	1050	2020-09-19
+"Esmeraldas"	"Rioverde"	220	2020-09-19
+"Esmeraldas"	"San Lorenzo"	95	2020-09-19
+"Esmeraldas"	"Atacames"	295	2020-09-20
+"Esmeraldas"	"Eloy Alfaro"	295	2020-09-20
+"Esmeraldas"	"Esmeraldas"	1575	2020-09-20
+"Esmeraldas"	"Muisne"	148	2020-09-20
+"Esmeraldas"	"Quinindé"	1050	2020-09-20
+"Esmeraldas"	"Rioverde"	220	2020-09-20
+"Esmeraldas"	"San Lorenzo"	95	2020-09-20
+"Esmeraldas"	"Atacames"	295	2020-09-21
+"Esmeraldas"	"Eloy Alfaro"	295	2020-09-21
+"Esmeraldas"	"Esmeraldas"	1576	2020-09-21
+"Esmeraldas"	"Muisne"	148	2020-09-21
+"Esmeraldas"	"Quinindé"	1050	2020-09-21
+"Esmeraldas"	"Rioverde"	220	2020-09-21
+"Esmeraldas"	"San Lorenzo"	95	2020-09-21
+"Esmeraldas"	"Atacames"	295	2020-09-22
+"Esmeraldas"	"Eloy Alfaro"	295	2020-09-22
+"Esmeraldas"	"Esmeraldas"	1576	2020-09-22
+"Esmeraldas"	"Muisne"	148	2020-09-22
+"Esmeraldas"	"Quinindé"	1050	2020-09-22
+"Esmeraldas"	"Rioverde"	220	2020-09-22
+"Esmeraldas"	"San Lorenzo"	95	2020-09-22
+"Esmeraldas"	"Atacames"	295	2020-09-23
+"Esmeraldas"	"Eloy Alfaro"	295	2020-09-23
+"Esmeraldas"	"Esmeraldas"	1585	2020-09-23
+"Esmeraldas"	"Muisne"	148	2020-09-23
+"Esmeraldas"	"Quinindé"	1052	2020-09-23
+"Esmeraldas"	"Rioverde"	220	2020-09-23
+"Esmeraldas"	"San Lorenzo"	95	2020-09-23
+"Esmeraldas"	"Atacames"	296	2020-09-24
+"Esmeraldas"	"Eloy Alfaro"	296	2020-09-24
+"Esmeraldas"	"Esmeraldas"	1591	2020-09-24
+"Esmeraldas"	"Muisne"	148	2020-09-24
+"Esmeraldas"	"Quinindé"	1052	2020-09-24
+"Esmeraldas"	"Rioverde"	220	2020-09-24
+"Esmeraldas"	"San Lorenzo"	95	2020-09-24
+"Esmeraldas"	"Atacames"	296	2020-09-25
+"Esmeraldas"	"Eloy Alfaro"	296	2020-09-25
+"Esmeraldas"	"Esmeraldas"	1598	2020-09-25
+"Esmeraldas"	"Muisne"	148	2020-09-25
+"Esmeraldas"	"Quinindé"	1053	2020-09-25
+"Esmeraldas"	"Rioverde"	220	2020-09-25
+"Esmeraldas"	"San Lorenzo"	95	2020-09-25
+"Esmeraldas"	"Atacames"	297	2020-09-26
+"Esmeraldas"	"Eloy Alfaro"	296	2020-09-26
+"Esmeraldas"	"Esmeraldas"	1600	2020-09-26
+"Esmeraldas"	"Muisne"	148	2020-09-26
+"Esmeraldas"	"Quinindé"	1054	2020-09-26
+"Esmeraldas"	"Rioverde"	220	2020-09-26
+"Esmeraldas"	"San Lorenzo"	95	2020-09-26
+"Esmeraldas"	"Atacames"	298	2020-09-27
+"Esmeraldas"	"Eloy Alfaro"	297	2020-09-27
+"Esmeraldas"	"Esmeraldas"	1608	2020-09-27
+"Esmeraldas"	"Muisne"	148	2020-09-27
+"Esmeraldas"	"Quinindé"	1055	2020-09-27
+"Esmeraldas"	"Rioverde"	221	2020-09-27
+"Esmeraldas"	"San Lorenzo"	96	2020-09-27
+"Esmeraldas"	"Atacames"	298	2020-09-28
+"Esmeraldas"	"Eloy Alfaro"	297	2020-09-28
+"Esmeraldas"	"Esmeraldas"	1608	2020-09-28
+"Esmeraldas"	"Muisne"	148	2020-09-28
+"Esmeraldas"	"Quinindé"	1055	2020-09-28
+"Esmeraldas"	"Rioverde"	221	2020-09-28
+"Esmeraldas"	"San Lorenzo"	96	2020-09-28
+"Esmeraldas"	"Atacames"	298	2020-09-29
+"Esmeraldas"	"Eloy Alfaro"	297	2020-09-29
+"Esmeraldas"	"Esmeraldas"	1612	2020-09-29
+"Esmeraldas"	"Muisne"	148	2020-09-29
+"Esmeraldas"	"Quinindé"	1057	2020-09-29
+"Esmeraldas"	"Rioverde"	221	2020-09-29
+"Esmeraldas"	"San Lorenzo"	96	2020-09-29
+"Esmeraldas"	"Atacames"	298	2020-09-30
+"Esmeraldas"	"Eloy Alfaro"	297	2020-09-30
+"Esmeraldas"	"Esmeraldas"	1617	2020-09-30
+"Esmeraldas"	"Muisne"	148	2020-09-30
+"Esmeraldas"	"Quinindé"	1059	2020-09-30
+"Esmeraldas"	"Rioverde"	221	2020-09-30
+"Esmeraldas"	"San Lorenzo"	96	2020-09-30
+"Esmeraldas"	"Atacames"	301	2020-10-01
+"Esmeraldas"	"Eloy Alfaro"	298	2020-10-01
+"Esmeraldas"	"Esmeraldas"	1627	2020-10-01
+"Esmeraldas"	"Muisne"	149	2020-10-01
+"Esmeraldas"	"Quinindé"	1061	2020-10-01
+"Esmeraldas"	"Rioverde"	221	2020-10-01
+"Esmeraldas"	"San Lorenzo"	96	2020-10-01
+"Esmeraldas"	"Atacames"	301	2020-10-02
+"Esmeraldas"	"Eloy Alfaro"	298	2020-10-02
+"Esmeraldas"	"Esmeraldas"	1627	2020-10-02
+"Esmeraldas"	"Muisne"	158	2020-10-02
+"Esmeraldas"	"Quinindé"	1063	2020-10-02
+"Esmeraldas"	"Rioverde"	222	2020-10-02
+"Esmeraldas"	"San Lorenzo"	96	2020-10-02
+"Esmeraldas"	"Atacames"	301	2020-10-03
+"Esmeraldas"	"Eloy Alfaro"	298	2020-10-03
+"Esmeraldas"	"Esmeraldas"	1636	2020-10-03
+"Esmeraldas"	"Muisne"	159	2020-10-03
+"Esmeraldas"	"Quinindé"	1066	2020-10-03
+"Esmeraldas"	"Rioverde"	222	2020-10-03
+"Esmeraldas"	"San Lorenzo"	96	2020-10-03
+"Esmeraldas"	"Atacames"	301	2020-10-04
+"Esmeraldas"	"Eloy Alfaro"	300	2020-10-04
+"Esmeraldas"	"Esmeraldas"	1640	2020-10-04
+"Esmeraldas"	"Muisne"	161	2020-10-04
+"Esmeraldas"	"Quinindé"	1071	2020-10-04
+"Esmeraldas"	"Rioverde"	222	2020-10-04
+"Esmeraldas"	"San Lorenzo"	96	2020-10-04
+"Esmeraldas"	"Atacames"	301	2020-10-05
+"Esmeraldas"	"Eloy Alfaro"	300	2020-10-05
+"Esmeraldas"	"Esmeraldas"	1640	2020-10-05
+"Esmeraldas"	"Muisne"	161	2020-10-05
+"Esmeraldas"	"Quinindé"	1071	2020-10-05
+"Esmeraldas"	"Rioverde"	222	2020-10-05
+"Esmeraldas"	"San Lorenzo"	96	2020-10-05
+"Esmeraldas"	"Atacames"	301	2020-10-06
+"Esmeraldas"	"Eloy Alfaro"	300	2020-10-06
+"Esmeraldas"	"Esmeraldas"	1643	2020-10-06
+"Esmeraldas"	"Muisne"	162	2020-10-06
+"Esmeraldas"	"Quinindé"	1071	2020-10-06
+"Esmeraldas"	"Rioverde"	222	2020-10-06
+"Esmeraldas"	"San Lorenzo"	96	2020-10-06
+"Esmeraldas"	"Atacames"	301	2020-10-07
+"Esmeraldas"	"Eloy Alfaro"	300	2020-10-07
+"Esmeraldas"	"Esmeraldas"	1643	2020-10-07
+"Esmeraldas"	"Muisne"	162	2020-10-07
+"Esmeraldas"	"Quinindé"	1071	2020-10-07
+"Esmeraldas"	"Rioverde"	222	2020-10-07
+"Esmeraldas"	"San Lorenzo"	97	2020-10-07
+"Esmeraldas"	"Atacames"	305	2020-10-08
+"Esmeraldas"	"Eloy Alfaro"	300	2020-10-08
+"Esmeraldas"	"Esmeraldas"	1660	2020-10-08
+"Esmeraldas"	"Muisne"	162	2020-10-08
+"Esmeraldas"	"Quinindé"	1072	2020-10-08
+"Esmeraldas"	"Rioverde"	222	2020-10-08
+"Esmeraldas"	"San Lorenzo"	97	2020-10-08
+"Esmeraldas"	"Atacames"	305	2020-10-09
+"Esmeraldas"	"Eloy Alfaro"	301	2020-10-09
+"Esmeraldas"	"Esmeraldas"	1688	2020-10-09
+"Esmeraldas"	"Muisne"	162	2020-10-09
+"Esmeraldas"	"Quinindé"	1079	2020-10-09
+"Esmeraldas"	"Rioverde"	223	2020-10-09
+"Esmeraldas"	"San Lorenzo"	97	2020-10-09
+"Esmeraldas"	"Atacames"	305	2020-10-10
+"Esmeraldas"	"Eloy Alfaro"	301	2020-10-10
+"Esmeraldas"	"Esmeraldas"	1688	2020-10-10
+"Esmeraldas"	"Muisne"	162	2020-10-10
+"Esmeraldas"	"Quinindé"	1081	2020-10-10
+"Esmeraldas"	"Rioverde"	223	2020-10-10
+"Esmeraldas"	"San Lorenzo"	97	2020-10-10
+"Esmeraldas"	"Atacames"	305	2020-10-11
+"Esmeraldas"	"Eloy Alfaro"	301	2020-10-11
+"Esmeraldas"	"Esmeraldas"	1689	2020-10-11
+"Esmeraldas"	"Muisne"	162	2020-10-11
+"Esmeraldas"	"Quinindé"	1081	2020-10-11
+"Esmeraldas"	"Rioverde"	223	2020-10-11
+"Esmeraldas"	"San Lorenzo"	97	2020-10-11
+"Esmeraldas"	"Atacames"	305	2020-10-12
+"Esmeraldas"	"Eloy Alfaro"	301	2020-10-12
+"Esmeraldas"	"Esmeraldas"	1689	2020-10-12
+"Esmeraldas"	"Muisne"	162	2020-10-12
+"Esmeraldas"	"Quinindé"	1086	2020-10-12
+"Esmeraldas"	"Rioverde"	224	2020-10-12
+"Esmeraldas"	"San Lorenzo"	97	2020-10-12
+"Esmeraldas"	"Atacames"	305	2020-10-13
+"Esmeraldas"	"Eloy Alfaro"	301	2020-10-13
+"Esmeraldas"	"Esmeraldas"	1689	2020-10-13
+"Esmeraldas"	"Muisne"	162	2020-10-13
+"Esmeraldas"	"Quinindé"	1088	2020-10-13
+"Esmeraldas"	"Rioverde"	224	2020-10-13
+"Esmeraldas"	"San Lorenzo"	97	2020-10-13
+"Esmeraldas"	"Atacames"	306	2020-10-14
+"Esmeraldas"	"Eloy Alfaro"	301	2020-10-14
+"Esmeraldas"	"Esmeraldas"	1710	2020-10-14
+"Esmeraldas"	"Muisne"	164	2020-10-14
+"Esmeraldas"	"Quinindé"	1089	2020-10-14
+"Esmeraldas"	"Rioverde"	224	2020-10-14
+"Esmeraldas"	"San Lorenzo"	97	2020-10-14
+"Esmeraldas"	"Atacames"	308	2020-10-15
+"Esmeraldas"	"Eloy Alfaro"	301	2020-10-15
+"Esmeraldas"	"Esmeraldas"	1755	2020-10-15
+"Esmeraldas"	"Muisne"	164	2020-10-15
+"Esmeraldas"	"Quinindé"	1094	2020-10-15
+"Esmeraldas"	"Rioverde"	225	2020-10-15
+"Esmeraldas"	"San Lorenzo"	99	2020-10-15
+"Esmeraldas"	"Atacames"	308	2020-10-16
+"Esmeraldas"	"Eloy Alfaro"	301	2020-10-16
+"Esmeraldas"	"Esmeraldas"	1757	2020-10-16
+"Esmeraldas"	"Muisne"	164	2020-10-16
+"Esmeraldas"	"Quinindé"	1095	2020-10-16
+"Esmeraldas"	"Rioverde"	226	2020-10-16
+"Esmeraldas"	"San Lorenzo"	99	2020-10-16
+"Esmeraldas"	"Atacames"	314	2020-10-17
+"Esmeraldas"	"Eloy Alfaro"	301	2020-10-17
+"Esmeraldas"	"Esmeraldas"	1814	2020-10-17
+"Esmeraldas"	"Muisne"	166	2020-10-17
+"Esmeraldas"	"Quinindé"	1096	2020-10-17
+"Esmeraldas"	"Rioverde"	228	2020-10-17
+"Esmeraldas"	"San Lorenzo"	99	2020-10-17
+"Esmeraldas"	"Atacames"	315	2020-10-18
+"Esmeraldas"	"Eloy Alfaro"	302	2020-10-18
+"Esmeraldas"	"Esmeraldas"	1838	2020-10-18
+"Esmeraldas"	"Muisne"	166	2020-10-18
+"Esmeraldas"	"Quinindé"	1102	2020-10-18
+"Esmeraldas"	"Rioverde"	228	2020-10-18
+"Esmeraldas"	"San Lorenzo"	99	2020-10-18
+"Esmeraldas"	"Atacames"	315	2020-10-19
+"Esmeraldas"	"Eloy Alfaro"	302	2020-10-19
+"Esmeraldas"	"Esmeraldas"	1839	2020-10-19
+"Esmeraldas"	"Muisne"	166	2020-10-19
+"Esmeraldas"	"Quinindé"	1102	2020-10-19
+"Esmeraldas"	"Rioverde"	228	2020-10-19
+"Esmeraldas"	"San Lorenzo"	99	2020-10-19
+"Esmeraldas"	"Atacames"	315	2020-10-20
+"Esmeraldas"	"Eloy Alfaro"	302	2020-10-20
+"Esmeraldas"	"Esmeraldas"	1846	2020-10-20
+"Esmeraldas"	"Muisne"	166	2020-10-20
+"Esmeraldas"	"Quinindé"	1103	2020-10-20
+"Esmeraldas"	"Rioverde"	228	2020-10-20
+"Esmeraldas"	"San Lorenzo"	99	2020-10-20
+"Esmeraldas"	"Atacames"	316	2020-10-21
+"Esmeraldas"	"Eloy Alfaro"	308	2020-10-21
+"Esmeraldas"	"Esmeraldas"	1868	2020-10-21
+"Esmeraldas"	"Muisne"	167	2020-10-21
+"Esmeraldas"	"Quinindé"	1105	2020-10-21
+"Esmeraldas"	"Rioverde"	228	2020-10-21
+"Esmeraldas"	"San Lorenzo"	99	2020-10-21
+"Esmeraldas"	"Atacames"	316	2020-10-22
+"Esmeraldas"	"Eloy Alfaro"	308	2020-10-22
+"Esmeraldas"	"Esmeraldas"	1875	2020-10-22
+"Esmeraldas"	"Muisne"	167	2020-10-22
+"Esmeraldas"	"Quinindé"	1105	2020-10-22
+"Esmeraldas"	"Rioverde"	228	2020-10-22
+"Esmeraldas"	"San Lorenzo"	99	2020-10-22
+"Esmeraldas"	"Atacames"	318	2020-10-23
+"Esmeraldas"	"Eloy Alfaro"	308	2020-10-23
+"Esmeraldas"	"Esmeraldas"	1913	2020-10-23
+"Esmeraldas"	"Muisne"	167	2020-10-23
+"Esmeraldas"	"Quinindé"	1110	2020-10-23
+"Esmeraldas"	"Rioverde"	229	2020-10-23
+"Esmeraldas"	"San Lorenzo"	99	2020-10-23
+"Esmeraldas"	"Atacames"	318	2020-10-24
+"Esmeraldas"	"Eloy Alfaro"	312	2020-10-24
+"Esmeraldas"	"Esmeraldas"	1913	2020-10-24
+"Esmeraldas"	"Muisne"	167	2020-10-24
+"Esmeraldas"	"Quinindé"	1111	2020-10-24
+"Esmeraldas"	"Rioverde"	229	2020-10-24
+"Esmeraldas"	"San Lorenzo"	99	2020-10-24
+"Esmeraldas"	"Atacames"	319	2020-10-25
+"Esmeraldas"	"Eloy Alfaro"	312	2020-10-25
+"Esmeraldas"	"Esmeraldas"	1921	2020-10-25
+"Esmeraldas"	"Muisne"	168	2020-10-25
+"Esmeraldas"	"Quinindé"	1111	2020-10-25
+"Esmeraldas"	"Rioverde"	229	2020-10-25
+"Esmeraldas"	"San Lorenzo"	99	2020-10-25
+"Esmeraldas"	"Atacames"	319	2020-10-26
+"Esmeraldas"	"Eloy Alfaro"	312	2020-10-26
+"Esmeraldas"	"Esmeraldas"	1921	2020-10-26
+"Esmeraldas"	"Muisne"	168	2020-10-26
+"Esmeraldas"	"Quinindé"	1111	2020-10-26
+"Esmeraldas"	"Rioverde"	229	2020-10-26
+"Esmeraldas"	"San Lorenzo"	100	2020-10-26
+"Esmeraldas"	"Atacames"	320	2020-10-27
+"Esmeraldas"	"Eloy Alfaro"	314	2020-10-27
+"Esmeraldas"	"Esmeraldas"	1929	2020-10-27
+"Esmeraldas"	"Muisne"	168	2020-10-27
+"Esmeraldas"	"Quinindé"	1112	2020-10-27
+"Esmeraldas"	"Rioverde"	230	2020-10-27
+"Esmeraldas"	"San Lorenzo"	100	2020-10-27
+"Esmeraldas"	"Atacames"	322	2020-10-28
+"Esmeraldas"	"Eloy Alfaro"	314	2020-10-28
+"Esmeraldas"	"Esmeraldas"	1945	2020-10-28
+"Esmeraldas"	"Muisne"	168	2020-10-28
+"Esmeraldas"	"Quinindé"	1114	2020-10-28
+"Esmeraldas"	"Rioverde"	230	2020-10-28
+"Esmeraldas"	"San Lorenzo"	102	2020-10-28
+"Esmeraldas"	"Atacames"	324	2020-10-29
+"Esmeraldas"	"Eloy Alfaro"	314	2020-10-29
+"Esmeraldas"	"Esmeraldas"	1949	2020-10-29
+"Esmeraldas"	"Muisne"	168	2020-10-29
+"Esmeraldas"	"Quinindé"	1114	2020-10-29
+"Esmeraldas"	"Rioverde"	231	2020-10-29
+"Esmeraldas"	"San Lorenzo"	102	2020-10-29
+"Esmeraldas"	"Atacames"	327	2020-10-30
+"Esmeraldas"	"Eloy Alfaro"	314	2020-10-30
+"Esmeraldas"	"Esmeraldas"	1950	2020-10-30
+"Esmeraldas"	"Muisne"	169	2020-10-30
+"Esmeraldas"	"Quinindé"	1118	2020-10-30
+"Esmeraldas"	"Rioverde"	232	2020-10-30
+"Esmeraldas"	"San Lorenzo"	102	2020-10-30
+"Esmeraldas"	"Atacames"	329	2020-10-31
+"Esmeraldas"	"Eloy Alfaro"	314	2020-10-31
+"Esmeraldas"	"Esmeraldas"	1961	2020-10-31
+"Esmeraldas"	"Muisne"	169	2020-10-31
+"Esmeraldas"	"Quinindé"	1119	2020-10-31
+"Esmeraldas"	"Rioverde"	232	2020-10-31
+"Esmeraldas"	"San Lorenzo"	102	2020-10-31
+"Esmeraldas"	"Atacames"	335	2020-11-01
+"Esmeraldas"	"Eloy Alfaro"	314	2020-11-01
+"Esmeraldas"	"Esmeraldas"	1967	2020-11-01
+"Esmeraldas"	"Muisne"	169	2020-11-01
+"Esmeraldas"	"Quinindé"	1149	2020-11-01
+"Esmeraldas"	"Rioverde"	235	2020-11-01
+"Esmeraldas"	"San Lorenzo"	102	2020-11-01
+"Esmeraldas"	"Atacames"	337	2020-11-02
+"Esmeraldas"	"Eloy Alfaro"	314	2020-11-02
+"Esmeraldas"	"Esmeraldas"	1968	2020-11-02
+"Esmeraldas"	"Muisne"	169	2020-11-02
+"Esmeraldas"	"Quinindé"	1155	2020-11-02
+"Esmeraldas"	"Rioverde"	235	2020-11-02
+"Esmeraldas"	"San Lorenzo"	102	2020-11-02
+"Esmeraldas"	"Atacames"	337	2020-11-03
+"Esmeraldas"	"Eloy Alfaro"	314	2020-11-03
+"Esmeraldas"	"Esmeraldas"	1973	2020-11-03
+"Esmeraldas"	"Muisne"	169	2020-11-03
+"Esmeraldas"	"Quinindé"	1160	2020-11-03
+"Esmeraldas"	"Rioverde"	235	2020-11-03
+"Esmeraldas"	"San Lorenzo"	102	2020-11-03
+"Esmeraldas"	"Atacames"	337	2020-11-04
+"Esmeraldas"	"Eloy Alfaro"	314	2020-11-04
+"Esmeraldas"	"Esmeraldas"	1976	2020-11-04
+"Esmeraldas"	"Muisne"	169	2020-11-04
+"Esmeraldas"	"Quinindé"	1160	2020-11-04
+"Esmeraldas"	"Rioverde"	236	2020-11-04
+"Esmeraldas"	"San Lorenzo"	102	2020-11-04
+"Esmeraldas"	"Atacames"	342	2020-11-05
+"Esmeraldas"	"Eloy Alfaro"	314	2020-11-05
+"Esmeraldas"	"Esmeraldas"	1976	2020-11-05
+"Esmeraldas"	"Muisne"	169	2020-11-05
+"Esmeraldas"	"Quinindé"	1163	2020-11-05
+"Esmeraldas"	"Rioverde"	236	2020-11-05
+"Esmeraldas"	"San Lorenzo"	102	2020-11-05
+"Esmeraldas"	"Atacames"	349	2020-11-06
+"Esmeraldas"	"Eloy Alfaro"	314	2020-11-06
+"Esmeraldas"	"Esmeraldas"	1987	2020-11-06
+"Esmeraldas"	"Muisne"	170	2020-11-06
+"Esmeraldas"	"Quinindé"	1166	2020-11-06
+"Esmeraldas"	"Rioverde"	236	2020-11-06
+"Esmeraldas"	"San Lorenzo"	102	2020-11-06
+"Esmeraldas"	"Atacames"	352	2020-11-07
+"Esmeraldas"	"Eloy Alfaro"	314	2020-11-07
+"Esmeraldas"	"Esmeraldas"	2014	2020-11-07
+"Esmeraldas"	"Muisne"	171	2020-11-07
+"Esmeraldas"	"Quinindé"	1166	2020-11-07
+"Esmeraldas"	"Rioverde"	236	2020-11-07
+"Esmeraldas"	"San Lorenzo"	102	2020-11-07
+"Esmeraldas"	"Atacames"	355	2020-11-08
+"Esmeraldas"	"Eloy Alfaro"	315	2020-11-08
+"Esmeraldas"	"Esmeraldas"	2054	2020-11-08
+"Esmeraldas"	"Muisne"	172	2020-11-08
+"Esmeraldas"	"Quinindé"	1177	2020-11-08
+"Esmeraldas"	"Rioverde"	236	2020-11-08
+"Esmeraldas"	"San Lorenzo"	103	2020-11-08
+"Esmeraldas"	"Atacames"	358	2020-11-09
+"Esmeraldas"	"Eloy Alfaro"	315	2020-11-09
+"Esmeraldas"	"Esmeraldas"	2054	2020-11-09
+"Esmeraldas"	"Muisne"	172	2020-11-09
+"Esmeraldas"	"Quinindé"	1177	2020-11-09
+"Esmeraldas"	"Rioverde"	236	2020-11-09
+"Esmeraldas"	"San Lorenzo"	103	2020-11-09
+"Esmeraldas"	"Atacames"	360	2020-11-10
+"Esmeraldas"	"Eloy Alfaro"	315	2020-11-10
+"Esmeraldas"	"Esmeraldas"	2065	2020-11-10
+"Esmeraldas"	"Muisne"	172	2020-11-10
+"Esmeraldas"	"Quinindé"	1178	2020-11-10
+"Esmeraldas"	"Rioverde"	236	2020-11-10
+"Esmeraldas"	"San Lorenzo"	103	2020-11-10
+"Esmeraldas"	"Atacames"	361	2020-11-11
+"Esmeraldas"	"Eloy Alfaro"	316	2020-11-11
+"Esmeraldas"	"Esmeraldas"	2079	2020-11-11
+"Esmeraldas"	"Muisne"	173	2020-11-11
+"Esmeraldas"	"Quinindé"	1181	2020-11-11
+"Esmeraldas"	"Rioverde"	237	2020-11-11
+"Esmeraldas"	"San Lorenzo"	103	2020-11-11
+"Esmeraldas"	"Atacames"	371	2020-11-12
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-12
+"Esmeraldas"	"Esmeraldas"	2102	2020-11-12
+"Esmeraldas"	"Muisne"	174	2020-11-12
+"Esmeraldas"	"Quinindé"	1185	2020-11-12
+"Esmeraldas"	"Rioverde"	237	2020-11-12
+"Esmeraldas"	"San Lorenzo"	103	2020-11-12
+"Esmeraldas"	"Atacames"	372	2020-11-13
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-13
+"Esmeraldas"	"Esmeraldas"	2108	2020-11-13
+"Esmeraldas"	"Muisne"	174	2020-11-13
+"Esmeraldas"	"Quinindé"	1187	2020-11-13
+"Esmeraldas"	"Rioverde"	237	2020-11-13
+"Esmeraldas"	"San Lorenzo"	103	2020-11-13
+"Esmeraldas"	"Atacames"	376	2020-11-14
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-14
+"Esmeraldas"	"Esmeraldas"	2115	2020-11-14
+"Esmeraldas"	"Muisne"	175	2020-11-14
+"Esmeraldas"	"Quinindé"	1188	2020-11-14
+"Esmeraldas"	"Rioverde"	237	2020-11-14
+"Esmeraldas"	"San Lorenzo"	103	2020-11-14
+"Esmeraldas"	"Atacames"	378	2020-11-15
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-15
+"Esmeraldas"	"Esmeraldas"	2119	2020-11-15
+"Esmeraldas"	"Muisne"	175	2020-11-15
+"Esmeraldas"	"Quinindé"	1188	2020-11-15
+"Esmeraldas"	"Rioverde"	237	2020-11-15
+"Esmeraldas"	"San Lorenzo"	103	2020-11-15
+"Esmeraldas"	"Atacames"	378	2020-11-16
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-16
+"Esmeraldas"	"Esmeraldas"	2119	2020-11-16
+"Esmeraldas"	"Muisne"	175	2020-11-16
+"Esmeraldas"	"Quinindé"	1188	2020-11-16
+"Esmeraldas"	"Rioverde"	237	2020-11-16
+"Esmeraldas"	"San Lorenzo"	103	2020-11-16
+"Esmeraldas"	"Atacames"	378	2020-11-17
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-17
+"Esmeraldas"	"Esmeraldas"	2122	2020-11-17
+"Esmeraldas"	"Muisne"	175	2020-11-17
+"Esmeraldas"	"Quinindé"	1191	2020-11-17
+"Esmeraldas"	"Rioverde"	237	2020-11-17
+"Esmeraldas"	"San Lorenzo"	103	2020-11-17
+"Esmeraldas"	"Atacames"	379	2020-11-18
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-18
+"Esmeraldas"	"Esmeraldas"	2137	2020-11-18
+"Esmeraldas"	"Muisne"	176	2020-11-18
+"Esmeraldas"	"Quinindé"	1195	2020-11-18
+"Esmeraldas"	"Rioverde"	237	2020-11-18
+"Esmeraldas"	"San Lorenzo"	103	2020-11-18
+"Esmeraldas"	"Atacames"	379	2020-11-19
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-19
+"Esmeraldas"	"Esmeraldas"	2140	2020-11-19
+"Esmeraldas"	"Muisne"	177	2020-11-19
+"Esmeraldas"	"Quinindé"	1197	2020-11-19
+"Esmeraldas"	"Rioverde"	237	2020-11-19
+"Esmeraldas"	"San Lorenzo"	103	2020-11-19
+"Esmeraldas"	"Atacames"	380	2020-11-20
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-20
+"Esmeraldas"	"Esmeraldas"	2141	2020-11-20
+"Esmeraldas"	"Muisne"	177	2020-11-20
+"Esmeraldas"	"Quinindé"	1197	2020-11-20
+"Esmeraldas"	"Rioverde"	237	2020-11-20
+"Esmeraldas"	"San Lorenzo"	103	2020-11-20
+"Esmeraldas"	"Atacames"	380	2020-11-21
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-21
+"Esmeraldas"	"Esmeraldas"	2144	2020-11-21
+"Esmeraldas"	"Muisne"	177	2020-11-21
+"Esmeraldas"	"Quinindé"	1197	2020-11-21
+"Esmeraldas"	"Rioverde"	237	2020-11-21
+"Esmeraldas"	"San Lorenzo"	103	2020-11-21
+"Esmeraldas"	"Atacames"	380	2020-11-22
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-22
+"Esmeraldas"	"Esmeraldas"	2145	2020-11-22
+"Esmeraldas"	"Muisne"	177	2020-11-22
+"Esmeraldas"	"Quinindé"	1197	2020-11-22
+"Esmeraldas"	"Rioverde"	237	2020-11-22
+"Esmeraldas"	"San Lorenzo"	103	2020-11-22
+"Esmeraldas"	"Atacames"	380	2020-11-23
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-23
+"Esmeraldas"	"Esmeraldas"	2145	2020-11-23
+"Esmeraldas"	"Muisne"	177	2020-11-23
+"Esmeraldas"	"Quinindé"	1197	2020-11-23
+"Esmeraldas"	"Rioverde"	237	2020-11-23
+"Esmeraldas"	"San Lorenzo"	103	2020-11-23
+"Esmeraldas"	"Atacames"	381	2020-11-24
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-24
+"Esmeraldas"	"Esmeraldas"	2145	2020-11-24
+"Esmeraldas"	"Muisne"	177	2020-11-24
+"Esmeraldas"	"Quinindé"	1198	2020-11-24
+"Esmeraldas"	"Rioverde"	237	2020-11-24
+"Esmeraldas"	"San Lorenzo"	103	2020-11-24
+"Esmeraldas"	"Atacames"	381	2020-11-25
+"Esmeraldas"	"Eloy Alfaro"	318	2020-11-25
+"Esmeraldas"	"Esmeraldas"	2146	2020-11-25
+"Esmeraldas"	"Muisne"	177	2020-11-25
+"Esmeraldas"	"Quinindé"	1200	2020-11-25
+"Esmeraldas"	"Rioverde"	237	2020-11-25
+"Esmeraldas"	"San Lorenzo"	103	2020-11-25
+"Esmeraldas"	"Atacames"	381	2020-11-26
+"Esmeraldas"	"Eloy Alfaro"	324	2020-11-26
+"Esmeraldas"	"Esmeraldas"	2152	2020-11-26
+"Esmeraldas"	"Muisne"	177	2020-11-26
+"Esmeraldas"	"Quinindé"	1204	2020-11-26
+"Esmeraldas"	"Rioverde"	237	2020-11-26
+"Esmeraldas"	"San Lorenzo"	104	2020-11-26
+"Esmeraldas"	"Atacames"	381	2020-11-27
+"Esmeraldas"	"Eloy Alfaro"	324	2020-11-27
+"Esmeraldas"	"Esmeraldas"	2243	2020-11-27
+"Esmeraldas"	"Muisne"	178	2020-11-27
+"Esmeraldas"	"Quinindé"	1311	2020-11-27
+"Esmeraldas"	"Rioverde"	238	2020-11-27
+"Esmeraldas"	"San Lorenzo"	105	2020-11-27
+"Esmeraldas"	"Atacames"	381	2020-11-28
+"Esmeraldas"	"Eloy Alfaro"	324	2020-11-28
+"Esmeraldas"	"Esmeraldas"	2275	2020-11-28
+"Esmeraldas"	"Muisne"	178	2020-11-28
+"Esmeraldas"	"Quinindé"	1319	2020-11-28
+"Esmeraldas"	"Rioverde"	238	2020-11-28
+"Esmeraldas"	"San Lorenzo"	105	2020-11-28
+"Esmeraldas"	"Atacames"	381	2020-11-29
+"Esmeraldas"	"Eloy Alfaro"	326	2020-11-29
+"Esmeraldas"	"Esmeraldas"	2281	2020-11-29
+"Esmeraldas"	"Muisne"	178	2020-11-29
+"Esmeraldas"	"Quinindé"	1336	2020-11-29
+"Esmeraldas"	"Rioverde"	238	2020-11-29
+"Esmeraldas"	"San Lorenzo"	105	2020-11-29
+"Esmeraldas"	"Atacames"	381	2020-11-30
+"Esmeraldas"	"Eloy Alfaro"	326	2020-11-30
+"Esmeraldas"	"Esmeraldas"	2281	2020-11-30
+"Esmeraldas"	"Muisne"	178	2020-11-30
+"Esmeraldas"	"Quinindé"	1336	2020-11-30
+"Esmeraldas"	"Rioverde"	238	2020-11-30
+"Esmeraldas"	"San Lorenzo"	105	2020-11-30
+"Esmeraldas"	"Atacames"	381	2020-12-01
+"Esmeraldas"	"Eloy Alfaro"	326	2020-12-01
+"Esmeraldas"	"Esmeraldas"	2282	2020-12-01
+"Esmeraldas"	"Muisne"	178	2020-12-01
+"Esmeraldas"	"Quinindé"	1336	2020-12-01
+"Esmeraldas"	"Rioverde"	238	2020-12-01
+"Esmeraldas"	"San Lorenzo"	105	2020-12-01
+"Esmeraldas"	"Atacames"	381	2020-12-02
+"Esmeraldas"	"Eloy Alfaro"	326	2020-12-02
+"Esmeraldas"	"Esmeraldas"	2282	2020-12-02
+"Esmeraldas"	"Muisne"	178	2020-12-02
+"Esmeraldas"	"Quinindé"	1336	2020-12-02
+"Esmeraldas"	"Rioverde"	238	2020-12-02
+"Esmeraldas"	"San Lorenzo"	105	2020-12-02
+"Esmeraldas"	"Atacames"	381	2020-12-03
+"Esmeraldas"	"Eloy Alfaro"	326	2020-12-03
+"Esmeraldas"	"Esmeraldas"	2286	2020-12-03
+"Esmeraldas"	"Muisne"	179	2020-12-03
+"Esmeraldas"	"Quinindé"	1336	2020-12-03
+"Esmeraldas"	"Rioverde"	238	2020-12-03
+"Esmeraldas"	"San Lorenzo"	105	2020-12-03
+"Esmeraldas"	"Atacames"	381	2020-12-04
+"Esmeraldas"	"Eloy Alfaro"	326	2020-12-04
+"Esmeraldas"	"Esmeraldas"	2295	2020-12-04
+"Esmeraldas"	"Muisne"	179	2020-12-04
+"Esmeraldas"	"Quinindé"	1336	2020-12-04
+"Esmeraldas"	"Rioverde"	238	2020-12-04
+"Esmeraldas"	"San Lorenzo"	106	2020-12-04
+"Esmeraldas"	"Atacames"	383	2020-12-05
+"Esmeraldas"	"Eloy Alfaro"	326	2020-12-05
+"Esmeraldas"	"Esmeraldas"	2298	2020-12-05
+"Esmeraldas"	"Muisne"	179	2020-12-05
+"Esmeraldas"	"Quinindé"	1336	2020-12-05
+"Esmeraldas"	"Rioverde"	238	2020-12-05
+"Esmeraldas"	"San Lorenzo"	106	2020-12-05
+"Esmeraldas"	"Atacames"	383	2020-12-06
+"Esmeraldas"	"Eloy Alfaro"	326	2020-12-06
+"Esmeraldas"	"Esmeraldas"	2304	2020-12-06
+"Esmeraldas"	"Muisne"	179	2020-12-06
+"Esmeraldas"	"Quinindé"	1336	2020-12-06
+"Esmeraldas"	"Rioverde"	239	2020-12-06
+"Esmeraldas"	"San Lorenzo"	106	2020-12-06
+"Esmeraldas"	"Atacames"	383	2020-12-07
+"Esmeraldas"	"Eloy Alfaro"	326	2020-12-07
+"Esmeraldas"	"Esmeraldas"	2304	2020-12-07
+"Esmeraldas"	"Muisne"	179	2020-12-07
+"Esmeraldas"	"Quinindé"	1336	2020-12-07
+"Esmeraldas"	"Rioverde"	239	2020-12-07
+"Esmeraldas"	"San Lorenzo"	106	2020-12-07
+"Esmeraldas"	"Atacames"	383	2020-12-08
+"Esmeraldas"	"Eloy Alfaro"	326	2020-12-08
+"Esmeraldas"	"Esmeraldas"	2317	2020-12-08
+"Esmeraldas"	"Muisne"	179	2020-12-08
+"Esmeraldas"	"Quinindé"	1337	2020-12-08
+"Esmeraldas"	"Rioverde"	239	2020-12-08
+"Esmeraldas"	"San Lorenzo"	106	2020-12-08
+"Esmeraldas"	"Atacames"	384	2020-12-09
+"Esmeraldas"	"Eloy Alfaro"	326	2020-12-09
+"Esmeraldas"	"Esmeraldas"	2326	2020-12-09
+"Esmeraldas"	"Muisne"	180	2020-12-09
+"Esmeraldas"	"Quinindé"	1337	2020-12-09
+"Esmeraldas"	"Rioverde"	239	2020-12-09
+"Esmeraldas"	"San Lorenzo"	106	2020-12-09
+"Esmeraldas"	"Atacames"	384	2020-12-10
+"Esmeraldas"	"Eloy Alfaro"	328	2020-12-10
+"Esmeraldas"	"Esmeraldas"	2329	2020-12-10
+"Esmeraldas"	"Muisne"	180	2020-12-10
+"Esmeraldas"	"Quinindé"	1340	2020-12-10
+"Esmeraldas"	"Rioverde"	240	2020-12-10
+"Esmeraldas"	"San Lorenzo"	106	2020-12-10
+"Esmeraldas"	"Atacames"	384	2020-12-11
+"Esmeraldas"	"Eloy Alfaro"	328	2020-12-11
+"Esmeraldas"	"Esmeraldas"	2334	2020-12-11
+"Esmeraldas"	"Muisne"	181	2020-12-11
+"Esmeraldas"	"Quinindé"	1340	2020-12-11
+"Esmeraldas"	"Rioverde"	240	2020-12-11
+"Esmeraldas"	"San Lorenzo"	106	2020-12-11
+"Esmeraldas"	"Atacames"	384	2020-12-12
+"Esmeraldas"	"Eloy Alfaro"	328	2020-12-12
+"Esmeraldas"	"Esmeraldas"	2342	2020-12-12
+"Esmeraldas"	"Muisne"	181	2020-12-12
+"Esmeraldas"	"Quinindé"	1340	2020-12-12
+"Esmeraldas"	"Rioverde"	240	2020-12-12
+"Esmeraldas"	"San Lorenzo"	106	2020-12-12
+"Esmeraldas"	"Atacames"	387	2020-12-13
+"Esmeraldas"	"Eloy Alfaro"	328	2020-12-13
+"Esmeraldas"	"Esmeraldas"	2349	2020-12-13
+"Esmeraldas"	"Muisne"	182	2020-12-13
+"Esmeraldas"	"Quinindé"	1343	2020-12-13
+"Esmeraldas"	"Rioverde"	240	2020-12-13
+"Esmeraldas"	"San Lorenzo"	106	2020-12-13
+"Esmeraldas"	"Atacames"	387	2020-12-14
+"Esmeraldas"	"Eloy Alfaro"	328	2020-12-14
+"Esmeraldas"	"Esmeraldas"	2349	2020-12-14
+"Esmeraldas"	"Muisne"	182	2020-12-14
+"Esmeraldas"	"Quinindé"	1343	2020-12-14
+"Esmeraldas"	"Rioverde"	240	2020-12-14
+"Esmeraldas"	"San Lorenzo"	106	2020-12-14
+"Esmeraldas"	"Atacames"	387	2020-12-15
+"Esmeraldas"	"Eloy Alfaro"	328	2020-12-15
+"Esmeraldas"	"Esmeraldas"	2349	2020-12-15
+"Esmeraldas"	"Muisne"	182	2020-12-15
+"Esmeraldas"	"Quinindé"	1343	2020-12-15
+"Esmeraldas"	"Rioverde"	240	2020-12-15
+"Esmeraldas"	"San Lorenzo"	106	2020-12-15
+"Esmeraldas"	"Atacames"	389	2020-12-16
+"Esmeraldas"	"Eloy Alfaro"	329	2020-12-16
+"Esmeraldas"	"Esmeraldas"	2366	2020-12-16
+"Esmeraldas"	"Muisne"	182	2020-12-16
+"Esmeraldas"	"Quinindé"	1345	2020-12-16
+"Esmeraldas"	"Rioverde"	240	2020-12-16
+"Esmeraldas"	"San Lorenzo"	107	2020-12-16
+"Esmeraldas"	"Atacames"	390	2020-12-17
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-17
+"Esmeraldas"	"Esmeraldas"	2381	2020-12-17
+"Esmeraldas"	"Muisne"	182	2020-12-17
+"Esmeraldas"	"Quinindé"	1347	2020-12-17
+"Esmeraldas"	"Rioverde"	240	2020-12-17
+"Esmeraldas"	"San Lorenzo"	107	2020-12-17
+"Esmeraldas"	"Atacames"	391	2020-12-18
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-18
+"Esmeraldas"	"Esmeraldas"	2386	2020-12-18
+"Esmeraldas"	"Muisne"	182	2020-12-18
+"Esmeraldas"	"Quinindé"	1347	2020-12-18
+"Esmeraldas"	"Rioverde"	240	2020-12-18
+"Esmeraldas"	"San Lorenzo"	107	2020-12-18
+"Esmeraldas"	"Atacames"	392	2020-12-19
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-19
+"Esmeraldas"	"Esmeraldas"	2397	2020-12-19
+"Esmeraldas"	"Muisne"	182	2020-12-19
+"Esmeraldas"	"Quinindé"	1348	2020-12-19
+"Esmeraldas"	"Rioverde"	240	2020-12-19
+"Esmeraldas"	"San Lorenzo"	107	2020-12-19
+"Esmeraldas"	"Atacames"	392	2020-12-20
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-20
+"Esmeraldas"	"Esmeraldas"	2398	2020-12-20
+"Esmeraldas"	"Muisne"	182	2020-12-20
+"Esmeraldas"	"Quinindé"	1351	2020-12-20
+"Esmeraldas"	"Rioverde"	240	2020-12-20
+"Esmeraldas"	"San Lorenzo"	107	2020-12-20
+"Esmeraldas"	"Atacames"	392	2020-12-21
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-21
+"Esmeraldas"	"Esmeraldas"	2399	2020-12-21
+"Esmeraldas"	"Muisne"	182	2020-12-21
+"Esmeraldas"	"Quinindé"	1351	2020-12-21
+"Esmeraldas"	"Rioverde"	240	2020-12-21
+"Esmeraldas"	"San Lorenzo"	107	2020-12-21
+"Esmeraldas"	"Atacames"	392	2020-12-22
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-22
+"Esmeraldas"	"Esmeraldas"	2399	2020-12-22
+"Esmeraldas"	"Muisne"	182	2020-12-22
+"Esmeraldas"	"Quinindé"	1351	2020-12-22
+"Esmeraldas"	"Rioverde"	240	2020-12-22
+"Esmeraldas"	"San Lorenzo"	107	2020-12-22
+"Esmeraldas"	"Atacames"	393	2020-12-23
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-23
+"Esmeraldas"	"Esmeraldas"	2400	2020-12-23
+"Esmeraldas"	"Muisne"	182	2020-12-23
+"Esmeraldas"	"Quinindé"	1351	2020-12-23
+"Esmeraldas"	"Rioverde"	240	2020-12-23
+"Esmeraldas"	"San Lorenzo"	107	2020-12-23
+"Esmeraldas"	"Atacames"	393	2020-12-24
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-24
+"Esmeraldas"	"Esmeraldas"	2403	2020-12-24
+"Esmeraldas"	"Muisne"	182	2020-12-24
+"Esmeraldas"	"Quinindé"	1353	2020-12-24
+"Esmeraldas"	"Rioverde"	240	2020-12-24
+"Esmeraldas"	"San Lorenzo"	107	2020-12-24
+"Esmeraldas"	"Atacames"	394	2020-12-25
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-25
+"Esmeraldas"	"Esmeraldas"	2410	2020-12-25
+"Esmeraldas"	"Muisne"	182	2020-12-25
+"Esmeraldas"	"Quinindé"	1354	2020-12-25
+"Esmeraldas"	"Rioverde"	240	2020-12-25
+"Esmeraldas"	"San Lorenzo"	107	2020-12-25
+"Esmeraldas"	"Atacames"	394	2020-12-26
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-26
+"Esmeraldas"	"Esmeraldas"	2410	2020-12-26
+"Esmeraldas"	"Muisne"	182	2020-12-26
+"Esmeraldas"	"Quinindé"	1354	2020-12-26
+"Esmeraldas"	"Rioverde"	240	2020-12-26
+"Esmeraldas"	"San Lorenzo"	107	2020-12-26
+"Esmeraldas"	"Atacames"	394	2020-12-27
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-27
+"Esmeraldas"	"Esmeraldas"	2410	2020-12-27
+"Esmeraldas"	"Muisne"	182	2020-12-27
+"Esmeraldas"	"Quinindé"	1354	2020-12-27
+"Esmeraldas"	"Rioverde"	240	2020-12-27
+"Esmeraldas"	"San Lorenzo"	107	2020-12-27
+"Esmeraldas"	"Atacames"	394	2020-12-28
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-28
+"Esmeraldas"	"Esmeraldas"	2414	2020-12-28
+"Esmeraldas"	"Muisne"	182	2020-12-28
+"Esmeraldas"	"Quinindé"	1354	2020-12-28
+"Esmeraldas"	"Rioverde"	240	2020-12-28
+"Esmeraldas"	"San Lorenzo"	107	2020-12-28
+"Esmeraldas"	"Atacames"	394	2020-12-29
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-29
+"Esmeraldas"	"Esmeraldas"	2416	2020-12-29
+"Esmeraldas"	"Muisne"	182	2020-12-29
+"Esmeraldas"	"Quinindé"	1354	2020-12-29
+"Esmeraldas"	"Rioverde"	240	2020-12-29
+"Esmeraldas"	"San Lorenzo"	107	2020-12-29
+"Esmeraldas"	"Atacames"	397	2020-12-30
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-30
+"Esmeraldas"	"Esmeraldas"	2427	2020-12-30
+"Esmeraldas"	"Muisne"	182	2020-12-30
+"Esmeraldas"	"Quinindé"	1355	2020-12-30
+"Esmeraldas"	"Rioverde"	241	2020-12-30
+"Esmeraldas"	"San Lorenzo"	107	2020-12-30
+"Esmeraldas"	"Atacames"	397	2020-12-31
+"Esmeraldas"	"Eloy Alfaro"	330	2020-12-31
+"Esmeraldas"	"Esmeraldas"	2431	2020-12-31
+"Esmeraldas"	"Muisne"	182	2020-12-31
+"Esmeraldas"	"Quinindé"	1355	2020-12-31
+"Esmeraldas"	"Rioverde"	242	2020-12-31
+"Esmeraldas"	"San Lorenzo"	107	2020-12-31
 "Esmeraldas"	"Atacames"	398	2021-01-01
 "Esmeraldas"	"Eloy Alfaro"	330	2021-01-01
 "Esmeraldas"	"Esmeraldas"	2433	2021-01-01
@@ -3317,3 +5375,59 @@
 "Esmeraldas"	"Quinindé"	2626	2022-04-19
 "Esmeraldas"	"Rioverde"	534	2022-04-19
 "Esmeraldas"	"San Lorenzo"	1167	2022-04-19
+"Esmeraldas"	"Atacames"	1202	2022-04-20
+"Esmeraldas"	"Eloy Alfaro"	554	2022-04-20
+"Esmeraldas"	"Esmeraldas"	7598	2022-04-20
+"Esmeraldas"	"Muisne"	326	2022-04-20
+"Esmeraldas"	"Quinindé"	2626	2022-04-20
+"Esmeraldas"	"Rioverde"	534	2022-04-20
+"Esmeraldas"	"San Lorenzo"	1167	2022-04-20
+"Esmeraldas"	"Atacames"	1202	2022-04-21
+"Esmeraldas"	"Eloy Alfaro"	554	2022-04-21
+"Esmeraldas"	"Esmeraldas"	7598	2022-04-21
+"Esmeraldas"	"Muisne"	326	2022-04-21
+"Esmeraldas"	"Quinindé"	2626	2022-04-21
+"Esmeraldas"	"Rioverde"	534	2022-04-21
+"Esmeraldas"	"San Lorenzo"	1167	2022-04-21
+"Esmeraldas"	"Atacames"	1202	2022-04-22
+"Esmeraldas"	"Eloy Alfaro"	554	2022-04-22
+"Esmeraldas"	"Esmeraldas"	7598	2022-04-22
+"Esmeraldas"	"Muisne"	326	2022-04-22
+"Esmeraldas"	"Quinindé"	2626	2022-04-22
+"Esmeraldas"	"Rioverde"	534	2022-04-22
+"Esmeraldas"	"San Lorenzo"	1167	2022-04-22
+"Esmeraldas"	"Atacames"	1202	2022-04-23
+"Esmeraldas"	"Eloy Alfaro"	554	2022-04-23
+"Esmeraldas"	"Esmeraldas"	7598	2022-04-23
+"Esmeraldas"	"Muisne"	326	2022-04-23
+"Esmeraldas"	"Quinindé"	2626	2022-04-23
+"Esmeraldas"	"Rioverde"	534	2022-04-23
+"Esmeraldas"	"San Lorenzo"	1167	2022-04-23
+"Esmeraldas"	"Atacames"	1202	2022-04-24
+"Esmeraldas"	"Eloy Alfaro"	554	2022-04-24
+"Esmeraldas"	"Esmeraldas"	7598	2022-04-24
+"Esmeraldas"	"Muisne"	326	2022-04-24
+"Esmeraldas"	"Quinindé"	2626	2022-04-24
+"Esmeraldas"	"Rioverde"	534	2022-04-24
+"Esmeraldas"	"San Lorenzo"	1167	2022-04-24
+"Esmeraldas"	"Atacames"	1202	2022-04-25
+"Esmeraldas"	"Eloy Alfaro"	554	2022-04-25
+"Esmeraldas"	"Esmeraldas"	7598	2022-04-25
+"Esmeraldas"	"Muisne"	326	2022-04-25
+"Esmeraldas"	"Quinindé"	2626	2022-04-25
+"Esmeraldas"	"Rioverde"	534	2022-04-25
+"Esmeraldas"	"San Lorenzo"	1167	2022-04-25
+"Esmeraldas"	"Atacames"	1202	2022-04-26
+"Esmeraldas"	"Eloy Alfaro"	554	2022-04-26
+"Esmeraldas"	"Esmeraldas"	7598	2022-04-26
+"Esmeraldas"	"Muisne"	326	2022-04-26
+"Esmeraldas"	"Quinindé"	2626	2022-04-26
+"Esmeraldas"	"Rioverde"	534	2022-04-26
+"Esmeraldas"	"San Lorenzo"	1168	2022-04-26
+"Esmeraldas"	"Atacames"	1202	2022-04-27
+"Esmeraldas"	"Eloy Alfaro"	554	2022-04-27
+"Esmeraldas"	"Esmeraldas"	7598	2022-04-27
+"Esmeraldas"	"Muisne"	326	2022-04-27
+"Esmeraldas"	"Quinindé"	2626	2022-04-27
+"Esmeraldas"	"Rioverde"	534	2022-04-27
+"Esmeraldas"	"San Lorenzo"	1168	2022-04-27

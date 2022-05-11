@@ -1,4 +1,886 @@
 "provincia"	"canton"	"total"	"created_at"
+"Galápagos"	"Isabela"	0	2020-03-13
+"Galápagos"	"San Cristóbal"	0	2020-03-13
+"Galápagos"	"Santa Cruz"	0	2020-03-13
+"Galápagos"	"Isabela"	0	2020-03-14
+"Galápagos"	"San Cristóbal"	0	2020-03-14
+"Galápagos"	"Santa Cruz"	0	2020-03-14
+"Galápagos"	"Isabela"	0	2020-03-15
+"Galápagos"	"San Cristóbal"	0	2020-03-15
+"Galápagos"	"Santa Cruz"	0	2020-03-15
+"Galápagos"	"Isabela"	0	2020-03-16
+"Galápagos"	"San Cristóbal"	0	2020-03-16
+"Galápagos"	"Santa Cruz"	0	2020-03-16
+"Galápagos"	"Isabela"	0	2020-03-17
+"Galápagos"	"San Cristóbal"	0	2020-03-17
+"Galápagos"	"Santa Cruz"	0	2020-03-17
+"Galápagos"	"Isabela"	0	2020-03-18
+"Galápagos"	"San Cristóbal"	0	2020-03-18
+"Galápagos"	"Santa Cruz"	0	2020-03-18
+"Galápagos"	"Isabela"	0	2020-03-19
+"Galápagos"	"San Cristóbal"	0	2020-03-19
+"Galápagos"	"Santa Cruz"	0	2020-03-19
+"Galápagos"	"Isabela"	0	2020-03-20
+"Galápagos"	"San Cristóbal"	0	2020-03-20
+"Galápagos"	"Santa Cruz"	0	2020-03-20
+"Galápagos"	"Isabela"	0	2020-03-21
+"Galápagos"	"San Cristóbal"	0	2020-03-21
+"Galápagos"	"Santa Cruz"	0	2020-03-21
+"Galápagos"	"Isabela"	0	2020-03-22
+"Galápagos"	"San Cristóbal"	0	2020-03-22
+"Galápagos"	"Santa Cruz"	0	2020-03-22
+"Galápagos"	"Isabela"	0	2020-03-23
+"Galápagos"	"San Cristóbal"	0	2020-03-23
+"Galápagos"	"Santa Cruz"	0	2020-03-23
+"Galápagos"	"Isabela"	1	2020-03-24
+"Galápagos"	"San Cristóbal"	2	2020-03-24
+"Galápagos"	"Santa Cruz"	1	2020-03-24
+"Galápagos"	"Isabela"	1	2020-03-25
+"Galápagos"	"San Cristóbal"	2	2020-03-25
+"Galápagos"	"Santa Cruz"	1	2020-03-25
+"Galápagos"	"Isabela"	1	2020-03-26
+"Galápagos"	"San Cristóbal"	2	2020-03-26
+"Galápagos"	"Santa Cruz"	1	2020-03-26
+"Galápagos"	"Isabela"	1	2020-03-27
+"Galápagos"	"San Cristóbal"	2	2020-03-27
+"Galápagos"	"Santa Cruz"	1	2020-03-27
+"Galápagos"	"Isabela"	1	2020-03-28
+"Galápagos"	"San Cristóbal"	2	2020-03-28
+"Galápagos"	"Santa Cruz"	1	2020-03-28
+"Galápagos"	"Isabela"	1	2020-03-29
+"Galápagos"	"San Cristóbal"	2	2020-03-29
+"Galápagos"	"Santa Cruz"	1	2020-03-29
+"Galápagos"	"Isabela"	1	2020-03-30
+"Galápagos"	"San Cristóbal"	2	2020-03-30
+"Galápagos"	"Santa Cruz"	1	2020-03-30
+"Galápagos"	"Isabela"	1	2020-03-31
+"Galápagos"	"San Cristóbal"	2	2020-03-31
+"Galápagos"	"Santa Cruz"	2	2020-03-31
+"Galápagos"	"Isabela"	1	2020-04-01
+"Galápagos"	"San Cristóbal"	4	2020-04-01
+"Galápagos"	"Santa Cruz"	2	2020-04-01
+"Galápagos"	"Isabela"	1	2020-04-02
+"Galápagos"	"San Cristóbal"	7	2020-04-02
+"Galápagos"	"Santa Cruz"	2	2020-04-02
+"Galápagos"	"Isabela"	1	2020-04-03
+"Galápagos"	"San Cristóbal"	7	2020-04-03
+"Galápagos"	"Santa Cruz"	2	2020-04-03
+"Galápagos"	"Isabela"	1	2020-04-04
+"Galápagos"	"San Cristóbal"	7	2020-04-04
+"Galápagos"	"Santa Cruz"	3	2020-04-04
+"Galápagos"	"Isabela"	1	2020-04-05
+"Galápagos"	"San Cristóbal"	7	2020-04-05
+"Galápagos"	"Santa Cruz"	3	2020-04-05
+"Galápagos"	"Isabela"	1	2020-04-06
+"Galápagos"	"San Cristóbal"	7	2020-04-06
+"Galápagos"	"Santa Cruz"	3	2020-04-06
+"Galápagos"	"Isabela"	1	2020-04-07
+"Galápagos"	"San Cristóbal"	7	2020-04-07
+"Galápagos"	"Santa Cruz"	3	2020-04-07
+"Galápagos"	"Isabela"	1	2020-04-08
+"Galápagos"	"San Cristóbal"	7	2020-04-08
+"Galápagos"	"Santa Cruz"	3	2020-04-08
+"Galápagos"	"Isabela"	1	2020-04-09
+"Galápagos"	"San Cristóbal"	7	2020-04-09
+"Galápagos"	"Santa Cruz"	3	2020-04-09
+"Galápagos"	"Isabela"	1	2020-04-10
+"Galápagos"	"San Cristóbal"	7	2020-04-10
+"Galápagos"	"Santa Cruz"	3	2020-04-10
+"Galápagos"	"Isabela"	1	2020-04-11
+"Galápagos"	"San Cristóbal"	7	2020-04-11
+"Galápagos"	"Santa Cruz"	3	2020-04-11
+"Galápagos"	"Isabela"	1	2020-04-12
+"Galápagos"	"San Cristóbal"	7	2020-04-12
+"Galápagos"	"Santa Cruz"	3	2020-04-12
+"Galápagos"	"Isabela"	1	2020-04-13
+"Galápagos"	"San Cristóbal"	7	2020-04-13
+"Galápagos"	"Santa Cruz"	3	2020-04-13
+"Galápagos"	"Isabela"	1	2020-04-14
+"Galápagos"	"San Cristóbal"	7	2020-04-14
+"Galápagos"	"Santa Cruz"	4	2020-04-14
+"Galápagos"	"Isabela"	1	2020-04-15
+"Galápagos"	"San Cristóbal"	7	2020-04-15
+"Galápagos"	"Santa Cruz"	3	2020-04-15
+"Galápagos"	"Isabela"	1	2020-04-16
+"Galápagos"	"San Cristóbal"	7	2020-04-16
+"Galápagos"	"Santa Cruz"	3	2020-04-16
+"Galápagos"	"Isabela"	1	2020-04-17
+"Galápagos"	"San Cristóbal"	7	2020-04-17
+"Galápagos"	"Santa Cruz"	34	2020-04-17
+"Galápagos"	"Isabela"	3	2020-04-18
+"Galápagos"	"San Cristóbal"	13	2020-04-18
+"Galápagos"	"Santa Cruz"	37	2020-04-18
+"Galápagos"	"Isabela"	3	2020-04-19
+"Galápagos"	"San Cristóbal"	13	2020-04-19
+"Galápagos"	"Santa Cruz"	38	2020-04-19
+"Galápagos"	"Isabela"	3	2020-04-20
+"Galápagos"	"San Cristóbal"	13	2020-04-20
+"Galápagos"	"Santa Cruz"	38	2020-04-20
+"Galápagos"	"Isabela"	3	2020-04-21
+"Galápagos"	"San Cristóbal"	13	2020-04-21
+"Galápagos"	"Santa Cruz"	38	2020-04-21
+"Galápagos"	"Isabela"	3	2020-04-22
+"Galápagos"	"San Cristóbal"	13	2020-04-22
+"Galápagos"	"Santa Cruz"	38	2020-04-22
+"Galápagos"	"Isabela"	3	2020-04-23
+"Galápagos"	"San Cristóbal"	13	2020-04-23
+"Galápagos"	"Santa Cruz"	38	2020-04-23
+"Galápagos"	"Isabela"	3	2020-04-24
+"Galápagos"	"San Cristóbal"	13	2020-04-24
+"Galápagos"	"Santa Cruz"	38	2020-04-24
+"Galápagos"	"Isabela"	3	2020-04-25
+"Galápagos"	"San Cristóbal"	13	2020-04-25
+"Galápagos"	"Santa Cruz"	38	2020-04-25
+"Galápagos"	"Isabela"	3	2020-04-26
+"Galápagos"	"San Cristóbal"	13	2020-04-26
+"Galápagos"	"Santa Cruz"	38	2020-04-26
+"Galápagos"	"Isabela"	3	2020-04-27
+"Galápagos"	"San Cristóbal"	13	2020-04-27
+"Galápagos"	"Santa Cruz"	38	2020-04-27
+"Galápagos"	"Isabela"	4	2020-04-28
+"Galápagos"	"San Cristóbal"	14	2020-04-28
+"Galápagos"	"Santa Cruz"	42	2020-04-28
+"Galápagos"	"Isabela"	4	2020-04-29
+"Galápagos"	"San Cristóbal"	14	2020-04-29
+"Galápagos"	"Santa Cruz"	48	2020-04-29
+"Galápagos"	"Isabela"	4	2020-04-30
+"Galápagos"	"San Cristóbal"	14	2020-04-30
+"Galápagos"	"Santa Cruz"	50	2020-04-30
+"Galápagos"	"Isabela"	6	2020-05-01
+"Galápagos"	"San Cristóbal"	14	2020-05-01
+"Galápagos"	"Santa Cruz"	50	2020-05-01
+"Galápagos"	"Isabela"	6	2020-05-02
+"Galápagos"	"San Cristóbal"	14	2020-05-02
+"Galápagos"	"Santa Cruz"	50	2020-05-02
+"Galápagos"	"Isabela"	6	2020-05-03
+"Galápagos"	"San Cristóbal"	14	2020-05-03
+"Galápagos"	"Santa Cruz"	51	2020-05-03
+"Galápagos"	"Isabela"	6	2020-05-04
+"Galápagos"	"San Cristóbal"	14	2020-05-04
+"Galápagos"	"Santa Cruz"	51	2020-05-04
+"Galápagos"	"Isabela"	6	2020-05-05
+"Galápagos"	"San Cristóbal"	14	2020-05-05
+"Galápagos"	"Santa Cruz"	51	2020-05-05
+"Galápagos"	"Isabela"	6	2020-05-06
+"Galápagos"	"San Cristóbal"	14	2020-05-06
+"Galápagos"	"Santa Cruz"	50	2020-05-06
+"Galápagos"	"Isabela"	6	2020-05-07
+"Galápagos"	"San Cristóbal"	14	2020-05-07
+"Galápagos"	"Santa Cruz"	50	2020-05-07
+"Galápagos"	"Isabela"	5	2020-05-08
+"Galápagos"	"San Cristóbal"	15	2020-05-08
+"Galápagos"	"Santa Cruz"	50	2020-05-08
+"Galápagos"	"Isabela"	5	2020-05-09
+"Galápagos"	"San Cristóbal"	15	2020-05-09
+"Galápagos"	"Santa Cruz"	50	2020-05-09
+"Galápagos"	"Isabela"	5	2020-05-10
+"Galápagos"	"San Cristóbal"	15	2020-05-10
+"Galápagos"	"Santa Cruz"	50	2020-05-10
+"Galápagos"	"Isabela"	5	2020-05-11
+"Galápagos"	"San Cristóbal"	15	2020-05-11
+"Galápagos"	"Santa Cruz"	50	2020-05-11
+"Galápagos"	"Isabela"	5	2020-05-12
+"Galápagos"	"San Cristóbal"	16	2020-05-12
+"Galápagos"	"Santa Cruz"	50	2020-05-12
+"Galápagos"	"Isabela"	5	2020-05-13
+"Galápagos"	"San Cristóbal"	16	2020-05-13
+"Galápagos"	"Santa Cruz"	50	2020-05-13
+"Galápagos"	"Isabela"	5	2020-05-14
+"Galápagos"	"San Cristóbal"	16	2020-05-14
+"Galápagos"	"Santa Cruz"	50	2020-05-14
+"Galápagos"	"Isabela"	5	2020-05-15
+"Galápagos"	"San Cristóbal"	17	2020-05-15
+"Galápagos"	"Santa Cruz"	51	2020-05-15
+"Galápagos"	"Isabela"	5	2020-05-16
+"Galápagos"	"San Cristóbal"	17	2020-05-16
+"Galápagos"	"Santa Cruz"	51	2020-05-16
+"Galápagos"	"Isabela"	5	2020-05-17
+"Galápagos"	"San Cristóbal"	17	2020-05-17
+"Galápagos"	"Santa Cruz"	52	2020-05-17
+"Galápagos"	"Isabela"	5	2020-05-18
+"Galápagos"	"San Cristóbal"	17	2020-05-18
+"Galápagos"	"Santa Cruz"	52	2020-05-18
+"Galápagos"	"Isabela"	5	2020-05-19
+"Galápagos"	"San Cristóbal"	17	2020-05-19
+"Galápagos"	"Santa Cruz"	54	2020-05-19
+"Galápagos"	"Isabela"	5	2020-05-20
+"Galápagos"	"San Cristóbal"	17	2020-05-20
+"Galápagos"	"Santa Cruz"	54	2020-05-20
+"Galápagos"	"Isabela"	5	2020-05-21
+"Galápagos"	"San Cristóbal"	17	2020-05-21
+"Galápagos"	"Santa Cruz"	54	2020-05-21
+"Galápagos"	"Isabela"	5	2020-05-22
+"Galápagos"	"San Cristóbal"	17	2020-05-22
+"Galápagos"	"Santa Cruz"	54	2020-05-22
+"Galápagos"	"Isabela"	5	2020-05-23
+"Galápagos"	"San Cristóbal"	17	2020-05-23
+"Galápagos"	"Santa Cruz"	54	2020-05-23
+"Galápagos"	"Isabela"	5	2020-05-24
+"Galápagos"	"San Cristóbal"	17	2020-05-24
+"Galápagos"	"Santa Cruz"	54	2020-05-24
+"Galápagos"	"Isabela"	5	2020-05-25
+"Galápagos"	"San Cristóbal"	17	2020-05-25
+"Galápagos"	"Santa Cruz"	54	2020-05-25
+"Galápagos"	"Isabela"	5	2020-05-26
+"Galápagos"	"San Cristóbal"	17	2020-05-26
+"Galápagos"	"Santa Cruz"	54	2020-05-26
+"Galápagos"	"Isabela"	5	2020-05-27
+"Galápagos"	"San Cristóbal"	17	2020-05-27
+"Galápagos"	"Santa Cruz"	54	2020-05-27
+"Galápagos"	"Isabela"	5	2020-05-28
+"Galápagos"	"San Cristóbal"	17	2020-05-28
+"Galápagos"	"Santa Cruz"	54	2020-05-28
+"Galápagos"	"Isabela"	5	2020-05-29
+"Galápagos"	"San Cristóbal"	17	2020-05-29
+"Galápagos"	"Santa Cruz"	54	2020-05-29
+"Galápagos"	"Isabela"	5	2020-05-30
+"Galápagos"	"San Cristóbal"	17	2020-05-30
+"Galápagos"	"Santa Cruz"	54	2020-05-30
+"Galápagos"	"Isabela"	5	2020-05-31
+"Galápagos"	"San Cristóbal"	17	2020-05-31
+"Galápagos"	"Santa Cruz"	54	2020-05-31
+"Galápagos"	"Isabela"	5	2020-06-01
+"Galápagos"	"San Cristóbal"	17	2020-06-01
+"Galápagos"	"Santa Cruz"	54	2020-06-01
+"Galápagos"	"Isabela"	5	2020-06-02
+"Galápagos"	"San Cristóbal"	17	2020-06-02
+"Galápagos"	"Santa Cruz"	54	2020-06-02
+"Galápagos"	"Isabela"	5	2020-06-03
+"Galápagos"	"San Cristóbal"	17	2020-06-03
+"Galápagos"	"Santa Cruz"	54	2020-06-03
+"Galápagos"	"Isabela"	5	2020-06-04
+"Galápagos"	"San Cristóbal"	17	2020-06-04
+"Galápagos"	"Santa Cruz"	54	2020-06-04
+"Galápagos"	"Isabela"	5	2020-06-05
+"Galápagos"	"San Cristóbal"	17	2020-06-05
+"Galápagos"	"Santa Cruz"	54	2020-06-05
+"Galápagos"	"Isabela"	5	2020-06-06
+"Galápagos"	"San Cristóbal"	17	2020-06-06
+"Galápagos"	"Santa Cruz"	54	2020-06-06
+"Galápagos"	"Isabela"	5	2020-06-07
+"Galápagos"	"San Cristóbal"	17	2020-06-07
+"Galápagos"	"Santa Cruz"	54	2020-06-07
+"Galápagos"	"Isabela"	5	2020-06-08
+"Galápagos"	"San Cristóbal"	17	2020-06-08
+"Galápagos"	"Santa Cruz"	54	2020-06-08
+"Galápagos"	"Isabela"	5	2020-06-09
+"Galápagos"	"San Cristóbal"	17	2020-06-09
+"Galápagos"	"Santa Cruz"	54	2020-06-09
+"Galápagos"	"Isabela"	5	2020-06-10
+"Galápagos"	"San Cristóbal"	17	2020-06-10
+"Galápagos"	"Santa Cruz"	54	2020-06-10
+"Galápagos"	"Isabela"	5	2020-06-11
+"Galápagos"	"San Cristóbal"	17	2020-06-11
+"Galápagos"	"Santa Cruz"	54	2020-06-11
+"Galápagos"	"Isabela"	5	2020-06-12
+"Galápagos"	"San Cristóbal"	17	2020-06-12
+"Galápagos"	"Santa Cruz"	54	2020-06-12
+"Galápagos"	"Isabela"	5	2020-06-13
+"Galápagos"	"San Cristóbal"	17	2020-06-13
+"Galápagos"	"Santa Cruz"	55	2020-06-13
+"Galápagos"	"Isabela"	5	2020-06-14
+"Galápagos"	"San Cristóbal"	17	2020-06-14
+"Galápagos"	"Santa Cruz"	55	2020-06-14
+"Galápagos"	"Isabela"	5	2020-06-15
+"Galápagos"	"San Cristóbal"	17	2020-06-15
+"Galápagos"	"Santa Cruz"	55	2020-06-15
+"Galápagos"	"Isabela"	5	2020-06-16
+"Galápagos"	"San Cristóbal"	17	2020-06-16
+"Galápagos"	"Santa Cruz"	55	2020-06-16
+"Galápagos"	"Isabela"	5	2020-06-17
+"Galápagos"	"San Cristóbal"	17	2020-06-17
+"Galápagos"	"Santa Cruz"	55	2020-06-17
+"Galápagos"	"Isabela"	5	2020-06-18
+"Galápagos"	"San Cristóbal"	17	2020-06-18
+"Galápagos"	"Santa Cruz"	55	2020-06-18
+"Galápagos"	"Isabela"	5	2020-06-19
+"Galápagos"	"San Cristóbal"	17	2020-06-19
+"Galápagos"	"Santa Cruz"	55	2020-06-19
+"Galápagos"	"Isabela"	5	2020-06-20
+"Galápagos"	"San Cristóbal"	17	2020-06-20
+"Galápagos"	"Santa Cruz"	55	2020-06-20
+"Galápagos"	"Isabela"	5	2020-06-21
+"Galápagos"	"San Cristóbal"	17	2020-06-21
+"Galápagos"	"Santa Cruz"	55	2020-06-21
+"Galápagos"	"Isabela"	5	2020-06-22
+"Galápagos"	"San Cristóbal"	17	2020-06-22
+"Galápagos"	"Santa Cruz"	55	2020-06-22
+"Galápagos"	"Isabela"	6	2020-06-23
+"Galápagos"	"San Cristóbal"	17	2020-06-23
+"Galápagos"	"Santa Cruz"	55	2020-06-23
+"Galápagos"	"Isabela"	6	2020-06-24
+"Galápagos"	"San Cristóbal"	17	2020-06-24
+"Galápagos"	"Santa Cruz"	55	2020-06-24
+"Galápagos"	"Isabela"	6	2020-06-25
+"Galápagos"	"San Cristóbal"	17	2020-06-25
+"Galápagos"	"Santa Cruz"	55	2020-06-25
+"Galápagos"	"Isabela"	6	2020-06-26
+"Galápagos"	"San Cristóbal"	17	2020-06-26
+"Galápagos"	"Santa Cruz"	55	2020-06-26
+"Galápagos"	"Isabela"	6	2020-06-27
+"Galápagos"	"San Cristóbal"	17	2020-06-27
+"Galápagos"	"Santa Cruz"	55	2020-06-27
+"Galápagos"	"Isabela"	14	2020-06-28
+"Galápagos"	"San Cristóbal"	17	2020-06-28
+"Galápagos"	"Santa Cruz"	55	2020-06-28
+"Galápagos"	"Isabela"	14	2020-06-29
+"Galápagos"	"San Cristóbal"	17	2020-06-29
+"Galápagos"	"Santa Cruz"	55	2020-06-29
+"Galápagos"	"Isabela"	14	2020-06-30
+"Galápagos"	"San Cristóbal"	17	2020-06-30
+"Galápagos"	"Santa Cruz"	57	2020-06-30
+"Galápagos"	"Isabela"	14	2020-07-01
+"Galápagos"	"San Cristóbal"	17	2020-07-01
+"Galápagos"	"Santa Cruz"	66	2020-07-01
+"Galápagos"	"Isabela"	14	2020-07-02
+"Galápagos"	"San Cristóbal"	17	2020-07-02
+"Galápagos"	"Santa Cruz"	66	2020-07-02
+"Galápagos"	"Isabela"	14	2020-07-03
+"Galápagos"	"San Cristóbal"	17	2020-07-03
+"Galápagos"	"Santa Cruz"	66	2020-07-03
+"Galápagos"	"Isabela"	14	2020-07-04
+"Galápagos"	"San Cristóbal"	17	2020-07-04
+"Galápagos"	"Santa Cruz"	69	2020-07-04
+"Galápagos"	"Isabela"	14	2020-07-05
+"Galápagos"	"San Cristóbal"	17	2020-07-05
+"Galápagos"	"Santa Cruz"	69	2020-07-05
+"Galápagos"	"Isabela"	14	2020-07-06
+"Galápagos"	"San Cristóbal"	17	2020-07-06
+"Galápagos"	"Santa Cruz"	69	2020-07-06
+"Galápagos"	"Isabela"	14	2020-07-07
+"Galápagos"	"San Cristóbal"	17	2020-07-07
+"Galápagos"	"Santa Cruz"	69	2020-07-07
+"Galápagos"	"Isabela"	14	2020-07-08
+"Galápagos"	"San Cristóbal"	17	2020-07-08
+"Galápagos"	"Santa Cruz"	69	2020-07-08
+"Galápagos"	"Isabela"	14	2020-07-09
+"Galápagos"	"San Cristóbal"	17	2020-07-09
+"Galápagos"	"Santa Cruz"	69	2020-07-09
+"Galápagos"	"Isabela"	14	2020-07-10
+"Galápagos"	"San Cristóbal"	17	2020-07-10
+"Galápagos"	"Santa Cruz"	69	2020-07-10
+"Galápagos"	"Isabela"	14	2020-07-11
+"Galápagos"	"San Cristóbal"	17	2020-07-11
+"Galápagos"	"Santa Cruz"	69	2020-07-11
+"Galápagos"	"Isabela"	14	2020-07-12
+"Galápagos"	"San Cristóbal"	17	2020-07-12
+"Galápagos"	"Santa Cruz"	69	2020-07-12
+"Galápagos"	"Isabela"	14	2020-07-13
+"Galápagos"	"San Cristóbal"	17	2020-07-13
+"Galápagos"	"Santa Cruz"	69	2020-07-13
+"Galápagos"	"Isabela"	14	2020-07-14
+"Galápagos"	"San Cristóbal"	17	2020-07-14
+"Galápagos"	"Santa Cruz"	69	2020-07-14
+"Galápagos"	"Isabela"	14	2020-07-15
+"Galápagos"	"San Cristóbal"	17	2020-07-15
+"Galápagos"	"Santa Cruz"	69	2020-07-15
+"Galápagos"	"Isabela"	14	2020-07-16
+"Galápagos"	"San Cristóbal"	17	2020-07-16
+"Galápagos"	"Santa Cruz"	69	2020-07-16
+"Galápagos"	"Isabela"	14	2020-07-17
+"Galápagos"	"San Cristóbal"	18	2020-07-17
+"Galápagos"	"Santa Cruz"	69	2020-07-17
+"Galápagos"	"Isabela"	14	2020-07-18
+"Galápagos"	"San Cristóbal"	18	2020-07-18
+"Galápagos"	"Santa Cruz"	69	2020-07-18
+"Galápagos"	"Isabela"	14	2020-07-19
+"Galápagos"	"San Cristóbal"	18	2020-07-19
+"Galápagos"	"Santa Cruz"	69	2020-07-19
+"Galápagos"	"Isabela"	14	2020-07-20
+"Galápagos"	"San Cristóbal"	18	2020-07-20
+"Galápagos"	"Santa Cruz"	69	2020-07-20
+"Galápagos"	"Isabela"	14	2020-07-21
+"Galápagos"	"San Cristóbal"	18	2020-07-21
+"Galápagos"	"Santa Cruz"	69	2020-07-21
+"Galápagos"	"Isabela"	14	2020-07-22
+"Galápagos"	"San Cristóbal"	18	2020-07-22
+"Galápagos"	"Santa Cruz"	69	2020-07-22
+"Galápagos"	"Isabela"	14	2020-07-23
+"Galápagos"	"San Cristóbal"	18	2020-07-23
+"Galápagos"	"Santa Cruz"	69	2020-07-23
+"Galápagos"	"Isabela"	14	2020-07-24
+"Galápagos"	"San Cristóbal"	18	2020-07-24
+"Galápagos"	"Santa Cruz"	69	2020-07-24
+"Galápagos"	"Isabela"	14	2020-07-25
+"Galápagos"	"San Cristóbal"	18	2020-07-25
+"Galápagos"	"Santa Cruz"	69	2020-07-25
+"Galápagos"	"Isabela"	14	2020-07-26
+"Galápagos"	"San Cristóbal"	18	2020-07-26
+"Galápagos"	"Santa Cruz"	69	2020-07-26
+"Galápagos"	"Isabela"	14	2020-07-27
+"Galápagos"	"San Cristóbal"	18	2020-07-27
+"Galápagos"	"Santa Cruz"	69	2020-07-27
+"Galápagos"	"Isabela"	14	2020-07-28
+"Galápagos"	"San Cristóbal"	18	2020-07-28
+"Galápagos"	"Santa Cruz"	71	2020-07-28
+"Galápagos"	"Isabela"	14	2020-07-29
+"Galápagos"	"San Cristóbal"	18	2020-07-29
+"Galápagos"	"Santa Cruz"	71	2020-07-29
+"Galápagos"	"Isabela"	14	2020-07-30
+"Galápagos"	"San Cristóbal"	18	2020-07-30
+"Galápagos"	"Santa Cruz"	71	2020-07-30
+"Galápagos"	"Isabela"	14	2020-07-31
+"Galápagos"	"San Cristóbal"	18	2020-07-31
+"Galápagos"	"Santa Cruz"	71	2020-07-31
+"Galápagos"	"Isabela"	14	2020-08-01
+"Galápagos"	"San Cristóbal"	18	2020-08-01
+"Galápagos"	"Santa Cruz"	71	2020-08-01
+"Galápagos"	"Isabela"	14	2020-08-02
+"Galápagos"	"San Cristóbal"	18	2020-08-02
+"Galápagos"	"Santa Cruz"	71	2020-08-02
+"Galápagos"	"Isabela"	14	2020-08-03
+"Galápagos"	"San Cristóbal"	18	2020-08-03
+"Galápagos"	"Santa Cruz"	71	2020-08-03
+"Galápagos"	"Isabela"	14	2020-08-04
+"Galápagos"	"San Cristóbal"	18	2020-08-04
+"Galápagos"	"Santa Cruz"	71	2020-08-04
+"Galápagos"	"Isabela"	14	2020-08-05
+"Galápagos"	"San Cristóbal"	18	2020-08-05
+"Galápagos"	"Santa Cruz"	71	2020-08-05
+"Galápagos"	"Isabela"	14	2020-08-06
+"Galápagos"	"San Cristóbal"	18	2020-08-06
+"Galápagos"	"Santa Cruz"	72	2020-08-06
+"Galápagos"	"Isabela"	14	2020-08-07
+"Galápagos"	"San Cristóbal"	18	2020-08-07
+"Galápagos"	"Santa Cruz"	72	2020-08-07
+"Galápagos"	"Isabela"	14	2020-08-08
+"Galápagos"	"San Cristóbal"	18	2020-08-08
+"Galápagos"	"Santa Cruz"	72	2020-08-08
+"Galápagos"	"Isabela"	14	2020-08-09
+"Galápagos"	"San Cristóbal"	18	2020-08-09
+"Galápagos"	"Santa Cruz"	72	2020-08-09
+"Galápagos"	"Isabela"	14	2020-08-10
+"Galápagos"	"San Cristóbal"	18	2020-08-10
+"Galápagos"	"Santa Cruz"	72	2020-08-10
+"Galápagos"	"Isabela"	14	2020-08-11
+"Galápagos"	"San Cristóbal"	18	2020-08-11
+"Galápagos"	"Santa Cruz"	72	2020-08-11
+"Galápagos"	"Isabela"	14	2020-08-12
+"Galápagos"	"San Cristóbal"	18	2020-08-12
+"Galápagos"	"Santa Cruz"	73	2020-08-12
+"Galápagos"	"Isabela"	14	2020-08-13
+"Galápagos"	"San Cristóbal"	19	2020-08-13
+"Galápagos"	"Santa Cruz"	73	2020-08-13
+"Galápagos"	"Isabela"	14	2020-08-14
+"Galápagos"	"San Cristóbal"	19	2020-08-14
+"Galápagos"	"Santa Cruz"	73	2020-08-14
+"Galápagos"	"Isabela"	14	2020-08-15
+"Galápagos"	"San Cristóbal"	19	2020-08-15
+"Galápagos"	"Santa Cruz"	73	2020-08-15
+"Galápagos"	"Isabela"	14	2020-08-16
+"Galápagos"	"San Cristóbal"	19	2020-08-16
+"Galápagos"	"Santa Cruz"	73	2020-08-16
+"Galápagos"	"Isabela"	14	2020-08-17
+"Galápagos"	"San Cristóbal"	19	2020-08-17
+"Galápagos"	"Santa Cruz"	73	2020-08-17
+"Galápagos"	"Isabela"	14	2020-08-18
+"Galápagos"	"San Cristóbal"	21	2020-08-18
+"Galápagos"	"Santa Cruz"	74	2020-08-18
+"Galápagos"	"Isabela"	14	2020-08-19
+"Galápagos"	"San Cristóbal"	21	2020-08-19
+"Galápagos"	"Santa Cruz"	74	2020-08-19
+"Galápagos"	"Isabela"	14	2020-08-20
+"Galápagos"	"San Cristóbal"	21	2020-08-20
+"Galápagos"	"Santa Cruz"	74	2020-08-20
+"Galápagos"	"Isabela"	14	2020-08-21
+"Galápagos"	"San Cristóbal"	21	2020-08-21
+"Galápagos"	"Santa Cruz"	74	2020-08-21
+"Galápagos"	"Isabela"	14	2020-08-22
+"Galápagos"	"San Cristóbal"	21	2020-08-22
+"Galápagos"	"Santa Cruz"	74	2020-08-22
+"Galápagos"	"Isabela"	14	2020-08-23
+"Galápagos"	"San Cristóbal"	21	2020-08-23
+"Galápagos"	"Santa Cruz"	74	2020-08-23
+"Galápagos"	"Isabela"	14	2020-08-24
+"Galápagos"	"San Cristóbal"	21	2020-08-24
+"Galápagos"	"Santa Cruz"	74	2020-08-24
+"Galápagos"	"Isabela"	14	2020-08-25
+"Galápagos"	"San Cristóbal"	21	2020-08-25
+"Galápagos"	"Santa Cruz"	74	2020-08-25
+"Galápagos"	"Isabela"	14	2020-08-26
+"Galápagos"	"San Cristóbal"	21	2020-08-26
+"Galápagos"	"Santa Cruz"	74	2020-08-26
+"Galápagos"	"Isabela"	14	2020-08-27
+"Galápagos"	"San Cristóbal"	21	2020-08-27
+"Galápagos"	"Santa Cruz"	74	2020-08-27
+"Galápagos"	"Isabela"	14	2020-08-28
+"Galápagos"	"San Cristóbal"	21	2020-08-28
+"Galápagos"	"Santa Cruz"	74	2020-08-28
+"Galápagos"	"Isabela"	14	2020-08-29
+"Galápagos"	"San Cristóbal"	21	2020-08-29
+"Galápagos"	"Santa Cruz"	74	2020-08-29
+"Galápagos"	"Isabela"	14	2020-08-30
+"Galápagos"	"San Cristóbal"	21	2020-08-30
+"Galápagos"	"Santa Cruz"	74	2020-08-30
+"Galápagos"	"Isabela"	14	2020-08-31
+"Galápagos"	"San Cristóbal"	21	2020-08-31
+"Galápagos"	"Santa Cruz"	74	2020-08-31
+"Galápagos"	"Isabela"	14	2020-09-01
+"Galápagos"	"San Cristóbal"	21	2020-09-01
+"Galápagos"	"Santa Cruz"	74	2020-09-01
+"Galápagos"	"Isabela"	14	2020-09-02
+"Galápagos"	"San Cristóbal"	21	2020-09-02
+"Galápagos"	"Santa Cruz"	74	2020-09-02
+"Galápagos"	"Isabela"	14	2020-09-03
+"Galápagos"	"San Cristóbal"	21	2020-09-03
+"Galápagos"	"Santa Cruz"	74	2020-09-03
+"Galápagos"	"Isabela"	14	2020-09-04
+"Galápagos"	"San Cristóbal"	21	2020-09-04
+"Galápagos"	"Santa Cruz"	74	2020-09-04
+"Galápagos"	"Isabela"	14	2020-09-05
+"Galápagos"	"San Cristóbal"	21	2020-09-05
+"Galápagos"	"Santa Cruz"	74	2020-09-05
+"Galápagos"	"Isabela"	14	2020-09-06
+"Galápagos"	"San Cristóbal"	21	2020-09-06
+"Galápagos"	"Santa Cruz"	74	2020-09-06
+"Galápagos"	"Isabela"	14	2020-09-07
+"Galápagos"	"San Cristóbal"	21	2020-09-07
+"Galápagos"	"Santa Cruz"	143	2020-09-07
+"Galápagos"	"Isabela"	14	2020-09-08
+"Galápagos"	"San Cristóbal"	21	2020-09-08
+"Galápagos"	"Santa Cruz"	143	2020-09-08
+"Galápagos"	"Isabela"	14	2020-09-09
+"Galápagos"	"San Cristóbal"	21	2020-09-09
+"Galápagos"	"Santa Cruz"	143	2020-09-09
+"Galápagos"	"Isabela"	14	2020-09-10
+"Galápagos"	"San Cristóbal"	21	2020-09-10
+"Galápagos"	"Santa Cruz"	143	2020-09-10
+"Galápagos"	"Isabela"	14	2020-09-11
+"Galápagos"	"San Cristóbal"	21	2020-09-11
+"Galápagos"	"Santa Cruz"	144	2020-09-11
+"Galápagos"	"Isabela"	14	2020-09-12
+"Galápagos"	"San Cristóbal"	21	2020-09-12
+"Galápagos"	"Santa Cruz"	144	2020-09-12
+"Galápagos"	"Isabela"	14	2020-09-13
+"Galápagos"	"San Cristóbal"	24	2020-09-13
+"Galápagos"	"Santa Cruz"	144	2020-09-13
+"Galápagos"	"Isabela"	14	2020-09-14
+"Galápagos"	"San Cristóbal"	24	2020-09-14
+"Galápagos"	"Santa Cruz"	144	2020-09-14
+"Galápagos"	"Isabela"	14	2020-09-15
+"Galápagos"	"San Cristóbal"	24	2020-09-15
+"Galápagos"	"Santa Cruz"	144	2020-09-15
+"Galápagos"	"Isabela"	14	2020-09-16
+"Galápagos"	"San Cristóbal"	25	2020-09-16
+"Galápagos"	"Santa Cruz"	145	2020-09-16
+"Galápagos"	"Isabela"	14	2020-09-17
+"Galápagos"	"San Cristóbal"	26	2020-09-17
+"Galápagos"	"Santa Cruz"	146	2020-09-17
+"Galápagos"	"Isabela"	14	2020-09-18
+"Galápagos"	"San Cristóbal"	26	2020-09-18
+"Galápagos"	"Santa Cruz"	146	2020-09-18
+"Galápagos"	"Isabela"	14	2020-09-19
+"Galápagos"	"San Cristóbal"	26	2020-09-19
+"Galápagos"	"Santa Cruz"	146	2020-09-19
+"Galápagos"	"Isabela"	14	2020-09-20
+"Galápagos"	"San Cristóbal"	26	2020-09-20
+"Galápagos"	"Santa Cruz"	146	2020-09-20
+"Galápagos"	"Isabela"	14	2020-09-21
+"Galápagos"	"San Cristóbal"	26	2020-09-21
+"Galápagos"	"Santa Cruz"	146	2020-09-21
+"Galápagos"	"Isabela"	14	2020-09-22
+"Galápagos"	"San Cristóbal"	26	2020-09-22
+"Galápagos"	"Santa Cruz"	146	2020-09-22
+"Galápagos"	"Isabela"	14	2020-09-23
+"Galápagos"	"San Cristóbal"	26	2020-09-23
+"Galápagos"	"Santa Cruz"	146	2020-09-23
+"Galápagos"	"Isabela"	14	2020-09-24
+"Galápagos"	"San Cristóbal"	28	2020-09-24
+"Galápagos"	"Santa Cruz"	146	2020-09-24
+"Galápagos"	"Isabela"	14	2020-09-25
+"Galápagos"	"San Cristóbal"	32	2020-09-25
+"Galápagos"	"Santa Cruz"	146	2020-09-25
+"Galápagos"	"Isabela"	14	2020-09-26
+"Galápagos"	"San Cristóbal"	37	2020-09-26
+"Galápagos"	"Santa Cruz"	146	2020-09-26
+"Galápagos"	"Isabela"	14	2020-09-27
+"Galápagos"	"San Cristóbal"	37	2020-09-27
+"Galápagos"	"Santa Cruz"	146	2020-09-27
+"Galápagos"	"Isabela"	14	2020-09-28
+"Galápagos"	"San Cristóbal"	37	2020-09-28
+"Galápagos"	"Santa Cruz"	146	2020-09-28
+"Galápagos"	"Isabela"	14	2020-09-29
+"Galápagos"	"San Cristóbal"	37	2020-09-29
+"Galápagos"	"Santa Cruz"	146	2020-09-29
+"Galápagos"	"Isabela"	14	2020-09-30
+"Galápagos"	"San Cristóbal"	38	2020-09-30
+"Galápagos"	"Santa Cruz"	146	2020-09-30
+"Galápagos"	"Isabela"	14	2020-10-01
+"Galápagos"	"San Cristóbal"	38	2020-10-01
+"Galápagos"	"Santa Cruz"	146	2020-10-01
+"Galápagos"	"Isabela"	14	2020-10-02
+"Galápagos"	"San Cristóbal"	38	2020-10-02
+"Galápagos"	"Santa Cruz"	147	2020-10-02
+"Galápagos"	"Isabela"	14	2020-10-03
+"Galápagos"	"San Cristóbal"	38	2020-10-03
+"Galápagos"	"Santa Cruz"	147	2020-10-03
+"Galápagos"	"Isabela"	14	2020-10-04
+"Galápagos"	"San Cristóbal"	38	2020-10-04
+"Galápagos"	"Santa Cruz"	147	2020-10-04
+"Galápagos"	"Isabela"	14	2020-10-05
+"Galápagos"	"San Cristóbal"	38	2020-10-05
+"Galápagos"	"Santa Cruz"	147	2020-10-05
+"Galápagos"	"Isabela"	14	2020-10-06
+"Galápagos"	"San Cristóbal"	38	2020-10-06
+"Galápagos"	"Santa Cruz"	147	2020-10-06
+"Galápagos"	"Isabela"	14	2020-10-07
+"Galápagos"	"San Cristóbal"	38	2020-10-07
+"Galápagos"	"Santa Cruz"	147	2020-10-07
+"Galápagos"	"Isabela"	14	2020-10-08
+"Galápagos"	"San Cristóbal"	38	2020-10-08
+"Galápagos"	"Santa Cruz"	147	2020-10-08
+"Galápagos"	"Isabela"	14	2020-10-09
+"Galápagos"	"San Cristóbal"	38	2020-10-09
+"Galápagos"	"Santa Cruz"	147	2020-10-09
+"Galápagos"	"Isabela"	14	2020-10-10
+"Galápagos"	"San Cristóbal"	38	2020-10-10
+"Galápagos"	"Santa Cruz"	147	2020-10-10
+"Galápagos"	"Isabela"	14	2020-10-11
+"Galápagos"	"San Cristóbal"	39	2020-10-11
+"Galápagos"	"Santa Cruz"	147	2020-10-11
+"Galápagos"	"Isabela"	14	2020-10-12
+"Galápagos"	"San Cristóbal"	39	2020-10-12
+"Galápagos"	"Santa Cruz"	147	2020-10-12
+"Galápagos"	"Isabela"	14	2020-10-13
+"Galápagos"	"San Cristóbal"	39	2020-10-13
+"Galápagos"	"Santa Cruz"	149	2020-10-13
+"Galápagos"	"Isabela"	14	2020-10-14
+"Galápagos"	"San Cristóbal"	39	2020-10-14
+"Galápagos"	"Santa Cruz"	149	2020-10-14
+"Galápagos"	"Isabela"	14	2020-10-15
+"Galápagos"	"San Cristóbal"	41	2020-10-15
+"Galápagos"	"Santa Cruz"	150	2020-10-15
+"Galápagos"	"Isabela"	14	2020-10-16
+"Galápagos"	"San Cristóbal"	41	2020-10-16
+"Galápagos"	"Santa Cruz"	150	2020-10-16
+"Galápagos"	"Isabela"	14	2020-10-17
+"Galápagos"	"San Cristóbal"	48	2020-10-17
+"Galápagos"	"Santa Cruz"	150	2020-10-17
+"Galápagos"	"Isabela"	14	2020-10-18
+"Galápagos"	"San Cristóbal"	48	2020-10-18
+"Galápagos"	"Santa Cruz"	150	2020-10-18
+"Galápagos"	"Isabela"	14	2020-10-19
+"Galápagos"	"San Cristóbal"	48	2020-10-19
+"Galápagos"	"Santa Cruz"	150	2020-10-19
+"Galápagos"	"Isabela"	14	2020-10-20
+"Galápagos"	"San Cristóbal"	48	2020-10-20
+"Galápagos"	"Santa Cruz"	151	2020-10-20
+"Galápagos"	"Isabela"	14	2020-10-21
+"Galápagos"	"San Cristóbal"	48	2020-10-21
+"Galápagos"	"Santa Cruz"	153	2020-10-21
+"Galápagos"	"Isabela"	14	2020-10-22
+"Galápagos"	"San Cristóbal"	48	2020-10-22
+"Galápagos"	"Santa Cruz"	153	2020-10-22
+"Galápagos"	"Isabela"	14	2020-10-23
+"Galápagos"	"San Cristóbal"	48	2020-10-23
+"Galápagos"	"Santa Cruz"	155	2020-10-23
+"Galápagos"	"Isabela"	14	2020-10-24
+"Galápagos"	"San Cristóbal"	48	2020-10-24
+"Galápagos"	"Santa Cruz"	155	2020-10-24
+"Galápagos"	"Isabela"	14	2020-10-25
+"Galápagos"	"San Cristóbal"	50	2020-10-25
+"Galápagos"	"Santa Cruz"	156	2020-10-25
+"Galápagos"	"Isabela"	14	2020-10-26
+"Galápagos"	"San Cristóbal"	50	2020-10-26
+"Galápagos"	"Santa Cruz"	156	2020-10-26
+"Galápagos"	"Isabela"	14	2020-10-27
+"Galápagos"	"San Cristóbal"	50	2020-10-27
+"Galápagos"	"Santa Cruz"	156	2020-10-27
+"Galápagos"	"Isabela"	14	2020-10-28
+"Galápagos"	"San Cristóbal"	50	2020-10-28
+"Galápagos"	"Santa Cruz"	157	2020-10-28
+"Galápagos"	"Isabela"	14	2020-10-29
+"Galápagos"	"San Cristóbal"	50	2020-10-29
+"Galápagos"	"Santa Cruz"	159	2020-10-29
+"Galápagos"	"Isabela"	14	2020-10-30
+"Galápagos"	"San Cristóbal"	50	2020-10-30
+"Galápagos"	"Santa Cruz"	161	2020-10-30
+"Galápagos"	"Isabela"	14	2020-10-31
+"Galápagos"	"San Cristóbal"	50	2020-10-31
+"Galápagos"	"Santa Cruz"	163	2020-10-31
+"Galápagos"	"Isabela"	14	2020-11-01
+"Galápagos"	"San Cristóbal"	50	2020-11-01
+"Galápagos"	"Santa Cruz"	163	2020-11-01
+"Galápagos"	"Isabela"	14	2020-11-02
+"Galápagos"	"San Cristóbal"	50	2020-11-02
+"Galápagos"	"Santa Cruz"	163	2020-11-02
+"Galápagos"	"Isabela"	14	2020-11-03
+"Galápagos"	"San Cristóbal"	50	2020-11-03
+"Galápagos"	"Santa Cruz"	163	2020-11-03
+"Galápagos"	"Isabela"	14	2020-11-04
+"Galápagos"	"San Cristóbal"	50	2020-11-04
+"Galápagos"	"Santa Cruz"	163	2020-11-04
+"Galápagos"	"Isabela"	14	2020-11-05
+"Galápagos"	"San Cristóbal"	50	2020-11-05
+"Galápagos"	"Santa Cruz"	163	2020-11-05
+"Galápagos"	"Isabela"	14	2020-11-06
+"Galápagos"	"San Cristóbal"	50	2020-11-06
+"Galápagos"	"Santa Cruz"	164	2020-11-06
+"Galápagos"	"Isabela"	14	2020-11-07
+"Galápagos"	"San Cristóbal"	50	2020-11-07
+"Galápagos"	"Santa Cruz"	164	2020-11-07
+"Galápagos"	"Isabela"	14	2020-11-08
+"Galápagos"	"San Cristóbal"	51	2020-11-08
+"Galápagos"	"Santa Cruz"	165	2020-11-08
+"Galápagos"	"Isabela"	14	2020-11-09
+"Galápagos"	"San Cristóbal"	51	2020-11-09
+"Galápagos"	"Santa Cruz"	165	2020-11-09
+"Galápagos"	"Isabela"	14	2020-11-10
+"Galápagos"	"San Cristóbal"	51	2020-11-10
+"Galápagos"	"Santa Cruz"	165	2020-11-10
+"Galápagos"	"Isabela"	14	2020-11-11
+"Galápagos"	"San Cristóbal"	52	2020-11-11
+"Galápagos"	"Santa Cruz"	165	2020-11-11
+"Galápagos"	"Isabela"	14	2020-11-12
+"Galápagos"	"San Cristóbal"	53	2020-11-12
+"Galápagos"	"Santa Cruz"	165	2020-11-12
+"Galápagos"	"Isabela"	14	2020-11-13
+"Galápagos"	"San Cristóbal"	53	2020-11-13
+"Galápagos"	"Santa Cruz"	165	2020-11-13
+"Galápagos"	"Isabela"	14	2020-11-14
+"Galápagos"	"San Cristóbal"	54	2020-11-14
+"Galápagos"	"Santa Cruz"	165	2020-11-14
+"Galápagos"	"Isabela"	14	2020-11-15
+"Galápagos"	"San Cristóbal"	54	2020-11-15
+"Galápagos"	"Santa Cruz"	165	2020-11-15
+"Galápagos"	"Isabela"	14	2020-11-16
+"Galápagos"	"San Cristóbal"	54	2020-11-16
+"Galápagos"	"Santa Cruz"	165	2020-11-16
+"Galápagos"	"Isabela"	14	2020-11-17
+"Galápagos"	"San Cristóbal"	54	2020-11-17
+"Galápagos"	"Santa Cruz"	165	2020-11-17
+"Galápagos"	"Isabela"	14	2020-11-18
+"Galápagos"	"San Cristóbal"	54	2020-11-18
+"Galápagos"	"Santa Cruz"	165	2020-11-18
+"Galápagos"	"Isabela"	14	2020-11-19
+"Galápagos"	"San Cristóbal"	59	2020-11-19
+"Galápagos"	"Santa Cruz"	166	2020-11-19
+"Galápagos"	"Isabela"	14	2020-11-20
+"Galápagos"	"San Cristóbal"	63	2020-11-20
+"Galápagos"	"Santa Cruz"	166	2020-11-20
+"Galápagos"	"Isabela"	15	2020-11-21
+"Galápagos"	"San Cristóbal"	77	2020-11-21
+"Galápagos"	"Santa Cruz"	166	2020-11-21
+"Galápagos"	"Isabela"	15	2020-11-22
+"Galápagos"	"San Cristóbal"	81	2020-11-22
+"Galápagos"	"Santa Cruz"	279	2020-11-22
+"Galápagos"	"Isabela"	15	2020-11-23
+"Galápagos"	"San Cristóbal"	118	2020-11-23
+"Galápagos"	"Santa Cruz"	280	2020-11-23
+"Galápagos"	"Isabela"	15	2020-11-24
+"Galápagos"	"San Cristóbal"	118	2020-11-24
+"Galápagos"	"Santa Cruz"	303	2020-11-24
+"Galápagos"	"Isabela"	15	2020-11-25
+"Galápagos"	"San Cristóbal"	118	2020-11-25
+"Galápagos"	"Santa Cruz"	303	2020-11-25
+"Galápagos"	"Isabela"	15	2020-11-26
+"Galápagos"	"San Cristóbal"	130	2020-11-26
+"Galápagos"	"Santa Cruz"	382	2020-11-26
+"Galápagos"	"Isabela"	25	2020-11-27
+"Galápagos"	"San Cristóbal"	134	2020-11-27
+"Galápagos"	"Santa Cruz"	384	2020-11-27
+"Galápagos"	"Isabela"	35	2020-11-28
+"Galápagos"	"San Cristóbal"	134	2020-11-28
+"Galápagos"	"Santa Cruz"	391	2020-11-28
+"Galápagos"	"Isabela"	51	2020-11-29
+"Galápagos"	"San Cristóbal"	134	2020-11-29
+"Galápagos"	"Santa Cruz"	402	2020-11-29
+"Galápagos"	"Isabela"	71	2020-11-30
+"Galápagos"	"San Cristóbal"	135	2020-11-30
+"Galápagos"	"Santa Cruz"	422	2020-11-30
+"Galápagos"	"Isabela"	92	2020-12-01
+"Galápagos"	"San Cristóbal"	135	2020-12-01
+"Galápagos"	"Santa Cruz"	449	2020-12-01
+"Galápagos"	"Isabela"	129	2020-12-02
+"Galápagos"	"San Cristóbal"	135	2020-12-02
+"Galápagos"	"Santa Cruz"	449	2020-12-02
+"Galápagos"	"Isabela"	262	2020-12-03
+"Galápagos"	"San Cristóbal"	135	2020-12-03
+"Galápagos"	"Santa Cruz"	449	2020-12-03
+"Galápagos"	"Isabela"	262	2020-12-04
+"Galápagos"	"San Cristóbal"	135	2020-12-04
+"Galápagos"	"Santa Cruz"	449	2020-12-04
+"Galápagos"	"Isabela"	262	2020-12-05
+"Galápagos"	"San Cristóbal"	136	2020-12-05
+"Galápagos"	"Santa Cruz"	449	2020-12-05
+"Galápagos"	"Isabela"	262	2020-12-06
+"Galápagos"	"San Cristóbal"	136	2020-12-06
+"Galápagos"	"Santa Cruz"	449	2020-12-06
+"Galápagos"	"Isabela"	262	2020-12-07
+"Galápagos"	"San Cristóbal"	136	2020-12-07
+"Galápagos"	"Santa Cruz"	449	2020-12-07
+"Galápagos"	"Isabela"	262	2020-12-08
+"Galápagos"	"San Cristóbal"	136	2020-12-08
+"Galápagos"	"Santa Cruz"	461	2020-12-08
+"Galápagos"	"Isabela"	262	2020-12-09
+"Galápagos"	"San Cristóbal"	137	2020-12-09
+"Galápagos"	"Santa Cruz"	461	2020-12-09
+"Galápagos"	"Isabela"	262	2020-12-10
+"Galápagos"	"San Cristóbal"	137	2020-12-10
+"Galápagos"	"Santa Cruz"	461	2020-12-10
+"Galápagos"	"Isabela"	262	2020-12-11
+"Galápagos"	"San Cristóbal"	137	2020-12-11
+"Galápagos"	"Santa Cruz"	461	2020-12-11
+"Galápagos"	"Isabela"	262	2020-12-12
+"Galápagos"	"San Cristóbal"	137	2020-12-12
+"Galápagos"	"Santa Cruz"	461	2020-12-12
+"Galápagos"	"Isabela"	262	2020-12-13
+"Galápagos"	"San Cristóbal"	137	2020-12-13
+"Galápagos"	"Santa Cruz"	462	2020-12-13
+"Galápagos"	"Isabela"	262	2020-12-14
+"Galápagos"	"San Cristóbal"	137	2020-12-14
+"Galápagos"	"Santa Cruz"	462	2020-12-14
+"Galápagos"	"Isabela"	262	2020-12-15
+"Galápagos"	"San Cristóbal"	137	2020-12-15
+"Galápagos"	"Santa Cruz"	462	2020-12-15
+"Galápagos"	"Isabela"	262	2020-12-16
+"Galápagos"	"San Cristóbal"	137	2020-12-16
+"Galápagos"	"Santa Cruz"	462	2020-12-16
+"Galápagos"	"Isabela"	262	2020-12-17
+"Galápagos"	"San Cristóbal"	137	2020-12-17
+"Galápagos"	"Santa Cruz"	462	2020-12-17
+"Galápagos"	"Isabela"	262	2020-12-18
+"Galápagos"	"San Cristóbal"	137	2020-12-18
+"Galápagos"	"Santa Cruz"	468	2020-12-18
+"Galápagos"	"Isabela"	262	2020-12-19
+"Galápagos"	"San Cristóbal"	138	2020-12-19
+"Galápagos"	"Santa Cruz"	493	2020-12-19
+"Galápagos"	"Isabela"	262	2020-12-20
+"Galápagos"	"San Cristóbal"	138	2020-12-20
+"Galápagos"	"Santa Cruz"	493	2020-12-20
+"Galápagos"	"Isabela"	262	2020-12-21
+"Galápagos"	"San Cristóbal"	139	2020-12-21
+"Galápagos"	"Santa Cruz"	493	2020-12-21
+"Galápagos"	"Isabela"	262	2020-12-22
+"Galápagos"	"San Cristóbal"	139	2020-12-22
+"Galápagos"	"Santa Cruz"	493	2020-12-22
+"Galápagos"	"Isabela"	262	2020-12-23
+"Galápagos"	"San Cristóbal"	142	2020-12-23
+"Galápagos"	"Santa Cruz"	496	2020-12-23
+"Galápagos"	"Isabela"	262	2020-12-24
+"Galápagos"	"San Cristóbal"	142	2020-12-24
+"Galápagos"	"Santa Cruz"	497	2020-12-24
+"Galápagos"	"Isabela"	262	2020-12-25
+"Galápagos"	"San Cristóbal"	142	2020-12-25
+"Galápagos"	"Santa Cruz"	499	2020-12-25
+"Galápagos"	"Isabela"	262	2020-12-26
+"Galápagos"	"San Cristóbal"	142	2020-12-26
+"Galápagos"	"Santa Cruz"	499	2020-12-26
+"Galápagos"	"Isabela"	262	2020-12-27
+"Galápagos"	"San Cristóbal"	142	2020-12-27
+"Galápagos"	"Santa Cruz"	499	2020-12-27
+"Galápagos"	"Isabela"	262	2020-12-28
+"Galápagos"	"San Cristóbal"	142	2020-12-28
+"Galápagos"	"Santa Cruz"	500	2020-12-28
+"Galápagos"	"Isabela"	263	2020-12-29
+"Galápagos"	"San Cristóbal"	142	2020-12-29
+"Galápagos"	"Santa Cruz"	500	2020-12-29
+"Galápagos"	"Isabela"	271	2020-12-30
+"Galápagos"	"San Cristóbal"	143	2020-12-30
+"Galápagos"	"Santa Cruz"	504	2020-12-30
+"Galápagos"	"Isabela"	271	2020-12-31
+"Galápagos"	"San Cristóbal"	143	2020-12-31
+"Galápagos"	"Santa Cruz"	504	2020-12-31
 "Galápagos"	"Isabela"	271	2021-01-01
 "Galápagos"	"San Cristóbal"	143	2021-01-01
 "Galápagos"	"Santa Cruz"	506	2021-01-01
@@ -1421,3 +2303,27 @@
 "Galápagos"	"Isabela"	466	2022-04-19
 "Galápagos"	"San Cristóbal"	931	2022-04-19
 "Galápagos"	"Santa Cruz"	1704	2022-04-19
+"Galápagos"	"Isabela"	466	2022-04-20
+"Galápagos"	"San Cristóbal"	931	2022-04-20
+"Galápagos"	"Santa Cruz"	1704	2022-04-20
+"Galápagos"	"Isabela"	466	2022-04-21
+"Galápagos"	"San Cristóbal"	931	2022-04-21
+"Galápagos"	"Santa Cruz"	1704	2022-04-21
+"Galápagos"	"Isabela"	466	2022-04-22
+"Galápagos"	"San Cristóbal"	932	2022-04-22
+"Galápagos"	"Santa Cruz"	1704	2022-04-22
+"Galápagos"	"Isabela"	466	2022-04-23
+"Galápagos"	"San Cristóbal"	932	2022-04-23
+"Galápagos"	"Santa Cruz"	1704	2022-04-23
+"Galápagos"	"Isabela"	466	2022-04-24
+"Galápagos"	"San Cristóbal"	932	2022-04-24
+"Galápagos"	"Santa Cruz"	1704	2022-04-24
+"Galápagos"	"Isabela"	466	2022-04-25
+"Galápagos"	"San Cristóbal"	933	2022-04-25
+"Galápagos"	"Santa Cruz"	1704	2022-04-25
+"Galápagos"	"Isabela"	466	2022-04-26
+"Galápagos"	"San Cristóbal"	934	2022-04-26
+"Galápagos"	"Santa Cruz"	1704	2022-04-26
+"Galápagos"	"Isabela"	466	2022-04-27
+"Galápagos"	"San Cristóbal"	934	2022-04-27
+"Galápagos"	"Santa Cruz"	1704	2022-04-27

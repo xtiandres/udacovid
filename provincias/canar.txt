@@ -1,4 +1,2062 @@
 "provincia"	"canton"	"total"	"created_at"
+"Cañar"	"Azogues"	0	2020-03-13
+"Cañar"	"Biblían"	0	2020-03-13
+"Cañar"	"Cañar"	0	2020-03-13
+"Cañar"	"Déleg"	0	2020-03-13
+"Cañar"	"El Tambo"	0	2020-03-13
+"Cañar"	"La Troncal"	0	2020-03-13
+"Cañar"	"Suscal"	0	2020-03-13
+"Cañar"	"Azogues"	0	2020-03-14
+"Cañar"	"Biblían"	0	2020-03-14
+"Cañar"	"Cañar"	0	2020-03-14
+"Cañar"	"Déleg"	0	2020-03-14
+"Cañar"	"El Tambo"	0	2020-03-14
+"Cañar"	"La Troncal"	0	2020-03-14
+"Cañar"	"Suscal"	0	2020-03-14
+"Cañar"	"Azogues"	0	2020-03-15
+"Cañar"	"Biblían"	0	2020-03-15
+"Cañar"	"Cañar"	0	2020-03-15
+"Cañar"	"Déleg"	0	2020-03-15
+"Cañar"	"El Tambo"	0	2020-03-15
+"Cañar"	"La Troncal"	0	2020-03-15
+"Cañar"	"Suscal"	0	2020-03-15
+"Cañar"	"Azogues"	0	2020-03-16
+"Cañar"	"Biblían"	0	2020-03-16
+"Cañar"	"Cañar"	0	2020-03-16
+"Cañar"	"Déleg"	0	2020-03-16
+"Cañar"	"El Tambo"	0	2020-03-16
+"Cañar"	"La Troncal"	0	2020-03-16
+"Cañar"	"Suscal"	0	2020-03-16
+"Cañar"	"Azogues"	0	2020-03-17
+"Cañar"	"Biblían"	0	2020-03-17
+"Cañar"	"Cañar"	0	2020-03-17
+"Cañar"	"Déleg"	0	2020-03-17
+"Cañar"	"El Tambo"	0	2020-03-17
+"Cañar"	"La Troncal"	0	2020-03-17
+"Cañar"	"Suscal"	0	2020-03-17
+"Cañar"	"Azogues"	0	2020-03-18
+"Cañar"	"Biblían"	0	2020-03-18
+"Cañar"	"Cañar"	0	2020-03-18
+"Cañar"	"Déleg"	0	2020-03-18
+"Cañar"	"El Tambo"	0	2020-03-18
+"Cañar"	"La Troncal"	0	2020-03-18
+"Cañar"	"Suscal"	0	2020-03-18
+"Cañar"	"Azogues"	3	2020-03-19
+"Cañar"	"Biblían"	0	2020-03-19
+"Cañar"	"Cañar"	0	2020-03-19
+"Cañar"	"Déleg"	0	2020-03-19
+"Cañar"	"El Tambo"	0	2020-03-19
+"Cañar"	"La Troncal"	0	2020-03-19
+"Cañar"	"Suscal"	0	2020-03-19
+"Cañar"	"Azogues"	3	2020-03-20
+"Cañar"	"Biblían"	0	2020-03-20
+"Cañar"	"Cañar"	0	2020-03-20
+"Cañar"	"Déleg"	0	2020-03-20
+"Cañar"	"El Tambo"	0	2020-03-20
+"Cañar"	"La Troncal"	0	2020-03-20
+"Cañar"	"Suscal"	0	2020-03-20
+"Cañar"	"Azogues"	3	2020-03-21
+"Cañar"	"Biblían"	0	2020-03-21
+"Cañar"	"Cañar"	0	2020-03-21
+"Cañar"	"Déleg"	0	2020-03-21
+"Cañar"	"El Tambo"	0	2020-03-21
+"Cañar"	"La Troncal"	0	2020-03-21
+"Cañar"	"Suscal"	0	2020-03-21
+"Cañar"	"Azogues"	4	2020-03-22
+"Cañar"	"Biblían"	0	2020-03-22
+"Cañar"	"Cañar"	0	2020-03-22
+"Cañar"	"Déleg"	0	2020-03-22
+"Cañar"	"El Tambo"	0	2020-03-22
+"Cañar"	"La Troncal"	0	2020-03-22
+"Cañar"	"Suscal"	0	2020-03-22
+"Cañar"	"Azogues"	4	2020-03-23
+"Cañar"	"Biblían"	0	2020-03-23
+"Cañar"	"Cañar"	1	2020-03-23
+"Cañar"	"Déleg"	0	2020-03-23
+"Cañar"	"El Tambo"	0	2020-03-23
+"Cañar"	"La Troncal"	0	2020-03-23
+"Cañar"	"Suscal"	0	2020-03-23
+"Cañar"	"Azogues"	4	2020-03-24
+"Cañar"	"Biblían"	0	2020-03-24
+"Cañar"	"Cañar"	1	2020-03-24
+"Cañar"	"Déleg"	0	2020-03-24
+"Cañar"	"El Tambo"	2	2020-03-24
+"Cañar"	"La Troncal"	0	2020-03-24
+"Cañar"	"Suscal"	0	2020-03-24
+"Cañar"	"Azogues"	7	2020-03-25
+"Cañar"	"Biblían"	0	2020-03-25
+"Cañar"	"Cañar"	1	2020-03-25
+"Cañar"	"Déleg"	0	2020-03-25
+"Cañar"	"El Tambo"	2	2020-03-25
+"Cañar"	"La Troncal"	2	2020-03-25
+"Cañar"	"Suscal"	0	2020-03-25
+"Cañar"	"Azogues"	9	2020-03-26
+"Cañar"	"Biblían"	0	2020-03-26
+"Cañar"	"Cañar"	1	2020-03-26
+"Cañar"	"Déleg"	0	2020-03-26
+"Cañar"	"El Tambo"	3	2020-03-26
+"Cañar"	"La Troncal"	2	2020-03-26
+"Cañar"	"Suscal"	0	2020-03-26
+"Cañar"	"Azogues"	9	2020-03-27
+"Cañar"	"Biblían"	0	2020-03-27
+"Cañar"	"Cañar"	1	2020-03-27
+"Cañar"	"Déleg"	0	2020-03-27
+"Cañar"	"El Tambo"	2	2020-03-27
+"Cañar"	"La Troncal"	4	2020-03-27
+"Cañar"	"Suscal"	0	2020-03-27
+"Cañar"	"Azogues"	9	2020-03-28
+"Cañar"	"Biblían"	0	2020-03-28
+"Cañar"	"Cañar"	1	2020-03-28
+"Cañar"	"Déleg"	0	2020-03-28
+"Cañar"	"El Tambo"	2	2020-03-28
+"Cañar"	"La Troncal"	7	2020-03-28
+"Cañar"	"Suscal"	0	2020-03-28
+"Cañar"	"Azogues"	11	2020-03-29
+"Cañar"	"Biblían"	3	2020-03-29
+"Cañar"	"Cañar"	1	2020-03-29
+"Cañar"	"Déleg"	0	2020-03-29
+"Cañar"	"El Tambo"	2	2020-03-29
+"Cañar"	"La Troncal"	9	2020-03-29
+"Cañar"	"Suscal"	0	2020-03-29
+"Cañar"	"Azogues"	11	2020-03-30
+"Cañar"	"Biblían"	3	2020-03-30
+"Cañar"	"Cañar"	1	2020-03-30
+"Cañar"	"Déleg"	0	2020-03-30
+"Cañar"	"El Tambo"	4	2020-03-30
+"Cañar"	"La Troncal"	9	2020-03-30
+"Cañar"	"Suscal"	0	2020-03-30
+"Cañar"	"Azogues"	14	2020-03-31
+"Cañar"	"Biblían"	3	2020-03-31
+"Cañar"	"Cañar"	2	2020-03-31
+"Cañar"	"Déleg"	0	2020-03-31
+"Cañar"	"El Tambo"	4	2020-03-31
+"Cañar"	"La Troncal"	15	2020-03-31
+"Cañar"	"Suscal"	1	2020-03-31
+"Cañar"	"Azogues"	15	2020-04-01
+"Cañar"	"Biblían"	3	2020-04-01
+"Cañar"	"Cañar"	4	2020-04-01
+"Cañar"	"Déleg"	1	2020-04-01
+"Cañar"	"El Tambo"	4	2020-04-01
+"Cañar"	"La Troncal"	21	2020-04-01
+"Cañar"	"Suscal"	1	2020-04-01
+"Cañar"	"Azogues"	15	2020-04-02
+"Cañar"	"Biblían"	3	2020-04-02
+"Cañar"	"Cañar"	5	2020-04-02
+"Cañar"	"Déleg"	1	2020-04-02
+"Cañar"	"El Tambo"	5	2020-04-02
+"Cañar"	"La Troncal"	22	2020-04-02
+"Cañar"	"Suscal"	2	2020-04-02
+"Cañar"	"Azogues"	15	2020-04-03
+"Cañar"	"Biblían"	3	2020-04-03
+"Cañar"	"Cañar"	5	2020-04-03
+"Cañar"	"Déleg"	1	2020-04-03
+"Cañar"	"El Tambo"	5	2020-04-03
+"Cañar"	"La Troncal"	25	2020-04-03
+"Cañar"	"Suscal"	2	2020-04-03
+"Cañar"	"Azogues"	15	2020-04-04
+"Cañar"	"Biblían"	3	2020-04-04
+"Cañar"	"Cañar"	5	2020-04-04
+"Cañar"	"Déleg"	1	2020-04-04
+"Cañar"	"El Tambo"	5	2020-04-04
+"Cañar"	"La Troncal"	25	2020-04-04
+"Cañar"	"Suscal"	2	2020-04-04
+"Cañar"	"Azogues"	15	2020-04-05
+"Cañar"	"Biblían"	3	2020-04-05
+"Cañar"	"Cañar"	5	2020-04-05
+"Cañar"	"Déleg"	1	2020-04-05
+"Cañar"	"El Tambo"	5	2020-04-05
+"Cañar"	"La Troncal"	28	2020-04-05
+"Cañar"	"Suscal"	2	2020-04-05
+"Cañar"	"Azogues"	15	2020-04-06
+"Cañar"	"Biblían"	3	2020-04-06
+"Cañar"	"Cañar"	5	2020-04-06
+"Cañar"	"Déleg"	1	2020-04-06
+"Cañar"	"El Tambo"	5	2020-04-06
+"Cañar"	"La Troncal"	28	2020-04-06
+"Cañar"	"Suscal"	2	2020-04-06
+"Cañar"	"Azogues"	15	2020-04-07
+"Cañar"	"Biblían"	3	2020-04-07
+"Cañar"	"Cañar"	5	2020-04-07
+"Cañar"	"Déleg"	1	2020-04-07
+"Cañar"	"El Tambo"	5	2020-04-07
+"Cañar"	"La Troncal"	28	2020-04-07
+"Cañar"	"Suscal"	2	2020-04-07
+"Cañar"	"Azogues"	15	2020-04-08
+"Cañar"	"Biblían"	3	2020-04-08
+"Cañar"	"Cañar"	8	2020-04-08
+"Cañar"	"Déleg"	1	2020-04-08
+"Cañar"	"El Tambo"	7	2020-04-08
+"Cañar"	"La Troncal"	28	2020-04-08
+"Cañar"	"Suscal"	2	2020-04-08
+"Cañar"	"Azogues"	16	2020-04-09
+"Cañar"	"Biblían"	3	2020-04-09
+"Cañar"	"Cañar"	8	2020-04-09
+"Cañar"	"Déleg"	1	2020-04-09
+"Cañar"	"El Tambo"	7	2020-04-09
+"Cañar"	"La Troncal"	38	2020-04-09
+"Cañar"	"Suscal"	2	2020-04-09
+"Cañar"	"Azogues"	19	2020-04-10
+"Cañar"	"Biblían"	5	2020-04-10
+"Cañar"	"Cañar"	8	2020-04-10
+"Cañar"	"Déleg"	1	2020-04-10
+"Cañar"	"El Tambo"	8	2020-04-10
+"Cañar"	"La Troncal"	47	2020-04-10
+"Cañar"	"Suscal"	2	2020-04-10
+"Cañar"	"Azogues"	19	2020-04-11
+"Cañar"	"Biblían"	5	2020-04-11
+"Cañar"	"Cañar"	9	2020-04-11
+"Cañar"	"Déleg"	1	2020-04-11
+"Cañar"	"El Tambo"	8	2020-04-11
+"Cañar"	"La Troncal"	50	2020-04-11
+"Cañar"	"Suscal"	2	2020-04-11
+"Cañar"	"Azogues"	20	2020-04-12
+"Cañar"	"Biblían"	5	2020-04-12
+"Cañar"	"Cañar"	10	2020-04-12
+"Cañar"	"Déleg"	1	2020-04-12
+"Cañar"	"El Tambo"	8	2020-04-12
+"Cañar"	"La Troncal"	51	2020-04-12
+"Cañar"	"Suscal"	2	2020-04-12
+"Cañar"	"Azogues"	20	2020-04-13
+"Cañar"	"Biblían"	6	2020-04-13
+"Cañar"	"Cañar"	11	2020-04-13
+"Cañar"	"Déleg"	1	2020-04-13
+"Cañar"	"El Tambo"	8	2020-04-13
+"Cañar"	"La Troncal"	52	2020-04-13
+"Cañar"	"Suscal"	2	2020-04-13
+"Cañar"	"Azogues"	21	2020-04-14
+"Cañar"	"Biblían"	6	2020-04-14
+"Cañar"	"Cañar"	12	2020-04-14
+"Cañar"	"Déleg"	1	2020-04-14
+"Cañar"	"El Tambo"	9	2020-04-14
+"Cañar"	"La Troncal"	53	2020-04-14
+"Cañar"	"Suscal"	2	2020-04-14
+"Cañar"	"Azogues"	21	2020-04-15
+"Cañar"	"Biblían"	6	2020-04-15
+"Cañar"	"Cañar"	12	2020-04-15
+"Cañar"	"Déleg"	1	2020-04-15
+"Cañar"	"El Tambo"	9	2020-04-15
+"Cañar"	"La Troncal"	54	2020-04-15
+"Cañar"	"Suscal"	2	2020-04-15
+"Cañar"	"Azogues"	23	2020-04-16
+"Cañar"	"Biblían"	7	2020-04-16
+"Cañar"	"Cañar"	12	2020-04-16
+"Cañar"	"Déleg"	1	2020-04-16
+"Cañar"	"El Tambo"	10	2020-04-16
+"Cañar"	"La Troncal"	62	2020-04-16
+"Cañar"	"Suscal"	2	2020-04-16
+"Cañar"	"Azogues"	23	2020-04-17
+"Cañar"	"Biblían"	7	2020-04-17
+"Cañar"	"Cañar"	12	2020-04-17
+"Cañar"	"Déleg"	1	2020-04-17
+"Cañar"	"El Tambo"	11	2020-04-17
+"Cañar"	"La Troncal"	62	2020-04-17
+"Cañar"	"Suscal"	2	2020-04-17
+"Cañar"	"Azogues"	27	2020-04-18
+"Cañar"	"Biblían"	7	2020-04-18
+"Cañar"	"Cañar"	12	2020-04-18
+"Cañar"	"Déleg"	1	2020-04-18
+"Cañar"	"El Tambo"	11	2020-04-18
+"Cañar"	"La Troncal"	65	2020-04-18
+"Cañar"	"Suscal"	2	2020-04-18
+"Cañar"	"Azogues"	29	2020-04-19
+"Cañar"	"Biblían"	7	2020-04-19
+"Cañar"	"Cañar"	12	2020-04-19
+"Cañar"	"Déleg"	1	2020-04-19
+"Cañar"	"El Tambo"	11	2020-04-19
+"Cañar"	"La Troncal"	75	2020-04-19
+"Cañar"	"Suscal"	2	2020-04-19
+"Cañar"	"Azogues"	30	2020-04-20
+"Cañar"	"Biblían"	7	2020-04-20
+"Cañar"	"Cañar"	12	2020-04-20
+"Cañar"	"Déleg"	1	2020-04-20
+"Cañar"	"El Tambo"	11	2020-04-20
+"Cañar"	"La Troncal"	82	2020-04-20
+"Cañar"	"Suscal"	2	2020-04-20
+"Cañar"	"Azogues"	32	2020-04-21
+"Cañar"	"Biblían"	7	2020-04-21
+"Cañar"	"Cañar"	12	2020-04-21
+"Cañar"	"Déleg"	1	2020-04-21
+"Cañar"	"El Tambo"	11	2020-04-21
+"Cañar"	"La Troncal"	84	2020-04-21
+"Cañar"	"Suscal"	2	2020-04-21
+"Cañar"	"Azogues"	32	2020-04-22
+"Cañar"	"Biblían"	7	2020-04-22
+"Cañar"	"Cañar"	13	2020-04-22
+"Cañar"	"Déleg"	1	2020-04-22
+"Cañar"	"El Tambo"	11	2020-04-22
+"Cañar"	"La Troncal"	96	2020-04-22
+"Cañar"	"Suscal"	2	2020-04-22
+"Cañar"	"Azogues"	32	2020-04-23
+"Cañar"	"Biblían"	7	2020-04-23
+"Cañar"	"Cañar"	13	2020-04-23
+"Cañar"	"Déleg"	1	2020-04-23
+"Cañar"	"El Tambo"	12	2020-04-23
+"Cañar"	"La Troncal"	99	2020-04-23
+"Cañar"	"Suscal"	2	2020-04-23
+"Cañar"	"Azogues"	32	2020-04-24
+"Cañar"	"Biblían"	7	2020-04-24
+"Cañar"	"Cañar"	13	2020-04-24
+"Cañar"	"Déleg"	1	2020-04-24
+"Cañar"	"El Tambo"	12	2020-04-24
+"Cañar"	"La Troncal"	99	2020-04-24
+"Cañar"	"Suscal"	2	2020-04-24
+"Cañar"	"Azogues"	32	2020-04-25
+"Cañar"	"Biblían"	7	2020-04-25
+"Cañar"	"Cañar"	13	2020-04-25
+"Cañar"	"Déleg"	1	2020-04-25
+"Cañar"	"El Tambo"	12	2020-04-25
+"Cañar"	"La Troncal"	99	2020-04-25
+"Cañar"	"Suscal"	2	2020-04-25
+"Cañar"	"Azogues"	32	2020-04-26
+"Cañar"	"Biblían"	7	2020-04-26
+"Cañar"	"Cañar"	13	2020-04-26
+"Cañar"	"Déleg"	1	2020-04-26
+"Cañar"	"El Tambo"	12	2020-04-26
+"Cañar"	"La Troncal"	99	2020-04-26
+"Cañar"	"Suscal"	2	2020-04-26
+"Cañar"	"Azogues"	32	2020-04-27
+"Cañar"	"Biblían"	7	2020-04-27
+"Cañar"	"Cañar"	13	2020-04-27
+"Cañar"	"Déleg"	1	2020-04-27
+"Cañar"	"El Tambo"	12	2020-04-27
+"Cañar"	"La Troncal"	99	2020-04-27
+"Cañar"	"Suscal"	2	2020-04-27
+"Cañar"	"Azogues"	70	2020-04-28
+"Cañar"	"Biblían"	11	2020-04-28
+"Cañar"	"Cañar"	21	2020-04-28
+"Cañar"	"Déleg"	1	2020-04-28
+"Cañar"	"El Tambo"	26	2020-04-28
+"Cañar"	"La Troncal"	153	2020-04-28
+"Cañar"	"Suscal"	3	2020-04-28
+"Cañar"	"Azogues"	68	2020-04-29
+"Cañar"	"Biblían"	11	2020-04-29
+"Cañar"	"Cañar"	21	2020-04-29
+"Cañar"	"Déleg"	1	2020-04-29
+"Cañar"	"El Tambo"	25	2020-04-29
+"Cañar"	"La Troncal"	159	2020-04-29
+"Cañar"	"Suscal"	3	2020-04-29
+"Cañar"	"Azogues"	68	2020-04-30
+"Cañar"	"Biblían"	12	2020-04-30
+"Cañar"	"Cañar"	21	2020-04-30
+"Cañar"	"Déleg"	1	2020-04-30
+"Cañar"	"El Tambo"	25	2020-04-30
+"Cañar"	"La Troncal"	167	2020-04-30
+"Cañar"	"Suscal"	3	2020-04-30
+"Cañar"	"Azogues"	69	2020-05-01
+"Cañar"	"Biblían"	13	2020-05-01
+"Cañar"	"Cañar"	21	2020-05-01
+"Cañar"	"Déleg"	1	2020-05-01
+"Cañar"	"El Tambo"	25	2020-05-01
+"Cañar"	"La Troncal"	180	2020-05-01
+"Cañar"	"Suscal"	3	2020-05-01
+"Cañar"	"Azogues"	69	2020-05-02
+"Cañar"	"Biblían"	14	2020-05-02
+"Cañar"	"Cañar"	22	2020-05-02
+"Cañar"	"Déleg"	1	2020-05-02
+"Cañar"	"El Tambo"	25	2020-05-02
+"Cañar"	"La Troncal"	194	2020-05-02
+"Cañar"	"Suscal"	3	2020-05-02
+"Cañar"	"Azogues"	78	2020-05-03
+"Cañar"	"Biblían"	18	2020-05-03
+"Cañar"	"Cañar"	26	2020-05-03
+"Cañar"	"Déleg"	2	2020-05-03
+"Cañar"	"El Tambo"	30	2020-05-03
+"Cañar"	"La Troncal"	220	2020-05-03
+"Cañar"	"Suscal"	3	2020-05-03
+"Cañar"	"Azogues"	79	2020-05-04
+"Cañar"	"Biblían"	19	2020-05-04
+"Cañar"	"Cañar"	25	2020-05-04
+"Cañar"	"Déleg"	2	2020-05-04
+"Cañar"	"El Tambo"	29	2020-05-04
+"Cañar"	"La Troncal"	232	2020-05-04
+"Cañar"	"Suscal"	3	2020-05-04
+"Cañar"	"Azogues"	79	2020-05-05
+"Cañar"	"Biblían"	19	2020-05-05
+"Cañar"	"Cañar"	25	2020-05-05
+"Cañar"	"Déleg"	2	2020-05-05
+"Cañar"	"El Tambo"	29	2020-05-05
+"Cañar"	"La Troncal"	232	2020-05-05
+"Cañar"	"Suscal"	3	2020-05-05
+"Cañar"	"Azogues"	50	2020-05-06
+"Cañar"	"Biblían"	11	2020-05-06
+"Cañar"	"Cañar"	15	2020-05-06
+"Cañar"	"Déleg"	1	2020-05-06
+"Cañar"	"El Tambo"	14	2020-05-06
+"Cañar"	"La Troncal"	178	2020-05-06
+"Cañar"	"Suscal"	3	2020-05-06
+"Cañar"	"Azogues"	73	2020-05-07
+"Cañar"	"Biblían"	13	2020-05-07
+"Cañar"	"Cañar"	23	2020-05-07
+"Cañar"	"Déleg"	1	2020-05-07
+"Cañar"	"El Tambo"	28	2020-05-07
+"Cañar"	"La Troncal"	208	2020-05-07
+"Cañar"	"Suscal"	3	2020-05-07
+"Cañar"	"Azogues"	43	2020-05-08
+"Cañar"	"Biblían"	7	2020-05-08
+"Cañar"	"Cañar"	14	2020-05-08
+"Cañar"	"Déleg"	1	2020-05-08
+"Cañar"	"El Tambo"	12	2020-05-08
+"Cañar"	"La Troncal"	160	2020-05-08
+"Cañar"	"Suscal"	2	2020-05-08
+"Cañar"	"Azogues"	43	2020-05-09
+"Cañar"	"Biblían"	7	2020-05-09
+"Cañar"	"Cañar"	14	2020-05-09
+"Cañar"	"Déleg"	1	2020-05-09
+"Cañar"	"El Tambo"	12	2020-05-09
+"Cañar"	"La Troncal"	160	2020-05-09
+"Cañar"	"Suscal"	2	2020-05-09
+"Cañar"	"Azogues"	43	2020-05-10
+"Cañar"	"Biblían"	7	2020-05-10
+"Cañar"	"Cañar"	14	2020-05-10
+"Cañar"	"Déleg"	1	2020-05-10
+"Cañar"	"El Tambo"	12	2020-05-10
+"Cañar"	"La Troncal"	162	2020-05-10
+"Cañar"	"Suscal"	2	2020-05-10
+"Cañar"	"Azogues"	43	2020-05-11
+"Cañar"	"Biblían"	7	2020-05-11
+"Cañar"	"Cañar"	14	2020-05-11
+"Cañar"	"Déleg"	1	2020-05-11
+"Cañar"	"El Tambo"	12	2020-05-11
+"Cañar"	"La Troncal"	161	2020-05-11
+"Cañar"	"Suscal"	2	2020-05-11
+"Cañar"	"Azogues"	44	2020-05-12
+"Cañar"	"Biblían"	8	2020-05-12
+"Cañar"	"Cañar"	14	2020-05-12
+"Cañar"	"Déleg"	1	2020-05-12
+"Cañar"	"El Tambo"	12	2020-05-12
+"Cañar"	"La Troncal"	169	2020-05-12
+"Cañar"	"Suscal"	2	2020-05-12
+"Cañar"	"Azogues"	44	2020-05-13
+"Cañar"	"Biblían"	8	2020-05-13
+"Cañar"	"Cañar"	14	2020-05-13
+"Cañar"	"Déleg"	1	2020-05-13
+"Cañar"	"El Tambo"	12	2020-05-13
+"Cañar"	"La Troncal"	169	2020-05-13
+"Cañar"	"Suscal"	2	2020-05-13
+"Cañar"	"Azogues"	44	2020-05-14
+"Cañar"	"Biblían"	8	2020-05-14
+"Cañar"	"Cañar"	14	2020-05-14
+"Cañar"	"Déleg"	2	2020-05-14
+"Cañar"	"El Tambo"	12	2020-05-14
+"Cañar"	"La Troncal"	169	2020-05-14
+"Cañar"	"Suscal"	2	2020-05-14
+"Cañar"	"Azogues"	48	2020-05-15
+"Cañar"	"Biblían"	9	2020-05-15
+"Cañar"	"Cañar"	15	2020-05-15
+"Cañar"	"Déleg"	3	2020-05-15
+"Cañar"	"El Tambo"	13	2020-05-15
+"Cañar"	"La Troncal"	179	2020-05-15
+"Cañar"	"Suscal"	2	2020-05-15
+"Cañar"	"Azogues"	48	2020-05-16
+"Cañar"	"Biblían"	9	2020-05-16
+"Cañar"	"Cañar"	16	2020-05-16
+"Cañar"	"Déleg"	3	2020-05-16
+"Cañar"	"El Tambo"	13	2020-05-16
+"Cañar"	"La Troncal"	181	2020-05-16
+"Cañar"	"Suscal"	2	2020-05-16
+"Cañar"	"Azogues"	48	2020-05-17
+"Cañar"	"Biblían"	9	2020-05-17
+"Cañar"	"Cañar"	16	2020-05-17
+"Cañar"	"Déleg"	3	2020-05-17
+"Cañar"	"El Tambo"	13	2020-05-17
+"Cañar"	"La Troncal"	186	2020-05-17
+"Cañar"	"Suscal"	2	2020-05-17
+"Cañar"	"Azogues"	48	2020-05-18
+"Cañar"	"Biblían"	9	2020-05-18
+"Cañar"	"Cañar"	18	2020-05-18
+"Cañar"	"Déleg"	3	2020-05-18
+"Cañar"	"El Tambo"	13	2020-05-18
+"Cañar"	"La Troncal"	194	2020-05-18
+"Cañar"	"Suscal"	3	2020-05-18
+"Cañar"	"Azogues"	48	2020-05-19
+"Cañar"	"Biblían"	9	2020-05-19
+"Cañar"	"Cañar"	18	2020-05-19
+"Cañar"	"Déleg"	3	2020-05-19
+"Cañar"	"El Tambo"	13	2020-05-19
+"Cañar"	"La Troncal"	194	2020-05-19
+"Cañar"	"Suscal"	3	2020-05-19
+"Cañar"	"Azogues"	48	2020-05-20
+"Cañar"	"Biblían"	9	2020-05-20
+"Cañar"	"Cañar"	24	2020-05-20
+"Cañar"	"Déleg"	3	2020-05-20
+"Cañar"	"El Tambo"	13	2020-05-20
+"Cañar"	"La Troncal"	195	2020-05-20
+"Cañar"	"Suscal"	4	2020-05-20
+"Cañar"	"Azogues"	51	2020-05-21
+"Cañar"	"Biblían"	9	2020-05-21
+"Cañar"	"Cañar"	24	2020-05-21
+"Cañar"	"Déleg"	3	2020-05-21
+"Cañar"	"El Tambo"	13	2020-05-21
+"Cañar"	"La Troncal"	195	2020-05-21
+"Cañar"	"Suscal"	5	2020-05-21
+"Cañar"	"Azogues"	52	2020-05-22
+"Cañar"	"Biblían"	9	2020-05-22
+"Cañar"	"Cañar"	24	2020-05-22
+"Cañar"	"Déleg"	3	2020-05-22
+"Cañar"	"El Tambo"	13	2020-05-22
+"Cañar"	"La Troncal"	195	2020-05-22
+"Cañar"	"Suscal"	5	2020-05-22
+"Cañar"	"Azogues"	55	2020-05-23
+"Cañar"	"Biblían"	9	2020-05-23
+"Cañar"	"Cañar"	24	2020-05-23
+"Cañar"	"Déleg"	3	2020-05-23
+"Cañar"	"El Tambo"	13	2020-05-23
+"Cañar"	"La Troncal"	196	2020-05-23
+"Cañar"	"Suscal"	5	2020-05-23
+"Cañar"	"Azogues"	56	2020-05-24
+"Cañar"	"Biblían"	9	2020-05-24
+"Cañar"	"Cañar"	24	2020-05-24
+"Cañar"	"Déleg"	3	2020-05-24
+"Cañar"	"El Tambo"	13	2020-05-24
+"Cañar"	"La Troncal"	196	2020-05-24
+"Cañar"	"Suscal"	5	2020-05-24
+"Cañar"	"Azogues"	59	2020-05-25
+"Cañar"	"Biblían"	9	2020-05-25
+"Cañar"	"Cañar"	26	2020-05-25
+"Cañar"	"Déleg"	3	2020-05-25
+"Cañar"	"El Tambo"	13	2020-05-25
+"Cañar"	"La Troncal"	198	2020-05-25
+"Cañar"	"Suscal"	5	2020-05-25
+"Cañar"	"Azogues"	61	2020-05-26
+"Cañar"	"Biblían"	9	2020-05-26
+"Cañar"	"Cañar"	27	2020-05-26
+"Cañar"	"Déleg"	3	2020-05-26
+"Cañar"	"El Tambo"	14	2020-05-26
+"Cañar"	"La Troncal"	200	2020-05-26
+"Cañar"	"Suscal"	5	2020-05-26
+"Cañar"	"Azogues"	65	2020-05-27
+"Cañar"	"Biblían"	9	2020-05-27
+"Cañar"	"Cañar"	28	2020-05-27
+"Cañar"	"Déleg"	3	2020-05-27
+"Cañar"	"El Tambo"	14	2020-05-27
+"Cañar"	"La Troncal"	200	2020-05-27
+"Cañar"	"Suscal"	8	2020-05-27
+"Cañar"	"Azogues"	66	2020-05-28
+"Cañar"	"Biblían"	9	2020-05-28
+"Cañar"	"Cañar"	28	2020-05-28
+"Cañar"	"Déleg"	3	2020-05-28
+"Cañar"	"El Tambo"	14	2020-05-28
+"Cañar"	"La Troncal"	202	2020-05-28
+"Cañar"	"Suscal"	8	2020-05-28
+"Cañar"	"Azogues"	66	2020-05-29
+"Cañar"	"Biblían"	9	2020-05-29
+"Cañar"	"Cañar"	29	2020-05-29
+"Cañar"	"Déleg"	3	2020-05-29
+"Cañar"	"El Tambo"	14	2020-05-29
+"Cañar"	"La Troncal"	202	2020-05-29
+"Cañar"	"Suscal"	8	2020-05-29
+"Cañar"	"Azogues"	66	2020-05-30
+"Cañar"	"Biblían"	9	2020-05-30
+"Cañar"	"Cañar"	29	2020-05-30
+"Cañar"	"Déleg"	3	2020-05-30
+"Cañar"	"El Tambo"	14	2020-05-30
+"Cañar"	"La Troncal"	202	2020-05-30
+"Cañar"	"Suscal"	8	2020-05-30
+"Cañar"	"Azogues"	66	2020-05-31
+"Cañar"	"Biblían"	9	2020-05-31
+"Cañar"	"Cañar"	29	2020-05-31
+"Cañar"	"Déleg"	3	2020-05-31
+"Cañar"	"El Tambo"	14	2020-05-31
+"Cañar"	"La Troncal"	202	2020-05-31
+"Cañar"	"Suscal"	8	2020-05-31
+"Cañar"	"Azogues"	70	2020-06-01
+"Cañar"	"Biblían"	9	2020-06-01
+"Cañar"	"Cañar"	37	2020-06-01
+"Cañar"	"Déleg"	3	2020-06-01
+"Cañar"	"El Tambo"	14	2020-06-01
+"Cañar"	"La Troncal"	202	2020-06-01
+"Cañar"	"Suscal"	8	2020-06-01
+"Cañar"	"Azogues"	70	2020-06-02
+"Cañar"	"Biblían"	9	2020-06-02
+"Cañar"	"Cañar"	37	2020-06-02
+"Cañar"	"Déleg"	3	2020-06-02
+"Cañar"	"El Tambo"	14	2020-06-02
+"Cañar"	"La Troncal"	203	2020-06-02
+"Cañar"	"Suscal"	8	2020-06-02
+"Cañar"	"Azogues"	72	2020-06-03
+"Cañar"	"Biblían"	9	2020-06-03
+"Cañar"	"Cañar"	40	2020-06-03
+"Cañar"	"Déleg"	3	2020-06-03
+"Cañar"	"El Tambo"	14	2020-06-03
+"Cañar"	"La Troncal"	206	2020-06-03
+"Cañar"	"Suscal"	8	2020-06-03
+"Cañar"	"Azogues"	72	2020-06-04
+"Cañar"	"Biblían"	9	2020-06-04
+"Cañar"	"Cañar"	40	2020-06-04
+"Cañar"	"Déleg"	3	2020-06-04
+"Cañar"	"El Tambo"	14	2020-06-04
+"Cañar"	"La Troncal"	214	2020-06-04
+"Cañar"	"Suscal"	8	2020-06-04
+"Cañar"	"Azogues"	73	2020-06-05
+"Cañar"	"Biblían"	10	2020-06-05
+"Cañar"	"Cañar"	42	2020-06-05
+"Cañar"	"Déleg"	4	2020-06-05
+"Cañar"	"El Tambo"	14	2020-06-05
+"Cañar"	"La Troncal"	215	2020-06-05
+"Cañar"	"Suscal"	8	2020-06-05
+"Cañar"	"Azogues"	74	2020-06-06
+"Cañar"	"Biblían"	10	2020-06-06
+"Cañar"	"Cañar"	45	2020-06-06
+"Cañar"	"Déleg"	4	2020-06-06
+"Cañar"	"El Tambo"	14	2020-06-06
+"Cañar"	"La Troncal"	216	2020-06-06
+"Cañar"	"Suscal"	8	2020-06-06
+"Cañar"	"Azogues"	74	2020-06-07
+"Cañar"	"Biblían"	10	2020-06-07
+"Cañar"	"Cañar"	45	2020-06-07
+"Cañar"	"Déleg"	4	2020-06-07
+"Cañar"	"El Tambo"	14	2020-06-07
+"Cañar"	"La Troncal"	216	2020-06-07
+"Cañar"	"Suscal"	8	2020-06-07
+"Cañar"	"Azogues"	74	2020-06-08
+"Cañar"	"Biblían"	10	2020-06-08
+"Cañar"	"Cañar"	45	2020-06-08
+"Cañar"	"Déleg"	4	2020-06-08
+"Cañar"	"El Tambo"	14	2020-06-08
+"Cañar"	"La Troncal"	217	2020-06-08
+"Cañar"	"Suscal"	8	2020-06-08
+"Cañar"	"Azogues"	74	2020-06-09
+"Cañar"	"Biblían"	10	2020-06-09
+"Cañar"	"Cañar"	47	2020-06-09
+"Cañar"	"Déleg"	4	2020-06-09
+"Cañar"	"El Tambo"	14	2020-06-09
+"Cañar"	"La Troncal"	217	2020-06-09
+"Cañar"	"Suscal"	8	2020-06-09
+"Cañar"	"Azogues"	76	2020-06-10
+"Cañar"	"Biblían"	10	2020-06-10
+"Cañar"	"Cañar"	48	2020-06-10
+"Cañar"	"Déleg"	4	2020-06-10
+"Cañar"	"El Tambo"	14	2020-06-10
+"Cañar"	"La Troncal"	220	2020-06-10
+"Cañar"	"Suscal"	8	2020-06-10
+"Cañar"	"Azogues"	77	2020-06-11
+"Cañar"	"Biblían"	10	2020-06-11
+"Cañar"	"Cañar"	49	2020-06-11
+"Cañar"	"Déleg"	4	2020-06-11
+"Cañar"	"El Tambo"	14	2020-06-11
+"Cañar"	"La Troncal"	221	2020-06-11
+"Cañar"	"Suscal"	8	2020-06-11
+"Cañar"	"Azogues"	79	2020-06-12
+"Cañar"	"Biblían"	11	2020-06-12
+"Cañar"	"Cañar"	49	2020-06-12
+"Cañar"	"Déleg"	4	2020-06-12
+"Cañar"	"El Tambo"	17	2020-06-12
+"Cañar"	"La Troncal"	221	2020-06-12
+"Cañar"	"Suscal"	8	2020-06-12
+"Cañar"	"Azogues"	82	2020-06-13
+"Cañar"	"Biblían"	11	2020-06-13
+"Cañar"	"Cañar"	49	2020-06-13
+"Cañar"	"Déleg"	4	2020-06-13
+"Cañar"	"El Tambo"	35	2020-06-13
+"Cañar"	"La Troncal"	222	2020-06-13
+"Cañar"	"Suscal"	8	2020-06-13
+"Cañar"	"Azogues"	83	2020-06-14
+"Cañar"	"Biblían"	11	2020-06-14
+"Cañar"	"Cañar"	50	2020-06-14
+"Cañar"	"Déleg"	4	2020-06-14
+"Cañar"	"El Tambo"	35	2020-06-14
+"Cañar"	"La Troncal"	222	2020-06-14
+"Cañar"	"Suscal"	8	2020-06-14
+"Cañar"	"Azogues"	87	2020-06-15
+"Cañar"	"Biblían"	11	2020-06-15
+"Cañar"	"Cañar"	56	2020-06-15
+"Cañar"	"Déleg"	4	2020-06-15
+"Cañar"	"El Tambo"	38	2020-06-15
+"Cañar"	"La Troncal"	222	2020-06-15
+"Cañar"	"Suscal"	8	2020-06-15
+"Cañar"	"Azogues"	88	2020-06-16
+"Cañar"	"Biblían"	11	2020-06-16
+"Cañar"	"Cañar"	56	2020-06-16
+"Cañar"	"Déleg"	4	2020-06-16
+"Cañar"	"El Tambo"	39	2020-06-16
+"Cañar"	"La Troncal"	222	2020-06-16
+"Cañar"	"Suscal"	8	2020-06-16
+"Cañar"	"Azogues"	88	2020-06-17
+"Cañar"	"Biblían"	11	2020-06-17
+"Cañar"	"Cañar"	56	2020-06-17
+"Cañar"	"Déleg"	4	2020-06-17
+"Cañar"	"El Tambo"	39	2020-06-17
+"Cañar"	"La Troncal"	222	2020-06-17
+"Cañar"	"Suscal"	8	2020-06-17
+"Cañar"	"Azogues"	89	2020-06-18
+"Cañar"	"Biblían"	11	2020-06-18
+"Cañar"	"Cañar"	62	2020-06-18
+"Cañar"	"Déleg"	5	2020-06-18
+"Cañar"	"El Tambo"	40	2020-06-18
+"Cañar"	"La Troncal"	223	2020-06-18
+"Cañar"	"Suscal"	8	2020-06-18
+"Cañar"	"Azogues"	91	2020-06-19
+"Cañar"	"Biblían"	11	2020-06-19
+"Cañar"	"Cañar"	64	2020-06-19
+"Cañar"	"Déleg"	5	2020-06-19
+"Cañar"	"El Tambo"	40	2020-06-19
+"Cañar"	"La Troncal"	223	2020-06-19
+"Cañar"	"Suscal"	8	2020-06-19
+"Cañar"	"Azogues"	93	2020-06-20
+"Cañar"	"Biblían"	11	2020-06-20
+"Cañar"	"Cañar"	70	2020-06-20
+"Cañar"	"Déleg"	5	2020-06-20
+"Cañar"	"El Tambo"	40	2020-06-20
+"Cañar"	"La Troncal"	223	2020-06-20
+"Cañar"	"Suscal"	8	2020-06-20
+"Cañar"	"Azogues"	93	2020-06-21
+"Cañar"	"Biblían"	11	2020-06-21
+"Cañar"	"Cañar"	70	2020-06-21
+"Cañar"	"Déleg"	5	2020-06-21
+"Cañar"	"El Tambo"	40	2020-06-21
+"Cañar"	"La Troncal"	223	2020-06-21
+"Cañar"	"Suscal"	8	2020-06-21
+"Cañar"	"Azogues"	94	2020-06-22
+"Cañar"	"Biblían"	11	2020-06-22
+"Cañar"	"Cañar"	75	2020-06-22
+"Cañar"	"Déleg"	5	2020-06-22
+"Cañar"	"El Tambo"	41	2020-06-22
+"Cañar"	"La Troncal"	223	2020-06-22
+"Cañar"	"Suscal"	8	2020-06-22
+"Cañar"	"Azogues"	96	2020-06-23
+"Cañar"	"Biblían"	13	2020-06-23
+"Cañar"	"Cañar"	75	2020-06-23
+"Cañar"	"Déleg"	5	2020-06-23
+"Cañar"	"El Tambo"	41	2020-06-23
+"Cañar"	"La Troncal"	226	2020-06-23
+"Cañar"	"Suscal"	8	2020-06-23
+"Cañar"	"Azogues"	98	2020-06-24
+"Cañar"	"Biblían"	13	2020-06-24
+"Cañar"	"Cañar"	77	2020-06-24
+"Cañar"	"Déleg"	6	2020-06-24
+"Cañar"	"El Tambo"	41	2020-06-24
+"Cañar"	"La Troncal"	228	2020-06-24
+"Cañar"	"Suscal"	8	2020-06-24
+"Cañar"	"Azogues"	99	2020-06-25
+"Cañar"	"Biblían"	13	2020-06-25
+"Cañar"	"Cañar"	78	2020-06-25
+"Cañar"	"Déleg"	6	2020-06-25
+"Cañar"	"El Tambo"	41	2020-06-25
+"Cañar"	"La Troncal"	231	2020-06-25
+"Cañar"	"Suscal"	8	2020-06-25
+"Cañar"	"Azogues"	102	2020-06-26
+"Cañar"	"Biblían"	13	2020-06-26
+"Cañar"	"Cañar"	79	2020-06-26
+"Cañar"	"Déleg"	6	2020-06-26
+"Cañar"	"El Tambo"	41	2020-06-26
+"Cañar"	"La Troncal"	232	2020-06-26
+"Cañar"	"Suscal"	8	2020-06-26
+"Cañar"	"Azogues"	110	2020-06-27
+"Cañar"	"Biblían"	13	2020-06-27
+"Cañar"	"Cañar"	81	2020-06-27
+"Cañar"	"Déleg"	6	2020-06-27
+"Cañar"	"El Tambo"	41	2020-06-27
+"Cañar"	"La Troncal"	270	2020-06-27
+"Cañar"	"Suscal"	8	2020-06-27
+"Cañar"	"Azogues"	114	2020-06-28
+"Cañar"	"Biblían"	13	2020-06-28
+"Cañar"	"Cañar"	83	2020-06-28
+"Cañar"	"Déleg"	6	2020-06-28
+"Cañar"	"El Tambo"	42	2020-06-28
+"Cañar"	"La Troncal"	271	2020-06-28
+"Cañar"	"Suscal"	8	2020-06-28
+"Cañar"	"Azogues"	114	2020-06-29
+"Cañar"	"Biblían"	13	2020-06-29
+"Cañar"	"Cañar"	83	2020-06-29
+"Cañar"	"Déleg"	6	2020-06-29
+"Cañar"	"El Tambo"	42	2020-06-29
+"Cañar"	"La Troncal"	274	2020-06-29
+"Cañar"	"Suscal"	8	2020-06-29
+"Cañar"	"Azogues"	115	2020-06-30
+"Cañar"	"Biblían"	13	2020-06-30
+"Cañar"	"Cañar"	83	2020-06-30
+"Cañar"	"Déleg"	7	2020-06-30
+"Cañar"	"El Tambo"	42	2020-06-30
+"Cañar"	"La Troncal"	274	2020-06-30
+"Cañar"	"Suscal"	8	2020-06-30
+"Cañar"	"Azogues"	117	2020-07-01
+"Cañar"	"Biblían"	13	2020-07-01
+"Cañar"	"Cañar"	83	2020-07-01
+"Cañar"	"Déleg"	7	2020-07-01
+"Cañar"	"El Tambo"	42	2020-07-01
+"Cañar"	"La Troncal"	275	2020-07-01
+"Cañar"	"Suscal"	8	2020-07-01
+"Cañar"	"Azogues"	119	2020-07-02
+"Cañar"	"Biblían"	13	2020-07-02
+"Cañar"	"Cañar"	84	2020-07-02
+"Cañar"	"Déleg"	7	2020-07-02
+"Cañar"	"El Tambo"	42	2020-07-02
+"Cañar"	"La Troncal"	275	2020-07-02
+"Cañar"	"Suscal"	8	2020-07-02
+"Cañar"	"Azogues"	119	2020-07-03
+"Cañar"	"Biblían"	14	2020-07-03
+"Cañar"	"Cañar"	84	2020-07-03
+"Cañar"	"Déleg"	7	2020-07-03
+"Cañar"	"El Tambo"	42	2020-07-03
+"Cañar"	"La Troncal"	275	2020-07-03
+"Cañar"	"Suscal"	8	2020-07-03
+"Cañar"	"Azogues"	120	2020-07-04
+"Cañar"	"Biblían"	14	2020-07-04
+"Cañar"	"Cañar"	89	2020-07-04
+"Cañar"	"Déleg"	7	2020-07-04
+"Cañar"	"El Tambo"	44	2020-07-04
+"Cañar"	"La Troncal"	276	2020-07-04
+"Cañar"	"Suscal"	8	2020-07-04
+"Cañar"	"Azogues"	120	2020-07-05
+"Cañar"	"Biblían"	14	2020-07-05
+"Cañar"	"Cañar"	90	2020-07-05
+"Cañar"	"Déleg"	7	2020-07-05
+"Cañar"	"El Tambo"	44	2020-07-05
+"Cañar"	"La Troncal"	276	2020-07-05
+"Cañar"	"Suscal"	8	2020-07-05
+"Cañar"	"Azogues"	120	2020-07-06
+"Cañar"	"Biblían"	14	2020-07-06
+"Cañar"	"Cañar"	91	2020-07-06
+"Cañar"	"Déleg"	7	2020-07-06
+"Cañar"	"El Tambo"	44	2020-07-06
+"Cañar"	"La Troncal"	276	2020-07-06
+"Cañar"	"Suscal"	8	2020-07-06
+"Cañar"	"Azogues"	123	2020-07-07
+"Cañar"	"Biblían"	15	2020-07-07
+"Cañar"	"Cañar"	91	2020-07-07
+"Cañar"	"Déleg"	7	2020-07-07
+"Cañar"	"El Tambo"	46	2020-07-07
+"Cañar"	"La Troncal"	276	2020-07-07
+"Cañar"	"Suscal"	8	2020-07-07
+"Cañar"	"Azogues"	125	2020-07-08
+"Cañar"	"Biblían"	15	2020-07-08
+"Cañar"	"Cañar"	98	2020-07-08
+"Cañar"	"Déleg"	7	2020-07-08
+"Cañar"	"El Tambo"	47	2020-07-08
+"Cañar"	"La Troncal"	278	2020-07-08
+"Cañar"	"Suscal"	8	2020-07-08
+"Cañar"	"Azogues"	127	2020-07-09
+"Cañar"	"Biblían"	16	2020-07-09
+"Cañar"	"Cañar"	100	2020-07-09
+"Cañar"	"Déleg"	7	2020-07-09
+"Cañar"	"El Tambo"	47	2020-07-09
+"Cañar"	"La Troncal"	278	2020-07-09
+"Cañar"	"Suscal"	8	2020-07-09
+"Cañar"	"Azogues"	130	2020-07-10
+"Cañar"	"Biblían"	16	2020-07-10
+"Cañar"	"Cañar"	101	2020-07-10
+"Cañar"	"Déleg"	7	2020-07-10
+"Cañar"	"El Tambo"	47	2020-07-10
+"Cañar"	"La Troncal"	278	2020-07-10
+"Cañar"	"Suscal"	8	2020-07-10
+"Cañar"	"Azogues"	131	2020-07-11
+"Cañar"	"Biblían"	16	2020-07-11
+"Cañar"	"Cañar"	108	2020-07-11
+"Cañar"	"Déleg"	7	2020-07-11
+"Cañar"	"El Tambo"	47	2020-07-11
+"Cañar"	"La Troncal"	278	2020-07-11
+"Cañar"	"Suscal"	8	2020-07-11
+"Cañar"	"Azogues"	131	2020-07-12
+"Cañar"	"Biblían"	16	2020-07-12
+"Cañar"	"Cañar"	117	2020-07-12
+"Cañar"	"Déleg"	7	2020-07-12
+"Cañar"	"El Tambo"	48	2020-07-12
+"Cañar"	"La Troncal"	281	2020-07-12
+"Cañar"	"Suscal"	8	2020-07-12
+"Cañar"	"Azogues"	137	2020-07-13
+"Cañar"	"Biblían"	16	2020-07-13
+"Cañar"	"Cañar"	123	2020-07-13
+"Cañar"	"Déleg"	7	2020-07-13
+"Cañar"	"El Tambo"	48	2020-07-13
+"Cañar"	"La Troncal"	282	2020-07-13
+"Cañar"	"Suscal"	8	2020-07-13
+"Cañar"	"Azogues"	141	2020-07-14
+"Cañar"	"Biblían"	17	2020-07-14
+"Cañar"	"Cañar"	123	2020-07-14
+"Cañar"	"Déleg"	7	2020-07-14
+"Cañar"	"El Tambo"	48	2020-07-14
+"Cañar"	"La Troncal"	282	2020-07-14
+"Cañar"	"Suscal"	8	2020-07-14
+"Cañar"	"Azogues"	141	2020-07-15
+"Cañar"	"Biblían"	17	2020-07-15
+"Cañar"	"Cañar"	124	2020-07-15
+"Cañar"	"Déleg"	7	2020-07-15
+"Cañar"	"El Tambo"	48	2020-07-15
+"Cañar"	"La Troncal"	282	2020-07-15
+"Cañar"	"Suscal"	8	2020-07-15
+"Cañar"	"Azogues"	142	2020-07-16
+"Cañar"	"Biblían"	18	2020-07-16
+"Cañar"	"Cañar"	125	2020-07-16
+"Cañar"	"Déleg"	7	2020-07-16
+"Cañar"	"El Tambo"	48	2020-07-16
+"Cañar"	"La Troncal"	282	2020-07-16
+"Cañar"	"Suscal"	9	2020-07-16
+"Cañar"	"Azogues"	143	2020-07-17
+"Cañar"	"Biblían"	18	2020-07-17
+"Cañar"	"Cañar"	125	2020-07-17
+"Cañar"	"Déleg"	7	2020-07-17
+"Cañar"	"El Tambo"	48	2020-07-17
+"Cañar"	"La Troncal"	282	2020-07-17
+"Cañar"	"Suscal"	9	2020-07-17
+"Cañar"	"Azogues"	145	2020-07-18
+"Cañar"	"Biblían"	18	2020-07-18
+"Cañar"	"Cañar"	126	2020-07-18
+"Cañar"	"Déleg"	7	2020-07-18
+"Cañar"	"El Tambo"	49	2020-07-18
+"Cañar"	"La Troncal"	284	2020-07-18
+"Cañar"	"Suscal"	9	2020-07-18
+"Cañar"	"Azogues"	146	2020-07-19
+"Cañar"	"Biblían"	18	2020-07-19
+"Cañar"	"Cañar"	126	2020-07-19
+"Cañar"	"Déleg"	7	2020-07-19
+"Cañar"	"El Tambo"	50	2020-07-19
+"Cañar"	"La Troncal"	287	2020-07-19
+"Cañar"	"Suscal"	9	2020-07-19
+"Cañar"	"Azogues"	148	2020-07-20
+"Cañar"	"Biblían"	18	2020-07-20
+"Cañar"	"Cañar"	126	2020-07-20
+"Cañar"	"Déleg"	7	2020-07-20
+"Cañar"	"El Tambo"	50	2020-07-20
+"Cañar"	"La Troncal"	291	2020-07-20
+"Cañar"	"Suscal"	9	2020-07-20
+"Cañar"	"Azogues"	148	2020-07-21
+"Cañar"	"Biblían"	18	2020-07-21
+"Cañar"	"Cañar"	126	2020-07-21
+"Cañar"	"Déleg"	7	2020-07-21
+"Cañar"	"El Tambo"	50	2020-07-21
+"Cañar"	"La Troncal"	293	2020-07-21
+"Cañar"	"Suscal"	9	2020-07-21
+"Cañar"	"Azogues"	150	2020-07-22
+"Cañar"	"Biblían"	18	2020-07-22
+"Cañar"	"Cañar"	126	2020-07-22
+"Cañar"	"Déleg"	7	2020-07-22
+"Cañar"	"El Tambo"	52	2020-07-22
+"Cañar"	"La Troncal"	296	2020-07-22
+"Cañar"	"Suscal"	9	2020-07-22
+"Cañar"	"Azogues"	154	2020-07-23
+"Cañar"	"Biblían"	19	2020-07-23
+"Cañar"	"Cañar"	129	2020-07-23
+"Cañar"	"Déleg"	7	2020-07-23
+"Cañar"	"El Tambo"	52	2020-07-23
+"Cañar"	"La Troncal"	297	2020-07-23
+"Cañar"	"Suscal"	9	2020-07-23
+"Cañar"	"Azogues"	154	2020-07-24
+"Cañar"	"Biblían"	19	2020-07-24
+"Cañar"	"Cañar"	129	2020-07-24
+"Cañar"	"Déleg"	7	2020-07-24
+"Cañar"	"El Tambo"	53	2020-07-24
+"Cañar"	"La Troncal"	297	2020-07-24
+"Cañar"	"Suscal"	9	2020-07-24
+"Cañar"	"Azogues"	158	2020-07-25
+"Cañar"	"Biblían"	20	2020-07-25
+"Cañar"	"Cañar"	143	2020-07-25
+"Cañar"	"Déleg"	7	2020-07-25
+"Cañar"	"El Tambo"	53	2020-07-25
+"Cañar"	"La Troncal"	297	2020-07-25
+"Cañar"	"Suscal"	9	2020-07-25
+"Cañar"	"Azogues"	158	2020-07-26
+"Cañar"	"Biblían"	20	2020-07-26
+"Cañar"	"Cañar"	144	2020-07-26
+"Cañar"	"Déleg"	7	2020-07-26
+"Cañar"	"El Tambo"	53	2020-07-26
+"Cañar"	"La Troncal"	300	2020-07-26
+"Cañar"	"Suscal"	9	2020-07-26
+"Cañar"	"Azogues"	158	2020-07-27
+"Cañar"	"Biblían"	20	2020-07-27
+"Cañar"	"Cañar"	144	2020-07-27
+"Cañar"	"Déleg"	7	2020-07-27
+"Cañar"	"El Tambo"	53	2020-07-27
+"Cañar"	"La Troncal"	300	2020-07-27
+"Cañar"	"Suscal"	9	2020-07-27
+"Cañar"	"Azogues"	159	2020-07-28
+"Cañar"	"Biblían"	20	2020-07-28
+"Cañar"	"Cañar"	150	2020-07-28
+"Cañar"	"Déleg"	7	2020-07-28
+"Cañar"	"El Tambo"	53	2020-07-28
+"Cañar"	"La Troncal"	300	2020-07-28
+"Cañar"	"Suscal"	9	2020-07-28
+"Cañar"	"Azogues"	160	2020-07-29
+"Cañar"	"Biblían"	20	2020-07-29
+"Cañar"	"Cañar"	151	2020-07-29
+"Cañar"	"Déleg"	7	2020-07-29
+"Cañar"	"El Tambo"	53	2020-07-29
+"Cañar"	"La Troncal"	301	2020-07-29
+"Cañar"	"Suscal"	9	2020-07-29
+"Cañar"	"Azogues"	173	2020-07-30
+"Cañar"	"Biblían"	21	2020-07-30
+"Cañar"	"Cañar"	156	2020-07-30
+"Cañar"	"Déleg"	7	2020-07-30
+"Cañar"	"El Tambo"	53	2020-07-30
+"Cañar"	"La Troncal"	301	2020-07-30
+"Cañar"	"Suscal"	10	2020-07-30
+"Cañar"	"Azogues"	181	2020-07-31
+"Cañar"	"Biblían"	21	2020-07-31
+"Cañar"	"Cañar"	159	2020-07-31
+"Cañar"	"Déleg"	7	2020-07-31
+"Cañar"	"El Tambo"	54	2020-07-31
+"Cañar"	"La Troncal"	307	2020-07-31
+"Cañar"	"Suscal"	10	2020-07-31
+"Cañar"	"Azogues"	184	2020-08-01
+"Cañar"	"Biblían"	21	2020-08-01
+"Cañar"	"Cañar"	164	2020-08-01
+"Cañar"	"Déleg"	7	2020-08-01
+"Cañar"	"El Tambo"	55	2020-08-01
+"Cañar"	"La Troncal"	309	2020-08-01
+"Cañar"	"Suscal"	10	2020-08-01
+"Cañar"	"Azogues"	187	2020-08-02
+"Cañar"	"Biblían"	21	2020-08-02
+"Cañar"	"Cañar"	165	2020-08-02
+"Cañar"	"Déleg"	7	2020-08-02
+"Cañar"	"El Tambo"	56	2020-08-02
+"Cañar"	"La Troncal"	309	2020-08-02
+"Cañar"	"Suscal"	10	2020-08-02
+"Cañar"	"Azogues"	189	2020-08-03
+"Cañar"	"Biblían"	22	2020-08-03
+"Cañar"	"Cañar"	165	2020-08-03
+"Cañar"	"Déleg"	7	2020-08-03
+"Cañar"	"El Tambo"	56	2020-08-03
+"Cañar"	"La Troncal"	309	2020-08-03
+"Cañar"	"Suscal"	10	2020-08-03
+"Cañar"	"Azogues"	236	2020-08-04
+"Cañar"	"Biblían"	26	2020-08-04
+"Cañar"	"Cañar"	172	2020-08-04
+"Cañar"	"Déleg"	7	2020-08-04
+"Cañar"	"El Tambo"	56	2020-08-04
+"Cañar"	"La Troncal"	309	2020-08-04
+"Cañar"	"Suscal"	11	2020-08-04
+"Cañar"	"Azogues"	252	2020-08-05
+"Cañar"	"Biblían"	34	2020-08-05
+"Cañar"	"Cañar"	173	2020-08-05
+"Cañar"	"Déleg"	7	2020-08-05
+"Cañar"	"El Tambo"	57	2020-08-05
+"Cañar"	"La Troncal"	310	2020-08-05
+"Cañar"	"Suscal"	11	2020-08-05
+"Cañar"	"Azogues"	257	2020-08-06
+"Cañar"	"Biblían"	34	2020-08-06
+"Cañar"	"Cañar"	177	2020-08-06
+"Cañar"	"Déleg"	7	2020-08-06
+"Cañar"	"El Tambo"	57	2020-08-06
+"Cañar"	"La Troncal"	310	2020-08-06
+"Cañar"	"Suscal"	11	2020-08-06
+"Cañar"	"Azogues"	260	2020-08-07
+"Cañar"	"Biblían"	35	2020-08-07
+"Cañar"	"Cañar"	181	2020-08-07
+"Cañar"	"Déleg"	7	2020-08-07
+"Cañar"	"El Tambo"	57	2020-08-07
+"Cañar"	"La Troncal"	315	2020-08-07
+"Cañar"	"Suscal"	12	2020-08-07
+"Cañar"	"Azogues"	263	2020-08-08
+"Cañar"	"Biblían"	35	2020-08-08
+"Cañar"	"Cañar"	181	2020-08-08
+"Cañar"	"Déleg"	7	2020-08-08
+"Cañar"	"El Tambo"	57	2020-08-08
+"Cañar"	"La Troncal"	315	2020-08-08
+"Cañar"	"Suscal"	12	2020-08-08
+"Cañar"	"Azogues"	263	2020-08-09
+"Cañar"	"Biblían"	35	2020-08-09
+"Cañar"	"Cañar"	181	2020-08-09
+"Cañar"	"Déleg"	7	2020-08-09
+"Cañar"	"El Tambo"	57	2020-08-09
+"Cañar"	"La Troncal"	317	2020-08-09
+"Cañar"	"Suscal"	12	2020-08-09
+"Cañar"	"Azogues"	264	2020-08-10
+"Cañar"	"Biblían"	35	2020-08-10
+"Cañar"	"Cañar"	181	2020-08-10
+"Cañar"	"Déleg"	7	2020-08-10
+"Cañar"	"El Tambo"	57	2020-08-10
+"Cañar"	"La Troncal"	320	2020-08-10
+"Cañar"	"Suscal"	12	2020-08-10
+"Cañar"	"Azogues"	265	2020-08-11
+"Cañar"	"Biblían"	35	2020-08-11
+"Cañar"	"Cañar"	181	2020-08-11
+"Cañar"	"Déleg"	7	2020-08-11
+"Cañar"	"El Tambo"	57	2020-08-11
+"Cañar"	"La Troncal"	324	2020-08-11
+"Cañar"	"Suscal"	12	2020-08-11
+"Cañar"	"Azogues"	269	2020-08-12
+"Cañar"	"Biblían"	36	2020-08-12
+"Cañar"	"Cañar"	182	2020-08-12
+"Cañar"	"Déleg"	7	2020-08-12
+"Cañar"	"El Tambo"	57	2020-08-12
+"Cañar"	"La Troncal"	328	2020-08-12
+"Cañar"	"Suscal"	12	2020-08-12
+"Cañar"	"Azogues"	273	2020-08-13
+"Cañar"	"Biblían"	37	2020-08-13
+"Cañar"	"Cañar"	184	2020-08-13
+"Cañar"	"Déleg"	7	2020-08-13
+"Cañar"	"El Tambo"	58	2020-08-13
+"Cañar"	"La Troncal"	329	2020-08-13
+"Cañar"	"Suscal"	12	2020-08-13
+"Cañar"	"Azogues"	282	2020-08-14
+"Cañar"	"Biblían"	37	2020-08-14
+"Cañar"	"Cañar"	186	2020-08-14
+"Cañar"	"Déleg"	7	2020-08-14
+"Cañar"	"El Tambo"	58	2020-08-14
+"Cañar"	"La Troncal"	329	2020-08-14
+"Cañar"	"Suscal"	12	2020-08-14
+"Cañar"	"Azogues"	284	2020-08-15
+"Cañar"	"Biblían"	37	2020-08-15
+"Cañar"	"Cañar"	190	2020-08-15
+"Cañar"	"Déleg"	7	2020-08-15
+"Cañar"	"El Tambo"	59	2020-08-15
+"Cañar"	"La Troncal"	329	2020-08-15
+"Cañar"	"Suscal"	12	2020-08-15
+"Cañar"	"Azogues"	289	2020-08-16
+"Cañar"	"Biblían"	39	2020-08-16
+"Cañar"	"Cañar"	190	2020-08-16
+"Cañar"	"Déleg"	7	2020-08-16
+"Cañar"	"El Tambo"	59	2020-08-16
+"Cañar"	"La Troncal"	329	2020-08-16
+"Cañar"	"Suscal"	12	2020-08-16
+"Cañar"	"Azogues"	289	2020-08-17
+"Cañar"	"Biblían"	39	2020-08-17
+"Cañar"	"Cañar"	190	2020-08-17
+"Cañar"	"Déleg"	7	2020-08-17
+"Cañar"	"El Tambo"	59	2020-08-17
+"Cañar"	"La Troncal"	329	2020-08-17
+"Cañar"	"Suscal"	12	2020-08-17
+"Cañar"	"Azogues"	290	2020-08-18
+"Cañar"	"Biblían"	39	2020-08-18
+"Cañar"	"Cañar"	191	2020-08-18
+"Cañar"	"Déleg"	7	2020-08-18
+"Cañar"	"El Tambo"	59	2020-08-18
+"Cañar"	"La Troncal"	331	2020-08-18
+"Cañar"	"Suscal"	12	2020-08-18
+"Cañar"	"Azogues"	291	2020-08-19
+"Cañar"	"Biblían"	39	2020-08-19
+"Cañar"	"Cañar"	191	2020-08-19
+"Cañar"	"Déleg"	7	2020-08-19
+"Cañar"	"El Tambo"	59	2020-08-19
+"Cañar"	"La Troncal"	333	2020-08-19
+"Cañar"	"Suscal"	12	2020-08-19
+"Cañar"	"Azogues"	297	2020-08-20
+"Cañar"	"Biblían"	39	2020-08-20
+"Cañar"	"Cañar"	192	2020-08-20
+"Cañar"	"Déleg"	7	2020-08-20
+"Cañar"	"El Tambo"	60	2020-08-20
+"Cañar"	"La Troncal"	336	2020-08-20
+"Cañar"	"Suscal"	12	2020-08-20
+"Cañar"	"Azogues"	383	2020-08-21
+"Cañar"	"Biblían"	50	2020-08-21
+"Cañar"	"Cañar"	215	2020-08-21
+"Cañar"	"Déleg"	8	2020-08-21
+"Cañar"	"El Tambo"	66	2020-08-21
+"Cañar"	"La Troncal"	336	2020-08-21
+"Cañar"	"Suscal"	13	2020-08-21
+"Cañar"	"Azogues"	410	2020-08-22
+"Cañar"	"Biblían"	52	2020-08-22
+"Cañar"	"Cañar"	217	2020-08-22
+"Cañar"	"Déleg"	8	2020-08-22
+"Cañar"	"El Tambo"	67	2020-08-22
+"Cañar"	"La Troncal"	339	2020-08-22
+"Cañar"	"Suscal"	13	2020-08-22
+"Cañar"	"Azogues"	410	2020-08-23
+"Cañar"	"Biblían"	52	2020-08-23
+"Cañar"	"Cañar"	217	2020-08-23
+"Cañar"	"Déleg"	8	2020-08-23
+"Cañar"	"El Tambo"	67	2020-08-23
+"Cañar"	"La Troncal"	339	2020-08-23
+"Cañar"	"Suscal"	13	2020-08-23
+"Cañar"	"Azogues"	428	2020-08-24
+"Cañar"	"Biblían"	54	2020-08-24
+"Cañar"	"Cañar"	217	2020-08-24
+"Cañar"	"Déleg"	8	2020-08-24
+"Cañar"	"El Tambo"	69	2020-08-24
+"Cañar"	"La Troncal"	343	2020-08-24
+"Cañar"	"Suscal"	13	2020-08-24
+"Cañar"	"Azogues"	437	2020-08-25
+"Cañar"	"Biblían"	57	2020-08-25
+"Cañar"	"Cañar"	223	2020-08-25
+"Cañar"	"Déleg"	9	2020-08-25
+"Cañar"	"El Tambo"	72	2020-08-25
+"Cañar"	"La Troncal"	343	2020-08-25
+"Cañar"	"Suscal"	13	2020-08-25
+"Cañar"	"Azogues"	477	2020-08-26
+"Cañar"	"Biblían"	63	2020-08-26
+"Cañar"	"Cañar"	235	2020-08-26
+"Cañar"	"Déleg"	11	2020-08-26
+"Cañar"	"El Tambo"	74	2020-08-26
+"Cañar"	"La Troncal"	343	2020-08-26
+"Cañar"	"Suscal"	13	2020-08-26
+"Cañar"	"Azogues"	496	2020-08-27
+"Cañar"	"Biblían"	64	2020-08-27
+"Cañar"	"Cañar"	235	2020-08-27
+"Cañar"	"Déleg"	11	2020-08-27
+"Cañar"	"El Tambo"	74	2020-08-27
+"Cañar"	"La Troncal"	343	2020-08-27
+"Cañar"	"Suscal"	13	2020-08-27
+"Cañar"	"Azogues"	517	2020-08-28
+"Cañar"	"Biblían"	65	2020-08-28
+"Cañar"	"Cañar"	236	2020-08-28
+"Cañar"	"Déleg"	11	2020-08-28
+"Cañar"	"El Tambo"	74	2020-08-28
+"Cañar"	"La Troncal"	345	2020-08-28
+"Cañar"	"Suscal"	13	2020-08-28
+"Cañar"	"Azogues"	551	2020-08-29
+"Cañar"	"Biblían"	66	2020-08-29
+"Cañar"	"Cañar"	236	2020-08-29
+"Cañar"	"Déleg"	11	2020-08-29
+"Cañar"	"El Tambo"	74	2020-08-29
+"Cañar"	"La Troncal"	345	2020-08-29
+"Cañar"	"Suscal"	13	2020-08-29
+"Cañar"	"Azogues"	570	2020-08-30
+"Cañar"	"Biblían"	70	2020-08-30
+"Cañar"	"Cañar"	236	2020-08-30
+"Cañar"	"Déleg"	11	2020-08-30
+"Cañar"	"El Tambo"	74	2020-08-30
+"Cañar"	"La Troncal"	347	2020-08-30
+"Cañar"	"Suscal"	13	2020-08-30
+"Cañar"	"Azogues"	570	2020-08-31
+"Cañar"	"Biblían"	70	2020-08-31
+"Cañar"	"Cañar"	236	2020-08-31
+"Cañar"	"Déleg"	11	2020-08-31
+"Cañar"	"El Tambo"	74	2020-08-31
+"Cañar"	"La Troncal"	347	2020-08-31
+"Cañar"	"Suscal"	13	2020-08-31
+"Cañar"	"Azogues"	583	2020-09-01
+"Cañar"	"Biblían"	72	2020-09-01
+"Cañar"	"Cañar"	244	2020-09-01
+"Cañar"	"Déleg"	11	2020-09-01
+"Cañar"	"El Tambo"	78	2020-09-01
+"Cañar"	"La Troncal"	347	2020-09-01
+"Cañar"	"Suscal"	13	2020-09-01
+"Cañar"	"Azogues"	605	2020-09-02
+"Cañar"	"Biblían"	73	2020-09-02
+"Cañar"	"Cañar"	248	2020-09-02
+"Cañar"	"Déleg"	11	2020-09-02
+"Cañar"	"El Tambo"	79	2020-09-02
+"Cañar"	"La Troncal"	349	2020-09-02
+"Cañar"	"Suscal"	13	2020-09-02
+"Cañar"	"Azogues"	610	2020-09-03
+"Cañar"	"Biblían"	75	2020-09-03
+"Cañar"	"Cañar"	253	2020-09-03
+"Cañar"	"Déleg"	11	2020-09-03
+"Cañar"	"El Tambo"	80	2020-09-03
+"Cañar"	"La Troncal"	349	2020-09-03
+"Cañar"	"Suscal"	13	2020-09-03
+"Cañar"	"Azogues"	618	2020-09-04
+"Cañar"	"Biblían"	75	2020-09-04
+"Cañar"	"Cañar"	259	2020-09-04
+"Cañar"	"Déleg"	13	2020-09-04
+"Cañar"	"El Tambo"	82	2020-09-04
+"Cañar"	"La Troncal"	349	2020-09-04
+"Cañar"	"Suscal"	13	2020-09-04
+"Cañar"	"Azogues"	629	2020-09-05
+"Cañar"	"Biblían"	76	2020-09-05
+"Cañar"	"Cañar"	261	2020-09-05
+"Cañar"	"Déleg"	13	2020-09-05
+"Cañar"	"El Tambo"	83	2020-09-05
+"Cañar"	"La Troncal"	351	2020-09-05
+"Cañar"	"Suscal"	13	2020-09-05
+"Cañar"	"Azogues"	631	2020-09-06
+"Cañar"	"Biblían"	77	2020-09-06
+"Cañar"	"Cañar"	264	2020-09-06
+"Cañar"	"Déleg"	13	2020-09-06
+"Cañar"	"El Tambo"	84	2020-09-06
+"Cañar"	"La Troncal"	357	2020-09-06
+"Cañar"	"Suscal"	17	2020-09-06
+"Cañar"	"Azogues"	647	2020-09-07
+"Cañar"	"Biblían"	79	2020-09-07
+"Cañar"	"Cañar"	270	2020-09-07
+"Cañar"	"Déleg"	13	2020-09-07
+"Cañar"	"El Tambo"	87	2020-09-07
+"Cañar"	"La Troncal"	357	2020-09-07
+"Cañar"	"Suscal"	17	2020-09-07
+"Cañar"	"Azogues"	679	2020-09-08
+"Cañar"	"Biblían"	87	2020-09-08
+"Cañar"	"Cañar"	277	2020-09-08
+"Cañar"	"Déleg"	13	2020-09-08
+"Cañar"	"El Tambo"	90	2020-09-08
+"Cañar"	"La Troncal"	360	2020-09-08
+"Cañar"	"Suscal"	19	2020-09-08
+"Cañar"	"Azogues"	681	2020-09-09
+"Cañar"	"Biblían"	90	2020-09-09
+"Cañar"	"Cañar"	281	2020-09-09
+"Cañar"	"Déleg"	13	2020-09-09
+"Cañar"	"El Tambo"	91	2020-09-09
+"Cañar"	"La Troncal"	363	2020-09-09
+"Cañar"	"Suscal"	20	2020-09-09
+"Cañar"	"Azogues"	729	2020-09-10
+"Cañar"	"Biblían"	93	2020-09-10
+"Cañar"	"Cañar"	293	2020-09-10
+"Cañar"	"Déleg"	14	2020-09-10
+"Cañar"	"El Tambo"	91	2020-09-10
+"Cañar"	"La Troncal"	364	2020-09-10
+"Cañar"	"Suscal"	20	2020-09-10
+"Cañar"	"Azogues"	730	2020-09-11
+"Cañar"	"Biblían"	93	2020-09-11
+"Cañar"	"Cañar"	299	2020-09-11
+"Cañar"	"Déleg"	14	2020-09-11
+"Cañar"	"El Tambo"	92	2020-09-11
+"Cañar"	"La Troncal"	364	2020-09-11
+"Cañar"	"Suscal"	20	2020-09-11
+"Cañar"	"Azogues"	732	2020-09-12
+"Cañar"	"Biblían"	93	2020-09-12
+"Cañar"	"Cañar"	299	2020-09-12
+"Cañar"	"Déleg"	14	2020-09-12
+"Cañar"	"El Tambo"	92	2020-09-12
+"Cañar"	"La Troncal"	364	2020-09-12
+"Cañar"	"Suscal"	20	2020-09-12
+"Cañar"	"Azogues"	732	2020-09-13
+"Cañar"	"Biblían"	93	2020-09-13
+"Cañar"	"Cañar"	301	2020-09-13
+"Cañar"	"Déleg"	14	2020-09-13
+"Cañar"	"El Tambo"	92	2020-09-13
+"Cañar"	"La Troncal"	367	2020-09-13
+"Cañar"	"Suscal"	21	2020-09-13
+"Cañar"	"Azogues"	732	2020-09-14
+"Cañar"	"Biblían"	93	2020-09-14
+"Cañar"	"Cañar"	301	2020-09-14
+"Cañar"	"Déleg"	14	2020-09-14
+"Cañar"	"El Tambo"	92	2020-09-14
+"Cañar"	"La Troncal"	367	2020-09-14
+"Cañar"	"Suscal"	21	2020-09-14
+"Cañar"	"Azogues"	765	2020-09-15
+"Cañar"	"Biblían"	94	2020-09-15
+"Cañar"	"Cañar"	308	2020-09-15
+"Cañar"	"Déleg"	14	2020-09-15
+"Cañar"	"El Tambo"	93	2020-09-15
+"Cañar"	"La Troncal"	367	2020-09-15
+"Cañar"	"Suscal"	21	2020-09-15
+"Cañar"	"Azogues"	778	2020-09-16
+"Cañar"	"Biblían"	94	2020-09-16
+"Cañar"	"Cañar"	308	2020-09-16
+"Cañar"	"Déleg"	14	2020-09-16
+"Cañar"	"El Tambo"	96	2020-09-16
+"Cañar"	"La Troncal"	368	2020-09-16
+"Cañar"	"Suscal"	21	2020-09-16
+"Cañar"	"Azogues"	783	2020-09-17
+"Cañar"	"Biblían"	94	2020-09-17
+"Cañar"	"Cañar"	309	2020-09-17
+"Cañar"	"Déleg"	14	2020-09-17
+"Cañar"	"El Tambo"	97	2020-09-17
+"Cañar"	"La Troncal"	368	2020-09-17
+"Cañar"	"Suscal"	21	2020-09-17
+"Cañar"	"Azogues"	784	2020-09-18
+"Cañar"	"Biblían"	94	2020-09-18
+"Cañar"	"Cañar"	314	2020-09-18
+"Cañar"	"Déleg"	14	2020-09-18
+"Cañar"	"El Tambo"	99	2020-09-18
+"Cañar"	"La Troncal"	368	2020-09-18
+"Cañar"	"Suscal"	21	2020-09-18
+"Cañar"	"Azogues"	792	2020-09-19
+"Cañar"	"Biblían"	96	2020-09-19
+"Cañar"	"Cañar"	317	2020-09-19
+"Cañar"	"Déleg"	14	2020-09-19
+"Cañar"	"El Tambo"	100	2020-09-19
+"Cañar"	"La Troncal"	368	2020-09-19
+"Cañar"	"Suscal"	21	2020-09-19
+"Cañar"	"Azogues"	794	2020-09-20
+"Cañar"	"Biblían"	96	2020-09-20
+"Cañar"	"Cañar"	317	2020-09-20
+"Cañar"	"Déleg"	14	2020-09-20
+"Cañar"	"El Tambo"	101	2020-09-20
+"Cañar"	"La Troncal"	370	2020-09-20
+"Cañar"	"Suscal"	21	2020-09-20
+"Cañar"	"Azogues"	816	2020-09-21
+"Cañar"	"Biblían"	98	2020-09-21
+"Cañar"	"Cañar"	321	2020-09-21
+"Cañar"	"Déleg"	14	2020-09-21
+"Cañar"	"El Tambo"	101	2020-09-21
+"Cañar"	"La Troncal"	370	2020-09-21
+"Cañar"	"Suscal"	21	2020-09-21
+"Cañar"	"Azogues"	819	2020-09-22
+"Cañar"	"Biblían"	98	2020-09-22
+"Cañar"	"Cañar"	323	2020-09-22
+"Cañar"	"Déleg"	16	2020-09-22
+"Cañar"	"El Tambo"	101	2020-09-22
+"Cañar"	"La Troncal"	370	2020-09-22
+"Cañar"	"Suscal"	21	2020-09-22
+"Cañar"	"Azogues"	904	2020-09-23
+"Cañar"	"Biblían"	115	2020-09-23
+"Cañar"	"Cañar"	326	2020-09-23
+"Cañar"	"Déleg"	16	2020-09-23
+"Cañar"	"El Tambo"	101	2020-09-23
+"Cañar"	"La Troncal"	371	2020-09-23
+"Cañar"	"Suscal"	21	2020-09-23
+"Cañar"	"Azogues"	913	2020-09-24
+"Cañar"	"Biblían"	115	2020-09-24
+"Cañar"	"Cañar"	327	2020-09-24
+"Cañar"	"Déleg"	16	2020-09-24
+"Cañar"	"El Tambo"	101	2020-09-24
+"Cañar"	"La Troncal"	372	2020-09-24
+"Cañar"	"Suscal"	21	2020-09-24
+"Cañar"	"Azogues"	923	2020-09-25
+"Cañar"	"Biblían"	115	2020-09-25
+"Cañar"	"Cañar"	329	2020-09-25
+"Cañar"	"Déleg"	16	2020-09-25
+"Cañar"	"El Tambo"	103	2020-09-25
+"Cañar"	"La Troncal"	373	2020-09-25
+"Cañar"	"Suscal"	21	2020-09-25
+"Cañar"	"Azogues"	925	2020-09-26
+"Cañar"	"Biblían"	115	2020-09-26
+"Cañar"	"Cañar"	335	2020-09-26
+"Cañar"	"Déleg"	16	2020-09-26
+"Cañar"	"El Tambo"	103	2020-09-26
+"Cañar"	"La Troncal"	373	2020-09-26
+"Cañar"	"Suscal"	21	2020-09-26
+"Cañar"	"Azogues"	926	2020-09-27
+"Cañar"	"Biblían"	115	2020-09-27
+"Cañar"	"Cañar"	335	2020-09-27
+"Cañar"	"Déleg"	16	2020-09-27
+"Cañar"	"El Tambo"	103	2020-09-27
+"Cañar"	"La Troncal"	374	2020-09-27
+"Cañar"	"Suscal"	21	2020-09-27
+"Cañar"	"Azogues"	926	2020-09-28
+"Cañar"	"Biblían"	115	2020-09-28
+"Cañar"	"Cañar"	335	2020-09-28
+"Cañar"	"Déleg"	16	2020-09-28
+"Cañar"	"El Tambo"	103	2020-09-28
+"Cañar"	"La Troncal"	374	2020-09-28
+"Cañar"	"Suscal"	21	2020-09-28
+"Cañar"	"Azogues"	928	2020-09-29
+"Cañar"	"Biblían"	115	2020-09-29
+"Cañar"	"Cañar"	344	2020-09-29
+"Cañar"	"Déleg"	16	2020-09-29
+"Cañar"	"El Tambo"	104	2020-09-29
+"Cañar"	"La Troncal"	374	2020-09-29
+"Cañar"	"Suscal"	21	2020-09-29
+"Cañar"	"Azogues"	928	2020-09-30
+"Cañar"	"Biblían"	116	2020-09-30
+"Cañar"	"Cañar"	344	2020-09-30
+"Cañar"	"Déleg"	16	2020-09-30
+"Cañar"	"El Tambo"	104	2020-09-30
+"Cañar"	"La Troncal"	374	2020-09-30
+"Cañar"	"Suscal"	21	2020-09-30
+"Cañar"	"Azogues"	930	2020-10-01
+"Cañar"	"Biblían"	116	2020-10-01
+"Cañar"	"Cañar"	345	2020-10-01
+"Cañar"	"Déleg"	16	2020-10-01
+"Cañar"	"El Tambo"	104	2020-10-01
+"Cañar"	"La Troncal"	380	2020-10-01
+"Cañar"	"Suscal"	21	2020-10-01
+"Cañar"	"Azogues"	935	2020-10-02
+"Cañar"	"Biblían"	116	2020-10-02
+"Cañar"	"Cañar"	348	2020-10-02
+"Cañar"	"Déleg"	16	2020-10-02
+"Cañar"	"El Tambo"	104	2020-10-02
+"Cañar"	"La Troncal"	380	2020-10-02
+"Cañar"	"Suscal"	21	2020-10-02
+"Cañar"	"Azogues"	936	2020-10-03
+"Cañar"	"Biblían"	116	2020-10-03
+"Cañar"	"Cañar"	349	2020-10-03
+"Cañar"	"Déleg"	16	2020-10-03
+"Cañar"	"El Tambo"	104	2020-10-03
+"Cañar"	"La Troncal"	380	2020-10-03
+"Cañar"	"Suscal"	21	2020-10-03
+"Cañar"	"Azogues"	942	2020-10-04
+"Cañar"	"Biblían"	117	2020-10-04
+"Cañar"	"Cañar"	357	2020-10-04
+"Cañar"	"Déleg"	16	2020-10-04
+"Cañar"	"El Tambo"	104	2020-10-04
+"Cañar"	"La Troncal"	382	2020-10-04
+"Cañar"	"Suscal"	21	2020-10-04
+"Cañar"	"Azogues"	942	2020-10-05
+"Cañar"	"Biblían"	117	2020-10-05
+"Cañar"	"Cañar"	359	2020-10-05
+"Cañar"	"Déleg"	16	2020-10-05
+"Cañar"	"El Tambo"	104	2020-10-05
+"Cañar"	"La Troncal"	382	2020-10-05
+"Cañar"	"Suscal"	21	2020-10-05
+"Cañar"	"Azogues"	943	2020-10-06
+"Cañar"	"Biblían"	117	2020-10-06
+"Cañar"	"Cañar"	359	2020-10-06
+"Cañar"	"Déleg"	16	2020-10-06
+"Cañar"	"El Tambo"	105	2020-10-06
+"Cañar"	"La Troncal"	382	2020-10-06
+"Cañar"	"Suscal"	21	2020-10-06
+"Cañar"	"Azogues"	944	2020-10-07
+"Cañar"	"Biblían"	117	2020-10-07
+"Cañar"	"Cañar"	370	2020-10-07
+"Cañar"	"Déleg"	16	2020-10-07
+"Cañar"	"El Tambo"	106	2020-10-07
+"Cañar"	"La Troncal"	382	2020-10-07
+"Cañar"	"Suscal"	21	2020-10-07
+"Cañar"	"Azogues"	964	2020-10-08
+"Cañar"	"Biblían"	120	2020-10-08
+"Cañar"	"Cañar"	371	2020-10-08
+"Cañar"	"Déleg"	16	2020-10-08
+"Cañar"	"El Tambo"	106	2020-10-08
+"Cañar"	"La Troncal"	383	2020-10-08
+"Cañar"	"Suscal"	21	2020-10-08
+"Cañar"	"Azogues"	964	2020-10-09
+"Cañar"	"Biblían"	120	2020-10-09
+"Cañar"	"Cañar"	371	2020-10-09
+"Cañar"	"Déleg"	16	2020-10-09
+"Cañar"	"El Tambo"	106	2020-10-09
+"Cañar"	"La Troncal"	383	2020-10-09
+"Cañar"	"Suscal"	21	2020-10-09
+"Cañar"	"Azogues"	964	2020-10-10
+"Cañar"	"Biblían"	120	2020-10-10
+"Cañar"	"Cañar"	371	2020-10-10
+"Cañar"	"Déleg"	16	2020-10-10
+"Cañar"	"El Tambo"	106	2020-10-10
+"Cañar"	"La Troncal"	387	2020-10-10
+"Cañar"	"Suscal"	21	2020-10-10
+"Cañar"	"Azogues"	964	2020-10-11
+"Cañar"	"Biblían"	120	2020-10-11
+"Cañar"	"Cañar"	371	2020-10-11
+"Cañar"	"Déleg"	16	2020-10-11
+"Cañar"	"El Tambo"	106	2020-10-11
+"Cañar"	"La Troncal"	387	2020-10-11
+"Cañar"	"Suscal"	21	2020-10-11
+"Cañar"	"Azogues"	966	2020-10-12
+"Cañar"	"Biblían"	121	2020-10-12
+"Cañar"	"Cañar"	371	2020-10-12
+"Cañar"	"Déleg"	16	2020-10-12
+"Cañar"	"El Tambo"	106	2020-10-12
+"Cañar"	"La Troncal"	387	2020-10-12
+"Cañar"	"Suscal"	21	2020-10-12
+"Cañar"	"Azogues"	973	2020-10-13
+"Cañar"	"Biblían"	121	2020-10-13
+"Cañar"	"Cañar"	376	2020-10-13
+"Cañar"	"Déleg"	16	2020-10-13
+"Cañar"	"El Tambo"	106	2020-10-13
+"Cañar"	"La Troncal"	387	2020-10-13
+"Cañar"	"Suscal"	21	2020-10-13
+"Cañar"	"Azogues"	973	2020-10-14
+"Cañar"	"Biblían"	122	2020-10-14
+"Cañar"	"Cañar"	378	2020-10-14
+"Cañar"	"Déleg"	16	2020-10-14
+"Cañar"	"El Tambo"	107	2020-10-14
+"Cañar"	"La Troncal"	387	2020-10-14
+"Cañar"	"Suscal"	21	2020-10-14
+"Cañar"	"Azogues"	973	2020-10-15
+"Cañar"	"Biblían"	122	2020-10-15
+"Cañar"	"Cañar"	378	2020-10-15
+"Cañar"	"Déleg"	16	2020-10-15
+"Cañar"	"El Tambo"	107	2020-10-15
+"Cañar"	"La Troncal"	388	2020-10-15
+"Cañar"	"Suscal"	21	2020-10-15
+"Cañar"	"Azogues"	984	2020-10-16
+"Cañar"	"Biblían"	124	2020-10-16
+"Cañar"	"Cañar"	385	2020-10-16
+"Cañar"	"Déleg"	16	2020-10-16
+"Cañar"	"El Tambo"	107	2020-10-16
+"Cañar"	"La Troncal"	388	2020-10-16
+"Cañar"	"Suscal"	21	2020-10-16
+"Cañar"	"Azogues"	985	2020-10-17
+"Cañar"	"Biblían"	124	2020-10-17
+"Cañar"	"Cañar"	385	2020-10-17
+"Cañar"	"Déleg"	16	2020-10-17
+"Cañar"	"El Tambo"	107	2020-10-17
+"Cañar"	"La Troncal"	389	2020-10-17
+"Cañar"	"Suscal"	21	2020-10-17
+"Cañar"	"Azogues"	985	2020-10-18
+"Cañar"	"Biblían"	124	2020-10-18
+"Cañar"	"Cañar"	385	2020-10-18
+"Cañar"	"Déleg"	16	2020-10-18
+"Cañar"	"El Tambo"	107	2020-10-18
+"Cañar"	"La Troncal"	390	2020-10-18
+"Cañar"	"Suscal"	22	2020-10-18
+"Cañar"	"Azogues"	985	2020-10-19
+"Cañar"	"Biblían"	124	2020-10-19
+"Cañar"	"Cañar"	385	2020-10-19
+"Cañar"	"Déleg"	16	2020-10-19
+"Cañar"	"El Tambo"	107	2020-10-19
+"Cañar"	"La Troncal"	390	2020-10-19
+"Cañar"	"Suscal"	22	2020-10-19
+"Cañar"	"Azogues"	992	2020-10-20
+"Cañar"	"Biblían"	124	2020-10-20
+"Cañar"	"Cañar"	385	2020-10-20
+"Cañar"	"Déleg"	16	2020-10-20
+"Cañar"	"El Tambo"	108	2020-10-20
+"Cañar"	"La Troncal"	390	2020-10-20
+"Cañar"	"Suscal"	22	2020-10-20
+"Cañar"	"Azogues"	1004	2020-10-21
+"Cañar"	"Biblían"	125	2020-10-21
+"Cañar"	"Cañar"	388	2020-10-21
+"Cañar"	"Déleg"	17	2020-10-21
+"Cañar"	"El Tambo"	108	2020-10-21
+"Cañar"	"La Troncal"	390	2020-10-21
+"Cañar"	"Suscal"	22	2020-10-21
+"Cañar"	"Azogues"	1006	2020-10-22
+"Cañar"	"Biblían"	125	2020-10-22
+"Cañar"	"Cañar"	389	2020-10-22
+"Cañar"	"Déleg"	17	2020-10-22
+"Cañar"	"El Tambo"	109	2020-10-22
+"Cañar"	"La Troncal"	394	2020-10-22
+"Cañar"	"Suscal"	22	2020-10-22
+"Cañar"	"Azogues"	1008	2020-10-23
+"Cañar"	"Biblían"	125	2020-10-23
+"Cañar"	"Cañar"	389	2020-10-23
+"Cañar"	"Déleg"	17	2020-10-23
+"Cañar"	"El Tambo"	109	2020-10-23
+"Cañar"	"La Troncal"	394	2020-10-23
+"Cañar"	"Suscal"	22	2020-10-23
+"Cañar"	"Azogues"	1010	2020-10-24
+"Cañar"	"Biblían"	125	2020-10-24
+"Cañar"	"Cañar"	390	2020-10-24
+"Cañar"	"Déleg"	17	2020-10-24
+"Cañar"	"El Tambo"	109	2020-10-24
+"Cañar"	"La Troncal"	397	2020-10-24
+"Cañar"	"Suscal"	22	2020-10-24
+"Cañar"	"Azogues"	1010	2020-10-25
+"Cañar"	"Biblían"	125	2020-10-25
+"Cañar"	"Cañar"	390	2020-10-25
+"Cañar"	"Déleg"	17	2020-10-25
+"Cañar"	"El Tambo"	109	2020-10-25
+"Cañar"	"La Troncal"	410	2020-10-25
+"Cañar"	"Suscal"	22	2020-10-25
+"Cañar"	"Azogues"	1010	2020-10-26
+"Cañar"	"Biblían"	125	2020-10-26
+"Cañar"	"Cañar"	390	2020-10-26
+"Cañar"	"Déleg"	17	2020-10-26
+"Cañar"	"El Tambo"	109	2020-10-26
+"Cañar"	"La Troncal"	410	2020-10-26
+"Cañar"	"Suscal"	22	2020-10-26
+"Cañar"	"Azogues"	1017	2020-10-27
+"Cañar"	"Biblían"	125	2020-10-27
+"Cañar"	"Cañar"	390	2020-10-27
+"Cañar"	"Déleg"	17	2020-10-27
+"Cañar"	"El Tambo"	110	2020-10-27
+"Cañar"	"La Troncal"	410	2020-10-27
+"Cañar"	"Suscal"	22	2020-10-27
+"Cañar"	"Azogues"	1026	2020-10-28
+"Cañar"	"Biblían"	125	2020-10-28
+"Cañar"	"Cañar"	391	2020-10-28
+"Cañar"	"Déleg"	17	2020-10-28
+"Cañar"	"El Tambo"	110	2020-10-28
+"Cañar"	"La Troncal"	411	2020-10-28
+"Cañar"	"Suscal"	22	2020-10-28
+"Cañar"	"Azogues"	1026	2020-10-29
+"Cañar"	"Biblían"	125	2020-10-29
+"Cañar"	"Cañar"	391	2020-10-29
+"Cañar"	"Déleg"	18	2020-10-29
+"Cañar"	"El Tambo"	110	2020-10-29
+"Cañar"	"La Troncal"	415	2020-10-29
+"Cañar"	"Suscal"	22	2020-10-29
+"Cañar"	"Azogues"	1026	2020-10-30
+"Cañar"	"Biblían"	126	2020-10-30
+"Cañar"	"Cañar"	391	2020-10-30
+"Cañar"	"Déleg"	18	2020-10-30
+"Cañar"	"El Tambo"	110	2020-10-30
+"Cañar"	"La Troncal"	415	2020-10-30
+"Cañar"	"Suscal"	22	2020-10-30
+"Cañar"	"Azogues"	1026	2020-10-31
+"Cañar"	"Biblían"	127	2020-10-31
+"Cañar"	"Cañar"	391	2020-10-31
+"Cañar"	"Déleg"	18	2020-10-31
+"Cañar"	"El Tambo"	110	2020-10-31
+"Cañar"	"La Troncal"	415	2020-10-31
+"Cañar"	"Suscal"	22	2020-10-31
+"Cañar"	"Azogues"	1027	2020-11-01
+"Cañar"	"Biblían"	127	2020-11-01
+"Cañar"	"Cañar"	391	2020-11-01
+"Cañar"	"Déleg"	18	2020-11-01
+"Cañar"	"El Tambo"	110	2020-11-01
+"Cañar"	"La Troncal"	415	2020-11-01
+"Cañar"	"Suscal"	22	2020-11-01
+"Cañar"	"Azogues"	1055	2020-11-02
+"Cañar"	"Biblían"	127	2020-11-02
+"Cañar"	"Cañar"	396	2020-11-02
+"Cañar"	"Déleg"	22	2020-11-02
+"Cañar"	"El Tambo"	111	2020-11-02
+"Cañar"	"La Troncal"	420	2020-11-02
+"Cañar"	"Suscal"	22	2020-11-02
+"Cañar"	"Azogues"	1055	2020-11-03
+"Cañar"	"Biblían"	127	2020-11-03
+"Cañar"	"Cañar"	396	2020-11-03
+"Cañar"	"Déleg"	22	2020-11-03
+"Cañar"	"El Tambo"	111	2020-11-03
+"Cañar"	"La Troncal"	420	2020-11-03
+"Cañar"	"Suscal"	22	2020-11-03
+"Cañar"	"Azogues"	1055	2020-11-04
+"Cañar"	"Biblían"	127	2020-11-04
+"Cañar"	"Cañar"	396	2020-11-04
+"Cañar"	"Déleg"	22	2020-11-04
+"Cañar"	"El Tambo"	111	2020-11-04
+"Cañar"	"La Troncal"	420	2020-11-04
+"Cañar"	"Suscal"	22	2020-11-04
+"Cañar"	"Azogues"	1055	2020-11-05
+"Cañar"	"Biblían"	129	2020-11-05
+"Cañar"	"Cañar"	396	2020-11-05
+"Cañar"	"Déleg"	24	2020-11-05
+"Cañar"	"El Tambo"	111	2020-11-05
+"Cañar"	"La Troncal"	420	2020-11-05
+"Cañar"	"Suscal"	23	2020-11-05
+"Cañar"	"Azogues"	1056	2020-11-06
+"Cañar"	"Biblían"	130	2020-11-06
+"Cañar"	"Cañar"	399	2020-11-06
+"Cañar"	"Déleg"	25	2020-11-06
+"Cañar"	"El Tambo"	112	2020-11-06
+"Cañar"	"La Troncal"	420	2020-11-06
+"Cañar"	"Suscal"	23	2020-11-06
+"Cañar"	"Azogues"	1063	2020-11-07
+"Cañar"	"Biblían"	130	2020-11-07
+"Cañar"	"Cañar"	405	2020-11-07
+"Cañar"	"Déleg"	25	2020-11-07
+"Cañar"	"El Tambo"	114	2020-11-07
+"Cañar"	"La Troncal"	420	2020-11-07
+"Cañar"	"Suscal"	23	2020-11-07
+"Cañar"	"Azogues"	1064	2020-11-08
+"Cañar"	"Biblían"	130	2020-11-08
+"Cañar"	"Cañar"	405	2020-11-08
+"Cañar"	"Déleg"	25	2020-11-08
+"Cañar"	"El Tambo"	114	2020-11-08
+"Cañar"	"La Troncal"	423	2020-11-08
+"Cañar"	"Suscal"	23	2020-11-08
+"Cañar"	"Azogues"	1064	2020-11-09
+"Cañar"	"Biblían"	130	2020-11-09
+"Cañar"	"Cañar"	405	2020-11-09
+"Cañar"	"Déleg"	25	2020-11-09
+"Cañar"	"El Tambo"	114	2020-11-09
+"Cañar"	"La Troncal"	423	2020-11-09
+"Cañar"	"Suscal"	23	2020-11-09
+"Cañar"	"Azogues"	1064	2020-11-10
+"Cañar"	"Biblían"	130	2020-11-10
+"Cañar"	"Cañar"	405	2020-11-10
+"Cañar"	"Déleg"	25	2020-11-10
+"Cañar"	"El Tambo"	114	2020-11-10
+"Cañar"	"La Troncal"	423	2020-11-10
+"Cañar"	"Suscal"	23	2020-11-10
+"Cañar"	"Azogues"	1066	2020-11-11
+"Cañar"	"Biblían"	130	2020-11-11
+"Cañar"	"Cañar"	407	2020-11-11
+"Cañar"	"Déleg"	25	2020-11-11
+"Cañar"	"El Tambo"	115	2020-11-11
+"Cañar"	"La Troncal"	423	2020-11-11
+"Cañar"	"Suscal"	23	2020-11-11
+"Cañar"	"Azogues"	1073	2020-11-12
+"Cañar"	"Biblían"	130	2020-11-12
+"Cañar"	"Cañar"	413	2020-11-12
+"Cañar"	"Déleg"	25	2020-11-12
+"Cañar"	"El Tambo"	115	2020-11-12
+"Cañar"	"La Troncal"	423	2020-11-12
+"Cañar"	"Suscal"	23	2020-11-12
+"Cañar"	"Azogues"	1081	2020-11-13
+"Cañar"	"Biblían"	131	2020-11-13
+"Cañar"	"Cañar"	415	2020-11-13
+"Cañar"	"Déleg"	25	2020-11-13
+"Cañar"	"El Tambo"	115	2020-11-13
+"Cañar"	"La Troncal"	428	2020-11-13
+"Cañar"	"Suscal"	23	2020-11-13
+"Cañar"	"Azogues"	1085	2020-11-14
+"Cañar"	"Biblían"	131	2020-11-14
+"Cañar"	"Cañar"	415	2020-11-14
+"Cañar"	"Déleg"	25	2020-11-14
+"Cañar"	"El Tambo"	115	2020-11-14
+"Cañar"	"La Troncal"	428	2020-11-14
+"Cañar"	"Suscal"	23	2020-11-14
+"Cañar"	"Azogues"	1085	2020-11-15
+"Cañar"	"Biblían"	131	2020-11-15
+"Cañar"	"Cañar"	415	2020-11-15
+"Cañar"	"Déleg"	25	2020-11-15
+"Cañar"	"El Tambo"	115	2020-11-15
+"Cañar"	"La Troncal"	428	2020-11-15
+"Cañar"	"Suscal"	23	2020-11-15
+"Cañar"	"Azogues"	1085	2020-11-16
+"Cañar"	"Biblían"	132	2020-11-16
+"Cañar"	"Cañar"	417	2020-11-16
+"Cañar"	"Déleg"	25	2020-11-16
+"Cañar"	"El Tambo"	117	2020-11-16
+"Cañar"	"La Troncal"	428	2020-11-16
+"Cañar"	"Suscal"	23	2020-11-16
+"Cañar"	"Azogues"	1100	2020-11-17
+"Cañar"	"Biblían"	132	2020-11-17
+"Cañar"	"Cañar"	422	2020-11-17
+"Cañar"	"Déleg"	25	2020-11-17
+"Cañar"	"El Tambo"	118	2020-11-17
+"Cañar"	"La Troncal"	428	2020-11-17
+"Cañar"	"Suscal"	23	2020-11-17
+"Cañar"	"Azogues"	1101	2020-11-18
+"Cañar"	"Biblían"	132	2020-11-18
+"Cañar"	"Cañar"	423	2020-11-18
+"Cañar"	"Déleg"	25	2020-11-18
+"Cañar"	"El Tambo"	118	2020-11-18
+"Cañar"	"La Troncal"	428	2020-11-18
+"Cañar"	"Suscal"	23	2020-11-18
+"Cañar"	"Azogues"	1101	2020-11-19
+"Cañar"	"Biblían"	132	2020-11-19
+"Cañar"	"Cañar"	426	2020-11-19
+"Cañar"	"Déleg"	25	2020-11-19
+"Cañar"	"El Tambo"	118	2020-11-19
+"Cañar"	"La Troncal"	429	2020-11-19
+"Cañar"	"Suscal"	23	2020-11-19
+"Cañar"	"Azogues"	1103	2020-11-20
+"Cañar"	"Biblían"	134	2020-11-20
+"Cañar"	"Cañar"	427	2020-11-20
+"Cañar"	"Déleg"	25	2020-11-20
+"Cañar"	"El Tambo"	120	2020-11-20
+"Cañar"	"La Troncal"	430	2020-11-20
+"Cañar"	"Suscal"	23	2020-11-20
+"Cañar"	"Azogues"	1110	2020-11-21
+"Cañar"	"Biblían"	135	2020-11-21
+"Cañar"	"Cañar"	429	2020-11-21
+"Cañar"	"Déleg"	25	2020-11-21
+"Cañar"	"El Tambo"	120	2020-11-21
+"Cañar"	"La Troncal"	430	2020-11-21
+"Cañar"	"Suscal"	23	2020-11-21
+"Cañar"	"Azogues"	1111	2020-11-22
+"Cañar"	"Biblían"	136	2020-11-22
+"Cañar"	"Cañar"	432	2020-11-22
+"Cañar"	"Déleg"	25	2020-11-22
+"Cañar"	"El Tambo"	121	2020-11-22
+"Cañar"	"La Troncal"	430	2020-11-22
+"Cañar"	"Suscal"	23	2020-11-22
+"Cañar"	"Azogues"	1111	2020-11-23
+"Cañar"	"Biblían"	136	2020-11-23
+"Cañar"	"Cañar"	432	2020-11-23
+"Cañar"	"Déleg"	25	2020-11-23
+"Cañar"	"El Tambo"	121	2020-11-23
+"Cañar"	"La Troncal"	430	2020-11-23
+"Cañar"	"Suscal"	23	2020-11-23
+"Cañar"	"Azogues"	1142	2020-11-24
+"Cañar"	"Biblían"	136	2020-11-24
+"Cañar"	"Cañar"	434	2020-11-24
+"Cañar"	"Déleg"	25	2020-11-24
+"Cañar"	"El Tambo"	121	2020-11-24
+"Cañar"	"La Troncal"	431	2020-11-24
+"Cañar"	"Suscal"	23	2020-11-24
+"Cañar"	"Azogues"	1170	2020-11-25
+"Cañar"	"Biblían"	141	2020-11-25
+"Cañar"	"Cañar"	442	2020-11-25
+"Cañar"	"Déleg"	26	2020-11-25
+"Cañar"	"El Tambo"	122	2020-11-25
+"Cañar"	"La Troncal"	432	2020-11-25
+"Cañar"	"Suscal"	23	2020-11-25
+"Cañar"	"Azogues"	1178	2020-11-26
+"Cañar"	"Biblían"	141	2020-11-26
+"Cañar"	"Cañar"	445	2020-11-26
+"Cañar"	"Déleg"	26	2020-11-26
+"Cañar"	"El Tambo"	124	2020-11-26
+"Cañar"	"La Troncal"	434	2020-11-26
+"Cañar"	"Suscal"	23	2020-11-26
+"Cañar"	"Azogues"	1187	2020-11-27
+"Cañar"	"Biblían"	144	2020-11-27
+"Cañar"	"Cañar"	451	2020-11-27
+"Cañar"	"Déleg"	26	2020-11-27
+"Cañar"	"El Tambo"	126	2020-11-27
+"Cañar"	"La Troncal"	436	2020-11-27
+"Cañar"	"Suscal"	23	2020-11-27
+"Cañar"	"Azogues"	1191	2020-11-28
+"Cañar"	"Biblían"	146	2020-11-28
+"Cañar"	"Cañar"	452	2020-11-28
+"Cañar"	"Déleg"	26	2020-11-28
+"Cañar"	"El Tambo"	128	2020-11-28
+"Cañar"	"La Troncal"	445	2020-11-28
+"Cañar"	"Suscal"	23	2020-11-28
+"Cañar"	"Azogues"	1194	2020-11-29
+"Cañar"	"Biblían"	146	2020-11-29
+"Cañar"	"Cañar"	455	2020-11-29
+"Cañar"	"Déleg"	26	2020-11-29
+"Cañar"	"El Tambo"	130	2020-11-29
+"Cañar"	"La Troncal"	445	2020-11-29
+"Cañar"	"Suscal"	23	2020-11-29
+"Cañar"	"Azogues"	1206	2020-11-30
+"Cañar"	"Biblían"	149	2020-11-30
+"Cañar"	"Cañar"	458	2020-11-30
+"Cañar"	"Déleg"	26	2020-11-30
+"Cañar"	"El Tambo"	130	2020-11-30
+"Cañar"	"La Troncal"	445	2020-11-30
+"Cañar"	"Suscal"	23	2020-11-30
+"Cañar"	"Azogues"	1231	2020-12-01
+"Cañar"	"Biblían"	150	2020-12-01
+"Cañar"	"Cañar"	460	2020-12-01
+"Cañar"	"Déleg"	27	2020-12-01
+"Cañar"	"El Tambo"	132	2020-12-01
+"Cañar"	"La Troncal"	445	2020-12-01
+"Cañar"	"Suscal"	24	2020-12-01
+"Cañar"	"Azogues"	1235	2020-12-02
+"Cañar"	"Biblían"	150	2020-12-02
+"Cañar"	"Cañar"	464	2020-12-02
+"Cañar"	"Déleg"	27	2020-12-02
+"Cañar"	"El Tambo"	136	2020-12-02
+"Cañar"	"La Troncal"	447	2020-12-02
+"Cañar"	"Suscal"	24	2020-12-02
+"Cañar"	"Azogues"	1240	2020-12-03
+"Cañar"	"Biblían"	151	2020-12-03
+"Cañar"	"Cañar"	465	2020-12-03
+"Cañar"	"Déleg"	27	2020-12-03
+"Cañar"	"El Tambo"	136	2020-12-03
+"Cañar"	"La Troncal"	447	2020-12-03
+"Cañar"	"Suscal"	24	2020-12-03
+"Cañar"	"Azogues"	1244	2020-12-04
+"Cañar"	"Biblían"	151	2020-12-04
+"Cañar"	"Cañar"	469	2020-12-04
+"Cañar"	"Déleg"	27	2020-12-04
+"Cañar"	"El Tambo"	136	2020-12-04
+"Cañar"	"La Troncal"	447	2020-12-04
+"Cañar"	"Suscal"	24	2020-12-04
+"Cañar"	"Azogues"	1255	2020-12-05
+"Cañar"	"Biblían"	151	2020-12-05
+"Cañar"	"Cañar"	471	2020-12-05
+"Cañar"	"Déleg"	27	2020-12-05
+"Cañar"	"El Tambo"	139	2020-12-05
+"Cañar"	"La Troncal"	448	2020-12-05
+"Cañar"	"Suscal"	24	2020-12-05
+"Cañar"	"Azogues"	1258	2020-12-06
+"Cañar"	"Biblían"	151	2020-12-06
+"Cañar"	"Cañar"	473	2020-12-06
+"Cañar"	"Déleg"	27	2020-12-06
+"Cañar"	"El Tambo"	139	2020-12-06
+"Cañar"	"La Troncal"	448	2020-12-06
+"Cañar"	"Suscal"	24	2020-12-06
+"Cañar"	"Azogues"	1258	2020-12-07
+"Cañar"	"Biblían"	151	2020-12-07
+"Cañar"	"Cañar"	474	2020-12-07
+"Cañar"	"Déleg"	27	2020-12-07
+"Cañar"	"El Tambo"	139	2020-12-07
+"Cañar"	"La Troncal"	449	2020-12-07
+"Cañar"	"Suscal"	24	2020-12-07
+"Cañar"	"Azogues"	1270	2020-12-08
+"Cañar"	"Biblían"	151	2020-12-08
+"Cañar"	"Cañar"	475	2020-12-08
+"Cañar"	"Déleg"	27	2020-12-08
+"Cañar"	"El Tambo"	140	2020-12-08
+"Cañar"	"La Troncal"	452	2020-12-08
+"Cañar"	"Suscal"	25	2020-12-08
+"Cañar"	"Azogues"	1276	2020-12-09
+"Cañar"	"Biblían"	151	2020-12-09
+"Cañar"	"Cañar"	477	2020-12-09
+"Cañar"	"Déleg"	27	2020-12-09
+"Cañar"	"El Tambo"	142	2020-12-09
+"Cañar"	"La Troncal"	455	2020-12-09
+"Cañar"	"Suscal"	25	2020-12-09
+"Cañar"	"Azogues"	1278	2020-12-10
+"Cañar"	"Biblían"	151	2020-12-10
+"Cañar"	"Cañar"	481	2020-12-10
+"Cañar"	"Déleg"	27	2020-12-10
+"Cañar"	"El Tambo"	142	2020-12-10
+"Cañar"	"La Troncal"	455	2020-12-10
+"Cañar"	"Suscal"	25	2020-12-10
+"Cañar"	"Azogues"	1283	2020-12-11
+"Cañar"	"Biblían"	151	2020-12-11
+"Cañar"	"Cañar"	481	2020-12-11
+"Cañar"	"Déleg"	27	2020-12-11
+"Cañar"	"El Tambo"	142	2020-12-11
+"Cañar"	"La Troncal"	456	2020-12-11
+"Cañar"	"Suscal"	25	2020-12-11
+"Cañar"	"Azogues"	1283	2020-12-12
+"Cañar"	"Biblían"	152	2020-12-12
+"Cañar"	"Cañar"	483	2020-12-12
+"Cañar"	"Déleg"	27	2020-12-12
+"Cañar"	"El Tambo"	142	2020-12-12
+"Cañar"	"La Troncal"	456	2020-12-12
+"Cañar"	"Suscal"	25	2020-12-12
+"Cañar"	"Azogues"	1287	2020-12-13
+"Cañar"	"Biblían"	152	2020-12-13
+"Cañar"	"Cañar"	484	2020-12-13
+"Cañar"	"Déleg"	27	2020-12-13
+"Cañar"	"El Tambo"	145	2020-12-13
+"Cañar"	"La Troncal"	456	2020-12-13
+"Cañar"	"Suscal"	25	2020-12-13
+"Cañar"	"Azogues"	1287	2020-12-14
+"Cañar"	"Biblían"	152	2020-12-14
+"Cañar"	"Cañar"	484	2020-12-14
+"Cañar"	"Déleg"	27	2020-12-14
+"Cañar"	"El Tambo"	145	2020-12-14
+"Cañar"	"La Troncal"	456	2020-12-14
+"Cañar"	"Suscal"	25	2020-12-14
+"Cañar"	"Azogues"	1303	2020-12-15
+"Cañar"	"Biblían"	152	2020-12-15
+"Cañar"	"Cañar"	486	2020-12-15
+"Cañar"	"Déleg"	27	2020-12-15
+"Cañar"	"El Tambo"	145	2020-12-15
+"Cañar"	"La Troncal"	456	2020-12-15
+"Cañar"	"Suscal"	25	2020-12-15
+"Cañar"	"Azogues"	1325	2020-12-16
+"Cañar"	"Biblían"	154	2020-12-16
+"Cañar"	"Cañar"	493	2020-12-16
+"Cañar"	"Déleg"	27	2020-12-16
+"Cañar"	"El Tambo"	146	2020-12-16
+"Cañar"	"La Troncal"	458	2020-12-16
+"Cañar"	"Suscal"	25	2020-12-16
+"Cañar"	"Azogues"	1332	2020-12-17
+"Cañar"	"Biblían"	154	2020-12-17
+"Cañar"	"Cañar"	493	2020-12-17
+"Cañar"	"Déleg"	27	2020-12-17
+"Cañar"	"El Tambo"	146	2020-12-17
+"Cañar"	"La Troncal"	458	2020-12-17
+"Cañar"	"Suscal"	25	2020-12-17
+"Cañar"	"Azogues"	1340	2020-12-18
+"Cañar"	"Biblían"	154	2020-12-18
+"Cañar"	"Cañar"	495	2020-12-18
+"Cañar"	"Déleg"	27	2020-12-18
+"Cañar"	"El Tambo"	147	2020-12-18
+"Cañar"	"La Troncal"	458	2020-12-18
+"Cañar"	"Suscal"	25	2020-12-18
+"Cañar"	"Azogues"	1347	2020-12-19
+"Cañar"	"Biblían"	154	2020-12-19
+"Cañar"	"Cañar"	499	2020-12-19
+"Cañar"	"Déleg"	27	2020-12-19
+"Cañar"	"El Tambo"	149	2020-12-19
+"Cañar"	"La Troncal"	458	2020-12-19
+"Cañar"	"Suscal"	25	2020-12-19
+"Cañar"	"Azogues"	1353	2020-12-20
+"Cañar"	"Biblían"	154	2020-12-20
+"Cañar"	"Cañar"	500	2020-12-20
+"Cañar"	"Déleg"	27	2020-12-20
+"Cañar"	"El Tambo"	149	2020-12-20
+"Cañar"	"La Troncal"	464	2020-12-20
+"Cañar"	"Suscal"	25	2020-12-20
+"Cañar"	"Azogues"	1353	2020-12-21
+"Cañar"	"Biblían"	154	2020-12-21
+"Cañar"	"Cañar"	500	2020-12-21
+"Cañar"	"Déleg"	27	2020-12-21
+"Cañar"	"El Tambo"	149	2020-12-21
+"Cañar"	"La Troncal"	464	2020-12-21
+"Cañar"	"Suscal"	25	2020-12-21
+"Cañar"	"Azogues"	1353	2020-12-22
+"Cañar"	"Biblían"	154	2020-12-22
+"Cañar"	"Cañar"	500	2020-12-22
+"Cañar"	"Déleg"	27	2020-12-22
+"Cañar"	"El Tambo"	149	2020-12-22
+"Cañar"	"La Troncal"	464	2020-12-22
+"Cañar"	"Suscal"	25	2020-12-22
+"Cañar"	"Azogues"	1393	2020-12-23
+"Cañar"	"Biblían"	156	2020-12-23
+"Cañar"	"Cañar"	504	2020-12-23
+"Cañar"	"Déleg"	27	2020-12-23
+"Cañar"	"El Tambo"	150	2020-12-23
+"Cañar"	"La Troncal"	464	2020-12-23
+"Cañar"	"Suscal"	26	2020-12-23
+"Cañar"	"Azogues"	1410	2020-12-24
+"Cañar"	"Biblían"	156	2020-12-24
+"Cañar"	"Cañar"	511	2020-12-24
+"Cañar"	"Déleg"	27	2020-12-24
+"Cañar"	"El Tambo"	152	2020-12-24
+"Cañar"	"La Troncal"	466	2020-12-24
+"Cañar"	"Suscal"	26	2020-12-24
+"Cañar"	"Azogues"	1417	2020-12-25
+"Cañar"	"Biblían"	156	2020-12-25
+"Cañar"	"Cañar"	513	2020-12-25
+"Cañar"	"Déleg"	27	2020-12-25
+"Cañar"	"El Tambo"	153	2020-12-25
+"Cañar"	"La Troncal"	466	2020-12-25
+"Cañar"	"Suscal"	26	2020-12-25
+"Cañar"	"Azogues"	1421	2020-12-26
+"Cañar"	"Biblían"	157	2020-12-26
+"Cañar"	"Cañar"	516	2020-12-26
+"Cañar"	"Déleg"	27	2020-12-26
+"Cañar"	"El Tambo"	154	2020-12-26
+"Cañar"	"La Troncal"	466	2020-12-26
+"Cañar"	"Suscal"	26	2020-12-26
+"Cañar"	"Azogues"	1422	2020-12-27
+"Cañar"	"Biblían"	157	2020-12-27
+"Cañar"	"Cañar"	516	2020-12-27
+"Cañar"	"Déleg"	27	2020-12-27
+"Cañar"	"El Tambo"	154	2020-12-27
+"Cañar"	"La Troncal"	466	2020-12-27
+"Cañar"	"Suscal"	26	2020-12-27
+"Cañar"	"Azogues"	1423	2020-12-28
+"Cañar"	"Biblían"	157	2020-12-28
+"Cañar"	"Cañar"	516	2020-12-28
+"Cañar"	"Déleg"	27	2020-12-28
+"Cañar"	"El Tambo"	154	2020-12-28
+"Cañar"	"La Troncal"	466	2020-12-28
+"Cañar"	"Suscal"	26	2020-12-28
+"Cañar"	"Azogues"	1431	2020-12-29
+"Cañar"	"Biblían"	159	2020-12-29
+"Cañar"	"Cañar"	526	2020-12-29
+"Cañar"	"Déleg"	28	2020-12-29
+"Cañar"	"El Tambo"	156	2020-12-29
+"Cañar"	"La Troncal"	466	2020-12-29
+"Cañar"	"Suscal"	26	2020-12-29
+"Cañar"	"Azogues"	1437	2020-12-30
+"Cañar"	"Biblían"	159	2020-12-30
+"Cañar"	"Cañar"	527	2020-12-30
+"Cañar"	"Déleg"	28	2020-12-30
+"Cañar"	"El Tambo"	157	2020-12-30
+"Cañar"	"La Troncal"	466	2020-12-30
+"Cañar"	"Suscal"	26	2020-12-30
+"Cañar"	"Azogues"	1438	2020-12-31
+"Cañar"	"Biblían"	159	2020-12-31
+"Cañar"	"Cañar"	527	2020-12-31
+"Cañar"	"Déleg"	28	2020-12-31
+"Cañar"	"El Tambo"	157	2020-12-31
+"Cañar"	"La Troncal"	469	2020-12-31
+"Cañar"	"Suscal"	26	2020-12-31
 "Cañar"	"Azogues"	1480	2021-01-01
 "Cañar"	"Biblían"	160	2021-01-01
 "Cañar"	"Cañar"	529	2021-01-01
@@ -3317,3 +5375,59 @@
 "Cañar"	"El Tambo"	590	2022-04-19
 "Cañar"	"La Troncal"	2045	2022-04-19
 "Cañar"	"Suscal"	122	2022-04-19
+"Cañar"	"Azogues"	7642	2022-04-20
+"Cañar"	"Biblían"	1302	2022-04-20
+"Cañar"	"Cañar"	2585	2022-04-20
+"Cañar"	"Déleg"	214	2022-04-20
+"Cañar"	"El Tambo"	590	2022-04-20
+"Cañar"	"La Troncal"	2045	2022-04-20
+"Cañar"	"Suscal"	122	2022-04-20
+"Cañar"	"Azogues"	7644	2022-04-21
+"Cañar"	"Biblían"	1302	2022-04-21
+"Cañar"	"Cañar"	2585	2022-04-21
+"Cañar"	"Déleg"	215	2022-04-21
+"Cañar"	"El Tambo"	590	2022-04-21
+"Cañar"	"La Troncal"	2045	2022-04-21
+"Cañar"	"Suscal"	122	2022-04-21
+"Cañar"	"Azogues"	7647	2022-04-22
+"Cañar"	"Biblían"	1303	2022-04-22
+"Cañar"	"Cañar"	2586	2022-04-22
+"Cañar"	"Déleg"	215	2022-04-22
+"Cañar"	"El Tambo"	590	2022-04-22
+"Cañar"	"La Troncal"	2045	2022-04-22
+"Cañar"	"Suscal"	122	2022-04-22
+"Cañar"	"Azogues"	7651	2022-04-23
+"Cañar"	"Biblían"	1304	2022-04-23
+"Cañar"	"Cañar"	2589	2022-04-23
+"Cañar"	"Déleg"	215	2022-04-23
+"Cañar"	"El Tambo"	590	2022-04-23
+"Cañar"	"La Troncal"	2045	2022-04-23
+"Cañar"	"Suscal"	122	2022-04-23
+"Cañar"	"Azogues"	7652	2022-04-24
+"Cañar"	"Biblían"	1304	2022-04-24
+"Cañar"	"Cañar"	2590	2022-04-24
+"Cañar"	"Déleg"	215	2022-04-24
+"Cañar"	"El Tambo"	590	2022-04-24
+"Cañar"	"La Troncal"	2046	2022-04-24
+"Cañar"	"Suscal"	122	2022-04-24
+"Cañar"	"Azogues"	7652	2022-04-25
+"Cañar"	"Biblían"	1304	2022-04-25
+"Cañar"	"Cañar"	2590	2022-04-25
+"Cañar"	"Déleg"	215	2022-04-25
+"Cañar"	"El Tambo"	590	2022-04-25
+"Cañar"	"La Troncal"	2046	2022-04-25
+"Cañar"	"Suscal"	122	2022-04-25
+"Cañar"	"Azogues"	7652	2022-04-26
+"Cañar"	"Biblían"	1304	2022-04-26
+"Cañar"	"Cañar"	2590	2022-04-26
+"Cañar"	"Déleg"	215	2022-04-26
+"Cañar"	"El Tambo"	590	2022-04-26
+"Cañar"	"La Troncal"	2046	2022-04-26
+"Cañar"	"Suscal"	122	2022-04-26
+"Cañar"	"Azogues"	7655	2022-04-27
+"Cañar"	"Biblían"	1304	2022-04-27
+"Cañar"	"Cañar"	2591	2022-04-27
+"Cañar"	"Déleg"	215	2022-04-27
+"Cañar"	"El Tambo"	590	2022-04-27
+"Cañar"	"La Troncal"	2047	2022-04-27
+"Cañar"	"Suscal"	122	2022-04-27

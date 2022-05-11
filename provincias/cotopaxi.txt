@@ -1,4 +1,2062 @@
 "provincia"	"canton"	"total"	"created_at"
+"Cotopaxi"	"La Maná"	0	2020-03-13
+"Cotopaxi"	"Latacunga"	0	2020-03-13
+"Cotopaxi"	"Pangua"	0	2020-03-13
+"Cotopaxi"	"Pujilí"	0	2020-03-13
+"Cotopaxi"	"Salcedo"	0	2020-03-13
+"Cotopaxi"	"Saquisilí"	0	2020-03-13
+"Cotopaxi"	"Sigchos"	0	2020-03-13
+"Cotopaxi"	"La Maná"	0	2020-03-14
+"Cotopaxi"	"Latacunga"	0	2020-03-14
+"Cotopaxi"	"Pangua"	0	2020-03-14
+"Cotopaxi"	"Pujilí"	0	2020-03-14
+"Cotopaxi"	"Salcedo"	0	2020-03-14
+"Cotopaxi"	"Saquisilí"	0	2020-03-14
+"Cotopaxi"	"Sigchos"	0	2020-03-14
+"Cotopaxi"	"La Maná"	0	2020-03-15
+"Cotopaxi"	"Latacunga"	0	2020-03-15
+"Cotopaxi"	"Pangua"	0	2020-03-15
+"Cotopaxi"	"Pujilí"	0	2020-03-15
+"Cotopaxi"	"Salcedo"	0	2020-03-15
+"Cotopaxi"	"Saquisilí"	0	2020-03-15
+"Cotopaxi"	"Sigchos"	0	2020-03-15
+"Cotopaxi"	"La Maná"	0	2020-03-16
+"Cotopaxi"	"Latacunga"	0	2020-03-16
+"Cotopaxi"	"Pangua"	0	2020-03-16
+"Cotopaxi"	"Pujilí"	0	2020-03-16
+"Cotopaxi"	"Salcedo"	0	2020-03-16
+"Cotopaxi"	"Saquisilí"	0	2020-03-16
+"Cotopaxi"	"Sigchos"	0	2020-03-16
+"Cotopaxi"	"La Maná"	0	2020-03-17
+"Cotopaxi"	"Latacunga"	0	2020-03-17
+"Cotopaxi"	"Pangua"	0	2020-03-17
+"Cotopaxi"	"Pujilí"	0	2020-03-17
+"Cotopaxi"	"Salcedo"	0	2020-03-17
+"Cotopaxi"	"Saquisilí"	0	2020-03-17
+"Cotopaxi"	"Sigchos"	0	2020-03-17
+"Cotopaxi"	"La Maná"	0	2020-03-18
+"Cotopaxi"	"Latacunga"	0	2020-03-18
+"Cotopaxi"	"Pangua"	0	2020-03-18
+"Cotopaxi"	"Pujilí"	0	2020-03-18
+"Cotopaxi"	"Salcedo"	0	2020-03-18
+"Cotopaxi"	"Saquisilí"	0	2020-03-18
+"Cotopaxi"	"Sigchos"	0	2020-03-18
+"Cotopaxi"	"La Maná"	0	2020-03-19
+"Cotopaxi"	"Latacunga"	0	2020-03-19
+"Cotopaxi"	"Pangua"	0	2020-03-19
+"Cotopaxi"	"Pujilí"	0	2020-03-19
+"Cotopaxi"	"Salcedo"	0	2020-03-19
+"Cotopaxi"	"Saquisilí"	0	2020-03-19
+"Cotopaxi"	"Sigchos"	0	2020-03-19
+"Cotopaxi"	"La Maná"	0	2020-03-20
+"Cotopaxi"	"Latacunga"	0	2020-03-20
+"Cotopaxi"	"Pangua"	0	2020-03-20
+"Cotopaxi"	"Pujilí"	0	2020-03-20
+"Cotopaxi"	"Salcedo"	0	2020-03-20
+"Cotopaxi"	"Saquisilí"	0	2020-03-20
+"Cotopaxi"	"Sigchos"	0	2020-03-20
+"Cotopaxi"	"La Maná"	0	2020-03-21
+"Cotopaxi"	"Latacunga"	0	2020-03-21
+"Cotopaxi"	"Pangua"	0	2020-03-21
+"Cotopaxi"	"Pujilí"	0	2020-03-21
+"Cotopaxi"	"Salcedo"	0	2020-03-21
+"Cotopaxi"	"Saquisilí"	0	2020-03-21
+"Cotopaxi"	"Sigchos"	0	2020-03-21
+"Cotopaxi"	"La Maná"	0	2020-03-22
+"Cotopaxi"	"Latacunga"	0	2020-03-22
+"Cotopaxi"	"Pangua"	0	2020-03-22
+"Cotopaxi"	"Pujilí"	0	2020-03-22
+"Cotopaxi"	"Salcedo"	0	2020-03-22
+"Cotopaxi"	"Saquisilí"	0	2020-03-22
+"Cotopaxi"	"Sigchos"	0	2020-03-22
+"Cotopaxi"	"La Maná"	1	2020-03-23
+"Cotopaxi"	"Latacunga"	0	2020-03-23
+"Cotopaxi"	"Pangua"	0	2020-03-23
+"Cotopaxi"	"Pujilí"	0	2020-03-23
+"Cotopaxi"	"Salcedo"	0	2020-03-23
+"Cotopaxi"	"Saquisilí"	0	2020-03-23
+"Cotopaxi"	"Sigchos"	0	2020-03-23
+"Cotopaxi"	"La Maná"	1	2020-03-24
+"Cotopaxi"	"Latacunga"	0	2020-03-24
+"Cotopaxi"	"Pangua"	0	2020-03-24
+"Cotopaxi"	"Pujilí"	0	2020-03-24
+"Cotopaxi"	"Salcedo"	0	2020-03-24
+"Cotopaxi"	"Saquisilí"	0	2020-03-24
+"Cotopaxi"	"Sigchos"	0	2020-03-24
+"Cotopaxi"	"La Maná"	1	2020-03-25
+"Cotopaxi"	"Latacunga"	1	2020-03-25
+"Cotopaxi"	"Pangua"	0	2020-03-25
+"Cotopaxi"	"Pujilí"	0	2020-03-25
+"Cotopaxi"	"Salcedo"	0	2020-03-25
+"Cotopaxi"	"Saquisilí"	0	2020-03-25
+"Cotopaxi"	"Sigchos"	0	2020-03-25
+"Cotopaxi"	"La Maná"	1	2020-03-26
+"Cotopaxi"	"Latacunga"	1	2020-03-26
+"Cotopaxi"	"Pangua"	0	2020-03-26
+"Cotopaxi"	"Pujilí"	0	2020-03-26
+"Cotopaxi"	"Salcedo"	0	2020-03-26
+"Cotopaxi"	"Saquisilí"	0	2020-03-26
+"Cotopaxi"	"Sigchos"	0	2020-03-26
+"Cotopaxi"	"La Maná"	1	2020-03-27
+"Cotopaxi"	"Latacunga"	1	2020-03-27
+"Cotopaxi"	"Pangua"	0	2020-03-27
+"Cotopaxi"	"Pujilí"	0	2020-03-27
+"Cotopaxi"	"Salcedo"	1	2020-03-27
+"Cotopaxi"	"Saquisilí"	1	2020-03-27
+"Cotopaxi"	"Sigchos"	0	2020-03-27
+"Cotopaxi"	"La Maná"	1	2020-03-28
+"Cotopaxi"	"Latacunga"	1	2020-03-28
+"Cotopaxi"	"Pangua"	0	2020-03-28
+"Cotopaxi"	"Pujilí"	0	2020-03-28
+"Cotopaxi"	"Salcedo"	2	2020-03-28
+"Cotopaxi"	"Saquisilí"	1	2020-03-28
+"Cotopaxi"	"Sigchos"	0	2020-03-28
+"Cotopaxi"	"La Maná"	1	2020-03-29
+"Cotopaxi"	"Latacunga"	1	2020-03-29
+"Cotopaxi"	"Pangua"	0	2020-03-29
+"Cotopaxi"	"Pujilí"	0	2020-03-29
+"Cotopaxi"	"Salcedo"	2	2020-03-29
+"Cotopaxi"	"Saquisilí"	1	2020-03-29
+"Cotopaxi"	"Sigchos"	0	2020-03-29
+"Cotopaxi"	"La Maná"	1	2020-03-30
+"Cotopaxi"	"Latacunga"	1	2020-03-30
+"Cotopaxi"	"Pangua"	0	2020-03-30
+"Cotopaxi"	"Pujilí"	0	2020-03-30
+"Cotopaxi"	"Salcedo"	2	2020-03-30
+"Cotopaxi"	"Saquisilí"	1	2020-03-30
+"Cotopaxi"	"Sigchos"	0	2020-03-30
+"Cotopaxi"	"La Maná"	1	2020-03-31
+"Cotopaxi"	"Latacunga"	4	2020-03-31
+"Cotopaxi"	"Pangua"	0	2020-03-31
+"Cotopaxi"	"Pujilí"	0	2020-03-31
+"Cotopaxi"	"Salcedo"	2	2020-03-31
+"Cotopaxi"	"Saquisilí"	1	2020-03-31
+"Cotopaxi"	"Sigchos"	0	2020-03-31
+"Cotopaxi"	"La Maná"	1	2020-04-01
+"Cotopaxi"	"Latacunga"	5	2020-04-01
+"Cotopaxi"	"Pangua"	0	2020-04-01
+"Cotopaxi"	"Pujilí"	0	2020-04-01
+"Cotopaxi"	"Salcedo"	2	2020-04-01
+"Cotopaxi"	"Saquisilí"	1	2020-04-01
+"Cotopaxi"	"Sigchos"	1	2020-04-01
+"Cotopaxi"	"La Maná"	1	2020-04-02
+"Cotopaxi"	"Latacunga"	7	2020-04-02
+"Cotopaxi"	"Pangua"	0	2020-04-02
+"Cotopaxi"	"Pujilí"	0	2020-04-02
+"Cotopaxi"	"Salcedo"	2	2020-04-02
+"Cotopaxi"	"Saquisilí"	1	2020-04-02
+"Cotopaxi"	"Sigchos"	1	2020-04-02
+"Cotopaxi"	"La Maná"	1	2020-04-03
+"Cotopaxi"	"Latacunga"	7	2020-04-03
+"Cotopaxi"	"Pangua"	0	2020-04-03
+"Cotopaxi"	"Pujilí"	1	2020-04-03
+"Cotopaxi"	"Salcedo"	2	2020-04-03
+"Cotopaxi"	"Saquisilí"	1	2020-04-03
+"Cotopaxi"	"Sigchos"	1	2020-04-03
+"Cotopaxi"	"La Maná"	1	2020-04-04
+"Cotopaxi"	"Latacunga"	10	2020-04-04
+"Cotopaxi"	"Pangua"	0	2020-04-04
+"Cotopaxi"	"Pujilí"	1	2020-04-04
+"Cotopaxi"	"Salcedo"	2	2020-04-04
+"Cotopaxi"	"Saquisilí"	1	2020-04-04
+"Cotopaxi"	"Sigchos"	1	2020-04-04
+"Cotopaxi"	"La Maná"	1	2020-04-05
+"Cotopaxi"	"Latacunga"	10	2020-04-05
+"Cotopaxi"	"Pangua"	0	2020-04-05
+"Cotopaxi"	"Pujilí"	2	2020-04-05
+"Cotopaxi"	"Salcedo"	2	2020-04-05
+"Cotopaxi"	"Saquisilí"	1	2020-04-05
+"Cotopaxi"	"Sigchos"	1	2020-04-05
+"Cotopaxi"	"La Maná"	3	2020-04-06
+"Cotopaxi"	"Latacunga"	14	2020-04-06
+"Cotopaxi"	"Pangua"	0	2020-04-06
+"Cotopaxi"	"Pujilí"	2	2020-04-06
+"Cotopaxi"	"Salcedo"	2	2020-04-06
+"Cotopaxi"	"Saquisilí"	1	2020-04-06
+"Cotopaxi"	"Sigchos"	1	2020-04-06
+"Cotopaxi"	"La Maná"	3	2020-04-07
+"Cotopaxi"	"Latacunga"	18	2020-04-07
+"Cotopaxi"	"Pangua"	0	2020-04-07
+"Cotopaxi"	"Pujilí"	2	2020-04-07
+"Cotopaxi"	"Salcedo"	2	2020-04-07
+"Cotopaxi"	"Saquisilí"	1	2020-04-07
+"Cotopaxi"	"Sigchos"	2	2020-04-07
+"Cotopaxi"	"La Maná"	3	2020-04-08
+"Cotopaxi"	"Latacunga"	18	2020-04-08
+"Cotopaxi"	"Pangua"	0	2020-04-08
+"Cotopaxi"	"Pujilí"	2	2020-04-08
+"Cotopaxi"	"Salcedo"	2	2020-04-08
+"Cotopaxi"	"Saquisilí"	1	2020-04-08
+"Cotopaxi"	"Sigchos"	2	2020-04-08
+"Cotopaxi"	"La Maná"	3	2020-04-09
+"Cotopaxi"	"Latacunga"	20	2020-04-09
+"Cotopaxi"	"Pangua"	0	2020-04-09
+"Cotopaxi"	"Pujilí"	2	2020-04-09
+"Cotopaxi"	"Salcedo"	2	2020-04-09
+"Cotopaxi"	"Saquisilí"	1	2020-04-09
+"Cotopaxi"	"Sigchos"	2	2020-04-09
+"Cotopaxi"	"La Maná"	3	2020-04-10
+"Cotopaxi"	"Latacunga"	22	2020-04-10
+"Cotopaxi"	"Pangua"	0	2020-04-10
+"Cotopaxi"	"Pujilí"	3	2020-04-10
+"Cotopaxi"	"Salcedo"	2	2020-04-10
+"Cotopaxi"	"Saquisilí"	1	2020-04-10
+"Cotopaxi"	"Sigchos"	2	2020-04-10
+"Cotopaxi"	"La Maná"	4	2020-04-11
+"Cotopaxi"	"Latacunga"	24	2020-04-11
+"Cotopaxi"	"Pangua"	0	2020-04-11
+"Cotopaxi"	"Pujilí"	3	2020-04-11
+"Cotopaxi"	"Salcedo"	2	2020-04-11
+"Cotopaxi"	"Saquisilí"	1	2020-04-11
+"Cotopaxi"	"Sigchos"	2	2020-04-11
+"Cotopaxi"	"La Maná"	5	2020-04-12
+"Cotopaxi"	"Latacunga"	28	2020-04-12
+"Cotopaxi"	"Pangua"	0	2020-04-12
+"Cotopaxi"	"Pujilí"	4	2020-04-12
+"Cotopaxi"	"Salcedo"	2	2020-04-12
+"Cotopaxi"	"Saquisilí"	1	2020-04-12
+"Cotopaxi"	"Sigchos"	2	2020-04-12
+"Cotopaxi"	"La Maná"	5	2020-04-13
+"Cotopaxi"	"Latacunga"	28	2020-04-13
+"Cotopaxi"	"Pangua"	0	2020-04-13
+"Cotopaxi"	"Pujilí"	4	2020-04-13
+"Cotopaxi"	"Salcedo"	2	2020-04-13
+"Cotopaxi"	"Saquisilí"	1	2020-04-13
+"Cotopaxi"	"Sigchos"	2	2020-04-13
+"Cotopaxi"	"La Maná"	5	2020-04-14
+"Cotopaxi"	"Latacunga"	29	2020-04-14
+"Cotopaxi"	"Pangua"	0	2020-04-14
+"Cotopaxi"	"Pujilí"	4	2020-04-14
+"Cotopaxi"	"Salcedo"	2	2020-04-14
+"Cotopaxi"	"Saquisilí"	1	2020-04-14
+"Cotopaxi"	"Sigchos"	2	2020-04-14
+"Cotopaxi"	"La Maná"	5	2020-04-15
+"Cotopaxi"	"Latacunga"	30	2020-04-15
+"Cotopaxi"	"Pangua"	1	2020-04-15
+"Cotopaxi"	"Pujilí"	4	2020-04-15
+"Cotopaxi"	"Salcedo"	2	2020-04-15
+"Cotopaxi"	"Saquisilí"	1	2020-04-15
+"Cotopaxi"	"Sigchos"	2	2020-04-15
+"Cotopaxi"	"La Maná"	5	2020-04-16
+"Cotopaxi"	"Latacunga"	30	2020-04-16
+"Cotopaxi"	"Pangua"	1	2020-04-16
+"Cotopaxi"	"Pujilí"	5	2020-04-16
+"Cotopaxi"	"Salcedo"	2	2020-04-16
+"Cotopaxi"	"Saquisilí"	1	2020-04-16
+"Cotopaxi"	"Sigchos"	2	2020-04-16
+"Cotopaxi"	"La Maná"	5	2020-04-17
+"Cotopaxi"	"Latacunga"	34	2020-04-17
+"Cotopaxi"	"Pangua"	1	2020-04-17
+"Cotopaxi"	"Pujilí"	5	2020-04-17
+"Cotopaxi"	"Salcedo"	2	2020-04-17
+"Cotopaxi"	"Saquisilí"	1	2020-04-17
+"Cotopaxi"	"Sigchos"	2	2020-04-17
+"Cotopaxi"	"La Maná"	5	2020-04-18
+"Cotopaxi"	"Latacunga"	34	2020-04-18
+"Cotopaxi"	"Pangua"	1	2020-04-18
+"Cotopaxi"	"Pujilí"	5	2020-04-18
+"Cotopaxi"	"Salcedo"	3	2020-04-18
+"Cotopaxi"	"Saquisilí"	1	2020-04-18
+"Cotopaxi"	"Sigchos"	2	2020-04-18
+"Cotopaxi"	"La Maná"	6	2020-04-19
+"Cotopaxi"	"Latacunga"	36	2020-04-19
+"Cotopaxi"	"Pangua"	1	2020-04-19
+"Cotopaxi"	"Pujilí"	5	2020-04-19
+"Cotopaxi"	"Salcedo"	3	2020-04-19
+"Cotopaxi"	"Saquisilí"	1	2020-04-19
+"Cotopaxi"	"Sigchos"	2	2020-04-19
+"Cotopaxi"	"La Maná"	6	2020-04-20
+"Cotopaxi"	"Latacunga"	37	2020-04-20
+"Cotopaxi"	"Pangua"	1	2020-04-20
+"Cotopaxi"	"Pujilí"	5	2020-04-20
+"Cotopaxi"	"Salcedo"	5	2020-04-20
+"Cotopaxi"	"Saquisilí"	1	2020-04-20
+"Cotopaxi"	"Sigchos"	2	2020-04-20
+"Cotopaxi"	"La Maná"	6	2020-04-21
+"Cotopaxi"	"Latacunga"	37	2020-04-21
+"Cotopaxi"	"Pangua"	1	2020-04-21
+"Cotopaxi"	"Pujilí"	5	2020-04-21
+"Cotopaxi"	"Salcedo"	5	2020-04-21
+"Cotopaxi"	"Saquisilí"	1	2020-04-21
+"Cotopaxi"	"Sigchos"	2	2020-04-21
+"Cotopaxi"	"La Maná"	6	2020-04-22
+"Cotopaxi"	"Latacunga"	39	2020-04-22
+"Cotopaxi"	"Pangua"	1	2020-04-22
+"Cotopaxi"	"Pujilí"	5	2020-04-22
+"Cotopaxi"	"Salcedo"	5	2020-04-22
+"Cotopaxi"	"Saquisilí"	1	2020-04-22
+"Cotopaxi"	"Sigchos"	2	2020-04-22
+"Cotopaxi"	"La Maná"	10	2020-04-23
+"Cotopaxi"	"Latacunga"	40	2020-04-23
+"Cotopaxi"	"Pangua"	1	2020-04-23
+"Cotopaxi"	"Pujilí"	8	2020-04-23
+"Cotopaxi"	"Salcedo"	6	2020-04-23
+"Cotopaxi"	"Saquisilí"	1	2020-04-23
+"Cotopaxi"	"Sigchos"	2	2020-04-23
+"Cotopaxi"	"La Maná"	10	2020-04-24
+"Cotopaxi"	"Latacunga"	40	2020-04-24
+"Cotopaxi"	"Pangua"	1	2020-04-24
+"Cotopaxi"	"Pujilí"	8	2020-04-24
+"Cotopaxi"	"Salcedo"	6	2020-04-24
+"Cotopaxi"	"Saquisilí"	1	2020-04-24
+"Cotopaxi"	"Sigchos"	2	2020-04-24
+"Cotopaxi"	"La Maná"	10	2020-04-25
+"Cotopaxi"	"Latacunga"	40	2020-04-25
+"Cotopaxi"	"Pangua"	1	2020-04-25
+"Cotopaxi"	"Pujilí"	8	2020-04-25
+"Cotopaxi"	"Salcedo"	6	2020-04-25
+"Cotopaxi"	"Saquisilí"	1	2020-04-25
+"Cotopaxi"	"Sigchos"	2	2020-04-25
+"Cotopaxi"	"La Maná"	10	2020-04-26
+"Cotopaxi"	"Latacunga"	40	2020-04-26
+"Cotopaxi"	"Pangua"	1	2020-04-26
+"Cotopaxi"	"Pujilí"	8	2020-04-26
+"Cotopaxi"	"Salcedo"	6	2020-04-26
+"Cotopaxi"	"Saquisilí"	1	2020-04-26
+"Cotopaxi"	"Sigchos"	2	2020-04-26
+"Cotopaxi"	"La Maná"	10	2020-04-27
+"Cotopaxi"	"Latacunga"	40	2020-04-27
+"Cotopaxi"	"Pangua"	1	2020-04-27
+"Cotopaxi"	"Pujilí"	8	2020-04-27
+"Cotopaxi"	"Salcedo"	6	2020-04-27
+"Cotopaxi"	"Saquisilí"	1	2020-04-27
+"Cotopaxi"	"Sigchos"	2	2020-04-27
+"Cotopaxi"	"La Maná"	16	2020-04-28
+"Cotopaxi"	"Latacunga"	47	2020-04-28
+"Cotopaxi"	"Pangua"	1	2020-04-28
+"Cotopaxi"	"Pujilí"	11	2020-04-28
+"Cotopaxi"	"Salcedo"	8	2020-04-28
+"Cotopaxi"	"Saquisilí"	2	2020-04-28
+"Cotopaxi"	"Sigchos"	2	2020-04-28
+"Cotopaxi"	"La Maná"	16	2020-04-29
+"Cotopaxi"	"Latacunga"	48	2020-04-29
+"Cotopaxi"	"Pangua"	1	2020-04-29
+"Cotopaxi"	"Pujilí"	13	2020-04-29
+"Cotopaxi"	"Salcedo"	8	2020-04-29
+"Cotopaxi"	"Saquisilí"	2	2020-04-29
+"Cotopaxi"	"Sigchos"	2	2020-04-29
+"Cotopaxi"	"La Maná"	17	2020-04-30
+"Cotopaxi"	"Latacunga"	49	2020-04-30
+"Cotopaxi"	"Pangua"	1	2020-04-30
+"Cotopaxi"	"Pujilí"	16	2020-04-30
+"Cotopaxi"	"Salcedo"	13	2020-04-30
+"Cotopaxi"	"Saquisilí"	2	2020-04-30
+"Cotopaxi"	"Sigchos"	2	2020-04-30
+"Cotopaxi"	"La Maná"	21	2020-05-01
+"Cotopaxi"	"Latacunga"	59	2020-05-01
+"Cotopaxi"	"Pangua"	1	2020-05-01
+"Cotopaxi"	"Pujilí"	17	2020-05-01
+"Cotopaxi"	"Salcedo"	17	2020-05-01
+"Cotopaxi"	"Saquisilí"	3	2020-05-01
+"Cotopaxi"	"Sigchos"	2	2020-05-01
+"Cotopaxi"	"La Maná"	22	2020-05-02
+"Cotopaxi"	"Latacunga"	58	2020-05-02
+"Cotopaxi"	"Pangua"	1	2020-05-02
+"Cotopaxi"	"Pujilí"	19	2020-05-02
+"Cotopaxi"	"Salcedo"	18	2020-05-02
+"Cotopaxi"	"Saquisilí"	2	2020-05-02
+"Cotopaxi"	"Sigchos"	2	2020-05-02
+"Cotopaxi"	"La Maná"	25	2020-05-03
+"Cotopaxi"	"Latacunga"	62	2020-05-03
+"Cotopaxi"	"Pangua"	2	2020-05-03
+"Cotopaxi"	"Pujilí"	21	2020-05-03
+"Cotopaxi"	"Salcedo"	20	2020-05-03
+"Cotopaxi"	"Saquisilí"	3	2020-05-03
+"Cotopaxi"	"Sigchos"	2	2020-05-03
+"Cotopaxi"	"La Maná"	25	2020-05-04
+"Cotopaxi"	"Latacunga"	64	2020-05-04
+"Cotopaxi"	"Pangua"	2	2020-05-04
+"Cotopaxi"	"Pujilí"	22	2020-05-04
+"Cotopaxi"	"Salcedo"	20	2020-05-04
+"Cotopaxi"	"Saquisilí"	3	2020-05-04
+"Cotopaxi"	"Sigchos"	2	2020-05-04
+"Cotopaxi"	"La Maná"	25	2020-05-05
+"Cotopaxi"	"Latacunga"	64	2020-05-05
+"Cotopaxi"	"Pangua"	2	2020-05-05
+"Cotopaxi"	"Pujilí"	22	2020-05-05
+"Cotopaxi"	"Salcedo"	20	2020-05-05
+"Cotopaxi"	"Saquisilí"	3	2020-05-05
+"Cotopaxi"	"Sigchos"	2	2020-05-05
+"Cotopaxi"	"La Maná"	28	2020-05-06
+"Cotopaxi"	"Latacunga"	66	2020-05-06
+"Cotopaxi"	"Pangua"	2	2020-05-06
+"Cotopaxi"	"Pujilí"	22	2020-05-06
+"Cotopaxi"	"Salcedo"	20	2020-05-06
+"Cotopaxi"	"Saquisilí"	4	2020-05-06
+"Cotopaxi"	"Sigchos"	3	2020-05-06
+"Cotopaxi"	"La Maná"	29	2020-05-07
+"Cotopaxi"	"Latacunga"	67	2020-05-07
+"Cotopaxi"	"Pangua"	2	2020-05-07
+"Cotopaxi"	"Pujilí"	22	2020-05-07
+"Cotopaxi"	"Salcedo"	21	2020-05-07
+"Cotopaxi"	"Saquisilí"	4	2020-05-07
+"Cotopaxi"	"Sigchos"	3	2020-05-07
+"Cotopaxi"	"La Maná"	29	2020-05-08
+"Cotopaxi"	"Latacunga"	74	2020-05-08
+"Cotopaxi"	"Pangua"	2	2020-05-08
+"Cotopaxi"	"Pujilí"	23	2020-05-08
+"Cotopaxi"	"Salcedo"	22	2020-05-08
+"Cotopaxi"	"Saquisilí"	4	2020-05-08
+"Cotopaxi"	"Sigchos"	2	2020-05-08
+"Cotopaxi"	"La Maná"	29	2020-05-09
+"Cotopaxi"	"Latacunga"	74	2020-05-09
+"Cotopaxi"	"Pangua"	2	2020-05-09
+"Cotopaxi"	"Pujilí"	24	2020-05-09
+"Cotopaxi"	"Salcedo"	25	2020-05-09
+"Cotopaxi"	"Saquisilí"	4	2020-05-09
+"Cotopaxi"	"Sigchos"	2	2020-05-09
+"Cotopaxi"	"La Maná"	30	2020-05-10
+"Cotopaxi"	"Latacunga"	76	2020-05-10
+"Cotopaxi"	"Pangua"	2	2020-05-10
+"Cotopaxi"	"Pujilí"	25	2020-05-10
+"Cotopaxi"	"Salcedo"	26	2020-05-10
+"Cotopaxi"	"Saquisilí"	6	2020-05-10
+"Cotopaxi"	"Sigchos"	3	2020-05-10
+"Cotopaxi"	"La Maná"	33	2020-05-11
+"Cotopaxi"	"Latacunga"	74	2020-05-11
+"Cotopaxi"	"Pangua"	2	2020-05-11
+"Cotopaxi"	"Pujilí"	31	2020-05-11
+"Cotopaxi"	"Salcedo"	25	2020-05-11
+"Cotopaxi"	"Saquisilí"	4	2020-05-11
+"Cotopaxi"	"Sigchos"	2	2020-05-11
+"Cotopaxi"	"La Maná"	38	2020-05-12
+"Cotopaxi"	"Latacunga"	96	2020-05-12
+"Cotopaxi"	"Pangua"	2	2020-05-12
+"Cotopaxi"	"Pujilí"	35	2020-05-12
+"Cotopaxi"	"Salcedo"	26	2020-05-12
+"Cotopaxi"	"Saquisilí"	7	2020-05-12
+"Cotopaxi"	"Sigchos"	3	2020-05-12
+"Cotopaxi"	"La Maná"	38	2020-05-13
+"Cotopaxi"	"Latacunga"	96	2020-05-13
+"Cotopaxi"	"Pangua"	2	2020-05-13
+"Cotopaxi"	"Pujilí"	35	2020-05-13
+"Cotopaxi"	"Salcedo"	26	2020-05-13
+"Cotopaxi"	"Saquisilí"	7	2020-05-13
+"Cotopaxi"	"Sigchos"	3	2020-05-13
+"Cotopaxi"	"La Maná"	38	2020-05-14
+"Cotopaxi"	"Latacunga"	96	2020-05-14
+"Cotopaxi"	"Pangua"	2	2020-05-14
+"Cotopaxi"	"Pujilí"	35	2020-05-14
+"Cotopaxi"	"Salcedo"	26	2020-05-14
+"Cotopaxi"	"Saquisilí"	7	2020-05-14
+"Cotopaxi"	"Sigchos"	3	2020-05-14
+"Cotopaxi"	"La Maná"	38	2020-05-15
+"Cotopaxi"	"Latacunga"	106	2020-05-15
+"Cotopaxi"	"Pangua"	2	2020-05-15
+"Cotopaxi"	"Pujilí"	39	2020-05-15
+"Cotopaxi"	"Salcedo"	26	2020-05-15
+"Cotopaxi"	"Saquisilí"	7	2020-05-15
+"Cotopaxi"	"Sigchos"	3	2020-05-15
+"Cotopaxi"	"La Maná"	39	2020-05-16
+"Cotopaxi"	"Latacunga"	112	2020-05-16
+"Cotopaxi"	"Pangua"	2	2020-05-16
+"Cotopaxi"	"Pujilí"	39	2020-05-16
+"Cotopaxi"	"Salcedo"	26	2020-05-16
+"Cotopaxi"	"Saquisilí"	7	2020-05-16
+"Cotopaxi"	"Sigchos"	3	2020-05-16
+"Cotopaxi"	"La Maná"	39	2020-05-17
+"Cotopaxi"	"Latacunga"	113	2020-05-17
+"Cotopaxi"	"Pangua"	2	2020-05-17
+"Cotopaxi"	"Pujilí"	39	2020-05-17
+"Cotopaxi"	"Salcedo"	26	2020-05-17
+"Cotopaxi"	"Saquisilí"	8	2020-05-17
+"Cotopaxi"	"Sigchos"	3	2020-05-17
+"Cotopaxi"	"La Maná"	39	2020-05-18
+"Cotopaxi"	"Latacunga"	113	2020-05-18
+"Cotopaxi"	"Pangua"	2	2020-05-18
+"Cotopaxi"	"Pujilí"	41	2020-05-18
+"Cotopaxi"	"Salcedo"	29	2020-05-18
+"Cotopaxi"	"Saquisilí"	10	2020-05-18
+"Cotopaxi"	"Sigchos"	3	2020-05-18
+"Cotopaxi"	"La Maná"	40	2020-05-19
+"Cotopaxi"	"Latacunga"	122	2020-05-19
+"Cotopaxi"	"Pangua"	2	2020-05-19
+"Cotopaxi"	"Pujilí"	43	2020-05-19
+"Cotopaxi"	"Salcedo"	30	2020-05-19
+"Cotopaxi"	"Saquisilí"	11	2020-05-19
+"Cotopaxi"	"Sigchos"	3	2020-05-19
+"Cotopaxi"	"La Maná"	41	2020-05-20
+"Cotopaxi"	"Latacunga"	132	2020-05-20
+"Cotopaxi"	"Pangua"	4	2020-05-20
+"Cotopaxi"	"Pujilí"	48	2020-05-20
+"Cotopaxi"	"Salcedo"	32	2020-05-20
+"Cotopaxi"	"Saquisilí"	15	2020-05-20
+"Cotopaxi"	"Sigchos"	5	2020-05-20
+"Cotopaxi"	"La Maná"	45	2020-05-21
+"Cotopaxi"	"Latacunga"	133	2020-05-21
+"Cotopaxi"	"Pangua"	4	2020-05-21
+"Cotopaxi"	"Pujilí"	48	2020-05-21
+"Cotopaxi"	"Salcedo"	33	2020-05-21
+"Cotopaxi"	"Saquisilí"	15	2020-05-21
+"Cotopaxi"	"Sigchos"	5	2020-05-21
+"Cotopaxi"	"La Maná"	45	2020-05-22
+"Cotopaxi"	"Latacunga"	142	2020-05-22
+"Cotopaxi"	"Pangua"	4	2020-05-22
+"Cotopaxi"	"Pujilí"	50	2020-05-22
+"Cotopaxi"	"Salcedo"	34	2020-05-22
+"Cotopaxi"	"Saquisilí"	19	2020-05-22
+"Cotopaxi"	"Sigchos"	5	2020-05-22
+"Cotopaxi"	"La Maná"	45	2020-05-23
+"Cotopaxi"	"Latacunga"	151	2020-05-23
+"Cotopaxi"	"Pangua"	4	2020-05-23
+"Cotopaxi"	"Pujilí"	54	2020-05-23
+"Cotopaxi"	"Salcedo"	35	2020-05-23
+"Cotopaxi"	"Saquisilí"	20	2020-05-23
+"Cotopaxi"	"Sigchos"	6	2020-05-23
+"Cotopaxi"	"La Maná"	47	2020-05-24
+"Cotopaxi"	"Latacunga"	162	2020-05-24
+"Cotopaxi"	"Pangua"	4	2020-05-24
+"Cotopaxi"	"Pujilí"	54	2020-05-24
+"Cotopaxi"	"Salcedo"	35	2020-05-24
+"Cotopaxi"	"Saquisilí"	21	2020-05-24
+"Cotopaxi"	"Sigchos"	6	2020-05-24
+"Cotopaxi"	"La Maná"	48	2020-05-25
+"Cotopaxi"	"Latacunga"	169	2020-05-25
+"Cotopaxi"	"Pangua"	7	2020-05-25
+"Cotopaxi"	"Pujilí"	57	2020-05-25
+"Cotopaxi"	"Salcedo"	38	2020-05-25
+"Cotopaxi"	"Saquisilí"	22	2020-05-25
+"Cotopaxi"	"Sigchos"	7	2020-05-25
+"Cotopaxi"	"La Maná"	49	2020-05-26
+"Cotopaxi"	"Latacunga"	170	2020-05-26
+"Cotopaxi"	"Pangua"	7	2020-05-26
+"Cotopaxi"	"Pujilí"	57	2020-05-26
+"Cotopaxi"	"Salcedo"	38	2020-05-26
+"Cotopaxi"	"Saquisilí"	23	2020-05-26
+"Cotopaxi"	"Sigchos"	7	2020-05-26
+"Cotopaxi"	"La Maná"	49	2020-05-27
+"Cotopaxi"	"Latacunga"	178	2020-05-27
+"Cotopaxi"	"Pangua"	7	2020-05-27
+"Cotopaxi"	"Pujilí"	62	2020-05-27
+"Cotopaxi"	"Salcedo"	39	2020-05-27
+"Cotopaxi"	"Saquisilí"	23	2020-05-27
+"Cotopaxi"	"Sigchos"	9	2020-05-27
+"Cotopaxi"	"La Maná"	50	2020-05-28
+"Cotopaxi"	"Latacunga"	188	2020-05-28
+"Cotopaxi"	"Pangua"	7	2020-05-28
+"Cotopaxi"	"Pujilí"	62	2020-05-28
+"Cotopaxi"	"Salcedo"	40	2020-05-28
+"Cotopaxi"	"Saquisilí"	23	2020-05-28
+"Cotopaxi"	"Sigchos"	9	2020-05-28
+"Cotopaxi"	"La Maná"	50	2020-05-29
+"Cotopaxi"	"Latacunga"	189	2020-05-29
+"Cotopaxi"	"Pangua"	7	2020-05-29
+"Cotopaxi"	"Pujilí"	62	2020-05-29
+"Cotopaxi"	"Salcedo"	40	2020-05-29
+"Cotopaxi"	"Saquisilí"	23	2020-05-29
+"Cotopaxi"	"Sigchos"	9	2020-05-29
+"Cotopaxi"	"La Maná"	51	2020-05-30
+"Cotopaxi"	"Latacunga"	189	2020-05-30
+"Cotopaxi"	"Pangua"	7	2020-05-30
+"Cotopaxi"	"Pujilí"	62	2020-05-30
+"Cotopaxi"	"Salcedo"	40	2020-05-30
+"Cotopaxi"	"Saquisilí"	28	2020-05-30
+"Cotopaxi"	"Sigchos"	9	2020-05-30
+"Cotopaxi"	"La Maná"	56	2020-05-31
+"Cotopaxi"	"Latacunga"	190	2020-05-31
+"Cotopaxi"	"Pangua"	7	2020-05-31
+"Cotopaxi"	"Pujilí"	65	2020-05-31
+"Cotopaxi"	"Salcedo"	40	2020-05-31
+"Cotopaxi"	"Saquisilí"	28	2020-05-31
+"Cotopaxi"	"Sigchos"	9	2020-05-31
+"Cotopaxi"	"La Maná"	57	2020-06-01
+"Cotopaxi"	"Latacunga"	219	2020-06-01
+"Cotopaxi"	"Pangua"	7	2020-06-01
+"Cotopaxi"	"Pujilí"	68	2020-06-01
+"Cotopaxi"	"Salcedo"	60	2020-06-01
+"Cotopaxi"	"Saquisilí"	39	2020-06-01
+"Cotopaxi"	"Sigchos"	10	2020-06-01
+"Cotopaxi"	"La Maná"	62	2020-06-02
+"Cotopaxi"	"Latacunga"	228	2020-06-02
+"Cotopaxi"	"Pangua"	7	2020-06-02
+"Cotopaxi"	"Pujilí"	71	2020-06-02
+"Cotopaxi"	"Salcedo"	66	2020-06-02
+"Cotopaxi"	"Saquisilí"	39	2020-06-02
+"Cotopaxi"	"Sigchos"	10	2020-06-02
+"Cotopaxi"	"La Maná"	63	2020-06-03
+"Cotopaxi"	"Latacunga"	241	2020-06-03
+"Cotopaxi"	"Pangua"	7	2020-06-03
+"Cotopaxi"	"Pujilí"	72	2020-06-03
+"Cotopaxi"	"Salcedo"	69	2020-06-03
+"Cotopaxi"	"Saquisilí"	41	2020-06-03
+"Cotopaxi"	"Sigchos"	10	2020-06-03
+"Cotopaxi"	"La Maná"	66	2020-06-04
+"Cotopaxi"	"Latacunga"	243	2020-06-04
+"Cotopaxi"	"Pangua"	7	2020-06-04
+"Cotopaxi"	"Pujilí"	72	2020-06-04
+"Cotopaxi"	"Salcedo"	73	2020-06-04
+"Cotopaxi"	"Saquisilí"	41	2020-06-04
+"Cotopaxi"	"Sigchos"	10	2020-06-04
+"Cotopaxi"	"La Maná"	66	2020-06-05
+"Cotopaxi"	"Latacunga"	250	2020-06-05
+"Cotopaxi"	"Pangua"	8	2020-06-05
+"Cotopaxi"	"Pujilí"	73	2020-06-05
+"Cotopaxi"	"Salcedo"	81	2020-06-05
+"Cotopaxi"	"Saquisilí"	41	2020-06-05
+"Cotopaxi"	"Sigchos"	10	2020-06-05
+"Cotopaxi"	"La Maná"	73	2020-06-06
+"Cotopaxi"	"Latacunga"	254	2020-06-06
+"Cotopaxi"	"Pangua"	10	2020-06-06
+"Cotopaxi"	"Pujilí"	73	2020-06-06
+"Cotopaxi"	"Salcedo"	95	2020-06-06
+"Cotopaxi"	"Saquisilí"	43	2020-06-06
+"Cotopaxi"	"Sigchos"	10	2020-06-06
+"Cotopaxi"	"La Maná"	73	2020-06-07
+"Cotopaxi"	"Latacunga"	269	2020-06-07
+"Cotopaxi"	"Pangua"	10	2020-06-07
+"Cotopaxi"	"Pujilí"	80	2020-06-07
+"Cotopaxi"	"Salcedo"	97	2020-06-07
+"Cotopaxi"	"Saquisilí"	46	2020-06-07
+"Cotopaxi"	"Sigchos"	11	2020-06-07
+"Cotopaxi"	"La Maná"	73	2020-06-08
+"Cotopaxi"	"Latacunga"	269	2020-06-08
+"Cotopaxi"	"Pangua"	10	2020-06-08
+"Cotopaxi"	"Pujilí"	81	2020-06-08
+"Cotopaxi"	"Salcedo"	99	2020-06-08
+"Cotopaxi"	"Saquisilí"	46	2020-06-08
+"Cotopaxi"	"Sigchos"	11	2020-06-08
+"Cotopaxi"	"La Maná"	73	2020-06-09
+"Cotopaxi"	"Latacunga"	277	2020-06-09
+"Cotopaxi"	"Pangua"	10	2020-06-09
+"Cotopaxi"	"Pujilí"	86	2020-06-09
+"Cotopaxi"	"Salcedo"	99	2020-06-09
+"Cotopaxi"	"Saquisilí"	48	2020-06-09
+"Cotopaxi"	"Sigchos"	11	2020-06-09
+"Cotopaxi"	"La Maná"	79	2020-06-10
+"Cotopaxi"	"Latacunga"	292	2020-06-10
+"Cotopaxi"	"Pangua"	10	2020-06-10
+"Cotopaxi"	"Pujilí"	90	2020-06-10
+"Cotopaxi"	"Salcedo"	109	2020-06-10
+"Cotopaxi"	"Saquisilí"	50	2020-06-10
+"Cotopaxi"	"Sigchos"	14	2020-06-10
+"Cotopaxi"	"La Maná"	85	2020-06-11
+"Cotopaxi"	"Latacunga"	315	2020-06-11
+"Cotopaxi"	"Pangua"	10	2020-06-11
+"Cotopaxi"	"Pujilí"	94	2020-06-11
+"Cotopaxi"	"Salcedo"	115	2020-06-11
+"Cotopaxi"	"Saquisilí"	51	2020-06-11
+"Cotopaxi"	"Sigchos"	14	2020-06-11
+"Cotopaxi"	"La Maná"	85	2020-06-12
+"Cotopaxi"	"Latacunga"	323	2020-06-12
+"Cotopaxi"	"Pangua"	13	2020-06-12
+"Cotopaxi"	"Pujilí"	94	2020-06-12
+"Cotopaxi"	"Salcedo"	120	2020-06-12
+"Cotopaxi"	"Saquisilí"	55	2020-06-12
+"Cotopaxi"	"Sigchos"	14	2020-06-12
+"Cotopaxi"	"La Maná"	85	2020-06-13
+"Cotopaxi"	"Latacunga"	352	2020-06-13
+"Cotopaxi"	"Pangua"	13	2020-06-13
+"Cotopaxi"	"Pujilí"	96	2020-06-13
+"Cotopaxi"	"Salcedo"	122	2020-06-13
+"Cotopaxi"	"Saquisilí"	56	2020-06-13
+"Cotopaxi"	"Sigchos"	14	2020-06-13
+"Cotopaxi"	"La Maná"	85	2020-06-14
+"Cotopaxi"	"Latacunga"	356	2020-06-14
+"Cotopaxi"	"Pangua"	13	2020-06-14
+"Cotopaxi"	"Pujilí"	96	2020-06-14
+"Cotopaxi"	"Salcedo"	124	2020-06-14
+"Cotopaxi"	"Saquisilí"	62	2020-06-14
+"Cotopaxi"	"Sigchos"	14	2020-06-14
+"Cotopaxi"	"La Maná"	92	2020-06-15
+"Cotopaxi"	"Latacunga"	360	2020-06-15
+"Cotopaxi"	"Pangua"	13	2020-06-15
+"Cotopaxi"	"Pujilí"	96	2020-06-15
+"Cotopaxi"	"Salcedo"	125	2020-06-15
+"Cotopaxi"	"Saquisilí"	67	2020-06-15
+"Cotopaxi"	"Sigchos"	14	2020-06-15
+"Cotopaxi"	"La Maná"	92	2020-06-16
+"Cotopaxi"	"Latacunga"	361	2020-06-16
+"Cotopaxi"	"Pangua"	13	2020-06-16
+"Cotopaxi"	"Pujilí"	98	2020-06-16
+"Cotopaxi"	"Salcedo"	130	2020-06-16
+"Cotopaxi"	"Saquisilí"	67	2020-06-16
+"Cotopaxi"	"Sigchos"	14	2020-06-16
+"Cotopaxi"	"La Maná"	92	2020-06-17
+"Cotopaxi"	"Latacunga"	398	2020-06-17
+"Cotopaxi"	"Pangua"	13	2020-06-17
+"Cotopaxi"	"Pujilí"	98	2020-06-17
+"Cotopaxi"	"Salcedo"	135	2020-06-17
+"Cotopaxi"	"Saquisilí"	73	2020-06-17
+"Cotopaxi"	"Sigchos"	14	2020-06-17
+"Cotopaxi"	"La Maná"	93	2020-06-18
+"Cotopaxi"	"Latacunga"	402	2020-06-18
+"Cotopaxi"	"Pangua"	13	2020-06-18
+"Cotopaxi"	"Pujilí"	99	2020-06-18
+"Cotopaxi"	"Salcedo"	138	2020-06-18
+"Cotopaxi"	"Saquisilí"	73	2020-06-18
+"Cotopaxi"	"Sigchos"	14	2020-06-18
+"Cotopaxi"	"La Maná"	94	2020-06-19
+"Cotopaxi"	"Latacunga"	415	2020-06-19
+"Cotopaxi"	"Pangua"	13	2020-06-19
+"Cotopaxi"	"Pujilí"	99	2020-06-19
+"Cotopaxi"	"Salcedo"	138	2020-06-19
+"Cotopaxi"	"Saquisilí"	77	2020-06-19
+"Cotopaxi"	"Sigchos"	14	2020-06-19
+"Cotopaxi"	"La Maná"	94	2020-06-20
+"Cotopaxi"	"Latacunga"	422	2020-06-20
+"Cotopaxi"	"Pangua"	13	2020-06-20
+"Cotopaxi"	"Pujilí"	100	2020-06-20
+"Cotopaxi"	"Salcedo"	139	2020-06-20
+"Cotopaxi"	"Saquisilí"	79	2020-06-20
+"Cotopaxi"	"Sigchos"	14	2020-06-20
+"Cotopaxi"	"La Maná"	94	2020-06-21
+"Cotopaxi"	"Latacunga"	424	2020-06-21
+"Cotopaxi"	"Pangua"	13	2020-06-21
+"Cotopaxi"	"Pujilí"	104	2020-06-21
+"Cotopaxi"	"Salcedo"	140	2020-06-21
+"Cotopaxi"	"Saquisilí"	79	2020-06-21
+"Cotopaxi"	"Sigchos"	14	2020-06-21
+"Cotopaxi"	"La Maná"	95	2020-06-22
+"Cotopaxi"	"Latacunga"	441	2020-06-22
+"Cotopaxi"	"Pangua"	13	2020-06-22
+"Cotopaxi"	"Pujilí"	104	2020-06-22
+"Cotopaxi"	"Salcedo"	140	2020-06-22
+"Cotopaxi"	"Saquisilí"	83	2020-06-22
+"Cotopaxi"	"Sigchos"	16	2020-06-22
+"Cotopaxi"	"La Maná"	96	2020-06-23
+"Cotopaxi"	"Latacunga"	452	2020-06-23
+"Cotopaxi"	"Pangua"	14	2020-06-23
+"Cotopaxi"	"Pujilí"	105	2020-06-23
+"Cotopaxi"	"Salcedo"	144	2020-06-23
+"Cotopaxi"	"Saquisilí"	95	2020-06-23
+"Cotopaxi"	"Sigchos"	16	2020-06-23
+"Cotopaxi"	"La Maná"	104	2020-06-24
+"Cotopaxi"	"Latacunga"	453	2020-06-24
+"Cotopaxi"	"Pangua"	14	2020-06-24
+"Cotopaxi"	"Pujilí"	106	2020-06-24
+"Cotopaxi"	"Salcedo"	146	2020-06-24
+"Cotopaxi"	"Saquisilí"	95	2020-06-24
+"Cotopaxi"	"Sigchos"	16	2020-06-24
+"Cotopaxi"	"La Maná"	106	2020-06-25
+"Cotopaxi"	"Latacunga"	465	2020-06-25
+"Cotopaxi"	"Pangua"	14	2020-06-25
+"Cotopaxi"	"Pujilí"	107	2020-06-25
+"Cotopaxi"	"Salcedo"	157	2020-06-25
+"Cotopaxi"	"Saquisilí"	98	2020-06-25
+"Cotopaxi"	"Sigchos"	18	2020-06-25
+"Cotopaxi"	"La Maná"	106	2020-06-26
+"Cotopaxi"	"Latacunga"	482	2020-06-26
+"Cotopaxi"	"Pangua"	14	2020-06-26
+"Cotopaxi"	"Pujilí"	111	2020-06-26
+"Cotopaxi"	"Salcedo"	158	2020-06-26
+"Cotopaxi"	"Saquisilí"	98	2020-06-26
+"Cotopaxi"	"Sigchos"	18	2020-06-26
+"Cotopaxi"	"La Maná"	106	2020-06-27
+"Cotopaxi"	"Latacunga"	495	2020-06-27
+"Cotopaxi"	"Pangua"	14	2020-06-27
+"Cotopaxi"	"Pujilí"	111	2020-06-27
+"Cotopaxi"	"Salcedo"	158	2020-06-27
+"Cotopaxi"	"Saquisilí"	99	2020-06-27
+"Cotopaxi"	"Sigchos"	24	2020-06-27
+"Cotopaxi"	"La Maná"	106	2020-06-28
+"Cotopaxi"	"Latacunga"	509	2020-06-28
+"Cotopaxi"	"Pangua"	14	2020-06-28
+"Cotopaxi"	"Pujilí"	113	2020-06-28
+"Cotopaxi"	"Salcedo"	166	2020-06-28
+"Cotopaxi"	"Saquisilí"	104	2020-06-28
+"Cotopaxi"	"Sigchos"	24	2020-06-28
+"Cotopaxi"	"La Maná"	106	2020-06-29
+"Cotopaxi"	"Latacunga"	519	2020-06-29
+"Cotopaxi"	"Pangua"	14	2020-06-29
+"Cotopaxi"	"Pujilí"	116	2020-06-29
+"Cotopaxi"	"Salcedo"	171	2020-06-29
+"Cotopaxi"	"Saquisilí"	112	2020-06-29
+"Cotopaxi"	"Sigchos"	25	2020-06-29
+"Cotopaxi"	"La Maná"	108	2020-06-30
+"Cotopaxi"	"Latacunga"	529	2020-06-30
+"Cotopaxi"	"Pangua"	18	2020-06-30
+"Cotopaxi"	"Pujilí"	116	2020-06-30
+"Cotopaxi"	"Salcedo"	179	2020-06-30
+"Cotopaxi"	"Saquisilí"	117	2020-06-30
+"Cotopaxi"	"Sigchos"	25	2020-06-30
+"Cotopaxi"	"La Maná"	108	2020-07-01
+"Cotopaxi"	"Latacunga"	533	2020-07-01
+"Cotopaxi"	"Pangua"	18	2020-07-01
+"Cotopaxi"	"Pujilí"	116	2020-07-01
+"Cotopaxi"	"Salcedo"	180	2020-07-01
+"Cotopaxi"	"Saquisilí"	117	2020-07-01
+"Cotopaxi"	"Sigchos"	25	2020-07-01
+"Cotopaxi"	"La Maná"	109	2020-07-02
+"Cotopaxi"	"Latacunga"	564	2020-07-02
+"Cotopaxi"	"Pangua"	18	2020-07-02
+"Cotopaxi"	"Pujilí"	129	2020-07-02
+"Cotopaxi"	"Salcedo"	183	2020-07-02
+"Cotopaxi"	"Saquisilí"	119	2020-07-02
+"Cotopaxi"	"Sigchos"	26	2020-07-02
+"Cotopaxi"	"La Maná"	109	2020-07-03
+"Cotopaxi"	"Latacunga"	574	2020-07-03
+"Cotopaxi"	"Pangua"	18	2020-07-03
+"Cotopaxi"	"Pujilí"	131	2020-07-03
+"Cotopaxi"	"Salcedo"	192	2020-07-03
+"Cotopaxi"	"Saquisilí"	130	2020-07-03
+"Cotopaxi"	"Sigchos"	26	2020-07-03
+"Cotopaxi"	"La Maná"	113	2020-07-04
+"Cotopaxi"	"Latacunga"	579	2020-07-04
+"Cotopaxi"	"Pangua"	18	2020-07-04
+"Cotopaxi"	"Pujilí"	132	2020-07-04
+"Cotopaxi"	"Salcedo"	201	2020-07-04
+"Cotopaxi"	"Saquisilí"	132	2020-07-04
+"Cotopaxi"	"Sigchos"	28	2020-07-04
+"Cotopaxi"	"La Maná"	113	2020-07-05
+"Cotopaxi"	"Latacunga"	596	2020-07-05
+"Cotopaxi"	"Pangua"	18	2020-07-05
+"Cotopaxi"	"Pujilí"	136	2020-07-05
+"Cotopaxi"	"Salcedo"	208	2020-07-05
+"Cotopaxi"	"Saquisilí"	137	2020-07-05
+"Cotopaxi"	"Sigchos"	28	2020-07-05
+"Cotopaxi"	"La Maná"	113	2020-07-06
+"Cotopaxi"	"Latacunga"	596	2020-07-06
+"Cotopaxi"	"Pangua"	18	2020-07-06
+"Cotopaxi"	"Pujilí"	136	2020-07-06
+"Cotopaxi"	"Salcedo"	208	2020-07-06
+"Cotopaxi"	"Saquisilí"	137	2020-07-06
+"Cotopaxi"	"Sigchos"	28	2020-07-06
+"Cotopaxi"	"La Maná"	114	2020-07-07
+"Cotopaxi"	"Latacunga"	614	2020-07-07
+"Cotopaxi"	"Pangua"	26	2020-07-07
+"Cotopaxi"	"Pujilí"	140	2020-07-07
+"Cotopaxi"	"Salcedo"	217	2020-07-07
+"Cotopaxi"	"Saquisilí"	139	2020-07-07
+"Cotopaxi"	"Sigchos"	35	2020-07-07
+"Cotopaxi"	"La Maná"	119	2020-07-08
+"Cotopaxi"	"Latacunga"	637	2020-07-08
+"Cotopaxi"	"Pangua"	26	2020-07-08
+"Cotopaxi"	"Pujilí"	147	2020-07-08
+"Cotopaxi"	"Salcedo"	217	2020-07-08
+"Cotopaxi"	"Saquisilí"	144	2020-07-08
+"Cotopaxi"	"Sigchos"	39	2020-07-08
+"Cotopaxi"	"La Maná"	120	2020-07-09
+"Cotopaxi"	"Latacunga"	649	2020-07-09
+"Cotopaxi"	"Pangua"	29	2020-07-09
+"Cotopaxi"	"Pujilí"	147	2020-07-09
+"Cotopaxi"	"Salcedo"	239	2020-07-09
+"Cotopaxi"	"Saquisilí"	145	2020-07-09
+"Cotopaxi"	"Sigchos"	42	2020-07-09
+"Cotopaxi"	"La Maná"	120	2020-07-10
+"Cotopaxi"	"Latacunga"	685	2020-07-10
+"Cotopaxi"	"Pangua"	29	2020-07-10
+"Cotopaxi"	"Pujilí"	153	2020-07-10
+"Cotopaxi"	"Salcedo"	249	2020-07-10
+"Cotopaxi"	"Saquisilí"	146	2020-07-10
+"Cotopaxi"	"Sigchos"	48	2020-07-10
+"Cotopaxi"	"La Maná"	121	2020-07-11
+"Cotopaxi"	"Latacunga"	694	2020-07-11
+"Cotopaxi"	"Pangua"	29	2020-07-11
+"Cotopaxi"	"Pujilí"	153	2020-07-11
+"Cotopaxi"	"Salcedo"	251	2020-07-11
+"Cotopaxi"	"Saquisilí"	147	2020-07-11
+"Cotopaxi"	"Sigchos"	49	2020-07-11
+"Cotopaxi"	"La Maná"	121	2020-07-12
+"Cotopaxi"	"Latacunga"	704	2020-07-12
+"Cotopaxi"	"Pangua"	29	2020-07-12
+"Cotopaxi"	"Pujilí"	153	2020-07-12
+"Cotopaxi"	"Salcedo"	265	2020-07-12
+"Cotopaxi"	"Saquisilí"	148	2020-07-12
+"Cotopaxi"	"Sigchos"	52	2020-07-12
+"Cotopaxi"	"La Maná"	121	2020-07-13
+"Cotopaxi"	"Latacunga"	704	2020-07-13
+"Cotopaxi"	"Pangua"	29	2020-07-13
+"Cotopaxi"	"Pujilí"	153	2020-07-13
+"Cotopaxi"	"Salcedo"	265	2020-07-13
+"Cotopaxi"	"Saquisilí"	148	2020-07-13
+"Cotopaxi"	"Sigchos"	52	2020-07-13
+"Cotopaxi"	"La Maná"	122	2020-07-14
+"Cotopaxi"	"Latacunga"	736	2020-07-14
+"Cotopaxi"	"Pangua"	34	2020-07-14
+"Cotopaxi"	"Pujilí"	161	2020-07-14
+"Cotopaxi"	"Salcedo"	273	2020-07-14
+"Cotopaxi"	"Saquisilí"	151	2020-07-14
+"Cotopaxi"	"Sigchos"	52	2020-07-14
+"Cotopaxi"	"La Maná"	122	2020-07-15
+"Cotopaxi"	"Latacunga"	745	2020-07-15
+"Cotopaxi"	"Pangua"	34	2020-07-15
+"Cotopaxi"	"Pujilí"	162	2020-07-15
+"Cotopaxi"	"Salcedo"	284	2020-07-15
+"Cotopaxi"	"Saquisilí"	151	2020-07-15
+"Cotopaxi"	"Sigchos"	60	2020-07-15
+"Cotopaxi"	"La Maná"	122	2020-07-16
+"Cotopaxi"	"Latacunga"	758	2020-07-16
+"Cotopaxi"	"Pangua"	34	2020-07-16
+"Cotopaxi"	"Pujilí"	164	2020-07-16
+"Cotopaxi"	"Salcedo"	286	2020-07-16
+"Cotopaxi"	"Saquisilí"	158	2020-07-16
+"Cotopaxi"	"Sigchos"	64	2020-07-16
+"Cotopaxi"	"La Maná"	122	2020-07-17
+"Cotopaxi"	"Latacunga"	764	2020-07-17
+"Cotopaxi"	"Pangua"	35	2020-07-17
+"Cotopaxi"	"Pujilí"	167	2020-07-17
+"Cotopaxi"	"Salcedo"	286	2020-07-17
+"Cotopaxi"	"Saquisilí"	158	2020-07-17
+"Cotopaxi"	"Sigchos"	64	2020-07-17
+"Cotopaxi"	"La Maná"	124	2020-07-18
+"Cotopaxi"	"Latacunga"	773	2020-07-18
+"Cotopaxi"	"Pangua"	35	2020-07-18
+"Cotopaxi"	"Pujilí"	168	2020-07-18
+"Cotopaxi"	"Salcedo"	299	2020-07-18
+"Cotopaxi"	"Saquisilí"	160	2020-07-18
+"Cotopaxi"	"Sigchos"	64	2020-07-18
+"Cotopaxi"	"La Maná"	124	2020-07-19
+"Cotopaxi"	"Latacunga"	782	2020-07-19
+"Cotopaxi"	"Pangua"	35	2020-07-19
+"Cotopaxi"	"Pujilí"	168	2020-07-19
+"Cotopaxi"	"Salcedo"	299	2020-07-19
+"Cotopaxi"	"Saquisilí"	160	2020-07-19
+"Cotopaxi"	"Sigchos"	64	2020-07-19
+"Cotopaxi"	"La Maná"	124	2020-07-20
+"Cotopaxi"	"Latacunga"	792	2020-07-20
+"Cotopaxi"	"Pangua"	35	2020-07-20
+"Cotopaxi"	"Pujilí"	168	2020-07-20
+"Cotopaxi"	"Salcedo"	301	2020-07-20
+"Cotopaxi"	"Saquisilí"	160	2020-07-20
+"Cotopaxi"	"Sigchos"	64	2020-07-20
+"Cotopaxi"	"La Maná"	124	2020-07-21
+"Cotopaxi"	"Latacunga"	827	2020-07-21
+"Cotopaxi"	"Pangua"	52	2020-07-21
+"Cotopaxi"	"Pujilí"	175	2020-07-21
+"Cotopaxi"	"Salcedo"	330	2020-07-21
+"Cotopaxi"	"Saquisilí"	177	2020-07-21
+"Cotopaxi"	"Sigchos"	64	2020-07-21
+"Cotopaxi"	"La Maná"	124	2020-07-22
+"Cotopaxi"	"Latacunga"	836	2020-07-22
+"Cotopaxi"	"Pangua"	53	2020-07-22
+"Cotopaxi"	"Pujilí"	176	2020-07-22
+"Cotopaxi"	"Salcedo"	342	2020-07-22
+"Cotopaxi"	"Saquisilí"	178	2020-07-22
+"Cotopaxi"	"Sigchos"	66	2020-07-22
+"Cotopaxi"	"La Maná"	124	2020-07-23
+"Cotopaxi"	"Latacunga"	839	2020-07-23
+"Cotopaxi"	"Pangua"	53	2020-07-23
+"Cotopaxi"	"Pujilí"	177	2020-07-23
+"Cotopaxi"	"Salcedo"	344	2020-07-23
+"Cotopaxi"	"Saquisilí"	178	2020-07-23
+"Cotopaxi"	"Sigchos"	70	2020-07-23
+"Cotopaxi"	"La Maná"	124	2020-07-24
+"Cotopaxi"	"Latacunga"	867	2020-07-24
+"Cotopaxi"	"Pangua"	53	2020-07-24
+"Cotopaxi"	"Pujilí"	188	2020-07-24
+"Cotopaxi"	"Salcedo"	380	2020-07-24
+"Cotopaxi"	"Saquisilí"	186	2020-07-24
+"Cotopaxi"	"Sigchos"	70	2020-07-24
+"Cotopaxi"	"La Maná"	125	2020-07-25
+"Cotopaxi"	"Latacunga"	876	2020-07-25
+"Cotopaxi"	"Pangua"	54	2020-07-25
+"Cotopaxi"	"Pujilí"	188	2020-07-25
+"Cotopaxi"	"Salcedo"	386	2020-07-25
+"Cotopaxi"	"Saquisilí"	197	2020-07-25
+"Cotopaxi"	"Sigchos"	70	2020-07-25
+"Cotopaxi"	"La Maná"	125	2020-07-26
+"Cotopaxi"	"Latacunga"	890	2020-07-26
+"Cotopaxi"	"Pangua"	54	2020-07-26
+"Cotopaxi"	"Pujilí"	200	2020-07-26
+"Cotopaxi"	"Salcedo"	395	2020-07-26
+"Cotopaxi"	"Saquisilí"	197	2020-07-26
+"Cotopaxi"	"Sigchos"	70	2020-07-26
+"Cotopaxi"	"La Maná"	125	2020-07-27
+"Cotopaxi"	"Latacunga"	891	2020-07-27
+"Cotopaxi"	"Pangua"	55	2020-07-27
+"Cotopaxi"	"Pujilí"	200	2020-07-27
+"Cotopaxi"	"Salcedo"	395	2020-07-27
+"Cotopaxi"	"Saquisilí"	197	2020-07-27
+"Cotopaxi"	"Sigchos"	70	2020-07-27
+"Cotopaxi"	"La Maná"	125	2020-07-28
+"Cotopaxi"	"Latacunga"	896	2020-07-28
+"Cotopaxi"	"Pangua"	55	2020-07-28
+"Cotopaxi"	"Pujilí"	200	2020-07-28
+"Cotopaxi"	"Salcedo"	416	2020-07-28
+"Cotopaxi"	"Saquisilí"	197	2020-07-28
+"Cotopaxi"	"Sigchos"	74	2020-07-28
+"Cotopaxi"	"La Maná"	132	2020-07-29
+"Cotopaxi"	"Latacunga"	897	2020-07-29
+"Cotopaxi"	"Pangua"	55	2020-07-29
+"Cotopaxi"	"Pujilí"	201	2020-07-29
+"Cotopaxi"	"Salcedo"	416	2020-07-29
+"Cotopaxi"	"Saquisilí"	197	2020-07-29
+"Cotopaxi"	"Sigchos"	79	2020-07-29
+"Cotopaxi"	"La Maná"	133	2020-07-30
+"Cotopaxi"	"Latacunga"	900	2020-07-30
+"Cotopaxi"	"Pangua"	55	2020-07-30
+"Cotopaxi"	"Pujilí"	201	2020-07-30
+"Cotopaxi"	"Salcedo"	416	2020-07-30
+"Cotopaxi"	"Saquisilí"	197	2020-07-30
+"Cotopaxi"	"Sigchos"	90	2020-07-30
+"Cotopaxi"	"La Maná"	133	2020-07-31
+"Cotopaxi"	"Latacunga"	914	2020-07-31
+"Cotopaxi"	"Pangua"	55	2020-07-31
+"Cotopaxi"	"Pujilí"	201	2020-07-31
+"Cotopaxi"	"Salcedo"	418	2020-07-31
+"Cotopaxi"	"Saquisilí"	199	2020-07-31
+"Cotopaxi"	"Sigchos"	90	2020-07-31
+"Cotopaxi"	"La Maná"	133	2020-08-01
+"Cotopaxi"	"Latacunga"	973	2020-08-01
+"Cotopaxi"	"Pangua"	55	2020-08-01
+"Cotopaxi"	"Pujilí"	208	2020-08-01
+"Cotopaxi"	"Salcedo"	435	2020-08-01
+"Cotopaxi"	"Saquisilí"	227	2020-08-01
+"Cotopaxi"	"Sigchos"	90	2020-08-01
+"Cotopaxi"	"La Maná"	133	2020-08-02
+"Cotopaxi"	"Latacunga"	980	2020-08-02
+"Cotopaxi"	"Pangua"	55	2020-08-02
+"Cotopaxi"	"Pujilí"	208	2020-08-02
+"Cotopaxi"	"Salcedo"	439	2020-08-02
+"Cotopaxi"	"Saquisilí"	227	2020-08-02
+"Cotopaxi"	"Sigchos"	90	2020-08-02
+"Cotopaxi"	"La Maná"	133	2020-08-03
+"Cotopaxi"	"Latacunga"	980	2020-08-03
+"Cotopaxi"	"Pangua"	55	2020-08-03
+"Cotopaxi"	"Pujilí"	210	2020-08-03
+"Cotopaxi"	"Salcedo"	439	2020-08-03
+"Cotopaxi"	"Saquisilí"	227	2020-08-03
+"Cotopaxi"	"Sigchos"	90	2020-08-03
+"Cotopaxi"	"La Maná"	133	2020-08-04
+"Cotopaxi"	"Latacunga"	989	2020-08-04
+"Cotopaxi"	"Pangua"	55	2020-08-04
+"Cotopaxi"	"Pujilí"	212	2020-08-04
+"Cotopaxi"	"Salcedo"	468	2020-08-04
+"Cotopaxi"	"Saquisilí"	234	2020-08-04
+"Cotopaxi"	"Sigchos"	90	2020-08-04
+"Cotopaxi"	"La Maná"	133	2020-08-05
+"Cotopaxi"	"Latacunga"	990	2020-08-05
+"Cotopaxi"	"Pangua"	55	2020-08-05
+"Cotopaxi"	"Pujilí"	212	2020-08-05
+"Cotopaxi"	"Salcedo"	483	2020-08-05
+"Cotopaxi"	"Saquisilí"	234	2020-08-05
+"Cotopaxi"	"Sigchos"	90	2020-08-05
+"Cotopaxi"	"La Maná"	134	2020-08-06
+"Cotopaxi"	"Latacunga"	1021	2020-08-06
+"Cotopaxi"	"Pangua"	64	2020-08-06
+"Cotopaxi"	"Pujilí"	233	2020-08-06
+"Cotopaxi"	"Salcedo"	490	2020-08-06
+"Cotopaxi"	"Saquisilí"	240	2020-08-06
+"Cotopaxi"	"Sigchos"	91	2020-08-06
+"Cotopaxi"	"La Maná"	134	2020-08-07
+"Cotopaxi"	"Latacunga"	1022	2020-08-07
+"Cotopaxi"	"Pangua"	64	2020-08-07
+"Cotopaxi"	"Pujilí"	233	2020-08-07
+"Cotopaxi"	"Salcedo"	513	2020-08-07
+"Cotopaxi"	"Saquisilí"	240	2020-08-07
+"Cotopaxi"	"Sigchos"	91	2020-08-07
+"Cotopaxi"	"La Maná"	135	2020-08-08
+"Cotopaxi"	"Latacunga"	1043	2020-08-08
+"Cotopaxi"	"Pangua"	64	2020-08-08
+"Cotopaxi"	"Pujilí"	233	2020-08-08
+"Cotopaxi"	"Salcedo"	539	2020-08-08
+"Cotopaxi"	"Saquisilí"	243	2020-08-08
+"Cotopaxi"	"Sigchos"	92	2020-08-08
+"Cotopaxi"	"La Maná"	136	2020-08-09
+"Cotopaxi"	"Latacunga"	1057	2020-08-09
+"Cotopaxi"	"Pangua"	69	2020-08-09
+"Cotopaxi"	"Pujilí"	251	2020-08-09
+"Cotopaxi"	"Salcedo"	540	2020-08-09
+"Cotopaxi"	"Saquisilí"	244	2020-08-09
+"Cotopaxi"	"Sigchos"	92	2020-08-09
+"Cotopaxi"	"La Maná"	136	2020-08-10
+"Cotopaxi"	"Latacunga"	1057	2020-08-10
+"Cotopaxi"	"Pangua"	69	2020-08-10
+"Cotopaxi"	"Pujilí"	251	2020-08-10
+"Cotopaxi"	"Salcedo"	540	2020-08-10
+"Cotopaxi"	"Saquisilí"	244	2020-08-10
+"Cotopaxi"	"Sigchos"	92	2020-08-10
+"Cotopaxi"	"La Maná"	139	2020-08-11
+"Cotopaxi"	"Latacunga"	1078	2020-08-11
+"Cotopaxi"	"Pangua"	69	2020-08-11
+"Cotopaxi"	"Pujilí"	256	2020-08-11
+"Cotopaxi"	"Salcedo"	550	2020-08-11
+"Cotopaxi"	"Saquisilí"	257	2020-08-11
+"Cotopaxi"	"Sigchos"	111	2020-08-11
+"Cotopaxi"	"La Maná"	139	2020-08-12
+"Cotopaxi"	"Latacunga"	1086	2020-08-12
+"Cotopaxi"	"Pangua"	69	2020-08-12
+"Cotopaxi"	"Pujilí"	256	2020-08-12
+"Cotopaxi"	"Salcedo"	561	2020-08-12
+"Cotopaxi"	"Saquisilí"	258	2020-08-12
+"Cotopaxi"	"Sigchos"	111	2020-08-12
+"Cotopaxi"	"La Maná"	139	2020-08-13
+"Cotopaxi"	"Latacunga"	1091	2020-08-13
+"Cotopaxi"	"Pangua"	69	2020-08-13
+"Cotopaxi"	"Pujilí"	256	2020-08-13
+"Cotopaxi"	"Salcedo"	565	2020-08-13
+"Cotopaxi"	"Saquisilí"	259	2020-08-13
+"Cotopaxi"	"Sigchos"	111	2020-08-13
+"Cotopaxi"	"La Maná"	139	2020-08-14
+"Cotopaxi"	"Latacunga"	1105	2020-08-14
+"Cotopaxi"	"Pangua"	69	2020-08-14
+"Cotopaxi"	"Pujilí"	266	2020-08-14
+"Cotopaxi"	"Salcedo"	575	2020-08-14
+"Cotopaxi"	"Saquisilí"	264	2020-08-14
+"Cotopaxi"	"Sigchos"	117	2020-08-14
+"Cotopaxi"	"La Maná"	151	2020-08-15
+"Cotopaxi"	"Latacunga"	1109	2020-08-15
+"Cotopaxi"	"Pangua"	73	2020-08-15
+"Cotopaxi"	"Pujilí"	273	2020-08-15
+"Cotopaxi"	"Salcedo"	587	2020-08-15
+"Cotopaxi"	"Saquisilí"	264	2020-08-15
+"Cotopaxi"	"Sigchos"	118	2020-08-15
+"Cotopaxi"	"La Maná"	151	2020-08-16
+"Cotopaxi"	"Latacunga"	1126	2020-08-16
+"Cotopaxi"	"Pangua"	73	2020-08-16
+"Cotopaxi"	"Pujilí"	277	2020-08-16
+"Cotopaxi"	"Salcedo"	591	2020-08-16
+"Cotopaxi"	"Saquisilí"	267	2020-08-16
+"Cotopaxi"	"Sigchos"	118	2020-08-16
+"Cotopaxi"	"La Maná"	151	2020-08-17
+"Cotopaxi"	"Latacunga"	1126	2020-08-17
+"Cotopaxi"	"Pangua"	73	2020-08-17
+"Cotopaxi"	"Pujilí"	278	2020-08-17
+"Cotopaxi"	"Salcedo"	591	2020-08-17
+"Cotopaxi"	"Saquisilí"	267	2020-08-17
+"Cotopaxi"	"Sigchos"	118	2020-08-17
+"Cotopaxi"	"La Maná"	151	2020-08-18
+"Cotopaxi"	"Latacunga"	1146	2020-08-18
+"Cotopaxi"	"Pangua"	73	2020-08-18
+"Cotopaxi"	"Pujilí"	279	2020-08-18
+"Cotopaxi"	"Salcedo"	607	2020-08-18
+"Cotopaxi"	"Saquisilí"	270	2020-08-18
+"Cotopaxi"	"Sigchos"	121	2020-08-18
+"Cotopaxi"	"La Maná"	156	2020-08-19
+"Cotopaxi"	"Latacunga"	1164	2020-08-19
+"Cotopaxi"	"Pangua"	76	2020-08-19
+"Cotopaxi"	"Pujilí"	297	2020-08-19
+"Cotopaxi"	"Salcedo"	625	2020-08-19
+"Cotopaxi"	"Saquisilí"	270	2020-08-19
+"Cotopaxi"	"Sigchos"	121	2020-08-19
+"Cotopaxi"	"La Maná"	156	2020-08-20
+"Cotopaxi"	"Latacunga"	1180	2020-08-20
+"Cotopaxi"	"Pangua"	76	2020-08-20
+"Cotopaxi"	"Pujilí"	301	2020-08-20
+"Cotopaxi"	"Salcedo"	631	2020-08-20
+"Cotopaxi"	"Saquisilí"	275	2020-08-20
+"Cotopaxi"	"Sigchos"	121	2020-08-20
+"Cotopaxi"	"La Maná"	156	2020-08-21
+"Cotopaxi"	"Latacunga"	1234	2020-08-21
+"Cotopaxi"	"Pangua"	76	2020-08-21
+"Cotopaxi"	"Pujilí"	313	2020-08-21
+"Cotopaxi"	"Salcedo"	652	2020-08-21
+"Cotopaxi"	"Saquisilí"	277	2020-08-21
+"Cotopaxi"	"Sigchos"	125	2020-08-21
+"Cotopaxi"	"La Maná"	156	2020-08-22
+"Cotopaxi"	"Latacunga"	1238	2020-08-22
+"Cotopaxi"	"Pangua"	76	2020-08-22
+"Cotopaxi"	"Pujilí"	313	2020-08-22
+"Cotopaxi"	"Salcedo"	655	2020-08-22
+"Cotopaxi"	"Saquisilí"	277	2020-08-22
+"Cotopaxi"	"Sigchos"	126	2020-08-22
+"Cotopaxi"	"La Maná"	159	2020-08-23
+"Cotopaxi"	"Latacunga"	1249	2020-08-23
+"Cotopaxi"	"Pangua"	78	2020-08-23
+"Cotopaxi"	"Pujilí"	314	2020-08-23
+"Cotopaxi"	"Salcedo"	658	2020-08-23
+"Cotopaxi"	"Saquisilí"	277	2020-08-23
+"Cotopaxi"	"Sigchos"	126	2020-08-23
+"Cotopaxi"	"La Maná"	159	2020-08-24
+"Cotopaxi"	"Latacunga"	1250	2020-08-24
+"Cotopaxi"	"Pangua"	79	2020-08-24
+"Cotopaxi"	"Pujilí"	314	2020-08-24
+"Cotopaxi"	"Salcedo"	658	2020-08-24
+"Cotopaxi"	"Saquisilí"	277	2020-08-24
+"Cotopaxi"	"Sigchos"	126	2020-08-24
+"Cotopaxi"	"La Maná"	159	2020-08-25
+"Cotopaxi"	"Latacunga"	1262	2020-08-25
+"Cotopaxi"	"Pangua"	79	2020-08-25
+"Cotopaxi"	"Pujilí"	316	2020-08-25
+"Cotopaxi"	"Salcedo"	660	2020-08-25
+"Cotopaxi"	"Saquisilí"	278	2020-08-25
+"Cotopaxi"	"Sigchos"	126	2020-08-25
+"Cotopaxi"	"La Maná"	159	2020-08-26
+"Cotopaxi"	"Latacunga"	1297	2020-08-26
+"Cotopaxi"	"Pangua"	80	2020-08-26
+"Cotopaxi"	"Pujilí"	318	2020-08-26
+"Cotopaxi"	"Salcedo"	666	2020-08-26
+"Cotopaxi"	"Saquisilí"	279	2020-08-26
+"Cotopaxi"	"Sigchos"	132	2020-08-26
+"Cotopaxi"	"La Maná"	159	2020-08-27
+"Cotopaxi"	"Latacunga"	1312	2020-08-27
+"Cotopaxi"	"Pangua"	80	2020-08-27
+"Cotopaxi"	"Pujilí"	320	2020-08-27
+"Cotopaxi"	"Salcedo"	670	2020-08-27
+"Cotopaxi"	"Saquisilí"	281	2020-08-27
+"Cotopaxi"	"Sigchos"	132	2020-08-27
+"Cotopaxi"	"La Maná"	159	2020-08-28
+"Cotopaxi"	"Latacunga"	1321	2020-08-28
+"Cotopaxi"	"Pangua"	80	2020-08-28
+"Cotopaxi"	"Pujilí"	321	2020-08-28
+"Cotopaxi"	"Salcedo"	674	2020-08-28
+"Cotopaxi"	"Saquisilí"	281	2020-08-28
+"Cotopaxi"	"Sigchos"	132	2020-08-28
+"Cotopaxi"	"La Maná"	162	2020-08-29
+"Cotopaxi"	"Latacunga"	1331	2020-08-29
+"Cotopaxi"	"Pangua"	80	2020-08-29
+"Cotopaxi"	"Pujilí"	322	2020-08-29
+"Cotopaxi"	"Salcedo"	677	2020-08-29
+"Cotopaxi"	"Saquisilí"	282	2020-08-29
+"Cotopaxi"	"Sigchos"	136	2020-08-29
+"Cotopaxi"	"La Maná"	164	2020-08-30
+"Cotopaxi"	"Latacunga"	1335	2020-08-30
+"Cotopaxi"	"Pangua"	84	2020-08-30
+"Cotopaxi"	"Pujilí"	322	2020-08-30
+"Cotopaxi"	"Salcedo"	679	2020-08-30
+"Cotopaxi"	"Saquisilí"	282	2020-08-30
+"Cotopaxi"	"Sigchos"	136	2020-08-30
+"Cotopaxi"	"La Maná"	164	2020-08-31
+"Cotopaxi"	"Latacunga"	1335	2020-08-31
+"Cotopaxi"	"Pangua"	84	2020-08-31
+"Cotopaxi"	"Pujilí"	322	2020-08-31
+"Cotopaxi"	"Salcedo"	679	2020-08-31
+"Cotopaxi"	"Saquisilí"	282	2020-08-31
+"Cotopaxi"	"Sigchos"	136	2020-08-31
+"Cotopaxi"	"La Maná"	168	2020-09-01
+"Cotopaxi"	"Latacunga"	1353	2020-09-01
+"Cotopaxi"	"Pangua"	84	2020-09-01
+"Cotopaxi"	"Pujilí"	323	2020-09-01
+"Cotopaxi"	"Salcedo"	680	2020-09-01
+"Cotopaxi"	"Saquisilí"	282	2020-09-01
+"Cotopaxi"	"Sigchos"	137	2020-09-01
+"Cotopaxi"	"La Maná"	168	2020-09-02
+"Cotopaxi"	"Latacunga"	1400	2020-09-02
+"Cotopaxi"	"Pangua"	85	2020-09-02
+"Cotopaxi"	"Pujilí"	328	2020-09-02
+"Cotopaxi"	"Salcedo"	683	2020-09-02
+"Cotopaxi"	"Saquisilí"	284	2020-09-02
+"Cotopaxi"	"Sigchos"	138	2020-09-02
+"Cotopaxi"	"La Maná"	168	2020-09-03
+"Cotopaxi"	"Latacunga"	1442	2020-09-03
+"Cotopaxi"	"Pangua"	86	2020-09-03
+"Cotopaxi"	"Pujilí"	332	2020-09-03
+"Cotopaxi"	"Salcedo"	687	2020-09-03
+"Cotopaxi"	"Saquisilí"	285	2020-09-03
+"Cotopaxi"	"Sigchos"	138	2020-09-03
+"Cotopaxi"	"La Maná"	168	2020-09-04
+"Cotopaxi"	"Latacunga"	1450	2020-09-04
+"Cotopaxi"	"Pangua"	86	2020-09-04
+"Cotopaxi"	"Pujilí"	335	2020-09-04
+"Cotopaxi"	"Salcedo"	694	2020-09-04
+"Cotopaxi"	"Saquisilí"	285	2020-09-04
+"Cotopaxi"	"Sigchos"	138	2020-09-04
+"Cotopaxi"	"La Maná"	168	2020-09-05
+"Cotopaxi"	"Latacunga"	1454	2020-09-05
+"Cotopaxi"	"Pangua"	86	2020-09-05
+"Cotopaxi"	"Pujilí"	339	2020-09-05
+"Cotopaxi"	"Salcedo"	700	2020-09-05
+"Cotopaxi"	"Saquisilí"	320	2020-09-05
+"Cotopaxi"	"Sigchos"	138	2020-09-05
+"Cotopaxi"	"La Maná"	168	2020-09-06
+"Cotopaxi"	"Latacunga"	1460	2020-09-06
+"Cotopaxi"	"Pangua"	86	2020-09-06
+"Cotopaxi"	"Pujilí"	339	2020-09-06
+"Cotopaxi"	"Salcedo"	702	2020-09-06
+"Cotopaxi"	"Saquisilí"	329	2020-09-06
+"Cotopaxi"	"Sigchos"	138	2020-09-06
+"Cotopaxi"	"La Maná"	168	2020-09-07
+"Cotopaxi"	"Latacunga"	1460	2020-09-07
+"Cotopaxi"	"Pangua"	86	2020-09-07
+"Cotopaxi"	"Pujilí"	339	2020-09-07
+"Cotopaxi"	"Salcedo"	702	2020-09-07
+"Cotopaxi"	"Saquisilí"	329	2020-09-07
+"Cotopaxi"	"Sigchos"	138	2020-09-07
+"Cotopaxi"	"La Maná"	172	2020-09-08
+"Cotopaxi"	"Latacunga"	1476	2020-09-08
+"Cotopaxi"	"Pangua"	100	2020-09-08
+"Cotopaxi"	"Pujilí"	343	2020-09-08
+"Cotopaxi"	"Salcedo"	717	2020-09-08
+"Cotopaxi"	"Saquisilí"	334	2020-09-08
+"Cotopaxi"	"Sigchos"	138	2020-09-08
+"Cotopaxi"	"La Maná"	172	2020-09-09
+"Cotopaxi"	"Latacunga"	1497	2020-09-09
+"Cotopaxi"	"Pangua"	100	2020-09-09
+"Cotopaxi"	"Pujilí"	344	2020-09-09
+"Cotopaxi"	"Salcedo"	721	2020-09-09
+"Cotopaxi"	"Saquisilí"	334	2020-09-09
+"Cotopaxi"	"Sigchos"	138	2020-09-09
+"Cotopaxi"	"La Maná"	172	2020-09-10
+"Cotopaxi"	"Latacunga"	1501	2020-09-10
+"Cotopaxi"	"Pangua"	100	2020-09-10
+"Cotopaxi"	"Pujilí"	344	2020-09-10
+"Cotopaxi"	"Salcedo"	721	2020-09-10
+"Cotopaxi"	"Saquisilí"	336	2020-09-10
+"Cotopaxi"	"Sigchos"	138	2020-09-10
+"Cotopaxi"	"La Maná"	173	2020-09-11
+"Cotopaxi"	"Latacunga"	1509	2020-09-11
+"Cotopaxi"	"Pangua"	100	2020-09-11
+"Cotopaxi"	"Pujilí"	346	2020-09-11
+"Cotopaxi"	"Salcedo"	728	2020-09-11
+"Cotopaxi"	"Saquisilí"	337	2020-09-11
+"Cotopaxi"	"Sigchos"	138	2020-09-11
+"Cotopaxi"	"La Maná"	174	2020-09-12
+"Cotopaxi"	"Latacunga"	1514	2020-09-12
+"Cotopaxi"	"Pangua"	100	2020-09-12
+"Cotopaxi"	"Pujilí"	347	2020-09-12
+"Cotopaxi"	"Salcedo"	742	2020-09-12
+"Cotopaxi"	"Saquisilí"	340	2020-09-12
+"Cotopaxi"	"Sigchos"	138	2020-09-12
+"Cotopaxi"	"La Maná"	175	2020-09-13
+"Cotopaxi"	"Latacunga"	1515	2020-09-13
+"Cotopaxi"	"Pangua"	100	2020-09-13
+"Cotopaxi"	"Pujilí"	347	2020-09-13
+"Cotopaxi"	"Salcedo"	744	2020-09-13
+"Cotopaxi"	"Saquisilí"	340	2020-09-13
+"Cotopaxi"	"Sigchos"	139	2020-09-13
+"Cotopaxi"	"La Maná"	175	2020-09-14
+"Cotopaxi"	"Latacunga"	1518	2020-09-14
+"Cotopaxi"	"Pangua"	100	2020-09-14
+"Cotopaxi"	"Pujilí"	348	2020-09-14
+"Cotopaxi"	"Salcedo"	744	2020-09-14
+"Cotopaxi"	"Saquisilí"	343	2020-09-14
+"Cotopaxi"	"Sigchos"	139	2020-09-14
+"Cotopaxi"	"La Maná"	175	2020-09-15
+"Cotopaxi"	"Latacunga"	1523	2020-09-15
+"Cotopaxi"	"Pangua"	105	2020-09-15
+"Cotopaxi"	"Pujilí"	353	2020-09-15
+"Cotopaxi"	"Salcedo"	772	2020-09-15
+"Cotopaxi"	"Saquisilí"	349	2020-09-15
+"Cotopaxi"	"Sigchos"	139	2020-09-15
+"Cotopaxi"	"La Maná"	175	2020-09-16
+"Cotopaxi"	"Latacunga"	1541	2020-09-16
+"Cotopaxi"	"Pangua"	105	2020-09-16
+"Cotopaxi"	"Pujilí"	357	2020-09-16
+"Cotopaxi"	"Salcedo"	776	2020-09-16
+"Cotopaxi"	"Saquisilí"	350	2020-09-16
+"Cotopaxi"	"Sigchos"	140	2020-09-16
+"Cotopaxi"	"La Maná"	175	2020-09-17
+"Cotopaxi"	"Latacunga"	1560	2020-09-17
+"Cotopaxi"	"Pangua"	105	2020-09-17
+"Cotopaxi"	"Pujilí"	360	2020-09-17
+"Cotopaxi"	"Salcedo"	781	2020-09-17
+"Cotopaxi"	"Saquisilí"	359	2020-09-17
+"Cotopaxi"	"Sigchos"	140	2020-09-17
+"Cotopaxi"	"La Maná"	175	2020-09-18
+"Cotopaxi"	"Latacunga"	1583	2020-09-18
+"Cotopaxi"	"Pangua"	105	2020-09-18
+"Cotopaxi"	"Pujilí"	364	2020-09-18
+"Cotopaxi"	"Salcedo"	793	2020-09-18
+"Cotopaxi"	"Saquisilí"	359	2020-09-18
+"Cotopaxi"	"Sigchos"	140	2020-09-18
+"Cotopaxi"	"La Maná"	176	2020-09-19
+"Cotopaxi"	"Latacunga"	1597	2020-09-19
+"Cotopaxi"	"Pangua"	113	2020-09-19
+"Cotopaxi"	"Pujilí"	369	2020-09-19
+"Cotopaxi"	"Salcedo"	799	2020-09-19
+"Cotopaxi"	"Saquisilí"	370	2020-09-19
+"Cotopaxi"	"Sigchos"	140	2020-09-19
+"Cotopaxi"	"La Maná"	176	2020-09-20
+"Cotopaxi"	"Latacunga"	1598	2020-09-20
+"Cotopaxi"	"Pangua"	113	2020-09-20
+"Cotopaxi"	"Pujilí"	370	2020-09-20
+"Cotopaxi"	"Salcedo"	802	2020-09-20
+"Cotopaxi"	"Saquisilí"	370	2020-09-20
+"Cotopaxi"	"Sigchos"	140	2020-09-20
+"Cotopaxi"	"La Maná"	176	2020-09-21
+"Cotopaxi"	"Latacunga"	1598	2020-09-21
+"Cotopaxi"	"Pangua"	113	2020-09-21
+"Cotopaxi"	"Pujilí"	370	2020-09-21
+"Cotopaxi"	"Salcedo"	802	2020-09-21
+"Cotopaxi"	"Saquisilí"	370	2020-09-21
+"Cotopaxi"	"Sigchos"	140	2020-09-21
+"Cotopaxi"	"La Maná"	176	2020-09-22
+"Cotopaxi"	"Latacunga"	1613	2020-09-22
+"Cotopaxi"	"Pangua"	116	2020-09-22
+"Cotopaxi"	"Pujilí"	371	2020-09-22
+"Cotopaxi"	"Salcedo"	813	2020-09-22
+"Cotopaxi"	"Saquisilí"	376	2020-09-22
+"Cotopaxi"	"Sigchos"	140	2020-09-22
+"Cotopaxi"	"La Maná"	176	2020-09-23
+"Cotopaxi"	"Latacunga"	1633	2020-09-23
+"Cotopaxi"	"Pangua"	116	2020-09-23
+"Cotopaxi"	"Pujilí"	372	2020-09-23
+"Cotopaxi"	"Salcedo"	815	2020-09-23
+"Cotopaxi"	"Saquisilí"	379	2020-09-23
+"Cotopaxi"	"Sigchos"	141	2020-09-23
+"Cotopaxi"	"La Maná"	176	2020-09-24
+"Cotopaxi"	"Latacunga"	1638	2020-09-24
+"Cotopaxi"	"Pangua"	116	2020-09-24
+"Cotopaxi"	"Pujilí"	375	2020-09-24
+"Cotopaxi"	"Salcedo"	819	2020-09-24
+"Cotopaxi"	"Saquisilí"	384	2020-09-24
+"Cotopaxi"	"Sigchos"	141	2020-09-24
+"Cotopaxi"	"La Maná"	176	2020-09-25
+"Cotopaxi"	"Latacunga"	1641	2020-09-25
+"Cotopaxi"	"Pangua"	116	2020-09-25
+"Cotopaxi"	"Pujilí"	376	2020-09-25
+"Cotopaxi"	"Salcedo"	833	2020-09-25
+"Cotopaxi"	"Saquisilí"	384	2020-09-25
+"Cotopaxi"	"Sigchos"	141	2020-09-25
+"Cotopaxi"	"La Maná"	177	2020-09-26
+"Cotopaxi"	"Latacunga"	1652	2020-09-26
+"Cotopaxi"	"Pangua"	117	2020-09-26
+"Cotopaxi"	"Pujilí"	381	2020-09-26
+"Cotopaxi"	"Salcedo"	846	2020-09-26
+"Cotopaxi"	"Saquisilí"	386	2020-09-26
+"Cotopaxi"	"Sigchos"	142	2020-09-26
+"Cotopaxi"	"La Maná"	177	2020-09-27
+"Cotopaxi"	"Latacunga"	1659	2020-09-27
+"Cotopaxi"	"Pangua"	117	2020-09-27
+"Cotopaxi"	"Pujilí"	381	2020-09-27
+"Cotopaxi"	"Salcedo"	846	2020-09-27
+"Cotopaxi"	"Saquisilí"	386	2020-09-27
+"Cotopaxi"	"Sigchos"	142	2020-09-27
+"Cotopaxi"	"La Maná"	177	2020-09-28
+"Cotopaxi"	"Latacunga"	1659	2020-09-28
+"Cotopaxi"	"Pangua"	117	2020-09-28
+"Cotopaxi"	"Pujilí"	381	2020-09-28
+"Cotopaxi"	"Salcedo"	846	2020-09-28
+"Cotopaxi"	"Saquisilí"	388	2020-09-28
+"Cotopaxi"	"Sigchos"	142	2020-09-28
+"Cotopaxi"	"La Maná"	177	2020-09-29
+"Cotopaxi"	"Latacunga"	1663	2020-09-29
+"Cotopaxi"	"Pangua"	121	2020-09-29
+"Cotopaxi"	"Pujilí"	381	2020-09-29
+"Cotopaxi"	"Salcedo"	853	2020-09-29
+"Cotopaxi"	"Saquisilí"	393	2020-09-29
+"Cotopaxi"	"Sigchos"	142	2020-09-29
+"Cotopaxi"	"La Maná"	177	2020-09-30
+"Cotopaxi"	"Latacunga"	1677	2020-09-30
+"Cotopaxi"	"Pangua"	123	2020-09-30
+"Cotopaxi"	"Pujilí"	384	2020-09-30
+"Cotopaxi"	"Salcedo"	863	2020-09-30
+"Cotopaxi"	"Saquisilí"	400	2020-09-30
+"Cotopaxi"	"Sigchos"	144	2020-09-30
+"Cotopaxi"	"La Maná"	177	2020-10-01
+"Cotopaxi"	"Latacunga"	1693	2020-10-01
+"Cotopaxi"	"Pangua"	123	2020-10-01
+"Cotopaxi"	"Pujilí"	388	2020-10-01
+"Cotopaxi"	"Salcedo"	896	2020-10-01
+"Cotopaxi"	"Saquisilí"	404	2020-10-01
+"Cotopaxi"	"Sigchos"	144	2020-10-01
+"Cotopaxi"	"La Maná"	179	2020-10-02
+"Cotopaxi"	"Latacunga"	1711	2020-10-02
+"Cotopaxi"	"Pangua"	123	2020-10-02
+"Cotopaxi"	"Pujilí"	395	2020-10-02
+"Cotopaxi"	"Salcedo"	902	2020-10-02
+"Cotopaxi"	"Saquisilí"	410	2020-10-02
+"Cotopaxi"	"Sigchos"	145	2020-10-02
+"Cotopaxi"	"La Maná"	179	2020-10-03
+"Cotopaxi"	"Latacunga"	1729	2020-10-03
+"Cotopaxi"	"Pangua"	123	2020-10-03
+"Cotopaxi"	"Pujilí"	398	2020-10-03
+"Cotopaxi"	"Salcedo"	907	2020-10-03
+"Cotopaxi"	"Saquisilí"	425	2020-10-03
+"Cotopaxi"	"Sigchos"	146	2020-10-03
+"Cotopaxi"	"La Maná"	180	2020-10-04
+"Cotopaxi"	"Latacunga"	1779	2020-10-04
+"Cotopaxi"	"Pangua"	123	2020-10-04
+"Cotopaxi"	"Pujilí"	405	2020-10-04
+"Cotopaxi"	"Salcedo"	913	2020-10-04
+"Cotopaxi"	"Saquisilí"	427	2020-10-04
+"Cotopaxi"	"Sigchos"	146	2020-10-04
+"Cotopaxi"	"La Maná"	181	2020-10-05
+"Cotopaxi"	"Latacunga"	1794	2020-10-05
+"Cotopaxi"	"Pangua"	123	2020-10-05
+"Cotopaxi"	"Pujilí"	408	2020-10-05
+"Cotopaxi"	"Salcedo"	913	2020-10-05
+"Cotopaxi"	"Saquisilí"	427	2020-10-05
+"Cotopaxi"	"Sigchos"	146	2020-10-05
+"Cotopaxi"	"La Maná"	183	2020-10-06
+"Cotopaxi"	"Latacunga"	1799	2020-10-06
+"Cotopaxi"	"Pangua"	123	2020-10-06
+"Cotopaxi"	"Pujilí"	412	2020-10-06
+"Cotopaxi"	"Salcedo"	916	2020-10-06
+"Cotopaxi"	"Saquisilí"	427	2020-10-06
+"Cotopaxi"	"Sigchos"	146	2020-10-06
+"Cotopaxi"	"La Maná"	184	2020-10-07
+"Cotopaxi"	"Latacunga"	1837	2020-10-07
+"Cotopaxi"	"Pangua"	123	2020-10-07
+"Cotopaxi"	"Pujilí"	415	2020-10-07
+"Cotopaxi"	"Salcedo"	925	2020-10-07
+"Cotopaxi"	"Saquisilí"	427	2020-10-07
+"Cotopaxi"	"Sigchos"	146	2020-10-07
+"Cotopaxi"	"La Maná"	184	2020-10-08
+"Cotopaxi"	"Latacunga"	1849	2020-10-08
+"Cotopaxi"	"Pangua"	123	2020-10-08
+"Cotopaxi"	"Pujilí"	416	2020-10-08
+"Cotopaxi"	"Salcedo"	928	2020-10-08
+"Cotopaxi"	"Saquisilí"	430	2020-10-08
+"Cotopaxi"	"Sigchos"	146	2020-10-08
+"Cotopaxi"	"La Maná"	184	2020-10-09
+"Cotopaxi"	"Latacunga"	1858	2020-10-09
+"Cotopaxi"	"Pangua"	123	2020-10-09
+"Cotopaxi"	"Pujilí"	418	2020-10-09
+"Cotopaxi"	"Salcedo"	930	2020-10-09
+"Cotopaxi"	"Saquisilí"	430	2020-10-09
+"Cotopaxi"	"Sigchos"	146	2020-10-09
+"Cotopaxi"	"La Maná"	184	2020-10-10
+"Cotopaxi"	"Latacunga"	1878	2020-10-10
+"Cotopaxi"	"Pangua"	123	2020-10-10
+"Cotopaxi"	"Pujilí"	422	2020-10-10
+"Cotopaxi"	"Salcedo"	934	2020-10-10
+"Cotopaxi"	"Saquisilí"	435	2020-10-10
+"Cotopaxi"	"Sigchos"	146	2020-10-10
+"Cotopaxi"	"La Maná"	184	2020-10-11
+"Cotopaxi"	"Latacunga"	1878	2020-10-11
+"Cotopaxi"	"Pangua"	123	2020-10-11
+"Cotopaxi"	"Pujilí"	422	2020-10-11
+"Cotopaxi"	"Salcedo"	934	2020-10-11
+"Cotopaxi"	"Saquisilí"	435	2020-10-11
+"Cotopaxi"	"Sigchos"	146	2020-10-11
+"Cotopaxi"	"La Maná"	184	2020-10-12
+"Cotopaxi"	"Latacunga"	1881	2020-10-12
+"Cotopaxi"	"Pangua"	123	2020-10-12
+"Cotopaxi"	"Pujilí"	423	2020-10-12
+"Cotopaxi"	"Salcedo"	934	2020-10-12
+"Cotopaxi"	"Saquisilí"	435	2020-10-12
+"Cotopaxi"	"Sigchos"	146	2020-10-12
+"Cotopaxi"	"La Maná"	184	2020-10-13
+"Cotopaxi"	"Latacunga"	1883	2020-10-13
+"Cotopaxi"	"Pangua"	123	2020-10-13
+"Cotopaxi"	"Pujilí"	428	2020-10-13
+"Cotopaxi"	"Salcedo"	935	2020-10-13
+"Cotopaxi"	"Saquisilí"	439	2020-10-13
+"Cotopaxi"	"Sigchos"	146	2020-10-13
+"Cotopaxi"	"La Maná"	184	2020-10-14
+"Cotopaxi"	"Latacunga"	1889	2020-10-14
+"Cotopaxi"	"Pangua"	123	2020-10-14
+"Cotopaxi"	"Pujilí"	428	2020-10-14
+"Cotopaxi"	"Salcedo"	935	2020-10-14
+"Cotopaxi"	"Saquisilí"	454	2020-10-14
+"Cotopaxi"	"Sigchos"	146	2020-10-14
+"Cotopaxi"	"La Maná"	184	2020-10-15
+"Cotopaxi"	"Latacunga"	1907	2020-10-15
+"Cotopaxi"	"Pangua"	123	2020-10-15
+"Cotopaxi"	"Pujilí"	428	2020-10-15
+"Cotopaxi"	"Salcedo"	938	2020-10-15
+"Cotopaxi"	"Saquisilí"	455	2020-10-15
+"Cotopaxi"	"Sigchos"	146	2020-10-15
+"Cotopaxi"	"La Maná"	184	2020-10-16
+"Cotopaxi"	"Latacunga"	1921	2020-10-16
+"Cotopaxi"	"Pangua"	123	2020-10-16
+"Cotopaxi"	"Pujilí"	429	2020-10-16
+"Cotopaxi"	"Salcedo"	944	2020-10-16
+"Cotopaxi"	"Saquisilí"	455	2020-10-16
+"Cotopaxi"	"Sigchos"	146	2020-10-16
+"Cotopaxi"	"La Maná"	184	2020-10-17
+"Cotopaxi"	"Latacunga"	1923	2020-10-17
+"Cotopaxi"	"Pangua"	123	2020-10-17
+"Cotopaxi"	"Pujilí"	429	2020-10-17
+"Cotopaxi"	"Salcedo"	944	2020-10-17
+"Cotopaxi"	"Saquisilí"	455	2020-10-17
+"Cotopaxi"	"Sigchos"	146	2020-10-17
+"Cotopaxi"	"La Maná"	185	2020-10-18
+"Cotopaxi"	"Latacunga"	1935	2020-10-18
+"Cotopaxi"	"Pangua"	123	2020-10-18
+"Cotopaxi"	"Pujilí"	431	2020-10-18
+"Cotopaxi"	"Salcedo"	944	2020-10-18
+"Cotopaxi"	"Saquisilí"	461	2020-10-18
+"Cotopaxi"	"Sigchos"	146	2020-10-18
+"Cotopaxi"	"La Maná"	185	2020-10-19
+"Cotopaxi"	"Latacunga"	1935	2020-10-19
+"Cotopaxi"	"Pangua"	123	2020-10-19
+"Cotopaxi"	"Pujilí"	431	2020-10-19
+"Cotopaxi"	"Salcedo"	944	2020-10-19
+"Cotopaxi"	"Saquisilí"	461	2020-10-19
+"Cotopaxi"	"Sigchos"	146	2020-10-19
+"Cotopaxi"	"La Maná"	185	2020-10-20
+"Cotopaxi"	"Latacunga"	1942	2020-10-20
+"Cotopaxi"	"Pangua"	123	2020-10-20
+"Cotopaxi"	"Pujilí"	431	2020-10-20
+"Cotopaxi"	"Salcedo"	944	2020-10-20
+"Cotopaxi"	"Saquisilí"	464	2020-10-20
+"Cotopaxi"	"Sigchos"	146	2020-10-20
+"Cotopaxi"	"La Maná"	186	2020-10-21
+"Cotopaxi"	"Latacunga"	1962	2020-10-21
+"Cotopaxi"	"Pangua"	123	2020-10-21
+"Cotopaxi"	"Pujilí"	432	2020-10-21
+"Cotopaxi"	"Salcedo"	956	2020-10-21
+"Cotopaxi"	"Saquisilí"	469	2020-10-21
+"Cotopaxi"	"Sigchos"	146	2020-10-21
+"Cotopaxi"	"La Maná"	186	2020-10-22
+"Cotopaxi"	"Latacunga"	1964	2020-10-22
+"Cotopaxi"	"Pangua"	123	2020-10-22
+"Cotopaxi"	"Pujilí"	432	2020-10-22
+"Cotopaxi"	"Salcedo"	959	2020-10-22
+"Cotopaxi"	"Saquisilí"	489	2020-10-22
+"Cotopaxi"	"Sigchos"	146	2020-10-22
+"Cotopaxi"	"La Maná"	186	2020-10-23
+"Cotopaxi"	"Latacunga"	1980	2020-10-23
+"Cotopaxi"	"Pangua"	123	2020-10-23
+"Cotopaxi"	"Pujilí"	438	2020-10-23
+"Cotopaxi"	"Salcedo"	960	2020-10-23
+"Cotopaxi"	"Saquisilí"	489	2020-10-23
+"Cotopaxi"	"Sigchos"	146	2020-10-23
+"Cotopaxi"	"La Maná"	186	2020-10-24
+"Cotopaxi"	"Latacunga"	1990	2020-10-24
+"Cotopaxi"	"Pangua"	123	2020-10-24
+"Cotopaxi"	"Pujilí"	439	2020-10-24
+"Cotopaxi"	"Salcedo"	961	2020-10-24
+"Cotopaxi"	"Saquisilí"	489	2020-10-24
+"Cotopaxi"	"Sigchos"	146	2020-10-24
+"Cotopaxi"	"La Maná"	187	2020-10-25
+"Cotopaxi"	"Latacunga"	2005	2020-10-25
+"Cotopaxi"	"Pangua"	123	2020-10-25
+"Cotopaxi"	"Pujilí"	441	2020-10-25
+"Cotopaxi"	"Salcedo"	963	2020-10-25
+"Cotopaxi"	"Saquisilí"	489	2020-10-25
+"Cotopaxi"	"Sigchos"	146	2020-10-25
+"Cotopaxi"	"La Maná"	187	2020-10-26
+"Cotopaxi"	"Latacunga"	2005	2020-10-26
+"Cotopaxi"	"Pangua"	123	2020-10-26
+"Cotopaxi"	"Pujilí"	442	2020-10-26
+"Cotopaxi"	"Salcedo"	964	2020-10-26
+"Cotopaxi"	"Saquisilí"	490	2020-10-26
+"Cotopaxi"	"Sigchos"	146	2020-10-26
+"Cotopaxi"	"La Maná"	187	2020-10-27
+"Cotopaxi"	"Latacunga"	2021	2020-10-27
+"Cotopaxi"	"Pangua"	123	2020-10-27
+"Cotopaxi"	"Pujilí"	444	2020-10-27
+"Cotopaxi"	"Salcedo"	970	2020-10-27
+"Cotopaxi"	"Saquisilí"	503	2020-10-27
+"Cotopaxi"	"Sigchos"	148	2020-10-27
+"Cotopaxi"	"La Maná"	187	2020-10-28
+"Cotopaxi"	"Latacunga"	2066	2020-10-28
+"Cotopaxi"	"Pangua"	123	2020-10-28
+"Cotopaxi"	"Pujilí"	451	2020-10-28
+"Cotopaxi"	"Salcedo"	973	2020-10-28
+"Cotopaxi"	"Saquisilí"	504	2020-10-28
+"Cotopaxi"	"Sigchos"	148	2020-10-28
+"Cotopaxi"	"La Maná"	187	2020-10-29
+"Cotopaxi"	"Latacunga"	2123	2020-10-29
+"Cotopaxi"	"Pangua"	123	2020-10-29
+"Cotopaxi"	"Pujilí"	456	2020-10-29
+"Cotopaxi"	"Salcedo"	978	2020-10-29
+"Cotopaxi"	"Saquisilí"	506	2020-10-29
+"Cotopaxi"	"Sigchos"	152	2020-10-29
+"Cotopaxi"	"La Maná"	187	2020-10-30
+"Cotopaxi"	"Latacunga"	2132	2020-10-30
+"Cotopaxi"	"Pangua"	123	2020-10-30
+"Cotopaxi"	"Pujilí"	457	2020-10-30
+"Cotopaxi"	"Salcedo"	978	2020-10-30
+"Cotopaxi"	"Saquisilí"	506	2020-10-30
+"Cotopaxi"	"Sigchos"	152	2020-10-30
+"Cotopaxi"	"La Maná"	188	2020-10-31
+"Cotopaxi"	"Latacunga"	2148	2020-10-31
+"Cotopaxi"	"Pangua"	123	2020-10-31
+"Cotopaxi"	"Pujilí"	460	2020-10-31
+"Cotopaxi"	"Salcedo"	979	2020-10-31
+"Cotopaxi"	"Saquisilí"	506	2020-10-31
+"Cotopaxi"	"Sigchos"	152	2020-10-31
+"Cotopaxi"	"La Maná"	188	2020-11-01
+"Cotopaxi"	"Latacunga"	2158	2020-11-01
+"Cotopaxi"	"Pangua"	124	2020-11-01
+"Cotopaxi"	"Pujilí"	462	2020-11-01
+"Cotopaxi"	"Salcedo"	981	2020-11-01
+"Cotopaxi"	"Saquisilí"	509	2020-11-01
+"Cotopaxi"	"Sigchos"	153	2020-11-01
+"Cotopaxi"	"La Maná"	188	2020-11-02
+"Cotopaxi"	"Latacunga"	2169	2020-11-02
+"Cotopaxi"	"Pangua"	124	2020-11-02
+"Cotopaxi"	"Pujilí"	462	2020-11-02
+"Cotopaxi"	"Salcedo"	983	2020-11-02
+"Cotopaxi"	"Saquisilí"	509	2020-11-02
+"Cotopaxi"	"Sigchos"	153	2020-11-02
+"Cotopaxi"	"La Maná"	188	2020-11-03
+"Cotopaxi"	"Latacunga"	2169	2020-11-03
+"Cotopaxi"	"Pangua"	124	2020-11-03
+"Cotopaxi"	"Pujilí"	462	2020-11-03
+"Cotopaxi"	"Salcedo"	983	2020-11-03
+"Cotopaxi"	"Saquisilí"	509	2020-11-03
+"Cotopaxi"	"Sigchos"	153	2020-11-03
+"Cotopaxi"	"La Maná"	189	2020-11-04
+"Cotopaxi"	"Latacunga"	2170	2020-11-04
+"Cotopaxi"	"Pangua"	124	2020-11-04
+"Cotopaxi"	"Pujilí"	462	2020-11-04
+"Cotopaxi"	"Salcedo"	986	2020-11-04
+"Cotopaxi"	"Saquisilí"	509	2020-11-04
+"Cotopaxi"	"Sigchos"	153	2020-11-04
+"Cotopaxi"	"La Maná"	189	2020-11-05
+"Cotopaxi"	"Latacunga"	2177	2020-11-05
+"Cotopaxi"	"Pangua"	124	2020-11-05
+"Cotopaxi"	"Pujilí"	462	2020-11-05
+"Cotopaxi"	"Salcedo"	987	2020-11-05
+"Cotopaxi"	"Saquisilí"	511	2020-11-05
+"Cotopaxi"	"Sigchos"	153	2020-11-05
+"Cotopaxi"	"La Maná"	190	2020-11-06
+"Cotopaxi"	"Latacunga"	2181	2020-11-06
+"Cotopaxi"	"Pangua"	124	2020-11-06
+"Cotopaxi"	"Pujilí"	464	2020-11-06
+"Cotopaxi"	"Salcedo"	989	2020-11-06
+"Cotopaxi"	"Saquisilí"	511	2020-11-06
+"Cotopaxi"	"Sigchos"	153	2020-11-06
+"Cotopaxi"	"La Maná"	190	2020-11-07
+"Cotopaxi"	"Latacunga"	2191	2020-11-07
+"Cotopaxi"	"Pangua"	125	2020-11-07
+"Cotopaxi"	"Pujilí"	465	2020-11-07
+"Cotopaxi"	"Salcedo"	990	2020-11-07
+"Cotopaxi"	"Saquisilí"	511	2020-11-07
+"Cotopaxi"	"Sigchos"	153	2020-11-07
+"Cotopaxi"	"La Maná"	193	2020-11-08
+"Cotopaxi"	"Latacunga"	2205	2020-11-08
+"Cotopaxi"	"Pangua"	125	2020-11-08
+"Cotopaxi"	"Pujilí"	470	2020-11-08
+"Cotopaxi"	"Salcedo"	1000	2020-11-08
+"Cotopaxi"	"Saquisilí"	517	2020-11-08
+"Cotopaxi"	"Sigchos"	154	2020-11-08
+"Cotopaxi"	"La Maná"	193	2020-11-09
+"Cotopaxi"	"Latacunga"	2207	2020-11-09
+"Cotopaxi"	"Pangua"	125	2020-11-09
+"Cotopaxi"	"Pujilí"	471	2020-11-09
+"Cotopaxi"	"Salcedo"	1000	2020-11-09
+"Cotopaxi"	"Saquisilí"	520	2020-11-09
+"Cotopaxi"	"Sigchos"	154	2020-11-09
+"Cotopaxi"	"La Maná"	193	2020-11-10
+"Cotopaxi"	"Latacunga"	2208	2020-11-10
+"Cotopaxi"	"Pangua"	125	2020-11-10
+"Cotopaxi"	"Pujilí"	471	2020-11-10
+"Cotopaxi"	"Salcedo"	1000	2020-11-10
+"Cotopaxi"	"Saquisilí"	520	2020-11-10
+"Cotopaxi"	"Sigchos"	154	2020-11-10
+"Cotopaxi"	"La Maná"	193	2020-11-11
+"Cotopaxi"	"Latacunga"	2218	2020-11-11
+"Cotopaxi"	"Pangua"	125	2020-11-11
+"Cotopaxi"	"Pujilí"	471	2020-11-11
+"Cotopaxi"	"Salcedo"	1007	2020-11-11
+"Cotopaxi"	"Saquisilí"	521	2020-11-11
+"Cotopaxi"	"Sigchos"	154	2020-11-11
+"Cotopaxi"	"La Maná"	193	2020-11-12
+"Cotopaxi"	"Latacunga"	2235	2020-11-12
+"Cotopaxi"	"Pangua"	125	2020-11-12
+"Cotopaxi"	"Pujilí"	477	2020-11-12
+"Cotopaxi"	"Salcedo"	1012	2020-11-12
+"Cotopaxi"	"Saquisilí"	529	2020-11-12
+"Cotopaxi"	"Sigchos"	154	2020-11-12
+"Cotopaxi"	"La Maná"	194	2020-11-13
+"Cotopaxi"	"Latacunga"	2249	2020-11-13
+"Cotopaxi"	"Pangua"	125	2020-11-13
+"Cotopaxi"	"Pujilí"	478	2020-11-13
+"Cotopaxi"	"Salcedo"	1019	2020-11-13
+"Cotopaxi"	"Saquisilí"	530	2020-11-13
+"Cotopaxi"	"Sigchos"	154	2020-11-13
+"Cotopaxi"	"La Maná"	194	2020-11-14
+"Cotopaxi"	"Latacunga"	2255	2020-11-14
+"Cotopaxi"	"Pangua"	125	2020-11-14
+"Cotopaxi"	"Pujilí"	478	2020-11-14
+"Cotopaxi"	"Salcedo"	1024	2020-11-14
+"Cotopaxi"	"Saquisilí"	531	2020-11-14
+"Cotopaxi"	"Sigchos"	154	2020-11-14
+"Cotopaxi"	"La Maná"	194	2020-11-15
+"Cotopaxi"	"Latacunga"	2271	2020-11-15
+"Cotopaxi"	"Pangua"	125	2020-11-15
+"Cotopaxi"	"Pujilí"	479	2020-11-15
+"Cotopaxi"	"Salcedo"	1034	2020-11-15
+"Cotopaxi"	"Saquisilí"	531	2020-11-15
+"Cotopaxi"	"Sigchos"	154	2020-11-15
+"Cotopaxi"	"La Maná"	194	2020-11-16
+"Cotopaxi"	"Latacunga"	2281	2020-11-16
+"Cotopaxi"	"Pangua"	126	2020-11-16
+"Cotopaxi"	"Pujilí"	506	2020-11-16
+"Cotopaxi"	"Salcedo"	1037	2020-11-16
+"Cotopaxi"	"Saquisilí"	532	2020-11-16
+"Cotopaxi"	"Sigchos"	154	2020-11-16
+"Cotopaxi"	"La Maná"	194	2020-11-17
+"Cotopaxi"	"Latacunga"	2288	2020-11-17
+"Cotopaxi"	"Pangua"	127	2020-11-17
+"Cotopaxi"	"Pujilí"	508	2020-11-17
+"Cotopaxi"	"Salcedo"	1037	2020-11-17
+"Cotopaxi"	"Saquisilí"	534	2020-11-17
+"Cotopaxi"	"Sigchos"	154	2020-11-17
+"Cotopaxi"	"La Maná"	194	2020-11-18
+"Cotopaxi"	"Latacunga"	2312	2020-11-18
+"Cotopaxi"	"Pangua"	127	2020-11-18
+"Cotopaxi"	"Pujilí"	509	2020-11-18
+"Cotopaxi"	"Salcedo"	1038	2020-11-18
+"Cotopaxi"	"Saquisilí"	542	2020-11-18
+"Cotopaxi"	"Sigchos"	154	2020-11-18
+"Cotopaxi"	"La Maná"	194	2020-11-19
+"Cotopaxi"	"Latacunga"	2321	2020-11-19
+"Cotopaxi"	"Pangua"	127	2020-11-19
+"Cotopaxi"	"Pujilí"	510	2020-11-19
+"Cotopaxi"	"Salcedo"	1046	2020-11-19
+"Cotopaxi"	"Saquisilí"	545	2020-11-19
+"Cotopaxi"	"Sigchos"	154	2020-11-19
+"Cotopaxi"	"La Maná"	194	2020-11-20
+"Cotopaxi"	"Latacunga"	2332	2020-11-20
+"Cotopaxi"	"Pangua"	127	2020-11-20
+"Cotopaxi"	"Pujilí"	512	2020-11-20
+"Cotopaxi"	"Salcedo"	1049	2020-11-20
+"Cotopaxi"	"Saquisilí"	545	2020-11-20
+"Cotopaxi"	"Sigchos"	154	2020-11-20
+"Cotopaxi"	"La Maná"	194	2020-11-21
+"Cotopaxi"	"Latacunga"	2340	2020-11-21
+"Cotopaxi"	"Pangua"	128	2020-11-21
+"Cotopaxi"	"Pujilí"	516	2020-11-21
+"Cotopaxi"	"Salcedo"	1056	2020-11-21
+"Cotopaxi"	"Saquisilí"	545	2020-11-21
+"Cotopaxi"	"Sigchos"	155	2020-11-21
+"Cotopaxi"	"La Maná"	194	2020-11-22
+"Cotopaxi"	"Latacunga"	2355	2020-11-22
+"Cotopaxi"	"Pangua"	128	2020-11-22
+"Cotopaxi"	"Pujilí"	519	2020-11-22
+"Cotopaxi"	"Salcedo"	1065	2020-11-22
+"Cotopaxi"	"Saquisilí"	547	2020-11-22
+"Cotopaxi"	"Sigchos"	155	2020-11-22
+"Cotopaxi"	"La Maná"	194	2020-11-23
+"Cotopaxi"	"Latacunga"	2357	2020-11-23
+"Cotopaxi"	"Pangua"	128	2020-11-23
+"Cotopaxi"	"Pujilí"	519	2020-11-23
+"Cotopaxi"	"Salcedo"	1066	2020-11-23
+"Cotopaxi"	"Saquisilí"	547	2020-11-23
+"Cotopaxi"	"Sigchos"	156	2020-11-23
+"Cotopaxi"	"La Maná"	194	2020-11-24
+"Cotopaxi"	"Latacunga"	2357	2020-11-24
+"Cotopaxi"	"Pangua"	128	2020-11-24
+"Cotopaxi"	"Pujilí"	519	2020-11-24
+"Cotopaxi"	"Salcedo"	1070	2020-11-24
+"Cotopaxi"	"Saquisilí"	547	2020-11-24
+"Cotopaxi"	"Sigchos"	156	2020-11-24
+"Cotopaxi"	"La Maná"	194	2020-11-25
+"Cotopaxi"	"Latacunga"	2367	2020-11-25
+"Cotopaxi"	"Pangua"	128	2020-11-25
+"Cotopaxi"	"Pujilí"	521	2020-11-25
+"Cotopaxi"	"Salcedo"	1072	2020-11-25
+"Cotopaxi"	"Saquisilí"	547	2020-11-25
+"Cotopaxi"	"Sigchos"	156	2020-11-25
+"Cotopaxi"	"La Maná"	195	2020-11-26
+"Cotopaxi"	"Latacunga"	2374	2020-11-26
+"Cotopaxi"	"Pangua"	128	2020-11-26
+"Cotopaxi"	"Pujilí"	521	2020-11-26
+"Cotopaxi"	"Salcedo"	1075	2020-11-26
+"Cotopaxi"	"Saquisilí"	547	2020-11-26
+"Cotopaxi"	"Sigchos"	157	2020-11-26
+"Cotopaxi"	"La Maná"	195	2020-11-27
+"Cotopaxi"	"Latacunga"	2409	2020-11-27
+"Cotopaxi"	"Pangua"	128	2020-11-27
+"Cotopaxi"	"Pujilí"	522	2020-11-27
+"Cotopaxi"	"Salcedo"	1083	2020-11-27
+"Cotopaxi"	"Saquisilí"	548	2020-11-27
+"Cotopaxi"	"Sigchos"	157	2020-11-27
+"Cotopaxi"	"La Maná"	196	2020-11-28
+"Cotopaxi"	"Latacunga"	2424	2020-11-28
+"Cotopaxi"	"Pangua"	128	2020-11-28
+"Cotopaxi"	"Pujilí"	523	2020-11-28
+"Cotopaxi"	"Salcedo"	1095	2020-11-28
+"Cotopaxi"	"Saquisilí"	548	2020-11-28
+"Cotopaxi"	"Sigchos"	157	2020-11-28
+"Cotopaxi"	"La Maná"	196	2020-11-29
+"Cotopaxi"	"Latacunga"	2432	2020-11-29
+"Cotopaxi"	"Pangua"	128	2020-11-29
+"Cotopaxi"	"Pujilí"	527	2020-11-29
+"Cotopaxi"	"Salcedo"	1102	2020-11-29
+"Cotopaxi"	"Saquisilí"	548	2020-11-29
+"Cotopaxi"	"Sigchos"	157	2020-11-29
+"Cotopaxi"	"La Maná"	196	2020-11-30
+"Cotopaxi"	"Latacunga"	2434	2020-11-30
+"Cotopaxi"	"Pangua"	128	2020-11-30
+"Cotopaxi"	"Pujilí"	527	2020-11-30
+"Cotopaxi"	"Salcedo"	1103	2020-11-30
+"Cotopaxi"	"Saquisilí"	548	2020-11-30
+"Cotopaxi"	"Sigchos"	157	2020-11-30
+"Cotopaxi"	"La Maná"	196	2020-12-01
+"Cotopaxi"	"Latacunga"	2436	2020-12-01
+"Cotopaxi"	"Pangua"	128	2020-12-01
+"Cotopaxi"	"Pujilí"	540	2020-12-01
+"Cotopaxi"	"Salcedo"	1103	2020-12-01
+"Cotopaxi"	"Saquisilí"	548	2020-12-01
+"Cotopaxi"	"Sigchos"	157	2020-12-01
+"Cotopaxi"	"La Maná"	196	2020-12-02
+"Cotopaxi"	"Latacunga"	2446	2020-12-02
+"Cotopaxi"	"Pangua"	128	2020-12-02
+"Cotopaxi"	"Pujilí"	540	2020-12-02
+"Cotopaxi"	"Salcedo"	1113	2020-12-02
+"Cotopaxi"	"Saquisilí"	550	2020-12-02
+"Cotopaxi"	"Sigchos"	157	2020-12-02
+"Cotopaxi"	"La Maná"	196	2020-12-03
+"Cotopaxi"	"Latacunga"	2455	2020-12-03
+"Cotopaxi"	"Pangua"	128	2020-12-03
+"Cotopaxi"	"Pujilí"	543	2020-12-03
+"Cotopaxi"	"Salcedo"	1123	2020-12-03
+"Cotopaxi"	"Saquisilí"	550	2020-12-03
+"Cotopaxi"	"Sigchos"	157	2020-12-03
+"Cotopaxi"	"La Maná"	197	2020-12-04
+"Cotopaxi"	"Latacunga"	2456	2020-12-04
+"Cotopaxi"	"Pangua"	128	2020-12-04
+"Cotopaxi"	"Pujilí"	545	2020-12-04
+"Cotopaxi"	"Salcedo"	1123	2020-12-04
+"Cotopaxi"	"Saquisilí"	550	2020-12-04
+"Cotopaxi"	"Sigchos"	157	2020-12-04
+"Cotopaxi"	"La Maná"	198	2020-12-05
+"Cotopaxi"	"Latacunga"	2463	2020-12-05
+"Cotopaxi"	"Pangua"	128	2020-12-05
+"Cotopaxi"	"Pujilí"	548	2020-12-05
+"Cotopaxi"	"Salcedo"	1135	2020-12-05
+"Cotopaxi"	"Saquisilí"	553	2020-12-05
+"Cotopaxi"	"Sigchos"	157	2020-12-05
+"Cotopaxi"	"La Maná"	199	2020-12-06
+"Cotopaxi"	"Latacunga"	2464	2020-12-06
+"Cotopaxi"	"Pangua"	128	2020-12-06
+"Cotopaxi"	"Pujilí"	551	2020-12-06
+"Cotopaxi"	"Salcedo"	1147	2020-12-06
+"Cotopaxi"	"Saquisilí"	553	2020-12-06
+"Cotopaxi"	"Sigchos"	157	2020-12-06
+"Cotopaxi"	"La Maná"	199	2020-12-07
+"Cotopaxi"	"Latacunga"	2464	2020-12-07
+"Cotopaxi"	"Pangua"	128	2020-12-07
+"Cotopaxi"	"Pujilí"	551	2020-12-07
+"Cotopaxi"	"Salcedo"	1147	2020-12-07
+"Cotopaxi"	"Saquisilí"	553	2020-12-07
+"Cotopaxi"	"Sigchos"	157	2020-12-07
+"Cotopaxi"	"La Maná"	199	2020-12-08
+"Cotopaxi"	"Latacunga"	2467	2020-12-08
+"Cotopaxi"	"Pangua"	128	2020-12-08
+"Cotopaxi"	"Pujilí"	551	2020-12-08
+"Cotopaxi"	"Salcedo"	1147	2020-12-08
+"Cotopaxi"	"Saquisilí"	553	2020-12-08
+"Cotopaxi"	"Sigchos"	157	2020-12-08
+"Cotopaxi"	"La Maná"	207	2020-12-09
+"Cotopaxi"	"Latacunga"	2471	2020-12-09
+"Cotopaxi"	"Pangua"	128	2020-12-09
+"Cotopaxi"	"Pujilí"	551	2020-12-09
+"Cotopaxi"	"Salcedo"	1147	2020-12-09
+"Cotopaxi"	"Saquisilí"	553	2020-12-09
+"Cotopaxi"	"Sigchos"	157	2020-12-09
+"Cotopaxi"	"La Maná"	208	2020-12-10
+"Cotopaxi"	"Latacunga"	2479	2020-12-10
+"Cotopaxi"	"Pangua"	128	2020-12-10
+"Cotopaxi"	"Pujilí"	554	2020-12-10
+"Cotopaxi"	"Salcedo"	1166	2020-12-10
+"Cotopaxi"	"Saquisilí"	553	2020-12-10
+"Cotopaxi"	"Sigchos"	157	2020-12-10
+"Cotopaxi"	"La Maná"	212	2020-12-11
+"Cotopaxi"	"Latacunga"	2481	2020-12-11
+"Cotopaxi"	"Pangua"	128	2020-12-11
+"Cotopaxi"	"Pujilí"	554	2020-12-11
+"Cotopaxi"	"Salcedo"	1166	2020-12-11
+"Cotopaxi"	"Saquisilí"	553	2020-12-11
+"Cotopaxi"	"Sigchos"	157	2020-12-11
+"Cotopaxi"	"La Maná"	212	2020-12-12
+"Cotopaxi"	"Latacunga"	2487	2020-12-12
+"Cotopaxi"	"Pangua"	128	2020-12-12
+"Cotopaxi"	"Pujilí"	555	2020-12-12
+"Cotopaxi"	"Salcedo"	1171	2020-12-12
+"Cotopaxi"	"Saquisilí"	553	2020-12-12
+"Cotopaxi"	"Sigchos"	157	2020-12-12
+"Cotopaxi"	"La Maná"	212	2020-12-13
+"Cotopaxi"	"Latacunga"	2491	2020-12-13
+"Cotopaxi"	"Pangua"	129	2020-12-13
+"Cotopaxi"	"Pujilí"	558	2020-12-13
+"Cotopaxi"	"Salcedo"	1174	2020-12-13
+"Cotopaxi"	"Saquisilí"	553	2020-12-13
+"Cotopaxi"	"Sigchos"	157	2020-12-13
+"Cotopaxi"	"La Maná"	212	2020-12-14
+"Cotopaxi"	"Latacunga"	2491	2020-12-14
+"Cotopaxi"	"Pangua"	129	2020-12-14
+"Cotopaxi"	"Pujilí"	558	2020-12-14
+"Cotopaxi"	"Salcedo"	1174	2020-12-14
+"Cotopaxi"	"Saquisilí"	553	2020-12-14
+"Cotopaxi"	"Sigchos"	157	2020-12-14
+"Cotopaxi"	"La Maná"	212	2020-12-15
+"Cotopaxi"	"Latacunga"	2491	2020-12-15
+"Cotopaxi"	"Pangua"	129	2020-12-15
+"Cotopaxi"	"Pujilí"	558	2020-12-15
+"Cotopaxi"	"Salcedo"	1174	2020-12-15
+"Cotopaxi"	"Saquisilí"	553	2020-12-15
+"Cotopaxi"	"Sigchos"	157	2020-12-15
+"Cotopaxi"	"La Maná"	212	2020-12-16
+"Cotopaxi"	"Latacunga"	2528	2020-12-16
+"Cotopaxi"	"Pangua"	130	2020-12-16
+"Cotopaxi"	"Pujilí"	563	2020-12-16
+"Cotopaxi"	"Salcedo"	1204	2020-12-16
+"Cotopaxi"	"Saquisilí"	554	2020-12-16
+"Cotopaxi"	"Sigchos"	157	2020-12-16
+"Cotopaxi"	"La Maná"	213	2020-12-17
+"Cotopaxi"	"Latacunga"	2540	2020-12-17
+"Cotopaxi"	"Pangua"	130	2020-12-17
+"Cotopaxi"	"Pujilí"	567	2020-12-17
+"Cotopaxi"	"Salcedo"	1206	2020-12-17
+"Cotopaxi"	"Saquisilí"	554	2020-12-17
+"Cotopaxi"	"Sigchos"	157	2020-12-17
+"Cotopaxi"	"La Maná"	213	2020-12-18
+"Cotopaxi"	"Latacunga"	2543	2020-12-18
+"Cotopaxi"	"Pangua"	130	2020-12-18
+"Cotopaxi"	"Pujilí"	568	2020-12-18
+"Cotopaxi"	"Salcedo"	1206	2020-12-18
+"Cotopaxi"	"Saquisilí"	554	2020-12-18
+"Cotopaxi"	"Sigchos"	157	2020-12-18
+"Cotopaxi"	"La Maná"	213	2020-12-19
+"Cotopaxi"	"Latacunga"	2552	2020-12-19
+"Cotopaxi"	"Pangua"	133	2020-12-19
+"Cotopaxi"	"Pujilí"	572	2020-12-19
+"Cotopaxi"	"Salcedo"	1225	2020-12-19
+"Cotopaxi"	"Saquisilí"	556	2020-12-19
+"Cotopaxi"	"Sigchos"	159	2020-12-19
+"Cotopaxi"	"La Maná"	214	2020-12-20
+"Cotopaxi"	"Latacunga"	2553	2020-12-20
+"Cotopaxi"	"Pangua"	133	2020-12-20
+"Cotopaxi"	"Pujilí"	572	2020-12-20
+"Cotopaxi"	"Salcedo"	1225	2020-12-20
+"Cotopaxi"	"Saquisilí"	556	2020-12-20
+"Cotopaxi"	"Sigchos"	159	2020-12-20
+"Cotopaxi"	"La Maná"	214	2020-12-21
+"Cotopaxi"	"Latacunga"	2553	2020-12-21
+"Cotopaxi"	"Pangua"	133	2020-12-21
+"Cotopaxi"	"Pujilí"	572	2020-12-21
+"Cotopaxi"	"Salcedo"	1225	2020-12-21
+"Cotopaxi"	"Saquisilí"	556	2020-12-21
+"Cotopaxi"	"Sigchos"	159	2020-12-21
+"Cotopaxi"	"La Maná"	214	2020-12-22
+"Cotopaxi"	"Latacunga"	2553	2020-12-22
+"Cotopaxi"	"Pangua"	133	2020-12-22
+"Cotopaxi"	"Pujilí"	572	2020-12-22
+"Cotopaxi"	"Salcedo"	1225	2020-12-22
+"Cotopaxi"	"Saquisilí"	556	2020-12-22
+"Cotopaxi"	"Sigchos"	159	2020-12-22
+"Cotopaxi"	"La Maná"	214	2020-12-23
+"Cotopaxi"	"Latacunga"	2564	2020-12-23
+"Cotopaxi"	"Pangua"	133	2020-12-23
+"Cotopaxi"	"Pujilí"	575	2020-12-23
+"Cotopaxi"	"Salcedo"	1231	2020-12-23
+"Cotopaxi"	"Saquisilí"	556	2020-12-23
+"Cotopaxi"	"Sigchos"	159	2020-12-23
+"Cotopaxi"	"La Maná"	215	2020-12-24
+"Cotopaxi"	"Latacunga"	2575	2020-12-24
+"Cotopaxi"	"Pangua"	133	2020-12-24
+"Cotopaxi"	"Pujilí"	575	2020-12-24
+"Cotopaxi"	"Salcedo"	1235	2020-12-24
+"Cotopaxi"	"Saquisilí"	559	2020-12-24
+"Cotopaxi"	"Sigchos"	159	2020-12-24
+"Cotopaxi"	"La Maná"	215	2020-12-25
+"Cotopaxi"	"Latacunga"	2600	2020-12-25
+"Cotopaxi"	"Pangua"	133	2020-12-25
+"Cotopaxi"	"Pujilí"	576	2020-12-25
+"Cotopaxi"	"Salcedo"	1254	2020-12-25
+"Cotopaxi"	"Saquisilí"	559	2020-12-25
+"Cotopaxi"	"Sigchos"	160	2020-12-25
+"Cotopaxi"	"La Maná"	220	2020-12-26
+"Cotopaxi"	"Latacunga"	2612	2020-12-26
+"Cotopaxi"	"Pangua"	134	2020-12-26
+"Cotopaxi"	"Pujilí"	578	2020-12-26
+"Cotopaxi"	"Salcedo"	1271	2020-12-26
+"Cotopaxi"	"Saquisilí"	560	2020-12-26
+"Cotopaxi"	"Sigchos"	160	2020-12-26
+"Cotopaxi"	"La Maná"	220	2020-12-27
+"Cotopaxi"	"Latacunga"	2613	2020-12-27
+"Cotopaxi"	"Pangua"	134	2020-12-27
+"Cotopaxi"	"Pujilí"	578	2020-12-27
+"Cotopaxi"	"Salcedo"	1271	2020-12-27
+"Cotopaxi"	"Saquisilí"	560	2020-12-27
+"Cotopaxi"	"Sigchos"	160	2020-12-27
+"Cotopaxi"	"La Maná"	220	2020-12-28
+"Cotopaxi"	"Latacunga"	2619	2020-12-28
+"Cotopaxi"	"Pangua"	135	2020-12-28
+"Cotopaxi"	"Pujilí"	585	2020-12-28
+"Cotopaxi"	"Salcedo"	1285	2020-12-28
+"Cotopaxi"	"Saquisilí"	560	2020-12-28
+"Cotopaxi"	"Sigchos"	164	2020-12-28
+"Cotopaxi"	"La Maná"	221	2020-12-29
+"Cotopaxi"	"Latacunga"	2619	2020-12-29
+"Cotopaxi"	"Pangua"	135	2020-12-29
+"Cotopaxi"	"Pujilí"	586	2020-12-29
+"Cotopaxi"	"Salcedo"	1285	2020-12-29
+"Cotopaxi"	"Saquisilí"	560	2020-12-29
+"Cotopaxi"	"Sigchos"	164	2020-12-29
+"Cotopaxi"	"La Maná"	222	2020-12-30
+"Cotopaxi"	"Latacunga"	2640	2020-12-30
+"Cotopaxi"	"Pangua"	135	2020-12-30
+"Cotopaxi"	"Pujilí"	589	2020-12-30
+"Cotopaxi"	"Salcedo"	1291	2020-12-30
+"Cotopaxi"	"Saquisilí"	561	2020-12-30
+"Cotopaxi"	"Sigchos"	184	2020-12-30
+"Cotopaxi"	"La Maná"	223	2020-12-31
+"Cotopaxi"	"Latacunga"	2665	2020-12-31
+"Cotopaxi"	"Pangua"	135	2020-12-31
+"Cotopaxi"	"Pujilí"	591	2020-12-31
+"Cotopaxi"	"Salcedo"	1294	2020-12-31
+"Cotopaxi"	"Saquisilí"	562	2020-12-31
+"Cotopaxi"	"Sigchos"	185	2020-12-31
 "Cotopaxi"	"La Maná"	225	2021-01-01
 "Cotopaxi"	"Latacunga"	2696	2021-01-01
 "Cotopaxi"	"Pangua"	135	2021-01-01
@@ -3317,3 +5375,59 @@
 "Cotopaxi"	"Salcedo"	4372	2022-04-19
 "Cotopaxi"	"Saquisilí"	1126	2022-04-19
 "Cotopaxi"	"Sigchos"	651	2022-04-19
+"Cotopaxi"	"La Maná"	942	2022-04-20
+"Cotopaxi"	"Latacunga"	7978	2022-04-20
+"Cotopaxi"	"Pangua"	496	2022-04-20
+"Cotopaxi"	"Pujilí"	2434	2022-04-20
+"Cotopaxi"	"Salcedo"	4374	2022-04-20
+"Cotopaxi"	"Saquisilí"	1126	2022-04-20
+"Cotopaxi"	"Sigchos"	651	2022-04-20
+"Cotopaxi"	"La Maná"	942	2022-04-21
+"Cotopaxi"	"Latacunga"	7979	2022-04-21
+"Cotopaxi"	"Pangua"	496	2022-04-21
+"Cotopaxi"	"Pujilí"	2434	2022-04-21
+"Cotopaxi"	"Salcedo"	4377	2022-04-21
+"Cotopaxi"	"Saquisilí"	1126	2022-04-21
+"Cotopaxi"	"Sigchos"	651	2022-04-21
+"Cotopaxi"	"La Maná"	942	2022-04-22
+"Cotopaxi"	"Latacunga"	7982	2022-04-22
+"Cotopaxi"	"Pangua"	496	2022-04-22
+"Cotopaxi"	"Pujilí"	2434	2022-04-22
+"Cotopaxi"	"Salcedo"	4377	2022-04-22
+"Cotopaxi"	"Saquisilí"	1126	2022-04-22
+"Cotopaxi"	"Sigchos"	651	2022-04-22
+"Cotopaxi"	"La Maná"	942	2022-04-23
+"Cotopaxi"	"Latacunga"	7982	2022-04-23
+"Cotopaxi"	"Pangua"	496	2022-04-23
+"Cotopaxi"	"Pujilí"	2434	2022-04-23
+"Cotopaxi"	"Salcedo"	4379	2022-04-23
+"Cotopaxi"	"Saquisilí"	1126	2022-04-23
+"Cotopaxi"	"Sigchos"	652	2022-04-23
+"Cotopaxi"	"La Maná"	942	2022-04-24
+"Cotopaxi"	"Latacunga"	7982	2022-04-24
+"Cotopaxi"	"Pangua"	496	2022-04-24
+"Cotopaxi"	"Pujilí"	2434	2022-04-24
+"Cotopaxi"	"Salcedo"	4379	2022-04-24
+"Cotopaxi"	"Saquisilí"	1126	2022-04-24
+"Cotopaxi"	"Sigchos"	652	2022-04-24
+"Cotopaxi"	"La Maná"	942	2022-04-25
+"Cotopaxi"	"Latacunga"	7982	2022-04-25
+"Cotopaxi"	"Pangua"	496	2022-04-25
+"Cotopaxi"	"Pujilí"	2434	2022-04-25
+"Cotopaxi"	"Salcedo"	4381	2022-04-25
+"Cotopaxi"	"Saquisilí"	1126	2022-04-25
+"Cotopaxi"	"Sigchos"	652	2022-04-25
+"Cotopaxi"	"La Maná"	942	2022-04-26
+"Cotopaxi"	"Latacunga"	7982	2022-04-26
+"Cotopaxi"	"Pangua"	496	2022-04-26
+"Cotopaxi"	"Pujilí"	2435	2022-04-26
+"Cotopaxi"	"Salcedo"	4382	2022-04-26
+"Cotopaxi"	"Saquisilí"	1126	2022-04-26
+"Cotopaxi"	"Sigchos"	652	2022-04-26
+"Cotopaxi"	"La Maná"	942	2022-04-27
+"Cotopaxi"	"Latacunga"	7983	2022-04-27
+"Cotopaxi"	"Pangua"	496	2022-04-27
+"Cotopaxi"	"Pujilí"	2435	2022-04-27
+"Cotopaxi"	"Salcedo"	4382	2022-04-27
+"Cotopaxi"	"Saquisilí"	1127	2022-04-27
+"Cotopaxi"	"Sigchos"	652	2022-04-27

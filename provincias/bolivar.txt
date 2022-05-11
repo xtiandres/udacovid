@@ -1,4 +1,2062 @@
 "provincia"	"canton"	"total"	"created_at"
+"Bolívar"	"Caluma"	0	2020-03-13
+"Bolívar"	"Chillanes"	0	2020-03-13
+"Bolívar"	"Chimbo"	0	2020-03-13
+"Bolívar"	"Echeandía"	0	2020-03-13
+"Bolívar"	"Guaranda"	0	2020-03-13
+"Bolívar"	"Las Naves"	0	2020-03-13
+"Bolívar"	"San Miguel"	0	2020-03-13
+"Bolívar"	"Caluma"	0	2020-03-14
+"Bolívar"	"Chillanes"	0	2020-03-14
+"Bolívar"	"Chimbo"	0	2020-03-14
+"Bolívar"	"Echeandía"	0	2020-03-14
+"Bolívar"	"Guaranda"	0	2020-03-14
+"Bolívar"	"Las Naves"	0	2020-03-14
+"Bolívar"	"San Miguel"	0	2020-03-14
+"Bolívar"	"Caluma"	0	2020-03-15
+"Bolívar"	"Chillanes"	0	2020-03-15
+"Bolívar"	"Chimbo"	0	2020-03-15
+"Bolívar"	"Echeandía"	0	2020-03-15
+"Bolívar"	"Guaranda"	0	2020-03-15
+"Bolívar"	"Las Naves"	0	2020-03-15
+"Bolívar"	"San Miguel"	0	2020-03-15
+"Bolívar"	"Caluma"	0	2020-03-16
+"Bolívar"	"Chillanes"	0	2020-03-16
+"Bolívar"	"Chimbo"	0	2020-03-16
+"Bolívar"	"Echeandía"	0	2020-03-16
+"Bolívar"	"Guaranda"	0	2020-03-16
+"Bolívar"	"Las Naves"	0	2020-03-16
+"Bolívar"	"San Miguel"	0	2020-03-16
+"Bolívar"	"Caluma"	0	2020-03-17
+"Bolívar"	"Chillanes"	0	2020-03-17
+"Bolívar"	"Chimbo"	0	2020-03-17
+"Bolívar"	"Echeandía"	0	2020-03-17
+"Bolívar"	"Guaranda"	0	2020-03-17
+"Bolívar"	"Las Naves"	0	2020-03-17
+"Bolívar"	"San Miguel"	0	2020-03-17
+"Bolívar"	"Caluma"	0	2020-03-18
+"Bolívar"	"Chillanes"	0	2020-03-18
+"Bolívar"	"Chimbo"	0	2020-03-18
+"Bolívar"	"Echeandía"	0	2020-03-18
+"Bolívar"	"Guaranda"	2	2020-03-18
+"Bolívar"	"Las Naves"	0	2020-03-18
+"Bolívar"	"San Miguel"	0	2020-03-18
+"Bolívar"	"Caluma"	0	2020-03-19
+"Bolívar"	"Chillanes"	0	2020-03-19
+"Bolívar"	"Chimbo"	0	2020-03-19
+"Bolívar"	"Echeandía"	0	2020-03-19
+"Bolívar"	"Guaranda"	2	2020-03-19
+"Bolívar"	"Las Naves"	0	2020-03-19
+"Bolívar"	"San Miguel"	0	2020-03-19
+"Bolívar"	"Caluma"	0	2020-03-20
+"Bolívar"	"Chillanes"	0	2020-03-20
+"Bolívar"	"Chimbo"	0	2020-03-20
+"Bolívar"	"Echeandía"	0	2020-03-20
+"Bolívar"	"Guaranda"	4	2020-03-20
+"Bolívar"	"Las Naves"	0	2020-03-20
+"Bolívar"	"San Miguel"	0	2020-03-20
+"Bolívar"	"Caluma"	0	2020-03-21
+"Bolívar"	"Chillanes"	1	2020-03-21
+"Bolívar"	"Chimbo"	0	2020-03-21
+"Bolívar"	"Echeandía"	0	2020-03-21
+"Bolívar"	"Guaranda"	4	2020-03-21
+"Bolívar"	"Las Naves"	0	2020-03-21
+"Bolívar"	"San Miguel"	0	2020-03-21
+"Bolívar"	"Caluma"	0	2020-03-22
+"Bolívar"	"Chillanes"	1	2020-03-22
+"Bolívar"	"Chimbo"	1	2020-03-22
+"Bolívar"	"Echeandía"	0	2020-03-22
+"Bolívar"	"Guaranda"	6	2020-03-22
+"Bolívar"	"Las Naves"	0	2020-03-22
+"Bolívar"	"San Miguel"	0	2020-03-22
+"Bolívar"	"Caluma"	0	2020-03-23
+"Bolívar"	"Chillanes"	1	2020-03-23
+"Bolívar"	"Chimbo"	1	2020-03-23
+"Bolívar"	"Echeandía"	0	2020-03-23
+"Bolívar"	"Guaranda"	7	2020-03-23
+"Bolívar"	"Las Naves"	0	2020-03-23
+"Bolívar"	"San Miguel"	0	2020-03-23
+"Bolívar"	"Caluma"	0	2020-03-24
+"Bolívar"	"Chillanes"	1	2020-03-24
+"Bolívar"	"Chimbo"	1	2020-03-24
+"Bolívar"	"Echeandía"	0	2020-03-24
+"Bolívar"	"Guaranda"	7	2020-03-24
+"Bolívar"	"Las Naves"	0	2020-03-24
+"Bolívar"	"San Miguel"	0	2020-03-24
+"Bolívar"	"Caluma"	0	2020-03-25
+"Bolívar"	"Chillanes"	2	2020-03-25
+"Bolívar"	"Chimbo"	1	2020-03-25
+"Bolívar"	"Echeandía"	0	2020-03-25
+"Bolívar"	"Guaranda"	8	2020-03-25
+"Bolívar"	"Las Naves"	0	2020-03-25
+"Bolívar"	"San Miguel"	0	2020-03-25
+"Bolívar"	"Caluma"	0	2020-03-26
+"Bolívar"	"Chillanes"	2	2020-03-26
+"Bolívar"	"Chimbo"	1	2020-03-26
+"Bolívar"	"Echeandía"	0	2020-03-26
+"Bolívar"	"Guaranda"	8	2020-03-26
+"Bolívar"	"Las Naves"	0	2020-03-26
+"Bolívar"	"San Miguel"	0	2020-03-26
+"Bolívar"	"Caluma"	0	2020-03-27
+"Bolívar"	"Chillanes"	2	2020-03-27
+"Bolívar"	"Chimbo"	1	2020-03-27
+"Bolívar"	"Echeandía"	0	2020-03-27
+"Bolívar"	"Guaranda"	9	2020-03-27
+"Bolívar"	"Las Naves"	0	2020-03-27
+"Bolívar"	"San Miguel"	0	2020-03-27
+"Bolívar"	"Caluma"	0	2020-03-28
+"Bolívar"	"Chillanes"	2	2020-03-28
+"Bolívar"	"Chimbo"	1	2020-03-28
+"Bolívar"	"Echeandía"	2	2020-03-28
+"Bolívar"	"Guaranda"	9	2020-03-28
+"Bolívar"	"Las Naves"	0	2020-03-28
+"Bolívar"	"San Miguel"	0	2020-03-28
+"Bolívar"	"Caluma"	0	2020-03-29
+"Bolívar"	"Chillanes"	2	2020-03-29
+"Bolívar"	"Chimbo"	1	2020-03-29
+"Bolívar"	"Echeandía"	2	2020-03-29
+"Bolívar"	"Guaranda"	9	2020-03-29
+"Bolívar"	"Las Naves"	0	2020-03-29
+"Bolívar"	"San Miguel"	0	2020-03-29
+"Bolívar"	"Caluma"	0	2020-03-30
+"Bolívar"	"Chillanes"	2	2020-03-30
+"Bolívar"	"Chimbo"	1	2020-03-30
+"Bolívar"	"Echeandía"	2	2020-03-30
+"Bolívar"	"Guaranda"	9	2020-03-30
+"Bolívar"	"Las Naves"	0	2020-03-30
+"Bolívar"	"San Miguel"	0	2020-03-30
+"Bolívar"	"Caluma"	0	2020-03-31
+"Bolívar"	"Chillanes"	2	2020-03-31
+"Bolívar"	"Chimbo"	1	2020-03-31
+"Bolívar"	"Echeandía"	2	2020-03-31
+"Bolívar"	"Guaranda"	10	2020-03-31
+"Bolívar"	"Las Naves"	0	2020-03-31
+"Bolívar"	"San Miguel"	0	2020-03-31
+"Bolívar"	"Caluma"	1	2020-04-01
+"Bolívar"	"Chillanes"	4	2020-04-01
+"Bolívar"	"Chimbo"	2	2020-04-01
+"Bolívar"	"Echeandía"	2	2020-04-01
+"Bolívar"	"Guaranda"	11	2020-04-01
+"Bolívar"	"Las Naves"	0	2020-04-01
+"Bolívar"	"San Miguel"	0	2020-04-01
+"Bolívar"	"Caluma"	2	2020-04-02
+"Bolívar"	"Chillanes"	7	2020-04-02
+"Bolívar"	"Chimbo"	2	2020-04-02
+"Bolívar"	"Echeandía"	2	2020-04-02
+"Bolívar"	"Guaranda"	12	2020-04-02
+"Bolívar"	"Las Naves"	0	2020-04-02
+"Bolívar"	"San Miguel"	1	2020-04-02
+"Bolívar"	"Caluma"	2	2020-04-03
+"Bolívar"	"Chillanes"	7	2020-04-03
+"Bolívar"	"Chimbo"	2	2020-04-03
+"Bolívar"	"Echeandía"	2	2020-04-03
+"Bolívar"	"Guaranda"	12	2020-04-03
+"Bolívar"	"Las Naves"	0	2020-04-03
+"Bolívar"	"San Miguel"	1	2020-04-03
+"Bolívar"	"Caluma"	2	2020-04-04
+"Bolívar"	"Chillanes"	7	2020-04-04
+"Bolívar"	"Chimbo"	2	2020-04-04
+"Bolívar"	"Echeandía"	2	2020-04-04
+"Bolívar"	"Guaranda"	12	2020-04-04
+"Bolívar"	"Las Naves"	0	2020-04-04
+"Bolívar"	"San Miguel"	1	2020-04-04
+"Bolívar"	"Caluma"	2	2020-04-05
+"Bolívar"	"Chillanes"	7	2020-04-05
+"Bolívar"	"Chimbo"	2	2020-04-05
+"Bolívar"	"Echeandía"	2	2020-04-05
+"Bolívar"	"Guaranda"	13	2020-04-05
+"Bolívar"	"Las Naves"	0	2020-04-05
+"Bolívar"	"San Miguel"	1	2020-04-05
+"Bolívar"	"Caluma"	2	2020-04-06
+"Bolívar"	"Chillanes"	7	2020-04-06
+"Bolívar"	"Chimbo"	2	2020-04-06
+"Bolívar"	"Echeandía"	2	2020-04-06
+"Bolívar"	"Guaranda"	13	2020-04-06
+"Bolívar"	"Las Naves"	0	2020-04-06
+"Bolívar"	"San Miguel"	1	2020-04-06
+"Bolívar"	"Caluma"	2	2020-04-07
+"Bolívar"	"Chillanes"	7	2020-04-07
+"Bolívar"	"Chimbo"	2	2020-04-07
+"Bolívar"	"Echeandía"	2	2020-04-07
+"Bolívar"	"Guaranda"	13	2020-04-07
+"Bolívar"	"Las Naves"	0	2020-04-07
+"Bolívar"	"San Miguel"	1	2020-04-07
+"Bolívar"	"Caluma"	2	2020-04-08
+"Bolívar"	"Chillanes"	7	2020-04-08
+"Bolívar"	"Chimbo"	2	2020-04-08
+"Bolívar"	"Echeandía"	2	2020-04-08
+"Bolívar"	"Guaranda"	13	2020-04-08
+"Bolívar"	"Las Naves"	0	2020-04-08
+"Bolívar"	"San Miguel"	1	2020-04-08
+"Bolívar"	"Caluma"	2	2020-04-09
+"Bolívar"	"Chillanes"	7	2020-04-09
+"Bolívar"	"Chimbo"	2	2020-04-09
+"Bolívar"	"Echeandía"	3	2020-04-09
+"Bolívar"	"Guaranda"	15	2020-04-09
+"Bolívar"	"Las Naves"	0	2020-04-09
+"Bolívar"	"San Miguel"	1	2020-04-09
+"Bolívar"	"Caluma"	2	2020-04-10
+"Bolívar"	"Chillanes"	7	2020-04-10
+"Bolívar"	"Chimbo"	3	2020-04-10
+"Bolívar"	"Echeandía"	3	2020-04-10
+"Bolívar"	"Guaranda"	16	2020-04-10
+"Bolívar"	"Las Naves"	0	2020-04-10
+"Bolívar"	"San Miguel"	1	2020-04-10
+"Bolívar"	"Caluma"	2	2020-04-11
+"Bolívar"	"Chillanes"	7	2020-04-11
+"Bolívar"	"Chimbo"	3	2020-04-11
+"Bolívar"	"Echeandía"	3	2020-04-11
+"Bolívar"	"Guaranda"	16	2020-04-11
+"Bolívar"	"Las Naves"	1	2020-04-11
+"Bolívar"	"San Miguel"	1	2020-04-11
+"Bolívar"	"Caluma"	2	2020-04-12
+"Bolívar"	"Chillanes"	7	2020-04-12
+"Bolívar"	"Chimbo"	3	2020-04-12
+"Bolívar"	"Echeandía"	3	2020-04-12
+"Bolívar"	"Guaranda"	16	2020-04-12
+"Bolívar"	"Las Naves"	1	2020-04-12
+"Bolívar"	"San Miguel"	1	2020-04-12
+"Bolívar"	"Caluma"	2	2020-04-13
+"Bolívar"	"Chillanes"	7	2020-04-13
+"Bolívar"	"Chimbo"	3	2020-04-13
+"Bolívar"	"Echeandía"	3	2020-04-13
+"Bolívar"	"Guaranda"	16	2020-04-13
+"Bolívar"	"Las Naves"	1	2020-04-13
+"Bolívar"	"San Miguel"	1	2020-04-13
+"Bolívar"	"Caluma"	2	2020-04-14
+"Bolívar"	"Chillanes"	7	2020-04-14
+"Bolívar"	"Chimbo"	3	2020-04-14
+"Bolívar"	"Echeandía"	3	2020-04-14
+"Bolívar"	"Guaranda"	16	2020-04-14
+"Bolívar"	"Las Naves"	1	2020-04-14
+"Bolívar"	"San Miguel"	1	2020-04-14
+"Bolívar"	"Caluma"	2	2020-04-15
+"Bolívar"	"Chillanes"	7	2020-04-15
+"Bolívar"	"Chimbo"	3	2020-04-15
+"Bolívar"	"Echeandía"	3	2020-04-15
+"Bolívar"	"Guaranda"	16	2020-04-15
+"Bolívar"	"Las Naves"	1	2020-04-15
+"Bolívar"	"San Miguel"	1	2020-04-15
+"Bolívar"	"Caluma"	2	2020-04-16
+"Bolívar"	"Chillanes"	7	2020-04-16
+"Bolívar"	"Chimbo"	4	2020-04-16
+"Bolívar"	"Echeandía"	4	2020-04-16
+"Bolívar"	"Guaranda"	19	2020-04-16
+"Bolívar"	"Las Naves"	1	2020-04-16
+"Bolívar"	"San Miguel"	2	2020-04-16
+"Bolívar"	"Caluma"	2	2020-04-17
+"Bolívar"	"Chillanes"	7	2020-04-17
+"Bolívar"	"Chimbo"	4	2020-04-17
+"Bolívar"	"Echeandía"	4	2020-04-17
+"Bolívar"	"Guaranda"	19	2020-04-17
+"Bolívar"	"Las Naves"	1	2020-04-17
+"Bolívar"	"San Miguel"	2	2020-04-17
+"Bolívar"	"Caluma"	2	2020-04-18
+"Bolívar"	"Chillanes"	7	2020-04-18
+"Bolívar"	"Chimbo"	4	2020-04-18
+"Bolívar"	"Echeandía"	6	2020-04-18
+"Bolívar"	"Guaranda"	22	2020-04-18
+"Bolívar"	"Las Naves"	1	2020-04-18
+"Bolívar"	"San Miguel"	3	2020-04-18
+"Bolívar"	"Caluma"	2	2020-04-19
+"Bolívar"	"Chillanes"	7	2020-04-19
+"Bolívar"	"Chimbo"	4	2020-04-19
+"Bolívar"	"Echeandía"	8	2020-04-19
+"Bolívar"	"Guaranda"	24	2020-04-19
+"Bolívar"	"Las Naves"	1	2020-04-19
+"Bolívar"	"San Miguel"	3	2020-04-19
+"Bolívar"	"Caluma"	2	2020-04-20
+"Bolívar"	"Chillanes"	7	2020-04-20
+"Bolívar"	"Chimbo"	4	2020-04-20
+"Bolívar"	"Echeandía"	8	2020-04-20
+"Bolívar"	"Guaranda"	25	2020-04-20
+"Bolívar"	"Las Naves"	2	2020-04-20
+"Bolívar"	"San Miguel"	6	2020-04-20
+"Bolívar"	"Caluma"	2	2020-04-21
+"Bolívar"	"Chillanes"	7	2020-04-21
+"Bolívar"	"Chimbo"	4	2020-04-21
+"Bolívar"	"Echeandía"	9	2020-04-21
+"Bolívar"	"Guaranda"	25	2020-04-21
+"Bolívar"	"Las Naves"	2	2020-04-21
+"Bolívar"	"San Miguel"	6	2020-04-21
+"Bolívar"	"Caluma"	2	2020-04-22
+"Bolívar"	"Chillanes"	7	2020-04-22
+"Bolívar"	"Chimbo"	4	2020-04-22
+"Bolívar"	"Echeandía"	9	2020-04-22
+"Bolívar"	"Guaranda"	28	2020-04-22
+"Bolívar"	"Las Naves"	2	2020-04-22
+"Bolívar"	"San Miguel"	7	2020-04-22
+"Bolívar"	"Caluma"	7	2020-04-23
+"Bolívar"	"Chillanes"	8	2020-04-23
+"Bolívar"	"Chimbo"	4	2020-04-23
+"Bolívar"	"Echeandía"	9	2020-04-23
+"Bolívar"	"Guaranda"	29	2020-04-23
+"Bolívar"	"Las Naves"	2	2020-04-23
+"Bolívar"	"San Miguel"	7	2020-04-23
+"Bolívar"	"Caluma"	7	2020-04-24
+"Bolívar"	"Chillanes"	8	2020-04-24
+"Bolívar"	"Chimbo"	4	2020-04-24
+"Bolívar"	"Echeandía"	9	2020-04-24
+"Bolívar"	"Guaranda"	29	2020-04-24
+"Bolívar"	"Las Naves"	2	2020-04-24
+"Bolívar"	"San Miguel"	7	2020-04-24
+"Bolívar"	"Caluma"	7	2020-04-25
+"Bolívar"	"Chillanes"	8	2020-04-25
+"Bolívar"	"Chimbo"	4	2020-04-25
+"Bolívar"	"Echeandía"	9	2020-04-25
+"Bolívar"	"Guaranda"	29	2020-04-25
+"Bolívar"	"Las Naves"	2	2020-04-25
+"Bolívar"	"San Miguel"	7	2020-04-25
+"Bolívar"	"Caluma"	7	2020-04-26
+"Bolívar"	"Chillanes"	8	2020-04-26
+"Bolívar"	"Chimbo"	4	2020-04-26
+"Bolívar"	"Echeandía"	9	2020-04-26
+"Bolívar"	"Guaranda"	29	2020-04-26
+"Bolívar"	"Las Naves"	2	2020-04-26
+"Bolívar"	"San Miguel"	7	2020-04-26
+"Bolívar"	"Caluma"	7	2020-04-27
+"Bolívar"	"Chillanes"	8	2020-04-27
+"Bolívar"	"Chimbo"	4	2020-04-27
+"Bolívar"	"Echeandía"	9	2020-04-27
+"Bolívar"	"Guaranda"	29	2020-04-27
+"Bolívar"	"Las Naves"	2	2020-04-27
+"Bolívar"	"San Miguel"	7	2020-04-27
+"Bolívar"	"Caluma"	14	2020-04-28
+"Bolívar"	"Chillanes"	20	2020-04-28
+"Bolívar"	"Chimbo"	7	2020-04-28
+"Bolívar"	"Echeandía"	18	2020-04-28
+"Bolívar"	"Guaranda"	49	2020-04-28
+"Bolívar"	"Las Naves"	6	2020-04-28
+"Bolívar"	"San Miguel"	11	2020-04-28
+"Bolívar"	"Caluma"	11	2020-04-29
+"Bolívar"	"Chillanes"	20	2020-04-29
+"Bolívar"	"Chimbo"	10	2020-04-29
+"Bolívar"	"Echeandía"	16	2020-04-29
+"Bolívar"	"Guaranda"	58	2020-04-29
+"Bolívar"	"Las Naves"	4	2020-04-29
+"Bolívar"	"San Miguel"	10	2020-04-29
+"Bolívar"	"Caluma"	11	2020-04-30
+"Bolívar"	"Chillanes"	20	2020-04-30
+"Bolívar"	"Chimbo"	10	2020-04-30
+"Bolívar"	"Echeandía"	16	2020-04-30
+"Bolívar"	"Guaranda"	62	2020-04-30
+"Bolívar"	"Las Naves"	4	2020-04-30
+"Bolívar"	"San Miguel"	10	2020-04-30
+"Bolívar"	"Caluma"	13	2020-05-01
+"Bolívar"	"Chillanes"	20	2020-05-01
+"Bolívar"	"Chimbo"	10	2020-05-01
+"Bolívar"	"Echeandía"	19	2020-05-01
+"Bolívar"	"Guaranda"	74	2020-05-01
+"Bolívar"	"Las Naves"	4	2020-05-01
+"Bolívar"	"San Miguel"	11	2020-05-01
+"Bolívar"	"Caluma"	16	2020-05-02
+"Bolívar"	"Chillanes"	20	2020-05-02
+"Bolívar"	"Chimbo"	10	2020-05-02
+"Bolívar"	"Echeandía"	23	2020-05-02
+"Bolívar"	"Guaranda"	78	2020-05-02
+"Bolívar"	"Las Naves"	4	2020-05-02
+"Bolívar"	"San Miguel"	11	2020-05-02
+"Bolívar"	"Caluma"	17	2020-05-03
+"Bolívar"	"Chillanes"	20	2020-05-03
+"Bolívar"	"Chimbo"	11	2020-05-03
+"Bolívar"	"Echeandía"	35	2020-05-03
+"Bolívar"	"Guaranda"	92	2020-05-03
+"Bolívar"	"Las Naves"	5	2020-05-03
+"Bolívar"	"San Miguel"	11	2020-05-03
+"Bolívar"	"Caluma"	20	2020-05-04
+"Bolívar"	"Chillanes"	15	2020-05-04
+"Bolívar"	"Chimbo"	9	2020-05-04
+"Bolívar"	"Echeandía"	35	2020-05-04
+"Bolívar"	"Guaranda"	77	2020-05-04
+"Bolívar"	"Las Naves"	7	2020-05-04
+"Bolívar"	"San Miguel"	13	2020-05-04
+"Bolívar"	"Caluma"	20	2020-05-05
+"Bolívar"	"Chillanes"	15	2020-05-05
+"Bolívar"	"Chimbo"	9	2020-05-05
+"Bolívar"	"Echeandía"	35	2020-05-05
+"Bolívar"	"Guaranda"	77	2020-05-05
+"Bolívar"	"Las Naves"	7	2020-05-05
+"Bolívar"	"San Miguel"	13	2020-05-05
+"Bolívar"	"Caluma"	26	2020-05-06
+"Bolívar"	"Chillanes"	13	2020-05-06
+"Bolívar"	"Chimbo"	10	2020-05-06
+"Bolívar"	"Echeandía"	26	2020-05-06
+"Bolívar"	"Guaranda"	73	2020-05-06
+"Bolívar"	"Las Naves"	4	2020-05-06
+"Bolívar"	"San Miguel"	11	2020-05-06
+"Bolívar"	"Caluma"	30	2020-05-07
+"Bolívar"	"Chillanes"	23	2020-05-07
+"Bolívar"	"Chimbo"	12	2020-05-07
+"Bolívar"	"Echeandía"	28	2020-05-07
+"Bolívar"	"Guaranda"	88	2020-05-07
+"Bolívar"	"Las Naves"	5	2020-05-07
+"Bolívar"	"San Miguel"	11	2020-05-07
+"Bolívar"	"Caluma"	34	2020-05-08
+"Bolívar"	"Chillanes"	10	2020-05-08
+"Bolívar"	"Chimbo"	8	2020-05-08
+"Bolívar"	"Echeandía"	35	2020-05-08
+"Bolívar"	"Guaranda"	57	2020-05-08
+"Bolívar"	"Las Naves"	7	2020-05-08
+"Bolívar"	"San Miguel"	8	2020-05-08
+"Bolívar"	"Caluma"	34	2020-05-09
+"Bolívar"	"Chillanes"	11	2020-05-09
+"Bolívar"	"Chimbo"	8	2020-05-09
+"Bolívar"	"Echeandía"	35	2020-05-09
+"Bolívar"	"Guaranda"	60	2020-05-09
+"Bolívar"	"Las Naves"	6	2020-05-09
+"Bolívar"	"San Miguel"	9	2020-05-09
+"Bolívar"	"Caluma"	34	2020-05-10
+"Bolívar"	"Chillanes"	11	2020-05-10
+"Bolívar"	"Chimbo"	8	2020-05-10
+"Bolívar"	"Echeandía"	37	2020-05-10
+"Bolívar"	"Guaranda"	61	2020-05-10
+"Bolívar"	"Las Naves"	7	2020-05-10
+"Bolívar"	"San Miguel"	9	2020-05-10
+"Bolívar"	"Caluma"	34	2020-05-11
+"Bolívar"	"Chillanes"	11	2020-05-11
+"Bolívar"	"Chimbo"	8	2020-05-11
+"Bolívar"	"Echeandía"	37	2020-05-11
+"Bolívar"	"Guaranda"	60	2020-05-11
+"Bolívar"	"Las Naves"	7	2020-05-11
+"Bolívar"	"San Miguel"	9	2020-05-11
+"Bolívar"	"Caluma"	35	2020-05-12
+"Bolívar"	"Chillanes"	11	2020-05-12
+"Bolívar"	"Chimbo"	8	2020-05-12
+"Bolívar"	"Echeandía"	41	2020-05-12
+"Bolívar"	"Guaranda"	64	2020-05-12
+"Bolívar"	"Las Naves"	10	2020-05-12
+"Bolívar"	"San Miguel"	10	2020-05-12
+"Bolívar"	"Caluma"	36	2020-05-13
+"Bolívar"	"Chillanes"	11	2020-05-13
+"Bolívar"	"Chimbo"	8	2020-05-13
+"Bolívar"	"Echeandía"	41	2020-05-13
+"Bolívar"	"Guaranda"	64	2020-05-13
+"Bolívar"	"Las Naves"	10	2020-05-13
+"Bolívar"	"San Miguel"	10	2020-05-13
+"Bolívar"	"Caluma"	36	2020-05-14
+"Bolívar"	"Chillanes"	11	2020-05-14
+"Bolívar"	"Chimbo"	8	2020-05-14
+"Bolívar"	"Echeandía"	41	2020-05-14
+"Bolívar"	"Guaranda"	64	2020-05-14
+"Bolívar"	"Las Naves"	10	2020-05-14
+"Bolívar"	"San Miguel"	10	2020-05-14
+"Bolívar"	"Caluma"	44	2020-05-15
+"Bolívar"	"Chillanes"	12	2020-05-15
+"Bolívar"	"Chimbo"	10	2020-05-15
+"Bolívar"	"Echeandía"	41	2020-05-15
+"Bolívar"	"Guaranda"	77	2020-05-15
+"Bolívar"	"Las Naves"	11	2020-05-15
+"Bolívar"	"San Miguel"	11	2020-05-15
+"Bolívar"	"Caluma"	44	2020-05-16
+"Bolívar"	"Chillanes"	12	2020-05-16
+"Bolívar"	"Chimbo"	11	2020-05-16
+"Bolívar"	"Echeandía"	42	2020-05-16
+"Bolívar"	"Guaranda"	85	2020-05-16
+"Bolívar"	"Las Naves"	12	2020-05-16
+"Bolívar"	"San Miguel"	12	2020-05-16
+"Bolívar"	"Caluma"	44	2020-05-17
+"Bolívar"	"Chillanes"	14	2020-05-17
+"Bolívar"	"Chimbo"	11	2020-05-17
+"Bolívar"	"Echeandía"	49	2020-05-17
+"Bolívar"	"Guaranda"	85	2020-05-17
+"Bolívar"	"Las Naves"	13	2020-05-17
+"Bolívar"	"San Miguel"	14	2020-05-17
+"Bolívar"	"Caluma"	46	2020-05-18
+"Bolívar"	"Chillanes"	14	2020-05-18
+"Bolívar"	"Chimbo"	11	2020-05-18
+"Bolívar"	"Echeandía"	49	2020-05-18
+"Bolívar"	"Guaranda"	93	2020-05-18
+"Bolívar"	"Las Naves"	13	2020-05-18
+"Bolívar"	"San Miguel"	14	2020-05-18
+"Bolívar"	"Caluma"	49	2020-05-19
+"Bolívar"	"Chillanes"	14	2020-05-19
+"Bolívar"	"Chimbo"	12	2020-05-19
+"Bolívar"	"Echeandía"	50	2020-05-19
+"Bolívar"	"Guaranda"	105	2020-05-19
+"Bolívar"	"Las Naves"	13	2020-05-19
+"Bolívar"	"San Miguel"	14	2020-05-19
+"Bolívar"	"Caluma"	51	2020-05-20
+"Bolívar"	"Chillanes"	14	2020-05-20
+"Bolívar"	"Chimbo"	12	2020-05-20
+"Bolívar"	"Echeandía"	54	2020-05-20
+"Bolívar"	"Guaranda"	111	2020-05-20
+"Bolívar"	"Las Naves"	15	2020-05-20
+"Bolívar"	"San Miguel"	14	2020-05-20
+"Bolívar"	"Caluma"	51	2020-05-21
+"Bolívar"	"Chillanes"	17	2020-05-21
+"Bolívar"	"Chimbo"	12	2020-05-21
+"Bolívar"	"Echeandía"	57	2020-05-21
+"Bolívar"	"Guaranda"	119	2020-05-21
+"Bolívar"	"Las Naves"	15	2020-05-21
+"Bolívar"	"San Miguel"	17	2020-05-21
+"Bolívar"	"Caluma"	51	2020-05-22
+"Bolívar"	"Chillanes"	17	2020-05-22
+"Bolívar"	"Chimbo"	13	2020-05-22
+"Bolívar"	"Echeandía"	57	2020-05-22
+"Bolívar"	"Guaranda"	119	2020-05-22
+"Bolívar"	"Las Naves"	15	2020-05-22
+"Bolívar"	"San Miguel"	17	2020-05-22
+"Bolívar"	"Caluma"	53	2020-05-23
+"Bolívar"	"Chillanes"	17	2020-05-23
+"Bolívar"	"Chimbo"	13	2020-05-23
+"Bolívar"	"Echeandía"	57	2020-05-23
+"Bolívar"	"Guaranda"	121	2020-05-23
+"Bolívar"	"Las Naves"	17	2020-05-23
+"Bolívar"	"San Miguel"	17	2020-05-23
+"Bolívar"	"Caluma"	53	2020-05-24
+"Bolívar"	"Chillanes"	17	2020-05-24
+"Bolívar"	"Chimbo"	14	2020-05-24
+"Bolívar"	"Echeandía"	59	2020-05-24
+"Bolívar"	"Guaranda"	121	2020-05-24
+"Bolívar"	"Las Naves"	17	2020-05-24
+"Bolívar"	"San Miguel"	17	2020-05-24
+"Bolívar"	"Caluma"	53	2020-05-25
+"Bolívar"	"Chillanes"	17	2020-05-25
+"Bolívar"	"Chimbo"	14	2020-05-25
+"Bolívar"	"Echeandía"	59	2020-05-25
+"Bolívar"	"Guaranda"	122	2020-05-25
+"Bolívar"	"Las Naves"	17	2020-05-25
+"Bolívar"	"San Miguel"	17	2020-05-25
+"Bolívar"	"Caluma"	53	2020-05-26
+"Bolívar"	"Chillanes"	17	2020-05-26
+"Bolívar"	"Chimbo"	14	2020-05-26
+"Bolívar"	"Echeandía"	60	2020-05-26
+"Bolívar"	"Guaranda"	127	2020-05-26
+"Bolívar"	"Las Naves"	17	2020-05-26
+"Bolívar"	"San Miguel"	17	2020-05-26
+"Bolívar"	"Caluma"	53	2020-05-27
+"Bolívar"	"Chillanes"	17	2020-05-27
+"Bolívar"	"Chimbo"	14	2020-05-27
+"Bolívar"	"Echeandía"	60	2020-05-27
+"Bolívar"	"Guaranda"	127	2020-05-27
+"Bolívar"	"Las Naves"	17	2020-05-27
+"Bolívar"	"San Miguel"	17	2020-05-27
+"Bolívar"	"Caluma"	53	2020-05-28
+"Bolívar"	"Chillanes"	20	2020-05-28
+"Bolívar"	"Chimbo"	14	2020-05-28
+"Bolívar"	"Echeandía"	60	2020-05-28
+"Bolívar"	"Guaranda"	128	2020-05-28
+"Bolívar"	"Las Naves"	17	2020-05-28
+"Bolívar"	"San Miguel"	17	2020-05-28
+"Bolívar"	"Caluma"	53	2020-05-29
+"Bolívar"	"Chillanes"	20	2020-05-29
+"Bolívar"	"Chimbo"	14	2020-05-29
+"Bolívar"	"Echeandía"	60	2020-05-29
+"Bolívar"	"Guaranda"	128	2020-05-29
+"Bolívar"	"Las Naves"	17	2020-05-29
+"Bolívar"	"San Miguel"	17	2020-05-29
+"Bolívar"	"Caluma"	53	2020-05-30
+"Bolívar"	"Chillanes"	20	2020-05-30
+"Bolívar"	"Chimbo"	14	2020-05-30
+"Bolívar"	"Echeandía"	60	2020-05-30
+"Bolívar"	"Guaranda"	128	2020-05-30
+"Bolívar"	"Las Naves"	18	2020-05-30
+"Bolívar"	"San Miguel"	18	2020-05-30
+"Bolívar"	"Caluma"	54	2020-05-31
+"Bolívar"	"Chillanes"	20	2020-05-31
+"Bolívar"	"Chimbo"	14	2020-05-31
+"Bolívar"	"Echeandía"	60	2020-05-31
+"Bolívar"	"Guaranda"	128	2020-05-31
+"Bolívar"	"Las Naves"	18	2020-05-31
+"Bolívar"	"San Miguel"	18	2020-05-31
+"Bolívar"	"Caluma"	54	2020-06-01
+"Bolívar"	"Chillanes"	21	2020-06-01
+"Bolívar"	"Chimbo"	14	2020-06-01
+"Bolívar"	"Echeandía"	61	2020-06-01
+"Bolívar"	"Guaranda"	128	2020-06-01
+"Bolívar"	"Las Naves"	18	2020-06-01
+"Bolívar"	"San Miguel"	20	2020-06-01
+"Bolívar"	"Caluma"	54	2020-06-02
+"Bolívar"	"Chillanes"	21	2020-06-02
+"Bolívar"	"Chimbo"	14	2020-06-02
+"Bolívar"	"Echeandía"	61	2020-06-02
+"Bolívar"	"Guaranda"	129	2020-06-02
+"Bolívar"	"Las Naves"	18	2020-06-02
+"Bolívar"	"San Miguel"	24	2020-06-02
+"Bolívar"	"Caluma"	54	2020-06-03
+"Bolívar"	"Chillanes"	21	2020-06-03
+"Bolívar"	"Chimbo"	16	2020-06-03
+"Bolívar"	"Echeandía"	61	2020-06-03
+"Bolívar"	"Guaranda"	134	2020-06-03
+"Bolívar"	"Las Naves"	18	2020-06-03
+"Bolívar"	"San Miguel"	24	2020-06-03
+"Bolívar"	"Caluma"	54	2020-06-04
+"Bolívar"	"Chillanes"	23	2020-06-04
+"Bolívar"	"Chimbo"	17	2020-06-04
+"Bolívar"	"Echeandía"	61	2020-06-04
+"Bolívar"	"Guaranda"	140	2020-06-04
+"Bolívar"	"Las Naves"	18	2020-06-04
+"Bolívar"	"San Miguel"	24	2020-06-04
+"Bolívar"	"Caluma"	54	2020-06-05
+"Bolívar"	"Chillanes"	25	2020-06-05
+"Bolívar"	"Chimbo"	17	2020-06-05
+"Bolívar"	"Echeandía"	62	2020-06-05
+"Bolívar"	"Guaranda"	143	2020-06-05
+"Bolívar"	"Las Naves"	19	2020-06-05
+"Bolívar"	"San Miguel"	24	2020-06-05
+"Bolívar"	"Caluma"	55	2020-06-06
+"Bolívar"	"Chillanes"	25	2020-06-06
+"Bolívar"	"Chimbo"	17	2020-06-06
+"Bolívar"	"Echeandía"	62	2020-06-06
+"Bolívar"	"Guaranda"	154	2020-06-06
+"Bolívar"	"Las Naves"	19	2020-06-06
+"Bolívar"	"San Miguel"	26	2020-06-06
+"Bolívar"	"Caluma"	64	2020-06-07
+"Bolívar"	"Chillanes"	25	2020-06-07
+"Bolívar"	"Chimbo"	17	2020-06-07
+"Bolívar"	"Echeandía"	62	2020-06-07
+"Bolívar"	"Guaranda"	154	2020-06-07
+"Bolívar"	"Las Naves"	19	2020-06-07
+"Bolívar"	"San Miguel"	26	2020-06-07
+"Bolívar"	"Caluma"	65	2020-06-08
+"Bolívar"	"Chillanes"	25	2020-06-08
+"Bolívar"	"Chimbo"	17	2020-06-08
+"Bolívar"	"Echeandía"	62	2020-06-08
+"Bolívar"	"Guaranda"	154	2020-06-08
+"Bolívar"	"Las Naves"	19	2020-06-08
+"Bolívar"	"San Miguel"	26	2020-06-08
+"Bolívar"	"Caluma"	65	2020-06-09
+"Bolívar"	"Chillanes"	25	2020-06-09
+"Bolívar"	"Chimbo"	17	2020-06-09
+"Bolívar"	"Echeandía"	62	2020-06-09
+"Bolívar"	"Guaranda"	154	2020-06-09
+"Bolívar"	"Las Naves"	19	2020-06-09
+"Bolívar"	"San Miguel"	29	2020-06-09
+"Bolívar"	"Caluma"	66	2020-06-10
+"Bolívar"	"Chillanes"	25	2020-06-10
+"Bolívar"	"Chimbo"	20	2020-06-10
+"Bolívar"	"Echeandía"	70	2020-06-10
+"Bolívar"	"Guaranda"	168	2020-06-10
+"Bolívar"	"Las Naves"	20	2020-06-10
+"Bolívar"	"San Miguel"	32	2020-06-10
+"Bolívar"	"Caluma"	72	2020-06-11
+"Bolívar"	"Chillanes"	25	2020-06-11
+"Bolívar"	"Chimbo"	21	2020-06-11
+"Bolívar"	"Echeandía"	71	2020-06-11
+"Bolívar"	"Guaranda"	177	2020-06-11
+"Bolívar"	"Las Naves"	21	2020-06-11
+"Bolívar"	"San Miguel"	34	2020-06-11
+"Bolívar"	"Caluma"	74	2020-06-12
+"Bolívar"	"Chillanes"	25	2020-06-12
+"Bolívar"	"Chimbo"	21	2020-06-12
+"Bolívar"	"Echeandía"	73	2020-06-12
+"Bolívar"	"Guaranda"	189	2020-06-12
+"Bolívar"	"Las Naves"	22	2020-06-12
+"Bolívar"	"San Miguel"	34	2020-06-12
+"Bolívar"	"Caluma"	82	2020-06-13
+"Bolívar"	"Chillanes"	25	2020-06-13
+"Bolívar"	"Chimbo"	21	2020-06-13
+"Bolívar"	"Echeandía"	73	2020-06-13
+"Bolívar"	"Guaranda"	191	2020-06-13
+"Bolívar"	"Las Naves"	22	2020-06-13
+"Bolívar"	"San Miguel"	35	2020-06-13
+"Bolívar"	"Caluma"	82	2020-06-14
+"Bolívar"	"Chillanes"	25	2020-06-14
+"Bolívar"	"Chimbo"	22	2020-06-14
+"Bolívar"	"Echeandía"	73	2020-06-14
+"Bolívar"	"Guaranda"	191	2020-06-14
+"Bolívar"	"Las Naves"	23	2020-06-14
+"Bolívar"	"San Miguel"	36	2020-06-14
+"Bolívar"	"Caluma"	82	2020-06-15
+"Bolívar"	"Chillanes"	25	2020-06-15
+"Bolívar"	"Chimbo"	22	2020-06-15
+"Bolívar"	"Echeandía"	73	2020-06-15
+"Bolívar"	"Guaranda"	201	2020-06-15
+"Bolívar"	"Las Naves"	23	2020-06-15
+"Bolívar"	"San Miguel"	37	2020-06-15
+"Bolívar"	"Caluma"	82	2020-06-16
+"Bolívar"	"Chillanes"	25	2020-06-16
+"Bolívar"	"Chimbo"	22	2020-06-16
+"Bolívar"	"Echeandía"	73	2020-06-16
+"Bolívar"	"Guaranda"	212	2020-06-16
+"Bolívar"	"Las Naves"	23	2020-06-16
+"Bolívar"	"San Miguel"	37	2020-06-16
+"Bolívar"	"Caluma"	82	2020-06-17
+"Bolívar"	"Chillanes"	25	2020-06-17
+"Bolívar"	"Chimbo"	24	2020-06-17
+"Bolívar"	"Echeandía"	74	2020-06-17
+"Bolívar"	"Guaranda"	212	2020-06-17
+"Bolívar"	"Las Naves"	23	2020-06-17
+"Bolívar"	"San Miguel"	38	2020-06-17
+"Bolívar"	"Caluma"	84	2020-06-18
+"Bolívar"	"Chillanes"	25	2020-06-18
+"Bolívar"	"Chimbo"	24	2020-06-18
+"Bolívar"	"Echeandía"	83	2020-06-18
+"Bolívar"	"Guaranda"	213	2020-06-18
+"Bolívar"	"Las Naves"	23	2020-06-18
+"Bolívar"	"San Miguel"	38	2020-06-18
+"Bolívar"	"Caluma"	93	2020-06-19
+"Bolívar"	"Chillanes"	25	2020-06-19
+"Bolívar"	"Chimbo"	25	2020-06-19
+"Bolívar"	"Echeandía"	84	2020-06-19
+"Bolívar"	"Guaranda"	220	2020-06-19
+"Bolívar"	"Las Naves"	23	2020-06-19
+"Bolívar"	"San Miguel"	39	2020-06-19
+"Bolívar"	"Caluma"	93	2020-06-20
+"Bolívar"	"Chillanes"	25	2020-06-20
+"Bolívar"	"Chimbo"	25	2020-06-20
+"Bolívar"	"Echeandía"	84	2020-06-20
+"Bolívar"	"Guaranda"	222	2020-06-20
+"Bolívar"	"Las Naves"	23	2020-06-20
+"Bolívar"	"San Miguel"	40	2020-06-20
+"Bolívar"	"Caluma"	93	2020-06-21
+"Bolívar"	"Chillanes"	25	2020-06-21
+"Bolívar"	"Chimbo"	25	2020-06-21
+"Bolívar"	"Echeandía"	84	2020-06-21
+"Bolívar"	"Guaranda"	225	2020-06-21
+"Bolívar"	"Las Naves"	23	2020-06-21
+"Bolívar"	"San Miguel"	40	2020-06-21
+"Bolívar"	"Caluma"	93	2020-06-22
+"Bolívar"	"Chillanes"	25	2020-06-22
+"Bolívar"	"Chimbo"	25	2020-06-22
+"Bolívar"	"Echeandía"	85	2020-06-22
+"Bolívar"	"Guaranda"	225	2020-06-22
+"Bolívar"	"Las Naves"	23	2020-06-22
+"Bolívar"	"San Miguel"	40	2020-06-22
+"Bolívar"	"Caluma"	94	2020-06-23
+"Bolívar"	"Chillanes"	25	2020-06-23
+"Bolívar"	"Chimbo"	25	2020-06-23
+"Bolívar"	"Echeandía"	85	2020-06-23
+"Bolívar"	"Guaranda"	225	2020-06-23
+"Bolívar"	"Las Naves"	26	2020-06-23
+"Bolívar"	"San Miguel"	40	2020-06-23
+"Bolívar"	"Caluma"	94	2020-06-24
+"Bolívar"	"Chillanes"	25	2020-06-24
+"Bolívar"	"Chimbo"	28	2020-06-24
+"Bolívar"	"Echeandía"	85	2020-06-24
+"Bolívar"	"Guaranda"	239	2020-06-24
+"Bolívar"	"Las Naves"	26	2020-06-24
+"Bolívar"	"San Miguel"	45	2020-06-24
+"Bolívar"	"Caluma"	95	2020-06-25
+"Bolívar"	"Chillanes"	27	2020-06-25
+"Bolívar"	"Chimbo"	28	2020-06-25
+"Bolívar"	"Echeandía"	93	2020-06-25
+"Bolívar"	"Guaranda"	245	2020-06-25
+"Bolívar"	"Las Naves"	27	2020-06-25
+"Bolívar"	"San Miguel"	45	2020-06-25
+"Bolívar"	"Caluma"	97	2020-06-26
+"Bolívar"	"Chillanes"	27	2020-06-26
+"Bolívar"	"Chimbo"	28	2020-06-26
+"Bolívar"	"Echeandía"	94	2020-06-26
+"Bolívar"	"Guaranda"	274	2020-06-26
+"Bolívar"	"Las Naves"	27	2020-06-26
+"Bolívar"	"San Miguel"	45	2020-06-26
+"Bolívar"	"Caluma"	97	2020-06-27
+"Bolívar"	"Chillanes"	27	2020-06-27
+"Bolívar"	"Chimbo"	28	2020-06-27
+"Bolívar"	"Echeandía"	95	2020-06-27
+"Bolívar"	"Guaranda"	275	2020-06-27
+"Bolívar"	"Las Naves"	33	2020-06-27
+"Bolívar"	"San Miguel"	46	2020-06-27
+"Bolívar"	"Caluma"	97	2020-06-28
+"Bolívar"	"Chillanes"	27	2020-06-28
+"Bolívar"	"Chimbo"	29	2020-06-28
+"Bolívar"	"Echeandía"	95	2020-06-28
+"Bolívar"	"Guaranda"	292	2020-06-28
+"Bolívar"	"Las Naves"	35	2020-06-28
+"Bolívar"	"San Miguel"	51	2020-06-28
+"Bolívar"	"Caluma"	97	2020-06-29
+"Bolívar"	"Chillanes"	27	2020-06-29
+"Bolívar"	"Chimbo"	31	2020-06-29
+"Bolívar"	"Echeandía"	95	2020-06-29
+"Bolívar"	"Guaranda"	299	2020-06-29
+"Bolívar"	"Las Naves"	35	2020-06-29
+"Bolívar"	"San Miguel"	52	2020-06-29
+"Bolívar"	"Caluma"	97	2020-06-30
+"Bolívar"	"Chillanes"	27	2020-06-30
+"Bolívar"	"Chimbo"	32	2020-06-30
+"Bolívar"	"Echeandía"	95	2020-06-30
+"Bolívar"	"Guaranda"	309	2020-06-30
+"Bolívar"	"Las Naves"	35	2020-06-30
+"Bolívar"	"San Miguel"	53	2020-06-30
+"Bolívar"	"Caluma"	97	2020-07-01
+"Bolívar"	"Chillanes"	27	2020-07-01
+"Bolívar"	"Chimbo"	32	2020-07-01
+"Bolívar"	"Echeandía"	95	2020-07-01
+"Bolívar"	"Guaranda"	315	2020-07-01
+"Bolívar"	"Las Naves"	35	2020-07-01
+"Bolívar"	"San Miguel"	53	2020-07-01
+"Bolívar"	"Caluma"	97	2020-07-02
+"Bolívar"	"Chillanes"	27	2020-07-02
+"Bolívar"	"Chimbo"	34	2020-07-02
+"Bolívar"	"Echeandía"	113	2020-07-02
+"Bolívar"	"Guaranda"	330	2020-07-02
+"Bolívar"	"Las Naves"	35	2020-07-02
+"Bolívar"	"San Miguel"	54	2020-07-02
+"Bolívar"	"Caluma"	97	2020-07-03
+"Bolívar"	"Chillanes"	28	2020-07-03
+"Bolívar"	"Chimbo"	34	2020-07-03
+"Bolívar"	"Echeandía"	130	2020-07-03
+"Bolívar"	"Guaranda"	339	2020-07-03
+"Bolívar"	"Las Naves"	36	2020-07-03
+"Bolívar"	"San Miguel"	55	2020-07-03
+"Bolívar"	"Caluma"	112	2020-07-04
+"Bolívar"	"Chillanes"	28	2020-07-04
+"Bolívar"	"Chimbo"	34	2020-07-04
+"Bolívar"	"Echeandía"	134	2020-07-04
+"Bolívar"	"Guaranda"	339	2020-07-04
+"Bolívar"	"Las Naves"	36	2020-07-04
+"Bolívar"	"San Miguel"	57	2020-07-04
+"Bolívar"	"Caluma"	112	2020-07-05
+"Bolívar"	"Chillanes"	28	2020-07-05
+"Bolívar"	"Chimbo"	34	2020-07-05
+"Bolívar"	"Echeandía"	134	2020-07-05
+"Bolívar"	"Guaranda"	352	2020-07-05
+"Bolívar"	"Las Naves"	36	2020-07-05
+"Bolívar"	"San Miguel"	59	2020-07-05
+"Bolívar"	"Caluma"	112	2020-07-06
+"Bolívar"	"Chillanes"	28	2020-07-06
+"Bolívar"	"Chimbo"	34	2020-07-06
+"Bolívar"	"Echeandía"	134	2020-07-06
+"Bolívar"	"Guaranda"	352	2020-07-06
+"Bolívar"	"Las Naves"	39	2020-07-06
+"Bolívar"	"San Miguel"	60	2020-07-06
+"Bolívar"	"Caluma"	112	2020-07-07
+"Bolívar"	"Chillanes"	28	2020-07-07
+"Bolívar"	"Chimbo"	34	2020-07-07
+"Bolívar"	"Echeandía"	134	2020-07-07
+"Bolívar"	"Guaranda"	372	2020-07-07
+"Bolívar"	"Las Naves"	39	2020-07-07
+"Bolívar"	"San Miguel"	62	2020-07-07
+"Bolívar"	"Caluma"	113	2020-07-08
+"Bolívar"	"Chillanes"	29	2020-07-08
+"Bolívar"	"Chimbo"	34	2020-07-08
+"Bolívar"	"Echeandía"	134	2020-07-08
+"Bolívar"	"Guaranda"	376	2020-07-08
+"Bolívar"	"Las Naves"	39	2020-07-08
+"Bolívar"	"San Miguel"	63	2020-07-08
+"Bolívar"	"Caluma"	113	2020-07-09
+"Bolívar"	"Chillanes"	29	2020-07-09
+"Bolívar"	"Chimbo"	35	2020-07-09
+"Bolívar"	"Echeandía"	134	2020-07-09
+"Bolívar"	"Guaranda"	385	2020-07-09
+"Bolívar"	"Las Naves"	39	2020-07-09
+"Bolívar"	"San Miguel"	66	2020-07-09
+"Bolívar"	"Caluma"	113	2020-07-10
+"Bolívar"	"Chillanes"	29	2020-07-10
+"Bolívar"	"Chimbo"	35	2020-07-10
+"Bolívar"	"Echeandía"	134	2020-07-10
+"Bolívar"	"Guaranda"	386	2020-07-10
+"Bolívar"	"Las Naves"	39	2020-07-10
+"Bolívar"	"San Miguel"	66	2020-07-10
+"Bolívar"	"Caluma"	114	2020-07-11
+"Bolívar"	"Chillanes"	30	2020-07-11
+"Bolívar"	"Chimbo"	38	2020-07-11
+"Bolívar"	"Echeandía"	134	2020-07-11
+"Bolívar"	"Guaranda"	405	2020-07-11
+"Bolívar"	"Las Naves"	39	2020-07-11
+"Bolívar"	"San Miguel"	68	2020-07-11
+"Bolívar"	"Caluma"	114	2020-07-12
+"Bolívar"	"Chillanes"	30	2020-07-12
+"Bolívar"	"Chimbo"	40	2020-07-12
+"Bolívar"	"Echeandía"	134	2020-07-12
+"Bolívar"	"Guaranda"	407	2020-07-12
+"Bolívar"	"Las Naves"	39	2020-07-12
+"Bolívar"	"San Miguel"	68	2020-07-12
+"Bolívar"	"Caluma"	115	2020-07-13
+"Bolívar"	"Chillanes"	30	2020-07-13
+"Bolívar"	"Chimbo"	41	2020-07-13
+"Bolívar"	"Echeandía"	134	2020-07-13
+"Bolívar"	"Guaranda"	435	2020-07-13
+"Bolívar"	"Las Naves"	51	2020-07-13
+"Bolívar"	"San Miguel"	72	2020-07-13
+"Bolívar"	"Caluma"	119	2020-07-14
+"Bolívar"	"Chillanes"	30	2020-07-14
+"Bolívar"	"Chimbo"	41	2020-07-14
+"Bolívar"	"Echeandía"	135	2020-07-14
+"Bolívar"	"Guaranda"	445	2020-07-14
+"Bolívar"	"Las Naves"	51	2020-07-14
+"Bolívar"	"San Miguel"	75	2020-07-14
+"Bolívar"	"Caluma"	128	2020-07-15
+"Bolívar"	"Chillanes"	30	2020-07-15
+"Bolívar"	"Chimbo"	41	2020-07-15
+"Bolívar"	"Echeandía"	139	2020-07-15
+"Bolívar"	"Guaranda"	448	2020-07-15
+"Bolívar"	"Las Naves"	51	2020-07-15
+"Bolívar"	"San Miguel"	75	2020-07-15
+"Bolívar"	"Caluma"	128	2020-07-16
+"Bolívar"	"Chillanes"	30	2020-07-16
+"Bolívar"	"Chimbo"	41	2020-07-16
+"Bolívar"	"Echeandía"	145	2020-07-16
+"Bolívar"	"Guaranda"	460	2020-07-16
+"Bolívar"	"Las Naves"	51	2020-07-16
+"Bolívar"	"San Miguel"	76	2020-07-16
+"Bolívar"	"Caluma"	128	2020-07-17
+"Bolívar"	"Chillanes"	32	2020-07-17
+"Bolívar"	"Chimbo"	41	2020-07-17
+"Bolívar"	"Echeandía"	145	2020-07-17
+"Bolívar"	"Guaranda"	462	2020-07-17
+"Bolívar"	"Las Naves"	51	2020-07-17
+"Bolívar"	"San Miguel"	76	2020-07-17
+"Bolívar"	"Caluma"	129	2020-07-18
+"Bolívar"	"Chillanes"	32	2020-07-18
+"Bolívar"	"Chimbo"	41	2020-07-18
+"Bolívar"	"Echeandía"	148	2020-07-18
+"Bolívar"	"Guaranda"	507	2020-07-18
+"Bolívar"	"Las Naves"	51	2020-07-18
+"Bolívar"	"San Miguel"	76	2020-07-18
+"Bolívar"	"Caluma"	129	2020-07-19
+"Bolívar"	"Chillanes"	32	2020-07-19
+"Bolívar"	"Chimbo"	41	2020-07-19
+"Bolívar"	"Echeandía"	148	2020-07-19
+"Bolívar"	"Guaranda"	511	2020-07-19
+"Bolívar"	"Las Naves"	51	2020-07-19
+"Bolívar"	"San Miguel"	76	2020-07-19
+"Bolívar"	"Caluma"	129	2020-07-20
+"Bolívar"	"Chillanes"	32	2020-07-20
+"Bolívar"	"Chimbo"	41	2020-07-20
+"Bolívar"	"Echeandía"	148	2020-07-20
+"Bolívar"	"Guaranda"	520	2020-07-20
+"Bolívar"	"Las Naves"	60	2020-07-20
+"Bolívar"	"San Miguel"	76	2020-07-20
+"Bolívar"	"Caluma"	136	2020-07-21
+"Bolívar"	"Chillanes"	33	2020-07-21
+"Bolívar"	"Chimbo"	42	2020-07-21
+"Bolívar"	"Echeandía"	148	2020-07-21
+"Bolívar"	"Guaranda"	529	2020-07-21
+"Bolívar"	"Las Naves"	62	2020-07-21
+"Bolívar"	"San Miguel"	77	2020-07-21
+"Bolívar"	"Caluma"	136	2020-07-22
+"Bolívar"	"Chillanes"	33	2020-07-22
+"Bolívar"	"Chimbo"	42	2020-07-22
+"Bolívar"	"Echeandía"	148	2020-07-22
+"Bolívar"	"Guaranda"	529	2020-07-22
+"Bolívar"	"Las Naves"	62	2020-07-22
+"Bolívar"	"San Miguel"	77	2020-07-22
+"Bolívar"	"Caluma"	136	2020-07-23
+"Bolívar"	"Chillanes"	33	2020-07-23
+"Bolívar"	"Chimbo"	43	2020-07-23
+"Bolívar"	"Echeandía"	148	2020-07-23
+"Bolívar"	"Guaranda"	537	2020-07-23
+"Bolívar"	"Las Naves"	62	2020-07-23
+"Bolívar"	"San Miguel"	79	2020-07-23
+"Bolívar"	"Caluma"	136	2020-07-24
+"Bolívar"	"Chillanes"	33	2020-07-24
+"Bolívar"	"Chimbo"	43	2020-07-24
+"Bolívar"	"Echeandía"	148	2020-07-24
+"Bolívar"	"Guaranda"	537	2020-07-24
+"Bolívar"	"Las Naves"	62	2020-07-24
+"Bolívar"	"San Miguel"	79	2020-07-24
+"Bolívar"	"Caluma"	136	2020-07-25
+"Bolívar"	"Chillanes"	35	2020-07-25
+"Bolívar"	"Chimbo"	43	2020-07-25
+"Bolívar"	"Echeandía"	148	2020-07-25
+"Bolívar"	"Guaranda"	542	2020-07-25
+"Bolívar"	"Las Naves"	62	2020-07-25
+"Bolívar"	"San Miguel"	80	2020-07-25
+"Bolívar"	"Caluma"	140	2020-07-26
+"Bolívar"	"Chillanes"	35	2020-07-26
+"Bolívar"	"Chimbo"	43	2020-07-26
+"Bolívar"	"Echeandía"	150	2020-07-26
+"Bolívar"	"Guaranda"	542	2020-07-26
+"Bolívar"	"Las Naves"	62	2020-07-26
+"Bolívar"	"San Miguel"	81	2020-07-26
+"Bolívar"	"Caluma"	140	2020-07-27
+"Bolívar"	"Chillanes"	35	2020-07-27
+"Bolívar"	"Chimbo"	43	2020-07-27
+"Bolívar"	"Echeandía"	150	2020-07-27
+"Bolívar"	"Guaranda"	546	2020-07-27
+"Bolívar"	"Las Naves"	70	2020-07-27
+"Bolívar"	"San Miguel"	81	2020-07-27
+"Bolívar"	"Caluma"	140	2020-07-28
+"Bolívar"	"Chillanes"	35	2020-07-28
+"Bolívar"	"Chimbo"	44	2020-07-28
+"Bolívar"	"Echeandía"	167	2020-07-28
+"Bolívar"	"Guaranda"	560	2020-07-28
+"Bolívar"	"Las Naves"	70	2020-07-28
+"Bolívar"	"San Miguel"	83	2020-07-28
+"Bolívar"	"Caluma"	140	2020-07-29
+"Bolívar"	"Chillanes"	35	2020-07-29
+"Bolívar"	"Chimbo"	44	2020-07-29
+"Bolívar"	"Echeandía"	167	2020-07-29
+"Bolívar"	"Guaranda"	561	2020-07-29
+"Bolívar"	"Las Naves"	70	2020-07-29
+"Bolívar"	"San Miguel"	83	2020-07-29
+"Bolívar"	"Caluma"	140	2020-07-30
+"Bolívar"	"Chillanes"	35	2020-07-30
+"Bolívar"	"Chimbo"	45	2020-07-30
+"Bolívar"	"Echeandía"	167	2020-07-30
+"Bolívar"	"Guaranda"	581	2020-07-30
+"Bolívar"	"Las Naves"	70	2020-07-30
+"Bolívar"	"San Miguel"	83	2020-07-30
+"Bolívar"	"Caluma"	141	2020-07-31
+"Bolívar"	"Chillanes"	35	2020-07-31
+"Bolívar"	"Chimbo"	45	2020-07-31
+"Bolívar"	"Echeandía"	167	2020-07-31
+"Bolívar"	"Guaranda"	606	2020-07-31
+"Bolívar"	"Las Naves"	70	2020-07-31
+"Bolívar"	"San Miguel"	84	2020-07-31
+"Bolívar"	"Caluma"	142	2020-08-01
+"Bolívar"	"Chillanes"	35	2020-08-01
+"Bolívar"	"Chimbo"	45	2020-08-01
+"Bolívar"	"Echeandía"	167	2020-08-01
+"Bolívar"	"Guaranda"	609	2020-08-01
+"Bolívar"	"Las Naves"	70	2020-08-01
+"Bolívar"	"San Miguel"	84	2020-08-01
+"Bolívar"	"Caluma"	148	2020-08-02
+"Bolívar"	"Chillanes"	36	2020-08-02
+"Bolívar"	"Chimbo"	45	2020-08-02
+"Bolívar"	"Echeandía"	167	2020-08-02
+"Bolívar"	"Guaranda"	610	2020-08-02
+"Bolívar"	"Las Naves"	70	2020-08-02
+"Bolívar"	"San Miguel"	84	2020-08-02
+"Bolívar"	"Caluma"	149	2020-08-03
+"Bolívar"	"Chillanes"	39	2020-08-03
+"Bolívar"	"Chimbo"	45	2020-08-03
+"Bolívar"	"Echeandía"	167	2020-08-03
+"Bolívar"	"Guaranda"	610	2020-08-03
+"Bolívar"	"Las Naves"	70	2020-08-03
+"Bolívar"	"San Miguel"	84	2020-08-03
+"Bolívar"	"Caluma"	149	2020-08-04
+"Bolívar"	"Chillanes"	39	2020-08-04
+"Bolívar"	"Chimbo"	45	2020-08-04
+"Bolívar"	"Echeandía"	167	2020-08-04
+"Bolívar"	"Guaranda"	610	2020-08-04
+"Bolívar"	"Las Naves"	70	2020-08-04
+"Bolívar"	"San Miguel"	84	2020-08-04
+"Bolívar"	"Caluma"	149	2020-08-05
+"Bolívar"	"Chillanes"	39	2020-08-05
+"Bolívar"	"Chimbo"	45	2020-08-05
+"Bolívar"	"Echeandía"	167	2020-08-05
+"Bolívar"	"Guaranda"	610	2020-08-05
+"Bolívar"	"Las Naves"	70	2020-08-05
+"Bolívar"	"San Miguel"	85	2020-08-05
+"Bolívar"	"Caluma"	149	2020-08-06
+"Bolívar"	"Chillanes"	40	2020-08-06
+"Bolívar"	"Chimbo"	45	2020-08-06
+"Bolívar"	"Echeandía"	167	2020-08-06
+"Bolívar"	"Guaranda"	610	2020-08-06
+"Bolívar"	"Las Naves"	70	2020-08-06
+"Bolívar"	"San Miguel"	85	2020-08-06
+"Bolívar"	"Caluma"	149	2020-08-07
+"Bolívar"	"Chillanes"	40	2020-08-07
+"Bolívar"	"Chimbo"	45	2020-08-07
+"Bolívar"	"Echeandía"	167	2020-08-07
+"Bolívar"	"Guaranda"	616	2020-08-07
+"Bolívar"	"Las Naves"	70	2020-08-07
+"Bolívar"	"San Miguel"	87	2020-08-07
+"Bolívar"	"Caluma"	149	2020-08-08
+"Bolívar"	"Chillanes"	40	2020-08-08
+"Bolívar"	"Chimbo"	46	2020-08-08
+"Bolívar"	"Echeandía"	178	2020-08-08
+"Bolívar"	"Guaranda"	617	2020-08-08
+"Bolívar"	"Las Naves"	75	2020-08-08
+"Bolívar"	"San Miguel"	87	2020-08-08
+"Bolívar"	"Caluma"	152	2020-08-09
+"Bolívar"	"Chillanes"	40	2020-08-09
+"Bolívar"	"Chimbo"	46	2020-08-09
+"Bolívar"	"Echeandía"	178	2020-08-09
+"Bolívar"	"Guaranda"	665	2020-08-09
+"Bolívar"	"Las Naves"	75	2020-08-09
+"Bolívar"	"San Miguel"	89	2020-08-09
+"Bolívar"	"Caluma"	152	2020-08-10
+"Bolívar"	"Chillanes"	40	2020-08-10
+"Bolívar"	"Chimbo"	46	2020-08-10
+"Bolívar"	"Echeandía"	179	2020-08-10
+"Bolívar"	"Guaranda"	666	2020-08-10
+"Bolívar"	"Las Naves"	75	2020-08-10
+"Bolívar"	"San Miguel"	89	2020-08-10
+"Bolívar"	"Caluma"	152	2020-08-11
+"Bolívar"	"Chillanes"	40	2020-08-11
+"Bolívar"	"Chimbo"	46	2020-08-11
+"Bolívar"	"Echeandía"	191	2020-08-11
+"Bolívar"	"Guaranda"	667	2020-08-11
+"Bolívar"	"Las Naves"	75	2020-08-11
+"Bolívar"	"San Miguel"	89	2020-08-11
+"Bolívar"	"Caluma"	157	2020-08-12
+"Bolívar"	"Chillanes"	41	2020-08-12
+"Bolívar"	"Chimbo"	46	2020-08-12
+"Bolívar"	"Echeandía"	191	2020-08-12
+"Bolívar"	"Guaranda"	690	2020-08-12
+"Bolívar"	"Las Naves"	77	2020-08-12
+"Bolívar"	"San Miguel"	90	2020-08-12
+"Bolívar"	"Caluma"	157	2020-08-13
+"Bolívar"	"Chillanes"	42	2020-08-13
+"Bolívar"	"Chimbo"	46	2020-08-13
+"Bolívar"	"Echeandía"	192	2020-08-13
+"Bolívar"	"Guaranda"	691	2020-08-13
+"Bolívar"	"Las Naves"	104	2020-08-13
+"Bolívar"	"San Miguel"	90	2020-08-13
+"Bolívar"	"Caluma"	157	2020-08-14
+"Bolívar"	"Chillanes"	42	2020-08-14
+"Bolívar"	"Chimbo"	46	2020-08-14
+"Bolívar"	"Echeandía"	192	2020-08-14
+"Bolívar"	"Guaranda"	693	2020-08-14
+"Bolívar"	"Las Naves"	105	2020-08-14
+"Bolívar"	"San Miguel"	90	2020-08-14
+"Bolívar"	"Caluma"	157	2020-08-15
+"Bolívar"	"Chillanes"	43	2020-08-15
+"Bolívar"	"Chimbo"	46	2020-08-15
+"Bolívar"	"Echeandía"	192	2020-08-15
+"Bolívar"	"Guaranda"	698	2020-08-15
+"Bolívar"	"Las Naves"	105	2020-08-15
+"Bolívar"	"San Miguel"	90	2020-08-15
+"Bolívar"	"Caluma"	157	2020-08-16
+"Bolívar"	"Chillanes"	43	2020-08-16
+"Bolívar"	"Chimbo"	46	2020-08-16
+"Bolívar"	"Echeandía"	192	2020-08-16
+"Bolívar"	"Guaranda"	699	2020-08-16
+"Bolívar"	"Las Naves"	109	2020-08-16
+"Bolívar"	"San Miguel"	90	2020-08-16
+"Bolívar"	"Caluma"	158	2020-08-17
+"Bolívar"	"Chillanes"	43	2020-08-17
+"Bolívar"	"Chimbo"	46	2020-08-17
+"Bolívar"	"Echeandía"	195	2020-08-17
+"Bolívar"	"Guaranda"	699	2020-08-17
+"Bolívar"	"Las Naves"	109	2020-08-17
+"Bolívar"	"San Miguel"	90	2020-08-17
+"Bolívar"	"Caluma"	158	2020-08-18
+"Bolívar"	"Chillanes"	43	2020-08-18
+"Bolívar"	"Chimbo"	47	2020-08-18
+"Bolívar"	"Echeandía"	195	2020-08-18
+"Bolívar"	"Guaranda"	699	2020-08-18
+"Bolívar"	"Las Naves"	109	2020-08-18
+"Bolívar"	"San Miguel"	90	2020-08-18
+"Bolívar"	"Caluma"	158	2020-08-19
+"Bolívar"	"Chillanes"	43	2020-08-19
+"Bolívar"	"Chimbo"	47	2020-08-19
+"Bolívar"	"Echeandía"	195	2020-08-19
+"Bolívar"	"Guaranda"	700	2020-08-19
+"Bolívar"	"Las Naves"	115	2020-08-19
+"Bolívar"	"San Miguel"	91	2020-08-19
+"Bolívar"	"Caluma"	160	2020-08-20
+"Bolívar"	"Chillanes"	43	2020-08-20
+"Bolívar"	"Chimbo"	47	2020-08-20
+"Bolívar"	"Echeandía"	195	2020-08-20
+"Bolívar"	"Guaranda"	701	2020-08-20
+"Bolívar"	"Las Naves"	115	2020-08-20
+"Bolívar"	"San Miguel"	91	2020-08-20
+"Bolívar"	"Caluma"	160	2020-08-21
+"Bolívar"	"Chillanes"	43	2020-08-21
+"Bolívar"	"Chimbo"	47	2020-08-21
+"Bolívar"	"Echeandía"	195	2020-08-21
+"Bolívar"	"Guaranda"	704	2020-08-21
+"Bolívar"	"Las Naves"	115	2020-08-21
+"Bolívar"	"San Miguel"	91	2020-08-21
+"Bolívar"	"Caluma"	173	2020-08-22
+"Bolívar"	"Chillanes"	43	2020-08-22
+"Bolívar"	"Chimbo"	47	2020-08-22
+"Bolívar"	"Echeandía"	195	2020-08-22
+"Bolívar"	"Guaranda"	709	2020-08-22
+"Bolívar"	"Las Naves"	115	2020-08-22
+"Bolívar"	"San Miguel"	91	2020-08-22
+"Bolívar"	"Caluma"	174	2020-08-23
+"Bolívar"	"Chillanes"	44	2020-08-23
+"Bolívar"	"Chimbo"	50	2020-08-23
+"Bolívar"	"Echeandía"	195	2020-08-23
+"Bolívar"	"Guaranda"	709	2020-08-23
+"Bolívar"	"Las Naves"	115	2020-08-23
+"Bolívar"	"San Miguel"	91	2020-08-23
+"Bolívar"	"Caluma"	174	2020-08-24
+"Bolívar"	"Chillanes"	44	2020-08-24
+"Bolívar"	"Chimbo"	51	2020-08-24
+"Bolívar"	"Echeandía"	204	2020-08-24
+"Bolívar"	"Guaranda"	722	2020-08-24
+"Bolívar"	"Las Naves"	115	2020-08-24
+"Bolívar"	"San Miguel"	92	2020-08-24
+"Bolívar"	"Caluma"	174	2020-08-25
+"Bolívar"	"Chillanes"	44	2020-08-25
+"Bolívar"	"Chimbo"	52	2020-08-25
+"Bolívar"	"Echeandía"	204	2020-08-25
+"Bolívar"	"Guaranda"	726	2020-08-25
+"Bolívar"	"Las Naves"	115	2020-08-25
+"Bolívar"	"San Miguel"	92	2020-08-25
+"Bolívar"	"Caluma"	174	2020-08-26
+"Bolívar"	"Chillanes"	44	2020-08-26
+"Bolívar"	"Chimbo"	52	2020-08-26
+"Bolívar"	"Echeandía"	204	2020-08-26
+"Bolívar"	"Guaranda"	726	2020-08-26
+"Bolívar"	"Las Naves"	125	2020-08-26
+"Bolívar"	"San Miguel"	92	2020-08-26
+"Bolívar"	"Caluma"	174	2020-08-27
+"Bolívar"	"Chillanes"	44	2020-08-27
+"Bolívar"	"Chimbo"	53	2020-08-27
+"Bolívar"	"Echeandía"	204	2020-08-27
+"Bolívar"	"Guaranda"	726	2020-08-27
+"Bolívar"	"Las Naves"	125	2020-08-27
+"Bolívar"	"San Miguel"	92	2020-08-27
+"Bolívar"	"Caluma"	177	2020-08-28
+"Bolívar"	"Chillanes"	45	2020-08-28
+"Bolívar"	"Chimbo"	55	2020-08-28
+"Bolívar"	"Echeandía"	204	2020-08-28
+"Bolívar"	"Guaranda"	733	2020-08-28
+"Bolívar"	"Las Naves"	126	2020-08-28
+"Bolívar"	"San Miguel"	92	2020-08-28
+"Bolívar"	"Caluma"	177	2020-08-29
+"Bolívar"	"Chillanes"	45	2020-08-29
+"Bolívar"	"Chimbo"	55	2020-08-29
+"Bolívar"	"Echeandía"	204	2020-08-29
+"Bolívar"	"Guaranda"	736	2020-08-29
+"Bolívar"	"Las Naves"	127	2020-08-29
+"Bolívar"	"San Miguel"	92	2020-08-29
+"Bolívar"	"Caluma"	177	2020-08-30
+"Bolívar"	"Chillanes"	45	2020-08-30
+"Bolívar"	"Chimbo"	55	2020-08-30
+"Bolívar"	"Echeandía"	205	2020-08-30
+"Bolívar"	"Guaranda"	737	2020-08-30
+"Bolívar"	"Las Naves"	127	2020-08-30
+"Bolívar"	"San Miguel"	92	2020-08-30
+"Bolívar"	"Caluma"	177	2020-08-31
+"Bolívar"	"Chillanes"	45	2020-08-31
+"Bolívar"	"Chimbo"	55	2020-08-31
+"Bolívar"	"Echeandía"	208	2020-08-31
+"Bolívar"	"Guaranda"	737	2020-08-31
+"Bolívar"	"Las Naves"	127	2020-08-31
+"Bolívar"	"San Miguel"	92	2020-08-31
+"Bolívar"	"Caluma"	177	2020-09-01
+"Bolívar"	"Chillanes"	45	2020-09-01
+"Bolívar"	"Chimbo"	56	2020-09-01
+"Bolívar"	"Echeandía"	208	2020-09-01
+"Bolívar"	"Guaranda"	741	2020-09-01
+"Bolívar"	"Las Naves"	127	2020-09-01
+"Bolívar"	"San Miguel"	93	2020-09-01
+"Bolívar"	"Caluma"	177	2020-09-02
+"Bolívar"	"Chillanes"	46	2020-09-02
+"Bolívar"	"Chimbo"	57	2020-09-02
+"Bolívar"	"Echeandía"	209	2020-09-02
+"Bolívar"	"Guaranda"	749	2020-09-02
+"Bolívar"	"Las Naves"	131	2020-09-02
+"Bolívar"	"San Miguel"	94	2020-09-02
+"Bolívar"	"Caluma"	177	2020-09-03
+"Bolívar"	"Chillanes"	46	2020-09-03
+"Bolívar"	"Chimbo"	57	2020-09-03
+"Bolívar"	"Echeandía"	209	2020-09-03
+"Bolívar"	"Guaranda"	759	2020-09-03
+"Bolívar"	"Las Naves"	131	2020-09-03
+"Bolívar"	"San Miguel"	94	2020-09-03
+"Bolívar"	"Caluma"	177	2020-09-04
+"Bolívar"	"Chillanes"	46	2020-09-04
+"Bolívar"	"Chimbo"	57	2020-09-04
+"Bolívar"	"Echeandía"	209	2020-09-04
+"Bolívar"	"Guaranda"	768	2020-09-04
+"Bolívar"	"Las Naves"	131	2020-09-04
+"Bolívar"	"San Miguel"	94	2020-09-04
+"Bolívar"	"Caluma"	179	2020-09-05
+"Bolívar"	"Chillanes"	47	2020-09-05
+"Bolívar"	"Chimbo"	58	2020-09-05
+"Bolívar"	"Echeandía"	209	2020-09-05
+"Bolívar"	"Guaranda"	772	2020-09-05
+"Bolívar"	"Las Naves"	131	2020-09-05
+"Bolívar"	"San Miguel"	94	2020-09-05
+"Bolívar"	"Caluma"	179	2020-09-06
+"Bolívar"	"Chillanes"	48	2020-09-06
+"Bolívar"	"Chimbo"	61	2020-09-06
+"Bolívar"	"Echeandía"	209	2020-09-06
+"Bolívar"	"Guaranda"	781	2020-09-06
+"Bolívar"	"Las Naves"	131	2020-09-06
+"Bolívar"	"San Miguel"	94	2020-09-06
+"Bolívar"	"Caluma"	179	2020-09-07
+"Bolívar"	"Chillanes"	48	2020-09-07
+"Bolívar"	"Chimbo"	63	2020-09-07
+"Bolívar"	"Echeandía"	216	2020-09-07
+"Bolívar"	"Guaranda"	782	2020-09-07
+"Bolívar"	"Las Naves"	131	2020-09-07
+"Bolívar"	"San Miguel"	96	2020-09-07
+"Bolívar"	"Caluma"	179	2020-09-08
+"Bolívar"	"Chillanes"	48	2020-09-08
+"Bolívar"	"Chimbo"	63	2020-09-08
+"Bolívar"	"Echeandía"	216	2020-09-08
+"Bolívar"	"Guaranda"	788	2020-09-08
+"Bolívar"	"Las Naves"	131	2020-09-08
+"Bolívar"	"San Miguel"	97	2020-09-08
+"Bolívar"	"Caluma"	179	2020-09-09
+"Bolívar"	"Chillanes"	49	2020-09-09
+"Bolívar"	"Chimbo"	64	2020-09-09
+"Bolívar"	"Echeandía"	216	2020-09-09
+"Bolívar"	"Guaranda"	806	2020-09-09
+"Bolívar"	"Las Naves"	131	2020-09-09
+"Bolívar"	"San Miguel"	101	2020-09-09
+"Bolívar"	"Caluma"	180	2020-09-10
+"Bolívar"	"Chillanes"	49	2020-09-10
+"Bolívar"	"Chimbo"	65	2020-09-10
+"Bolívar"	"Echeandía"	216	2020-09-10
+"Bolívar"	"Guaranda"	807	2020-09-10
+"Bolívar"	"Las Naves"	131	2020-09-10
+"Bolívar"	"San Miguel"	102	2020-09-10
+"Bolívar"	"Caluma"	187	2020-09-11
+"Bolívar"	"Chillanes"	49	2020-09-11
+"Bolívar"	"Chimbo"	73	2020-09-11
+"Bolívar"	"Echeandía"	216	2020-09-11
+"Bolívar"	"Guaranda"	820	2020-09-11
+"Bolívar"	"Las Naves"	131	2020-09-11
+"Bolívar"	"San Miguel"	106	2020-09-11
+"Bolívar"	"Caluma"	187	2020-09-12
+"Bolívar"	"Chillanes"	49	2020-09-12
+"Bolívar"	"Chimbo"	73	2020-09-12
+"Bolívar"	"Echeandía"	216	2020-09-12
+"Bolívar"	"Guaranda"	824	2020-09-12
+"Bolívar"	"Las Naves"	131	2020-09-12
+"Bolívar"	"San Miguel"	106	2020-09-12
+"Bolívar"	"Caluma"	187	2020-09-13
+"Bolívar"	"Chillanes"	49	2020-09-13
+"Bolívar"	"Chimbo"	76	2020-09-13
+"Bolívar"	"Echeandía"	222	2020-09-13
+"Bolívar"	"Guaranda"	829	2020-09-13
+"Bolívar"	"Las Naves"	131	2020-09-13
+"Bolívar"	"San Miguel"	106	2020-09-13
+"Bolívar"	"Caluma"	187	2020-09-14
+"Bolívar"	"Chillanes"	49	2020-09-14
+"Bolívar"	"Chimbo"	76	2020-09-14
+"Bolívar"	"Echeandía"	222	2020-09-14
+"Bolívar"	"Guaranda"	829	2020-09-14
+"Bolívar"	"Las Naves"	131	2020-09-14
+"Bolívar"	"San Miguel"	106	2020-09-14
+"Bolívar"	"Caluma"	187	2020-09-15
+"Bolívar"	"Chillanes"	50	2020-09-15
+"Bolívar"	"Chimbo"	78	2020-09-15
+"Bolívar"	"Echeandía"	222	2020-09-15
+"Bolívar"	"Guaranda"	835	2020-09-15
+"Bolívar"	"Las Naves"	131	2020-09-15
+"Bolívar"	"San Miguel"	107	2020-09-15
+"Bolívar"	"Caluma"	187	2020-09-16
+"Bolívar"	"Chillanes"	50	2020-09-16
+"Bolívar"	"Chimbo"	79	2020-09-16
+"Bolívar"	"Echeandía"	222	2020-09-16
+"Bolívar"	"Guaranda"	846	2020-09-16
+"Bolívar"	"Las Naves"	131	2020-09-16
+"Bolívar"	"San Miguel"	108	2020-09-16
+"Bolívar"	"Caluma"	187	2020-09-17
+"Bolívar"	"Chillanes"	50	2020-09-17
+"Bolívar"	"Chimbo"	87	2020-09-17
+"Bolívar"	"Echeandía"	222	2020-09-17
+"Bolívar"	"Guaranda"	855	2020-09-17
+"Bolívar"	"Las Naves"	131	2020-09-17
+"Bolívar"	"San Miguel"	110	2020-09-17
+"Bolívar"	"Caluma"	187	2020-09-18
+"Bolívar"	"Chillanes"	50	2020-09-18
+"Bolívar"	"Chimbo"	87	2020-09-18
+"Bolívar"	"Echeandía"	222	2020-09-18
+"Bolívar"	"Guaranda"	863	2020-09-18
+"Bolívar"	"Las Naves"	131	2020-09-18
+"Bolívar"	"San Miguel"	110	2020-09-18
+"Bolívar"	"Caluma"	187	2020-09-19
+"Bolívar"	"Chillanes"	50	2020-09-19
+"Bolívar"	"Chimbo"	92	2020-09-19
+"Bolívar"	"Echeandía"	223	2020-09-19
+"Bolívar"	"Guaranda"	908	2020-09-19
+"Bolívar"	"Las Naves"	131	2020-09-19
+"Bolívar"	"San Miguel"	113	2020-09-19
+"Bolívar"	"Caluma"	187	2020-09-20
+"Bolívar"	"Chillanes"	50	2020-09-20
+"Bolívar"	"Chimbo"	93	2020-09-20
+"Bolívar"	"Echeandía"	225	2020-09-20
+"Bolívar"	"Guaranda"	917	2020-09-20
+"Bolívar"	"Las Naves"	131	2020-09-20
+"Bolívar"	"San Miguel"	113	2020-09-20
+"Bolívar"	"Caluma"	187	2020-09-21
+"Bolívar"	"Chillanes"	50	2020-09-21
+"Bolívar"	"Chimbo"	93	2020-09-21
+"Bolívar"	"Echeandía"	225	2020-09-21
+"Bolívar"	"Guaranda"	917	2020-09-21
+"Bolívar"	"Las Naves"	131	2020-09-21
+"Bolívar"	"San Miguel"	113	2020-09-21
+"Bolívar"	"Caluma"	187	2020-09-22
+"Bolívar"	"Chillanes"	50	2020-09-22
+"Bolívar"	"Chimbo"	96	2020-09-22
+"Bolívar"	"Echeandía"	225	2020-09-22
+"Bolívar"	"Guaranda"	923	2020-09-22
+"Bolívar"	"Las Naves"	131	2020-09-22
+"Bolívar"	"San Miguel"	114	2020-09-22
+"Bolívar"	"Caluma"	187	2020-09-23
+"Bolívar"	"Chillanes"	50	2020-09-23
+"Bolívar"	"Chimbo"	96	2020-09-23
+"Bolívar"	"Echeandía"	225	2020-09-23
+"Bolívar"	"Guaranda"	929	2020-09-23
+"Bolívar"	"Las Naves"	131	2020-09-23
+"Bolívar"	"San Miguel"	114	2020-09-23
+"Bolívar"	"Caluma"	189	2020-09-24
+"Bolívar"	"Chillanes"	50	2020-09-24
+"Bolívar"	"Chimbo"	96	2020-09-24
+"Bolívar"	"Echeandía"	225	2020-09-24
+"Bolívar"	"Guaranda"	936	2020-09-24
+"Bolívar"	"Las Naves"	131	2020-09-24
+"Bolívar"	"San Miguel"	115	2020-09-24
+"Bolívar"	"Caluma"	190	2020-09-25
+"Bolívar"	"Chillanes"	50	2020-09-25
+"Bolívar"	"Chimbo"	96	2020-09-25
+"Bolívar"	"Echeandía"	225	2020-09-25
+"Bolívar"	"Guaranda"	941	2020-09-25
+"Bolívar"	"Las Naves"	131	2020-09-25
+"Bolívar"	"San Miguel"	117	2020-09-25
+"Bolívar"	"Caluma"	190	2020-09-26
+"Bolívar"	"Chillanes"	50	2020-09-26
+"Bolívar"	"Chimbo"	96	2020-09-26
+"Bolívar"	"Echeandía"	225	2020-09-26
+"Bolívar"	"Guaranda"	949	2020-09-26
+"Bolívar"	"Las Naves"	131	2020-09-26
+"Bolívar"	"San Miguel"	119	2020-09-26
+"Bolívar"	"Caluma"	190	2020-09-27
+"Bolívar"	"Chillanes"	50	2020-09-27
+"Bolívar"	"Chimbo"	96	2020-09-27
+"Bolívar"	"Echeandía"	226	2020-09-27
+"Bolívar"	"Guaranda"	950	2020-09-27
+"Bolívar"	"Las Naves"	131	2020-09-27
+"Bolívar"	"San Miguel"	119	2020-09-27
+"Bolívar"	"Caluma"	190	2020-09-28
+"Bolívar"	"Chillanes"	50	2020-09-28
+"Bolívar"	"Chimbo"	96	2020-09-28
+"Bolívar"	"Echeandía"	226	2020-09-28
+"Bolívar"	"Guaranda"	950	2020-09-28
+"Bolívar"	"Las Naves"	131	2020-09-28
+"Bolívar"	"San Miguel"	119	2020-09-28
+"Bolívar"	"Caluma"	190	2020-09-29
+"Bolívar"	"Chillanes"	50	2020-09-29
+"Bolívar"	"Chimbo"	96	2020-09-29
+"Bolívar"	"Echeandía"	226	2020-09-29
+"Bolívar"	"Guaranda"	957	2020-09-29
+"Bolívar"	"Las Naves"	131	2020-09-29
+"Bolívar"	"San Miguel"	119	2020-09-29
+"Bolívar"	"Caluma"	190	2020-09-30
+"Bolívar"	"Chillanes"	50	2020-09-30
+"Bolívar"	"Chimbo"	97	2020-09-30
+"Bolívar"	"Echeandía"	226	2020-09-30
+"Bolívar"	"Guaranda"	957	2020-09-30
+"Bolívar"	"Las Naves"	131	2020-09-30
+"Bolívar"	"San Miguel"	119	2020-09-30
+"Bolívar"	"Caluma"	190	2020-10-01
+"Bolívar"	"Chillanes"	50	2020-10-01
+"Bolívar"	"Chimbo"	97	2020-10-01
+"Bolívar"	"Echeandía"	226	2020-10-01
+"Bolívar"	"Guaranda"	968	2020-10-01
+"Bolívar"	"Las Naves"	131	2020-10-01
+"Bolívar"	"San Miguel"	120	2020-10-01
+"Bolívar"	"Caluma"	193	2020-10-02
+"Bolívar"	"Chillanes"	50	2020-10-02
+"Bolívar"	"Chimbo"	99	2020-10-02
+"Bolívar"	"Echeandía"	228	2020-10-02
+"Bolívar"	"Guaranda"	969	2020-10-02
+"Bolívar"	"Las Naves"	131	2020-10-02
+"Bolívar"	"San Miguel"	124	2020-10-02
+"Bolívar"	"Caluma"	193	2020-10-03
+"Bolívar"	"Chillanes"	50	2020-10-03
+"Bolívar"	"Chimbo"	100	2020-10-03
+"Bolívar"	"Echeandía"	228	2020-10-03
+"Bolívar"	"Guaranda"	969	2020-10-03
+"Bolívar"	"Las Naves"	131	2020-10-03
+"Bolívar"	"San Miguel"	124	2020-10-03
+"Bolívar"	"Caluma"	193	2020-10-04
+"Bolívar"	"Chillanes"	50	2020-10-04
+"Bolívar"	"Chimbo"	100	2020-10-04
+"Bolívar"	"Echeandía"	228	2020-10-04
+"Bolívar"	"Guaranda"	981	2020-10-04
+"Bolívar"	"Las Naves"	131	2020-10-04
+"Bolívar"	"San Miguel"	126	2020-10-04
+"Bolívar"	"Caluma"	193	2020-10-05
+"Bolívar"	"Chillanes"	50	2020-10-05
+"Bolívar"	"Chimbo"	100	2020-10-05
+"Bolívar"	"Echeandía"	228	2020-10-05
+"Bolívar"	"Guaranda"	982	2020-10-05
+"Bolívar"	"Las Naves"	131	2020-10-05
+"Bolívar"	"San Miguel"	129	2020-10-05
+"Bolívar"	"Caluma"	193	2020-10-06
+"Bolívar"	"Chillanes"	50	2020-10-06
+"Bolívar"	"Chimbo"	100	2020-10-06
+"Bolívar"	"Echeandía"	228	2020-10-06
+"Bolívar"	"Guaranda"	987	2020-10-06
+"Bolívar"	"Las Naves"	131	2020-10-06
+"Bolívar"	"San Miguel"	129	2020-10-06
+"Bolívar"	"Caluma"	193	2020-10-07
+"Bolívar"	"Chillanes"	50	2020-10-07
+"Bolívar"	"Chimbo"	101	2020-10-07
+"Bolívar"	"Echeandía"	229	2020-10-07
+"Bolívar"	"Guaranda"	993	2020-10-07
+"Bolívar"	"Las Naves"	131	2020-10-07
+"Bolívar"	"San Miguel"	129	2020-10-07
+"Bolívar"	"Caluma"	193	2020-10-08
+"Bolívar"	"Chillanes"	51	2020-10-08
+"Bolívar"	"Chimbo"	108	2020-10-08
+"Bolívar"	"Echeandía"	230	2020-10-08
+"Bolívar"	"Guaranda"	1001	2020-10-08
+"Bolívar"	"Las Naves"	131	2020-10-08
+"Bolívar"	"San Miguel"	132	2020-10-08
+"Bolívar"	"Caluma"	196	2020-10-09
+"Bolívar"	"Chillanes"	51	2020-10-09
+"Bolívar"	"Chimbo"	108	2020-10-09
+"Bolívar"	"Echeandía"	230	2020-10-09
+"Bolívar"	"Guaranda"	1003	2020-10-09
+"Bolívar"	"Las Naves"	132	2020-10-09
+"Bolívar"	"San Miguel"	132	2020-10-09
+"Bolívar"	"Caluma"	196	2020-10-10
+"Bolívar"	"Chillanes"	51	2020-10-10
+"Bolívar"	"Chimbo"	108	2020-10-10
+"Bolívar"	"Echeandía"	230	2020-10-10
+"Bolívar"	"Guaranda"	1026	2020-10-10
+"Bolívar"	"Las Naves"	132	2020-10-10
+"Bolívar"	"San Miguel"	132	2020-10-10
+"Bolívar"	"Caluma"	196	2020-10-11
+"Bolívar"	"Chillanes"	51	2020-10-11
+"Bolívar"	"Chimbo"	108	2020-10-11
+"Bolívar"	"Echeandía"	230	2020-10-11
+"Bolívar"	"Guaranda"	1026	2020-10-11
+"Bolívar"	"Las Naves"	132	2020-10-11
+"Bolívar"	"San Miguel"	132	2020-10-11
+"Bolívar"	"Caluma"	196	2020-10-12
+"Bolívar"	"Chillanes"	51	2020-10-12
+"Bolívar"	"Chimbo"	108	2020-10-12
+"Bolívar"	"Echeandía"	230	2020-10-12
+"Bolívar"	"Guaranda"	1028	2020-10-12
+"Bolívar"	"Las Naves"	132	2020-10-12
+"Bolívar"	"San Miguel"	132	2020-10-12
+"Bolívar"	"Caluma"	196	2020-10-13
+"Bolívar"	"Chillanes"	51	2020-10-13
+"Bolívar"	"Chimbo"	109	2020-10-13
+"Bolívar"	"Echeandía"	230	2020-10-13
+"Bolívar"	"Guaranda"	1029	2020-10-13
+"Bolívar"	"Las Naves"	132	2020-10-13
+"Bolívar"	"San Miguel"	132	2020-10-13
+"Bolívar"	"Caluma"	196	2020-10-14
+"Bolívar"	"Chillanes"	51	2020-10-14
+"Bolívar"	"Chimbo"	109	2020-10-14
+"Bolívar"	"Echeandía"	230	2020-10-14
+"Bolívar"	"Guaranda"	1034	2020-10-14
+"Bolívar"	"Las Naves"	132	2020-10-14
+"Bolívar"	"San Miguel"	132	2020-10-14
+"Bolívar"	"Caluma"	196	2020-10-15
+"Bolívar"	"Chillanes"	51	2020-10-15
+"Bolívar"	"Chimbo"	110	2020-10-15
+"Bolívar"	"Echeandía"	231	2020-10-15
+"Bolívar"	"Guaranda"	1048	2020-10-15
+"Bolívar"	"Las Naves"	132	2020-10-15
+"Bolívar"	"San Miguel"	133	2020-10-15
+"Bolívar"	"Caluma"	208	2020-10-16
+"Bolívar"	"Chillanes"	51	2020-10-16
+"Bolívar"	"Chimbo"	111	2020-10-16
+"Bolívar"	"Echeandía"	231	2020-10-16
+"Bolívar"	"Guaranda"	1054	2020-10-16
+"Bolívar"	"Las Naves"	134	2020-10-16
+"Bolívar"	"San Miguel"	133	2020-10-16
+"Bolívar"	"Caluma"	208	2020-10-17
+"Bolívar"	"Chillanes"	51	2020-10-17
+"Bolívar"	"Chimbo"	111	2020-10-17
+"Bolívar"	"Echeandía"	231	2020-10-17
+"Bolívar"	"Guaranda"	1056	2020-10-17
+"Bolívar"	"Las Naves"	134	2020-10-17
+"Bolívar"	"San Miguel"	133	2020-10-17
+"Bolívar"	"Caluma"	209	2020-10-18
+"Bolívar"	"Chillanes"	52	2020-10-18
+"Bolívar"	"Chimbo"	113	2020-10-18
+"Bolívar"	"Echeandía"	232	2020-10-18
+"Bolívar"	"Guaranda"	1073	2020-10-18
+"Bolívar"	"Las Naves"	134	2020-10-18
+"Bolívar"	"San Miguel"	134	2020-10-18
+"Bolívar"	"Caluma"	209	2020-10-19
+"Bolívar"	"Chillanes"	52	2020-10-19
+"Bolívar"	"Chimbo"	113	2020-10-19
+"Bolívar"	"Echeandía"	239	2020-10-19
+"Bolívar"	"Guaranda"	1073	2020-10-19
+"Bolívar"	"Las Naves"	134	2020-10-19
+"Bolívar"	"San Miguel"	134	2020-10-19
+"Bolívar"	"Caluma"	209	2020-10-20
+"Bolívar"	"Chillanes"	52	2020-10-20
+"Bolívar"	"Chimbo"	113	2020-10-20
+"Bolívar"	"Echeandía"	239	2020-10-20
+"Bolívar"	"Guaranda"	1076	2020-10-20
+"Bolívar"	"Las Naves"	134	2020-10-20
+"Bolívar"	"San Miguel"	134	2020-10-20
+"Bolívar"	"Caluma"	209	2020-10-21
+"Bolívar"	"Chillanes"	53	2020-10-21
+"Bolívar"	"Chimbo"	113	2020-10-21
+"Bolívar"	"Echeandía"	240	2020-10-21
+"Bolívar"	"Guaranda"	1086	2020-10-21
+"Bolívar"	"Las Naves"	135	2020-10-21
+"Bolívar"	"San Miguel"	135	2020-10-21
+"Bolívar"	"Caluma"	209	2020-10-22
+"Bolívar"	"Chillanes"	54	2020-10-22
+"Bolívar"	"Chimbo"	113	2020-10-22
+"Bolívar"	"Echeandía"	240	2020-10-22
+"Bolívar"	"Guaranda"	1088	2020-10-22
+"Bolívar"	"Las Naves"	135	2020-10-22
+"Bolívar"	"San Miguel"	135	2020-10-22
+"Bolívar"	"Caluma"	230	2020-10-23
+"Bolívar"	"Chillanes"	60	2020-10-23
+"Bolívar"	"Chimbo"	120	2020-10-23
+"Bolívar"	"Echeandía"	242	2020-10-23
+"Bolívar"	"Guaranda"	1110	2020-10-23
+"Bolívar"	"Las Naves"	135	2020-10-23
+"Bolívar"	"San Miguel"	136	2020-10-23
+"Bolívar"	"Caluma"	230	2020-10-24
+"Bolívar"	"Chillanes"	60	2020-10-24
+"Bolívar"	"Chimbo"	120	2020-10-24
+"Bolívar"	"Echeandía"	242	2020-10-24
+"Bolívar"	"Guaranda"	1110	2020-10-24
+"Bolívar"	"Las Naves"	135	2020-10-24
+"Bolívar"	"San Miguel"	136	2020-10-24
+"Bolívar"	"Caluma"	231	2020-10-25
+"Bolívar"	"Chillanes"	60	2020-10-25
+"Bolívar"	"Chimbo"	120	2020-10-25
+"Bolívar"	"Echeandía"	243	2020-10-25
+"Bolívar"	"Guaranda"	1114	2020-10-25
+"Bolívar"	"Las Naves"	135	2020-10-25
+"Bolívar"	"San Miguel"	140	2020-10-25
+"Bolívar"	"Caluma"	231	2020-10-26
+"Bolívar"	"Chillanes"	60	2020-10-26
+"Bolívar"	"Chimbo"	120	2020-10-26
+"Bolívar"	"Echeandía"	249	2020-10-26
+"Bolívar"	"Guaranda"	1114	2020-10-26
+"Bolívar"	"Las Naves"	135	2020-10-26
+"Bolívar"	"San Miguel"	140	2020-10-26
+"Bolívar"	"Caluma"	231	2020-10-27
+"Bolívar"	"Chillanes"	60	2020-10-27
+"Bolívar"	"Chimbo"	120	2020-10-27
+"Bolívar"	"Echeandía"	249	2020-10-27
+"Bolívar"	"Guaranda"	1115	2020-10-27
+"Bolívar"	"Las Naves"	135	2020-10-27
+"Bolívar"	"San Miguel"	140	2020-10-27
+"Bolívar"	"Caluma"	231	2020-10-28
+"Bolívar"	"Chillanes"	60	2020-10-28
+"Bolívar"	"Chimbo"	121	2020-10-28
+"Bolívar"	"Echeandía"	249	2020-10-28
+"Bolívar"	"Guaranda"	1116	2020-10-28
+"Bolívar"	"Las Naves"	136	2020-10-28
+"Bolívar"	"San Miguel"	143	2020-10-28
+"Bolívar"	"Caluma"	232	2020-10-29
+"Bolívar"	"Chillanes"	60	2020-10-29
+"Bolívar"	"Chimbo"	125	2020-10-29
+"Bolívar"	"Echeandía"	249	2020-10-29
+"Bolívar"	"Guaranda"	1124	2020-10-29
+"Bolívar"	"Las Naves"	136	2020-10-29
+"Bolívar"	"San Miguel"	143	2020-10-29
+"Bolívar"	"Caluma"	247	2020-10-30
+"Bolívar"	"Chillanes"	60	2020-10-30
+"Bolívar"	"Chimbo"	125	2020-10-30
+"Bolívar"	"Echeandía"	249	2020-10-30
+"Bolívar"	"Guaranda"	1127	2020-10-30
+"Bolívar"	"Las Naves"	139	2020-10-30
+"Bolívar"	"San Miguel"	143	2020-10-30
+"Bolívar"	"Caluma"	248	2020-10-31
+"Bolívar"	"Chillanes"	60	2020-10-31
+"Bolívar"	"Chimbo"	125	2020-10-31
+"Bolívar"	"Echeandía"	250	2020-10-31
+"Bolívar"	"Guaranda"	1137	2020-10-31
+"Bolívar"	"Las Naves"	139	2020-10-31
+"Bolívar"	"San Miguel"	145	2020-10-31
+"Bolívar"	"Caluma"	248	2020-11-01
+"Bolívar"	"Chillanes"	60	2020-11-01
+"Bolívar"	"Chimbo"	125	2020-11-01
+"Bolívar"	"Echeandía"	252	2020-11-01
+"Bolívar"	"Guaranda"	1140	2020-11-01
+"Bolívar"	"Las Naves"	141	2020-11-01
+"Bolívar"	"San Miguel"	145	2020-11-01
+"Bolívar"	"Caluma"	248	2020-11-02
+"Bolívar"	"Chillanes"	60	2020-11-02
+"Bolívar"	"Chimbo"	125	2020-11-02
+"Bolívar"	"Echeandía"	253	2020-11-02
+"Bolívar"	"Guaranda"	1140	2020-11-02
+"Bolívar"	"Las Naves"	141	2020-11-02
+"Bolívar"	"San Miguel"	145	2020-11-02
+"Bolívar"	"Caluma"	248	2020-11-03
+"Bolívar"	"Chillanes"	60	2020-11-03
+"Bolívar"	"Chimbo"	125	2020-11-03
+"Bolívar"	"Echeandía"	255	2020-11-03
+"Bolívar"	"Guaranda"	1141	2020-11-03
+"Bolívar"	"Las Naves"	141	2020-11-03
+"Bolívar"	"San Miguel"	145	2020-11-03
+"Bolívar"	"Caluma"	248	2020-11-04
+"Bolívar"	"Chillanes"	60	2020-11-04
+"Bolívar"	"Chimbo"	125	2020-11-04
+"Bolívar"	"Echeandía"	255	2020-11-04
+"Bolívar"	"Guaranda"	1141	2020-11-04
+"Bolívar"	"Las Naves"	141	2020-11-04
+"Bolívar"	"San Miguel"	145	2020-11-04
+"Bolívar"	"Caluma"	248	2020-11-05
+"Bolívar"	"Chillanes"	60	2020-11-05
+"Bolívar"	"Chimbo"	125	2020-11-05
+"Bolívar"	"Echeandía"	255	2020-11-05
+"Bolívar"	"Guaranda"	1143	2020-11-05
+"Bolívar"	"Las Naves"	141	2020-11-05
+"Bolívar"	"San Miguel"	145	2020-11-05
+"Bolívar"	"Caluma"	248	2020-11-06
+"Bolívar"	"Chillanes"	60	2020-11-06
+"Bolívar"	"Chimbo"	125	2020-11-06
+"Bolívar"	"Echeandía"	255	2020-11-06
+"Bolívar"	"Guaranda"	1146	2020-11-06
+"Bolívar"	"Las Naves"	141	2020-11-06
+"Bolívar"	"San Miguel"	145	2020-11-06
+"Bolívar"	"Caluma"	249	2020-11-07
+"Bolívar"	"Chillanes"	61	2020-11-07
+"Bolívar"	"Chimbo"	125	2020-11-07
+"Bolívar"	"Echeandía"	255	2020-11-07
+"Bolívar"	"Guaranda"	1147	2020-11-07
+"Bolívar"	"Las Naves"	141	2020-11-07
+"Bolívar"	"San Miguel"	145	2020-11-07
+"Bolívar"	"Caluma"	249	2020-11-08
+"Bolívar"	"Chillanes"	62	2020-11-08
+"Bolívar"	"Chimbo"	129	2020-11-08
+"Bolívar"	"Echeandía"	255	2020-11-08
+"Bolívar"	"Guaranda"	1160	2020-11-08
+"Bolívar"	"Las Naves"	141	2020-11-08
+"Bolívar"	"San Miguel"	146	2020-11-08
+"Bolívar"	"Caluma"	249	2020-11-09
+"Bolívar"	"Chillanes"	62	2020-11-09
+"Bolívar"	"Chimbo"	129	2020-11-09
+"Bolívar"	"Echeandía"	255	2020-11-09
+"Bolívar"	"Guaranda"	1160	2020-11-09
+"Bolívar"	"Las Naves"	141	2020-11-09
+"Bolívar"	"San Miguel"	146	2020-11-09
+"Bolívar"	"Caluma"	251	2020-11-10
+"Bolívar"	"Chillanes"	62	2020-11-10
+"Bolívar"	"Chimbo"	129	2020-11-10
+"Bolívar"	"Echeandía"	255	2020-11-10
+"Bolívar"	"Guaranda"	1160	2020-11-10
+"Bolívar"	"Las Naves"	144	2020-11-10
+"Bolívar"	"San Miguel"	146	2020-11-10
+"Bolívar"	"Caluma"	251	2020-11-11
+"Bolívar"	"Chillanes"	62	2020-11-11
+"Bolívar"	"Chimbo"	129	2020-11-11
+"Bolívar"	"Echeandía"	255	2020-11-11
+"Bolívar"	"Guaranda"	1167	2020-11-11
+"Bolívar"	"Las Naves"	144	2020-11-11
+"Bolívar"	"San Miguel"	146	2020-11-11
+"Bolívar"	"Caluma"	251	2020-11-12
+"Bolívar"	"Chillanes"	62	2020-11-12
+"Bolívar"	"Chimbo"	132	2020-11-12
+"Bolívar"	"Echeandía"	255	2020-11-12
+"Bolívar"	"Guaranda"	1183	2020-11-12
+"Bolívar"	"Las Naves"	144	2020-11-12
+"Bolívar"	"San Miguel"	146	2020-11-12
+"Bolívar"	"Caluma"	255	2020-11-13
+"Bolívar"	"Chillanes"	64	2020-11-13
+"Bolívar"	"Chimbo"	132	2020-11-13
+"Bolívar"	"Echeandía"	255	2020-11-13
+"Bolívar"	"Guaranda"	1192	2020-11-13
+"Bolívar"	"Las Naves"	144	2020-11-13
+"Bolívar"	"San Miguel"	147	2020-11-13
+"Bolívar"	"Caluma"	255	2020-11-14
+"Bolívar"	"Chillanes"	66	2020-11-14
+"Bolívar"	"Chimbo"	134	2020-11-14
+"Bolívar"	"Echeandía"	255	2020-11-14
+"Bolívar"	"Guaranda"	1195	2020-11-14
+"Bolívar"	"Las Naves"	144	2020-11-14
+"Bolívar"	"San Miguel"	147	2020-11-14
+"Bolívar"	"Caluma"	255	2020-11-15
+"Bolívar"	"Chillanes"	70	2020-11-15
+"Bolívar"	"Chimbo"	138	2020-11-15
+"Bolívar"	"Echeandía"	257	2020-11-15
+"Bolívar"	"Guaranda"	1205	2020-11-15
+"Bolívar"	"Las Naves"	144	2020-11-15
+"Bolívar"	"San Miguel"	147	2020-11-15
+"Bolívar"	"Caluma"	255	2020-11-16
+"Bolívar"	"Chillanes"	70	2020-11-16
+"Bolívar"	"Chimbo"	138	2020-11-16
+"Bolívar"	"Echeandía"	257	2020-11-16
+"Bolívar"	"Guaranda"	1238	2020-11-16
+"Bolívar"	"Las Naves"	144	2020-11-16
+"Bolívar"	"San Miguel"	147	2020-11-16
+"Bolívar"	"Caluma"	255	2020-11-17
+"Bolívar"	"Chillanes"	70	2020-11-17
+"Bolívar"	"Chimbo"	138	2020-11-17
+"Bolívar"	"Echeandía"	257	2020-11-17
+"Bolívar"	"Guaranda"	1241	2020-11-17
+"Bolívar"	"Las Naves"	144	2020-11-17
+"Bolívar"	"San Miguel"	147	2020-11-17
+"Bolívar"	"Caluma"	255	2020-11-18
+"Bolívar"	"Chillanes"	70	2020-11-18
+"Bolívar"	"Chimbo"	138	2020-11-18
+"Bolívar"	"Echeandía"	258	2020-11-18
+"Bolívar"	"Guaranda"	1247	2020-11-18
+"Bolívar"	"Las Naves"	144	2020-11-18
+"Bolívar"	"San Miguel"	148	2020-11-18
+"Bolívar"	"Caluma"	255	2020-11-19
+"Bolívar"	"Chillanes"	70	2020-11-19
+"Bolívar"	"Chimbo"	138	2020-11-19
+"Bolívar"	"Echeandía"	258	2020-11-19
+"Bolívar"	"Guaranda"	1250	2020-11-19
+"Bolívar"	"Las Naves"	145	2020-11-19
+"Bolívar"	"San Miguel"	148	2020-11-19
+"Bolívar"	"Caluma"	255	2020-11-20
+"Bolívar"	"Chillanes"	75	2020-11-20
+"Bolívar"	"Chimbo"	144	2020-11-20
+"Bolívar"	"Echeandía"	258	2020-11-20
+"Bolívar"	"Guaranda"	1254	2020-11-20
+"Bolívar"	"Las Naves"	145	2020-11-20
+"Bolívar"	"San Miguel"	149	2020-11-20
+"Bolívar"	"Caluma"	259	2020-11-21
+"Bolívar"	"Chillanes"	75	2020-11-21
+"Bolívar"	"Chimbo"	145	2020-11-21
+"Bolívar"	"Echeandía"	258	2020-11-21
+"Bolívar"	"Guaranda"	1259	2020-11-21
+"Bolívar"	"Las Naves"	145	2020-11-21
+"Bolívar"	"San Miguel"	149	2020-11-21
+"Bolívar"	"Caluma"	259	2020-11-22
+"Bolívar"	"Chillanes"	77	2020-11-22
+"Bolívar"	"Chimbo"	148	2020-11-22
+"Bolívar"	"Echeandía"	259	2020-11-22
+"Bolívar"	"Guaranda"	1271	2020-11-22
+"Bolívar"	"Las Naves"	149	2020-11-22
+"Bolívar"	"San Miguel"	152	2020-11-22
+"Bolívar"	"Caluma"	259	2020-11-23
+"Bolívar"	"Chillanes"	77	2020-11-23
+"Bolívar"	"Chimbo"	148	2020-11-23
+"Bolívar"	"Echeandía"	259	2020-11-23
+"Bolívar"	"Guaranda"	1271	2020-11-23
+"Bolívar"	"Las Naves"	149	2020-11-23
+"Bolívar"	"San Miguel"	152	2020-11-23
+"Bolívar"	"Caluma"	259	2020-11-24
+"Bolívar"	"Chillanes"	77	2020-11-24
+"Bolívar"	"Chimbo"	148	2020-11-24
+"Bolívar"	"Echeandía"	259	2020-11-24
+"Bolívar"	"Guaranda"	1272	2020-11-24
+"Bolívar"	"Las Naves"	149	2020-11-24
+"Bolívar"	"San Miguel"	152	2020-11-24
+"Bolívar"	"Caluma"	259	2020-11-25
+"Bolívar"	"Chillanes"	77	2020-11-25
+"Bolívar"	"Chimbo"	148	2020-11-25
+"Bolívar"	"Echeandía"	259	2020-11-25
+"Bolívar"	"Guaranda"	1280	2020-11-25
+"Bolívar"	"Las Naves"	149	2020-11-25
+"Bolívar"	"San Miguel"	153	2020-11-25
+"Bolívar"	"Caluma"	259	2020-11-26
+"Bolívar"	"Chillanes"	77	2020-11-26
+"Bolívar"	"Chimbo"	148	2020-11-26
+"Bolívar"	"Echeandía"	259	2020-11-26
+"Bolívar"	"Guaranda"	1290	2020-11-26
+"Bolívar"	"Las Naves"	149	2020-11-26
+"Bolívar"	"San Miguel"	155	2020-11-26
+"Bolívar"	"Caluma"	259	2020-11-27
+"Bolívar"	"Chillanes"	80	2020-11-27
+"Bolívar"	"Chimbo"	153	2020-11-27
+"Bolívar"	"Echeandía"	266	2020-11-27
+"Bolívar"	"Guaranda"	1296	2020-11-27
+"Bolívar"	"Las Naves"	151	2020-11-27
+"Bolívar"	"San Miguel"	157	2020-11-27
+"Bolívar"	"Caluma"	260	2020-11-28
+"Bolívar"	"Chillanes"	80	2020-11-28
+"Bolívar"	"Chimbo"	153	2020-11-28
+"Bolívar"	"Echeandía"	268	2020-11-28
+"Bolívar"	"Guaranda"	1298	2020-11-28
+"Bolívar"	"Las Naves"	151	2020-11-28
+"Bolívar"	"San Miguel"	157	2020-11-28
+"Bolívar"	"Caluma"	260	2020-11-29
+"Bolívar"	"Chillanes"	82	2020-11-29
+"Bolívar"	"Chimbo"	153	2020-11-29
+"Bolívar"	"Echeandía"	270	2020-11-29
+"Bolívar"	"Guaranda"	1305	2020-11-29
+"Bolívar"	"Las Naves"	152	2020-11-29
+"Bolívar"	"San Miguel"	158	2020-11-29
+"Bolívar"	"Caluma"	260	2020-11-30
+"Bolívar"	"Chillanes"	82	2020-11-30
+"Bolívar"	"Chimbo"	153	2020-11-30
+"Bolívar"	"Echeandía"	270	2020-11-30
+"Bolívar"	"Guaranda"	1306	2020-11-30
+"Bolívar"	"Las Naves"	152	2020-11-30
+"Bolívar"	"San Miguel"	159	2020-11-30
+"Bolívar"	"Caluma"	260	2020-12-01
+"Bolívar"	"Chillanes"	82	2020-12-01
+"Bolívar"	"Chimbo"	153	2020-12-01
+"Bolívar"	"Echeandía"	270	2020-12-01
+"Bolívar"	"Guaranda"	1311	2020-12-01
+"Bolívar"	"Las Naves"	152	2020-12-01
+"Bolívar"	"San Miguel"	159	2020-12-01
+"Bolívar"	"Caluma"	260	2020-12-02
+"Bolívar"	"Chillanes"	82	2020-12-02
+"Bolívar"	"Chimbo"	153	2020-12-02
+"Bolívar"	"Echeandía"	270	2020-12-02
+"Bolívar"	"Guaranda"	1311	2020-12-02
+"Bolívar"	"Las Naves"	152	2020-12-02
+"Bolívar"	"San Miguel"	159	2020-12-02
+"Bolívar"	"Caluma"	260	2020-12-03
+"Bolívar"	"Chillanes"	82	2020-12-03
+"Bolívar"	"Chimbo"	153	2020-12-03
+"Bolívar"	"Echeandía"	270	2020-12-03
+"Bolívar"	"Guaranda"	1323	2020-12-03
+"Bolívar"	"Las Naves"	152	2020-12-03
+"Bolívar"	"San Miguel"	160	2020-12-03
+"Bolívar"	"Caluma"	261	2020-12-04
+"Bolívar"	"Chillanes"	83	2020-12-04
+"Bolívar"	"Chimbo"	156	2020-12-04
+"Bolívar"	"Echeandía"	271	2020-12-04
+"Bolívar"	"Guaranda"	1326	2020-12-04
+"Bolívar"	"Las Naves"	152	2020-12-04
+"Bolívar"	"San Miguel"	161	2020-12-04
+"Bolívar"	"Caluma"	261	2020-12-05
+"Bolívar"	"Chillanes"	83	2020-12-05
+"Bolívar"	"Chimbo"	157	2020-12-05
+"Bolívar"	"Echeandía"	271	2020-12-05
+"Bolívar"	"Guaranda"	1330	2020-12-05
+"Bolívar"	"Las Naves"	152	2020-12-05
+"Bolívar"	"San Miguel"	162	2020-12-05
+"Bolívar"	"Caluma"	261	2020-12-06
+"Bolívar"	"Chillanes"	83	2020-12-06
+"Bolívar"	"Chimbo"	158	2020-12-06
+"Bolívar"	"Echeandía"	271	2020-12-06
+"Bolívar"	"Guaranda"	1340	2020-12-06
+"Bolívar"	"Las Naves"	152	2020-12-06
+"Bolívar"	"San Miguel"	162	2020-12-06
+"Bolívar"	"Caluma"	261	2020-12-07
+"Bolívar"	"Chillanes"	83	2020-12-07
+"Bolívar"	"Chimbo"	158	2020-12-07
+"Bolívar"	"Echeandía"	271	2020-12-07
+"Bolívar"	"Guaranda"	1340	2020-12-07
+"Bolívar"	"Las Naves"	153	2020-12-07
+"Bolívar"	"San Miguel"	162	2020-12-07
+"Bolívar"	"Caluma"	261	2020-12-08
+"Bolívar"	"Chillanes"	83	2020-12-08
+"Bolívar"	"Chimbo"	158	2020-12-08
+"Bolívar"	"Echeandía"	271	2020-12-08
+"Bolívar"	"Guaranda"	1341	2020-12-08
+"Bolívar"	"Las Naves"	153	2020-12-08
+"Bolívar"	"San Miguel"	162	2020-12-08
+"Bolívar"	"Caluma"	261	2020-12-09
+"Bolívar"	"Chillanes"	83	2020-12-09
+"Bolívar"	"Chimbo"	158	2020-12-09
+"Bolívar"	"Echeandía"	272	2020-12-09
+"Bolívar"	"Guaranda"	1343	2020-12-09
+"Bolívar"	"Las Naves"	153	2020-12-09
+"Bolívar"	"San Miguel"	162	2020-12-09
+"Bolívar"	"Caluma"	262	2020-12-10
+"Bolívar"	"Chillanes"	83	2020-12-10
+"Bolívar"	"Chimbo"	159	2020-12-10
+"Bolívar"	"Echeandía"	273	2020-12-10
+"Bolívar"	"Guaranda"	1355	2020-12-10
+"Bolívar"	"Las Naves"	154	2020-12-10
+"Bolívar"	"San Miguel"	164	2020-12-10
+"Bolívar"	"Caluma"	265	2020-12-11
+"Bolívar"	"Chillanes"	83	2020-12-11
+"Bolívar"	"Chimbo"	159	2020-12-11
+"Bolívar"	"Echeandía"	274	2020-12-11
+"Bolívar"	"Guaranda"	1356	2020-12-11
+"Bolívar"	"Las Naves"	156	2020-12-11
+"Bolívar"	"San Miguel"	164	2020-12-11
+"Bolívar"	"Caluma"	265	2020-12-12
+"Bolívar"	"Chillanes"	83	2020-12-12
+"Bolívar"	"Chimbo"	159	2020-12-12
+"Bolívar"	"Echeandía"	274	2020-12-12
+"Bolívar"	"Guaranda"	1357	2020-12-12
+"Bolívar"	"Las Naves"	156	2020-12-12
+"Bolívar"	"San Miguel"	164	2020-12-12
+"Bolívar"	"Caluma"	265	2020-12-13
+"Bolívar"	"Chillanes"	83	2020-12-13
+"Bolívar"	"Chimbo"	159	2020-12-13
+"Bolívar"	"Echeandía"	274	2020-12-13
+"Bolívar"	"Guaranda"	1360	2020-12-13
+"Bolívar"	"Las Naves"	156	2020-12-13
+"Bolívar"	"San Miguel"	166	2020-12-13
+"Bolívar"	"Caluma"	265	2020-12-14
+"Bolívar"	"Chillanes"	83	2020-12-14
+"Bolívar"	"Chimbo"	159	2020-12-14
+"Bolívar"	"Echeandía"	274	2020-12-14
+"Bolívar"	"Guaranda"	1360	2020-12-14
+"Bolívar"	"Las Naves"	156	2020-12-14
+"Bolívar"	"San Miguel"	166	2020-12-14
+"Bolívar"	"Caluma"	265	2020-12-15
+"Bolívar"	"Chillanes"	83	2020-12-15
+"Bolívar"	"Chimbo"	159	2020-12-15
+"Bolívar"	"Echeandía"	274	2020-12-15
+"Bolívar"	"Guaranda"	1360	2020-12-15
+"Bolívar"	"Las Naves"	156	2020-12-15
+"Bolívar"	"San Miguel"	166	2020-12-15
+"Bolívar"	"Caluma"	265	2020-12-16
+"Bolívar"	"Chillanes"	84	2020-12-16
+"Bolívar"	"Chimbo"	160	2020-12-16
+"Bolívar"	"Echeandía"	274	2020-12-16
+"Bolívar"	"Guaranda"	1368	2020-12-16
+"Bolívar"	"Las Naves"	156	2020-12-16
+"Bolívar"	"San Miguel"	166	2020-12-16
+"Bolívar"	"Caluma"	265	2020-12-17
+"Bolívar"	"Chillanes"	84	2020-12-17
+"Bolívar"	"Chimbo"	160	2020-12-17
+"Bolívar"	"Echeandía"	274	2020-12-17
+"Bolívar"	"Guaranda"	1368	2020-12-17
+"Bolívar"	"Las Naves"	156	2020-12-17
+"Bolívar"	"San Miguel"	167	2020-12-17
+"Bolívar"	"Caluma"	265	2020-12-18
+"Bolívar"	"Chillanes"	85	2020-12-18
+"Bolívar"	"Chimbo"	160	2020-12-18
+"Bolívar"	"Echeandía"	274	2020-12-18
+"Bolívar"	"Guaranda"	1375	2020-12-18
+"Bolívar"	"Las Naves"	156	2020-12-18
+"Bolívar"	"San Miguel"	167	2020-12-18
+"Bolívar"	"Caluma"	265	2020-12-19
+"Bolívar"	"Chillanes"	86	2020-12-19
+"Bolívar"	"Chimbo"	160	2020-12-19
+"Bolívar"	"Echeandía"	275	2020-12-19
+"Bolívar"	"Guaranda"	1378	2020-12-19
+"Bolívar"	"Las Naves"	157	2020-12-19
+"Bolívar"	"San Miguel"	167	2020-12-19
+"Bolívar"	"Caluma"	265	2020-12-20
+"Bolívar"	"Chillanes"	86	2020-12-20
+"Bolívar"	"Chimbo"	160	2020-12-20
+"Bolívar"	"Echeandía"	275	2020-12-20
+"Bolívar"	"Guaranda"	1380	2020-12-20
+"Bolívar"	"Las Naves"	158	2020-12-20
+"Bolívar"	"San Miguel"	167	2020-12-20
+"Bolívar"	"Caluma"	265	2020-12-21
+"Bolívar"	"Chillanes"	86	2020-12-21
+"Bolívar"	"Chimbo"	160	2020-12-21
+"Bolívar"	"Echeandía"	275	2020-12-21
+"Bolívar"	"Guaranda"	1380	2020-12-21
+"Bolívar"	"Las Naves"	158	2020-12-21
+"Bolívar"	"San Miguel"	167	2020-12-21
+"Bolívar"	"Caluma"	265	2020-12-22
+"Bolívar"	"Chillanes"	86	2020-12-22
+"Bolívar"	"Chimbo"	160	2020-12-22
+"Bolívar"	"Echeandía"	275	2020-12-22
+"Bolívar"	"Guaranda"	1380	2020-12-22
+"Bolívar"	"Las Naves"	158	2020-12-22
+"Bolívar"	"San Miguel"	167	2020-12-22
+"Bolívar"	"Caluma"	265	2020-12-23
+"Bolívar"	"Chillanes"	86	2020-12-23
+"Bolívar"	"Chimbo"	160	2020-12-23
+"Bolívar"	"Echeandía"	275	2020-12-23
+"Bolívar"	"Guaranda"	1385	2020-12-23
+"Bolívar"	"Las Naves"	158	2020-12-23
+"Bolívar"	"San Miguel"	167	2020-12-23
+"Bolívar"	"Caluma"	265	2020-12-24
+"Bolívar"	"Chillanes"	87	2020-12-24
+"Bolívar"	"Chimbo"	161	2020-12-24
+"Bolívar"	"Echeandía"	275	2020-12-24
+"Bolívar"	"Guaranda"	1393	2020-12-24
+"Bolívar"	"Las Naves"	158	2020-12-24
+"Bolívar"	"San Miguel"	167	2020-12-24
+"Bolívar"	"Caluma"	267	2020-12-25
+"Bolívar"	"Chillanes"	88	2020-12-25
+"Bolívar"	"Chimbo"	162	2020-12-25
+"Bolívar"	"Echeandía"	275	2020-12-25
+"Bolívar"	"Guaranda"	1396	2020-12-25
+"Bolívar"	"Las Naves"	158	2020-12-25
+"Bolívar"	"San Miguel"	168	2020-12-25
+"Bolívar"	"Caluma"	267	2020-12-26
+"Bolívar"	"Chillanes"	88	2020-12-26
+"Bolívar"	"Chimbo"	163	2020-12-26
+"Bolívar"	"Echeandía"	275	2020-12-26
+"Bolívar"	"Guaranda"	1397	2020-12-26
+"Bolívar"	"Las Naves"	158	2020-12-26
+"Bolívar"	"San Miguel"	168	2020-12-26
+"Bolívar"	"Caluma"	267	2020-12-27
+"Bolívar"	"Chillanes"	88	2020-12-27
+"Bolívar"	"Chimbo"	163	2020-12-27
+"Bolívar"	"Echeandía"	275	2020-12-27
+"Bolívar"	"Guaranda"	1397	2020-12-27
+"Bolívar"	"Las Naves"	158	2020-12-27
+"Bolívar"	"San Miguel"	168	2020-12-27
+"Bolívar"	"Caluma"	267	2020-12-28
+"Bolívar"	"Chillanes"	89	2020-12-28
+"Bolívar"	"Chimbo"	163	2020-12-28
+"Bolívar"	"Echeandía"	275	2020-12-28
+"Bolívar"	"Guaranda"	1402	2020-12-28
+"Bolívar"	"Las Naves"	158	2020-12-28
+"Bolívar"	"San Miguel"	168	2020-12-28
+"Bolívar"	"Caluma"	267	2020-12-29
+"Bolívar"	"Chillanes"	89	2020-12-29
+"Bolívar"	"Chimbo"	163	2020-12-29
+"Bolívar"	"Echeandía"	275	2020-12-29
+"Bolívar"	"Guaranda"	1402	2020-12-29
+"Bolívar"	"Las Naves"	158	2020-12-29
+"Bolívar"	"San Miguel"	168	2020-12-29
+"Bolívar"	"Caluma"	267	2020-12-30
+"Bolívar"	"Chillanes"	89	2020-12-30
+"Bolívar"	"Chimbo"	163	2020-12-30
+"Bolívar"	"Echeandía"	276	2020-12-30
+"Bolívar"	"Guaranda"	1404	2020-12-30
+"Bolívar"	"Las Naves"	158	2020-12-30
+"Bolívar"	"San Miguel"	168	2020-12-30
+"Bolívar"	"Caluma"	267	2020-12-31
+"Bolívar"	"Chillanes"	90	2020-12-31
+"Bolívar"	"Chimbo"	163	2020-12-31
+"Bolívar"	"Echeandía"	276	2020-12-31
+"Bolívar"	"Guaranda"	1405	2020-12-31
+"Bolívar"	"Las Naves"	158	2020-12-31
+"Bolívar"	"San Miguel"	168	2020-12-31
 "Bolívar"	"Caluma"	267	2021-01-01
 "Bolívar"	"Chillanes"	90	2021-01-01
 "Bolívar"	"Chimbo"	164	2021-01-01
@@ -3317,3 +5375,59 @@
 "Bolívar"	"Guaranda"	4340	2022-04-19
 "Bolívar"	"Las Naves"	518	2022-04-19
 "Bolívar"	"San Miguel"	2154	2022-04-19
+"Bolívar"	"Caluma"	1546	2022-04-20
+"Bolívar"	"Chillanes"	931	2022-04-20
+"Bolívar"	"Chimbo"	915	2022-04-20
+"Bolívar"	"Echeandía"	1267	2022-04-20
+"Bolívar"	"Guaranda"	4340	2022-04-20
+"Bolívar"	"Las Naves"	518	2022-04-20
+"Bolívar"	"San Miguel"	2154	2022-04-20
+"Bolívar"	"Caluma"	1546	2022-04-21
+"Bolívar"	"Chillanes"	931	2022-04-21
+"Bolívar"	"Chimbo"	915	2022-04-21
+"Bolívar"	"Echeandía"	1267	2022-04-21
+"Bolívar"	"Guaranda"	4343	2022-04-21
+"Bolívar"	"Las Naves"	518	2022-04-21
+"Bolívar"	"San Miguel"	2154	2022-04-21
+"Bolívar"	"Caluma"	1546	2022-04-22
+"Bolívar"	"Chillanes"	931	2022-04-22
+"Bolívar"	"Chimbo"	915	2022-04-22
+"Bolívar"	"Echeandía"	1267	2022-04-22
+"Bolívar"	"Guaranda"	4343	2022-04-22
+"Bolívar"	"Las Naves"	518	2022-04-22
+"Bolívar"	"San Miguel"	2155	2022-04-22
+"Bolívar"	"Caluma"	1546	2022-04-23
+"Bolívar"	"Chillanes"	931	2022-04-23
+"Bolívar"	"Chimbo"	915	2022-04-23
+"Bolívar"	"Echeandía"	1267	2022-04-23
+"Bolívar"	"Guaranda"	4343	2022-04-23
+"Bolívar"	"Las Naves"	518	2022-04-23
+"Bolívar"	"San Miguel"	2155	2022-04-23
+"Bolívar"	"Caluma"	1546	2022-04-24
+"Bolívar"	"Chillanes"	931	2022-04-24
+"Bolívar"	"Chimbo"	915	2022-04-24
+"Bolívar"	"Echeandía"	1267	2022-04-24
+"Bolívar"	"Guaranda"	4343	2022-04-24
+"Bolívar"	"Las Naves"	518	2022-04-24
+"Bolívar"	"San Miguel"	2155	2022-04-24
+"Bolívar"	"Caluma"	1546	2022-04-25
+"Bolívar"	"Chillanes"	931	2022-04-25
+"Bolívar"	"Chimbo"	915	2022-04-25
+"Bolívar"	"Echeandía"	1267	2022-04-25
+"Bolívar"	"Guaranda"	4343	2022-04-25
+"Bolívar"	"Las Naves"	518	2022-04-25
+"Bolívar"	"San Miguel"	2155	2022-04-25
+"Bolívar"	"Caluma"	1546	2022-04-26
+"Bolívar"	"Chillanes"	931	2022-04-26
+"Bolívar"	"Chimbo"	915	2022-04-26
+"Bolívar"	"Echeandía"	1267	2022-04-26
+"Bolívar"	"Guaranda"	4343	2022-04-26
+"Bolívar"	"Las Naves"	518	2022-04-26
+"Bolívar"	"San Miguel"	2155	2022-04-26
+"Bolívar"	"Caluma"	1546	2022-04-27
+"Bolívar"	"Chillanes"	931	2022-04-27
+"Bolívar"	"Chimbo"	915	2022-04-27
+"Bolívar"	"Echeandía"	1267	2022-04-27
+"Bolívar"	"Guaranda"	4343	2022-04-27
+"Bolívar"	"Las Naves"	518	2022-04-27
+"Bolívar"	"San Miguel"	2155	2022-04-27

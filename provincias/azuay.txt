@@ -1,4 +1,4414 @@
 "provincia"	"canton"	"total"	"created_at"
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-13
+"Azuay"	"Chordeleg"	0	2020-03-13
+"Azuay"	"Cuenca"	0	2020-03-13
+"Azuay"	"El Pan"	0	2020-03-13
+"Azuay"	"Girón"	0	2020-03-13
+"Azuay"	"Guachapala"	0	2020-03-13
+"Azuay"	"Gualaceo"	0	2020-03-13
+"Azuay"	"Nabón"	0	2020-03-13
+"Azuay"	"Oña"	0	2020-03-13
+"Azuay"	"Paute"	0	2020-03-13
+"Azuay"	"Pucará"	0	2020-03-13
+"Azuay"	"San Fernando"	0	2020-03-13
+"Azuay"	"Santa Isabel"	0	2020-03-13
+"Azuay"	"Sevilla de Oro"	0	2020-03-13
+"Azuay"	"Sígsig"	0	2020-03-13
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-14
+"Azuay"	"Chordeleg"	0	2020-03-14
+"Azuay"	"Cuenca"	1	2020-03-14
+"Azuay"	"El Pan"	0	2020-03-14
+"Azuay"	"Girón"	0	2020-03-14
+"Azuay"	"Guachapala"	0	2020-03-14
+"Azuay"	"Gualaceo"	0	2020-03-14
+"Azuay"	"Nabón"	0	2020-03-14
+"Azuay"	"Oña"	0	2020-03-14
+"Azuay"	"Paute"	0	2020-03-14
+"Azuay"	"Pucará"	0	2020-03-14
+"Azuay"	"San Fernando"	0	2020-03-14
+"Azuay"	"Santa Isabel"	0	2020-03-14
+"Azuay"	"Sevilla de Oro"	0	2020-03-14
+"Azuay"	"Sígsig"	0	2020-03-14
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-15
+"Azuay"	"Chordeleg"	0	2020-03-15
+"Azuay"	"Cuenca"	1	2020-03-15
+"Azuay"	"El Pan"	0	2020-03-15
+"Azuay"	"Girón"	0	2020-03-15
+"Azuay"	"Guachapala"	0	2020-03-15
+"Azuay"	"Gualaceo"	0	2020-03-15
+"Azuay"	"Nabón"	0	2020-03-15
+"Azuay"	"Oña"	0	2020-03-15
+"Azuay"	"Paute"	0	2020-03-15
+"Azuay"	"Pucará"	0	2020-03-15
+"Azuay"	"San Fernando"	0	2020-03-15
+"Azuay"	"Santa Isabel"	0	2020-03-15
+"Azuay"	"Sevilla de Oro"	0	2020-03-15
+"Azuay"	"Sígsig"	0	2020-03-15
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-16
+"Azuay"	"Chordeleg"	0	2020-03-16
+"Azuay"	"Cuenca"	1	2020-03-16
+"Azuay"	"El Pan"	0	2020-03-16
+"Azuay"	"Girón"	0	2020-03-16
+"Azuay"	"Guachapala"	0	2020-03-16
+"Azuay"	"Gualaceo"	0	2020-03-16
+"Azuay"	"Nabón"	0	2020-03-16
+"Azuay"	"Oña"	0	2020-03-16
+"Azuay"	"Paute"	0	2020-03-16
+"Azuay"	"Pucará"	0	2020-03-16
+"Azuay"	"San Fernando"	0	2020-03-16
+"Azuay"	"Santa Isabel"	0	2020-03-16
+"Azuay"	"Sevilla de Oro"	0	2020-03-16
+"Azuay"	"Sígsig"	0	2020-03-16
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-17
+"Azuay"	"Chordeleg"	0	2020-03-17
+"Azuay"	"Cuenca"	5	2020-03-17
+"Azuay"	"El Pan"	0	2020-03-17
+"Azuay"	"Girón"	0	2020-03-17
+"Azuay"	"Guachapala"	0	2020-03-17
+"Azuay"	"Gualaceo"	0	2020-03-17
+"Azuay"	"Nabón"	0	2020-03-17
+"Azuay"	"Oña"	0	2020-03-17
+"Azuay"	"Paute"	0	2020-03-17
+"Azuay"	"Pucará"	0	2020-03-17
+"Azuay"	"San Fernando"	0	2020-03-17
+"Azuay"	"Santa Isabel"	0	2020-03-17
+"Azuay"	"Sevilla de Oro"	0	2020-03-17
+"Azuay"	"Sígsig"	0	2020-03-17
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-18
+"Azuay"	"Chordeleg"	0	2020-03-18
+"Azuay"	"Cuenca"	5	2020-03-18
+"Azuay"	"El Pan"	0	2020-03-18
+"Azuay"	"Girón"	0	2020-03-18
+"Azuay"	"Guachapala"	0	2020-03-18
+"Azuay"	"Gualaceo"	0	2020-03-18
+"Azuay"	"Nabón"	0	2020-03-18
+"Azuay"	"Oña"	0	2020-03-18
+"Azuay"	"Paute"	0	2020-03-18
+"Azuay"	"Pucará"	0	2020-03-18
+"Azuay"	"San Fernando"	0	2020-03-18
+"Azuay"	"Santa Isabel"	0	2020-03-18
+"Azuay"	"Sevilla de Oro"	0	2020-03-18
+"Azuay"	"Sígsig"	0	2020-03-18
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-19
+"Azuay"	"Chordeleg"	0	2020-03-19
+"Azuay"	"Cuenca"	14	2020-03-19
+"Azuay"	"El Pan"	0	2020-03-19
+"Azuay"	"Girón"	0	2020-03-19
+"Azuay"	"Guachapala"	0	2020-03-19
+"Azuay"	"Gualaceo"	0	2020-03-19
+"Azuay"	"Nabón"	0	2020-03-19
+"Azuay"	"Oña"	0	2020-03-19
+"Azuay"	"Paute"	0	2020-03-19
+"Azuay"	"Pucará"	0	2020-03-19
+"Azuay"	"San Fernando"	0	2020-03-19
+"Azuay"	"Santa Isabel"	0	2020-03-19
+"Azuay"	"Sevilla de Oro"	0	2020-03-19
+"Azuay"	"Sígsig"	0	2020-03-19
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-20
+"Azuay"	"Chordeleg"	0	2020-03-20
+"Azuay"	"Cuenca"	18	2020-03-20
+"Azuay"	"El Pan"	0	2020-03-20
+"Azuay"	"Girón"	0	2020-03-20
+"Azuay"	"Guachapala"	0	2020-03-20
+"Azuay"	"Gualaceo"	0	2020-03-20
+"Azuay"	"Nabón"	0	2020-03-20
+"Azuay"	"Oña"	0	2020-03-20
+"Azuay"	"Paute"	0	2020-03-20
+"Azuay"	"Pucará"	0	2020-03-20
+"Azuay"	"San Fernando"	0	2020-03-20
+"Azuay"	"Santa Isabel"	0	2020-03-20
+"Azuay"	"Sevilla de Oro"	0	2020-03-20
+"Azuay"	"Sígsig"	0	2020-03-20
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-21
+"Azuay"	"Chordeleg"	0	2020-03-21
+"Azuay"	"Cuenca"	18	2020-03-21
+"Azuay"	"El Pan"	0	2020-03-21
+"Azuay"	"Girón"	0	2020-03-21
+"Azuay"	"Guachapala"	0	2020-03-21
+"Azuay"	"Gualaceo"	0	2020-03-21
+"Azuay"	"Nabón"	0	2020-03-21
+"Azuay"	"Oña"	0	2020-03-21
+"Azuay"	"Paute"	0	2020-03-21
+"Azuay"	"Pucará"	0	2020-03-21
+"Azuay"	"San Fernando"	0	2020-03-21
+"Azuay"	"Santa Isabel"	1	2020-03-21
+"Azuay"	"Sevilla de Oro"	0	2020-03-21
+"Azuay"	"Sígsig"	0	2020-03-21
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-22
+"Azuay"	"Chordeleg"	0	2020-03-22
+"Azuay"	"Cuenca"	18	2020-03-22
+"Azuay"	"El Pan"	0	2020-03-22
+"Azuay"	"Girón"	0	2020-03-22
+"Azuay"	"Guachapala"	0	2020-03-22
+"Azuay"	"Gualaceo"	0	2020-03-22
+"Azuay"	"Nabón"	0	2020-03-22
+"Azuay"	"Oña"	0	2020-03-22
+"Azuay"	"Paute"	0	2020-03-22
+"Azuay"	"Pucará"	0	2020-03-22
+"Azuay"	"San Fernando"	0	2020-03-22
+"Azuay"	"Santa Isabel"	1	2020-03-22
+"Azuay"	"Sevilla de Oro"	0	2020-03-22
+"Azuay"	"Sígsig"	0	2020-03-22
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-23
+"Azuay"	"Chordeleg"	0	2020-03-23
+"Azuay"	"Cuenca"	22	2020-03-23
+"Azuay"	"El Pan"	0	2020-03-23
+"Azuay"	"Girón"	0	2020-03-23
+"Azuay"	"Guachapala"	0	2020-03-23
+"Azuay"	"Gualaceo"	0	2020-03-23
+"Azuay"	"Nabón"	0	2020-03-23
+"Azuay"	"Oña"	0	2020-03-23
+"Azuay"	"Paute"	0	2020-03-23
+"Azuay"	"Pucará"	0	2020-03-23
+"Azuay"	"San Fernando"	0	2020-03-23
+"Azuay"	"Santa Isabel"	1	2020-03-23
+"Azuay"	"Sevilla de Oro"	0	2020-03-23
+"Azuay"	"Sígsig"	0	2020-03-23
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-24
+"Azuay"	"Chordeleg"	0	2020-03-24
+"Azuay"	"Cuenca"	26	2020-03-24
+"Azuay"	"El Pan"	0	2020-03-24
+"Azuay"	"Girón"	0	2020-03-24
+"Azuay"	"Guachapala"	0	2020-03-24
+"Azuay"	"Gualaceo"	0	2020-03-24
+"Azuay"	"Nabón"	0	2020-03-24
+"Azuay"	"Oña"	0	2020-03-24
+"Azuay"	"Paute"	0	2020-03-24
+"Azuay"	"Pucará"	0	2020-03-24
+"Azuay"	"San Fernando"	0	2020-03-24
+"Azuay"	"Santa Isabel"	2	2020-03-24
+"Azuay"	"Sevilla de Oro"	0	2020-03-24
+"Azuay"	"Sígsig"	0	2020-03-24
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-25
+"Azuay"	"Chordeleg"	0	2020-03-25
+"Azuay"	"Cuenca"	29	2020-03-25
+"Azuay"	"El Pan"	0	2020-03-25
+"Azuay"	"Girón"	0	2020-03-25
+"Azuay"	"Guachapala"	0	2020-03-25
+"Azuay"	"Gualaceo"	0	2020-03-25
+"Azuay"	"Nabón"	0	2020-03-25
+"Azuay"	"Oña"	0	2020-03-25
+"Azuay"	"Paute"	0	2020-03-25
+"Azuay"	"Pucará"	0	2020-03-25
+"Azuay"	"San Fernando"	0	2020-03-25
+"Azuay"	"Santa Isabel"	2	2020-03-25
+"Azuay"	"Sevilla de Oro"	0	2020-03-25
+"Azuay"	"Sígsig"	0	2020-03-25
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-26
+"Azuay"	"Chordeleg"	0	2020-03-26
+"Azuay"	"Cuenca"	32	2020-03-26
+"Azuay"	"El Pan"	0	2020-03-26
+"Azuay"	"Girón"	0	2020-03-26
+"Azuay"	"Guachapala"	0	2020-03-26
+"Azuay"	"Gualaceo"	2	2020-03-26
+"Azuay"	"Nabón"	0	2020-03-26
+"Azuay"	"Oña"	0	2020-03-26
+"Azuay"	"Paute"	0	2020-03-26
+"Azuay"	"Pucará"	0	2020-03-26
+"Azuay"	"San Fernando"	0	2020-03-26
+"Azuay"	"Santa Isabel"	3	2020-03-26
+"Azuay"	"Sevilla de Oro"	0	2020-03-26
+"Azuay"	"Sígsig"	0	2020-03-26
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-27
+"Azuay"	"Chordeleg"	0	2020-03-27
+"Azuay"	"Cuenca"	37	2020-03-27
+"Azuay"	"El Pan"	0	2020-03-27
+"Azuay"	"Girón"	0	2020-03-27
+"Azuay"	"Guachapala"	0	2020-03-27
+"Azuay"	"Gualaceo"	2	2020-03-27
+"Azuay"	"Nabón"	0	2020-03-27
+"Azuay"	"Oña"	0	2020-03-27
+"Azuay"	"Paute"	0	2020-03-27
+"Azuay"	"Pucará"	0	2020-03-27
+"Azuay"	"San Fernando"	0	2020-03-27
+"Azuay"	"Santa Isabel"	3	2020-03-27
+"Azuay"	"Sevilla de Oro"	0	2020-03-27
+"Azuay"	"Sígsig"	0	2020-03-27
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-28
+"Azuay"	"Chordeleg"	0	2020-03-28
+"Azuay"	"Cuenca"	37	2020-03-28
+"Azuay"	"El Pan"	0	2020-03-28
+"Azuay"	"Girón"	0	2020-03-28
+"Azuay"	"Guachapala"	0	2020-03-28
+"Azuay"	"Gualaceo"	2	2020-03-28
+"Azuay"	"Nabón"	0	2020-03-28
+"Azuay"	"Oña"	0	2020-03-28
+"Azuay"	"Paute"	0	2020-03-28
+"Azuay"	"Pucará"	0	2020-03-28
+"Azuay"	"San Fernando"	0	2020-03-28
+"Azuay"	"Santa Isabel"	3	2020-03-28
+"Azuay"	"Sevilla de Oro"	0	2020-03-28
+"Azuay"	"Sígsig"	0	2020-03-28
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-29
+"Azuay"	"Chordeleg"	0	2020-03-29
+"Azuay"	"Cuenca"	46	2020-03-29
+"Azuay"	"El Pan"	0	2020-03-29
+"Azuay"	"Girón"	0	2020-03-29
+"Azuay"	"Guachapala"	0	2020-03-29
+"Azuay"	"Gualaceo"	2	2020-03-29
+"Azuay"	"Nabón"	0	2020-03-29
+"Azuay"	"Oña"	0	2020-03-29
+"Azuay"	"Paute"	2	2020-03-29
+"Azuay"	"Pucará"	0	2020-03-29
+"Azuay"	"San Fernando"	0	2020-03-29
+"Azuay"	"Santa Isabel"	3	2020-03-29
+"Azuay"	"Sevilla de Oro"	0	2020-03-29
+"Azuay"	"Sígsig"	0	2020-03-29
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-30
+"Azuay"	"Chordeleg"	0	2020-03-30
+"Azuay"	"Cuenca"	47	2020-03-30
+"Azuay"	"El Pan"	0	2020-03-30
+"Azuay"	"Girón"	0	2020-03-30
+"Azuay"	"Guachapala"	0	2020-03-30
+"Azuay"	"Gualaceo"	3	2020-03-30
+"Azuay"	"Nabón"	0	2020-03-30
+"Azuay"	"Oña"	0	2020-03-30
+"Azuay"	"Paute"	3	2020-03-30
+"Azuay"	"Pucará"	0	2020-03-30
+"Azuay"	"San Fernando"	0	2020-03-30
+"Azuay"	"Santa Isabel"	3	2020-03-30
+"Azuay"	"Sevilla de Oro"	0	2020-03-30
+"Azuay"	"Sígsig"	1	2020-03-30
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-03-31
+"Azuay"	"Chordeleg"	0	2020-03-31
+"Azuay"	"Cuenca"	68	2020-03-31
+"Azuay"	"El Pan"	0	2020-03-31
+"Azuay"	"Girón"	0	2020-03-31
+"Azuay"	"Guachapala"	0	2020-03-31
+"Azuay"	"Gualaceo"	3	2020-03-31
+"Azuay"	"Nabón"	0	2020-03-31
+"Azuay"	"Oña"	0	2020-03-31
+"Azuay"	"Paute"	3	2020-03-31
+"Azuay"	"Pucará"	0	2020-03-31
+"Azuay"	"San Fernando"	0	2020-03-31
+"Azuay"	"Santa Isabel"	3	2020-03-31
+"Azuay"	"Sevilla de Oro"	0	2020-03-31
+"Azuay"	"Sígsig"	1	2020-03-31
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-01
+"Azuay"	"Chordeleg"	0	2020-04-01
+"Azuay"	"Cuenca"	83	2020-04-01
+"Azuay"	"El Pan"	0	2020-04-01
+"Azuay"	"Girón"	0	2020-04-01
+"Azuay"	"Guachapala"	0	2020-04-01
+"Azuay"	"Gualaceo"	3	2020-04-01
+"Azuay"	"Nabón"	0	2020-04-01
+"Azuay"	"Oña"	0	2020-04-01
+"Azuay"	"Paute"	3	2020-04-01
+"Azuay"	"Pucará"	0	2020-04-01
+"Azuay"	"San Fernando"	0	2020-04-01
+"Azuay"	"Santa Isabel"	3	2020-04-01
+"Azuay"	"Sevilla de Oro"	1	2020-04-01
+"Azuay"	"Sígsig"	1	2020-04-01
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-02
+"Azuay"	"Chordeleg"	0	2020-04-02
+"Azuay"	"Cuenca"	88	2020-04-02
+"Azuay"	"El Pan"	0	2020-04-02
+"Azuay"	"Girón"	0	2020-04-02
+"Azuay"	"Guachapala"	0	2020-04-02
+"Azuay"	"Gualaceo"	3	2020-04-02
+"Azuay"	"Nabón"	0	2020-04-02
+"Azuay"	"Oña"	0	2020-04-02
+"Azuay"	"Paute"	3	2020-04-02
+"Azuay"	"Pucará"	0	2020-04-02
+"Azuay"	"San Fernando"	0	2020-04-02
+"Azuay"	"Santa Isabel"	3	2020-04-02
+"Azuay"	"Sevilla de Oro"	1	2020-04-02
+"Azuay"	"Sígsig"	1	2020-04-02
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-03
+"Azuay"	"Chordeleg"	0	2020-04-03
+"Azuay"	"Cuenca"	88	2020-04-03
+"Azuay"	"El Pan"	0	2020-04-03
+"Azuay"	"Girón"	0	2020-04-03
+"Azuay"	"Guachapala"	0	2020-04-03
+"Azuay"	"Gualaceo"	3	2020-04-03
+"Azuay"	"Nabón"	0	2020-04-03
+"Azuay"	"Oña"	0	2020-04-03
+"Azuay"	"Paute"	3	2020-04-03
+"Azuay"	"Pucará"	0	2020-04-03
+"Azuay"	"San Fernando"	0	2020-04-03
+"Azuay"	"Santa Isabel"	3	2020-04-03
+"Azuay"	"Sevilla de Oro"	1	2020-04-03
+"Azuay"	"Sígsig"	1	2020-04-03
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-04
+"Azuay"	"Chordeleg"	0	2020-04-04
+"Azuay"	"Cuenca"	88	2020-04-04
+"Azuay"	"El Pan"	0	2020-04-04
+"Azuay"	"Girón"	0	2020-04-04
+"Azuay"	"Guachapala"	0	2020-04-04
+"Azuay"	"Gualaceo"	3	2020-04-04
+"Azuay"	"Nabón"	0	2020-04-04
+"Azuay"	"Oña"	0	2020-04-04
+"Azuay"	"Paute"	3	2020-04-04
+"Azuay"	"Pucará"	0	2020-04-04
+"Azuay"	"San Fernando"	0	2020-04-04
+"Azuay"	"Santa Isabel"	3	2020-04-04
+"Azuay"	"Sevilla de Oro"	1	2020-04-04
+"Azuay"	"Sígsig"	1	2020-04-04
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-05
+"Azuay"	"Chordeleg"	0	2020-04-05
+"Azuay"	"Cuenca"	88	2020-04-05
+"Azuay"	"El Pan"	0	2020-04-05
+"Azuay"	"Girón"	0	2020-04-05
+"Azuay"	"Guachapala"	0	2020-04-05
+"Azuay"	"Gualaceo"	3	2020-04-05
+"Azuay"	"Nabón"	0	2020-04-05
+"Azuay"	"Oña"	0	2020-04-05
+"Azuay"	"Paute"	3	2020-04-05
+"Azuay"	"Pucará"	0	2020-04-05
+"Azuay"	"San Fernando"	0	2020-04-05
+"Azuay"	"Santa Isabel"	3	2020-04-05
+"Azuay"	"Sevilla de Oro"	1	2020-04-05
+"Azuay"	"Sígsig"	1	2020-04-05
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-06
+"Azuay"	"Chordeleg"	0	2020-04-06
+"Azuay"	"Cuenca"	88	2020-04-06
+"Azuay"	"El Pan"	0	2020-04-06
+"Azuay"	"Girón"	0	2020-04-06
+"Azuay"	"Guachapala"	0	2020-04-06
+"Azuay"	"Gualaceo"	3	2020-04-06
+"Azuay"	"Nabón"	1	2020-04-06
+"Azuay"	"Oña"	0	2020-04-06
+"Azuay"	"Paute"	3	2020-04-06
+"Azuay"	"Pucará"	0	2020-04-06
+"Azuay"	"San Fernando"	0	2020-04-06
+"Azuay"	"Santa Isabel"	3	2020-04-06
+"Azuay"	"Sevilla de Oro"	1	2020-04-06
+"Azuay"	"Sígsig"	1	2020-04-06
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-07
+"Azuay"	"Chordeleg"	0	2020-04-07
+"Azuay"	"Cuenca"	88	2020-04-07
+"Azuay"	"El Pan"	0	2020-04-07
+"Azuay"	"Girón"	0	2020-04-07
+"Azuay"	"Guachapala"	0	2020-04-07
+"Azuay"	"Gualaceo"	3	2020-04-07
+"Azuay"	"Nabón"	1	2020-04-07
+"Azuay"	"Oña"	0	2020-04-07
+"Azuay"	"Paute"	3	2020-04-07
+"Azuay"	"Pucará"	0	2020-04-07
+"Azuay"	"San Fernando"	0	2020-04-07
+"Azuay"	"Santa Isabel"	3	2020-04-07
+"Azuay"	"Sevilla de Oro"	1	2020-04-07
+"Azuay"	"Sígsig"	1	2020-04-07
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-08
+"Azuay"	"Chordeleg"	0	2020-04-08
+"Azuay"	"Cuenca"	95	2020-04-08
+"Azuay"	"El Pan"	0	2020-04-08
+"Azuay"	"Girón"	0	2020-04-08
+"Azuay"	"Guachapala"	0	2020-04-08
+"Azuay"	"Gualaceo"	3	2020-04-08
+"Azuay"	"Nabón"	1	2020-04-08
+"Azuay"	"Oña"	0	2020-04-08
+"Azuay"	"Paute"	3	2020-04-08
+"Azuay"	"Pucará"	0	2020-04-08
+"Azuay"	"San Fernando"	0	2020-04-08
+"Azuay"	"Santa Isabel"	3	2020-04-08
+"Azuay"	"Sevilla de Oro"	1	2020-04-08
+"Azuay"	"Sígsig"	1	2020-04-08
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-09
+"Azuay"	"Chordeleg"	0	2020-04-09
+"Azuay"	"Cuenca"	100	2020-04-09
+"Azuay"	"El Pan"	0	2020-04-09
+"Azuay"	"Girón"	0	2020-04-09
+"Azuay"	"Guachapala"	1	2020-04-09
+"Azuay"	"Gualaceo"	4	2020-04-09
+"Azuay"	"Nabón"	1	2020-04-09
+"Azuay"	"Oña"	0	2020-04-09
+"Azuay"	"Paute"	3	2020-04-09
+"Azuay"	"Pucará"	0	2020-04-09
+"Azuay"	"San Fernando"	0	2020-04-09
+"Azuay"	"Santa Isabel"	4	2020-04-09
+"Azuay"	"Sevilla de Oro"	1	2020-04-09
+"Azuay"	"Sígsig"	2	2020-04-09
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-10
+"Azuay"	"Chordeleg"	0	2020-04-10
+"Azuay"	"Cuenca"	131	2020-04-10
+"Azuay"	"El Pan"	0	2020-04-10
+"Azuay"	"Girón"	0	2020-04-10
+"Azuay"	"Guachapala"	1	2020-04-10
+"Azuay"	"Gualaceo"	4	2020-04-10
+"Azuay"	"Nabón"	1	2020-04-10
+"Azuay"	"Oña"	0	2020-04-10
+"Azuay"	"Paute"	5	2020-04-10
+"Azuay"	"Pucará"	0	2020-04-10
+"Azuay"	"San Fernando"	0	2020-04-10
+"Azuay"	"Santa Isabel"	5	2020-04-10
+"Azuay"	"Sevilla de Oro"	2	2020-04-10
+"Azuay"	"Sígsig"	2	2020-04-10
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-11
+"Azuay"	"Chordeleg"	0	2020-04-11
+"Azuay"	"Cuenca"	134	2020-04-11
+"Azuay"	"El Pan"	0	2020-04-11
+"Azuay"	"Girón"	0	2020-04-11
+"Azuay"	"Guachapala"	1	2020-04-11
+"Azuay"	"Gualaceo"	4	2020-04-11
+"Azuay"	"Nabón"	1	2020-04-11
+"Azuay"	"Oña"	0	2020-04-11
+"Azuay"	"Paute"	5	2020-04-11
+"Azuay"	"Pucará"	0	2020-04-11
+"Azuay"	"San Fernando"	0	2020-04-11
+"Azuay"	"Santa Isabel"	5	2020-04-11
+"Azuay"	"Sevilla de Oro"	2	2020-04-11
+"Azuay"	"Sígsig"	2	2020-04-11
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-12
+"Azuay"	"Chordeleg"	0	2020-04-12
+"Azuay"	"Cuenca"	158	2020-04-12
+"Azuay"	"El Pan"	0	2020-04-12
+"Azuay"	"Girón"	0	2020-04-12
+"Azuay"	"Guachapala"	1	2020-04-12
+"Azuay"	"Gualaceo"	4	2020-04-12
+"Azuay"	"Nabón"	1	2020-04-12
+"Azuay"	"Oña"	0	2020-04-12
+"Azuay"	"Paute"	5	2020-04-12
+"Azuay"	"Pucará"	0	2020-04-12
+"Azuay"	"San Fernando"	0	2020-04-12
+"Azuay"	"Santa Isabel"	5	2020-04-12
+"Azuay"	"Sevilla de Oro"	2	2020-04-12
+"Azuay"	"Sígsig"	2	2020-04-12
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-13
+"Azuay"	"Chordeleg"	0	2020-04-13
+"Azuay"	"Cuenca"	162	2020-04-13
+"Azuay"	"El Pan"	0	2020-04-13
+"Azuay"	"Girón"	0	2020-04-13
+"Azuay"	"Guachapala"	1	2020-04-13
+"Azuay"	"Gualaceo"	4	2020-04-13
+"Azuay"	"Nabón"	1	2020-04-13
+"Azuay"	"Oña"	0	2020-04-13
+"Azuay"	"Paute"	5	2020-04-13
+"Azuay"	"Pucará"	0	2020-04-13
+"Azuay"	"San Fernando"	0	2020-04-13
+"Azuay"	"Santa Isabel"	5	2020-04-13
+"Azuay"	"Sevilla de Oro"	2	2020-04-13
+"Azuay"	"Sígsig"	2	2020-04-13
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-14
+"Azuay"	"Chordeleg"	0	2020-04-14
+"Azuay"	"Cuenca"	170	2020-04-14
+"Azuay"	"El Pan"	0	2020-04-14
+"Azuay"	"Girón"	0	2020-04-14
+"Azuay"	"Guachapala"	1	2020-04-14
+"Azuay"	"Gualaceo"	5	2020-04-14
+"Azuay"	"Nabón"	1	2020-04-14
+"Azuay"	"Oña"	0	2020-04-14
+"Azuay"	"Paute"	5	2020-04-14
+"Azuay"	"Pucará"	0	2020-04-14
+"Azuay"	"San Fernando"	0	2020-04-14
+"Azuay"	"Santa Isabel"	5	2020-04-14
+"Azuay"	"Sevilla de Oro"	2	2020-04-14
+"Azuay"	"Sígsig"	3	2020-04-14
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-15
+"Azuay"	"Chordeleg"	0	2020-04-15
+"Azuay"	"Cuenca"	177	2020-04-15
+"Azuay"	"El Pan"	0	2020-04-15
+"Azuay"	"Girón"	0	2020-04-15
+"Azuay"	"Guachapala"	2	2020-04-15
+"Azuay"	"Gualaceo"	5	2020-04-15
+"Azuay"	"Nabón"	1	2020-04-15
+"Azuay"	"Oña"	0	2020-04-15
+"Azuay"	"Paute"	5	2020-04-15
+"Azuay"	"Pucará"	0	2020-04-15
+"Azuay"	"San Fernando"	0	2020-04-15
+"Azuay"	"Santa Isabel"	5	2020-04-15
+"Azuay"	"Sevilla de Oro"	2	2020-04-15
+"Azuay"	"Sígsig"	3	2020-04-15
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-16
+"Azuay"	"Chordeleg"	0	2020-04-16
+"Azuay"	"Cuenca"	181	2020-04-16
+"Azuay"	"El Pan"	0	2020-04-16
+"Azuay"	"Girón"	0	2020-04-16
+"Azuay"	"Guachapala"	2	2020-04-16
+"Azuay"	"Gualaceo"	5	2020-04-16
+"Azuay"	"Nabón"	1	2020-04-16
+"Azuay"	"Oña"	0	2020-04-16
+"Azuay"	"Paute"	5	2020-04-16
+"Azuay"	"Pucará"	0	2020-04-16
+"Azuay"	"San Fernando"	0	2020-04-16
+"Azuay"	"Santa Isabel"	5	2020-04-16
+"Azuay"	"Sevilla de Oro"	2	2020-04-16
+"Azuay"	"Sígsig"	4	2020-04-16
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-17
+"Azuay"	"Chordeleg"	0	2020-04-17
+"Azuay"	"Cuenca"	184	2020-04-17
+"Azuay"	"El Pan"	0	2020-04-17
+"Azuay"	"Girón"	0	2020-04-17
+"Azuay"	"Guachapala"	2	2020-04-17
+"Azuay"	"Gualaceo"	5	2020-04-17
+"Azuay"	"Nabón"	0	2020-04-17
+"Azuay"	"Oña"	0	2020-04-17
+"Azuay"	"Paute"	5	2020-04-17
+"Azuay"	"Pucará"	0	2020-04-17
+"Azuay"	"San Fernando"	0	2020-04-17
+"Azuay"	"Santa Isabel"	5	2020-04-17
+"Azuay"	"Sevilla de Oro"	2	2020-04-17
+"Azuay"	"Sígsig"	4	2020-04-17
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-18
+"Azuay"	"Chordeleg"	0	2020-04-18
+"Azuay"	"Cuenca"	188	2020-04-18
+"Azuay"	"El Pan"	0	2020-04-18
+"Azuay"	"Girón"	0	2020-04-18
+"Azuay"	"Guachapala"	2	2020-04-18
+"Azuay"	"Gualaceo"	6	2020-04-18
+"Azuay"	"Nabón"	1	2020-04-18
+"Azuay"	"Oña"	0	2020-04-18
+"Azuay"	"Paute"	6	2020-04-18
+"Azuay"	"Pucará"	0	2020-04-18
+"Azuay"	"San Fernando"	0	2020-04-18
+"Azuay"	"Santa Isabel"	6	2020-04-18
+"Azuay"	"Sevilla de Oro"	2	2020-04-18
+"Azuay"	"Sígsig"	6	2020-04-18
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-19
+"Azuay"	"Chordeleg"	0	2020-04-19
+"Azuay"	"Cuenca"	193	2020-04-19
+"Azuay"	"El Pan"	0	2020-04-19
+"Azuay"	"Girón"	0	2020-04-19
+"Azuay"	"Guachapala"	2	2020-04-19
+"Azuay"	"Gualaceo"	7	2020-04-19
+"Azuay"	"Nabón"	1	2020-04-19
+"Azuay"	"Oña"	0	2020-04-19
+"Azuay"	"Paute"	6	2020-04-19
+"Azuay"	"Pucará"	0	2020-04-19
+"Azuay"	"San Fernando"	0	2020-04-19
+"Azuay"	"Santa Isabel"	6	2020-04-19
+"Azuay"	"Sevilla de Oro"	2	2020-04-19
+"Azuay"	"Sígsig"	6	2020-04-19
+"Azuay"	"Camilo Ponce Enríquez"	0	2020-04-20
+"Azuay"	"Chordeleg"	0	2020-04-20
+"Azuay"	"Cuenca"	201	2020-04-20
+"Azuay"	"El Pan"	0	2020-04-20
+"Azuay"	"Girón"	0	2020-04-20
+"Azuay"	"Guachapala"	2	2020-04-20
+"Azuay"	"Gualaceo"	7	2020-04-20
+"Azuay"	"Nabón"	1	2020-04-20
+"Azuay"	"Oña"	0	2020-04-20
+"Azuay"	"Paute"	6	2020-04-20
+"Azuay"	"Pucará"	0	2020-04-20
+"Azuay"	"San Fernando"	0	2020-04-20
+"Azuay"	"Santa Isabel"	7	2020-04-20
+"Azuay"	"Sevilla de Oro"	2	2020-04-20
+"Azuay"	"Sígsig"	6	2020-04-20
+"Azuay"	"Camilo Ponce Enríquez"	1	2020-04-21
+"Azuay"	"Chordeleg"	0	2020-04-21
+"Azuay"	"Cuenca"	214	2020-04-21
+"Azuay"	"El Pan"	0	2020-04-21
+"Azuay"	"Girón"	1	2020-04-21
+"Azuay"	"Guachapala"	2	2020-04-21
+"Azuay"	"Gualaceo"	7	2020-04-21
+"Azuay"	"Nabón"	1	2020-04-21
+"Azuay"	"Oña"	0	2020-04-21
+"Azuay"	"Paute"	6	2020-04-21
+"Azuay"	"Pucará"	0	2020-04-21
+"Azuay"	"San Fernando"	0	2020-04-21
+"Azuay"	"Santa Isabel"	7	2020-04-21
+"Azuay"	"Sevilla de Oro"	2	2020-04-21
+"Azuay"	"Sígsig"	6	2020-04-21
+"Azuay"	"Camilo Ponce Enríquez"	1	2020-04-22
+"Azuay"	"Chordeleg"	0	2020-04-22
+"Azuay"	"Cuenca"	238	2020-04-22
+"Azuay"	"El Pan"	0	2020-04-22
+"Azuay"	"Girón"	1	2020-04-22
+"Azuay"	"Guachapala"	2	2020-04-22
+"Azuay"	"Gualaceo"	7	2020-04-22
+"Azuay"	"Nabón"	1	2020-04-22
+"Azuay"	"Oña"	0	2020-04-22
+"Azuay"	"Paute"	8	2020-04-22
+"Azuay"	"Pucará"	0	2020-04-22
+"Azuay"	"San Fernando"	0	2020-04-22
+"Azuay"	"Santa Isabel"	7	2020-04-22
+"Azuay"	"Sevilla de Oro"	2	2020-04-22
+"Azuay"	"Sígsig"	6	2020-04-22
+"Azuay"	"Camilo Ponce Enríquez"	1	2020-04-23
+"Azuay"	"Chordeleg"	0	2020-04-23
+"Azuay"	"Cuenca"	250	2020-04-23
+"Azuay"	"El Pan"	0	2020-04-23
+"Azuay"	"Girón"	1	2020-04-23
+"Azuay"	"Guachapala"	2	2020-04-23
+"Azuay"	"Gualaceo"	7	2020-04-23
+"Azuay"	"Nabón"	1	2020-04-23
+"Azuay"	"Oña"	0	2020-04-23
+"Azuay"	"Paute"	8	2020-04-23
+"Azuay"	"Pucará"	0	2020-04-23
+"Azuay"	"San Fernando"	0	2020-04-23
+"Azuay"	"Santa Isabel"	7	2020-04-23
+"Azuay"	"Sevilla de Oro"	2	2020-04-23
+"Azuay"	"Sígsig"	6	2020-04-23
+"Azuay"	"Camilo Ponce Enríquez"	1	2020-04-24
+"Azuay"	"Chordeleg"	0	2020-04-24
+"Azuay"	"Cuenca"	250	2020-04-24
+"Azuay"	"El Pan"	0	2020-04-24
+"Azuay"	"Girón"	1	2020-04-24
+"Azuay"	"Guachapala"	2	2020-04-24
+"Azuay"	"Gualaceo"	7	2020-04-24
+"Azuay"	"Nabón"	1	2020-04-24
+"Azuay"	"Oña"	0	2020-04-24
+"Azuay"	"Paute"	8	2020-04-24
+"Azuay"	"Pucará"	0	2020-04-24
+"Azuay"	"San Fernando"	0	2020-04-24
+"Azuay"	"Santa Isabel"	7	2020-04-24
+"Azuay"	"Sevilla de Oro"	2	2020-04-24
+"Azuay"	"Sígsig"	6	2020-04-24
+"Azuay"	"Camilo Ponce Enríquez"	1	2020-04-25
+"Azuay"	"Chordeleg"	0	2020-04-25
+"Azuay"	"Cuenca"	250	2020-04-25
+"Azuay"	"El Pan"	0	2020-04-25
+"Azuay"	"Girón"	1	2020-04-25
+"Azuay"	"Guachapala"	2	2020-04-25
+"Azuay"	"Gualaceo"	7	2020-04-25
+"Azuay"	"Nabón"	1	2020-04-25
+"Azuay"	"Oña"	0	2020-04-25
+"Azuay"	"Paute"	8	2020-04-25
+"Azuay"	"Pucará"	0	2020-04-25
+"Azuay"	"San Fernando"	0	2020-04-25
+"Azuay"	"Santa Isabel"	7	2020-04-25
+"Azuay"	"Sevilla de Oro"	2	2020-04-25
+"Azuay"	"Sígsig"	6	2020-04-25
+"Azuay"	"Camilo Ponce Enríquez"	1	2020-04-26
+"Azuay"	"Chordeleg"	0	2020-04-26
+"Azuay"	"Cuenca"	250	2020-04-26
+"Azuay"	"El Pan"	0	2020-04-26
+"Azuay"	"Girón"	1	2020-04-26
+"Azuay"	"Guachapala"	2	2020-04-26
+"Azuay"	"Gualaceo"	7	2020-04-26
+"Azuay"	"Nabón"	1	2020-04-26
+"Azuay"	"Oña"	0	2020-04-26
+"Azuay"	"Paute"	8	2020-04-26
+"Azuay"	"Pucará"	0	2020-04-26
+"Azuay"	"San Fernando"	0	2020-04-26
+"Azuay"	"Santa Isabel"	7	2020-04-26
+"Azuay"	"Sevilla de Oro"	2	2020-04-26
+"Azuay"	"Sígsig"	6	2020-04-26
+"Azuay"	"Camilo Ponce Enríquez"	1	2020-04-27
+"Azuay"	"Chordeleg"	0	2020-04-27
+"Azuay"	"Cuenca"	250	2020-04-27
+"Azuay"	"El Pan"	0	2020-04-27
+"Azuay"	"Girón"	1	2020-04-27
+"Azuay"	"Guachapala"	2	2020-04-27
+"Azuay"	"Gualaceo"	7	2020-04-27
+"Azuay"	"Nabón"	1	2020-04-27
+"Azuay"	"Oña"	0	2020-04-27
+"Azuay"	"Paute"	8	2020-04-27
+"Azuay"	"Pucará"	0	2020-04-27
+"Azuay"	"San Fernando"	0	2020-04-27
+"Azuay"	"Santa Isabel"	7	2020-04-27
+"Azuay"	"Sevilla de Oro"	2	2020-04-27
+"Azuay"	"Sígsig"	6	2020-04-27
+"Azuay"	"Camilo Ponce Enríquez"	2	2020-04-28
+"Azuay"	"Chordeleg"	0	2020-04-28
+"Azuay"	"Cuenca"	361	2020-04-28
+"Azuay"	"El Pan"	0	2020-04-28
+"Azuay"	"Girón"	1	2020-04-28
+"Azuay"	"Guachapala"	2	2020-04-28
+"Azuay"	"Gualaceo"	18	2020-04-28
+"Azuay"	"Nabón"	2	2020-04-28
+"Azuay"	"Oña"	0	2020-04-28
+"Azuay"	"Paute"	16	2020-04-28
+"Azuay"	"Pucará"	0	2020-04-28
+"Azuay"	"San Fernando"	0	2020-04-28
+"Azuay"	"Santa Isabel"	12	2020-04-28
+"Azuay"	"Sevilla de Oro"	2	2020-04-28
+"Azuay"	"Sígsig"	10	2020-04-28
+"Azuay"	"Camilo Ponce Enríquez"	3	2020-04-29
+"Azuay"	"Chordeleg"	0	2020-04-29
+"Azuay"	"Cuenca"	369	2020-04-29
+"Azuay"	"El Pan"	0	2020-04-29
+"Azuay"	"Girón"	1	2020-04-29
+"Azuay"	"Guachapala"	2	2020-04-29
+"Azuay"	"Gualaceo"	16	2020-04-29
+"Azuay"	"Nabón"	2	2020-04-29
+"Azuay"	"Oña"	0	2020-04-29
+"Azuay"	"Paute"	15	2020-04-29
+"Azuay"	"Pucará"	0	2020-04-29
+"Azuay"	"San Fernando"	0	2020-04-29
+"Azuay"	"Santa Isabel"	12	2020-04-29
+"Azuay"	"Sevilla de Oro"	2	2020-04-29
+"Azuay"	"Sígsig"	10	2020-04-29
+"Azuay"	"Camilo Ponce Enríquez"	3	2020-04-30
+"Azuay"	"Chordeleg"	0	2020-04-30
+"Azuay"	"Cuenca"	396	2020-04-30
+"Azuay"	"El Pan"	0	2020-04-30
+"Azuay"	"Girón"	1	2020-04-30
+"Azuay"	"Guachapala"	2	2020-04-30
+"Azuay"	"Gualaceo"	16	2020-04-30
+"Azuay"	"Nabón"	3	2020-04-30
+"Azuay"	"Oña"	0	2020-04-30
+"Azuay"	"Paute"	15	2020-04-30
+"Azuay"	"Pucará"	0	2020-04-30
+"Azuay"	"San Fernando"	0	2020-04-30
+"Azuay"	"Santa Isabel"	12	2020-04-30
+"Azuay"	"Sevilla de Oro"	2	2020-04-30
+"Azuay"	"Sígsig"	10	2020-04-30
+"Azuay"	"Camilo Ponce Enríquez"	3	2020-05-01
+"Azuay"	"Chordeleg"	0	2020-05-01
+"Azuay"	"Cuenca"	421	2020-05-01
+"Azuay"	"El Pan"	0	2020-05-01
+"Azuay"	"Girón"	2	2020-05-01
+"Azuay"	"Guachapala"	2	2020-05-01
+"Azuay"	"Gualaceo"	17	2020-05-01
+"Azuay"	"Nabón"	3	2020-05-01
+"Azuay"	"Oña"	0	2020-05-01
+"Azuay"	"Paute"	15	2020-05-01
+"Azuay"	"Pucará"	0	2020-05-01
+"Azuay"	"San Fernando"	0	2020-05-01
+"Azuay"	"Santa Isabel"	13	2020-05-01
+"Azuay"	"Sevilla de Oro"	2	2020-05-01
+"Azuay"	"Sígsig"	12	2020-05-01
+"Azuay"	"Camilo Ponce Enríquez"	3	2020-05-02
+"Azuay"	"Chordeleg"	0	2020-05-02
+"Azuay"	"Cuenca"	433	2020-05-02
+"Azuay"	"El Pan"	0	2020-05-02
+"Azuay"	"Girón"	2	2020-05-02
+"Azuay"	"Guachapala"	2	2020-05-02
+"Azuay"	"Gualaceo"	18	2020-05-02
+"Azuay"	"Nabón"	3	2020-05-02
+"Azuay"	"Oña"	0	2020-05-02
+"Azuay"	"Paute"	17	2020-05-02
+"Azuay"	"Pucará"	0	2020-05-02
+"Azuay"	"San Fernando"	0	2020-05-02
+"Azuay"	"Santa Isabel"	13	2020-05-02
+"Azuay"	"Sevilla de Oro"	2	2020-05-02
+"Azuay"	"Sígsig"	12	2020-05-02
+"Azuay"	"Camilo Ponce Enríquez"	5	2020-05-03
+"Azuay"	"Chordeleg"	0	2020-05-03
+"Azuay"	"Cuenca"	467	2020-05-03
+"Azuay"	"El Pan"	0	2020-05-03
+"Azuay"	"Girón"	2	2020-05-03
+"Azuay"	"Guachapala"	3	2020-05-03
+"Azuay"	"Gualaceo"	20	2020-05-03
+"Azuay"	"Nabón"	3	2020-05-03
+"Azuay"	"Oña"	0	2020-05-03
+"Azuay"	"Paute"	20	2020-05-03
+"Azuay"	"Pucará"	0	2020-05-03
+"Azuay"	"San Fernando"	0	2020-05-03
+"Azuay"	"Santa Isabel"	14	2020-05-03
+"Azuay"	"Sevilla de Oro"	4	2020-05-03
+"Azuay"	"Sígsig"	13	2020-05-03
+"Azuay"	"Camilo Ponce Enríquez"	7	2020-05-04
+"Azuay"	"Chordeleg"	0	2020-05-04
+"Azuay"	"Cuenca"	482	2020-05-04
+"Azuay"	"El Pan"	0	2020-05-04
+"Azuay"	"Girón"	2	2020-05-04
+"Azuay"	"Guachapala"	3	2020-05-04
+"Azuay"	"Gualaceo"	20	2020-05-04
+"Azuay"	"Nabón"	3	2020-05-04
+"Azuay"	"Oña"	0	2020-05-04
+"Azuay"	"Paute"	20	2020-05-04
+"Azuay"	"Pucará"	0	2020-05-04
+"Azuay"	"San Fernando"	0	2020-05-04
+"Azuay"	"Santa Isabel"	14	2020-05-04
+"Azuay"	"Sevilla de Oro"	4	2020-05-04
+"Azuay"	"Sígsig"	14	2020-05-04
+"Azuay"	"Camilo Ponce Enríquez"	7	2020-05-05
+"Azuay"	"Chordeleg"	0	2020-05-05
+"Azuay"	"Cuenca"	482	2020-05-05
+"Azuay"	"El Pan"	0	2020-05-05
+"Azuay"	"Girón"	2	2020-05-05
+"Azuay"	"Guachapala"	3	2020-05-05
+"Azuay"	"Gualaceo"	20	2020-05-05
+"Azuay"	"Nabón"	3	2020-05-05
+"Azuay"	"Oña"	0	2020-05-05
+"Azuay"	"Paute"	20	2020-05-05
+"Azuay"	"Pucará"	0	2020-05-05
+"Azuay"	"San Fernando"	0	2020-05-05
+"Azuay"	"Santa Isabel"	14	2020-05-05
+"Azuay"	"Sevilla de Oro"	4	2020-05-05
+"Azuay"	"Sígsig"	14	2020-05-05
+"Azuay"	"Camilo Ponce Enríquez"	4	2020-05-06
+"Azuay"	"Chordeleg"	1	2020-05-06
+"Azuay"	"Cuenca"	465	2020-05-06
+"Azuay"	"El Pan"	0	2020-05-06
+"Azuay"	"Girón"	2	2020-05-06
+"Azuay"	"Guachapala"	2	2020-05-06
+"Azuay"	"Gualaceo"	12	2020-05-06
+"Azuay"	"Nabón"	3	2020-05-06
+"Azuay"	"Oña"	0	2020-05-06
+"Azuay"	"Paute"	13	2020-05-06
+"Azuay"	"Pucará"	0	2020-05-06
+"Azuay"	"San Fernando"	0	2020-05-06
+"Azuay"	"Santa Isabel"	9	2020-05-06
+"Azuay"	"Sevilla de Oro"	2	2020-05-06
+"Azuay"	"Sígsig"	6	2020-05-06
+"Azuay"	"Camilo Ponce Enríquez"	5	2020-05-07
+"Azuay"	"Chordeleg"	1	2020-05-07
+"Azuay"	"Cuenca"	484	2020-05-07
+"Azuay"	"El Pan"	0	2020-05-07
+"Azuay"	"Girón"	2	2020-05-07
+"Azuay"	"Guachapala"	2	2020-05-07
+"Azuay"	"Gualaceo"	20	2020-05-07
+"Azuay"	"Nabón"	3	2020-05-07
+"Azuay"	"Oña"	0	2020-05-07
+"Azuay"	"Paute"	17	2020-05-07
+"Azuay"	"Pucará"	0	2020-05-07
+"Azuay"	"San Fernando"	0	2020-05-07
+"Azuay"	"Santa Isabel"	13	2020-05-07
+"Azuay"	"Sevilla de Oro"	2	2020-05-07
+"Azuay"	"Sígsig"	12	2020-05-07
+"Azuay"	"Camilo Ponce Enríquez"	5	2020-05-08
+"Azuay"	"Chordeleg"	1	2020-05-08
+"Azuay"	"Cuenca"	491	2020-05-08
+"Azuay"	"El Pan"	1	2020-05-08
+"Azuay"	"Girón"	4	2020-05-08
+"Azuay"	"Guachapala"	3	2020-05-08
+"Azuay"	"Gualaceo"	14	2020-05-08
+"Azuay"	"Nabón"	3	2020-05-08
+"Azuay"	"Oña"	0	2020-05-08
+"Azuay"	"Paute"	23	2020-05-08
+"Azuay"	"Pucará"	0	2020-05-08
+"Azuay"	"San Fernando"	0	2020-05-08
+"Azuay"	"Santa Isabel"	10	2020-05-08
+"Azuay"	"Sevilla de Oro"	3	2020-05-08
+"Azuay"	"Sígsig"	7	2020-05-08
+"Azuay"	"Camilo Ponce Enríquez"	6	2020-05-09
+"Azuay"	"Chordeleg"	1	2020-05-09
+"Azuay"	"Cuenca"	491	2020-05-09
+"Azuay"	"El Pan"	1	2020-05-09
+"Azuay"	"Girón"	3	2020-05-09
+"Azuay"	"Guachapala"	3	2020-05-09
+"Azuay"	"Gualaceo"	14	2020-05-09
+"Azuay"	"Nabón"	3	2020-05-09
+"Azuay"	"Oña"	0	2020-05-09
+"Azuay"	"Paute"	23	2020-05-09
+"Azuay"	"Pucará"	0	2020-05-09
+"Azuay"	"San Fernando"	0	2020-05-09
+"Azuay"	"Santa Isabel"	10	2020-05-09
+"Azuay"	"Sevilla de Oro"	3	2020-05-09
+"Azuay"	"Sígsig"	7	2020-05-09
+"Azuay"	"Camilo Ponce Enríquez"	6	2020-05-10
+"Azuay"	"Chordeleg"	1	2020-05-10
+"Azuay"	"Cuenca"	493	2020-05-10
+"Azuay"	"El Pan"	2	2020-05-10
+"Azuay"	"Girón"	4	2020-05-10
+"Azuay"	"Guachapala"	3	2020-05-10
+"Azuay"	"Gualaceo"	14	2020-05-10
+"Azuay"	"Nabón"	3	2020-05-10
+"Azuay"	"Oña"	0	2020-05-10
+"Azuay"	"Paute"	23	2020-05-10
+"Azuay"	"Pucará"	0	2020-05-10
+"Azuay"	"San Fernando"	0	2020-05-10
+"Azuay"	"Santa Isabel"	10	2020-05-10
+"Azuay"	"Sevilla de Oro"	3	2020-05-10
+"Azuay"	"Sígsig"	7	2020-05-10
+"Azuay"	"Camilo Ponce Enríquez"	6	2020-05-11
+"Azuay"	"Chordeleg"	1	2020-05-11
+"Azuay"	"Cuenca"	503	2020-05-11
+"Azuay"	"El Pan"	1	2020-05-11
+"Azuay"	"Girón"	3	2020-05-11
+"Azuay"	"Guachapala"	3	2020-05-11
+"Azuay"	"Gualaceo"	14	2020-05-11
+"Azuay"	"Nabón"	3	2020-05-11
+"Azuay"	"Oña"	0	2020-05-11
+"Azuay"	"Paute"	23	2020-05-11
+"Azuay"	"Pucará"	0	2020-05-11
+"Azuay"	"San Fernando"	0	2020-05-11
+"Azuay"	"Santa Isabel"	10	2020-05-11
+"Azuay"	"Sevilla de Oro"	3	2020-05-11
+"Azuay"	"Sígsig"	7	2020-05-11
+"Azuay"	"Camilo Ponce Enríquez"	8	2020-05-12
+"Azuay"	"Chordeleg"	1	2020-05-12
+"Azuay"	"Cuenca"	496	2020-05-12
+"Azuay"	"El Pan"	1	2020-05-12
+"Azuay"	"Girón"	4	2020-05-12
+"Azuay"	"Guachapala"	3	2020-05-12
+"Azuay"	"Gualaceo"	16	2020-05-12
+"Azuay"	"Nabón"	3	2020-05-12
+"Azuay"	"Oña"	0	2020-05-12
+"Azuay"	"Paute"	24	2020-05-12
+"Azuay"	"Pucará"	0	2020-05-12
+"Azuay"	"San Fernando"	0	2020-05-12
+"Azuay"	"Santa Isabel"	10	2020-05-12
+"Azuay"	"Sevilla de Oro"	3	2020-05-12
+"Azuay"	"Sígsig"	7	2020-05-12
+"Azuay"	"Camilo Ponce Enríquez"	8	2020-05-13
+"Azuay"	"Chordeleg"	1	2020-05-13
+"Azuay"	"Cuenca"	499	2020-05-13
+"Azuay"	"El Pan"	1	2020-05-13
+"Azuay"	"Girón"	4	2020-05-13
+"Azuay"	"Guachapala"	3	2020-05-13
+"Azuay"	"Gualaceo"	16	2020-05-13
+"Azuay"	"Nabón"	3	2020-05-13
+"Azuay"	"Oña"	0	2020-05-13
+"Azuay"	"Paute"	24	2020-05-13
+"Azuay"	"Pucará"	0	2020-05-13
+"Azuay"	"San Fernando"	0	2020-05-13
+"Azuay"	"Santa Isabel"	10	2020-05-13
+"Azuay"	"Sevilla de Oro"	3	2020-05-13
+"Azuay"	"Sígsig"	7	2020-05-13
+"Azuay"	"Camilo Ponce Enríquez"	8	2020-05-14
+"Azuay"	"Chordeleg"	1	2020-05-14
+"Azuay"	"Cuenca"	503	2020-05-14
+"Azuay"	"El Pan"	1	2020-05-14
+"Azuay"	"Girón"	4	2020-05-14
+"Azuay"	"Guachapala"	3	2020-05-14
+"Azuay"	"Gualaceo"	16	2020-05-14
+"Azuay"	"Nabón"	3	2020-05-14
+"Azuay"	"Oña"	0	2020-05-14
+"Azuay"	"Paute"	24	2020-05-14
+"Azuay"	"Pucará"	0	2020-05-14
+"Azuay"	"San Fernando"	0	2020-05-14
+"Azuay"	"Santa Isabel"	10	2020-05-14
+"Azuay"	"Sevilla de Oro"	3	2020-05-14
+"Azuay"	"Sígsig"	7	2020-05-14
+"Azuay"	"Camilo Ponce Enríquez"	16	2020-05-15
+"Azuay"	"Chordeleg"	1	2020-05-15
+"Azuay"	"Cuenca"	566	2020-05-15
+"Azuay"	"El Pan"	1	2020-05-15
+"Azuay"	"Girón"	4	2020-05-15
+"Azuay"	"Guachapala"	3	2020-05-15
+"Azuay"	"Gualaceo"	17	2020-05-15
+"Azuay"	"Nabón"	3	2020-05-15
+"Azuay"	"Oña"	0	2020-05-15
+"Azuay"	"Paute"	25	2020-05-15
+"Azuay"	"Pucará"	0	2020-05-15
+"Azuay"	"San Fernando"	0	2020-05-15
+"Azuay"	"Santa Isabel"	11	2020-05-15
+"Azuay"	"Sevilla de Oro"	3	2020-05-15
+"Azuay"	"Sígsig"	7	2020-05-15
+"Azuay"	"Camilo Ponce Enríquez"	16	2020-05-16
+"Azuay"	"Chordeleg"	1	2020-05-16
+"Azuay"	"Cuenca"	580	2020-05-16
+"Azuay"	"El Pan"	1	2020-05-16
+"Azuay"	"Girón"	4	2020-05-16
+"Azuay"	"Guachapala"	3	2020-05-16
+"Azuay"	"Gualaceo"	17	2020-05-16
+"Azuay"	"Nabón"	3	2020-05-16
+"Azuay"	"Oña"	0	2020-05-16
+"Azuay"	"Paute"	25	2020-05-16
+"Azuay"	"Pucará"	0	2020-05-16
+"Azuay"	"San Fernando"	0	2020-05-16
+"Azuay"	"Santa Isabel"	11	2020-05-16
+"Azuay"	"Sevilla de Oro"	3	2020-05-16
+"Azuay"	"Sígsig"	7	2020-05-16
+"Azuay"	"Camilo Ponce Enríquez"	16	2020-05-17
+"Azuay"	"Chordeleg"	1	2020-05-17
+"Azuay"	"Cuenca"	602	2020-05-17
+"Azuay"	"El Pan"	1	2020-05-17
+"Azuay"	"Girón"	4	2020-05-17
+"Azuay"	"Guachapala"	3	2020-05-17
+"Azuay"	"Gualaceo"	17	2020-05-17
+"Azuay"	"Nabón"	3	2020-05-17
+"Azuay"	"Oña"	0	2020-05-17
+"Azuay"	"Paute"	25	2020-05-17
+"Azuay"	"Pucará"	0	2020-05-17
+"Azuay"	"San Fernando"	0	2020-05-17
+"Azuay"	"Santa Isabel"	11	2020-05-17
+"Azuay"	"Sevilla de Oro"	3	2020-05-17
+"Azuay"	"Sígsig"	7	2020-05-17
+"Azuay"	"Camilo Ponce Enríquez"	17	2020-05-18
+"Azuay"	"Chordeleg"	1	2020-05-18
+"Azuay"	"Cuenca"	608	2020-05-18
+"Azuay"	"El Pan"	1	2020-05-18
+"Azuay"	"Girón"	4	2020-05-18
+"Azuay"	"Guachapala"	3	2020-05-18
+"Azuay"	"Gualaceo"	17	2020-05-18
+"Azuay"	"Nabón"	3	2020-05-18
+"Azuay"	"Oña"	0	2020-05-18
+"Azuay"	"Paute"	25	2020-05-18
+"Azuay"	"Pucará"	0	2020-05-18
+"Azuay"	"San Fernando"	0	2020-05-18
+"Azuay"	"Santa Isabel"	11	2020-05-18
+"Azuay"	"Sevilla de Oro"	3	2020-05-18
+"Azuay"	"Sígsig"	7	2020-05-18
+"Azuay"	"Camilo Ponce Enríquez"	22	2020-05-19
+"Azuay"	"Chordeleg"	1	2020-05-19
+"Azuay"	"Cuenca"	629	2020-05-19
+"Azuay"	"El Pan"	1	2020-05-19
+"Azuay"	"Girón"	4	2020-05-19
+"Azuay"	"Guachapala"	3	2020-05-19
+"Azuay"	"Gualaceo"	17	2020-05-19
+"Azuay"	"Nabón"	3	2020-05-19
+"Azuay"	"Oña"	0	2020-05-19
+"Azuay"	"Paute"	27	2020-05-19
+"Azuay"	"Pucará"	0	2020-05-19
+"Azuay"	"San Fernando"	0	2020-05-19
+"Azuay"	"Santa Isabel"	12	2020-05-19
+"Azuay"	"Sevilla de Oro"	3	2020-05-19
+"Azuay"	"Sígsig"	8	2020-05-19
+"Azuay"	"Camilo Ponce Enríquez"	31	2020-05-20
+"Azuay"	"Chordeleg"	1	2020-05-20
+"Azuay"	"Cuenca"	650	2020-05-20
+"Azuay"	"El Pan"	1	2020-05-20
+"Azuay"	"Girón"	4	2020-05-20
+"Azuay"	"Guachapala"	3	2020-05-20
+"Azuay"	"Gualaceo"	19	2020-05-20
+"Azuay"	"Nabón"	3	2020-05-20
+"Azuay"	"Oña"	0	2020-05-20
+"Azuay"	"Paute"	30	2020-05-20
+"Azuay"	"Pucará"	0	2020-05-20
+"Azuay"	"San Fernando"	0	2020-05-20
+"Azuay"	"Santa Isabel"	12	2020-05-20
+"Azuay"	"Sevilla de Oro"	3	2020-05-20
+"Azuay"	"Sígsig"	9	2020-05-20
+"Azuay"	"Camilo Ponce Enríquez"	31	2020-05-21
+"Azuay"	"Chordeleg"	1	2020-05-21
+"Azuay"	"Cuenca"	657	2020-05-21
+"Azuay"	"El Pan"	1	2020-05-21
+"Azuay"	"Girón"	4	2020-05-21
+"Azuay"	"Guachapala"	3	2020-05-21
+"Azuay"	"Gualaceo"	20	2020-05-21
+"Azuay"	"Nabón"	3	2020-05-21
+"Azuay"	"Oña"	0	2020-05-21
+"Azuay"	"Paute"	30	2020-05-21
+"Azuay"	"Pucará"	0	2020-05-21
+"Azuay"	"San Fernando"	0	2020-05-21
+"Azuay"	"Santa Isabel"	13	2020-05-21
+"Azuay"	"Sevilla de Oro"	3	2020-05-21
+"Azuay"	"Sígsig"	9	2020-05-21
+"Azuay"	"Camilo Ponce Enríquez"	31	2020-05-22
+"Azuay"	"Chordeleg"	1	2020-05-22
+"Azuay"	"Cuenca"	664	2020-05-22
+"Azuay"	"El Pan"	1	2020-05-22
+"Azuay"	"Girón"	4	2020-05-22
+"Azuay"	"Guachapala"	3	2020-05-22
+"Azuay"	"Gualaceo"	20	2020-05-22
+"Azuay"	"Nabón"	3	2020-05-22
+"Azuay"	"Oña"	0	2020-05-22
+"Azuay"	"Paute"	30	2020-05-22
+"Azuay"	"Pucará"	0	2020-05-22
+"Azuay"	"San Fernando"	0	2020-05-22
+"Azuay"	"Santa Isabel"	13	2020-05-22
+"Azuay"	"Sevilla de Oro"	3	2020-05-22
+"Azuay"	"Sígsig"	9	2020-05-22
+"Azuay"	"Camilo Ponce Enríquez"	31	2020-05-23
+"Azuay"	"Chordeleg"	1	2020-05-23
+"Azuay"	"Cuenca"	675	2020-05-23
+"Azuay"	"El Pan"	1	2020-05-23
+"Azuay"	"Girón"	4	2020-05-23
+"Azuay"	"Guachapala"	3	2020-05-23
+"Azuay"	"Gualaceo"	20	2020-05-23
+"Azuay"	"Nabón"	3	2020-05-23
+"Azuay"	"Oña"	0	2020-05-23
+"Azuay"	"Paute"	30	2020-05-23
+"Azuay"	"Pucará"	0	2020-05-23
+"Azuay"	"San Fernando"	0	2020-05-23
+"Azuay"	"Santa Isabel"	13	2020-05-23
+"Azuay"	"Sevilla de Oro"	3	2020-05-23
+"Azuay"	"Sígsig"	9	2020-05-23
+"Azuay"	"Camilo Ponce Enríquez"	31	2020-05-24
+"Azuay"	"Chordeleg"	1	2020-05-24
+"Azuay"	"Cuenca"	679	2020-05-24
+"Azuay"	"El Pan"	1	2020-05-24
+"Azuay"	"Girón"	4	2020-05-24
+"Azuay"	"Guachapala"	3	2020-05-24
+"Azuay"	"Gualaceo"	20	2020-05-24
+"Azuay"	"Nabón"	3	2020-05-24
+"Azuay"	"Oña"	0	2020-05-24
+"Azuay"	"Paute"	30	2020-05-24
+"Azuay"	"Pucará"	0	2020-05-24
+"Azuay"	"San Fernando"	0	2020-05-24
+"Azuay"	"Santa Isabel"	13	2020-05-24
+"Azuay"	"Sevilla de Oro"	3	2020-05-24
+"Azuay"	"Sígsig"	9	2020-05-24
+"Azuay"	"Camilo Ponce Enríquez"	31	2020-05-25
+"Azuay"	"Chordeleg"	1	2020-05-25
+"Azuay"	"Cuenca"	681	2020-05-25
+"Azuay"	"El Pan"	1	2020-05-25
+"Azuay"	"Girón"	4	2020-05-25
+"Azuay"	"Guachapala"	3	2020-05-25
+"Azuay"	"Gualaceo"	20	2020-05-25
+"Azuay"	"Nabón"	3	2020-05-25
+"Azuay"	"Oña"	0	2020-05-25
+"Azuay"	"Paute"	30	2020-05-25
+"Azuay"	"Pucará"	0	2020-05-25
+"Azuay"	"San Fernando"	0	2020-05-25
+"Azuay"	"Santa Isabel"	13	2020-05-25
+"Azuay"	"Sevilla de Oro"	3	2020-05-25
+"Azuay"	"Sígsig"	9	2020-05-25
+"Azuay"	"Camilo Ponce Enríquez"	34	2020-05-26
+"Azuay"	"Chordeleg"	1	2020-05-26
+"Azuay"	"Cuenca"	693	2020-05-26
+"Azuay"	"El Pan"	1	2020-05-26
+"Azuay"	"Girón"	4	2020-05-26
+"Azuay"	"Guachapala"	3	2020-05-26
+"Azuay"	"Gualaceo"	21	2020-05-26
+"Azuay"	"Nabón"	3	2020-05-26
+"Azuay"	"Oña"	0	2020-05-26
+"Azuay"	"Paute"	31	2020-05-26
+"Azuay"	"Pucará"	0	2020-05-26
+"Azuay"	"San Fernando"	0	2020-05-26
+"Azuay"	"Santa Isabel"	13	2020-05-26
+"Azuay"	"Sevilla de Oro"	3	2020-05-26
+"Azuay"	"Sígsig"	9	2020-05-26
+"Azuay"	"Camilo Ponce Enríquez"	36	2020-05-27
+"Azuay"	"Chordeleg"	1	2020-05-27
+"Azuay"	"Cuenca"	694	2020-05-27
+"Azuay"	"El Pan"	1	2020-05-27
+"Azuay"	"Girón"	4	2020-05-27
+"Azuay"	"Guachapala"	3	2020-05-27
+"Azuay"	"Gualaceo"	21	2020-05-27
+"Azuay"	"Nabón"	3	2020-05-27
+"Azuay"	"Oña"	0	2020-05-27
+"Azuay"	"Paute"	31	2020-05-27
+"Azuay"	"Pucará"	0	2020-05-27
+"Azuay"	"San Fernando"	0	2020-05-27
+"Azuay"	"Santa Isabel"	13	2020-05-27
+"Azuay"	"Sevilla de Oro"	3	2020-05-27
+"Azuay"	"Sígsig"	9	2020-05-27
+"Azuay"	"Camilo Ponce Enríquez"	36	2020-05-28
+"Azuay"	"Chordeleg"	1	2020-05-28
+"Azuay"	"Cuenca"	700	2020-05-28
+"Azuay"	"El Pan"	1	2020-05-28
+"Azuay"	"Girón"	4	2020-05-28
+"Azuay"	"Guachapala"	3	2020-05-28
+"Azuay"	"Gualaceo"	21	2020-05-28
+"Azuay"	"Nabón"	3	2020-05-28
+"Azuay"	"Oña"	0	2020-05-28
+"Azuay"	"Paute"	31	2020-05-28
+"Azuay"	"Pucará"	0	2020-05-28
+"Azuay"	"San Fernando"	0	2020-05-28
+"Azuay"	"Santa Isabel"	13	2020-05-28
+"Azuay"	"Sevilla de Oro"	3	2020-05-28
+"Azuay"	"Sígsig"	9	2020-05-28
+"Azuay"	"Camilo Ponce Enríquez"	36	2020-05-29
+"Azuay"	"Chordeleg"	1	2020-05-29
+"Azuay"	"Cuenca"	719	2020-05-29
+"Azuay"	"El Pan"	1	2020-05-29
+"Azuay"	"Girón"	4	2020-05-29
+"Azuay"	"Guachapala"	3	2020-05-29
+"Azuay"	"Gualaceo"	21	2020-05-29
+"Azuay"	"Nabón"	3	2020-05-29
+"Azuay"	"Oña"	0	2020-05-29
+"Azuay"	"Paute"	34	2020-05-29
+"Azuay"	"Pucará"	0	2020-05-29
+"Azuay"	"San Fernando"	0	2020-05-29
+"Azuay"	"Santa Isabel"	13	2020-05-29
+"Azuay"	"Sevilla de Oro"	3	2020-05-29
+"Azuay"	"Sígsig"	9	2020-05-29
+"Azuay"	"Camilo Ponce Enríquez"	36	2020-05-30
+"Azuay"	"Chordeleg"	1	2020-05-30
+"Azuay"	"Cuenca"	740	2020-05-30
+"Azuay"	"El Pan"	1	2020-05-30
+"Azuay"	"Girón"	4	2020-05-30
+"Azuay"	"Guachapala"	3	2020-05-30
+"Azuay"	"Gualaceo"	21	2020-05-30
+"Azuay"	"Nabón"	3	2020-05-30
+"Azuay"	"Oña"	0	2020-05-30
+"Azuay"	"Paute"	34	2020-05-30
+"Azuay"	"Pucará"	0	2020-05-30
+"Azuay"	"San Fernando"	0	2020-05-30
+"Azuay"	"Santa Isabel"	14	2020-05-30
+"Azuay"	"Sevilla de Oro"	3	2020-05-30
+"Azuay"	"Sígsig"	9	2020-05-30
+"Azuay"	"Camilo Ponce Enríquez"	36	2020-05-31
+"Azuay"	"Chordeleg"	1	2020-05-31
+"Azuay"	"Cuenca"	740	2020-05-31
+"Azuay"	"El Pan"	1	2020-05-31
+"Azuay"	"Girón"	4	2020-05-31
+"Azuay"	"Guachapala"	3	2020-05-31
+"Azuay"	"Gualaceo"	21	2020-05-31
+"Azuay"	"Nabón"	3	2020-05-31
+"Azuay"	"Oña"	0	2020-05-31
+"Azuay"	"Paute"	34	2020-05-31
+"Azuay"	"Pucará"	0	2020-05-31
+"Azuay"	"San Fernando"	0	2020-05-31
+"Azuay"	"Santa Isabel"	14	2020-05-31
+"Azuay"	"Sevilla de Oro"	3	2020-05-31
+"Azuay"	"Sígsig"	9	2020-05-31
+"Azuay"	"Camilo Ponce Enríquez"	37	2020-06-01
+"Azuay"	"Chordeleg"	1	2020-06-01
+"Azuay"	"Cuenca"	749	2020-06-01
+"Azuay"	"El Pan"	1	2020-06-01
+"Azuay"	"Girón"	4	2020-06-01
+"Azuay"	"Guachapala"	3	2020-06-01
+"Azuay"	"Gualaceo"	21	2020-06-01
+"Azuay"	"Nabón"	3	2020-06-01
+"Azuay"	"Oña"	0	2020-06-01
+"Azuay"	"Paute"	34	2020-06-01
+"Azuay"	"Pucará"	1	2020-06-01
+"Azuay"	"San Fernando"	0	2020-06-01
+"Azuay"	"Santa Isabel"	14	2020-06-01
+"Azuay"	"Sevilla de Oro"	3	2020-06-01
+"Azuay"	"Sígsig"	10	2020-06-01
+"Azuay"	"Camilo Ponce Enríquez"	38	2020-06-02
+"Azuay"	"Chordeleg"	1	2020-06-02
+"Azuay"	"Cuenca"	767	2020-06-02
+"Azuay"	"El Pan"	1	2020-06-02
+"Azuay"	"Girón"	4	2020-06-02
+"Azuay"	"Guachapala"	3	2020-06-02
+"Azuay"	"Gualaceo"	21	2020-06-02
+"Azuay"	"Nabón"	3	2020-06-02
+"Azuay"	"Oña"	0	2020-06-02
+"Azuay"	"Paute"	34	2020-06-02
+"Azuay"	"Pucará"	1	2020-06-02
+"Azuay"	"San Fernando"	0	2020-06-02
+"Azuay"	"Santa Isabel"	14	2020-06-02
+"Azuay"	"Sevilla de Oro"	3	2020-06-02
+"Azuay"	"Sígsig"	10	2020-06-02
+"Azuay"	"Camilo Ponce Enríquez"	38	2020-06-03
+"Azuay"	"Chordeleg"	1	2020-06-03
+"Azuay"	"Cuenca"	796	2020-06-03
+"Azuay"	"El Pan"	1	2020-06-03
+"Azuay"	"Girón"	5	2020-06-03
+"Azuay"	"Guachapala"	3	2020-06-03
+"Azuay"	"Gualaceo"	21	2020-06-03
+"Azuay"	"Nabón"	3	2020-06-03
+"Azuay"	"Oña"	0	2020-06-03
+"Azuay"	"Paute"	34	2020-06-03
+"Azuay"	"Pucará"	1	2020-06-03
+"Azuay"	"San Fernando"	0	2020-06-03
+"Azuay"	"Santa Isabel"	14	2020-06-03
+"Azuay"	"Sevilla de Oro"	3	2020-06-03
+"Azuay"	"Sígsig"	10	2020-06-03
+"Azuay"	"Camilo Ponce Enríquez"	40	2020-06-04
+"Azuay"	"Chordeleg"	1	2020-06-04
+"Azuay"	"Cuenca"	820	2020-06-04
+"Azuay"	"El Pan"	1	2020-06-04
+"Azuay"	"Girón"	5	2020-06-04
+"Azuay"	"Guachapala"	3	2020-06-04
+"Azuay"	"Gualaceo"	21	2020-06-04
+"Azuay"	"Nabón"	3	2020-06-04
+"Azuay"	"Oña"	0	2020-06-04
+"Azuay"	"Paute"	34	2020-06-04
+"Azuay"	"Pucará"	1	2020-06-04
+"Azuay"	"San Fernando"	0	2020-06-04
+"Azuay"	"Santa Isabel"	14	2020-06-04
+"Azuay"	"Sevilla de Oro"	3	2020-06-04
+"Azuay"	"Sígsig"	10	2020-06-04
+"Azuay"	"Camilo Ponce Enríquez"	42	2020-06-05
+"Azuay"	"Chordeleg"	1	2020-06-05
+"Azuay"	"Cuenca"	846	2020-06-05
+"Azuay"	"El Pan"	1	2020-06-05
+"Azuay"	"Girón"	5	2020-06-05
+"Azuay"	"Guachapala"	3	2020-06-05
+"Azuay"	"Gualaceo"	21	2020-06-05
+"Azuay"	"Nabón"	4	2020-06-05
+"Azuay"	"Oña"	0	2020-06-05
+"Azuay"	"Paute"	34	2020-06-05
+"Azuay"	"Pucará"	1	2020-06-05
+"Azuay"	"San Fernando"	0	2020-06-05
+"Azuay"	"Santa Isabel"	14	2020-06-05
+"Azuay"	"Sevilla de Oro"	3	2020-06-05
+"Azuay"	"Sígsig"	12	2020-06-05
+"Azuay"	"Camilo Ponce Enríquez"	42	2020-06-06
+"Azuay"	"Chordeleg"	1	2020-06-06
+"Azuay"	"Cuenca"	872	2020-06-06
+"Azuay"	"El Pan"	1	2020-06-06
+"Azuay"	"Girón"	6	2020-06-06
+"Azuay"	"Guachapala"	3	2020-06-06
+"Azuay"	"Gualaceo"	22	2020-06-06
+"Azuay"	"Nabón"	4	2020-06-06
+"Azuay"	"Oña"	0	2020-06-06
+"Azuay"	"Paute"	34	2020-06-06
+"Azuay"	"Pucará"	1	2020-06-06
+"Azuay"	"San Fernando"	0	2020-06-06
+"Azuay"	"Santa Isabel"	14	2020-06-06
+"Azuay"	"Sevilla de Oro"	3	2020-06-06
+"Azuay"	"Sígsig"	12	2020-06-06
+"Azuay"	"Camilo Ponce Enríquez"	42	2020-06-07
+"Azuay"	"Chordeleg"	1	2020-06-07
+"Azuay"	"Cuenca"	884	2020-06-07
+"Azuay"	"El Pan"	1	2020-06-07
+"Azuay"	"Girón"	6	2020-06-07
+"Azuay"	"Guachapala"	3	2020-06-07
+"Azuay"	"Gualaceo"	22	2020-06-07
+"Azuay"	"Nabón"	4	2020-06-07
+"Azuay"	"Oña"	0	2020-06-07
+"Azuay"	"Paute"	36	2020-06-07
+"Azuay"	"Pucará"	1	2020-06-07
+"Azuay"	"San Fernando"	0	2020-06-07
+"Azuay"	"Santa Isabel"	14	2020-06-07
+"Azuay"	"Sevilla de Oro"	4	2020-06-07
+"Azuay"	"Sígsig"	12	2020-06-07
+"Azuay"	"Camilo Ponce Enríquez"	43	2020-06-08
+"Azuay"	"Chordeleg"	1	2020-06-08
+"Azuay"	"Cuenca"	896	2020-06-08
+"Azuay"	"El Pan"	1	2020-06-08
+"Azuay"	"Girón"	6	2020-06-08
+"Azuay"	"Guachapala"	3	2020-06-08
+"Azuay"	"Gualaceo"	22	2020-06-08
+"Azuay"	"Nabón"	4	2020-06-08
+"Azuay"	"Oña"	0	2020-06-08
+"Azuay"	"Paute"	36	2020-06-08
+"Azuay"	"Pucará"	1	2020-06-08
+"Azuay"	"San Fernando"	0	2020-06-08
+"Azuay"	"Santa Isabel"	14	2020-06-08
+"Azuay"	"Sevilla de Oro"	4	2020-06-08
+"Azuay"	"Sígsig"	12	2020-06-08
+"Azuay"	"Camilo Ponce Enríquez"	49	2020-06-09
+"Azuay"	"Chordeleg"	1	2020-06-09
+"Azuay"	"Cuenca"	937	2020-06-09
+"Azuay"	"El Pan"	1	2020-06-09
+"Azuay"	"Girón"	6	2020-06-09
+"Azuay"	"Guachapala"	3	2020-06-09
+"Azuay"	"Gualaceo"	22	2020-06-09
+"Azuay"	"Nabón"	4	2020-06-09
+"Azuay"	"Oña"	0	2020-06-09
+"Azuay"	"Paute"	36	2020-06-09
+"Azuay"	"Pucará"	1	2020-06-09
+"Azuay"	"San Fernando"	0	2020-06-09
+"Azuay"	"Santa Isabel"	14	2020-06-09
+"Azuay"	"Sevilla de Oro"	4	2020-06-09
+"Azuay"	"Sígsig"	12	2020-06-09
+"Azuay"	"Camilo Ponce Enríquez"	49	2020-06-10
+"Azuay"	"Chordeleg"	1	2020-06-10
+"Azuay"	"Cuenca"	952	2020-06-10
+"Azuay"	"El Pan"	1	2020-06-10
+"Azuay"	"Girón"	6	2020-06-10
+"Azuay"	"Guachapala"	3	2020-06-10
+"Azuay"	"Gualaceo"	22	2020-06-10
+"Azuay"	"Nabón"	4	2020-06-10
+"Azuay"	"Oña"	0	2020-06-10
+"Azuay"	"Paute"	36	2020-06-10
+"Azuay"	"Pucará"	2	2020-06-10
+"Azuay"	"San Fernando"	0	2020-06-10
+"Azuay"	"Santa Isabel"	16	2020-06-10
+"Azuay"	"Sevilla de Oro"	4	2020-06-10
+"Azuay"	"Sígsig"	12	2020-06-10
+"Azuay"	"Camilo Ponce Enríquez"	50	2020-06-11
+"Azuay"	"Chordeleg"	1	2020-06-11
+"Azuay"	"Cuenca"	1001	2020-06-11
+"Azuay"	"El Pan"	1	2020-06-11
+"Azuay"	"Girón"	6	2020-06-11
+"Azuay"	"Guachapala"	3	2020-06-11
+"Azuay"	"Gualaceo"	22	2020-06-11
+"Azuay"	"Nabón"	4	2020-06-11
+"Azuay"	"Oña"	0	2020-06-11
+"Azuay"	"Paute"	38	2020-06-11
+"Azuay"	"Pucará"	2	2020-06-11
+"Azuay"	"San Fernando"	0	2020-06-11
+"Azuay"	"Santa Isabel"	16	2020-06-11
+"Azuay"	"Sevilla de Oro"	4	2020-06-11
+"Azuay"	"Sígsig"	12	2020-06-11
+"Azuay"	"Camilo Ponce Enríquez"	50	2020-06-12
+"Azuay"	"Chordeleg"	1	2020-06-12
+"Azuay"	"Cuenca"	1033	2020-06-12
+"Azuay"	"El Pan"	1	2020-06-12
+"Azuay"	"Girón"	6	2020-06-12
+"Azuay"	"Guachapala"	3	2020-06-12
+"Azuay"	"Gualaceo"	22	2020-06-12
+"Azuay"	"Nabón"	4	2020-06-12
+"Azuay"	"Oña"	0	2020-06-12
+"Azuay"	"Paute"	38	2020-06-12
+"Azuay"	"Pucará"	2	2020-06-12
+"Azuay"	"San Fernando"	0	2020-06-12
+"Azuay"	"Santa Isabel"	16	2020-06-12
+"Azuay"	"Sevilla de Oro"	4	2020-06-12
+"Azuay"	"Sígsig"	12	2020-06-12
+"Azuay"	"Camilo Ponce Enríquez"	52	2020-06-13
+"Azuay"	"Chordeleg"	1	2020-06-13
+"Azuay"	"Cuenca"	1070	2020-06-13
+"Azuay"	"El Pan"	1	2020-06-13
+"Azuay"	"Girón"	6	2020-06-13
+"Azuay"	"Guachapala"	3	2020-06-13
+"Azuay"	"Gualaceo"	22	2020-06-13
+"Azuay"	"Nabón"	4	2020-06-13
+"Azuay"	"Oña"	0	2020-06-13
+"Azuay"	"Paute"	38	2020-06-13
+"Azuay"	"Pucará"	2	2020-06-13
+"Azuay"	"San Fernando"	0	2020-06-13
+"Azuay"	"Santa Isabel"	17	2020-06-13
+"Azuay"	"Sevilla de Oro"	4	2020-06-13
+"Azuay"	"Sígsig"	12	2020-06-13
+"Azuay"	"Camilo Ponce Enríquez"	52	2020-06-14
+"Azuay"	"Chordeleg"	1	2020-06-14
+"Azuay"	"Cuenca"	1086	2020-06-14
+"Azuay"	"El Pan"	1	2020-06-14
+"Azuay"	"Girón"	6	2020-06-14
+"Azuay"	"Guachapala"	3	2020-06-14
+"Azuay"	"Gualaceo"	22	2020-06-14
+"Azuay"	"Nabón"	4	2020-06-14
+"Azuay"	"Oña"	0	2020-06-14
+"Azuay"	"Paute"	38	2020-06-14
+"Azuay"	"Pucará"	2	2020-06-14
+"Azuay"	"San Fernando"	0	2020-06-14
+"Azuay"	"Santa Isabel"	17	2020-06-14
+"Azuay"	"Sevilla de Oro"	5	2020-06-14
+"Azuay"	"Sígsig"	12	2020-06-14
+"Azuay"	"Camilo Ponce Enríquez"	53	2020-06-15
+"Azuay"	"Chordeleg"	1	2020-06-15
+"Azuay"	"Cuenca"	1098	2020-06-15
+"Azuay"	"El Pan"	1	2020-06-15
+"Azuay"	"Girón"	6	2020-06-15
+"Azuay"	"Guachapala"	3	2020-06-15
+"Azuay"	"Gualaceo"	22	2020-06-15
+"Azuay"	"Nabón"	4	2020-06-15
+"Azuay"	"Oña"	0	2020-06-15
+"Azuay"	"Paute"	38	2020-06-15
+"Azuay"	"Pucará"	2	2020-06-15
+"Azuay"	"San Fernando"	0	2020-06-15
+"Azuay"	"Santa Isabel"	17	2020-06-15
+"Azuay"	"Sevilla de Oro"	5	2020-06-15
+"Azuay"	"Sígsig"	12	2020-06-15
+"Azuay"	"Camilo Ponce Enríquez"	53	2020-06-16
+"Azuay"	"Chordeleg"	1	2020-06-16
+"Azuay"	"Cuenca"	1114	2020-06-16
+"Azuay"	"El Pan"	1	2020-06-16
+"Azuay"	"Girón"	6	2020-06-16
+"Azuay"	"Guachapala"	3	2020-06-16
+"Azuay"	"Gualaceo"	22	2020-06-16
+"Azuay"	"Nabón"	4	2020-06-16
+"Azuay"	"Oña"	0	2020-06-16
+"Azuay"	"Paute"	39	2020-06-16
+"Azuay"	"Pucará"	2	2020-06-16
+"Azuay"	"San Fernando"	0	2020-06-16
+"Azuay"	"Santa Isabel"	17	2020-06-16
+"Azuay"	"Sevilla de Oro"	5	2020-06-16
+"Azuay"	"Sígsig"	14	2020-06-16
+"Azuay"	"Camilo Ponce Enríquez"	54	2020-06-17
+"Azuay"	"Chordeleg"	1	2020-06-17
+"Azuay"	"Cuenca"	1126	2020-06-17
+"Azuay"	"El Pan"	1	2020-06-17
+"Azuay"	"Girón"	6	2020-06-17
+"Azuay"	"Guachapala"	3	2020-06-17
+"Azuay"	"Gualaceo"	22	2020-06-17
+"Azuay"	"Nabón"	4	2020-06-17
+"Azuay"	"Oña"	0	2020-06-17
+"Azuay"	"Paute"	39	2020-06-17
+"Azuay"	"Pucará"	2	2020-06-17
+"Azuay"	"San Fernando"	0	2020-06-17
+"Azuay"	"Santa Isabel"	17	2020-06-17
+"Azuay"	"Sevilla de Oro"	5	2020-06-17
+"Azuay"	"Sígsig"	14	2020-06-17
+"Azuay"	"Camilo Ponce Enríquez"	54	2020-06-18
+"Azuay"	"Chordeleg"	1	2020-06-18
+"Azuay"	"Cuenca"	1179	2020-06-18
+"Azuay"	"El Pan"	1	2020-06-18
+"Azuay"	"Girón"	6	2020-06-18
+"Azuay"	"Guachapala"	3	2020-06-18
+"Azuay"	"Gualaceo"	23	2020-06-18
+"Azuay"	"Nabón"	4	2020-06-18
+"Azuay"	"Oña"	0	2020-06-18
+"Azuay"	"Paute"	39	2020-06-18
+"Azuay"	"Pucará"	2	2020-06-18
+"Azuay"	"San Fernando"	0	2020-06-18
+"Azuay"	"Santa Isabel"	17	2020-06-18
+"Azuay"	"Sevilla de Oro"	5	2020-06-18
+"Azuay"	"Sígsig"	15	2020-06-18
+"Azuay"	"Camilo Ponce Enríquez"	56	2020-06-19
+"Azuay"	"Chordeleg"	1	2020-06-19
+"Azuay"	"Cuenca"	1189	2020-06-19
+"Azuay"	"El Pan"	1	2020-06-19
+"Azuay"	"Girón"	6	2020-06-19
+"Azuay"	"Guachapala"	3	2020-06-19
+"Azuay"	"Gualaceo"	23	2020-06-19
+"Azuay"	"Nabón"	4	2020-06-19
+"Azuay"	"Oña"	0	2020-06-19
+"Azuay"	"Paute"	39	2020-06-19
+"Azuay"	"Pucará"	2	2020-06-19
+"Azuay"	"San Fernando"	0	2020-06-19
+"Azuay"	"Santa Isabel"	17	2020-06-19
+"Azuay"	"Sevilla de Oro"	5	2020-06-19
+"Azuay"	"Sígsig"	15	2020-06-19
+"Azuay"	"Camilo Ponce Enríquez"	56	2020-06-20
+"Azuay"	"Chordeleg"	1	2020-06-20
+"Azuay"	"Cuenca"	1201	2020-06-20
+"Azuay"	"El Pan"	1	2020-06-20
+"Azuay"	"Girón"	6	2020-06-20
+"Azuay"	"Guachapala"	3	2020-06-20
+"Azuay"	"Gualaceo"	23	2020-06-20
+"Azuay"	"Nabón"	4	2020-06-20
+"Azuay"	"Oña"	0	2020-06-20
+"Azuay"	"Paute"	41	2020-06-20
+"Azuay"	"Pucará"	2	2020-06-20
+"Azuay"	"San Fernando"	0	2020-06-20
+"Azuay"	"Santa Isabel"	17	2020-06-20
+"Azuay"	"Sevilla de Oro"	5	2020-06-20
+"Azuay"	"Sígsig"	15	2020-06-20
+"Azuay"	"Camilo Ponce Enríquez"	56	2020-06-21
+"Azuay"	"Chordeleg"	1	2020-06-21
+"Azuay"	"Cuenca"	1235	2020-06-21
+"Azuay"	"El Pan"	1	2020-06-21
+"Azuay"	"Girón"	6	2020-06-21
+"Azuay"	"Guachapala"	3	2020-06-21
+"Azuay"	"Gualaceo"	23	2020-06-21
+"Azuay"	"Nabón"	4	2020-06-21
+"Azuay"	"Oña"	0	2020-06-21
+"Azuay"	"Paute"	41	2020-06-21
+"Azuay"	"Pucará"	2	2020-06-21
+"Azuay"	"San Fernando"	0	2020-06-21
+"Azuay"	"Santa Isabel"	17	2020-06-21
+"Azuay"	"Sevilla de Oro"	8	2020-06-21
+"Azuay"	"Sígsig"	17	2020-06-21
+"Azuay"	"Camilo Ponce Enríquez"	56	2020-06-22
+"Azuay"	"Chordeleg"	1	2020-06-22
+"Azuay"	"Cuenca"	1243	2020-06-22
+"Azuay"	"El Pan"	1	2020-06-22
+"Azuay"	"Girón"	6	2020-06-22
+"Azuay"	"Guachapala"	3	2020-06-22
+"Azuay"	"Gualaceo"	23	2020-06-22
+"Azuay"	"Nabón"	4	2020-06-22
+"Azuay"	"Oña"	0	2020-06-22
+"Azuay"	"Paute"	43	2020-06-22
+"Azuay"	"Pucará"	2	2020-06-22
+"Azuay"	"San Fernando"	0	2020-06-22
+"Azuay"	"Santa Isabel"	17	2020-06-22
+"Azuay"	"Sevilla de Oro"	8	2020-06-22
+"Azuay"	"Sígsig"	17	2020-06-22
+"Azuay"	"Camilo Ponce Enríquez"	57	2020-06-23
+"Azuay"	"Chordeleg"	1	2020-06-23
+"Azuay"	"Cuenca"	1292	2020-06-23
+"Azuay"	"El Pan"	1	2020-06-23
+"Azuay"	"Girón"	6	2020-06-23
+"Azuay"	"Guachapala"	3	2020-06-23
+"Azuay"	"Gualaceo"	23	2020-06-23
+"Azuay"	"Nabón"	4	2020-06-23
+"Azuay"	"Oña"	0	2020-06-23
+"Azuay"	"Paute"	43	2020-06-23
+"Azuay"	"Pucará"	2	2020-06-23
+"Azuay"	"San Fernando"	0	2020-06-23
+"Azuay"	"Santa Isabel"	18	2020-06-23
+"Azuay"	"Sevilla de Oro"	8	2020-06-23
+"Azuay"	"Sígsig"	17	2020-06-23
+"Azuay"	"Camilo Ponce Enríquez"	57	2020-06-24
+"Azuay"	"Chordeleg"	1	2020-06-24
+"Azuay"	"Cuenca"	1331	2020-06-24
+"Azuay"	"El Pan"	1	2020-06-24
+"Azuay"	"Girón"	6	2020-06-24
+"Azuay"	"Guachapala"	3	2020-06-24
+"Azuay"	"Gualaceo"	24	2020-06-24
+"Azuay"	"Nabón"	4	2020-06-24
+"Azuay"	"Oña"	0	2020-06-24
+"Azuay"	"Paute"	44	2020-06-24
+"Azuay"	"Pucará"	2	2020-06-24
+"Azuay"	"San Fernando"	0	2020-06-24
+"Azuay"	"Santa Isabel"	18	2020-06-24
+"Azuay"	"Sevilla de Oro"	8	2020-06-24
+"Azuay"	"Sígsig"	17	2020-06-24
+"Azuay"	"Camilo Ponce Enríquez"	60	2020-06-25
+"Azuay"	"Chordeleg"	1	2020-06-25
+"Azuay"	"Cuenca"	1362	2020-06-25
+"Azuay"	"El Pan"	1	2020-06-25
+"Azuay"	"Girón"	6	2020-06-25
+"Azuay"	"Guachapala"	3	2020-06-25
+"Azuay"	"Gualaceo"	25	2020-06-25
+"Azuay"	"Nabón"	4	2020-06-25
+"Azuay"	"Oña"	0	2020-06-25
+"Azuay"	"Paute"	44	2020-06-25
+"Azuay"	"Pucará"	2	2020-06-25
+"Azuay"	"San Fernando"	0	2020-06-25
+"Azuay"	"Santa Isabel"	18	2020-06-25
+"Azuay"	"Sevilla de Oro"	8	2020-06-25
+"Azuay"	"Sígsig"	17	2020-06-25
+"Azuay"	"Camilo Ponce Enríquez"	60	2020-06-26
+"Azuay"	"Chordeleg"	1	2020-06-26
+"Azuay"	"Cuenca"	1405	2020-06-26
+"Azuay"	"El Pan"	1	2020-06-26
+"Azuay"	"Girón"	6	2020-06-26
+"Azuay"	"Guachapala"	3	2020-06-26
+"Azuay"	"Gualaceo"	25	2020-06-26
+"Azuay"	"Nabón"	6	2020-06-26
+"Azuay"	"Oña"	0	2020-06-26
+"Azuay"	"Paute"	45	2020-06-26
+"Azuay"	"Pucará"	2	2020-06-26
+"Azuay"	"San Fernando"	0	2020-06-26
+"Azuay"	"Santa Isabel"	18	2020-06-26
+"Azuay"	"Sevilla de Oro"	8	2020-06-26
+"Azuay"	"Sígsig"	18	2020-06-26
+"Azuay"	"Camilo Ponce Enríquez"	60	2020-06-27
+"Azuay"	"Chordeleg"	2	2020-06-27
+"Azuay"	"Cuenca"	1458	2020-06-27
+"Azuay"	"El Pan"	1	2020-06-27
+"Azuay"	"Girón"	6	2020-06-27
+"Azuay"	"Guachapala"	3	2020-06-27
+"Azuay"	"Gualaceo"	25	2020-06-27
+"Azuay"	"Nabón"	6	2020-06-27
+"Azuay"	"Oña"	0	2020-06-27
+"Azuay"	"Paute"	48	2020-06-27
+"Azuay"	"Pucará"	2	2020-06-27
+"Azuay"	"San Fernando"	0	2020-06-27
+"Azuay"	"Santa Isabel"	18	2020-06-27
+"Azuay"	"Sevilla de Oro"	8	2020-06-27
+"Azuay"	"Sígsig"	19	2020-06-27
+"Azuay"	"Camilo Ponce Enríquez"	67	2020-06-28
+"Azuay"	"Chordeleg"	2	2020-06-28
+"Azuay"	"Cuenca"	1469	2020-06-28
+"Azuay"	"El Pan"	1	2020-06-28
+"Azuay"	"Girón"	6	2020-06-28
+"Azuay"	"Guachapala"	3	2020-06-28
+"Azuay"	"Gualaceo"	25	2020-06-28
+"Azuay"	"Nabón"	6	2020-06-28
+"Azuay"	"Oña"	1	2020-06-28
+"Azuay"	"Paute"	50	2020-06-28
+"Azuay"	"Pucará"	2	2020-06-28
+"Azuay"	"San Fernando"	0	2020-06-28
+"Azuay"	"Santa Isabel"	18	2020-06-28
+"Azuay"	"Sevilla de Oro"	8	2020-06-28
+"Azuay"	"Sígsig"	19	2020-06-28
+"Azuay"	"Camilo Ponce Enríquez"	67	2020-06-29
+"Azuay"	"Chordeleg"	2	2020-06-29
+"Azuay"	"Cuenca"	1543	2020-06-29
+"Azuay"	"El Pan"	1	2020-06-29
+"Azuay"	"Girón"	6	2020-06-29
+"Azuay"	"Guachapala"	3	2020-06-29
+"Azuay"	"Gualaceo"	26	2020-06-29
+"Azuay"	"Nabón"	6	2020-06-29
+"Azuay"	"Oña"	1	2020-06-29
+"Azuay"	"Paute"	50	2020-06-29
+"Azuay"	"Pucará"	2	2020-06-29
+"Azuay"	"San Fernando"	0	2020-06-29
+"Azuay"	"Santa Isabel"	18	2020-06-29
+"Azuay"	"Sevilla de Oro"	8	2020-06-29
+"Azuay"	"Sígsig"	19	2020-06-29
+"Azuay"	"Camilo Ponce Enríquez"	67	2020-06-30
+"Azuay"	"Chordeleg"	2	2020-06-30
+"Azuay"	"Cuenca"	1553	2020-06-30
+"Azuay"	"El Pan"	1	2020-06-30
+"Azuay"	"Girón"	6	2020-06-30
+"Azuay"	"Guachapala"	3	2020-06-30
+"Azuay"	"Gualaceo"	26	2020-06-30
+"Azuay"	"Nabón"	6	2020-06-30
+"Azuay"	"Oña"	1	2020-06-30
+"Azuay"	"Paute"	50	2020-06-30
+"Azuay"	"Pucará"	2	2020-06-30
+"Azuay"	"San Fernando"	0	2020-06-30
+"Azuay"	"Santa Isabel"	18	2020-06-30
+"Azuay"	"Sevilla de Oro"	8	2020-06-30
+"Azuay"	"Sígsig"	19	2020-06-30
+"Azuay"	"Camilo Ponce Enríquez"	67	2020-07-01
+"Azuay"	"Chordeleg"	2	2020-07-01
+"Azuay"	"Cuenca"	1580	2020-07-01
+"Azuay"	"El Pan"	1	2020-07-01
+"Azuay"	"Girón"	6	2020-07-01
+"Azuay"	"Guachapala"	3	2020-07-01
+"Azuay"	"Gualaceo"	26	2020-07-01
+"Azuay"	"Nabón"	6	2020-07-01
+"Azuay"	"Oña"	1	2020-07-01
+"Azuay"	"Paute"	50	2020-07-01
+"Azuay"	"Pucará"	2	2020-07-01
+"Azuay"	"San Fernando"	0	2020-07-01
+"Azuay"	"Santa Isabel"	19	2020-07-01
+"Azuay"	"Sevilla de Oro"	8	2020-07-01
+"Azuay"	"Sígsig"	20	2020-07-01
+"Azuay"	"Camilo Ponce Enríquez"	71	2020-07-02
+"Azuay"	"Chordeleg"	4	2020-07-02
+"Azuay"	"Cuenca"	1624	2020-07-02
+"Azuay"	"El Pan"	1	2020-07-02
+"Azuay"	"Girón"	6	2020-07-02
+"Azuay"	"Guachapala"	3	2020-07-02
+"Azuay"	"Gualaceo"	26	2020-07-02
+"Azuay"	"Nabón"	6	2020-07-02
+"Azuay"	"Oña"	1	2020-07-02
+"Azuay"	"Paute"	50	2020-07-02
+"Azuay"	"Pucará"	2	2020-07-02
+"Azuay"	"San Fernando"	0	2020-07-02
+"Azuay"	"Santa Isabel"	19	2020-07-02
+"Azuay"	"Sevilla de Oro"	8	2020-07-02
+"Azuay"	"Sígsig"	22	2020-07-02
+"Azuay"	"Camilo Ponce Enríquez"	73	2020-07-03
+"Azuay"	"Chordeleg"	4	2020-07-03
+"Azuay"	"Cuenca"	1656	2020-07-03
+"Azuay"	"El Pan"	1	2020-07-03
+"Azuay"	"Girón"	6	2020-07-03
+"Azuay"	"Guachapala"	3	2020-07-03
+"Azuay"	"Gualaceo"	26	2020-07-03
+"Azuay"	"Nabón"	6	2020-07-03
+"Azuay"	"Oña"	1	2020-07-03
+"Azuay"	"Paute"	52	2020-07-03
+"Azuay"	"Pucará"	2	2020-07-03
+"Azuay"	"San Fernando"	3	2020-07-03
+"Azuay"	"Santa Isabel"	23	2020-07-03
+"Azuay"	"Sevilla de Oro"	8	2020-07-03
+"Azuay"	"Sígsig"	25	2020-07-03
+"Azuay"	"Camilo Ponce Enríquez"	75	2020-07-04
+"Azuay"	"Chordeleg"	4	2020-07-04
+"Azuay"	"Cuenca"	1672	2020-07-04
+"Azuay"	"El Pan"	1	2020-07-04
+"Azuay"	"Girón"	6	2020-07-04
+"Azuay"	"Guachapala"	3	2020-07-04
+"Azuay"	"Gualaceo"	26	2020-07-04
+"Azuay"	"Nabón"	6	2020-07-04
+"Azuay"	"Oña"	1	2020-07-04
+"Azuay"	"Paute"	56	2020-07-04
+"Azuay"	"Pucará"	2	2020-07-04
+"Azuay"	"San Fernando"	3	2020-07-04
+"Azuay"	"Santa Isabel"	29	2020-07-04
+"Azuay"	"Sevilla de Oro"	8	2020-07-04
+"Azuay"	"Sígsig"	25	2020-07-04
+"Azuay"	"Camilo Ponce Enríquez"	75	2020-07-05
+"Azuay"	"Chordeleg"	4	2020-07-05
+"Azuay"	"Cuenca"	1686	2020-07-05
+"Azuay"	"El Pan"	1	2020-07-05
+"Azuay"	"Girón"	6	2020-07-05
+"Azuay"	"Guachapala"	3	2020-07-05
+"Azuay"	"Gualaceo"	29	2020-07-05
+"Azuay"	"Nabón"	6	2020-07-05
+"Azuay"	"Oña"	1	2020-07-05
+"Azuay"	"Paute"	56	2020-07-05
+"Azuay"	"Pucará"	2	2020-07-05
+"Azuay"	"San Fernando"	3	2020-07-05
+"Azuay"	"Santa Isabel"	30	2020-07-05
+"Azuay"	"Sevilla de Oro"	8	2020-07-05
+"Azuay"	"Sígsig"	25	2020-07-05
+"Azuay"	"Camilo Ponce Enríquez"	75	2020-07-06
+"Azuay"	"Chordeleg"	4	2020-07-06
+"Azuay"	"Cuenca"	1740	2020-07-06
+"Azuay"	"El Pan"	1	2020-07-06
+"Azuay"	"Girón"	6	2020-07-06
+"Azuay"	"Guachapala"	3	2020-07-06
+"Azuay"	"Gualaceo"	29	2020-07-06
+"Azuay"	"Nabón"	6	2020-07-06
+"Azuay"	"Oña"	1	2020-07-06
+"Azuay"	"Paute"	57	2020-07-06
+"Azuay"	"Pucará"	2	2020-07-06
+"Azuay"	"San Fernando"	3	2020-07-06
+"Azuay"	"Santa Isabel"	33	2020-07-06
+"Azuay"	"Sevilla de Oro"	8	2020-07-06
+"Azuay"	"Sígsig"	25	2020-07-06
+"Azuay"	"Camilo Ponce Enríquez"	75	2020-07-07
+"Azuay"	"Chordeleg"	4	2020-07-07
+"Azuay"	"Cuenca"	1757	2020-07-07
+"Azuay"	"El Pan"	1	2020-07-07
+"Azuay"	"Girón"	6	2020-07-07
+"Azuay"	"Guachapala"	3	2020-07-07
+"Azuay"	"Gualaceo"	29	2020-07-07
+"Azuay"	"Nabón"	6	2020-07-07
+"Azuay"	"Oña"	1	2020-07-07
+"Azuay"	"Paute"	57	2020-07-07
+"Azuay"	"Pucará"	2	2020-07-07
+"Azuay"	"San Fernando"	3	2020-07-07
+"Azuay"	"Santa Isabel"	33	2020-07-07
+"Azuay"	"Sevilla de Oro"	8	2020-07-07
+"Azuay"	"Sígsig"	26	2020-07-07
+"Azuay"	"Camilo Ponce Enríquez"	75	2020-07-08
+"Azuay"	"Chordeleg"	4	2020-07-08
+"Azuay"	"Cuenca"	1802	2020-07-08
+"Azuay"	"El Pan"	2	2020-07-08
+"Azuay"	"Girón"	6	2020-07-08
+"Azuay"	"Guachapala"	3	2020-07-08
+"Azuay"	"Gualaceo"	30	2020-07-08
+"Azuay"	"Nabón"	6	2020-07-08
+"Azuay"	"Oña"	1	2020-07-08
+"Azuay"	"Paute"	59	2020-07-08
+"Azuay"	"Pucará"	2	2020-07-08
+"Azuay"	"San Fernando"	3	2020-07-08
+"Azuay"	"Santa Isabel"	35	2020-07-08
+"Azuay"	"Sevilla de Oro"	9	2020-07-08
+"Azuay"	"Sígsig"	26	2020-07-08
+"Azuay"	"Camilo Ponce Enríquez"	75	2020-07-09
+"Azuay"	"Chordeleg"	5	2020-07-09
+"Azuay"	"Cuenca"	1829	2020-07-09
+"Azuay"	"El Pan"	2	2020-07-09
+"Azuay"	"Girón"	6	2020-07-09
+"Azuay"	"Guachapala"	3	2020-07-09
+"Azuay"	"Gualaceo"	32	2020-07-09
+"Azuay"	"Nabón"	6	2020-07-09
+"Azuay"	"Oña"	1	2020-07-09
+"Azuay"	"Paute"	60	2020-07-09
+"Azuay"	"Pucará"	2	2020-07-09
+"Azuay"	"San Fernando"	3	2020-07-09
+"Azuay"	"Santa Isabel"	36	2020-07-09
+"Azuay"	"Sevilla de Oro"	9	2020-07-09
+"Azuay"	"Sígsig"	30	2020-07-09
+"Azuay"	"Camilo Ponce Enríquez"	79	2020-07-10
+"Azuay"	"Chordeleg"	5	2020-07-10
+"Azuay"	"Cuenca"	1907	2020-07-10
+"Azuay"	"El Pan"	2	2020-07-10
+"Azuay"	"Girón"	6	2020-07-10
+"Azuay"	"Guachapala"	3	2020-07-10
+"Azuay"	"Gualaceo"	36	2020-07-10
+"Azuay"	"Nabón"	6	2020-07-10
+"Azuay"	"Oña"	1	2020-07-10
+"Azuay"	"Paute"	63	2020-07-10
+"Azuay"	"Pucará"	3	2020-07-10
+"Azuay"	"San Fernando"	3	2020-07-10
+"Azuay"	"Santa Isabel"	37	2020-07-10
+"Azuay"	"Sevilla de Oro"	9	2020-07-10
+"Azuay"	"Sígsig"	30	2020-07-10
+"Azuay"	"Camilo Ponce Enríquez"	80	2020-07-11
+"Azuay"	"Chordeleg"	5	2020-07-11
+"Azuay"	"Cuenca"	1940	2020-07-11
+"Azuay"	"El Pan"	2	2020-07-11
+"Azuay"	"Girón"	6	2020-07-11
+"Azuay"	"Guachapala"	3	2020-07-11
+"Azuay"	"Gualaceo"	39	2020-07-11
+"Azuay"	"Nabón"	6	2020-07-11
+"Azuay"	"Oña"	1	2020-07-11
+"Azuay"	"Paute"	64	2020-07-11
+"Azuay"	"Pucará"	3	2020-07-11
+"Azuay"	"San Fernando"	3	2020-07-11
+"Azuay"	"Santa Isabel"	39	2020-07-11
+"Azuay"	"Sevilla de Oro"	9	2020-07-11
+"Azuay"	"Sígsig"	31	2020-07-11
+"Azuay"	"Camilo Ponce Enríquez"	90	2020-07-12
+"Azuay"	"Chordeleg"	5	2020-07-12
+"Azuay"	"Cuenca"	1959	2020-07-12
+"Azuay"	"El Pan"	2	2020-07-12
+"Azuay"	"Girón"	6	2020-07-12
+"Azuay"	"Guachapala"	3	2020-07-12
+"Azuay"	"Gualaceo"	39	2020-07-12
+"Azuay"	"Nabón"	6	2020-07-12
+"Azuay"	"Oña"	1	2020-07-12
+"Azuay"	"Paute"	64	2020-07-12
+"Azuay"	"Pucará"	3	2020-07-12
+"Azuay"	"San Fernando"	3	2020-07-12
+"Azuay"	"Santa Isabel"	40	2020-07-12
+"Azuay"	"Sevilla de Oro"	9	2020-07-12
+"Azuay"	"Sígsig"	32	2020-07-12
+"Azuay"	"Camilo Ponce Enríquez"	90	2020-07-13
+"Azuay"	"Chordeleg"	5	2020-07-13
+"Azuay"	"Cuenca"	2025	2020-07-13
+"Azuay"	"El Pan"	2	2020-07-13
+"Azuay"	"Girón"	6	2020-07-13
+"Azuay"	"Guachapala"	3	2020-07-13
+"Azuay"	"Gualaceo"	39	2020-07-13
+"Azuay"	"Nabón"	6	2020-07-13
+"Azuay"	"Oña"	1	2020-07-13
+"Azuay"	"Paute"	71	2020-07-13
+"Azuay"	"Pucará"	3	2020-07-13
+"Azuay"	"San Fernando"	3	2020-07-13
+"Azuay"	"Santa Isabel"	40	2020-07-13
+"Azuay"	"Sevilla de Oro"	9	2020-07-13
+"Azuay"	"Sígsig"	33	2020-07-13
+"Azuay"	"Camilo Ponce Enríquez"	91	2020-07-14
+"Azuay"	"Chordeleg"	5	2020-07-14
+"Azuay"	"Cuenca"	2050	2020-07-14
+"Azuay"	"El Pan"	2	2020-07-14
+"Azuay"	"Girón"	6	2020-07-14
+"Azuay"	"Guachapala"	3	2020-07-14
+"Azuay"	"Gualaceo"	39	2020-07-14
+"Azuay"	"Nabón"	6	2020-07-14
+"Azuay"	"Oña"	1	2020-07-14
+"Azuay"	"Paute"	71	2020-07-14
+"Azuay"	"Pucará"	3	2020-07-14
+"Azuay"	"San Fernando"	3	2020-07-14
+"Azuay"	"Santa Isabel"	41	2020-07-14
+"Azuay"	"Sevilla de Oro"	9	2020-07-14
+"Azuay"	"Sígsig"	33	2020-07-14
+"Azuay"	"Camilo Ponce Enríquez"	91	2020-07-15
+"Azuay"	"Chordeleg"	5	2020-07-15
+"Azuay"	"Cuenca"	2086	2020-07-15
+"Azuay"	"El Pan"	2	2020-07-15
+"Azuay"	"Girón"	6	2020-07-15
+"Azuay"	"Guachapala"	3	2020-07-15
+"Azuay"	"Gualaceo"	40	2020-07-15
+"Azuay"	"Nabón"	6	2020-07-15
+"Azuay"	"Oña"	1	2020-07-15
+"Azuay"	"Paute"	71	2020-07-15
+"Azuay"	"Pucará"	3	2020-07-15
+"Azuay"	"San Fernando"	3	2020-07-15
+"Azuay"	"Santa Isabel"	42	2020-07-15
+"Azuay"	"Sevilla de Oro"	9	2020-07-15
+"Azuay"	"Sígsig"	33	2020-07-15
+"Azuay"	"Camilo Ponce Enríquez"	93	2020-07-16
+"Azuay"	"Chordeleg"	5	2020-07-16
+"Azuay"	"Cuenca"	2143	2020-07-16
+"Azuay"	"El Pan"	2	2020-07-16
+"Azuay"	"Girón"	6	2020-07-16
+"Azuay"	"Guachapala"	3	2020-07-16
+"Azuay"	"Gualaceo"	43	2020-07-16
+"Azuay"	"Nabón"	6	2020-07-16
+"Azuay"	"Oña"	1	2020-07-16
+"Azuay"	"Paute"	71	2020-07-16
+"Azuay"	"Pucará"	3	2020-07-16
+"Azuay"	"San Fernando"	3	2020-07-16
+"Azuay"	"Santa Isabel"	42	2020-07-16
+"Azuay"	"Sevilla de Oro"	9	2020-07-16
+"Azuay"	"Sígsig"	33	2020-07-16
+"Azuay"	"Camilo Ponce Enríquez"	93	2020-07-17
+"Azuay"	"Chordeleg"	5	2020-07-17
+"Azuay"	"Cuenca"	2187	2020-07-17
+"Azuay"	"El Pan"	2	2020-07-17
+"Azuay"	"Girón"	6	2020-07-17
+"Azuay"	"Guachapala"	3	2020-07-17
+"Azuay"	"Gualaceo"	43	2020-07-17
+"Azuay"	"Nabón"	6	2020-07-17
+"Azuay"	"Oña"	1	2020-07-17
+"Azuay"	"Paute"	71	2020-07-17
+"Azuay"	"Pucará"	3	2020-07-17
+"Azuay"	"San Fernando"	3	2020-07-17
+"Azuay"	"Santa Isabel"	45	2020-07-17
+"Azuay"	"Sevilla de Oro"	9	2020-07-17
+"Azuay"	"Sígsig"	33	2020-07-17
+"Azuay"	"Camilo Ponce Enríquez"	95	2020-07-18
+"Azuay"	"Chordeleg"	6	2020-07-18
+"Azuay"	"Cuenca"	2261	2020-07-18
+"Azuay"	"El Pan"	2	2020-07-18
+"Azuay"	"Girón"	6	2020-07-18
+"Azuay"	"Guachapala"	3	2020-07-18
+"Azuay"	"Gualaceo"	44	2020-07-18
+"Azuay"	"Nabón"	6	2020-07-18
+"Azuay"	"Oña"	1	2020-07-18
+"Azuay"	"Paute"	72	2020-07-18
+"Azuay"	"Pucará"	3	2020-07-18
+"Azuay"	"San Fernando"	3	2020-07-18
+"Azuay"	"Santa Isabel"	45	2020-07-18
+"Azuay"	"Sevilla de Oro"	9	2020-07-18
+"Azuay"	"Sígsig"	34	2020-07-18
+"Azuay"	"Camilo Ponce Enríquez"	103	2020-07-19
+"Azuay"	"Chordeleg"	8	2020-07-19
+"Azuay"	"Cuenca"	2295	2020-07-19
+"Azuay"	"El Pan"	2	2020-07-19
+"Azuay"	"Girón"	6	2020-07-19
+"Azuay"	"Guachapala"	3	2020-07-19
+"Azuay"	"Gualaceo"	45	2020-07-19
+"Azuay"	"Nabón"	6	2020-07-19
+"Azuay"	"Oña"	1	2020-07-19
+"Azuay"	"Paute"	74	2020-07-19
+"Azuay"	"Pucará"	9	2020-07-19
+"Azuay"	"San Fernando"	3	2020-07-19
+"Azuay"	"Santa Isabel"	49	2020-07-19
+"Azuay"	"Sevilla de Oro"	9	2020-07-19
+"Azuay"	"Sígsig"	38	2020-07-19
+"Azuay"	"Camilo Ponce Enríquez"	103	2020-07-20
+"Azuay"	"Chordeleg"	8	2020-07-20
+"Azuay"	"Cuenca"	2304	2020-07-20
+"Azuay"	"El Pan"	2	2020-07-20
+"Azuay"	"Girón"	6	2020-07-20
+"Azuay"	"Guachapala"	3	2020-07-20
+"Azuay"	"Gualaceo"	45	2020-07-20
+"Azuay"	"Nabón"	6	2020-07-20
+"Azuay"	"Oña"	1	2020-07-20
+"Azuay"	"Paute"	75	2020-07-20
+"Azuay"	"Pucará"	9	2020-07-20
+"Azuay"	"San Fernando"	3	2020-07-20
+"Azuay"	"Santa Isabel"	50	2020-07-20
+"Azuay"	"Sevilla de Oro"	9	2020-07-20
+"Azuay"	"Sígsig"	38	2020-07-20
+"Azuay"	"Camilo Ponce Enríquez"	103	2020-07-21
+"Azuay"	"Chordeleg"	9	2020-07-21
+"Azuay"	"Cuenca"	2318	2020-07-21
+"Azuay"	"El Pan"	2	2020-07-21
+"Azuay"	"Girón"	7	2020-07-21
+"Azuay"	"Guachapala"	3	2020-07-21
+"Azuay"	"Gualaceo"	47	2020-07-21
+"Azuay"	"Nabón"	6	2020-07-21
+"Azuay"	"Oña"	1	2020-07-21
+"Azuay"	"Paute"	75	2020-07-21
+"Azuay"	"Pucará"	9	2020-07-21
+"Azuay"	"San Fernando"	3	2020-07-21
+"Azuay"	"Santa Isabel"	51	2020-07-21
+"Azuay"	"Sevilla de Oro"	9	2020-07-21
+"Azuay"	"Sígsig"	38	2020-07-21
+"Azuay"	"Camilo Ponce Enríquez"	103	2020-07-22
+"Azuay"	"Chordeleg"	11	2020-07-22
+"Azuay"	"Cuenca"	2435	2020-07-22
+"Azuay"	"El Pan"	2	2020-07-22
+"Azuay"	"Girón"	7	2020-07-22
+"Azuay"	"Guachapala"	3	2020-07-22
+"Azuay"	"Gualaceo"	51	2020-07-22
+"Azuay"	"Nabón"	6	2020-07-22
+"Azuay"	"Oña"	1	2020-07-22
+"Azuay"	"Paute"	75	2020-07-22
+"Azuay"	"Pucará"	9	2020-07-22
+"Azuay"	"San Fernando"	3	2020-07-22
+"Azuay"	"Santa Isabel"	52	2020-07-22
+"Azuay"	"Sevilla de Oro"	9	2020-07-22
+"Azuay"	"Sígsig"	38	2020-07-22
+"Azuay"	"Camilo Ponce Enríquez"	105	2020-07-23
+"Azuay"	"Chordeleg"	12	2020-07-23
+"Azuay"	"Cuenca"	2463	2020-07-23
+"Azuay"	"El Pan"	2	2020-07-23
+"Azuay"	"Girón"	7	2020-07-23
+"Azuay"	"Guachapala"	3	2020-07-23
+"Azuay"	"Gualaceo"	55	2020-07-23
+"Azuay"	"Nabón"	6	2020-07-23
+"Azuay"	"Oña"	1	2020-07-23
+"Azuay"	"Paute"	76	2020-07-23
+"Azuay"	"Pucará"	9	2020-07-23
+"Azuay"	"San Fernando"	3	2020-07-23
+"Azuay"	"Santa Isabel"	61	2020-07-23
+"Azuay"	"Sevilla de Oro"	9	2020-07-23
+"Azuay"	"Sígsig"	44	2020-07-23
+"Azuay"	"Camilo Ponce Enríquez"	113	2020-07-24
+"Azuay"	"Chordeleg"	14	2020-07-24
+"Azuay"	"Cuenca"	2509	2020-07-24
+"Azuay"	"El Pan"	2	2020-07-24
+"Azuay"	"Girón"	7	2020-07-24
+"Azuay"	"Guachapala"	3	2020-07-24
+"Azuay"	"Gualaceo"	59	2020-07-24
+"Azuay"	"Nabón"	6	2020-07-24
+"Azuay"	"Oña"	1	2020-07-24
+"Azuay"	"Paute"	86	2020-07-24
+"Azuay"	"Pucará"	9	2020-07-24
+"Azuay"	"San Fernando"	3	2020-07-24
+"Azuay"	"Santa Isabel"	65	2020-07-24
+"Azuay"	"Sevilla de Oro"	9	2020-07-24
+"Azuay"	"Sígsig"	47	2020-07-24
+"Azuay"	"Camilo Ponce Enríquez"	113	2020-07-25
+"Azuay"	"Chordeleg"	14	2020-07-25
+"Azuay"	"Cuenca"	2549	2020-07-25
+"Azuay"	"El Pan"	2	2020-07-25
+"Azuay"	"Girón"	7	2020-07-25
+"Azuay"	"Guachapala"	3	2020-07-25
+"Azuay"	"Gualaceo"	60	2020-07-25
+"Azuay"	"Nabón"	7	2020-07-25
+"Azuay"	"Oña"	1	2020-07-25
+"Azuay"	"Paute"	88	2020-07-25
+"Azuay"	"Pucará"	9	2020-07-25
+"Azuay"	"San Fernando"	3	2020-07-25
+"Azuay"	"Santa Isabel"	74	2020-07-25
+"Azuay"	"Sevilla de Oro"	9	2020-07-25
+"Azuay"	"Sígsig"	47	2020-07-25
+"Azuay"	"Camilo Ponce Enríquez"	113	2020-07-26
+"Azuay"	"Chordeleg"	14	2020-07-26
+"Azuay"	"Cuenca"	2572	2020-07-26
+"Azuay"	"El Pan"	2	2020-07-26
+"Azuay"	"Girón"	7	2020-07-26
+"Azuay"	"Guachapala"	3	2020-07-26
+"Azuay"	"Gualaceo"	60	2020-07-26
+"Azuay"	"Nabón"	8	2020-07-26
+"Azuay"	"Oña"	1	2020-07-26
+"Azuay"	"Paute"	89	2020-07-26
+"Azuay"	"Pucará"	9	2020-07-26
+"Azuay"	"San Fernando"	3	2020-07-26
+"Azuay"	"Santa Isabel"	74	2020-07-26
+"Azuay"	"Sevilla de Oro"	9	2020-07-26
+"Azuay"	"Sígsig"	49	2020-07-26
+"Azuay"	"Camilo Ponce Enríquez"	113	2020-07-27
+"Azuay"	"Chordeleg"	14	2020-07-27
+"Azuay"	"Cuenca"	2592	2020-07-27
+"Azuay"	"El Pan"	2	2020-07-27
+"Azuay"	"Girón"	7	2020-07-27
+"Azuay"	"Guachapala"	3	2020-07-27
+"Azuay"	"Gualaceo"	60	2020-07-27
+"Azuay"	"Nabón"	8	2020-07-27
+"Azuay"	"Oña"	1	2020-07-27
+"Azuay"	"Paute"	89	2020-07-27
+"Azuay"	"Pucará"	9	2020-07-27
+"Azuay"	"San Fernando"	3	2020-07-27
+"Azuay"	"Santa Isabel"	74	2020-07-27
+"Azuay"	"Sevilla de Oro"	9	2020-07-27
+"Azuay"	"Sígsig"	49	2020-07-27
+"Azuay"	"Camilo Ponce Enríquez"	113	2020-07-28
+"Azuay"	"Chordeleg"	14	2020-07-28
+"Azuay"	"Cuenca"	2624	2020-07-28
+"Azuay"	"El Pan"	2	2020-07-28
+"Azuay"	"Girón"	7	2020-07-28
+"Azuay"	"Guachapala"	3	2020-07-28
+"Azuay"	"Gualaceo"	61	2020-07-28
+"Azuay"	"Nabón"	8	2020-07-28
+"Azuay"	"Oña"	1	2020-07-28
+"Azuay"	"Paute"	96	2020-07-28
+"Azuay"	"Pucará"	9	2020-07-28
+"Azuay"	"San Fernando"	3	2020-07-28
+"Azuay"	"Santa Isabel"	75	2020-07-28
+"Azuay"	"Sevilla de Oro"	9	2020-07-28
+"Azuay"	"Sígsig"	51	2020-07-28
+"Azuay"	"Camilo Ponce Enríquez"	117	2020-07-29
+"Azuay"	"Chordeleg"	15	2020-07-29
+"Azuay"	"Cuenca"	2642	2020-07-29
+"Azuay"	"El Pan"	2	2020-07-29
+"Azuay"	"Girón"	7	2020-07-29
+"Azuay"	"Guachapala"	3	2020-07-29
+"Azuay"	"Gualaceo"	67	2020-07-29
+"Azuay"	"Nabón"	8	2020-07-29
+"Azuay"	"Oña"	1	2020-07-29
+"Azuay"	"Paute"	96	2020-07-29
+"Azuay"	"Pucará"	9	2020-07-29
+"Azuay"	"San Fernando"	3	2020-07-29
+"Azuay"	"Santa Isabel"	76	2020-07-29
+"Azuay"	"Sevilla de Oro"	9	2020-07-29
+"Azuay"	"Sígsig"	51	2020-07-29
+"Azuay"	"Camilo Ponce Enríquez"	117	2020-07-30
+"Azuay"	"Chordeleg"	16	2020-07-30
+"Azuay"	"Cuenca"	2680	2020-07-30
+"Azuay"	"El Pan"	2	2020-07-30
+"Azuay"	"Girón"	7	2020-07-30
+"Azuay"	"Guachapala"	3	2020-07-30
+"Azuay"	"Gualaceo"	73	2020-07-30
+"Azuay"	"Nabón"	8	2020-07-30
+"Azuay"	"Oña"	1	2020-07-30
+"Azuay"	"Paute"	121	2020-07-30
+"Azuay"	"Pucará"	10	2020-07-30
+"Azuay"	"San Fernando"	3	2020-07-30
+"Azuay"	"Santa Isabel"	79	2020-07-30
+"Azuay"	"Sevilla de Oro"	9	2020-07-30
+"Azuay"	"Sígsig"	56	2020-07-30
+"Azuay"	"Camilo Ponce Enríquez"	117	2020-07-31
+"Azuay"	"Chordeleg"	16	2020-07-31
+"Azuay"	"Cuenca"	2808	2020-07-31
+"Azuay"	"El Pan"	2	2020-07-31
+"Azuay"	"Girón"	7	2020-07-31
+"Azuay"	"Guachapala"	3	2020-07-31
+"Azuay"	"Gualaceo"	80	2020-07-31
+"Azuay"	"Nabón"	8	2020-07-31
+"Azuay"	"Oña"	1	2020-07-31
+"Azuay"	"Paute"	126	2020-07-31
+"Azuay"	"Pucará"	10	2020-07-31
+"Azuay"	"San Fernando"	3	2020-07-31
+"Azuay"	"Santa Isabel"	79	2020-07-31
+"Azuay"	"Sevilla de Oro"	9	2020-07-31
+"Azuay"	"Sígsig"	57	2020-07-31
+"Azuay"	"Camilo Ponce Enríquez"	121	2020-08-01
+"Azuay"	"Chordeleg"	19	2020-08-01
+"Azuay"	"Cuenca"	2891	2020-08-01
+"Azuay"	"El Pan"	2	2020-08-01
+"Azuay"	"Girón"	7	2020-08-01
+"Azuay"	"Guachapala"	3	2020-08-01
+"Azuay"	"Gualaceo"	90	2020-08-01
+"Azuay"	"Nabón"	11	2020-08-01
+"Azuay"	"Oña"	1	2020-08-01
+"Azuay"	"Paute"	129	2020-08-01
+"Azuay"	"Pucará"	10	2020-08-01
+"Azuay"	"San Fernando"	3	2020-08-01
+"Azuay"	"Santa Isabel"	79	2020-08-01
+"Azuay"	"Sevilla de Oro"	9	2020-08-01
+"Azuay"	"Sígsig"	64	2020-08-01
+"Azuay"	"Camilo Ponce Enríquez"	121	2020-08-02
+"Azuay"	"Chordeleg"	19	2020-08-02
+"Azuay"	"Cuenca"	2910	2020-08-02
+"Azuay"	"El Pan"	2	2020-08-02
+"Azuay"	"Girón"	11	2020-08-02
+"Azuay"	"Guachapala"	3	2020-08-02
+"Azuay"	"Gualaceo"	93	2020-08-02
+"Azuay"	"Nabón"	11	2020-08-02
+"Azuay"	"Oña"	1	2020-08-02
+"Azuay"	"Paute"	130	2020-08-02
+"Azuay"	"Pucará"	10	2020-08-02
+"Azuay"	"San Fernando"	3	2020-08-02
+"Azuay"	"Santa Isabel"	80	2020-08-02
+"Azuay"	"Sevilla de Oro"	9	2020-08-02
+"Azuay"	"Sígsig"	66	2020-08-02
+"Azuay"	"Camilo Ponce Enríquez"	122	2020-08-03
+"Azuay"	"Chordeleg"	19	2020-08-03
+"Azuay"	"Cuenca"	2971	2020-08-03
+"Azuay"	"El Pan"	2	2020-08-03
+"Azuay"	"Girón"	12	2020-08-03
+"Azuay"	"Guachapala"	3	2020-08-03
+"Azuay"	"Gualaceo"	93	2020-08-03
+"Azuay"	"Nabón"	11	2020-08-03
+"Azuay"	"Oña"	1	2020-08-03
+"Azuay"	"Paute"	131	2020-08-03
+"Azuay"	"Pucará"	10	2020-08-03
+"Azuay"	"San Fernando"	3	2020-08-03
+"Azuay"	"Santa Isabel"	80	2020-08-03
+"Azuay"	"Sevilla de Oro"	9	2020-08-03
+"Azuay"	"Sígsig"	67	2020-08-03
+"Azuay"	"Camilo Ponce Enríquez"	122	2020-08-04
+"Azuay"	"Chordeleg"	19	2020-08-04
+"Azuay"	"Cuenca"	3020	2020-08-04
+"Azuay"	"El Pan"	7	2020-08-04
+"Azuay"	"Girón"	13	2020-08-04
+"Azuay"	"Guachapala"	5	2020-08-04
+"Azuay"	"Gualaceo"	95	2020-08-04
+"Azuay"	"Nabón"	13	2020-08-04
+"Azuay"	"Oña"	1	2020-08-04
+"Azuay"	"Paute"	140	2020-08-04
+"Azuay"	"Pucará"	10	2020-08-04
+"Azuay"	"San Fernando"	3	2020-08-04
+"Azuay"	"Santa Isabel"	80	2020-08-04
+"Azuay"	"Sevilla de Oro"	9	2020-08-04
+"Azuay"	"Sígsig"	67	2020-08-04
+"Azuay"	"Camilo Ponce Enríquez"	124	2020-08-05
+"Azuay"	"Chordeleg"	20	2020-08-05
+"Azuay"	"Cuenca"	3119	2020-08-05
+"Azuay"	"El Pan"	13	2020-08-05
+"Azuay"	"Girón"	16	2020-08-05
+"Azuay"	"Guachapala"	5	2020-08-05
+"Azuay"	"Gualaceo"	106	2020-08-05
+"Azuay"	"Nabón"	13	2020-08-05
+"Azuay"	"Oña"	1	2020-08-05
+"Azuay"	"Paute"	152	2020-08-05
+"Azuay"	"Pucará"	10	2020-08-05
+"Azuay"	"San Fernando"	3	2020-08-05
+"Azuay"	"Santa Isabel"	81	2020-08-05
+"Azuay"	"Sevilla de Oro"	9	2020-08-05
+"Azuay"	"Sígsig"	68	2020-08-05
+"Azuay"	"Camilo Ponce Enríquez"	124	2020-08-06
+"Azuay"	"Chordeleg"	21	2020-08-06
+"Azuay"	"Cuenca"	3156	2020-08-06
+"Azuay"	"El Pan"	13	2020-08-06
+"Azuay"	"Girón"	16	2020-08-06
+"Azuay"	"Guachapala"	5	2020-08-06
+"Azuay"	"Gualaceo"	111	2020-08-06
+"Azuay"	"Nabón"	13	2020-08-06
+"Azuay"	"Oña"	1	2020-08-06
+"Azuay"	"Paute"	158	2020-08-06
+"Azuay"	"Pucará"	10	2020-08-06
+"Azuay"	"San Fernando"	4	2020-08-06
+"Azuay"	"Santa Isabel"	81	2020-08-06
+"Azuay"	"Sevilla de Oro"	11	2020-08-06
+"Azuay"	"Sígsig"	68	2020-08-06
+"Azuay"	"Camilo Ponce Enríquez"	124	2020-08-07
+"Azuay"	"Chordeleg"	21	2020-08-07
+"Azuay"	"Cuenca"	3236	2020-08-07
+"Azuay"	"El Pan"	13	2020-08-07
+"Azuay"	"Girón"	16	2020-08-07
+"Azuay"	"Guachapala"	5	2020-08-07
+"Azuay"	"Gualaceo"	111	2020-08-07
+"Azuay"	"Nabón"	14	2020-08-07
+"Azuay"	"Oña"	1	2020-08-07
+"Azuay"	"Paute"	160	2020-08-07
+"Azuay"	"Pucará"	10	2020-08-07
+"Azuay"	"San Fernando"	4	2020-08-07
+"Azuay"	"Santa Isabel"	81	2020-08-07
+"Azuay"	"Sevilla de Oro"	11	2020-08-07
+"Azuay"	"Sígsig"	69	2020-08-07
+"Azuay"	"Camilo Ponce Enríquez"	126	2020-08-08
+"Azuay"	"Chordeleg"	21	2020-08-08
+"Azuay"	"Cuenca"	3308	2020-08-08
+"Azuay"	"El Pan"	15	2020-08-08
+"Azuay"	"Girón"	16	2020-08-08
+"Azuay"	"Guachapala"	6	2020-08-08
+"Azuay"	"Gualaceo"	122	2020-08-08
+"Azuay"	"Nabón"	14	2020-08-08
+"Azuay"	"Oña"	1	2020-08-08
+"Azuay"	"Paute"	166	2020-08-08
+"Azuay"	"Pucará"	10	2020-08-08
+"Azuay"	"San Fernando"	5	2020-08-08
+"Azuay"	"Santa Isabel"	82	2020-08-08
+"Azuay"	"Sevilla de Oro"	13	2020-08-08
+"Azuay"	"Sígsig"	69	2020-08-08
+"Azuay"	"Camilo Ponce Enríquez"	126	2020-08-09
+"Azuay"	"Chordeleg"	22	2020-08-09
+"Azuay"	"Cuenca"	3328	2020-08-09
+"Azuay"	"El Pan"	16	2020-08-09
+"Azuay"	"Girón"	16	2020-08-09
+"Azuay"	"Guachapala"	6	2020-08-09
+"Azuay"	"Gualaceo"	125	2020-08-09
+"Azuay"	"Nabón"	15	2020-08-09
+"Azuay"	"Oña"	1	2020-08-09
+"Azuay"	"Paute"	174	2020-08-09
+"Azuay"	"Pucará"	10	2020-08-09
+"Azuay"	"San Fernando"	5	2020-08-09
+"Azuay"	"Santa Isabel"	82	2020-08-09
+"Azuay"	"Sevilla de Oro"	13	2020-08-09
+"Azuay"	"Sígsig"	69	2020-08-09
+"Azuay"	"Camilo Ponce Enríquez"	127	2020-08-10
+"Azuay"	"Chordeleg"	22	2020-08-10
+"Azuay"	"Cuenca"	3344	2020-08-10
+"Azuay"	"El Pan"	16	2020-08-10
+"Azuay"	"Girón"	16	2020-08-10
+"Azuay"	"Guachapala"	6	2020-08-10
+"Azuay"	"Gualaceo"	125	2020-08-10
+"Azuay"	"Nabón"	16	2020-08-10
+"Azuay"	"Oña"	1	2020-08-10
+"Azuay"	"Paute"	174	2020-08-10
+"Azuay"	"Pucará"	10	2020-08-10
+"Azuay"	"San Fernando"	5	2020-08-10
+"Azuay"	"Santa Isabel"	82	2020-08-10
+"Azuay"	"Sevilla de Oro"	13	2020-08-10
+"Azuay"	"Sígsig"	69	2020-08-10
+"Azuay"	"Camilo Ponce Enríquez"	127	2020-08-11
+"Azuay"	"Chordeleg"	22	2020-08-11
+"Azuay"	"Cuenca"	3363	2020-08-11
+"Azuay"	"El Pan"	16	2020-08-11
+"Azuay"	"Girón"	16	2020-08-11
+"Azuay"	"Guachapala"	6	2020-08-11
+"Azuay"	"Gualaceo"	126	2020-08-11
+"Azuay"	"Nabón"	16	2020-08-11
+"Azuay"	"Oña"	1	2020-08-11
+"Azuay"	"Paute"	174	2020-08-11
+"Azuay"	"Pucará"	10	2020-08-11
+"Azuay"	"San Fernando"	5	2020-08-11
+"Azuay"	"Santa Isabel"	82	2020-08-11
+"Azuay"	"Sevilla de Oro"	13	2020-08-11
+"Azuay"	"Sígsig"	69	2020-08-11
+"Azuay"	"Camilo Ponce Enríquez"	127	2020-08-12
+"Azuay"	"Chordeleg"	22	2020-08-12
+"Azuay"	"Cuenca"	3366	2020-08-12
+"Azuay"	"El Pan"	16	2020-08-12
+"Azuay"	"Girón"	17	2020-08-12
+"Azuay"	"Guachapala"	6	2020-08-12
+"Azuay"	"Gualaceo"	129	2020-08-12
+"Azuay"	"Nabón"	16	2020-08-12
+"Azuay"	"Oña"	1	2020-08-12
+"Azuay"	"Paute"	175	2020-08-12
+"Azuay"	"Pucará"	10	2020-08-12
+"Azuay"	"San Fernando"	5	2020-08-12
+"Azuay"	"Santa Isabel"	83	2020-08-12
+"Azuay"	"Sevilla de Oro"	13	2020-08-12
+"Azuay"	"Sígsig"	69	2020-08-12
+"Azuay"	"Camilo Ponce Enríquez"	134	2020-08-13
+"Azuay"	"Chordeleg"	22	2020-08-13
+"Azuay"	"Cuenca"	3430	2020-08-13
+"Azuay"	"El Pan"	16	2020-08-13
+"Azuay"	"Girón"	21	2020-08-13
+"Azuay"	"Guachapala"	7	2020-08-13
+"Azuay"	"Gualaceo"	133	2020-08-13
+"Azuay"	"Nabón"	16	2020-08-13
+"Azuay"	"Oña"	1	2020-08-13
+"Azuay"	"Paute"	180	2020-08-13
+"Azuay"	"Pucará"	10	2020-08-13
+"Azuay"	"San Fernando"	5	2020-08-13
+"Azuay"	"Santa Isabel"	85	2020-08-13
+"Azuay"	"Sevilla de Oro"	20	2020-08-13
+"Azuay"	"Sígsig"	69	2020-08-13
+"Azuay"	"Camilo Ponce Enríquez"	134	2020-08-14
+"Azuay"	"Chordeleg"	22	2020-08-14
+"Azuay"	"Cuenca"	3486	2020-08-14
+"Azuay"	"El Pan"	19	2020-08-14
+"Azuay"	"Girón"	22	2020-08-14
+"Azuay"	"Guachapala"	10	2020-08-14
+"Azuay"	"Gualaceo"	143	2020-08-14
+"Azuay"	"Nabón"	16	2020-08-14
+"Azuay"	"Oña"	1	2020-08-14
+"Azuay"	"Paute"	194	2020-08-14
+"Azuay"	"Pucará"	11	2020-08-14
+"Azuay"	"San Fernando"	5	2020-08-14
+"Azuay"	"Santa Isabel"	87	2020-08-14
+"Azuay"	"Sevilla de Oro"	23	2020-08-14
+"Azuay"	"Sígsig"	71	2020-08-14
+"Azuay"	"Camilo Ponce Enríquez"	136	2020-08-15
+"Azuay"	"Chordeleg"	24	2020-08-15
+"Azuay"	"Cuenca"	3523	2020-08-15
+"Azuay"	"El Pan"	19	2020-08-15
+"Azuay"	"Girón"	22	2020-08-15
+"Azuay"	"Guachapala"	10	2020-08-15
+"Azuay"	"Gualaceo"	147	2020-08-15
+"Azuay"	"Nabón"	17	2020-08-15
+"Azuay"	"Oña"	1	2020-08-15
+"Azuay"	"Paute"	203	2020-08-15
+"Azuay"	"Pucará"	11	2020-08-15
+"Azuay"	"San Fernando"	5	2020-08-15
+"Azuay"	"Santa Isabel"	90	2020-08-15
+"Azuay"	"Sevilla de Oro"	26	2020-08-15
+"Azuay"	"Sígsig"	72	2020-08-15
+"Azuay"	"Camilo Ponce Enríquez"	136	2020-08-16
+"Azuay"	"Chordeleg"	25	2020-08-16
+"Azuay"	"Cuenca"	3541	2020-08-16
+"Azuay"	"El Pan"	19	2020-08-16
+"Azuay"	"Girón"	24	2020-08-16
+"Azuay"	"Guachapala"	10	2020-08-16
+"Azuay"	"Gualaceo"	159	2020-08-16
+"Azuay"	"Nabón"	17	2020-08-16
+"Azuay"	"Oña"	1	2020-08-16
+"Azuay"	"Paute"	207	2020-08-16
+"Azuay"	"Pucará"	11	2020-08-16
+"Azuay"	"San Fernando"	5	2020-08-16
+"Azuay"	"Santa Isabel"	92	2020-08-16
+"Azuay"	"Sevilla de Oro"	27	2020-08-16
+"Azuay"	"Sígsig"	72	2020-08-16
+"Azuay"	"Camilo Ponce Enríquez"	137	2020-08-17
+"Azuay"	"Chordeleg"	25	2020-08-17
+"Azuay"	"Cuenca"	3544	2020-08-17
+"Azuay"	"El Pan"	19	2020-08-17
+"Azuay"	"Girón"	24	2020-08-17
+"Azuay"	"Guachapala"	10	2020-08-17
+"Azuay"	"Gualaceo"	159	2020-08-17
+"Azuay"	"Nabón"	17	2020-08-17
+"Azuay"	"Oña"	1	2020-08-17
+"Azuay"	"Paute"	207	2020-08-17
+"Azuay"	"Pucará"	11	2020-08-17
+"Azuay"	"San Fernando"	5	2020-08-17
+"Azuay"	"Santa Isabel"	92	2020-08-17
+"Azuay"	"Sevilla de Oro"	27	2020-08-17
+"Azuay"	"Sígsig"	72	2020-08-17
+"Azuay"	"Camilo Ponce Enríquez"	138	2020-08-18
+"Azuay"	"Chordeleg"	26	2020-08-18
+"Azuay"	"Cuenca"	3602	2020-08-18
+"Azuay"	"El Pan"	19	2020-08-18
+"Azuay"	"Girón"	24	2020-08-18
+"Azuay"	"Guachapala"	10	2020-08-18
+"Azuay"	"Gualaceo"	160	2020-08-18
+"Azuay"	"Nabón"	17	2020-08-18
+"Azuay"	"Oña"	1	2020-08-18
+"Azuay"	"Paute"	207	2020-08-18
+"Azuay"	"Pucará"	11	2020-08-18
+"Azuay"	"San Fernando"	5	2020-08-18
+"Azuay"	"Santa Isabel"	93	2020-08-18
+"Azuay"	"Sevilla de Oro"	27	2020-08-18
+"Azuay"	"Sígsig"	72	2020-08-18
+"Azuay"	"Camilo Ponce Enríquez"	139	2020-08-19
+"Azuay"	"Chordeleg"	26	2020-08-19
+"Azuay"	"Cuenca"	3660	2020-08-19
+"Azuay"	"El Pan"	19	2020-08-19
+"Azuay"	"Girón"	24	2020-08-19
+"Azuay"	"Guachapala"	10	2020-08-19
+"Azuay"	"Gualaceo"	165	2020-08-19
+"Azuay"	"Nabón"	18	2020-08-19
+"Azuay"	"Oña"	1	2020-08-19
+"Azuay"	"Paute"	208	2020-08-19
+"Azuay"	"Pucará"	11	2020-08-19
+"Azuay"	"San Fernando"	5	2020-08-19
+"Azuay"	"Santa Isabel"	94	2020-08-19
+"Azuay"	"Sevilla de Oro"	27	2020-08-19
+"Azuay"	"Sígsig"	72	2020-08-19
+"Azuay"	"Camilo Ponce Enríquez"	141	2020-08-20
+"Azuay"	"Chordeleg"	28	2020-08-20
+"Azuay"	"Cuenca"	3751	2020-08-20
+"Azuay"	"El Pan"	19	2020-08-20
+"Azuay"	"Girón"	24	2020-08-20
+"Azuay"	"Guachapala"	10	2020-08-20
+"Azuay"	"Gualaceo"	174	2020-08-20
+"Azuay"	"Nabón"	18	2020-08-20
+"Azuay"	"Oña"	1	2020-08-20
+"Azuay"	"Paute"	220	2020-08-20
+"Azuay"	"Pucará"	11	2020-08-20
+"Azuay"	"San Fernando"	6	2020-08-20
+"Azuay"	"Santa Isabel"	98	2020-08-20
+"Azuay"	"Sevilla de Oro"	32	2020-08-20
+"Azuay"	"Sígsig"	75	2020-08-20
+"Azuay"	"Camilo Ponce Enríquez"	142	2020-08-21
+"Azuay"	"Chordeleg"	29	2020-08-21
+"Azuay"	"Cuenca"	3765	2020-08-21
+"Azuay"	"El Pan"	19	2020-08-21
+"Azuay"	"Girón"	24	2020-08-21
+"Azuay"	"Guachapala"	12	2020-08-21
+"Azuay"	"Gualaceo"	175	2020-08-21
+"Azuay"	"Nabón"	19	2020-08-21
+"Azuay"	"Oña"	1	2020-08-21
+"Azuay"	"Paute"	226	2020-08-21
+"Azuay"	"Pucará"	11	2020-08-21
+"Azuay"	"San Fernando"	6	2020-08-21
+"Azuay"	"Santa Isabel"	98	2020-08-21
+"Azuay"	"Sevilla de Oro"	34	2020-08-21
+"Azuay"	"Sígsig"	75	2020-08-21
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-08-22
+"Azuay"	"Chordeleg"	29	2020-08-22
+"Azuay"	"Cuenca"	3839	2020-08-22
+"Azuay"	"El Pan"	20	2020-08-22
+"Azuay"	"Girón"	24	2020-08-22
+"Azuay"	"Guachapala"	12	2020-08-22
+"Azuay"	"Gualaceo"	180	2020-08-22
+"Azuay"	"Nabón"	19	2020-08-22
+"Azuay"	"Oña"	1	2020-08-22
+"Azuay"	"Paute"	228	2020-08-22
+"Azuay"	"Pucará"	11	2020-08-22
+"Azuay"	"San Fernando"	6	2020-08-22
+"Azuay"	"Santa Isabel"	98	2020-08-22
+"Azuay"	"Sevilla de Oro"	34	2020-08-22
+"Azuay"	"Sígsig"	75	2020-08-22
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-08-23
+"Azuay"	"Chordeleg"	29	2020-08-23
+"Azuay"	"Cuenca"	3883	2020-08-23
+"Azuay"	"El Pan"	20	2020-08-23
+"Azuay"	"Girón"	24	2020-08-23
+"Azuay"	"Guachapala"	12	2020-08-23
+"Azuay"	"Gualaceo"	181	2020-08-23
+"Azuay"	"Nabón"	19	2020-08-23
+"Azuay"	"Oña"	1	2020-08-23
+"Azuay"	"Paute"	228	2020-08-23
+"Azuay"	"Pucará"	11	2020-08-23
+"Azuay"	"San Fernando"	6	2020-08-23
+"Azuay"	"Santa Isabel"	98	2020-08-23
+"Azuay"	"Sevilla de Oro"	34	2020-08-23
+"Azuay"	"Sígsig"	76	2020-08-23
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-08-24
+"Azuay"	"Chordeleg"	30	2020-08-24
+"Azuay"	"Cuenca"	3929	2020-08-24
+"Azuay"	"El Pan"	20	2020-08-24
+"Azuay"	"Girón"	24	2020-08-24
+"Azuay"	"Guachapala"	12	2020-08-24
+"Azuay"	"Gualaceo"	183	2020-08-24
+"Azuay"	"Nabón"	19	2020-08-24
+"Azuay"	"Oña"	1	2020-08-24
+"Azuay"	"Paute"	228	2020-08-24
+"Azuay"	"Pucará"	11	2020-08-24
+"Azuay"	"San Fernando"	6	2020-08-24
+"Azuay"	"Santa Isabel"	98	2020-08-24
+"Azuay"	"Sevilla de Oro"	34	2020-08-24
+"Azuay"	"Sígsig"	76	2020-08-24
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-08-25
+"Azuay"	"Chordeleg"	30	2020-08-25
+"Azuay"	"Cuenca"	3987	2020-08-25
+"Azuay"	"El Pan"	20	2020-08-25
+"Azuay"	"Girón"	24	2020-08-25
+"Azuay"	"Guachapala"	12	2020-08-25
+"Azuay"	"Gualaceo"	185	2020-08-25
+"Azuay"	"Nabón"	19	2020-08-25
+"Azuay"	"Oña"	1	2020-08-25
+"Azuay"	"Paute"	231	2020-08-25
+"Azuay"	"Pucará"	11	2020-08-25
+"Azuay"	"San Fernando"	7	2020-08-25
+"Azuay"	"Santa Isabel"	98	2020-08-25
+"Azuay"	"Sevilla de Oro"	35	2020-08-25
+"Azuay"	"Sígsig"	76	2020-08-25
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-08-26
+"Azuay"	"Chordeleg"	30	2020-08-26
+"Azuay"	"Cuenca"	4148	2020-08-26
+"Azuay"	"El Pan"	20	2020-08-26
+"Azuay"	"Girón"	25	2020-08-26
+"Azuay"	"Guachapala"	12	2020-08-26
+"Azuay"	"Gualaceo"	191	2020-08-26
+"Azuay"	"Nabón"	19	2020-08-26
+"Azuay"	"Oña"	1	2020-08-26
+"Azuay"	"Paute"	231	2020-08-26
+"Azuay"	"Pucará"	11	2020-08-26
+"Azuay"	"San Fernando"	7	2020-08-26
+"Azuay"	"Santa Isabel"	100	2020-08-26
+"Azuay"	"Sevilla de Oro"	36	2020-08-26
+"Azuay"	"Sígsig"	78	2020-08-26
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-08-27
+"Azuay"	"Chordeleg"	30	2020-08-27
+"Azuay"	"Cuenca"	4169	2020-08-27
+"Azuay"	"El Pan"	22	2020-08-27
+"Azuay"	"Girón"	25	2020-08-27
+"Azuay"	"Guachapala"	13	2020-08-27
+"Azuay"	"Gualaceo"	206	2020-08-27
+"Azuay"	"Nabón"	19	2020-08-27
+"Azuay"	"Oña"	1	2020-08-27
+"Azuay"	"Paute"	240	2020-08-27
+"Azuay"	"Pucará"	11	2020-08-27
+"Azuay"	"San Fernando"	7	2020-08-27
+"Azuay"	"Santa Isabel"	103	2020-08-27
+"Azuay"	"Sevilla de Oro"	38	2020-08-27
+"Azuay"	"Sígsig"	79	2020-08-27
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-08-28
+"Azuay"	"Chordeleg"	31	2020-08-28
+"Azuay"	"Cuenca"	4311	2020-08-28
+"Azuay"	"El Pan"	22	2020-08-28
+"Azuay"	"Girón"	26	2020-08-28
+"Azuay"	"Guachapala"	13	2020-08-28
+"Azuay"	"Gualaceo"	214	2020-08-28
+"Azuay"	"Nabón"	19	2020-08-28
+"Azuay"	"Oña"	2	2020-08-28
+"Azuay"	"Paute"	245	2020-08-28
+"Azuay"	"Pucará"	11	2020-08-28
+"Azuay"	"San Fernando"	7	2020-08-28
+"Azuay"	"Santa Isabel"	104	2020-08-28
+"Azuay"	"Sevilla de Oro"	38	2020-08-28
+"Azuay"	"Sígsig"	83	2020-08-28
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-08-29
+"Azuay"	"Chordeleg"	32	2020-08-29
+"Azuay"	"Cuenca"	4379	2020-08-29
+"Azuay"	"El Pan"	22	2020-08-29
+"Azuay"	"Girón"	29	2020-08-29
+"Azuay"	"Guachapala"	14	2020-08-29
+"Azuay"	"Gualaceo"	216	2020-08-29
+"Azuay"	"Nabón"	21	2020-08-29
+"Azuay"	"Oña"	2	2020-08-29
+"Azuay"	"Paute"	246	2020-08-29
+"Azuay"	"Pucará"	11	2020-08-29
+"Azuay"	"San Fernando"	8	2020-08-29
+"Azuay"	"Santa Isabel"	104	2020-08-29
+"Azuay"	"Sevilla de Oro"	38	2020-08-29
+"Azuay"	"Sígsig"	84	2020-08-29
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-08-30
+"Azuay"	"Chordeleg"	36	2020-08-30
+"Azuay"	"Cuenca"	4445	2020-08-30
+"Azuay"	"El Pan"	23	2020-08-30
+"Azuay"	"Girón"	29	2020-08-30
+"Azuay"	"Guachapala"	15	2020-08-30
+"Azuay"	"Gualaceo"	219	2020-08-30
+"Azuay"	"Nabón"	21	2020-08-30
+"Azuay"	"Oña"	2	2020-08-30
+"Azuay"	"Paute"	250	2020-08-30
+"Azuay"	"Pucará"	11	2020-08-30
+"Azuay"	"San Fernando"	9	2020-08-30
+"Azuay"	"Santa Isabel"	108	2020-08-30
+"Azuay"	"Sevilla de Oro"	47	2020-08-30
+"Azuay"	"Sígsig"	84	2020-08-30
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-08-31
+"Azuay"	"Chordeleg"	36	2020-08-31
+"Azuay"	"Cuenca"	4445	2020-08-31
+"Azuay"	"El Pan"	23	2020-08-31
+"Azuay"	"Girón"	29	2020-08-31
+"Azuay"	"Guachapala"	15	2020-08-31
+"Azuay"	"Gualaceo"	219	2020-08-31
+"Azuay"	"Nabón"	21	2020-08-31
+"Azuay"	"Oña"	2	2020-08-31
+"Azuay"	"Paute"	250	2020-08-31
+"Azuay"	"Pucará"	11	2020-08-31
+"Azuay"	"San Fernando"	9	2020-08-31
+"Azuay"	"Santa Isabel"	108	2020-08-31
+"Azuay"	"Sevilla de Oro"	47	2020-08-31
+"Azuay"	"Sígsig"	84	2020-08-31
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-09-01
+"Azuay"	"Chordeleg"	36	2020-09-01
+"Azuay"	"Cuenca"	4470	2020-09-01
+"Azuay"	"El Pan"	23	2020-09-01
+"Azuay"	"Girón"	29	2020-09-01
+"Azuay"	"Guachapala"	15	2020-09-01
+"Azuay"	"Gualaceo"	219	2020-09-01
+"Azuay"	"Nabón"	24	2020-09-01
+"Azuay"	"Oña"	2	2020-09-01
+"Azuay"	"Paute"	251	2020-09-01
+"Azuay"	"Pucará"	11	2020-09-01
+"Azuay"	"San Fernando"	9	2020-09-01
+"Azuay"	"Santa Isabel"	108	2020-09-01
+"Azuay"	"Sevilla de Oro"	47	2020-09-01
+"Azuay"	"Sígsig"	84	2020-09-01
+"Azuay"	"Camilo Ponce Enríquez"	155	2020-09-02
+"Azuay"	"Chordeleg"	36	2020-09-02
+"Azuay"	"Cuenca"	4678	2020-09-02
+"Azuay"	"El Pan"	23	2020-09-02
+"Azuay"	"Girón"	29	2020-09-02
+"Azuay"	"Guachapala"	15	2020-09-02
+"Azuay"	"Gualaceo"	220	2020-09-02
+"Azuay"	"Nabón"	26	2020-09-02
+"Azuay"	"Oña"	2	2020-09-02
+"Azuay"	"Paute"	252	2020-09-02
+"Azuay"	"Pucará"	11	2020-09-02
+"Azuay"	"San Fernando"	9	2020-09-02
+"Azuay"	"Santa Isabel"	108	2020-09-02
+"Azuay"	"Sevilla de Oro"	47	2020-09-02
+"Azuay"	"Sígsig"	88	2020-09-02
+"Azuay"	"Camilo Ponce Enríquez"	158	2020-09-03
+"Azuay"	"Chordeleg"	38	2020-09-03
+"Azuay"	"Cuenca"	4802	2020-09-03
+"Azuay"	"El Pan"	23	2020-09-03
+"Azuay"	"Girón"	29	2020-09-03
+"Azuay"	"Guachapala"	15	2020-09-03
+"Azuay"	"Gualaceo"	235	2020-09-03
+"Azuay"	"Nabón"	26	2020-09-03
+"Azuay"	"Oña"	2	2020-09-03
+"Azuay"	"Paute"	269	2020-09-03
+"Azuay"	"Pucará"	11	2020-09-03
+"Azuay"	"San Fernando"	9	2020-09-03
+"Azuay"	"Santa Isabel"	116	2020-09-03
+"Azuay"	"Sevilla de Oro"	54	2020-09-03
+"Azuay"	"Sígsig"	91	2020-09-03
+"Azuay"	"Camilo Ponce Enríquez"	160	2020-09-04
+"Azuay"	"Chordeleg"	41	2020-09-04
+"Azuay"	"Cuenca"	4999	2020-09-04
+"Azuay"	"El Pan"	24	2020-09-04
+"Azuay"	"Girón"	31	2020-09-04
+"Azuay"	"Guachapala"	17	2020-09-04
+"Azuay"	"Gualaceo"	251	2020-09-04
+"Azuay"	"Nabón"	27	2020-09-04
+"Azuay"	"Oña"	2	2020-09-04
+"Azuay"	"Paute"	274	2020-09-04
+"Azuay"	"Pucará"	11	2020-09-04
+"Azuay"	"San Fernando"	9	2020-09-04
+"Azuay"	"Santa Isabel"	118	2020-09-04
+"Azuay"	"Sevilla de Oro"	62	2020-09-04
+"Azuay"	"Sígsig"	95	2020-09-04
+"Azuay"	"Camilo Ponce Enríquez"	160	2020-09-05
+"Azuay"	"Chordeleg"	44	2020-09-05
+"Azuay"	"Cuenca"	5130	2020-09-05
+"Azuay"	"El Pan"	24	2020-09-05
+"Azuay"	"Girón"	32	2020-09-05
+"Azuay"	"Guachapala"	18	2020-09-05
+"Azuay"	"Gualaceo"	261	2020-09-05
+"Azuay"	"Nabón"	29	2020-09-05
+"Azuay"	"Oña"	2	2020-09-05
+"Azuay"	"Paute"	286	2020-09-05
+"Azuay"	"Pucará"	11	2020-09-05
+"Azuay"	"San Fernando"	9	2020-09-05
+"Azuay"	"Santa Isabel"	118	2020-09-05
+"Azuay"	"Sevilla de Oro"	72	2020-09-05
+"Azuay"	"Sígsig"	95	2020-09-05
+"Azuay"	"Camilo Ponce Enríquez"	161	2020-09-06
+"Azuay"	"Chordeleg"	45	2020-09-06
+"Azuay"	"Cuenca"	5244	2020-09-06
+"Azuay"	"El Pan"	30	2020-09-06
+"Azuay"	"Girón"	34	2020-09-06
+"Azuay"	"Guachapala"	18	2020-09-06
+"Azuay"	"Gualaceo"	272	2020-09-06
+"Azuay"	"Nabón"	29	2020-09-06
+"Azuay"	"Oña"	2	2020-09-06
+"Azuay"	"Paute"	304	2020-09-06
+"Azuay"	"Pucará"	11	2020-09-06
+"Azuay"	"San Fernando"	9	2020-09-06
+"Azuay"	"Santa Isabel"	121	2020-09-06
+"Azuay"	"Sevilla de Oro"	75	2020-09-06
+"Azuay"	"Sígsig"	98	2020-09-06
+"Azuay"	"Camilo Ponce Enríquez"	161	2020-09-07
+"Azuay"	"Chordeleg"	45	2020-09-07
+"Azuay"	"Cuenca"	5253	2020-09-07
+"Azuay"	"El Pan"	30	2020-09-07
+"Azuay"	"Girón"	34	2020-09-07
+"Azuay"	"Guachapala"	18	2020-09-07
+"Azuay"	"Gualaceo"	273	2020-09-07
+"Azuay"	"Nabón"	30	2020-09-07
+"Azuay"	"Oña"	2	2020-09-07
+"Azuay"	"Paute"	304	2020-09-07
+"Azuay"	"Pucará"	11	2020-09-07
+"Azuay"	"San Fernando"	9	2020-09-07
+"Azuay"	"Santa Isabel"	121	2020-09-07
+"Azuay"	"Sevilla de Oro"	75	2020-09-07
+"Azuay"	"Sígsig"	99	2020-09-07
+"Azuay"	"Camilo Ponce Enríquez"	161	2020-09-08
+"Azuay"	"Chordeleg"	46	2020-09-08
+"Azuay"	"Cuenca"	5374	2020-09-08
+"Azuay"	"El Pan"	30	2020-09-08
+"Azuay"	"Girón"	35	2020-09-08
+"Azuay"	"Guachapala"	18	2020-09-08
+"Azuay"	"Gualaceo"	277	2020-09-08
+"Azuay"	"Nabón"	30	2020-09-08
+"Azuay"	"Oña"	2	2020-09-08
+"Azuay"	"Paute"	304	2020-09-08
+"Azuay"	"Pucará"	11	2020-09-08
+"Azuay"	"San Fernando"	9	2020-09-08
+"Azuay"	"Santa Isabel"	123	2020-09-08
+"Azuay"	"Sevilla de Oro"	76	2020-09-08
+"Azuay"	"Sígsig"	103	2020-09-08
+"Azuay"	"Camilo Ponce Enríquez"	161	2020-09-09
+"Azuay"	"Chordeleg"	49	2020-09-09
+"Azuay"	"Cuenca"	5490	2020-09-09
+"Azuay"	"El Pan"	30	2020-09-09
+"Azuay"	"Girón"	36	2020-09-09
+"Azuay"	"Guachapala"	19	2020-09-09
+"Azuay"	"Gualaceo"	291	2020-09-09
+"Azuay"	"Nabón"	31	2020-09-09
+"Azuay"	"Oña"	3	2020-09-09
+"Azuay"	"Paute"	308	2020-09-09
+"Azuay"	"Pucará"	11	2020-09-09
+"Azuay"	"San Fernando"	9	2020-09-09
+"Azuay"	"Santa Isabel"	123	2020-09-09
+"Azuay"	"Sevilla de Oro"	76	2020-09-09
+"Azuay"	"Sígsig"	109	2020-09-09
+"Azuay"	"Camilo Ponce Enríquez"	161	2020-09-10
+"Azuay"	"Chordeleg"	49	2020-09-10
+"Azuay"	"Cuenca"	5539	2020-09-10
+"Azuay"	"El Pan"	38	2020-09-10
+"Azuay"	"Girón"	36	2020-09-10
+"Azuay"	"Guachapala"	19	2020-09-10
+"Azuay"	"Gualaceo"	291	2020-09-10
+"Azuay"	"Nabón"	31	2020-09-10
+"Azuay"	"Oña"	3	2020-09-10
+"Azuay"	"Paute"	316	2020-09-10
+"Azuay"	"Pucará"	11	2020-09-10
+"Azuay"	"San Fernando"	9	2020-09-10
+"Azuay"	"Santa Isabel"	123	2020-09-10
+"Azuay"	"Sevilla de Oro"	79	2020-09-10
+"Azuay"	"Sígsig"	110	2020-09-10
+"Azuay"	"Camilo Ponce Enríquez"	165	2020-09-11
+"Azuay"	"Chordeleg"	55	2020-09-11
+"Azuay"	"Cuenca"	5622	2020-09-11
+"Azuay"	"El Pan"	38	2020-09-11
+"Azuay"	"Girón"	38	2020-09-11
+"Azuay"	"Guachapala"	19	2020-09-11
+"Azuay"	"Gualaceo"	302	2020-09-11
+"Azuay"	"Nabón"	32	2020-09-11
+"Azuay"	"Oña"	3	2020-09-11
+"Azuay"	"Paute"	324	2020-09-11
+"Azuay"	"Pucará"	11	2020-09-11
+"Azuay"	"San Fernando"	9	2020-09-11
+"Azuay"	"Santa Isabel"	125	2020-09-11
+"Azuay"	"Sevilla de Oro"	85	2020-09-11
+"Azuay"	"Sígsig"	111	2020-09-11
+"Azuay"	"Camilo Ponce Enríquez"	165	2020-09-12
+"Azuay"	"Chordeleg"	56	2020-09-12
+"Azuay"	"Cuenca"	5687	2020-09-12
+"Azuay"	"El Pan"	49	2020-09-12
+"Azuay"	"Girón"	38	2020-09-12
+"Azuay"	"Guachapala"	22	2020-09-12
+"Azuay"	"Gualaceo"	321	2020-09-12
+"Azuay"	"Nabón"	34	2020-09-12
+"Azuay"	"Oña"	4	2020-09-12
+"Azuay"	"Paute"	331	2020-09-12
+"Azuay"	"Pucará"	12	2020-09-12
+"Azuay"	"San Fernando"	9	2020-09-12
+"Azuay"	"Santa Isabel"	129	2020-09-12
+"Azuay"	"Sevilla de Oro"	88	2020-09-12
+"Azuay"	"Sígsig"	111	2020-09-12
+"Azuay"	"Camilo Ponce Enríquez"	168	2020-09-13
+"Azuay"	"Chordeleg"	57	2020-09-13
+"Azuay"	"Cuenca"	5725	2020-09-13
+"Azuay"	"El Pan"	51	2020-09-13
+"Azuay"	"Girón"	38	2020-09-13
+"Azuay"	"Guachapala"	26	2020-09-13
+"Azuay"	"Gualaceo"	324	2020-09-13
+"Azuay"	"Nabón"	34	2020-09-13
+"Azuay"	"Oña"	4	2020-09-13
+"Azuay"	"Paute"	339	2020-09-13
+"Azuay"	"Pucará"	12	2020-09-13
+"Azuay"	"San Fernando"	9	2020-09-13
+"Azuay"	"Santa Isabel"	132	2020-09-13
+"Azuay"	"Sevilla de Oro"	90	2020-09-13
+"Azuay"	"Sígsig"	111	2020-09-13
+"Azuay"	"Camilo Ponce Enríquez"	168	2020-09-14
+"Azuay"	"Chordeleg"	57	2020-09-14
+"Azuay"	"Cuenca"	5730	2020-09-14
+"Azuay"	"El Pan"	51	2020-09-14
+"Azuay"	"Girón"	38	2020-09-14
+"Azuay"	"Guachapala"	26	2020-09-14
+"Azuay"	"Gualaceo"	324	2020-09-14
+"Azuay"	"Nabón"	34	2020-09-14
+"Azuay"	"Oña"	4	2020-09-14
+"Azuay"	"Paute"	339	2020-09-14
+"Azuay"	"Pucará"	12	2020-09-14
+"Azuay"	"San Fernando"	9	2020-09-14
+"Azuay"	"Santa Isabel"	132	2020-09-14
+"Azuay"	"Sevilla de Oro"	90	2020-09-14
+"Azuay"	"Sígsig"	111	2020-09-14
+"Azuay"	"Camilo Ponce Enríquez"	168	2020-09-15
+"Azuay"	"Chordeleg"	58	2020-09-15
+"Azuay"	"Cuenca"	5773	2020-09-15
+"Azuay"	"El Pan"	54	2020-09-15
+"Azuay"	"Girón"	38	2020-09-15
+"Azuay"	"Guachapala"	26	2020-09-15
+"Azuay"	"Gualaceo"	325	2020-09-15
+"Azuay"	"Nabón"	34	2020-09-15
+"Azuay"	"Oña"	4	2020-09-15
+"Azuay"	"Paute"	339	2020-09-15
+"Azuay"	"Pucará"	12	2020-09-15
+"Azuay"	"San Fernando"	9	2020-09-15
+"Azuay"	"Santa Isabel"	132	2020-09-15
+"Azuay"	"Sevilla de Oro"	90	2020-09-15
+"Azuay"	"Sígsig"	111	2020-09-15
+"Azuay"	"Camilo Ponce Enríquez"	168	2020-09-16
+"Azuay"	"Chordeleg"	60	2020-09-16
+"Azuay"	"Cuenca"	6002	2020-09-16
+"Azuay"	"El Pan"	54	2020-09-16
+"Azuay"	"Girón"	38	2020-09-16
+"Azuay"	"Guachapala"	26	2020-09-16
+"Azuay"	"Gualaceo"	337	2020-09-16
+"Azuay"	"Nabón"	35	2020-09-16
+"Azuay"	"Oña"	6	2020-09-16
+"Azuay"	"Paute"	342	2020-09-16
+"Azuay"	"Pucará"	13	2020-09-16
+"Azuay"	"San Fernando"	9	2020-09-16
+"Azuay"	"Santa Isabel"	133	2020-09-16
+"Azuay"	"Sevilla de Oro"	90	2020-09-16
+"Azuay"	"Sígsig"	119	2020-09-16
+"Azuay"	"Camilo Ponce Enríquez"	171	2020-09-17
+"Azuay"	"Chordeleg"	62	2020-09-17
+"Azuay"	"Cuenca"	6108	2020-09-17
+"Azuay"	"El Pan"	58	2020-09-17
+"Azuay"	"Girón"	39	2020-09-17
+"Azuay"	"Guachapala"	33	2020-09-17
+"Azuay"	"Gualaceo"	349	2020-09-17
+"Azuay"	"Nabón"	37	2020-09-17
+"Azuay"	"Oña"	6	2020-09-17
+"Azuay"	"Paute"	362	2020-09-17
+"Azuay"	"Pucará"	13	2020-09-17
+"Azuay"	"San Fernando"	9	2020-09-17
+"Azuay"	"Santa Isabel"	139	2020-09-17
+"Azuay"	"Sevilla de Oro"	96	2020-09-17
+"Azuay"	"Sígsig"	120	2020-09-17
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-18
+"Azuay"	"Chordeleg"	63	2020-09-18
+"Azuay"	"Cuenca"	6220	2020-09-18
+"Azuay"	"El Pan"	58	2020-09-18
+"Azuay"	"Girón"	40	2020-09-18
+"Azuay"	"Guachapala"	33	2020-09-18
+"Azuay"	"Gualaceo"	360	2020-09-18
+"Azuay"	"Nabón"	37	2020-09-18
+"Azuay"	"Oña"	6	2020-09-18
+"Azuay"	"Paute"	362	2020-09-18
+"Azuay"	"Pucará"	13	2020-09-18
+"Azuay"	"San Fernando"	9	2020-09-18
+"Azuay"	"Santa Isabel"	140	2020-09-18
+"Azuay"	"Sevilla de Oro"	96	2020-09-18
+"Azuay"	"Sígsig"	121	2020-09-18
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-19
+"Azuay"	"Chordeleg"	66	2020-09-19
+"Azuay"	"Cuenca"	6448	2020-09-19
+"Azuay"	"El Pan"	59	2020-09-19
+"Azuay"	"Girón"	41	2020-09-19
+"Azuay"	"Guachapala"	33	2020-09-19
+"Azuay"	"Gualaceo"	368	2020-09-19
+"Azuay"	"Nabón"	39	2020-09-19
+"Azuay"	"Oña"	7	2020-09-19
+"Azuay"	"Paute"	370	2020-09-19
+"Azuay"	"Pucará"	13	2020-09-19
+"Azuay"	"San Fernando"	10	2020-09-19
+"Azuay"	"Santa Isabel"	141	2020-09-19
+"Azuay"	"Sevilla de Oro"	97	2020-09-19
+"Azuay"	"Sígsig"	125	2020-09-19
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-20
+"Azuay"	"Chordeleg"	67	2020-09-20
+"Azuay"	"Cuenca"	6502	2020-09-20
+"Azuay"	"El Pan"	62	2020-09-20
+"Azuay"	"Girón"	43	2020-09-20
+"Azuay"	"Guachapala"	35	2020-09-20
+"Azuay"	"Gualaceo"	377	2020-09-20
+"Azuay"	"Nabón"	40	2020-09-20
+"Azuay"	"Oña"	8	2020-09-20
+"Azuay"	"Paute"	387	2020-09-20
+"Azuay"	"Pucará"	13	2020-09-20
+"Azuay"	"San Fernando"	10	2020-09-20
+"Azuay"	"Santa Isabel"	142	2020-09-20
+"Azuay"	"Sevilla de Oro"	102	2020-09-20
+"Azuay"	"Sígsig"	126	2020-09-20
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-21
+"Azuay"	"Chordeleg"	67	2020-09-21
+"Azuay"	"Cuenca"	6561	2020-09-21
+"Azuay"	"El Pan"	62	2020-09-21
+"Azuay"	"Girón"	44	2020-09-21
+"Azuay"	"Guachapala"	35	2020-09-21
+"Azuay"	"Gualaceo"	380	2020-09-21
+"Azuay"	"Nabón"	41	2020-09-21
+"Azuay"	"Oña"	9	2020-09-21
+"Azuay"	"Paute"	387	2020-09-21
+"Azuay"	"Pucará"	13	2020-09-21
+"Azuay"	"San Fernando"	10	2020-09-21
+"Azuay"	"Santa Isabel"	143	2020-09-21
+"Azuay"	"Sevilla de Oro"	102	2020-09-21
+"Azuay"	"Sígsig"	126	2020-09-21
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-22
+"Azuay"	"Chordeleg"	69	2020-09-22
+"Azuay"	"Cuenca"	6701	2020-09-22
+"Azuay"	"El Pan"	62	2020-09-22
+"Azuay"	"Girón"	44	2020-09-22
+"Azuay"	"Guachapala"	35	2020-09-22
+"Azuay"	"Gualaceo"	394	2020-09-22
+"Azuay"	"Nabón"	42	2020-09-22
+"Azuay"	"Oña"	9	2020-09-22
+"Azuay"	"Paute"	393	2020-09-22
+"Azuay"	"Pucará"	13	2020-09-22
+"Azuay"	"San Fernando"	10	2020-09-22
+"Azuay"	"Santa Isabel"	145	2020-09-22
+"Azuay"	"Sevilla de Oro"	102	2020-09-22
+"Azuay"	"Sígsig"	127	2020-09-22
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-23
+"Azuay"	"Chordeleg"	70	2020-09-23
+"Azuay"	"Cuenca"	6782	2020-09-23
+"Azuay"	"El Pan"	62	2020-09-23
+"Azuay"	"Girón"	44	2020-09-23
+"Azuay"	"Guachapala"	35	2020-09-23
+"Azuay"	"Gualaceo"	401	2020-09-23
+"Azuay"	"Nabón"	42	2020-09-23
+"Azuay"	"Oña"	9	2020-09-23
+"Azuay"	"Paute"	405	2020-09-23
+"Azuay"	"Pucará"	13	2020-09-23
+"Azuay"	"San Fernando"	11	2020-09-23
+"Azuay"	"Santa Isabel"	147	2020-09-23
+"Azuay"	"Sevilla de Oro"	102	2020-09-23
+"Azuay"	"Sígsig"	128	2020-09-23
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-24
+"Azuay"	"Chordeleg"	70	2020-09-24
+"Azuay"	"Cuenca"	6882	2020-09-24
+"Azuay"	"El Pan"	62	2020-09-24
+"Azuay"	"Girón"	47	2020-09-24
+"Azuay"	"Guachapala"	41	2020-09-24
+"Azuay"	"Gualaceo"	406	2020-09-24
+"Azuay"	"Nabón"	42	2020-09-24
+"Azuay"	"Oña"	9	2020-09-24
+"Azuay"	"Paute"	412	2020-09-24
+"Azuay"	"Pucará"	13	2020-09-24
+"Azuay"	"San Fernando"	11	2020-09-24
+"Azuay"	"Santa Isabel"	147	2020-09-24
+"Azuay"	"Sevilla de Oro"	102	2020-09-24
+"Azuay"	"Sígsig"	131	2020-09-24
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-25
+"Azuay"	"Chordeleg"	73	2020-09-25
+"Azuay"	"Cuenca"	6991	2020-09-25
+"Azuay"	"El Pan"	62	2020-09-25
+"Azuay"	"Girón"	47	2020-09-25
+"Azuay"	"Guachapala"	41	2020-09-25
+"Azuay"	"Gualaceo"	410	2020-09-25
+"Azuay"	"Nabón"	42	2020-09-25
+"Azuay"	"Oña"	9	2020-09-25
+"Azuay"	"Paute"	414	2020-09-25
+"Azuay"	"Pucará"	13	2020-09-25
+"Azuay"	"San Fernando"	11	2020-09-25
+"Azuay"	"Santa Isabel"	148	2020-09-25
+"Azuay"	"Sevilla de Oro"	103	2020-09-25
+"Azuay"	"Sígsig"	133	2020-09-25
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-26
+"Azuay"	"Chordeleg"	73	2020-09-26
+"Azuay"	"Cuenca"	7034	2020-09-26
+"Azuay"	"El Pan"	69	2020-09-26
+"Azuay"	"Girón"	49	2020-09-26
+"Azuay"	"Guachapala"	51	2020-09-26
+"Azuay"	"Gualaceo"	419	2020-09-26
+"Azuay"	"Nabón"	42	2020-09-26
+"Azuay"	"Oña"	10	2020-09-26
+"Azuay"	"Paute"	418	2020-09-26
+"Azuay"	"Pucará"	13	2020-09-26
+"Azuay"	"San Fernando"	11	2020-09-26
+"Azuay"	"Santa Isabel"	162	2020-09-26
+"Azuay"	"Sevilla de Oro"	105	2020-09-26
+"Azuay"	"Sígsig"	133	2020-09-26
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-27
+"Azuay"	"Chordeleg"	73	2020-09-27
+"Azuay"	"Cuenca"	7063	2020-09-27
+"Azuay"	"El Pan"	70	2020-09-27
+"Azuay"	"Girón"	50	2020-09-27
+"Azuay"	"Guachapala"	52	2020-09-27
+"Azuay"	"Gualaceo"	426	2020-09-27
+"Azuay"	"Nabón"	42	2020-09-27
+"Azuay"	"Oña"	10	2020-09-27
+"Azuay"	"Paute"	427	2020-09-27
+"Azuay"	"Pucará"	14	2020-09-27
+"Azuay"	"San Fernando"	11	2020-09-27
+"Azuay"	"Santa Isabel"	166	2020-09-27
+"Azuay"	"Sevilla de Oro"	106	2020-09-27
+"Azuay"	"Sígsig"	133	2020-09-27
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-28
+"Azuay"	"Chordeleg"	73	2020-09-28
+"Azuay"	"Cuenca"	7065	2020-09-28
+"Azuay"	"El Pan"	70	2020-09-28
+"Azuay"	"Girón"	50	2020-09-28
+"Azuay"	"Guachapala"	52	2020-09-28
+"Azuay"	"Gualaceo"	426	2020-09-28
+"Azuay"	"Nabón"	42	2020-09-28
+"Azuay"	"Oña"	10	2020-09-28
+"Azuay"	"Paute"	427	2020-09-28
+"Azuay"	"Pucará"	14	2020-09-28
+"Azuay"	"San Fernando"	11	2020-09-28
+"Azuay"	"Santa Isabel"	166	2020-09-28
+"Azuay"	"Sevilla de Oro"	106	2020-09-28
+"Azuay"	"Sígsig"	133	2020-09-28
+"Azuay"	"Camilo Ponce Enríquez"	172	2020-09-29
+"Azuay"	"Chordeleg"	73	2020-09-29
+"Azuay"	"Cuenca"	7125	2020-09-29
+"Azuay"	"El Pan"	70	2020-09-29
+"Azuay"	"Girón"	51	2020-09-29
+"Azuay"	"Guachapala"	52	2020-09-29
+"Azuay"	"Gualaceo"	430	2020-09-29
+"Azuay"	"Nabón"	42	2020-09-29
+"Azuay"	"Oña"	10	2020-09-29
+"Azuay"	"Paute"	427	2020-09-29
+"Azuay"	"Pucará"	14	2020-09-29
+"Azuay"	"San Fernando"	11	2020-09-29
+"Azuay"	"Santa Isabel"	171	2020-09-29
+"Azuay"	"Sevilla de Oro"	106	2020-09-29
+"Azuay"	"Sígsig"	133	2020-09-29
+"Azuay"	"Camilo Ponce Enríquez"	174	2020-09-30
+"Azuay"	"Chordeleg"	74	2020-09-30
+"Azuay"	"Cuenca"	7192	2020-09-30
+"Azuay"	"El Pan"	70	2020-09-30
+"Azuay"	"Girón"	53	2020-09-30
+"Azuay"	"Guachapala"	53	2020-09-30
+"Azuay"	"Gualaceo"	437	2020-09-30
+"Azuay"	"Nabón"	43	2020-09-30
+"Azuay"	"Oña"	12	2020-09-30
+"Azuay"	"Paute"	432	2020-09-30
+"Azuay"	"Pucará"	14	2020-09-30
+"Azuay"	"San Fernando"	11	2020-09-30
+"Azuay"	"Santa Isabel"	175	2020-09-30
+"Azuay"	"Sevilla de Oro"	107	2020-09-30
+"Azuay"	"Sígsig"	134	2020-09-30
+"Azuay"	"Camilo Ponce Enríquez"	175	2020-10-01
+"Azuay"	"Chordeleg"	74	2020-10-01
+"Azuay"	"Cuenca"	7237	2020-10-01
+"Azuay"	"El Pan"	71	2020-10-01
+"Azuay"	"Girón"	54	2020-10-01
+"Azuay"	"Guachapala"	53	2020-10-01
+"Azuay"	"Gualaceo"	443	2020-10-01
+"Azuay"	"Nabón"	43	2020-10-01
+"Azuay"	"Oña"	12	2020-10-01
+"Azuay"	"Paute"	436	2020-10-01
+"Azuay"	"Pucará"	14	2020-10-01
+"Azuay"	"San Fernando"	11	2020-10-01
+"Azuay"	"Santa Isabel"	178	2020-10-01
+"Azuay"	"Sevilla de Oro"	107	2020-10-01
+"Azuay"	"Sígsig"	135	2020-10-01
+"Azuay"	"Camilo Ponce Enríquez"	175	2020-10-02
+"Azuay"	"Chordeleg"	74	2020-10-02
+"Azuay"	"Cuenca"	7288	2020-10-02
+"Azuay"	"El Pan"	72	2020-10-02
+"Azuay"	"Girón"	54	2020-10-02
+"Azuay"	"Guachapala"	53	2020-10-02
+"Azuay"	"Gualaceo"	444	2020-10-02
+"Azuay"	"Nabón"	43	2020-10-02
+"Azuay"	"Oña"	12	2020-10-02
+"Azuay"	"Paute"	442	2020-10-02
+"Azuay"	"Pucará"	14	2020-10-02
+"Azuay"	"San Fernando"	11	2020-10-02
+"Azuay"	"Santa Isabel"	180	2020-10-02
+"Azuay"	"Sevilla de Oro"	110	2020-10-02
+"Azuay"	"Sígsig"	135	2020-10-02
+"Azuay"	"Camilo Ponce Enríquez"	176	2020-10-03
+"Azuay"	"Chordeleg"	77	2020-10-03
+"Azuay"	"Cuenca"	7337	2020-10-03
+"Azuay"	"El Pan"	74	2020-10-03
+"Azuay"	"Girón"	56	2020-10-03
+"Azuay"	"Guachapala"	53	2020-10-03
+"Azuay"	"Gualaceo"	455	2020-10-03
+"Azuay"	"Nabón"	44	2020-10-03
+"Azuay"	"Oña"	13	2020-10-03
+"Azuay"	"Paute"	444	2020-10-03
+"Azuay"	"Pucará"	14	2020-10-03
+"Azuay"	"San Fernando"	11	2020-10-03
+"Azuay"	"Santa Isabel"	180	2020-10-03
+"Azuay"	"Sevilla de Oro"	110	2020-10-03
+"Azuay"	"Sígsig"	135	2020-10-03
+"Azuay"	"Camilo Ponce Enríquez"	176	2020-10-04
+"Azuay"	"Chordeleg"	77	2020-10-04
+"Azuay"	"Cuenca"	7412	2020-10-04
+"Azuay"	"El Pan"	76	2020-10-04
+"Azuay"	"Girón"	56	2020-10-04
+"Azuay"	"Guachapala"	57	2020-10-04
+"Azuay"	"Gualaceo"	460	2020-10-04
+"Azuay"	"Nabón"	44	2020-10-04
+"Azuay"	"Oña"	14	2020-10-04
+"Azuay"	"Paute"	450	2020-10-04
+"Azuay"	"Pucará"	14	2020-10-04
+"Azuay"	"San Fernando"	11	2020-10-04
+"Azuay"	"Santa Isabel"	186	2020-10-04
+"Azuay"	"Sevilla de Oro"	115	2020-10-04
+"Azuay"	"Sígsig"	138	2020-10-04
+"Azuay"	"Camilo Ponce Enríquez"	176	2020-10-05
+"Azuay"	"Chordeleg"	77	2020-10-05
+"Azuay"	"Cuenca"	7420	2020-10-05
+"Azuay"	"El Pan"	76	2020-10-05
+"Azuay"	"Girón"	56	2020-10-05
+"Azuay"	"Guachapala"	57	2020-10-05
+"Azuay"	"Gualaceo"	460	2020-10-05
+"Azuay"	"Nabón"	44	2020-10-05
+"Azuay"	"Oña"	14	2020-10-05
+"Azuay"	"Paute"	452	2020-10-05
+"Azuay"	"Pucará"	14	2020-10-05
+"Azuay"	"San Fernando"	11	2020-10-05
+"Azuay"	"Santa Isabel"	186	2020-10-05
+"Azuay"	"Sevilla de Oro"	115	2020-10-05
+"Azuay"	"Sígsig"	139	2020-10-05
+"Azuay"	"Camilo Ponce Enríquez"	176	2020-10-06
+"Azuay"	"Chordeleg"	77	2020-10-06
+"Azuay"	"Cuenca"	7480	2020-10-06
+"Azuay"	"El Pan"	76	2020-10-06
+"Azuay"	"Girón"	57	2020-10-06
+"Azuay"	"Guachapala"	57	2020-10-06
+"Azuay"	"Gualaceo"	460	2020-10-06
+"Azuay"	"Nabón"	45	2020-10-06
+"Azuay"	"Oña"	14	2020-10-06
+"Azuay"	"Paute"	454	2020-10-06
+"Azuay"	"Pucará"	14	2020-10-06
+"Azuay"	"San Fernando"	11	2020-10-06
+"Azuay"	"Santa Isabel"	186	2020-10-06
+"Azuay"	"Sevilla de Oro"	115	2020-10-06
+"Azuay"	"Sígsig"	140	2020-10-06
+"Azuay"	"Camilo Ponce Enríquez"	176	2020-10-07
+"Azuay"	"Chordeleg"	77	2020-10-07
+"Azuay"	"Cuenca"	7554	2020-10-07
+"Azuay"	"El Pan"	77	2020-10-07
+"Azuay"	"Girón"	58	2020-10-07
+"Azuay"	"Guachapala"	57	2020-10-07
+"Azuay"	"Gualaceo"	462	2020-10-07
+"Azuay"	"Nabón"	45	2020-10-07
+"Azuay"	"Oña"	14	2020-10-07
+"Azuay"	"Paute"	461	2020-10-07
+"Azuay"	"Pucará"	14	2020-10-07
+"Azuay"	"San Fernando"	11	2020-10-07
+"Azuay"	"Santa Isabel"	188	2020-10-07
+"Azuay"	"Sevilla de Oro"	116	2020-10-07
+"Azuay"	"Sígsig"	142	2020-10-07
+"Azuay"	"Camilo Ponce Enríquez"	176	2020-10-08
+"Azuay"	"Chordeleg"	79	2020-10-08
+"Azuay"	"Cuenca"	7586	2020-10-08
+"Azuay"	"El Pan"	82	2020-10-08
+"Azuay"	"Girón"	58	2020-10-08
+"Azuay"	"Guachapala"	64	2020-10-08
+"Azuay"	"Gualaceo"	474	2020-10-08
+"Azuay"	"Nabón"	45	2020-10-08
+"Azuay"	"Oña"	14	2020-10-08
+"Azuay"	"Paute"	463	2020-10-08
+"Azuay"	"Pucará"	14	2020-10-08
+"Azuay"	"San Fernando"	11	2020-10-08
+"Azuay"	"Santa Isabel"	188	2020-10-08
+"Azuay"	"Sevilla de Oro"	120	2020-10-08
+"Azuay"	"Sígsig"	144	2020-10-08
+"Azuay"	"Camilo Ponce Enríquez"	176	2020-10-09
+"Azuay"	"Chordeleg"	79	2020-10-09
+"Azuay"	"Cuenca"	7599	2020-10-09
+"Azuay"	"El Pan"	83	2020-10-09
+"Azuay"	"Girón"	58	2020-10-09
+"Azuay"	"Guachapala"	65	2020-10-09
+"Azuay"	"Gualaceo"	474	2020-10-09
+"Azuay"	"Nabón"	45	2020-10-09
+"Azuay"	"Oña"	14	2020-10-09
+"Azuay"	"Paute"	470	2020-10-09
+"Azuay"	"Pucará"	14	2020-10-09
+"Azuay"	"San Fernando"	11	2020-10-09
+"Azuay"	"Santa Isabel"	189	2020-10-09
+"Azuay"	"Sevilla de Oro"	120	2020-10-09
+"Azuay"	"Sígsig"	144	2020-10-09
+"Azuay"	"Camilo Ponce Enríquez"	176	2020-10-10
+"Azuay"	"Chordeleg"	80	2020-10-10
+"Azuay"	"Cuenca"	7613	2020-10-10
+"Azuay"	"El Pan"	83	2020-10-10
+"Azuay"	"Girón"	58	2020-10-10
+"Azuay"	"Guachapala"	66	2020-10-10
+"Azuay"	"Gualaceo"	475	2020-10-10
+"Azuay"	"Nabón"	45	2020-10-10
+"Azuay"	"Oña"	15	2020-10-10
+"Azuay"	"Paute"	478	2020-10-10
+"Azuay"	"Pucará"	14	2020-10-10
+"Azuay"	"San Fernando"	11	2020-10-10
+"Azuay"	"Santa Isabel"	189	2020-10-10
+"Azuay"	"Sevilla de Oro"	121	2020-10-10
+"Azuay"	"Sígsig"	144	2020-10-10
+"Azuay"	"Camilo Ponce Enríquez"	176	2020-10-11
+"Azuay"	"Chordeleg"	80	2020-10-11
+"Azuay"	"Cuenca"	7619	2020-10-11
+"Azuay"	"El Pan"	83	2020-10-11
+"Azuay"	"Girón"	58	2020-10-11
+"Azuay"	"Guachapala"	66	2020-10-11
+"Azuay"	"Gualaceo"	476	2020-10-11
+"Azuay"	"Nabón"	45	2020-10-11
+"Azuay"	"Oña"	15	2020-10-11
+"Azuay"	"Paute"	478	2020-10-11
+"Azuay"	"Pucará"	14	2020-10-11
+"Azuay"	"San Fernando"	11	2020-10-11
+"Azuay"	"Santa Isabel"	189	2020-10-11
+"Azuay"	"Sevilla de Oro"	121	2020-10-11
+"Azuay"	"Sígsig"	144	2020-10-11
+"Azuay"	"Camilo Ponce Enríquez"	176	2020-10-12
+"Azuay"	"Chordeleg"	80	2020-10-12
+"Azuay"	"Cuenca"	7643	2020-10-12
+"Azuay"	"El Pan"	83	2020-10-12
+"Azuay"	"Girón"	58	2020-10-12
+"Azuay"	"Guachapala"	66	2020-10-12
+"Azuay"	"Gualaceo"	476	2020-10-12
+"Azuay"	"Nabón"	45	2020-10-12
+"Azuay"	"Oña"	15	2020-10-12
+"Azuay"	"Paute"	478	2020-10-12
+"Azuay"	"Pucará"	14	2020-10-12
+"Azuay"	"San Fernando"	11	2020-10-12
+"Azuay"	"Santa Isabel"	189	2020-10-12
+"Azuay"	"Sevilla de Oro"	121	2020-10-12
+"Azuay"	"Sígsig"	144	2020-10-12
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-13
+"Azuay"	"Chordeleg"	80	2020-10-13
+"Azuay"	"Cuenca"	7702	2020-10-13
+"Azuay"	"El Pan"	83	2020-10-13
+"Azuay"	"Girón"	58	2020-10-13
+"Azuay"	"Guachapala"	66	2020-10-13
+"Azuay"	"Gualaceo"	477	2020-10-13
+"Azuay"	"Nabón"	45	2020-10-13
+"Azuay"	"Oña"	15	2020-10-13
+"Azuay"	"Paute"	481	2020-10-13
+"Azuay"	"Pucará"	14	2020-10-13
+"Azuay"	"San Fernando"	11	2020-10-13
+"Azuay"	"Santa Isabel"	189	2020-10-13
+"Azuay"	"Sevilla de Oro"	121	2020-10-13
+"Azuay"	"Sígsig"	144	2020-10-13
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-14
+"Azuay"	"Chordeleg"	80	2020-10-14
+"Azuay"	"Cuenca"	7760	2020-10-14
+"Azuay"	"El Pan"	83	2020-10-14
+"Azuay"	"Girón"	59	2020-10-14
+"Azuay"	"Guachapala"	66	2020-10-14
+"Azuay"	"Gualaceo"	477	2020-10-14
+"Azuay"	"Nabón"	45	2020-10-14
+"Azuay"	"Oña"	15	2020-10-14
+"Azuay"	"Paute"	481	2020-10-14
+"Azuay"	"Pucará"	14	2020-10-14
+"Azuay"	"San Fernando"	11	2020-10-14
+"Azuay"	"Santa Isabel"	199	2020-10-14
+"Azuay"	"Sevilla de Oro"	121	2020-10-14
+"Azuay"	"Sígsig"	144	2020-10-14
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-15
+"Azuay"	"Chordeleg"	81	2020-10-15
+"Azuay"	"Cuenca"	7805	2020-10-15
+"Azuay"	"El Pan"	83	2020-10-15
+"Azuay"	"Girón"	59	2020-10-15
+"Azuay"	"Guachapala"	67	2020-10-15
+"Azuay"	"Gualaceo"	487	2020-10-15
+"Azuay"	"Nabón"	45	2020-10-15
+"Azuay"	"Oña"	15	2020-10-15
+"Azuay"	"Paute"	481	2020-10-15
+"Azuay"	"Pucará"	14	2020-10-15
+"Azuay"	"San Fernando"	11	2020-10-15
+"Azuay"	"Santa Isabel"	200	2020-10-15
+"Azuay"	"Sevilla de Oro"	123	2020-10-15
+"Azuay"	"Sígsig"	148	2020-10-15
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-16
+"Azuay"	"Chordeleg"	81	2020-10-16
+"Azuay"	"Cuenca"	7886	2020-10-16
+"Azuay"	"El Pan"	84	2020-10-16
+"Azuay"	"Girón"	60	2020-10-16
+"Azuay"	"Guachapala"	74	2020-10-16
+"Azuay"	"Gualaceo"	491	2020-10-16
+"Azuay"	"Nabón"	46	2020-10-16
+"Azuay"	"Oña"	15	2020-10-16
+"Azuay"	"Paute"	484	2020-10-16
+"Azuay"	"Pucará"	15	2020-10-16
+"Azuay"	"San Fernando"	11	2020-10-16
+"Azuay"	"Santa Isabel"	204	2020-10-16
+"Azuay"	"Sevilla de Oro"	123	2020-10-16
+"Azuay"	"Sígsig"	148	2020-10-16
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-17
+"Azuay"	"Chordeleg"	81	2020-10-17
+"Azuay"	"Cuenca"	7915	2020-10-17
+"Azuay"	"El Pan"	84	2020-10-17
+"Azuay"	"Girón"	60	2020-10-17
+"Azuay"	"Guachapala"	74	2020-10-17
+"Azuay"	"Gualaceo"	491	2020-10-17
+"Azuay"	"Nabón"	46	2020-10-17
+"Azuay"	"Oña"	15	2020-10-17
+"Azuay"	"Paute"	493	2020-10-17
+"Azuay"	"Pucará"	15	2020-10-17
+"Azuay"	"San Fernando"	11	2020-10-17
+"Azuay"	"Santa Isabel"	204	2020-10-17
+"Azuay"	"Sevilla de Oro"	123	2020-10-17
+"Azuay"	"Sígsig"	149	2020-10-17
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-18
+"Azuay"	"Chordeleg"	84	2020-10-18
+"Azuay"	"Cuenca"	7949	2020-10-18
+"Azuay"	"El Pan"	84	2020-10-18
+"Azuay"	"Girón"	60	2020-10-18
+"Azuay"	"Guachapala"	78	2020-10-18
+"Azuay"	"Gualaceo"	494	2020-10-18
+"Azuay"	"Nabón"	46	2020-10-18
+"Azuay"	"Oña"	15	2020-10-18
+"Azuay"	"Paute"	499	2020-10-18
+"Azuay"	"Pucará"	15	2020-10-18
+"Azuay"	"San Fernando"	11	2020-10-18
+"Azuay"	"Santa Isabel"	212	2020-10-18
+"Azuay"	"Sevilla de Oro"	123	2020-10-18
+"Azuay"	"Sígsig"	150	2020-10-18
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-19
+"Azuay"	"Chordeleg"	84	2020-10-19
+"Azuay"	"Cuenca"	7952	2020-10-19
+"Azuay"	"El Pan"	84	2020-10-19
+"Azuay"	"Girón"	60	2020-10-19
+"Azuay"	"Guachapala"	78	2020-10-19
+"Azuay"	"Gualaceo"	495	2020-10-19
+"Azuay"	"Nabón"	46	2020-10-19
+"Azuay"	"Oña"	15	2020-10-19
+"Azuay"	"Paute"	499	2020-10-19
+"Azuay"	"Pucará"	15	2020-10-19
+"Azuay"	"San Fernando"	11	2020-10-19
+"Azuay"	"Santa Isabel"	212	2020-10-19
+"Azuay"	"Sevilla de Oro"	123	2020-10-19
+"Azuay"	"Sígsig"	150	2020-10-19
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-20
+"Azuay"	"Chordeleg"	84	2020-10-20
+"Azuay"	"Cuenca"	8025	2020-10-20
+"Azuay"	"El Pan"	84	2020-10-20
+"Azuay"	"Girón"	60	2020-10-20
+"Azuay"	"Guachapala"	78	2020-10-20
+"Azuay"	"Gualaceo"	495	2020-10-20
+"Azuay"	"Nabón"	46	2020-10-20
+"Azuay"	"Oña"	15	2020-10-20
+"Azuay"	"Paute"	501	2020-10-20
+"Azuay"	"Pucará"	15	2020-10-20
+"Azuay"	"San Fernando"	11	2020-10-20
+"Azuay"	"Santa Isabel"	212	2020-10-20
+"Azuay"	"Sevilla de Oro"	124	2020-10-20
+"Azuay"	"Sígsig"	150	2020-10-20
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-21
+"Azuay"	"Chordeleg"	84	2020-10-21
+"Azuay"	"Cuenca"	8176	2020-10-21
+"Azuay"	"El Pan"	84	2020-10-21
+"Azuay"	"Girón"	62	2020-10-21
+"Azuay"	"Guachapala"	78	2020-10-21
+"Azuay"	"Gualaceo"	498	2020-10-21
+"Azuay"	"Nabón"	47	2020-10-21
+"Azuay"	"Oña"	15	2020-10-21
+"Azuay"	"Paute"	507	2020-10-21
+"Azuay"	"Pucará"	15	2020-10-21
+"Azuay"	"San Fernando"	11	2020-10-21
+"Azuay"	"Santa Isabel"	214	2020-10-21
+"Azuay"	"Sevilla de Oro"	125	2020-10-21
+"Azuay"	"Sígsig"	151	2020-10-21
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-22
+"Azuay"	"Chordeleg"	84	2020-10-22
+"Azuay"	"Cuenca"	8213	2020-10-22
+"Azuay"	"El Pan"	85	2020-10-22
+"Azuay"	"Girón"	63	2020-10-22
+"Azuay"	"Guachapala"	82	2020-10-22
+"Azuay"	"Gualaceo"	502	2020-10-22
+"Azuay"	"Nabón"	47	2020-10-22
+"Azuay"	"Oña"	15	2020-10-22
+"Azuay"	"Paute"	513	2020-10-22
+"Azuay"	"Pucará"	16	2020-10-22
+"Azuay"	"San Fernando"	11	2020-10-22
+"Azuay"	"Santa Isabel"	220	2020-10-22
+"Azuay"	"Sevilla de Oro"	126	2020-10-22
+"Azuay"	"Sígsig"	151	2020-10-22
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-23
+"Azuay"	"Chordeleg"	84	2020-10-23
+"Azuay"	"Cuenca"	8240	2020-10-23
+"Azuay"	"El Pan"	85	2020-10-23
+"Azuay"	"Girón"	63	2020-10-23
+"Azuay"	"Guachapala"	82	2020-10-23
+"Azuay"	"Gualaceo"	504	2020-10-23
+"Azuay"	"Nabón"	47	2020-10-23
+"Azuay"	"Oña"	15	2020-10-23
+"Azuay"	"Paute"	513	2020-10-23
+"Azuay"	"Pucará"	16	2020-10-23
+"Azuay"	"San Fernando"	11	2020-10-23
+"Azuay"	"Santa Isabel"	220	2020-10-23
+"Azuay"	"Sevilla de Oro"	126	2020-10-23
+"Azuay"	"Sígsig"	151	2020-10-23
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-24
+"Azuay"	"Chordeleg"	84	2020-10-24
+"Azuay"	"Cuenca"	8258	2020-10-24
+"Azuay"	"El Pan"	85	2020-10-24
+"Azuay"	"Girón"	63	2020-10-24
+"Azuay"	"Guachapala"	82	2020-10-24
+"Azuay"	"Gualaceo"	504	2020-10-24
+"Azuay"	"Nabón"	47	2020-10-24
+"Azuay"	"Oña"	15	2020-10-24
+"Azuay"	"Paute"	527	2020-10-24
+"Azuay"	"Pucará"	16	2020-10-24
+"Azuay"	"San Fernando"	11	2020-10-24
+"Azuay"	"Santa Isabel"	220	2020-10-24
+"Azuay"	"Sevilla de Oro"	126	2020-10-24
+"Azuay"	"Sígsig"	151	2020-10-24
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-25
+"Azuay"	"Chordeleg"	84	2020-10-25
+"Azuay"	"Cuenca"	8280	2020-10-25
+"Azuay"	"El Pan"	85	2020-10-25
+"Azuay"	"Girón"	63	2020-10-25
+"Azuay"	"Guachapala"	82	2020-10-25
+"Azuay"	"Gualaceo"	505	2020-10-25
+"Azuay"	"Nabón"	47	2020-10-25
+"Azuay"	"Oña"	15	2020-10-25
+"Azuay"	"Paute"	533	2020-10-25
+"Azuay"	"Pucará"	17	2020-10-25
+"Azuay"	"San Fernando"	11	2020-10-25
+"Azuay"	"Santa Isabel"	226	2020-10-25
+"Azuay"	"Sevilla de Oro"	126	2020-10-25
+"Azuay"	"Sígsig"	151	2020-10-25
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-26
+"Azuay"	"Chordeleg"	84	2020-10-26
+"Azuay"	"Cuenca"	8283	2020-10-26
+"Azuay"	"El Pan"	85	2020-10-26
+"Azuay"	"Girón"	63	2020-10-26
+"Azuay"	"Guachapala"	82	2020-10-26
+"Azuay"	"Gualaceo"	505	2020-10-26
+"Azuay"	"Nabón"	47	2020-10-26
+"Azuay"	"Oña"	15	2020-10-26
+"Azuay"	"Paute"	533	2020-10-26
+"Azuay"	"Pucará"	17	2020-10-26
+"Azuay"	"San Fernando"	11	2020-10-26
+"Azuay"	"Santa Isabel"	226	2020-10-26
+"Azuay"	"Sevilla de Oro"	126	2020-10-26
+"Azuay"	"Sígsig"	151	2020-10-26
+"Azuay"	"Camilo Ponce Enríquez"	177	2020-10-27
+"Azuay"	"Chordeleg"	85	2020-10-27
+"Azuay"	"Cuenca"	8320	2020-10-27
+"Azuay"	"El Pan"	85	2020-10-27
+"Azuay"	"Girón"	63	2020-10-27
+"Azuay"	"Guachapala"	87	2020-10-27
+"Azuay"	"Gualaceo"	512	2020-10-27
+"Azuay"	"Nabón"	47	2020-10-27
+"Azuay"	"Oña"	15	2020-10-27
+"Azuay"	"Paute"	537	2020-10-27
+"Azuay"	"Pucará"	17	2020-10-27
+"Azuay"	"San Fernando"	11	2020-10-27
+"Azuay"	"Santa Isabel"	229	2020-10-27
+"Azuay"	"Sevilla de Oro"	127	2020-10-27
+"Azuay"	"Sígsig"	151	2020-10-27
+"Azuay"	"Camilo Ponce Enríquez"	179	2020-10-28
+"Azuay"	"Chordeleg"	86	2020-10-28
+"Azuay"	"Cuenca"	8340	2020-10-28
+"Azuay"	"El Pan"	85	2020-10-28
+"Azuay"	"Girón"	64	2020-10-28
+"Azuay"	"Guachapala"	90	2020-10-28
+"Azuay"	"Gualaceo"	519	2020-10-28
+"Azuay"	"Nabón"	47	2020-10-28
+"Azuay"	"Oña"	15	2020-10-28
+"Azuay"	"Paute"	542	2020-10-28
+"Azuay"	"Pucará"	17	2020-10-28
+"Azuay"	"San Fernando"	11	2020-10-28
+"Azuay"	"Santa Isabel"	234	2020-10-28
+"Azuay"	"Sevilla de Oro"	127	2020-10-28
+"Azuay"	"Sígsig"	151	2020-10-28
+"Azuay"	"Camilo Ponce Enríquez"	179	2020-10-29
+"Azuay"	"Chordeleg"	87	2020-10-29
+"Azuay"	"Cuenca"	8368	2020-10-29
+"Azuay"	"El Pan"	86	2020-10-29
+"Azuay"	"Girón"	64	2020-10-29
+"Azuay"	"Guachapala"	91	2020-10-29
+"Azuay"	"Gualaceo"	522	2020-10-29
+"Azuay"	"Nabón"	48	2020-10-29
+"Azuay"	"Oña"	15	2020-10-29
+"Azuay"	"Paute"	552	2020-10-29
+"Azuay"	"Pucará"	17	2020-10-29
+"Azuay"	"San Fernando"	11	2020-10-29
+"Azuay"	"Santa Isabel"	235	2020-10-29
+"Azuay"	"Sevilla de Oro"	127	2020-10-29
+"Azuay"	"Sígsig"	151	2020-10-29
+"Azuay"	"Camilo Ponce Enríquez"	179	2020-10-30
+"Azuay"	"Chordeleg"	87	2020-10-30
+"Azuay"	"Cuenca"	8401	2020-10-30
+"Azuay"	"El Pan"	86	2020-10-30
+"Azuay"	"Girón"	64	2020-10-30
+"Azuay"	"Guachapala"	91	2020-10-30
+"Azuay"	"Gualaceo"	523	2020-10-30
+"Azuay"	"Nabón"	48	2020-10-30
+"Azuay"	"Oña"	15	2020-10-30
+"Azuay"	"Paute"	553	2020-10-30
+"Azuay"	"Pucará"	17	2020-10-30
+"Azuay"	"San Fernando"	11	2020-10-30
+"Azuay"	"Santa Isabel"	239	2020-10-30
+"Azuay"	"Sevilla de Oro"	127	2020-10-30
+"Azuay"	"Sígsig"	151	2020-10-30
+"Azuay"	"Camilo Ponce Enríquez"	179	2020-10-31
+"Azuay"	"Chordeleg"	87	2020-10-31
+"Azuay"	"Cuenca"	8410	2020-10-31
+"Azuay"	"El Pan"	86	2020-10-31
+"Azuay"	"Girón"	64	2020-10-31
+"Azuay"	"Guachapala"	91	2020-10-31
+"Azuay"	"Gualaceo"	525	2020-10-31
+"Azuay"	"Nabón"	48	2020-10-31
+"Azuay"	"Oña"	15	2020-10-31
+"Azuay"	"Paute"	554	2020-10-31
+"Azuay"	"Pucará"	17	2020-10-31
+"Azuay"	"San Fernando"	11	2020-10-31
+"Azuay"	"Santa Isabel"	239	2020-10-31
+"Azuay"	"Sevilla de Oro"	127	2020-10-31
+"Azuay"	"Sígsig"	151	2020-10-31
+"Azuay"	"Camilo Ponce Enríquez"	180	2020-11-01
+"Azuay"	"Chordeleg"	91	2020-11-01
+"Azuay"	"Cuenca"	8434	2020-11-01
+"Azuay"	"El Pan"	86	2020-11-01
+"Azuay"	"Girón"	70	2020-11-01
+"Azuay"	"Guachapala"	93	2020-11-01
+"Azuay"	"Gualaceo"	529	2020-11-01
+"Azuay"	"Nabón"	48	2020-11-01
+"Azuay"	"Oña"	15	2020-11-01
+"Azuay"	"Paute"	565	2020-11-01
+"Azuay"	"Pucará"	17	2020-11-01
+"Azuay"	"San Fernando"	11	2020-11-01
+"Azuay"	"Santa Isabel"	241	2020-11-01
+"Azuay"	"Sevilla de Oro"	127	2020-11-01
+"Azuay"	"Sígsig"	151	2020-11-01
+"Azuay"	"Camilo Ponce Enríquez"	180	2020-11-02
+"Azuay"	"Chordeleg"	91	2020-11-02
+"Azuay"	"Cuenca"	8457	2020-11-02
+"Azuay"	"El Pan"	87	2020-11-02
+"Azuay"	"Girón"	70	2020-11-02
+"Azuay"	"Guachapala"	93	2020-11-02
+"Azuay"	"Gualaceo"	529	2020-11-02
+"Azuay"	"Nabón"	48	2020-11-02
+"Azuay"	"Oña"	15	2020-11-02
+"Azuay"	"Paute"	565	2020-11-02
+"Azuay"	"Pucará"	17	2020-11-02
+"Azuay"	"San Fernando"	11	2020-11-02
+"Azuay"	"Santa Isabel"	241	2020-11-02
+"Azuay"	"Sevilla de Oro"	127	2020-11-02
+"Azuay"	"Sígsig"	151	2020-11-02
+"Azuay"	"Camilo Ponce Enríquez"	180	2020-11-03
+"Azuay"	"Chordeleg"	91	2020-11-03
+"Azuay"	"Cuenca"	8462	2020-11-03
+"Azuay"	"El Pan"	87	2020-11-03
+"Azuay"	"Girón"	70	2020-11-03
+"Azuay"	"Guachapala"	93	2020-11-03
+"Azuay"	"Gualaceo"	529	2020-11-03
+"Azuay"	"Nabón"	48	2020-11-03
+"Azuay"	"Oña"	15	2020-11-03
+"Azuay"	"Paute"	565	2020-11-03
+"Azuay"	"Pucará"	17	2020-11-03
+"Azuay"	"San Fernando"	12	2020-11-03
+"Azuay"	"Santa Isabel"	241	2020-11-03
+"Azuay"	"Sevilla de Oro"	127	2020-11-03
+"Azuay"	"Sígsig"	151	2020-11-03
+"Azuay"	"Camilo Ponce Enríquez"	180	2020-11-04
+"Azuay"	"Chordeleg"	91	2020-11-04
+"Azuay"	"Cuenca"	8480	2020-11-04
+"Azuay"	"El Pan"	87	2020-11-04
+"Azuay"	"Girón"	71	2020-11-04
+"Azuay"	"Guachapala"	93	2020-11-04
+"Azuay"	"Gualaceo"	529	2020-11-04
+"Azuay"	"Nabón"	48	2020-11-04
+"Azuay"	"Oña"	15	2020-11-04
+"Azuay"	"Paute"	565	2020-11-04
+"Azuay"	"Pucará"	18	2020-11-04
+"Azuay"	"San Fernando"	12	2020-11-04
+"Azuay"	"Santa Isabel"	241	2020-11-04
+"Azuay"	"Sevilla de Oro"	127	2020-11-04
+"Azuay"	"Sígsig"	151	2020-11-04
+"Azuay"	"Camilo Ponce Enríquez"	180	2020-11-05
+"Azuay"	"Chordeleg"	91	2020-11-05
+"Azuay"	"Cuenca"	8495	2020-11-05
+"Azuay"	"El Pan"	87	2020-11-05
+"Azuay"	"Girón"	71	2020-11-05
+"Azuay"	"Guachapala"	93	2020-11-05
+"Azuay"	"Gualaceo"	529	2020-11-05
+"Azuay"	"Nabón"	48	2020-11-05
+"Azuay"	"Oña"	15	2020-11-05
+"Azuay"	"Paute"	565	2020-11-05
+"Azuay"	"Pucará"	18	2020-11-05
+"Azuay"	"San Fernando"	12	2020-11-05
+"Azuay"	"Santa Isabel"	241	2020-11-05
+"Azuay"	"Sevilla de Oro"	127	2020-11-05
+"Azuay"	"Sígsig"	151	2020-11-05
+"Azuay"	"Camilo Ponce Enríquez"	180	2020-11-06
+"Azuay"	"Chordeleg"	91	2020-11-06
+"Azuay"	"Cuenca"	8549	2020-11-06
+"Azuay"	"El Pan"	87	2020-11-06
+"Azuay"	"Girón"	73	2020-11-06
+"Azuay"	"Guachapala"	94	2020-11-06
+"Azuay"	"Gualaceo"	534	2020-11-06
+"Azuay"	"Nabón"	48	2020-11-06
+"Azuay"	"Oña"	15	2020-11-06
+"Azuay"	"Paute"	565	2020-11-06
+"Azuay"	"Pucará"	18	2020-11-06
+"Azuay"	"San Fernando"	12	2020-11-06
+"Azuay"	"Santa Isabel"	243	2020-11-06
+"Azuay"	"Sevilla de Oro"	127	2020-11-06
+"Azuay"	"Sígsig"	152	2020-11-06
+"Azuay"	"Camilo Ponce Enríquez"	180	2020-11-07
+"Azuay"	"Chordeleg"	91	2020-11-07
+"Azuay"	"Cuenca"	8611	2020-11-07
+"Azuay"	"El Pan"	87	2020-11-07
+"Azuay"	"Girón"	73	2020-11-07
+"Azuay"	"Guachapala"	94	2020-11-07
+"Azuay"	"Gualaceo"	537	2020-11-07
+"Azuay"	"Nabón"	48	2020-11-07
+"Azuay"	"Oña"	15	2020-11-07
+"Azuay"	"Paute"	568	2020-11-07
+"Azuay"	"Pucará"	18	2020-11-07
+"Azuay"	"San Fernando"	12	2020-11-07
+"Azuay"	"Santa Isabel"	243	2020-11-07
+"Azuay"	"Sevilla de Oro"	127	2020-11-07
+"Azuay"	"Sígsig"	152	2020-11-07
+"Azuay"	"Camilo Ponce Enríquez"	181	2020-11-08
+"Azuay"	"Chordeleg"	91	2020-11-08
+"Azuay"	"Cuenca"	8626	2020-11-08
+"Azuay"	"El Pan"	87	2020-11-08
+"Azuay"	"Girón"	74	2020-11-08
+"Azuay"	"Guachapala"	94	2020-11-08
+"Azuay"	"Gualaceo"	538	2020-11-08
+"Azuay"	"Nabón"	49	2020-11-08
+"Azuay"	"Oña"	15	2020-11-08
+"Azuay"	"Paute"	572	2020-11-08
+"Azuay"	"Pucará"	18	2020-11-08
+"Azuay"	"San Fernando"	12	2020-11-08
+"Azuay"	"Santa Isabel"	244	2020-11-08
+"Azuay"	"Sevilla de Oro"	130	2020-11-08
+"Azuay"	"Sígsig"	152	2020-11-08
+"Azuay"	"Camilo Ponce Enríquez"	182	2020-11-09
+"Azuay"	"Chordeleg"	91	2020-11-09
+"Azuay"	"Cuenca"	8628	2020-11-09
+"Azuay"	"El Pan"	87	2020-11-09
+"Azuay"	"Girón"	74	2020-11-09
+"Azuay"	"Guachapala"	94	2020-11-09
+"Azuay"	"Gualaceo"	541	2020-11-09
+"Azuay"	"Nabón"	49	2020-11-09
+"Azuay"	"Oña"	15	2020-11-09
+"Azuay"	"Paute"	575	2020-11-09
+"Azuay"	"Pucará"	18	2020-11-09
+"Azuay"	"San Fernando"	12	2020-11-09
+"Azuay"	"Santa Isabel"	244	2020-11-09
+"Azuay"	"Sevilla de Oro"	130	2020-11-09
+"Azuay"	"Sígsig"	154	2020-11-09
+"Azuay"	"Camilo Ponce Enríquez"	182	2020-11-10
+"Azuay"	"Chordeleg"	91	2020-11-10
+"Azuay"	"Cuenca"	8632	2020-11-10
+"Azuay"	"El Pan"	87	2020-11-10
+"Azuay"	"Girón"	75	2020-11-10
+"Azuay"	"Guachapala"	94	2020-11-10
+"Azuay"	"Gualaceo"	541	2020-11-10
+"Azuay"	"Nabón"	49	2020-11-10
+"Azuay"	"Oña"	15	2020-11-10
+"Azuay"	"Paute"	575	2020-11-10
+"Azuay"	"Pucará"	18	2020-11-10
+"Azuay"	"San Fernando"	13	2020-11-10
+"Azuay"	"Santa Isabel"	244	2020-11-10
+"Azuay"	"Sevilla de Oro"	130	2020-11-10
+"Azuay"	"Sígsig"	154	2020-11-10
+"Azuay"	"Camilo Ponce Enríquez"	182	2020-11-11
+"Azuay"	"Chordeleg"	91	2020-11-11
+"Azuay"	"Cuenca"	8670	2020-11-11
+"Azuay"	"El Pan"	87	2020-11-11
+"Azuay"	"Girón"	76	2020-11-11
+"Azuay"	"Guachapala"	95	2020-11-11
+"Azuay"	"Gualaceo"	543	2020-11-11
+"Azuay"	"Nabón"	49	2020-11-11
+"Azuay"	"Oña"	15	2020-11-11
+"Azuay"	"Paute"	575	2020-11-11
+"Azuay"	"Pucará"	18	2020-11-11
+"Azuay"	"San Fernando"	12	2020-11-11
+"Azuay"	"Santa Isabel"	246	2020-11-11
+"Azuay"	"Sevilla de Oro"	130	2020-11-11
+"Azuay"	"Sígsig"	154	2020-11-11
+"Azuay"	"Camilo Ponce Enríquez"	182	2020-11-12
+"Azuay"	"Chordeleg"	91	2020-11-12
+"Azuay"	"Cuenca"	8704	2020-11-12
+"Azuay"	"El Pan"	87	2020-11-12
+"Azuay"	"Girón"	76	2020-11-12
+"Azuay"	"Guachapala"	96	2020-11-12
+"Azuay"	"Gualaceo"	547	2020-11-12
+"Azuay"	"Nabón"	49	2020-11-12
+"Azuay"	"Oña"	15	2020-11-12
+"Azuay"	"Paute"	587	2020-11-12
+"Azuay"	"Pucará"	18	2020-11-12
+"Azuay"	"San Fernando"	12	2020-11-12
+"Azuay"	"Santa Isabel"	248	2020-11-12
+"Azuay"	"Sevilla de Oro"	131	2020-11-12
+"Azuay"	"Sígsig"	154	2020-11-12
+"Azuay"	"Camilo Ponce Enríquez"	182	2020-11-13
+"Azuay"	"Chordeleg"	92	2020-11-13
+"Azuay"	"Cuenca"	8737	2020-11-13
+"Azuay"	"El Pan"	87	2020-11-13
+"Azuay"	"Girón"	79	2020-11-13
+"Azuay"	"Guachapala"	96	2020-11-13
+"Azuay"	"Gualaceo"	549	2020-11-13
+"Azuay"	"Nabón"	50	2020-11-13
+"Azuay"	"Oña"	15	2020-11-13
+"Azuay"	"Paute"	590	2020-11-13
+"Azuay"	"Pucará"	18	2020-11-13
+"Azuay"	"San Fernando"	12	2020-11-13
+"Azuay"	"Santa Isabel"	257	2020-11-13
+"Azuay"	"Sevilla de Oro"	131	2020-11-13
+"Azuay"	"Sígsig"	154	2020-11-13
+"Azuay"	"Camilo Ponce Enríquez"	183	2020-11-14
+"Azuay"	"Chordeleg"	92	2020-11-14
+"Azuay"	"Cuenca"	8768	2020-11-14
+"Azuay"	"El Pan"	87	2020-11-14
+"Azuay"	"Girón"	79	2020-11-14
+"Azuay"	"Guachapala"	96	2020-11-14
+"Azuay"	"Gualaceo"	550	2020-11-14
+"Azuay"	"Nabón"	50	2020-11-14
+"Azuay"	"Oña"	15	2020-11-14
+"Azuay"	"Paute"	595	2020-11-14
+"Azuay"	"Pucará"	18	2020-11-14
+"Azuay"	"San Fernando"	12	2020-11-14
+"Azuay"	"Santa Isabel"	257	2020-11-14
+"Azuay"	"Sevilla de Oro"	131	2020-11-14
+"Azuay"	"Sígsig"	154	2020-11-14
+"Azuay"	"Camilo Ponce Enríquez"	183	2020-11-15
+"Azuay"	"Chordeleg"	92	2020-11-15
+"Azuay"	"Cuenca"	8777	2020-11-15
+"Azuay"	"El Pan"	87	2020-11-15
+"Azuay"	"Girón"	79	2020-11-15
+"Azuay"	"Guachapala"	96	2020-11-15
+"Azuay"	"Gualaceo"	550	2020-11-15
+"Azuay"	"Nabón"	50	2020-11-15
+"Azuay"	"Oña"	15	2020-11-15
+"Azuay"	"Paute"	595	2020-11-15
+"Azuay"	"Pucará"	18	2020-11-15
+"Azuay"	"San Fernando"	12	2020-11-15
+"Azuay"	"Santa Isabel"	257	2020-11-15
+"Azuay"	"Sevilla de Oro"	131	2020-11-15
+"Azuay"	"Sígsig"	156	2020-11-15
+"Azuay"	"Camilo Ponce Enríquez"	184	2020-11-16
+"Azuay"	"Chordeleg"	92	2020-11-16
+"Azuay"	"Cuenca"	8781	2020-11-16
+"Azuay"	"El Pan"	87	2020-11-16
+"Azuay"	"Girón"	80	2020-11-16
+"Azuay"	"Guachapala"	96	2020-11-16
+"Azuay"	"Gualaceo"	550	2020-11-16
+"Azuay"	"Nabón"	50	2020-11-16
+"Azuay"	"Oña"	15	2020-11-16
+"Azuay"	"Paute"	595	2020-11-16
+"Azuay"	"Pucará"	18	2020-11-16
+"Azuay"	"San Fernando"	12	2020-11-16
+"Azuay"	"Santa Isabel"	260	2020-11-16
+"Azuay"	"Sevilla de Oro"	131	2020-11-16
+"Azuay"	"Sígsig"	156	2020-11-16
+"Azuay"	"Camilo Ponce Enríquez"	184	2020-11-17
+"Azuay"	"Chordeleg"	92	2020-11-17
+"Azuay"	"Cuenca"	8793	2020-11-17
+"Azuay"	"El Pan"	87	2020-11-17
+"Azuay"	"Girón"	80	2020-11-17
+"Azuay"	"Guachapala"	96	2020-11-17
+"Azuay"	"Gualaceo"	550	2020-11-17
+"Azuay"	"Nabón"	50	2020-11-17
+"Azuay"	"Oña"	15	2020-11-17
+"Azuay"	"Paute"	595	2020-11-17
+"Azuay"	"Pucará"	18	2020-11-17
+"Azuay"	"San Fernando"	12	2020-11-17
+"Azuay"	"Santa Isabel"	260	2020-11-17
+"Azuay"	"Sevilla de Oro"	131	2020-11-17
+"Azuay"	"Sígsig"	156	2020-11-17
+"Azuay"	"Camilo Ponce Enríquez"	184	2020-11-18
+"Azuay"	"Chordeleg"	92	2020-11-18
+"Azuay"	"Cuenca"	8887	2020-11-18
+"Azuay"	"El Pan"	87	2020-11-18
+"Azuay"	"Girón"	80	2020-11-18
+"Azuay"	"Guachapala"	96	2020-11-18
+"Azuay"	"Gualaceo"	554	2020-11-18
+"Azuay"	"Nabón"	50	2020-11-18
+"Azuay"	"Oña"	15	2020-11-18
+"Azuay"	"Paute"	598	2020-11-18
+"Azuay"	"Pucará"	18	2020-11-18
+"Azuay"	"San Fernando"	12	2020-11-18
+"Azuay"	"Santa Isabel"	260	2020-11-18
+"Azuay"	"Sevilla de Oro"	131	2020-11-18
+"Azuay"	"Sígsig"	156	2020-11-18
+"Azuay"	"Camilo Ponce Enríquez"	184	2020-11-19
+"Azuay"	"Chordeleg"	92	2020-11-19
+"Azuay"	"Cuenca"	8931	2020-11-19
+"Azuay"	"El Pan"	87	2020-11-19
+"Azuay"	"Girón"	83	2020-11-19
+"Azuay"	"Guachapala"	96	2020-11-19
+"Azuay"	"Gualaceo"	554	2020-11-19
+"Azuay"	"Nabón"	50	2020-11-19
+"Azuay"	"Oña"	15	2020-11-19
+"Azuay"	"Paute"	609	2020-11-19
+"Azuay"	"Pucará"	18	2020-11-19
+"Azuay"	"San Fernando"	12	2020-11-19
+"Azuay"	"Santa Isabel"	268	2020-11-19
+"Azuay"	"Sevilla de Oro"	131	2020-11-19
+"Azuay"	"Sígsig"	156	2020-11-19
+"Azuay"	"Camilo Ponce Enríquez"	184	2020-11-20
+"Azuay"	"Chordeleg"	92	2020-11-20
+"Azuay"	"Cuenca"	8960	2020-11-20
+"Azuay"	"El Pan"	87	2020-11-20
+"Azuay"	"Girón"	92	2020-11-20
+"Azuay"	"Guachapala"	97	2020-11-20
+"Azuay"	"Gualaceo"	554	2020-11-20
+"Azuay"	"Nabón"	50	2020-11-20
+"Azuay"	"Oña"	15	2020-11-20
+"Azuay"	"Paute"	609	2020-11-20
+"Azuay"	"Pucará"	18	2020-11-20
+"Azuay"	"San Fernando"	12	2020-11-20
+"Azuay"	"Santa Isabel"	269	2020-11-20
+"Azuay"	"Sevilla de Oro"	131	2020-11-20
+"Azuay"	"Sígsig"	156	2020-11-20
+"Azuay"	"Camilo Ponce Enríquez"	184	2020-11-21
+"Azuay"	"Chordeleg"	92	2020-11-21
+"Azuay"	"Cuenca"	8980	2020-11-21
+"Azuay"	"El Pan"	87	2020-11-21
+"Azuay"	"Girón"	94	2020-11-21
+"Azuay"	"Guachapala"	97	2020-11-21
+"Azuay"	"Gualaceo"	555	2020-11-21
+"Azuay"	"Nabón"	50	2020-11-21
+"Azuay"	"Oña"	15	2020-11-21
+"Azuay"	"Paute"	610	2020-11-21
+"Azuay"	"Pucará"	18	2020-11-21
+"Azuay"	"San Fernando"	14	2020-11-21
+"Azuay"	"Santa Isabel"	270	2020-11-21
+"Azuay"	"Sevilla de Oro"	131	2020-11-21
+"Azuay"	"Sígsig"	156	2020-11-21
+"Azuay"	"Camilo Ponce Enríquez"	185	2020-11-22
+"Azuay"	"Chordeleg"	92	2020-11-22
+"Azuay"	"Cuenca"	9003	2020-11-22
+"Azuay"	"El Pan"	87	2020-11-22
+"Azuay"	"Girón"	95	2020-11-22
+"Azuay"	"Guachapala"	97	2020-11-22
+"Azuay"	"Gualaceo"	557	2020-11-22
+"Azuay"	"Nabón"	50	2020-11-22
+"Azuay"	"Oña"	15	2020-11-22
+"Azuay"	"Paute"	612	2020-11-22
+"Azuay"	"Pucará"	18	2020-11-22
+"Azuay"	"San Fernando"	14	2020-11-22
+"Azuay"	"Santa Isabel"	270	2020-11-22
+"Azuay"	"Sevilla de Oro"	132	2020-11-22
+"Azuay"	"Sígsig"	156	2020-11-22
+"Azuay"	"Camilo Ponce Enríquez"	185	2020-11-23
+"Azuay"	"Chordeleg"	92	2020-11-23
+"Azuay"	"Cuenca"	9004	2020-11-23
+"Azuay"	"El Pan"	87	2020-11-23
+"Azuay"	"Girón"	95	2020-11-23
+"Azuay"	"Guachapala"	97	2020-11-23
+"Azuay"	"Gualaceo"	558	2020-11-23
+"Azuay"	"Nabón"	50	2020-11-23
+"Azuay"	"Oña"	15	2020-11-23
+"Azuay"	"Paute"	613	2020-11-23
+"Azuay"	"Pucará"	18	2020-11-23
+"Azuay"	"San Fernando"	14	2020-11-23
+"Azuay"	"Santa Isabel"	271	2020-11-23
+"Azuay"	"Sevilla de Oro"	134	2020-11-23
+"Azuay"	"Sígsig"	157	2020-11-23
+"Azuay"	"Camilo Ponce Enríquez"	186	2020-11-24
+"Azuay"	"Chordeleg"	94	2020-11-24
+"Azuay"	"Cuenca"	9084	2020-11-24
+"Azuay"	"El Pan"	87	2020-11-24
+"Azuay"	"Girón"	95	2020-11-24
+"Azuay"	"Guachapala"	97	2020-11-24
+"Azuay"	"Gualaceo"	561	2020-11-24
+"Azuay"	"Nabón"	51	2020-11-24
+"Azuay"	"Oña"	15	2020-11-24
+"Azuay"	"Paute"	613	2020-11-24
+"Azuay"	"Pucará"	18	2020-11-24
+"Azuay"	"San Fernando"	14	2020-11-24
+"Azuay"	"Santa Isabel"	272	2020-11-24
+"Azuay"	"Sevilla de Oro"	134	2020-11-24
+"Azuay"	"Sígsig"	157	2020-11-24
+"Azuay"	"Camilo Ponce Enríquez"	186	2020-11-25
+"Azuay"	"Chordeleg"	94	2020-11-25
+"Azuay"	"Cuenca"	9183	2020-11-25
+"Azuay"	"El Pan"	87	2020-11-25
+"Azuay"	"Girón"	95	2020-11-25
+"Azuay"	"Guachapala"	97	2020-11-25
+"Azuay"	"Gualaceo"	561	2020-11-25
+"Azuay"	"Nabón"	52	2020-11-25
+"Azuay"	"Oña"	15	2020-11-25
+"Azuay"	"Paute"	614	2020-11-25
+"Azuay"	"Pucará"	18	2020-11-25
+"Azuay"	"San Fernando"	14	2020-11-25
+"Azuay"	"Santa Isabel"	272	2020-11-25
+"Azuay"	"Sevilla de Oro"	135	2020-11-25
+"Azuay"	"Sígsig"	157	2020-11-25
+"Azuay"	"Camilo Ponce Enríquez"	187	2020-11-26
+"Azuay"	"Chordeleg"	95	2020-11-26
+"Azuay"	"Cuenca"	9205	2020-11-26
+"Azuay"	"El Pan"	87	2020-11-26
+"Azuay"	"Girón"	95	2020-11-26
+"Azuay"	"Guachapala"	97	2020-11-26
+"Azuay"	"Gualaceo"	562	2020-11-26
+"Azuay"	"Nabón"	52	2020-11-26
+"Azuay"	"Oña"	15	2020-11-26
+"Azuay"	"Paute"	618	2020-11-26
+"Azuay"	"Pucará"	19	2020-11-26
+"Azuay"	"San Fernando"	14	2020-11-26
+"Azuay"	"Santa Isabel"	278	2020-11-26
+"Azuay"	"Sevilla de Oro"	135	2020-11-26
+"Azuay"	"Sígsig"	157	2020-11-26
+"Azuay"	"Camilo Ponce Enríquez"	187	2020-11-27
+"Azuay"	"Chordeleg"	95	2020-11-27
+"Azuay"	"Cuenca"	9277	2020-11-27
+"Azuay"	"El Pan"	87	2020-11-27
+"Azuay"	"Girón"	102	2020-11-27
+"Azuay"	"Guachapala"	97	2020-11-27
+"Azuay"	"Gualaceo"	566	2020-11-27
+"Azuay"	"Nabón"	52	2020-11-27
+"Azuay"	"Oña"	15	2020-11-27
+"Azuay"	"Paute"	622	2020-11-27
+"Azuay"	"Pucará"	19	2020-11-27
+"Azuay"	"San Fernando"	18	2020-11-27
+"Azuay"	"Santa Isabel"	280	2020-11-27
+"Azuay"	"Sevilla de Oro"	140	2020-11-27
+"Azuay"	"Sígsig"	157	2020-11-27
+"Azuay"	"Camilo Ponce Enríquez"	187	2020-11-28
+"Azuay"	"Chordeleg"	95	2020-11-28
+"Azuay"	"Cuenca"	9331	2020-11-28
+"Azuay"	"El Pan"	87	2020-11-28
+"Azuay"	"Girón"	102	2020-11-28
+"Azuay"	"Guachapala"	98	2020-11-28
+"Azuay"	"Gualaceo"	569	2020-11-28
+"Azuay"	"Nabón"	52	2020-11-28
+"Azuay"	"Oña"	15	2020-11-28
+"Azuay"	"Paute"	627	2020-11-28
+"Azuay"	"Pucará"	19	2020-11-28
+"Azuay"	"San Fernando"	18	2020-11-28
+"Azuay"	"Santa Isabel"	284	2020-11-28
+"Azuay"	"Sevilla de Oro"	140	2020-11-28
+"Azuay"	"Sígsig"	158	2020-11-28
+"Azuay"	"Camilo Ponce Enríquez"	187	2020-11-29
+"Azuay"	"Chordeleg"	95	2020-11-29
+"Azuay"	"Cuenca"	9383	2020-11-29
+"Azuay"	"El Pan"	87	2020-11-29
+"Azuay"	"Girón"	104	2020-11-29
+"Azuay"	"Guachapala"	98	2020-11-29
+"Azuay"	"Gualaceo"	569	2020-11-29
+"Azuay"	"Nabón"	52	2020-11-29
+"Azuay"	"Oña"	15	2020-11-29
+"Azuay"	"Paute"	630	2020-11-29
+"Azuay"	"Pucará"	19	2020-11-29
+"Azuay"	"San Fernando"	18	2020-11-29
+"Azuay"	"Santa Isabel"	287	2020-11-29
+"Azuay"	"Sevilla de Oro"	140	2020-11-29
+"Azuay"	"Sígsig"	159	2020-11-29
+"Azuay"	"Camilo Ponce Enríquez"	187	2020-11-30
+"Azuay"	"Chordeleg"	95	2020-11-30
+"Azuay"	"Cuenca"	9427	2020-11-30
+"Azuay"	"El Pan"	87	2020-11-30
+"Azuay"	"Girón"	105	2020-11-30
+"Azuay"	"Guachapala"	98	2020-11-30
+"Azuay"	"Gualaceo"	570	2020-11-30
+"Azuay"	"Nabón"	52	2020-11-30
+"Azuay"	"Oña"	15	2020-11-30
+"Azuay"	"Paute"	630	2020-11-30
+"Azuay"	"Pucará"	19	2020-11-30
+"Azuay"	"San Fernando"	18	2020-11-30
+"Azuay"	"Santa Isabel"	287	2020-11-30
+"Azuay"	"Sevilla de Oro"	140	2020-11-30
+"Azuay"	"Sígsig"	159	2020-11-30
+"Azuay"	"Camilo Ponce Enríquez"	187	2020-12-01
+"Azuay"	"Chordeleg"	95	2020-12-01
+"Azuay"	"Cuenca"	9466	2020-12-01
+"Azuay"	"El Pan"	87	2020-12-01
+"Azuay"	"Girón"	105	2020-12-01
+"Azuay"	"Guachapala"	98	2020-12-01
+"Azuay"	"Gualaceo"	570	2020-12-01
+"Azuay"	"Nabón"	52	2020-12-01
+"Azuay"	"Oña"	15	2020-12-01
+"Azuay"	"Paute"	631	2020-12-01
+"Azuay"	"Pucará"	19	2020-12-01
+"Azuay"	"San Fernando"	18	2020-12-01
+"Azuay"	"Santa Isabel"	287	2020-12-01
+"Azuay"	"Sevilla de Oro"	140	2020-12-01
+"Azuay"	"Sígsig"	159	2020-12-01
+"Azuay"	"Camilo Ponce Enríquez"	187	2020-12-02
+"Azuay"	"Chordeleg"	95	2020-12-02
+"Azuay"	"Cuenca"	9541	2020-12-02
+"Azuay"	"El Pan"	87	2020-12-02
+"Azuay"	"Girón"	109	2020-12-02
+"Azuay"	"Guachapala"	98	2020-12-02
+"Azuay"	"Gualaceo"	572	2020-12-02
+"Azuay"	"Nabón"	52	2020-12-02
+"Azuay"	"Oña"	15	2020-12-02
+"Azuay"	"Paute"	631	2020-12-02
+"Azuay"	"Pucará"	19	2020-12-02
+"Azuay"	"San Fernando"	18	2020-12-02
+"Azuay"	"Santa Isabel"	289	2020-12-02
+"Azuay"	"Sevilla de Oro"	141	2020-12-02
+"Azuay"	"Sígsig"	160	2020-12-02
+"Azuay"	"Camilo Ponce Enríquez"	187	2020-12-03
+"Azuay"	"Chordeleg"	98	2020-12-03
+"Azuay"	"Cuenca"	9591	2020-12-03
+"Azuay"	"El Pan"	87	2020-12-03
+"Azuay"	"Girón"	112	2020-12-03
+"Azuay"	"Guachapala"	99	2020-12-03
+"Azuay"	"Gualaceo"	574	2020-12-03
+"Azuay"	"Nabón"	52	2020-12-03
+"Azuay"	"Oña"	15	2020-12-03
+"Azuay"	"Paute"	634	2020-12-03
+"Azuay"	"Pucará"	19	2020-12-03
+"Azuay"	"San Fernando"	18	2020-12-03
+"Azuay"	"Santa Isabel"	289	2020-12-03
+"Azuay"	"Sevilla de Oro"	141	2020-12-03
+"Azuay"	"Sígsig"	161	2020-12-03
+"Azuay"	"Camilo Ponce Enríquez"	187	2020-12-04
+"Azuay"	"Chordeleg"	98	2020-12-04
+"Azuay"	"Cuenca"	9637	2020-12-04
+"Azuay"	"El Pan"	87	2020-12-04
+"Azuay"	"Girón"	114	2020-12-04
+"Azuay"	"Guachapala"	99	2020-12-04
+"Azuay"	"Gualaceo"	574	2020-12-04
+"Azuay"	"Nabón"	53	2020-12-04
+"Azuay"	"Oña"	15	2020-12-04
+"Azuay"	"Paute"	634	2020-12-04
+"Azuay"	"Pucará"	19	2020-12-04
+"Azuay"	"San Fernando"	19	2020-12-04
+"Azuay"	"Santa Isabel"	289	2020-12-04
+"Azuay"	"Sevilla de Oro"	141	2020-12-04
+"Azuay"	"Sígsig"	162	2020-12-04
+"Azuay"	"Camilo Ponce Enríquez"	187	2020-12-05
+"Azuay"	"Chordeleg"	98	2020-12-05
+"Azuay"	"Cuenca"	9707	2020-12-05
+"Azuay"	"El Pan"	87	2020-12-05
+"Azuay"	"Girón"	114	2020-12-05
+"Azuay"	"Guachapala"	99	2020-12-05
+"Azuay"	"Gualaceo"	578	2020-12-05
+"Azuay"	"Nabón"	53	2020-12-05
+"Azuay"	"Oña"	15	2020-12-05
+"Azuay"	"Paute"	637	2020-12-05
+"Azuay"	"Pucará"	19	2020-12-05
+"Azuay"	"San Fernando"	19	2020-12-05
+"Azuay"	"Santa Isabel"	289	2020-12-05
+"Azuay"	"Sevilla de Oro"	141	2020-12-05
+"Azuay"	"Sígsig"	163	2020-12-05
+"Azuay"	"Camilo Ponce Enríquez"	188	2020-12-06
+"Azuay"	"Chordeleg"	99	2020-12-06
+"Azuay"	"Cuenca"	9758	2020-12-06
+"Azuay"	"El Pan"	87	2020-12-06
+"Azuay"	"Girón"	114	2020-12-06
+"Azuay"	"Guachapala"	99	2020-12-06
+"Azuay"	"Gualaceo"	584	2020-12-06
+"Azuay"	"Nabón"	53	2020-12-06
+"Azuay"	"Oña"	15	2020-12-06
+"Azuay"	"Paute"	639	2020-12-06
+"Azuay"	"Pucará"	19	2020-12-06
+"Azuay"	"San Fernando"	19	2020-12-06
+"Azuay"	"Santa Isabel"	290	2020-12-06
+"Azuay"	"Sevilla de Oro"	143	2020-12-06
+"Azuay"	"Sígsig"	164	2020-12-06
+"Azuay"	"Camilo Ponce Enríquez"	188	2020-12-07
+"Azuay"	"Chordeleg"	99	2020-12-07
+"Azuay"	"Cuenca"	9771	2020-12-07
+"Azuay"	"El Pan"	87	2020-12-07
+"Azuay"	"Girón"	114	2020-12-07
+"Azuay"	"Guachapala"	99	2020-12-07
+"Azuay"	"Gualaceo"	584	2020-12-07
+"Azuay"	"Nabón"	53	2020-12-07
+"Azuay"	"Oña"	15	2020-12-07
+"Azuay"	"Paute"	639	2020-12-07
+"Azuay"	"Pucará"	19	2020-12-07
+"Azuay"	"San Fernando"	19	2020-12-07
+"Azuay"	"Santa Isabel"	290	2020-12-07
+"Azuay"	"Sevilla de Oro"	143	2020-12-07
+"Azuay"	"Sígsig"	164	2020-12-07
+"Azuay"	"Camilo Ponce Enríquez"	188	2020-12-08
+"Azuay"	"Chordeleg"	99	2020-12-08
+"Azuay"	"Cuenca"	9824	2020-12-08
+"Azuay"	"El Pan"	87	2020-12-08
+"Azuay"	"Girón"	115	2020-12-08
+"Azuay"	"Guachapala"	99	2020-12-08
+"Azuay"	"Gualaceo"	584	2020-12-08
+"Azuay"	"Nabón"	53	2020-12-08
+"Azuay"	"Oña"	15	2020-12-08
+"Azuay"	"Paute"	640	2020-12-08
+"Azuay"	"Pucará"	19	2020-12-08
+"Azuay"	"San Fernando"	19	2020-12-08
+"Azuay"	"Santa Isabel"	290	2020-12-08
+"Azuay"	"Sevilla de Oro"	143	2020-12-08
+"Azuay"	"Sígsig"	165	2020-12-08
+"Azuay"	"Camilo Ponce Enríquez"	188	2020-12-09
+"Azuay"	"Chordeleg"	100	2020-12-09
+"Azuay"	"Cuenca"	9913	2020-12-09
+"Azuay"	"El Pan"	87	2020-12-09
+"Azuay"	"Girón"	117	2020-12-09
+"Azuay"	"Guachapala"	99	2020-12-09
+"Azuay"	"Gualaceo"	586	2020-12-09
+"Azuay"	"Nabón"	53	2020-12-09
+"Azuay"	"Oña"	15	2020-12-09
+"Azuay"	"Paute"	642	2020-12-09
+"Azuay"	"Pucará"	20	2020-12-09
+"Azuay"	"San Fernando"	20	2020-12-09
+"Azuay"	"Santa Isabel"	290	2020-12-09
+"Azuay"	"Sevilla de Oro"	144	2020-12-09
+"Azuay"	"Sígsig"	166	2020-12-09
+"Azuay"	"Camilo Ponce Enríquez"	189	2020-12-10
+"Azuay"	"Chordeleg"	100	2020-12-10
+"Azuay"	"Cuenca"	9979	2020-12-10
+"Azuay"	"El Pan"	87	2020-12-10
+"Azuay"	"Girón"	122	2020-12-10
+"Azuay"	"Guachapala"	99	2020-12-10
+"Azuay"	"Gualaceo"	588	2020-12-10
+"Azuay"	"Nabón"	57	2020-12-10
+"Azuay"	"Oña"	15	2020-12-10
+"Azuay"	"Paute"	647	2020-12-10
+"Azuay"	"Pucará"	20	2020-12-10
+"Azuay"	"San Fernando"	20	2020-12-10
+"Azuay"	"Santa Isabel"	292	2020-12-10
+"Azuay"	"Sevilla de Oro"	144	2020-12-10
+"Azuay"	"Sígsig"	166	2020-12-10
+"Azuay"	"Camilo Ponce Enríquez"	189	2020-12-11
+"Azuay"	"Chordeleg"	100	2020-12-11
+"Azuay"	"Cuenca"	9994	2020-12-11
+"Azuay"	"El Pan"	87	2020-12-11
+"Azuay"	"Girón"	122	2020-12-11
+"Azuay"	"Guachapala"	99	2020-12-11
+"Azuay"	"Gualaceo"	588	2020-12-11
+"Azuay"	"Nabón"	57	2020-12-11
+"Azuay"	"Oña"	15	2020-12-11
+"Azuay"	"Paute"	647	2020-12-11
+"Azuay"	"Pucará"	20	2020-12-11
+"Azuay"	"San Fernando"	20	2020-12-11
+"Azuay"	"Santa Isabel"	292	2020-12-11
+"Azuay"	"Sevilla de Oro"	144	2020-12-11
+"Azuay"	"Sígsig"	167	2020-12-11
+"Azuay"	"Camilo Ponce Enríquez"	189	2020-12-12
+"Azuay"	"Chordeleg"	101	2020-12-12
+"Azuay"	"Cuenca"	10029	2020-12-12
+"Azuay"	"El Pan"	87	2020-12-12
+"Azuay"	"Girón"	124	2020-12-12
+"Azuay"	"Guachapala"	99	2020-12-12
+"Azuay"	"Gualaceo"	589	2020-12-12
+"Azuay"	"Nabón"	57	2020-12-12
+"Azuay"	"Oña"	15	2020-12-12
+"Azuay"	"Paute"	647	2020-12-12
+"Azuay"	"Pucará"	20	2020-12-12
+"Azuay"	"San Fernando"	20	2020-12-12
+"Azuay"	"Santa Isabel"	292	2020-12-12
+"Azuay"	"Sevilla de Oro"	148	2020-12-12
+"Azuay"	"Sígsig"	167	2020-12-12
+"Azuay"	"Camilo Ponce Enríquez"	191	2020-12-13
+"Azuay"	"Chordeleg"	101	2020-12-13
+"Azuay"	"Cuenca"	10088	2020-12-13
+"Azuay"	"El Pan"	88	2020-12-13
+"Azuay"	"Girón"	125	2020-12-13
+"Azuay"	"Guachapala"	99	2020-12-13
+"Azuay"	"Gualaceo"	591	2020-12-13
+"Azuay"	"Nabón"	59	2020-12-13
+"Azuay"	"Oña"	15	2020-12-13
+"Azuay"	"Paute"	651	2020-12-13
+"Azuay"	"Pucará"	20	2020-12-13
+"Azuay"	"San Fernando"	20	2020-12-13
+"Azuay"	"Santa Isabel"	292	2020-12-13
+"Azuay"	"Sevilla de Oro"	148	2020-12-13
+"Azuay"	"Sígsig"	167	2020-12-13
+"Azuay"	"Camilo Ponce Enríquez"	191	2020-12-14
+"Azuay"	"Chordeleg"	101	2020-12-14
+"Azuay"	"Cuenca"	10102	2020-12-14
+"Azuay"	"El Pan"	89	2020-12-14
+"Azuay"	"Girón"	125	2020-12-14
+"Azuay"	"Guachapala"	99	2020-12-14
+"Azuay"	"Gualaceo"	591	2020-12-14
+"Azuay"	"Nabón"	59	2020-12-14
+"Azuay"	"Oña"	15	2020-12-14
+"Azuay"	"Paute"	651	2020-12-14
+"Azuay"	"Pucará"	20	2020-12-14
+"Azuay"	"San Fernando"	20	2020-12-14
+"Azuay"	"Santa Isabel"	292	2020-12-14
+"Azuay"	"Sevilla de Oro"	148	2020-12-14
+"Azuay"	"Sígsig"	167	2020-12-14
+"Azuay"	"Camilo Ponce Enríquez"	192	2020-12-15
+"Azuay"	"Chordeleg"	101	2020-12-15
+"Azuay"	"Cuenca"	10132	2020-12-15
+"Azuay"	"El Pan"	89	2020-12-15
+"Azuay"	"Girón"	125	2020-12-15
+"Azuay"	"Guachapala"	99	2020-12-15
+"Azuay"	"Gualaceo"	591	2020-12-15
+"Azuay"	"Nabón"	59	2020-12-15
+"Azuay"	"Oña"	15	2020-12-15
+"Azuay"	"Paute"	652	2020-12-15
+"Azuay"	"Pucará"	20	2020-12-15
+"Azuay"	"San Fernando"	20	2020-12-15
+"Azuay"	"Santa Isabel"	293	2020-12-15
+"Azuay"	"Sevilla de Oro"	148	2020-12-15
+"Azuay"	"Sígsig"	167	2020-12-15
+"Azuay"	"Camilo Ponce Enríquez"	192	2020-12-16
+"Azuay"	"Chordeleg"	101	2020-12-16
+"Azuay"	"Cuenca"	10258	2020-12-16
+"Azuay"	"El Pan"	89	2020-12-16
+"Azuay"	"Girón"	125	2020-12-16
+"Azuay"	"Guachapala"	99	2020-12-16
+"Azuay"	"Gualaceo"	595	2020-12-16
+"Azuay"	"Nabón"	59	2020-12-16
+"Azuay"	"Oña"	15	2020-12-16
+"Azuay"	"Paute"	652	2020-12-16
+"Azuay"	"Pucará"	20	2020-12-16
+"Azuay"	"San Fernando"	20	2020-12-16
+"Azuay"	"Santa Isabel"	294	2020-12-16
+"Azuay"	"Sevilla de Oro"	148	2020-12-16
+"Azuay"	"Sígsig"	168	2020-12-16
+"Azuay"	"Camilo Ponce Enríquez"	192	2020-12-17
+"Azuay"	"Chordeleg"	101	2020-12-17
+"Azuay"	"Cuenca"	10311	2020-12-17
+"Azuay"	"El Pan"	89	2020-12-17
+"Azuay"	"Girón"	125	2020-12-17
+"Azuay"	"Guachapala"	99	2020-12-17
+"Azuay"	"Gualaceo"	595	2020-12-17
+"Azuay"	"Nabón"	59	2020-12-17
+"Azuay"	"Oña"	15	2020-12-17
+"Azuay"	"Paute"	654	2020-12-17
+"Azuay"	"Pucará"	20	2020-12-17
+"Azuay"	"San Fernando"	20	2020-12-17
+"Azuay"	"Santa Isabel"	294	2020-12-17
+"Azuay"	"Sevilla de Oro"	148	2020-12-17
+"Azuay"	"Sígsig"	168	2020-12-17
+"Azuay"	"Camilo Ponce Enríquez"	192	2020-12-18
+"Azuay"	"Chordeleg"	101	2020-12-18
+"Azuay"	"Cuenca"	10389	2020-12-18
+"Azuay"	"El Pan"	89	2020-12-18
+"Azuay"	"Girón"	127	2020-12-18
+"Azuay"	"Guachapala"	99	2020-12-18
+"Azuay"	"Gualaceo"	602	2020-12-18
+"Azuay"	"Nabón"	61	2020-12-18
+"Azuay"	"Oña"	15	2020-12-18
+"Azuay"	"Paute"	659	2020-12-18
+"Azuay"	"Pucará"	20	2020-12-18
+"Azuay"	"San Fernando"	20	2020-12-18
+"Azuay"	"Santa Isabel"	298	2020-12-18
+"Azuay"	"Sevilla de Oro"	149	2020-12-18
+"Azuay"	"Sígsig"	170	2020-12-18
+"Azuay"	"Camilo Ponce Enríquez"	192	2020-12-19
+"Azuay"	"Chordeleg"	101	2020-12-19
+"Azuay"	"Cuenca"	10455	2020-12-19
+"Azuay"	"El Pan"	89	2020-12-19
+"Azuay"	"Girón"	127	2020-12-19
+"Azuay"	"Guachapala"	99	2020-12-19
+"Azuay"	"Gualaceo"	603	2020-12-19
+"Azuay"	"Nabón"	62	2020-12-19
+"Azuay"	"Oña"	15	2020-12-19
+"Azuay"	"Paute"	660	2020-12-19
+"Azuay"	"Pucará"	20	2020-12-19
+"Azuay"	"San Fernando"	20	2020-12-19
+"Azuay"	"Santa Isabel"	298	2020-12-19
+"Azuay"	"Sevilla de Oro"	149	2020-12-19
+"Azuay"	"Sígsig"	172	2020-12-19
+"Azuay"	"Camilo Ponce Enríquez"	192	2020-12-20
+"Azuay"	"Chordeleg"	102	2020-12-20
+"Azuay"	"Cuenca"	10484	2020-12-20
+"Azuay"	"El Pan"	89	2020-12-20
+"Azuay"	"Girón"	128	2020-12-20
+"Azuay"	"Guachapala"	99	2020-12-20
+"Azuay"	"Gualaceo"	606	2020-12-20
+"Azuay"	"Nabón"	64	2020-12-20
+"Azuay"	"Oña"	15	2020-12-20
+"Azuay"	"Paute"	666	2020-12-20
+"Azuay"	"Pucará"	20	2020-12-20
+"Azuay"	"San Fernando"	20	2020-12-20
+"Azuay"	"Santa Isabel"	298	2020-12-20
+"Azuay"	"Sevilla de Oro"	150	2020-12-20
+"Azuay"	"Sígsig"	173	2020-12-20
+"Azuay"	"Camilo Ponce Enríquez"	192	2020-12-21
+"Azuay"	"Chordeleg"	102	2020-12-21
+"Azuay"	"Cuenca"	10491	2020-12-21
+"Azuay"	"El Pan"	89	2020-12-21
+"Azuay"	"Girón"	128	2020-12-21
+"Azuay"	"Guachapala"	99	2020-12-21
+"Azuay"	"Gualaceo"	606	2020-12-21
+"Azuay"	"Nabón"	64	2020-12-21
+"Azuay"	"Oña"	15	2020-12-21
+"Azuay"	"Paute"	666	2020-12-21
+"Azuay"	"Pucará"	20	2020-12-21
+"Azuay"	"San Fernando"	20	2020-12-21
+"Azuay"	"Santa Isabel"	298	2020-12-21
+"Azuay"	"Sevilla de Oro"	150	2020-12-21
+"Azuay"	"Sígsig"	173	2020-12-21
+"Azuay"	"Camilo Ponce Enríquez"	192	2020-12-22
+"Azuay"	"Chordeleg"	102	2020-12-22
+"Azuay"	"Cuenca"	10491	2020-12-22
+"Azuay"	"El Pan"	89	2020-12-22
+"Azuay"	"Girón"	128	2020-12-22
+"Azuay"	"Guachapala"	99	2020-12-22
+"Azuay"	"Gualaceo"	606	2020-12-22
+"Azuay"	"Nabón"	64	2020-12-22
+"Azuay"	"Oña"	15	2020-12-22
+"Azuay"	"Paute"	666	2020-12-22
+"Azuay"	"Pucará"	20	2020-12-22
+"Azuay"	"San Fernando"	20	2020-12-22
+"Azuay"	"Santa Isabel"	298	2020-12-22
+"Azuay"	"Sevilla de Oro"	150	2020-12-22
+"Azuay"	"Sígsig"	173	2020-12-22
+"Azuay"	"Camilo Ponce Enríquez"	192	2020-12-23
+"Azuay"	"Chordeleg"	102	2020-12-23
+"Azuay"	"Cuenca"	10586	2020-12-23
+"Azuay"	"El Pan"	89	2020-12-23
+"Azuay"	"Girón"	128	2020-12-23
+"Azuay"	"Guachapala"	99	2020-12-23
+"Azuay"	"Gualaceo"	606	2020-12-23
+"Azuay"	"Nabón"	64	2020-12-23
+"Azuay"	"Oña"	16	2020-12-23
+"Azuay"	"Paute"	667	2020-12-23
+"Azuay"	"Pucará"	20	2020-12-23
+"Azuay"	"San Fernando"	20	2020-12-23
+"Azuay"	"Santa Isabel"	299	2020-12-23
+"Azuay"	"Sevilla de Oro"	150	2020-12-23
+"Azuay"	"Sígsig"	174	2020-12-23
+"Azuay"	"Camilo Ponce Enríquez"	193	2020-12-24
+"Azuay"	"Chordeleg"	102	2020-12-24
+"Azuay"	"Cuenca"	10659	2020-12-24
+"Azuay"	"El Pan"	89	2020-12-24
+"Azuay"	"Girón"	128	2020-12-24
+"Azuay"	"Guachapala"	100	2020-12-24
+"Azuay"	"Gualaceo"	606	2020-12-24
+"Azuay"	"Nabón"	64	2020-12-24
+"Azuay"	"Oña"	16	2020-12-24
+"Azuay"	"Paute"	667	2020-12-24
+"Azuay"	"Pucará"	20	2020-12-24
+"Azuay"	"San Fernando"	20	2020-12-24
+"Azuay"	"Santa Isabel"	299	2020-12-24
+"Azuay"	"Sevilla de Oro"	150	2020-12-24
+"Azuay"	"Sígsig"	174	2020-12-24
+"Azuay"	"Camilo Ponce Enríquez"	193	2020-12-25
+"Azuay"	"Chordeleg"	102	2020-12-25
+"Azuay"	"Cuenca"	10694	2020-12-25
+"Azuay"	"El Pan"	89	2020-12-25
+"Azuay"	"Girón"	129	2020-12-25
+"Azuay"	"Guachapala"	100	2020-12-25
+"Azuay"	"Gualaceo"	606	2020-12-25
+"Azuay"	"Nabón"	64	2020-12-25
+"Azuay"	"Oña"	16	2020-12-25
+"Azuay"	"Paute"	669	2020-12-25
+"Azuay"	"Pucará"	20	2020-12-25
+"Azuay"	"San Fernando"	20	2020-12-25
+"Azuay"	"Santa Isabel"	299	2020-12-25
+"Azuay"	"Sevilla de Oro"	150	2020-12-25
+"Azuay"	"Sígsig"	176	2020-12-25
+"Azuay"	"Camilo Ponce Enríquez"	193	2020-12-26
+"Azuay"	"Chordeleg"	103	2020-12-26
+"Azuay"	"Cuenca"	10731	2020-12-26
+"Azuay"	"El Pan"	89	2020-12-26
+"Azuay"	"Girón"	130	2020-12-26
+"Azuay"	"Guachapala"	100	2020-12-26
+"Azuay"	"Gualaceo"	610	2020-12-26
+"Azuay"	"Nabón"	64	2020-12-26
+"Azuay"	"Oña"	16	2020-12-26
+"Azuay"	"Paute"	677	2020-12-26
+"Azuay"	"Pucará"	20	2020-12-26
+"Azuay"	"San Fernando"	20	2020-12-26
+"Azuay"	"Santa Isabel"	299	2020-12-26
+"Azuay"	"Sevilla de Oro"	150	2020-12-26
+"Azuay"	"Sígsig"	177	2020-12-26
+"Azuay"	"Camilo Ponce Enríquez"	193	2020-12-27
+"Azuay"	"Chordeleg"	103	2020-12-27
+"Azuay"	"Cuenca"	10743	2020-12-27
+"Azuay"	"El Pan"	89	2020-12-27
+"Azuay"	"Girón"	130	2020-12-27
+"Azuay"	"Guachapala"	100	2020-12-27
+"Azuay"	"Gualaceo"	610	2020-12-27
+"Azuay"	"Nabón"	64	2020-12-27
+"Azuay"	"Oña"	16	2020-12-27
+"Azuay"	"Paute"	677	2020-12-27
+"Azuay"	"Pucará"	20	2020-12-27
+"Azuay"	"San Fernando"	20	2020-12-27
+"Azuay"	"Santa Isabel"	299	2020-12-27
+"Azuay"	"Sevilla de Oro"	150	2020-12-27
+"Azuay"	"Sígsig"	177	2020-12-27
+"Azuay"	"Camilo Ponce Enríquez"	193	2020-12-28
+"Azuay"	"Chordeleg"	103	2020-12-28
+"Azuay"	"Cuenca"	10753	2020-12-28
+"Azuay"	"El Pan"	89	2020-12-28
+"Azuay"	"Girón"	130	2020-12-28
+"Azuay"	"Guachapala"	100	2020-12-28
+"Azuay"	"Gualaceo"	610	2020-12-28
+"Azuay"	"Nabón"	64	2020-12-28
+"Azuay"	"Oña"	16	2020-12-28
+"Azuay"	"Paute"	677	2020-12-28
+"Azuay"	"Pucará"	20	2020-12-28
+"Azuay"	"San Fernando"	20	2020-12-28
+"Azuay"	"Santa Isabel"	299	2020-12-28
+"Azuay"	"Sevilla de Oro"	150	2020-12-28
+"Azuay"	"Sígsig"	177	2020-12-28
+"Azuay"	"Camilo Ponce Enríquez"	193	2020-12-29
+"Azuay"	"Chordeleg"	103	2020-12-29
+"Azuay"	"Cuenca"	10819	2020-12-29
+"Azuay"	"El Pan"	89	2020-12-29
+"Azuay"	"Girón"	130	2020-12-29
+"Azuay"	"Guachapala"	102	2020-12-29
+"Azuay"	"Gualaceo"	611	2020-12-29
+"Azuay"	"Nabón"	66	2020-12-29
+"Azuay"	"Oña"	16	2020-12-29
+"Azuay"	"Paute"	679	2020-12-29
+"Azuay"	"Pucará"	20	2020-12-29
+"Azuay"	"San Fernando"	20	2020-12-29
+"Azuay"	"Santa Isabel"	299	2020-12-29
+"Azuay"	"Sevilla de Oro"	150	2020-12-29
+"Azuay"	"Sígsig"	177	2020-12-29
+"Azuay"	"Camilo Ponce Enríquez"	193	2020-12-30
+"Azuay"	"Chordeleg"	104	2020-12-30
+"Azuay"	"Cuenca"	10860	2020-12-30
+"Azuay"	"El Pan"	89	2020-12-30
+"Azuay"	"Girón"	130	2020-12-30
+"Azuay"	"Guachapala"	104	2020-12-30
+"Azuay"	"Gualaceo"	613	2020-12-30
+"Azuay"	"Nabón"	66	2020-12-30
+"Azuay"	"Oña"	16	2020-12-30
+"Azuay"	"Paute"	680	2020-12-30
+"Azuay"	"Pucará"	20	2020-12-30
+"Azuay"	"San Fernando"	20	2020-12-30
+"Azuay"	"Santa Isabel"	300	2020-12-30
+"Azuay"	"Sevilla de Oro"	150	2020-12-30
+"Azuay"	"Sígsig"	177	2020-12-30
+"Azuay"	"Camilo Ponce Enríquez"	193	2020-12-31
+"Azuay"	"Chordeleg"	104	2020-12-31
+"Azuay"	"Cuenca"	10893	2020-12-31
+"Azuay"	"El Pan"	89	2020-12-31
+"Azuay"	"Girón"	130	2020-12-31
+"Azuay"	"Guachapala"	105	2020-12-31
+"Azuay"	"Gualaceo"	614	2020-12-31
+"Azuay"	"Nabón"	66	2020-12-31
+"Azuay"	"Oña"	16	2020-12-31
+"Azuay"	"Paute"	680	2020-12-31
+"Azuay"	"Pucará"	20	2020-12-31
+"Azuay"	"San Fernando"	20	2020-12-31
+"Azuay"	"Santa Isabel"	300	2020-12-31
+"Azuay"	"Sevilla de Oro"	150	2020-12-31
+"Azuay"	"Sígsig"	177	2020-12-31
 "Azuay"	"Camilo Ponce Enríquez"	193	2021-01-01
 "Azuay"	"Chordeleg"	105	2021-01-01
 "Azuay"	"Cuenca"	10936	2021-01-01
@@ -7109,3 +11519,123 @@
 "Azuay"	"Santa Isabel"	1214	2022-04-19
 "Azuay"	"Sevilla de Oro"	597	2022-04-19
 "Azuay"	"Sígsig"	923	2022-04-19
+"Azuay"	"Camilo Ponce Enríquez"	793	2022-04-20
+"Azuay"	"Chordeleg"	333	2022-04-20
+"Azuay"	"Cuenca"	33287	2022-04-20
+"Azuay"	"El Pan"	232	2022-04-20
+"Azuay"	"Girón"	482	2022-04-20
+"Azuay"	"Guachapala"	363	2022-04-20
+"Azuay"	"Gualaceo"	1706	2022-04-20
+"Azuay"	"Nabón"	328	2022-04-20
+"Azuay"	"Oña"	104	2022-04-20
+"Azuay"	"Paute"	1756	2022-04-20
+"Azuay"	"Pucará"	207	2022-04-20
+"Azuay"	"San Fernando"	179	2022-04-20
+"Azuay"	"Santa Isabel"	1214	2022-04-20
+"Azuay"	"Sevilla de Oro"	597	2022-04-20
+"Azuay"	"Sígsig"	924	2022-04-20
+"Azuay"	"Camilo Ponce Enríquez"	793	2022-04-21
+"Azuay"	"Chordeleg"	333	2022-04-21
+"Azuay"	"Cuenca"	33334	2022-04-21
+"Azuay"	"El Pan"	232	2022-04-21
+"Azuay"	"Girón"	482	2022-04-21
+"Azuay"	"Guachapala"	363	2022-04-21
+"Azuay"	"Gualaceo"	1706	2022-04-21
+"Azuay"	"Nabón"	328	2022-04-21
+"Azuay"	"Oña"	104	2022-04-21
+"Azuay"	"Paute"	1758	2022-04-21
+"Azuay"	"Pucará"	207	2022-04-21
+"Azuay"	"San Fernando"	179	2022-04-21
+"Azuay"	"Santa Isabel"	1214	2022-04-21
+"Azuay"	"Sevilla de Oro"	597	2022-04-21
+"Azuay"	"Sígsig"	924	2022-04-21
+"Azuay"	"Camilo Ponce Enríquez"	793	2022-04-22
+"Azuay"	"Chordeleg"	333	2022-04-22
+"Azuay"	"Cuenca"	33371	2022-04-22
+"Azuay"	"El Pan"	232	2022-04-22
+"Azuay"	"Girón"	482	2022-04-22
+"Azuay"	"Guachapala"	363	2022-04-22
+"Azuay"	"Gualaceo"	1707	2022-04-22
+"Azuay"	"Nabón"	328	2022-04-22
+"Azuay"	"Oña"	104	2022-04-22
+"Azuay"	"Paute"	1758	2022-04-22
+"Azuay"	"Pucará"	207	2022-04-22
+"Azuay"	"San Fernando"	179	2022-04-22
+"Azuay"	"Santa Isabel"	1214	2022-04-22
+"Azuay"	"Sevilla de Oro"	597	2022-04-22
+"Azuay"	"Sígsig"	924	2022-04-22
+"Azuay"	"Camilo Ponce Enríquez"	793	2022-04-23
+"Azuay"	"Chordeleg"	333	2022-04-23
+"Azuay"	"Cuenca"	33412	2022-04-23
+"Azuay"	"El Pan"	232	2022-04-23
+"Azuay"	"Girón"	482	2022-04-23
+"Azuay"	"Guachapala"	363	2022-04-23
+"Azuay"	"Gualaceo"	1709	2022-04-23
+"Azuay"	"Nabón"	328	2022-04-23
+"Azuay"	"Oña"	104	2022-04-23
+"Azuay"	"Paute"	1758	2022-04-23
+"Azuay"	"Pucará"	207	2022-04-23
+"Azuay"	"San Fernando"	179	2022-04-23
+"Azuay"	"Santa Isabel"	1215	2022-04-23
+"Azuay"	"Sevilla de Oro"	597	2022-04-23
+"Azuay"	"Sígsig"	924	2022-04-23
+"Azuay"	"Camilo Ponce Enríquez"	793	2022-04-24
+"Azuay"	"Chordeleg"	333	2022-04-24
+"Azuay"	"Cuenca"	33416	2022-04-24
+"Azuay"	"El Pan"	232	2022-04-24
+"Azuay"	"Girón"	482	2022-04-24
+"Azuay"	"Guachapala"	363	2022-04-24
+"Azuay"	"Gualaceo"	1709	2022-04-24
+"Azuay"	"Nabón"	328	2022-04-24
+"Azuay"	"Oña"	104	2022-04-24
+"Azuay"	"Paute"	1758	2022-04-24
+"Azuay"	"Pucará"	207	2022-04-24
+"Azuay"	"San Fernando"	179	2022-04-24
+"Azuay"	"Santa Isabel"	1215	2022-04-24
+"Azuay"	"Sevilla de Oro"	597	2022-04-24
+"Azuay"	"Sígsig"	924	2022-04-24
+"Azuay"	"Camilo Ponce Enríquez"	793	2022-04-25
+"Azuay"	"Chordeleg"	333	2022-04-25
+"Azuay"	"Cuenca"	33423	2022-04-25
+"Azuay"	"El Pan"	232	2022-04-25
+"Azuay"	"Girón"	482	2022-04-25
+"Azuay"	"Guachapala"	363	2022-04-25
+"Azuay"	"Gualaceo"	1709	2022-04-25
+"Azuay"	"Nabón"	328	2022-04-25
+"Azuay"	"Oña"	104	2022-04-25
+"Azuay"	"Paute"	1759	2022-04-25
+"Azuay"	"Pucará"	207	2022-04-25
+"Azuay"	"San Fernando"	179	2022-04-25
+"Azuay"	"Santa Isabel"	1215	2022-04-25
+"Azuay"	"Sevilla de Oro"	597	2022-04-25
+"Azuay"	"Sígsig"	924	2022-04-25
+"Azuay"	"Camilo Ponce Enríquez"	794	2022-04-26
+"Azuay"	"Chordeleg"	333	2022-04-26
+"Azuay"	"Cuenca"	33460	2022-04-26
+"Azuay"	"El Pan"	232	2022-04-26
+"Azuay"	"Girón"	482	2022-04-26
+"Azuay"	"Guachapala"	363	2022-04-26
+"Azuay"	"Gualaceo"	1709	2022-04-26
+"Azuay"	"Nabón"	328	2022-04-26
+"Azuay"	"Oña"	104	2022-04-26
+"Azuay"	"Paute"	1760	2022-04-26
+"Azuay"	"Pucará"	207	2022-04-26
+"Azuay"	"San Fernando"	179	2022-04-26
+"Azuay"	"Santa Isabel"	1217	2022-04-26
+"Azuay"	"Sevilla de Oro"	597	2022-04-26
+"Azuay"	"Sígsig"	924	2022-04-26
+"Azuay"	"Camilo Ponce Enríquez"	794	2022-04-27
+"Azuay"	"Chordeleg"	333	2022-04-27
+"Azuay"	"Cuenca"	33472	2022-04-27
+"Azuay"	"El Pan"	232	2022-04-27
+"Azuay"	"Girón"	482	2022-04-27
+"Azuay"	"Guachapala"	363	2022-04-27
+"Azuay"	"Gualaceo"	1709	2022-04-27
+"Azuay"	"Nabón"	328	2022-04-27
+"Azuay"	"Oña"	104	2022-04-27
+"Azuay"	"Paute"	1761	2022-04-27
+"Azuay"	"Pucará"	207	2022-04-27
+"Azuay"	"San Fernando"	179	2022-04-27
+"Azuay"	"Santa Isabel"	1217	2022-04-27
+"Azuay"	"Sevilla de Oro"	597	2022-04-27
+"Azuay"	"Sígsig"	925	2022-04-27

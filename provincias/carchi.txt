@@ -1,4 +1,1768 @@
 "provincia"	"canton"	"total"	"created_at"
+"Carchi"	"Bolivar"	0	2020-03-13
+"Carchi"	"Espejo"	0	2020-03-13
+"Carchi"	"Mira"	0	2020-03-13
+"Carchi"	"Montúfar"	0	2020-03-13
+"Carchi"	"San Pedro de Huaca"	0	2020-03-13
+"Carchi"	"Tulcán"	0	2020-03-13
+"Carchi"	"Bolivar"	0	2020-03-14
+"Carchi"	"Espejo"	0	2020-03-14
+"Carchi"	"Mira"	0	2020-03-14
+"Carchi"	"Montúfar"	0	2020-03-14
+"Carchi"	"San Pedro de Huaca"	0	2020-03-14
+"Carchi"	"Tulcán"	0	2020-03-14
+"Carchi"	"Bolivar"	0	2020-03-15
+"Carchi"	"Espejo"	0	2020-03-15
+"Carchi"	"Mira"	0	2020-03-15
+"Carchi"	"Montúfar"	0	2020-03-15
+"Carchi"	"San Pedro de Huaca"	0	2020-03-15
+"Carchi"	"Tulcán"	0	2020-03-15
+"Carchi"	"Bolivar"	0	2020-03-16
+"Carchi"	"Espejo"	0	2020-03-16
+"Carchi"	"Mira"	0	2020-03-16
+"Carchi"	"Montúfar"	0	2020-03-16
+"Carchi"	"San Pedro de Huaca"	0	2020-03-16
+"Carchi"	"Tulcán"	0	2020-03-16
+"Carchi"	"Bolivar"	0	2020-03-17
+"Carchi"	"Espejo"	0	2020-03-17
+"Carchi"	"Mira"	0	2020-03-17
+"Carchi"	"Montúfar"	0	2020-03-17
+"Carchi"	"San Pedro de Huaca"	0	2020-03-17
+"Carchi"	"Tulcán"	0	2020-03-17
+"Carchi"	"Bolivar"	0	2020-03-18
+"Carchi"	"Espejo"	0	2020-03-18
+"Carchi"	"Mira"	0	2020-03-18
+"Carchi"	"Montúfar"	0	2020-03-18
+"Carchi"	"San Pedro de Huaca"	0	2020-03-18
+"Carchi"	"Tulcán"	0	2020-03-18
+"Carchi"	"Bolivar"	0	2020-03-19
+"Carchi"	"Espejo"	0	2020-03-19
+"Carchi"	"Mira"	0	2020-03-19
+"Carchi"	"Montúfar"	0	2020-03-19
+"Carchi"	"San Pedro de Huaca"	0	2020-03-19
+"Carchi"	"Tulcán"	0	2020-03-19
+"Carchi"	"Bolivar"	0	2020-03-20
+"Carchi"	"Espejo"	0	2020-03-20
+"Carchi"	"Mira"	0	2020-03-20
+"Carchi"	"Montúfar"	0	2020-03-20
+"Carchi"	"San Pedro de Huaca"	0	2020-03-20
+"Carchi"	"Tulcán"	0	2020-03-20
+"Carchi"	"Bolivar"	0	2020-03-21
+"Carchi"	"Espejo"	0	2020-03-21
+"Carchi"	"Mira"	0	2020-03-21
+"Carchi"	"Montúfar"	0	2020-03-21
+"Carchi"	"San Pedro de Huaca"	0	2020-03-21
+"Carchi"	"Tulcán"	0	2020-03-21
+"Carchi"	"Bolivar"	0	2020-03-22
+"Carchi"	"Espejo"	0	2020-03-22
+"Carchi"	"Mira"	0	2020-03-22
+"Carchi"	"Montúfar"	0	2020-03-22
+"Carchi"	"San Pedro de Huaca"	0	2020-03-22
+"Carchi"	"Tulcán"	0	2020-03-22
+"Carchi"	"Bolivar"	0	2020-03-23
+"Carchi"	"Espejo"	0	2020-03-23
+"Carchi"	"Mira"	0	2020-03-23
+"Carchi"	"Montúfar"	0	2020-03-23
+"Carchi"	"San Pedro de Huaca"	0	2020-03-23
+"Carchi"	"Tulcán"	0	2020-03-23
+"Carchi"	"Bolivar"	0	2020-03-24
+"Carchi"	"Espejo"	0	2020-03-24
+"Carchi"	"Mira"	0	2020-03-24
+"Carchi"	"Montúfar"	0	2020-03-24
+"Carchi"	"San Pedro de Huaca"	0	2020-03-24
+"Carchi"	"Tulcán"	0	2020-03-24
+"Carchi"	"Bolivar"	0	2020-03-25
+"Carchi"	"Espejo"	0	2020-03-25
+"Carchi"	"Mira"	1	2020-03-25
+"Carchi"	"Montúfar"	0	2020-03-25
+"Carchi"	"San Pedro de Huaca"	0	2020-03-25
+"Carchi"	"Tulcán"	1	2020-03-25
+"Carchi"	"Bolivar"	0	2020-03-26
+"Carchi"	"Espejo"	0	2020-03-26
+"Carchi"	"Mira"	1	2020-03-26
+"Carchi"	"Montúfar"	1	2020-03-26
+"Carchi"	"San Pedro de Huaca"	0	2020-03-26
+"Carchi"	"Tulcán"	1	2020-03-26
+"Carchi"	"Bolivar"	0	2020-03-27
+"Carchi"	"Espejo"	0	2020-03-27
+"Carchi"	"Mira"	1	2020-03-27
+"Carchi"	"Montúfar"	1	2020-03-27
+"Carchi"	"San Pedro de Huaca"	0	2020-03-27
+"Carchi"	"Tulcán"	1	2020-03-27
+"Carchi"	"Bolivar"	0	2020-03-28
+"Carchi"	"Espejo"	0	2020-03-28
+"Carchi"	"Mira"	1	2020-03-28
+"Carchi"	"Montúfar"	1	2020-03-28
+"Carchi"	"San Pedro de Huaca"	0	2020-03-28
+"Carchi"	"Tulcán"	3	2020-03-28
+"Carchi"	"Bolivar"	0	2020-03-29
+"Carchi"	"Espejo"	0	2020-03-29
+"Carchi"	"Mira"	1	2020-03-29
+"Carchi"	"Montúfar"	1	2020-03-29
+"Carchi"	"San Pedro de Huaca"	1	2020-03-29
+"Carchi"	"Tulcán"	3	2020-03-29
+"Carchi"	"Bolivar"	0	2020-03-30
+"Carchi"	"Espejo"	0	2020-03-30
+"Carchi"	"Mira"	1	2020-03-30
+"Carchi"	"Montúfar"	1	2020-03-30
+"Carchi"	"San Pedro de Huaca"	1	2020-03-30
+"Carchi"	"Tulcán"	3	2020-03-30
+"Carchi"	"Bolivar"	0	2020-03-31
+"Carchi"	"Espejo"	0	2020-03-31
+"Carchi"	"Mira"	1	2020-03-31
+"Carchi"	"Montúfar"	1	2020-03-31
+"Carchi"	"San Pedro de Huaca"	1	2020-03-31
+"Carchi"	"Tulcán"	3	2020-03-31
+"Carchi"	"Bolivar"	0	2020-04-01
+"Carchi"	"Espejo"	0	2020-04-01
+"Carchi"	"Mira"	1	2020-04-01
+"Carchi"	"Montúfar"	1	2020-04-01
+"Carchi"	"San Pedro de Huaca"	1	2020-04-01
+"Carchi"	"Tulcán"	3	2020-04-01
+"Carchi"	"Bolivar"	0	2020-04-02
+"Carchi"	"Espejo"	0	2020-04-02
+"Carchi"	"Mira"	1	2020-04-02
+"Carchi"	"Montúfar"	1	2020-04-02
+"Carchi"	"San Pedro de Huaca"	1	2020-04-02
+"Carchi"	"Tulcán"	4	2020-04-02
+"Carchi"	"Bolivar"	0	2020-04-03
+"Carchi"	"Espejo"	0	2020-04-03
+"Carchi"	"Mira"	1	2020-04-03
+"Carchi"	"Montúfar"	1	2020-04-03
+"Carchi"	"San Pedro de Huaca"	1	2020-04-03
+"Carchi"	"Tulcán"	6	2020-04-03
+"Carchi"	"Bolivar"	0	2020-04-04
+"Carchi"	"Espejo"	0	2020-04-04
+"Carchi"	"Mira"	1	2020-04-04
+"Carchi"	"Montúfar"	1	2020-04-04
+"Carchi"	"San Pedro de Huaca"	1	2020-04-04
+"Carchi"	"Tulcán"	6	2020-04-04
+"Carchi"	"Bolivar"	0	2020-04-05
+"Carchi"	"Espejo"	0	2020-04-05
+"Carchi"	"Mira"	1	2020-04-05
+"Carchi"	"Montúfar"	2	2020-04-05
+"Carchi"	"San Pedro de Huaca"	1	2020-04-05
+"Carchi"	"Tulcán"	8	2020-04-05
+"Carchi"	"Bolivar"	0	2020-04-06
+"Carchi"	"Espejo"	0	2020-04-06
+"Carchi"	"Mira"	1	2020-04-06
+"Carchi"	"Montúfar"	2	2020-04-06
+"Carchi"	"San Pedro de Huaca"	1	2020-04-06
+"Carchi"	"Tulcán"	8	2020-04-06
+"Carchi"	"Bolivar"	0	2020-04-07
+"Carchi"	"Espejo"	0	2020-04-07
+"Carchi"	"Mira"	1	2020-04-07
+"Carchi"	"Montúfar"	3	2020-04-07
+"Carchi"	"San Pedro de Huaca"	1	2020-04-07
+"Carchi"	"Tulcán"	9	2020-04-07
+"Carchi"	"Bolivar"	0	2020-04-08
+"Carchi"	"Espejo"	0	2020-04-08
+"Carchi"	"Mira"	1	2020-04-08
+"Carchi"	"Montúfar"	3	2020-04-08
+"Carchi"	"San Pedro de Huaca"	1	2020-04-08
+"Carchi"	"Tulcán"	9	2020-04-08
+"Carchi"	"Bolivar"	0	2020-04-09
+"Carchi"	"Espejo"	0	2020-04-09
+"Carchi"	"Mira"	1	2020-04-09
+"Carchi"	"Montúfar"	3	2020-04-09
+"Carchi"	"San Pedro de Huaca"	1	2020-04-09
+"Carchi"	"Tulcán"	10	2020-04-09
+"Carchi"	"Bolivar"	1	2020-04-10
+"Carchi"	"Espejo"	0	2020-04-10
+"Carchi"	"Mira"	1	2020-04-10
+"Carchi"	"Montúfar"	3	2020-04-10
+"Carchi"	"San Pedro de Huaca"	1	2020-04-10
+"Carchi"	"Tulcán"	11	2020-04-10
+"Carchi"	"Bolivar"	1	2020-04-11
+"Carchi"	"Espejo"	0	2020-04-11
+"Carchi"	"Mira"	1	2020-04-11
+"Carchi"	"Montúfar"	3	2020-04-11
+"Carchi"	"San Pedro de Huaca"	5	2020-04-11
+"Carchi"	"Tulcán"	13	2020-04-11
+"Carchi"	"Bolivar"	2	2020-04-12
+"Carchi"	"Espejo"	0	2020-04-12
+"Carchi"	"Mira"	1	2020-04-12
+"Carchi"	"Montúfar"	3	2020-04-12
+"Carchi"	"San Pedro de Huaca"	5	2020-04-12
+"Carchi"	"Tulcán"	13	2020-04-12
+"Carchi"	"Bolivar"	2	2020-04-13
+"Carchi"	"Espejo"	0	2020-04-13
+"Carchi"	"Mira"	1	2020-04-13
+"Carchi"	"Montúfar"	3	2020-04-13
+"Carchi"	"San Pedro de Huaca"	5	2020-04-13
+"Carchi"	"Tulcán"	14	2020-04-13
+"Carchi"	"Bolivar"	3	2020-04-14
+"Carchi"	"Espejo"	0	2020-04-14
+"Carchi"	"Mira"	1	2020-04-14
+"Carchi"	"Montúfar"	3	2020-04-14
+"Carchi"	"San Pedro de Huaca"	5	2020-04-14
+"Carchi"	"Tulcán"	14	2020-04-14
+"Carchi"	"Bolivar"	3	2020-04-15
+"Carchi"	"Espejo"	0	2020-04-15
+"Carchi"	"Mira"	1	2020-04-15
+"Carchi"	"Montúfar"	3	2020-04-15
+"Carchi"	"San Pedro de Huaca"	5	2020-04-15
+"Carchi"	"Tulcán"	14	2020-04-15
+"Carchi"	"Bolivar"	3	2020-04-16
+"Carchi"	"Espejo"	0	2020-04-16
+"Carchi"	"Mira"	1	2020-04-16
+"Carchi"	"Montúfar"	3	2020-04-16
+"Carchi"	"San Pedro de Huaca"	5	2020-04-16
+"Carchi"	"Tulcán"	14	2020-04-16
+"Carchi"	"Bolivar"	3	2020-04-17
+"Carchi"	"Espejo"	0	2020-04-17
+"Carchi"	"Mira"	1	2020-04-17
+"Carchi"	"Montúfar"	3	2020-04-17
+"Carchi"	"San Pedro de Huaca"	5	2020-04-17
+"Carchi"	"Tulcán"	14	2020-04-17
+"Carchi"	"Bolivar"	3	2020-04-18
+"Carchi"	"Espejo"	0	2020-04-18
+"Carchi"	"Mira"	1	2020-04-18
+"Carchi"	"Montúfar"	3	2020-04-18
+"Carchi"	"San Pedro de Huaca"	5	2020-04-18
+"Carchi"	"Tulcán"	16	2020-04-18
+"Carchi"	"Bolivar"	5	2020-04-19
+"Carchi"	"Espejo"	0	2020-04-19
+"Carchi"	"Mira"	1	2020-04-19
+"Carchi"	"Montúfar"	3	2020-04-19
+"Carchi"	"San Pedro de Huaca"	5	2020-04-19
+"Carchi"	"Tulcán"	19	2020-04-19
+"Carchi"	"Bolivar"	5	2020-04-20
+"Carchi"	"Espejo"	0	2020-04-20
+"Carchi"	"Mira"	1	2020-04-20
+"Carchi"	"Montúfar"	4	2020-04-20
+"Carchi"	"San Pedro de Huaca"	5	2020-04-20
+"Carchi"	"Tulcán"	20	2020-04-20
+"Carchi"	"Bolivar"	5	2020-04-21
+"Carchi"	"Espejo"	0	2020-04-21
+"Carchi"	"Mira"	1	2020-04-21
+"Carchi"	"Montúfar"	4	2020-04-21
+"Carchi"	"San Pedro de Huaca"	5	2020-04-21
+"Carchi"	"Tulcán"	20	2020-04-21
+"Carchi"	"Bolivar"	5	2020-04-22
+"Carchi"	"Espejo"	0	2020-04-22
+"Carchi"	"Mira"	1	2020-04-22
+"Carchi"	"Montúfar"	4	2020-04-22
+"Carchi"	"San Pedro de Huaca"	5	2020-04-22
+"Carchi"	"Tulcán"	20	2020-04-22
+"Carchi"	"Bolivar"	5	2020-04-23
+"Carchi"	"Espejo"	0	2020-04-23
+"Carchi"	"Mira"	1	2020-04-23
+"Carchi"	"Montúfar"	4	2020-04-23
+"Carchi"	"San Pedro de Huaca"	7	2020-04-23
+"Carchi"	"Tulcán"	21	2020-04-23
+"Carchi"	"Bolivar"	5	2020-04-24
+"Carchi"	"Espejo"	0	2020-04-24
+"Carchi"	"Mira"	1	2020-04-24
+"Carchi"	"Montúfar"	4	2020-04-24
+"Carchi"	"San Pedro de Huaca"	7	2020-04-24
+"Carchi"	"Tulcán"	21	2020-04-24
+"Carchi"	"Bolivar"	5	2020-04-25
+"Carchi"	"Espejo"	0	2020-04-25
+"Carchi"	"Mira"	1	2020-04-25
+"Carchi"	"Montúfar"	4	2020-04-25
+"Carchi"	"San Pedro de Huaca"	7	2020-04-25
+"Carchi"	"Tulcán"	21	2020-04-25
+"Carchi"	"Bolivar"	5	2020-04-26
+"Carchi"	"Espejo"	0	2020-04-26
+"Carchi"	"Mira"	1	2020-04-26
+"Carchi"	"Montúfar"	4	2020-04-26
+"Carchi"	"San Pedro de Huaca"	7	2020-04-26
+"Carchi"	"Tulcán"	21	2020-04-26
+"Carchi"	"Bolivar"	5	2020-04-27
+"Carchi"	"Espejo"	0	2020-04-27
+"Carchi"	"Mira"	1	2020-04-27
+"Carchi"	"Montúfar"	4	2020-04-27
+"Carchi"	"San Pedro de Huaca"	7	2020-04-27
+"Carchi"	"Tulcán"	21	2020-04-27
+"Carchi"	"Bolivar"	6	2020-04-28
+"Carchi"	"Espejo"	0	2020-04-28
+"Carchi"	"Mira"	1	2020-04-28
+"Carchi"	"Montúfar"	4	2020-04-28
+"Carchi"	"San Pedro de Huaca"	7	2020-04-28
+"Carchi"	"Tulcán"	31	2020-04-28
+"Carchi"	"Bolivar"	6	2020-04-29
+"Carchi"	"Espejo"	0	2020-04-29
+"Carchi"	"Mira"	1	2020-04-29
+"Carchi"	"Montúfar"	4	2020-04-29
+"Carchi"	"San Pedro de Huaca"	7	2020-04-29
+"Carchi"	"Tulcán"	31	2020-04-29
+"Carchi"	"Bolivar"	7	2020-04-30
+"Carchi"	"Espejo"	0	2020-04-30
+"Carchi"	"Mira"	1	2020-04-30
+"Carchi"	"Montúfar"	4	2020-04-30
+"Carchi"	"San Pedro de Huaca"	8	2020-04-30
+"Carchi"	"Tulcán"	33	2020-04-30
+"Carchi"	"Bolivar"	8	2020-05-01
+"Carchi"	"Espejo"	0	2020-05-01
+"Carchi"	"Mira"	1	2020-05-01
+"Carchi"	"Montúfar"	4	2020-05-01
+"Carchi"	"San Pedro de Huaca"	9	2020-05-01
+"Carchi"	"Tulcán"	36	2020-05-01
+"Carchi"	"Bolivar"	9	2020-05-02
+"Carchi"	"Espejo"	0	2020-05-02
+"Carchi"	"Mira"	1	2020-05-02
+"Carchi"	"Montúfar"	4	2020-05-02
+"Carchi"	"San Pedro de Huaca"	9	2020-05-02
+"Carchi"	"Tulcán"	40	2020-05-02
+"Carchi"	"Bolivar"	10	2020-05-03
+"Carchi"	"Espejo"	0	2020-05-03
+"Carchi"	"Mira"	1	2020-05-03
+"Carchi"	"Montúfar"	4	2020-05-03
+"Carchi"	"San Pedro de Huaca"	9	2020-05-03
+"Carchi"	"Tulcán"	42	2020-05-03
+"Carchi"	"Bolivar"	10	2020-05-04
+"Carchi"	"Espejo"	0	2020-05-04
+"Carchi"	"Mira"	1	2020-05-04
+"Carchi"	"Montúfar"	4	2020-05-04
+"Carchi"	"San Pedro de Huaca"	9	2020-05-04
+"Carchi"	"Tulcán"	45	2020-05-04
+"Carchi"	"Bolivar"	10	2020-05-05
+"Carchi"	"Espejo"	0	2020-05-05
+"Carchi"	"Mira"	1	2020-05-05
+"Carchi"	"Montúfar"	4	2020-05-05
+"Carchi"	"San Pedro de Huaca"	9	2020-05-05
+"Carchi"	"Tulcán"	45	2020-05-05
+"Carchi"	"Bolivar"	9	2020-05-06
+"Carchi"	"Espejo"	0	2020-05-06
+"Carchi"	"Mira"	1	2020-05-06
+"Carchi"	"Montúfar"	4	2020-05-06
+"Carchi"	"San Pedro de Huaca"	9	2020-05-06
+"Carchi"	"Tulcán"	60	2020-05-06
+"Carchi"	"Bolivar"	9	2020-05-07
+"Carchi"	"Espejo"	0	2020-05-07
+"Carchi"	"Mira"	1	2020-05-07
+"Carchi"	"Montúfar"	5	2020-05-07
+"Carchi"	"San Pedro de Huaca"	9	2020-05-07
+"Carchi"	"Tulcán"	60	2020-05-07
+"Carchi"	"Bolivar"	9	2020-05-08
+"Carchi"	"Espejo"	0	2020-05-08
+"Carchi"	"Mira"	1	2020-05-08
+"Carchi"	"Montúfar"	8	2020-05-08
+"Carchi"	"San Pedro de Huaca"	10	2020-05-08
+"Carchi"	"Tulcán"	64	2020-05-08
+"Carchi"	"Bolivar"	9	2020-05-09
+"Carchi"	"Espejo"	0	2020-05-09
+"Carchi"	"Mira"	1	2020-05-09
+"Carchi"	"Montúfar"	8	2020-05-09
+"Carchi"	"San Pedro de Huaca"	10	2020-05-09
+"Carchi"	"Tulcán"	64	2020-05-09
+"Carchi"	"Bolivar"	9	2020-05-10
+"Carchi"	"Espejo"	0	2020-05-10
+"Carchi"	"Mira"	1	2020-05-10
+"Carchi"	"Montúfar"	10	2020-05-10
+"Carchi"	"San Pedro de Huaca"	10	2020-05-10
+"Carchi"	"Tulcán"	66	2020-05-10
+"Carchi"	"Bolivar"	9	2020-05-11
+"Carchi"	"Espejo"	0	2020-05-11
+"Carchi"	"Mira"	1	2020-05-11
+"Carchi"	"Montúfar"	8	2020-05-11
+"Carchi"	"San Pedro de Huaca"	10	2020-05-11
+"Carchi"	"Tulcán"	64	2020-05-11
+"Carchi"	"Bolivar"	10	2020-05-12
+"Carchi"	"Espejo"	0	2020-05-12
+"Carchi"	"Mira"	1	2020-05-12
+"Carchi"	"Montúfar"	8	2020-05-12
+"Carchi"	"San Pedro de Huaca"	10	2020-05-12
+"Carchi"	"Tulcán"	71	2020-05-12
+"Carchi"	"Bolivar"	10	2020-05-13
+"Carchi"	"Espejo"	0	2020-05-13
+"Carchi"	"Mira"	1	2020-05-13
+"Carchi"	"Montúfar"	8	2020-05-13
+"Carchi"	"San Pedro de Huaca"	10	2020-05-13
+"Carchi"	"Tulcán"	71	2020-05-13
+"Carchi"	"Bolivar"	10	2020-05-14
+"Carchi"	"Espejo"	0	2020-05-14
+"Carchi"	"Mira"	1	2020-05-14
+"Carchi"	"Montúfar"	8	2020-05-14
+"Carchi"	"San Pedro de Huaca"	10	2020-05-14
+"Carchi"	"Tulcán"	71	2020-05-14
+"Carchi"	"Bolivar"	10	2020-05-15
+"Carchi"	"Espejo"	0	2020-05-15
+"Carchi"	"Mira"	1	2020-05-15
+"Carchi"	"Montúfar"	8	2020-05-15
+"Carchi"	"San Pedro de Huaca"	10	2020-05-15
+"Carchi"	"Tulcán"	71	2020-05-15
+"Carchi"	"Bolivar"	11	2020-05-16
+"Carchi"	"Espejo"	1	2020-05-16
+"Carchi"	"Mira"	1	2020-05-16
+"Carchi"	"Montúfar"	8	2020-05-16
+"Carchi"	"San Pedro de Huaca"	10	2020-05-16
+"Carchi"	"Tulcán"	74	2020-05-16
+"Carchi"	"Bolivar"	11	2020-05-17
+"Carchi"	"Espejo"	1	2020-05-17
+"Carchi"	"Mira"	1	2020-05-17
+"Carchi"	"Montúfar"	8	2020-05-17
+"Carchi"	"San Pedro de Huaca"	10	2020-05-17
+"Carchi"	"Tulcán"	74	2020-05-17
+"Carchi"	"Bolivar"	11	2020-05-18
+"Carchi"	"Espejo"	1	2020-05-18
+"Carchi"	"Mira"	2	2020-05-18
+"Carchi"	"Montúfar"	8	2020-05-18
+"Carchi"	"San Pedro de Huaca"	10	2020-05-18
+"Carchi"	"Tulcán"	76	2020-05-18
+"Carchi"	"Bolivar"	11	2020-05-19
+"Carchi"	"Espejo"	1	2020-05-19
+"Carchi"	"Mira"	2	2020-05-19
+"Carchi"	"Montúfar"	8	2020-05-19
+"Carchi"	"San Pedro de Huaca"	10	2020-05-19
+"Carchi"	"Tulcán"	78	2020-05-19
+"Carchi"	"Bolivar"	12	2020-05-20
+"Carchi"	"Espejo"	6	2020-05-20
+"Carchi"	"Mira"	4	2020-05-20
+"Carchi"	"Montúfar"	8	2020-05-20
+"Carchi"	"San Pedro de Huaca"	10	2020-05-20
+"Carchi"	"Tulcán"	81	2020-05-20
+"Carchi"	"Bolivar"	12	2020-05-21
+"Carchi"	"Espejo"	6	2020-05-21
+"Carchi"	"Mira"	4	2020-05-21
+"Carchi"	"Montúfar"	8	2020-05-21
+"Carchi"	"San Pedro de Huaca"	10	2020-05-21
+"Carchi"	"Tulcán"	82	2020-05-21
+"Carchi"	"Bolivar"	14	2020-05-22
+"Carchi"	"Espejo"	8	2020-05-22
+"Carchi"	"Mira"	4	2020-05-22
+"Carchi"	"Montúfar"	8	2020-05-22
+"Carchi"	"San Pedro de Huaca"	10	2020-05-22
+"Carchi"	"Tulcán"	89	2020-05-22
+"Carchi"	"Bolivar"	14	2020-05-23
+"Carchi"	"Espejo"	8	2020-05-23
+"Carchi"	"Mira"	4	2020-05-23
+"Carchi"	"Montúfar"	8	2020-05-23
+"Carchi"	"San Pedro de Huaca"	10	2020-05-23
+"Carchi"	"Tulcán"	90	2020-05-23
+"Carchi"	"Bolivar"	14	2020-05-24
+"Carchi"	"Espejo"	8	2020-05-24
+"Carchi"	"Mira"	4	2020-05-24
+"Carchi"	"Montúfar"	8	2020-05-24
+"Carchi"	"San Pedro de Huaca"	10	2020-05-24
+"Carchi"	"Tulcán"	93	2020-05-24
+"Carchi"	"Bolivar"	15	2020-05-25
+"Carchi"	"Espejo"	9	2020-05-25
+"Carchi"	"Mira"	4	2020-05-25
+"Carchi"	"Montúfar"	8	2020-05-25
+"Carchi"	"San Pedro de Huaca"	10	2020-05-25
+"Carchi"	"Tulcán"	96	2020-05-25
+"Carchi"	"Bolivar"	16	2020-05-26
+"Carchi"	"Espejo"	9	2020-05-26
+"Carchi"	"Mira"	4	2020-05-26
+"Carchi"	"Montúfar"	8	2020-05-26
+"Carchi"	"San Pedro de Huaca"	10	2020-05-26
+"Carchi"	"Tulcán"	96	2020-05-26
+"Carchi"	"Bolivar"	16	2020-05-27
+"Carchi"	"Espejo"	9	2020-05-27
+"Carchi"	"Mira"	4	2020-05-27
+"Carchi"	"Montúfar"	8	2020-05-27
+"Carchi"	"San Pedro de Huaca"	10	2020-05-27
+"Carchi"	"Tulcán"	97	2020-05-27
+"Carchi"	"Bolivar"	16	2020-05-28
+"Carchi"	"Espejo"	9	2020-05-28
+"Carchi"	"Mira"	4	2020-05-28
+"Carchi"	"Montúfar"	8	2020-05-28
+"Carchi"	"San Pedro de Huaca"	10	2020-05-28
+"Carchi"	"Tulcán"	101	2020-05-28
+"Carchi"	"Bolivar"	16	2020-05-29
+"Carchi"	"Espejo"	9	2020-05-29
+"Carchi"	"Mira"	4	2020-05-29
+"Carchi"	"Montúfar"	8	2020-05-29
+"Carchi"	"San Pedro de Huaca"	10	2020-05-29
+"Carchi"	"Tulcán"	102	2020-05-29
+"Carchi"	"Bolivar"	16	2020-05-30
+"Carchi"	"Espejo"	9	2020-05-30
+"Carchi"	"Mira"	4	2020-05-30
+"Carchi"	"Montúfar"	8	2020-05-30
+"Carchi"	"San Pedro de Huaca"	10	2020-05-30
+"Carchi"	"Tulcán"	105	2020-05-30
+"Carchi"	"Bolivar"	16	2020-05-31
+"Carchi"	"Espejo"	9	2020-05-31
+"Carchi"	"Mira"	4	2020-05-31
+"Carchi"	"Montúfar"	8	2020-05-31
+"Carchi"	"San Pedro de Huaca"	10	2020-05-31
+"Carchi"	"Tulcán"	105	2020-05-31
+"Carchi"	"Bolivar"	17	2020-06-01
+"Carchi"	"Espejo"	11	2020-06-01
+"Carchi"	"Mira"	7	2020-06-01
+"Carchi"	"Montúfar"	10	2020-06-01
+"Carchi"	"San Pedro de Huaca"	10	2020-06-01
+"Carchi"	"Tulcán"	112	2020-06-01
+"Carchi"	"Bolivar"	17	2020-06-02
+"Carchi"	"Espejo"	11	2020-06-02
+"Carchi"	"Mira"	7	2020-06-02
+"Carchi"	"Montúfar"	10	2020-06-02
+"Carchi"	"San Pedro de Huaca"	10	2020-06-02
+"Carchi"	"Tulcán"	113	2020-06-02
+"Carchi"	"Bolivar"	17	2020-06-03
+"Carchi"	"Espejo"	11	2020-06-03
+"Carchi"	"Mira"	7	2020-06-03
+"Carchi"	"Montúfar"	10	2020-06-03
+"Carchi"	"San Pedro de Huaca"	10	2020-06-03
+"Carchi"	"Tulcán"	114	2020-06-03
+"Carchi"	"Bolivar"	17	2020-06-04
+"Carchi"	"Espejo"	11	2020-06-04
+"Carchi"	"Mira"	7	2020-06-04
+"Carchi"	"Montúfar"	11	2020-06-04
+"Carchi"	"San Pedro de Huaca"	10	2020-06-04
+"Carchi"	"Tulcán"	114	2020-06-04
+"Carchi"	"Bolivar"	17	2020-06-05
+"Carchi"	"Espejo"	11	2020-06-05
+"Carchi"	"Mira"	7	2020-06-05
+"Carchi"	"Montúfar"	11	2020-06-05
+"Carchi"	"San Pedro de Huaca"	10	2020-06-05
+"Carchi"	"Tulcán"	115	2020-06-05
+"Carchi"	"Bolivar"	18	2020-06-06
+"Carchi"	"Espejo"	11	2020-06-06
+"Carchi"	"Mira"	9	2020-06-06
+"Carchi"	"Montúfar"	11	2020-06-06
+"Carchi"	"San Pedro de Huaca"	10	2020-06-06
+"Carchi"	"Tulcán"	115	2020-06-06
+"Carchi"	"Bolivar"	20	2020-06-07
+"Carchi"	"Espejo"	12	2020-06-07
+"Carchi"	"Mira"	12	2020-06-07
+"Carchi"	"Montúfar"	12	2020-06-07
+"Carchi"	"San Pedro de Huaca"	10	2020-06-07
+"Carchi"	"Tulcán"	118	2020-06-07
+"Carchi"	"Bolivar"	20	2020-06-08
+"Carchi"	"Espejo"	12	2020-06-08
+"Carchi"	"Mira"	12	2020-06-08
+"Carchi"	"Montúfar"	12	2020-06-08
+"Carchi"	"San Pedro de Huaca"	10	2020-06-08
+"Carchi"	"Tulcán"	120	2020-06-08
+"Carchi"	"Bolivar"	20	2020-06-09
+"Carchi"	"Espejo"	12	2020-06-09
+"Carchi"	"Mira"	12	2020-06-09
+"Carchi"	"Montúfar"	12	2020-06-09
+"Carchi"	"San Pedro de Huaca"	10	2020-06-09
+"Carchi"	"Tulcán"	120	2020-06-09
+"Carchi"	"Bolivar"	21	2020-06-10
+"Carchi"	"Espejo"	12	2020-06-10
+"Carchi"	"Mira"	12	2020-06-10
+"Carchi"	"Montúfar"	12	2020-06-10
+"Carchi"	"San Pedro de Huaca"	10	2020-06-10
+"Carchi"	"Tulcán"	120	2020-06-10
+"Carchi"	"Bolivar"	21	2020-06-11
+"Carchi"	"Espejo"	12	2020-06-11
+"Carchi"	"Mira"	17	2020-06-11
+"Carchi"	"Montúfar"	12	2020-06-11
+"Carchi"	"San Pedro de Huaca"	10	2020-06-11
+"Carchi"	"Tulcán"	125	2020-06-11
+"Carchi"	"Bolivar"	21	2020-06-12
+"Carchi"	"Espejo"	12	2020-06-12
+"Carchi"	"Mira"	17	2020-06-12
+"Carchi"	"Montúfar"	12	2020-06-12
+"Carchi"	"San Pedro de Huaca"	10	2020-06-12
+"Carchi"	"Tulcán"	126	2020-06-12
+"Carchi"	"Bolivar"	21	2020-06-13
+"Carchi"	"Espejo"	12	2020-06-13
+"Carchi"	"Mira"	17	2020-06-13
+"Carchi"	"Montúfar"	12	2020-06-13
+"Carchi"	"San Pedro de Huaca"	10	2020-06-13
+"Carchi"	"Tulcán"	127	2020-06-13
+"Carchi"	"Bolivar"	21	2020-06-14
+"Carchi"	"Espejo"	12	2020-06-14
+"Carchi"	"Mira"	17	2020-06-14
+"Carchi"	"Montúfar"	12	2020-06-14
+"Carchi"	"San Pedro de Huaca"	10	2020-06-14
+"Carchi"	"Tulcán"	132	2020-06-14
+"Carchi"	"Bolivar"	23	2020-06-15
+"Carchi"	"Espejo"	12	2020-06-15
+"Carchi"	"Mira"	21	2020-06-15
+"Carchi"	"Montúfar"	12	2020-06-15
+"Carchi"	"San Pedro de Huaca"	10	2020-06-15
+"Carchi"	"Tulcán"	134	2020-06-15
+"Carchi"	"Bolivar"	23	2020-06-16
+"Carchi"	"Espejo"	12	2020-06-16
+"Carchi"	"Mira"	21	2020-06-16
+"Carchi"	"Montúfar"	12	2020-06-16
+"Carchi"	"San Pedro de Huaca"	10	2020-06-16
+"Carchi"	"Tulcán"	136	2020-06-16
+"Carchi"	"Bolivar"	23	2020-06-17
+"Carchi"	"Espejo"	12	2020-06-17
+"Carchi"	"Mira"	21	2020-06-17
+"Carchi"	"Montúfar"	12	2020-06-17
+"Carchi"	"San Pedro de Huaca"	10	2020-06-17
+"Carchi"	"Tulcán"	136	2020-06-17
+"Carchi"	"Bolivar"	23	2020-06-18
+"Carchi"	"Espejo"	12	2020-06-18
+"Carchi"	"Mira"	22	2020-06-18
+"Carchi"	"Montúfar"	13	2020-06-18
+"Carchi"	"San Pedro de Huaca"	10	2020-06-18
+"Carchi"	"Tulcán"	142	2020-06-18
+"Carchi"	"Bolivar"	23	2020-06-19
+"Carchi"	"Espejo"	12	2020-06-19
+"Carchi"	"Mira"	22	2020-06-19
+"Carchi"	"Montúfar"	13	2020-06-19
+"Carchi"	"San Pedro de Huaca"	10	2020-06-19
+"Carchi"	"Tulcán"	143	2020-06-19
+"Carchi"	"Bolivar"	23	2020-06-20
+"Carchi"	"Espejo"	12	2020-06-20
+"Carchi"	"Mira"	22	2020-06-20
+"Carchi"	"Montúfar"	13	2020-06-20
+"Carchi"	"San Pedro de Huaca"	10	2020-06-20
+"Carchi"	"Tulcán"	144	2020-06-20
+"Carchi"	"Bolivar"	23	2020-06-21
+"Carchi"	"Espejo"	12	2020-06-21
+"Carchi"	"Mira"	22	2020-06-21
+"Carchi"	"Montúfar"	13	2020-06-21
+"Carchi"	"San Pedro de Huaca"	10	2020-06-21
+"Carchi"	"Tulcán"	151	2020-06-21
+"Carchi"	"Bolivar"	24	2020-06-22
+"Carchi"	"Espejo"	12	2020-06-22
+"Carchi"	"Mira"	22	2020-06-22
+"Carchi"	"Montúfar"	13	2020-06-22
+"Carchi"	"San Pedro de Huaca"	10	2020-06-22
+"Carchi"	"Tulcán"	151	2020-06-22
+"Carchi"	"Bolivar"	24	2020-06-23
+"Carchi"	"Espejo"	12	2020-06-23
+"Carchi"	"Mira"	26	2020-06-23
+"Carchi"	"Montúfar"	13	2020-06-23
+"Carchi"	"San Pedro de Huaca"	12	2020-06-23
+"Carchi"	"Tulcán"	154	2020-06-23
+"Carchi"	"Bolivar"	24	2020-06-24
+"Carchi"	"Espejo"	12	2020-06-24
+"Carchi"	"Mira"	26	2020-06-24
+"Carchi"	"Montúfar"	13	2020-06-24
+"Carchi"	"San Pedro de Huaca"	12	2020-06-24
+"Carchi"	"Tulcán"	155	2020-06-24
+"Carchi"	"Bolivar"	24	2020-06-25
+"Carchi"	"Espejo"	12	2020-06-25
+"Carchi"	"Mira"	28	2020-06-25
+"Carchi"	"Montúfar"	14	2020-06-25
+"Carchi"	"San Pedro de Huaca"	12	2020-06-25
+"Carchi"	"Tulcán"	159	2020-06-25
+"Carchi"	"Bolivar"	24	2020-06-26
+"Carchi"	"Espejo"	12	2020-06-26
+"Carchi"	"Mira"	28	2020-06-26
+"Carchi"	"Montúfar"	14	2020-06-26
+"Carchi"	"San Pedro de Huaca"	12	2020-06-26
+"Carchi"	"Tulcán"	163	2020-06-26
+"Carchi"	"Bolivar"	28	2020-06-27
+"Carchi"	"Espejo"	12	2020-06-27
+"Carchi"	"Mira"	28	2020-06-27
+"Carchi"	"Montúfar"	14	2020-06-27
+"Carchi"	"San Pedro de Huaca"	12	2020-06-27
+"Carchi"	"Tulcán"	165	2020-06-27
+"Carchi"	"Bolivar"	45	2020-06-28
+"Carchi"	"Espejo"	12	2020-06-28
+"Carchi"	"Mira"	29	2020-06-28
+"Carchi"	"Montúfar"	15	2020-06-28
+"Carchi"	"San Pedro de Huaca"	12	2020-06-28
+"Carchi"	"Tulcán"	165	2020-06-28
+"Carchi"	"Bolivar"	46	2020-06-29
+"Carchi"	"Espejo"	12	2020-06-29
+"Carchi"	"Mira"	29	2020-06-29
+"Carchi"	"Montúfar"	17	2020-06-29
+"Carchi"	"San Pedro de Huaca"	12	2020-06-29
+"Carchi"	"Tulcán"	169	2020-06-29
+"Carchi"	"Bolivar"	46	2020-06-30
+"Carchi"	"Espejo"	13	2020-06-30
+"Carchi"	"Mira"	33	2020-06-30
+"Carchi"	"Montúfar"	17	2020-06-30
+"Carchi"	"San Pedro de Huaca"	12	2020-06-30
+"Carchi"	"Tulcán"	181	2020-06-30
+"Carchi"	"Bolivar"	46	2020-07-01
+"Carchi"	"Espejo"	13	2020-07-01
+"Carchi"	"Mira"	33	2020-07-01
+"Carchi"	"Montúfar"	17	2020-07-01
+"Carchi"	"San Pedro de Huaca"	12	2020-07-01
+"Carchi"	"Tulcán"	182	2020-07-01
+"Carchi"	"Bolivar"	48	2020-07-02
+"Carchi"	"Espejo"	13	2020-07-02
+"Carchi"	"Mira"	33	2020-07-02
+"Carchi"	"Montúfar"	17	2020-07-02
+"Carchi"	"San Pedro de Huaca"	13	2020-07-02
+"Carchi"	"Tulcán"	196	2020-07-02
+"Carchi"	"Bolivar"	48	2020-07-03
+"Carchi"	"Espejo"	13	2020-07-03
+"Carchi"	"Mira"	33	2020-07-03
+"Carchi"	"Montúfar"	17	2020-07-03
+"Carchi"	"San Pedro de Huaca"	13	2020-07-03
+"Carchi"	"Tulcán"	207	2020-07-03
+"Carchi"	"Bolivar"	52	2020-07-04
+"Carchi"	"Espejo"	16	2020-07-04
+"Carchi"	"Mira"	34	2020-07-04
+"Carchi"	"Montúfar"	17	2020-07-04
+"Carchi"	"San Pedro de Huaca"	20	2020-07-04
+"Carchi"	"Tulcán"	215	2020-07-04
+"Carchi"	"Bolivar"	52	2020-07-05
+"Carchi"	"Espejo"	16	2020-07-05
+"Carchi"	"Mira"	35	2020-07-05
+"Carchi"	"Montúfar"	17	2020-07-05
+"Carchi"	"San Pedro de Huaca"	20	2020-07-05
+"Carchi"	"Tulcán"	225	2020-07-05
+"Carchi"	"Bolivar"	52	2020-07-06
+"Carchi"	"Espejo"	16	2020-07-06
+"Carchi"	"Mira"	35	2020-07-06
+"Carchi"	"Montúfar"	17	2020-07-06
+"Carchi"	"San Pedro de Huaca"	20	2020-07-06
+"Carchi"	"Tulcán"	225	2020-07-06
+"Carchi"	"Bolivar"	53	2020-07-07
+"Carchi"	"Espejo"	16	2020-07-07
+"Carchi"	"Mira"	36	2020-07-07
+"Carchi"	"Montúfar"	19	2020-07-07
+"Carchi"	"San Pedro de Huaca"	20	2020-07-07
+"Carchi"	"Tulcán"	238	2020-07-07
+"Carchi"	"Bolivar"	53	2020-07-08
+"Carchi"	"Espejo"	16	2020-07-08
+"Carchi"	"Mira"	36	2020-07-08
+"Carchi"	"Montúfar"	19	2020-07-08
+"Carchi"	"San Pedro de Huaca"	20	2020-07-08
+"Carchi"	"Tulcán"	238	2020-07-08
+"Carchi"	"Bolivar"	53	2020-07-09
+"Carchi"	"Espejo"	16	2020-07-09
+"Carchi"	"Mira"	43	2020-07-09
+"Carchi"	"Montúfar"	19	2020-07-09
+"Carchi"	"San Pedro de Huaca"	22	2020-07-09
+"Carchi"	"Tulcán"	246	2020-07-09
+"Carchi"	"Bolivar"	53	2020-07-10
+"Carchi"	"Espejo"	16	2020-07-10
+"Carchi"	"Mira"	43	2020-07-10
+"Carchi"	"Montúfar"	19	2020-07-10
+"Carchi"	"San Pedro de Huaca"	22	2020-07-10
+"Carchi"	"Tulcán"	249	2020-07-10
+"Carchi"	"Bolivar"	53	2020-07-11
+"Carchi"	"Espejo"	17	2020-07-11
+"Carchi"	"Mira"	43	2020-07-11
+"Carchi"	"Montúfar"	19	2020-07-11
+"Carchi"	"San Pedro de Huaca"	22	2020-07-11
+"Carchi"	"Tulcán"	268	2020-07-11
+"Carchi"	"Bolivar"	60	2020-07-12
+"Carchi"	"Espejo"	17	2020-07-12
+"Carchi"	"Mira"	43	2020-07-12
+"Carchi"	"Montúfar"	22	2020-07-12
+"Carchi"	"San Pedro de Huaca"	25	2020-07-12
+"Carchi"	"Tulcán"	292	2020-07-12
+"Carchi"	"Bolivar"	60	2020-07-13
+"Carchi"	"Espejo"	18	2020-07-13
+"Carchi"	"Mira"	43	2020-07-13
+"Carchi"	"Montúfar"	22	2020-07-13
+"Carchi"	"San Pedro de Huaca"	25	2020-07-13
+"Carchi"	"Tulcán"	292	2020-07-13
+"Carchi"	"Bolivar"	61	2020-07-14
+"Carchi"	"Espejo"	18	2020-07-14
+"Carchi"	"Mira"	43	2020-07-14
+"Carchi"	"Montúfar"	23	2020-07-14
+"Carchi"	"San Pedro de Huaca"	26	2020-07-14
+"Carchi"	"Tulcán"	301	2020-07-14
+"Carchi"	"Bolivar"	61	2020-07-15
+"Carchi"	"Espejo"	18	2020-07-15
+"Carchi"	"Mira"	56	2020-07-15
+"Carchi"	"Montúfar"	29	2020-07-15
+"Carchi"	"San Pedro de Huaca"	26	2020-07-15
+"Carchi"	"Tulcán"	317	2020-07-15
+"Carchi"	"Bolivar"	61	2020-07-16
+"Carchi"	"Espejo"	18	2020-07-16
+"Carchi"	"Mira"	56	2020-07-16
+"Carchi"	"Montúfar"	30	2020-07-16
+"Carchi"	"San Pedro de Huaca"	26	2020-07-16
+"Carchi"	"Tulcán"	336	2020-07-16
+"Carchi"	"Bolivar"	61	2020-07-17
+"Carchi"	"Espejo"	18	2020-07-17
+"Carchi"	"Mira"	57	2020-07-17
+"Carchi"	"Montúfar"	30	2020-07-17
+"Carchi"	"San Pedro de Huaca"	26	2020-07-17
+"Carchi"	"Tulcán"	336	2020-07-17
+"Carchi"	"Bolivar"	66	2020-07-18
+"Carchi"	"Espejo"	18	2020-07-18
+"Carchi"	"Mira"	57	2020-07-18
+"Carchi"	"Montúfar"	31	2020-07-18
+"Carchi"	"San Pedro de Huaca"	27	2020-07-18
+"Carchi"	"Tulcán"	355	2020-07-18
+"Carchi"	"Bolivar"	74	2020-07-19
+"Carchi"	"Espejo"	18	2020-07-19
+"Carchi"	"Mira"	57	2020-07-19
+"Carchi"	"Montúfar"	47	2020-07-19
+"Carchi"	"San Pedro de Huaca"	27	2020-07-19
+"Carchi"	"Tulcán"	364	2020-07-19
+"Carchi"	"Bolivar"	74	2020-07-20
+"Carchi"	"Espejo"	18	2020-07-20
+"Carchi"	"Mira"	57	2020-07-20
+"Carchi"	"Montúfar"	47	2020-07-20
+"Carchi"	"San Pedro de Huaca"	27	2020-07-20
+"Carchi"	"Tulcán"	370	2020-07-20
+"Carchi"	"Bolivar"	82	2020-07-21
+"Carchi"	"Espejo"	18	2020-07-21
+"Carchi"	"Mira"	60	2020-07-21
+"Carchi"	"Montúfar"	47	2020-07-21
+"Carchi"	"San Pedro de Huaca"	27	2020-07-21
+"Carchi"	"Tulcán"	418	2020-07-21
+"Carchi"	"Bolivar"	82	2020-07-22
+"Carchi"	"Espejo"	18	2020-07-22
+"Carchi"	"Mira"	61	2020-07-22
+"Carchi"	"Montúfar"	49	2020-07-22
+"Carchi"	"San Pedro de Huaca"	27	2020-07-22
+"Carchi"	"Tulcán"	423	2020-07-22
+"Carchi"	"Bolivar"	82	2020-07-23
+"Carchi"	"Espejo"	18	2020-07-23
+"Carchi"	"Mira"	61	2020-07-23
+"Carchi"	"Montúfar"	62	2020-07-23
+"Carchi"	"San Pedro de Huaca"	27	2020-07-23
+"Carchi"	"Tulcán"	425	2020-07-23
+"Carchi"	"Bolivar"	82	2020-07-24
+"Carchi"	"Espejo"	22	2020-07-24
+"Carchi"	"Mira"	76	2020-07-24
+"Carchi"	"Montúfar"	69	2020-07-24
+"Carchi"	"San Pedro de Huaca"	29	2020-07-24
+"Carchi"	"Tulcán"	467	2020-07-24
+"Carchi"	"Bolivar"	82	2020-07-25
+"Carchi"	"Espejo"	22	2020-07-25
+"Carchi"	"Mira"	78	2020-07-25
+"Carchi"	"Montúfar"	70	2020-07-25
+"Carchi"	"San Pedro de Huaca"	29	2020-07-25
+"Carchi"	"Tulcán"	489	2020-07-25
+"Carchi"	"Bolivar"	82	2020-07-26
+"Carchi"	"Espejo"	22	2020-07-26
+"Carchi"	"Mira"	78	2020-07-26
+"Carchi"	"Montúfar"	70	2020-07-26
+"Carchi"	"San Pedro de Huaca"	29	2020-07-26
+"Carchi"	"Tulcán"	493	2020-07-26
+"Carchi"	"Bolivar"	82	2020-07-27
+"Carchi"	"Espejo"	22	2020-07-27
+"Carchi"	"Mira"	78	2020-07-27
+"Carchi"	"Montúfar"	70	2020-07-27
+"Carchi"	"San Pedro de Huaca"	29	2020-07-27
+"Carchi"	"Tulcán"	494	2020-07-27
+"Carchi"	"Bolivar"	85	2020-07-28
+"Carchi"	"Espejo"	22	2020-07-28
+"Carchi"	"Mira"	82	2020-07-28
+"Carchi"	"Montúfar"	101	2020-07-28
+"Carchi"	"San Pedro de Huaca"	38	2020-07-28
+"Carchi"	"Tulcán"	545	2020-07-28
+"Carchi"	"Bolivar"	89	2020-07-29
+"Carchi"	"Espejo"	22	2020-07-29
+"Carchi"	"Mira"	82	2020-07-29
+"Carchi"	"Montúfar"	102	2020-07-29
+"Carchi"	"San Pedro de Huaca"	38	2020-07-29
+"Carchi"	"Tulcán"	548	2020-07-29
+"Carchi"	"Bolivar"	89	2020-07-30
+"Carchi"	"Espejo"	22	2020-07-30
+"Carchi"	"Mira"	82	2020-07-30
+"Carchi"	"Montúfar"	104	2020-07-30
+"Carchi"	"San Pedro de Huaca"	39	2020-07-30
+"Carchi"	"Tulcán"	548	2020-07-30
+"Carchi"	"Bolivar"	92	2020-07-31
+"Carchi"	"Espejo"	22	2020-07-31
+"Carchi"	"Mira"	84	2020-07-31
+"Carchi"	"Montúfar"	106	2020-07-31
+"Carchi"	"San Pedro de Huaca"	40	2020-07-31
+"Carchi"	"Tulcán"	551	2020-07-31
+"Carchi"	"Bolivar"	92	2020-08-01
+"Carchi"	"Espejo"	22	2020-08-01
+"Carchi"	"Mira"	85	2020-08-01
+"Carchi"	"Montúfar"	106	2020-08-01
+"Carchi"	"San Pedro de Huaca"	40	2020-08-01
+"Carchi"	"Tulcán"	578	2020-08-01
+"Carchi"	"Bolivar"	92	2020-08-02
+"Carchi"	"Espejo"	22	2020-08-02
+"Carchi"	"Mira"	85	2020-08-02
+"Carchi"	"Montúfar"	106	2020-08-02
+"Carchi"	"San Pedro de Huaca"	40	2020-08-02
+"Carchi"	"Tulcán"	578	2020-08-02
+"Carchi"	"Bolivar"	92	2020-08-03
+"Carchi"	"Espejo"	22	2020-08-03
+"Carchi"	"Mira"	85	2020-08-03
+"Carchi"	"Montúfar"	106	2020-08-03
+"Carchi"	"San Pedro de Huaca"	40	2020-08-03
+"Carchi"	"Tulcán"	578	2020-08-03
+"Carchi"	"Bolivar"	92	2020-08-04
+"Carchi"	"Espejo"	24	2020-08-04
+"Carchi"	"Mira"	86	2020-08-04
+"Carchi"	"Montúfar"	107	2020-08-04
+"Carchi"	"San Pedro de Huaca"	45	2020-08-04
+"Carchi"	"Tulcán"	611	2020-08-04
+"Carchi"	"Bolivar"	93	2020-08-05
+"Carchi"	"Espejo"	28	2020-08-05
+"Carchi"	"Mira"	88	2020-08-05
+"Carchi"	"Montúfar"	121	2020-08-05
+"Carchi"	"San Pedro de Huaca"	47	2020-08-05
+"Carchi"	"Tulcán"	640	2020-08-05
+"Carchi"	"Bolivar"	103	2020-08-06
+"Carchi"	"Espejo"	28	2020-08-06
+"Carchi"	"Mira"	90	2020-08-06
+"Carchi"	"Montúfar"	134	2020-08-06
+"Carchi"	"San Pedro de Huaca"	47	2020-08-06
+"Carchi"	"Tulcán"	662	2020-08-06
+"Carchi"	"Bolivar"	104	2020-08-07
+"Carchi"	"Espejo"	33	2020-08-07
+"Carchi"	"Mira"	110	2020-08-07
+"Carchi"	"Montúfar"	150	2020-08-07
+"Carchi"	"San Pedro de Huaca"	56	2020-08-07
+"Carchi"	"Tulcán"	685	2020-08-07
+"Carchi"	"Bolivar"	106	2020-08-08
+"Carchi"	"Espejo"	42	2020-08-08
+"Carchi"	"Mira"	119	2020-08-08
+"Carchi"	"Montúfar"	152	2020-08-08
+"Carchi"	"San Pedro de Huaca"	62	2020-08-08
+"Carchi"	"Tulcán"	714	2020-08-08
+"Carchi"	"Bolivar"	116	2020-08-09
+"Carchi"	"Espejo"	47	2020-08-09
+"Carchi"	"Mira"	124	2020-08-09
+"Carchi"	"Montúfar"	158	2020-08-09
+"Carchi"	"San Pedro de Huaca"	63	2020-08-09
+"Carchi"	"Tulcán"	725	2020-08-09
+"Carchi"	"Bolivar"	116	2020-08-10
+"Carchi"	"Espejo"	47	2020-08-10
+"Carchi"	"Mira"	124	2020-08-10
+"Carchi"	"Montúfar"	158	2020-08-10
+"Carchi"	"San Pedro de Huaca"	63	2020-08-10
+"Carchi"	"Tulcán"	725	2020-08-10
+"Carchi"	"Bolivar"	116	2020-08-11
+"Carchi"	"Espejo"	48	2020-08-11
+"Carchi"	"Mira"	147	2020-08-11
+"Carchi"	"Montúfar"	175	2020-08-11
+"Carchi"	"San Pedro de Huaca"	65	2020-08-11
+"Carchi"	"Tulcán"	765	2020-08-11
+"Carchi"	"Bolivar"	124	2020-08-12
+"Carchi"	"Espejo"	48	2020-08-12
+"Carchi"	"Mira"	153	2020-08-12
+"Carchi"	"Montúfar"	178	2020-08-12
+"Carchi"	"San Pedro de Huaca"	65	2020-08-12
+"Carchi"	"Tulcán"	775	2020-08-12
+"Carchi"	"Bolivar"	124	2020-08-13
+"Carchi"	"Espejo"	48	2020-08-13
+"Carchi"	"Mira"	154	2020-08-13
+"Carchi"	"Montúfar"	178	2020-08-13
+"Carchi"	"San Pedro de Huaca"	65	2020-08-13
+"Carchi"	"Tulcán"	775	2020-08-13
+"Carchi"	"Bolivar"	124	2020-08-14
+"Carchi"	"Espejo"	52	2020-08-14
+"Carchi"	"Mira"	164	2020-08-14
+"Carchi"	"Montúfar"	198	2020-08-14
+"Carchi"	"San Pedro de Huaca"	71	2020-08-14
+"Carchi"	"Tulcán"	780	2020-08-14
+"Carchi"	"Bolivar"	126	2020-08-15
+"Carchi"	"Espejo"	53	2020-08-15
+"Carchi"	"Mira"	172	2020-08-15
+"Carchi"	"Montúfar"	199	2020-08-15
+"Carchi"	"San Pedro de Huaca"	71	2020-08-15
+"Carchi"	"Tulcán"	801	2020-08-15
+"Carchi"	"Bolivar"	126	2020-08-16
+"Carchi"	"Espejo"	59	2020-08-16
+"Carchi"	"Mira"	173	2020-08-16
+"Carchi"	"Montúfar"	214	2020-08-16
+"Carchi"	"San Pedro de Huaca"	74	2020-08-16
+"Carchi"	"Tulcán"	822	2020-08-16
+"Carchi"	"Bolivar"	126	2020-08-17
+"Carchi"	"Espejo"	59	2020-08-17
+"Carchi"	"Mira"	173	2020-08-17
+"Carchi"	"Montúfar"	214	2020-08-17
+"Carchi"	"San Pedro de Huaca"	75	2020-08-17
+"Carchi"	"Tulcán"	825	2020-08-17
+"Carchi"	"Bolivar"	131	2020-08-18
+"Carchi"	"Espejo"	75	2020-08-18
+"Carchi"	"Mira"	175	2020-08-18
+"Carchi"	"Montúfar"	216	2020-08-18
+"Carchi"	"San Pedro de Huaca"	76	2020-08-18
+"Carchi"	"Tulcán"	854	2020-08-18
+"Carchi"	"Bolivar"	139	2020-08-19
+"Carchi"	"Espejo"	93	2020-08-19
+"Carchi"	"Mira"	189	2020-08-19
+"Carchi"	"Montúfar"	217	2020-08-19
+"Carchi"	"San Pedro de Huaca"	76	2020-08-19
+"Carchi"	"Tulcán"	888	2020-08-19
+"Carchi"	"Bolivar"	140	2020-08-20
+"Carchi"	"Espejo"	99	2020-08-20
+"Carchi"	"Mira"	198	2020-08-20
+"Carchi"	"Montúfar"	220	2020-08-20
+"Carchi"	"San Pedro de Huaca"	77	2020-08-20
+"Carchi"	"Tulcán"	927	2020-08-20
+"Carchi"	"Bolivar"	144	2020-08-21
+"Carchi"	"Espejo"	102	2020-08-21
+"Carchi"	"Mira"	199	2020-08-21
+"Carchi"	"Montúfar"	226	2020-08-21
+"Carchi"	"San Pedro de Huaca"	79	2020-08-21
+"Carchi"	"Tulcán"	956	2020-08-21
+"Carchi"	"Bolivar"	144	2020-08-22
+"Carchi"	"Espejo"	102	2020-08-22
+"Carchi"	"Mira"	199	2020-08-22
+"Carchi"	"Montúfar"	226	2020-08-22
+"Carchi"	"San Pedro de Huaca"	79	2020-08-22
+"Carchi"	"Tulcán"	957	2020-08-22
+"Carchi"	"Bolivar"	147	2020-08-23
+"Carchi"	"Espejo"	108	2020-08-23
+"Carchi"	"Mira"	199	2020-08-23
+"Carchi"	"Montúfar"	230	2020-08-23
+"Carchi"	"San Pedro de Huaca"	79	2020-08-23
+"Carchi"	"Tulcán"	1000	2020-08-23
+"Carchi"	"Bolivar"	148	2020-08-24
+"Carchi"	"Espejo"	108	2020-08-24
+"Carchi"	"Mira"	199	2020-08-24
+"Carchi"	"Montúfar"	230	2020-08-24
+"Carchi"	"San Pedro de Huaca"	79	2020-08-24
+"Carchi"	"Tulcán"	1001	2020-08-24
+"Carchi"	"Bolivar"	149	2020-08-25
+"Carchi"	"Espejo"	108	2020-08-25
+"Carchi"	"Mira"	199	2020-08-25
+"Carchi"	"Montúfar"	231	2020-08-25
+"Carchi"	"San Pedro de Huaca"	79	2020-08-25
+"Carchi"	"Tulcán"	1021	2020-08-25
+"Carchi"	"Bolivar"	149	2020-08-26
+"Carchi"	"Espejo"	118	2020-08-26
+"Carchi"	"Mira"	209	2020-08-26
+"Carchi"	"Montúfar"	237	2020-08-26
+"Carchi"	"San Pedro de Huaca"	80	2020-08-26
+"Carchi"	"Tulcán"	1051	2020-08-26
+"Carchi"	"Bolivar"	149	2020-08-27
+"Carchi"	"Espejo"	118	2020-08-27
+"Carchi"	"Mira"	210	2020-08-27
+"Carchi"	"Montúfar"	238	2020-08-27
+"Carchi"	"San Pedro de Huaca"	80	2020-08-27
+"Carchi"	"Tulcán"	1051	2020-08-27
+"Carchi"	"Bolivar"	149	2020-08-28
+"Carchi"	"Espejo"	120	2020-08-28
+"Carchi"	"Mira"	214	2020-08-28
+"Carchi"	"Montúfar"	242	2020-08-28
+"Carchi"	"San Pedro de Huaca"	86	2020-08-28
+"Carchi"	"Tulcán"	1065	2020-08-28
+"Carchi"	"Bolivar"	150	2020-08-29
+"Carchi"	"Espejo"	123	2020-08-29
+"Carchi"	"Mira"	216	2020-08-29
+"Carchi"	"Montúfar"	247	2020-08-29
+"Carchi"	"San Pedro de Huaca"	87	2020-08-29
+"Carchi"	"Tulcán"	1092	2020-08-29
+"Carchi"	"Bolivar"	151	2020-08-30
+"Carchi"	"Espejo"	123	2020-08-30
+"Carchi"	"Mira"	218	2020-08-30
+"Carchi"	"Montúfar"	247	2020-08-30
+"Carchi"	"San Pedro de Huaca"	87	2020-08-30
+"Carchi"	"Tulcán"	1109	2020-08-30
+"Carchi"	"Bolivar"	151	2020-08-31
+"Carchi"	"Espejo"	123	2020-08-31
+"Carchi"	"Mira"	218	2020-08-31
+"Carchi"	"Montúfar"	247	2020-08-31
+"Carchi"	"San Pedro de Huaca"	87	2020-08-31
+"Carchi"	"Tulcán"	1109	2020-08-31
+"Carchi"	"Bolivar"	152	2020-09-01
+"Carchi"	"Espejo"	124	2020-09-01
+"Carchi"	"Mira"	218	2020-09-01
+"Carchi"	"Montúfar"	247	2020-09-01
+"Carchi"	"San Pedro de Huaca"	87	2020-09-01
+"Carchi"	"Tulcán"	1113	2020-09-01
+"Carchi"	"Bolivar"	152	2020-09-02
+"Carchi"	"Espejo"	139	2020-09-02
+"Carchi"	"Mira"	220	2020-09-02
+"Carchi"	"Montúfar"	252	2020-09-02
+"Carchi"	"San Pedro de Huaca"	90	2020-09-02
+"Carchi"	"Tulcán"	1129	2020-09-02
+"Carchi"	"Bolivar"	152	2020-09-03
+"Carchi"	"Espejo"	140	2020-09-03
+"Carchi"	"Mira"	220	2020-09-03
+"Carchi"	"Montúfar"	252	2020-09-03
+"Carchi"	"San Pedro de Huaca"	90	2020-09-03
+"Carchi"	"Tulcán"	1144	2020-09-03
+"Carchi"	"Bolivar"	155	2020-09-04
+"Carchi"	"Espejo"	150	2020-09-04
+"Carchi"	"Mira"	221	2020-09-04
+"Carchi"	"Montúfar"	269	2020-09-04
+"Carchi"	"San Pedro de Huaca"	93	2020-09-04
+"Carchi"	"Tulcán"	1144	2020-09-04
+"Carchi"	"Bolivar"	157	2020-09-05
+"Carchi"	"Espejo"	154	2020-09-05
+"Carchi"	"Mira"	223	2020-09-05
+"Carchi"	"Montúfar"	269	2020-09-05
+"Carchi"	"San Pedro de Huaca"	95	2020-09-05
+"Carchi"	"Tulcán"	1159	2020-09-05
+"Carchi"	"Bolivar"	157	2020-09-06
+"Carchi"	"Espejo"	156	2020-09-06
+"Carchi"	"Mira"	224	2020-09-06
+"Carchi"	"Montúfar"	269	2020-09-06
+"Carchi"	"San Pedro de Huaca"	96	2020-09-06
+"Carchi"	"Tulcán"	1166	2020-09-06
+"Carchi"	"Bolivar"	157	2020-09-07
+"Carchi"	"Espejo"	156	2020-09-07
+"Carchi"	"Mira"	224	2020-09-07
+"Carchi"	"Montúfar"	269	2020-09-07
+"Carchi"	"San Pedro de Huaca"	96	2020-09-07
+"Carchi"	"Tulcán"	1166	2020-09-07
+"Carchi"	"Bolivar"	157	2020-09-08
+"Carchi"	"Espejo"	161	2020-09-08
+"Carchi"	"Mira"	224	2020-09-08
+"Carchi"	"Montúfar"	269	2020-09-08
+"Carchi"	"San Pedro de Huaca"	96	2020-09-08
+"Carchi"	"Tulcán"	1185	2020-09-08
+"Carchi"	"Bolivar"	157	2020-09-09
+"Carchi"	"Espejo"	161	2020-09-09
+"Carchi"	"Mira"	224	2020-09-09
+"Carchi"	"Montúfar"	269	2020-09-09
+"Carchi"	"San Pedro de Huaca"	96	2020-09-09
+"Carchi"	"Tulcán"	1186	2020-09-09
+"Carchi"	"Bolivar"	157	2020-09-10
+"Carchi"	"Espejo"	163	2020-09-10
+"Carchi"	"Mira"	225	2020-09-10
+"Carchi"	"Montúfar"	271	2020-09-10
+"Carchi"	"San Pedro de Huaca"	98	2020-09-10
+"Carchi"	"Tulcán"	1210	2020-09-10
+"Carchi"	"Bolivar"	158	2020-09-11
+"Carchi"	"Espejo"	172	2020-09-11
+"Carchi"	"Mira"	237	2020-09-11
+"Carchi"	"Montúfar"	272	2020-09-11
+"Carchi"	"San Pedro de Huaca"	104	2020-09-11
+"Carchi"	"Tulcán"	1244	2020-09-11
+"Carchi"	"Bolivar"	158	2020-09-12
+"Carchi"	"Espejo"	172	2020-09-12
+"Carchi"	"Mira"	237	2020-09-12
+"Carchi"	"Montúfar"	274	2020-09-12
+"Carchi"	"San Pedro de Huaca"	108	2020-09-12
+"Carchi"	"Tulcán"	1246	2020-09-12
+"Carchi"	"Bolivar"	158	2020-09-13
+"Carchi"	"Espejo"	178	2020-09-13
+"Carchi"	"Mira"	240	2020-09-13
+"Carchi"	"Montúfar"	279	2020-09-13
+"Carchi"	"San Pedro de Huaca"	110	2020-09-13
+"Carchi"	"Tulcán"	1254	2020-09-13
+"Carchi"	"Bolivar"	158	2020-09-14
+"Carchi"	"Espejo"	178	2020-09-14
+"Carchi"	"Mira"	240	2020-09-14
+"Carchi"	"Montúfar"	279	2020-09-14
+"Carchi"	"San Pedro de Huaca"	110	2020-09-14
+"Carchi"	"Tulcán"	1254	2020-09-14
+"Carchi"	"Bolivar"	161	2020-09-15
+"Carchi"	"Espejo"	185	2020-09-15
+"Carchi"	"Mira"	240	2020-09-15
+"Carchi"	"Montúfar"	279	2020-09-15
+"Carchi"	"San Pedro de Huaca"	113	2020-09-15
+"Carchi"	"Tulcán"	1266	2020-09-15
+"Carchi"	"Bolivar"	161	2020-09-16
+"Carchi"	"Espejo"	186	2020-09-16
+"Carchi"	"Mira"	241	2020-09-16
+"Carchi"	"Montúfar"	289	2020-09-16
+"Carchi"	"San Pedro de Huaca"	114	2020-09-16
+"Carchi"	"Tulcán"	1294	2020-09-16
+"Carchi"	"Bolivar"	164	2020-09-17
+"Carchi"	"Espejo"	189	2020-09-17
+"Carchi"	"Mira"	242	2020-09-17
+"Carchi"	"Montúfar"	295	2020-09-17
+"Carchi"	"San Pedro de Huaca"	114	2020-09-17
+"Carchi"	"Tulcán"	1302	2020-09-17
+"Carchi"	"Bolivar"	168	2020-09-18
+"Carchi"	"Espejo"	192	2020-09-18
+"Carchi"	"Mira"	243	2020-09-18
+"Carchi"	"Montúfar"	301	2020-09-18
+"Carchi"	"San Pedro de Huaca"	114	2020-09-18
+"Carchi"	"Tulcán"	1322	2020-09-18
+"Carchi"	"Bolivar"	168	2020-09-19
+"Carchi"	"Espejo"	201	2020-09-19
+"Carchi"	"Mira"	248	2020-09-19
+"Carchi"	"Montúfar"	301	2020-09-19
+"Carchi"	"San Pedro de Huaca"	119	2020-09-19
+"Carchi"	"Tulcán"	1339	2020-09-19
+"Carchi"	"Bolivar"	168	2020-09-20
+"Carchi"	"Espejo"	201	2020-09-20
+"Carchi"	"Mira"	249	2020-09-20
+"Carchi"	"Montúfar"	302	2020-09-20
+"Carchi"	"San Pedro de Huaca"	120	2020-09-20
+"Carchi"	"Tulcán"	1360	2020-09-20
+"Carchi"	"Bolivar"	168	2020-09-21
+"Carchi"	"Espejo"	201	2020-09-21
+"Carchi"	"Mira"	249	2020-09-21
+"Carchi"	"Montúfar"	302	2020-09-21
+"Carchi"	"San Pedro de Huaca"	120	2020-09-21
+"Carchi"	"Tulcán"	1361	2020-09-21
+"Carchi"	"Bolivar"	168	2020-09-22
+"Carchi"	"Espejo"	204	2020-09-22
+"Carchi"	"Mira"	249	2020-09-22
+"Carchi"	"Montúfar"	312	2020-09-22
+"Carchi"	"San Pedro de Huaca"	120	2020-09-22
+"Carchi"	"Tulcán"	1367	2020-09-22
+"Carchi"	"Bolivar"	168	2020-09-23
+"Carchi"	"Espejo"	211	2020-09-23
+"Carchi"	"Mira"	251	2020-09-23
+"Carchi"	"Montúfar"	324	2020-09-23
+"Carchi"	"San Pedro de Huaca"	120	2020-09-23
+"Carchi"	"Tulcán"	1383	2020-09-23
+"Carchi"	"Bolivar"	168	2020-09-24
+"Carchi"	"Espejo"	212	2020-09-24
+"Carchi"	"Mira"	253	2020-09-24
+"Carchi"	"Montúfar"	328	2020-09-24
+"Carchi"	"San Pedro de Huaca"	120	2020-09-24
+"Carchi"	"Tulcán"	1404	2020-09-24
+"Carchi"	"Bolivar"	168	2020-09-25
+"Carchi"	"Espejo"	217	2020-09-25
+"Carchi"	"Mira"	256	2020-09-25
+"Carchi"	"Montúfar"	338	2020-09-25
+"Carchi"	"San Pedro de Huaca"	120	2020-09-25
+"Carchi"	"Tulcán"	1436	2020-09-25
+"Carchi"	"Bolivar"	170	2020-09-26
+"Carchi"	"Espejo"	220	2020-09-26
+"Carchi"	"Mira"	256	2020-09-26
+"Carchi"	"Montúfar"	341	2020-09-26
+"Carchi"	"San Pedro de Huaca"	120	2020-09-26
+"Carchi"	"Tulcán"	1445	2020-09-26
+"Carchi"	"Bolivar"	178	2020-09-27
+"Carchi"	"Espejo"	224	2020-09-27
+"Carchi"	"Mira"	257	2020-09-27
+"Carchi"	"Montúfar"	342	2020-09-27
+"Carchi"	"San Pedro de Huaca"	120	2020-09-27
+"Carchi"	"Tulcán"	1462	2020-09-27
+"Carchi"	"Bolivar"	178	2020-09-28
+"Carchi"	"Espejo"	224	2020-09-28
+"Carchi"	"Mira"	257	2020-09-28
+"Carchi"	"Montúfar"	343	2020-09-28
+"Carchi"	"San Pedro de Huaca"	120	2020-09-28
+"Carchi"	"Tulcán"	1462	2020-09-28
+"Carchi"	"Bolivar"	180	2020-09-29
+"Carchi"	"Espejo"	231	2020-09-29
+"Carchi"	"Mira"	257	2020-09-29
+"Carchi"	"Montúfar"	343	2020-09-29
+"Carchi"	"San Pedro de Huaca"	120	2020-09-29
+"Carchi"	"Tulcán"	1474	2020-09-29
+"Carchi"	"Bolivar"	180	2020-09-30
+"Carchi"	"Espejo"	235	2020-09-30
+"Carchi"	"Mira"	257	2020-09-30
+"Carchi"	"Montúfar"	354	2020-09-30
+"Carchi"	"San Pedro de Huaca"	125	2020-09-30
+"Carchi"	"Tulcán"	1497	2020-09-30
+"Carchi"	"Bolivar"	181	2020-10-01
+"Carchi"	"Espejo"	236	2020-10-01
+"Carchi"	"Mira"	257	2020-10-01
+"Carchi"	"Montúfar"	354	2020-10-01
+"Carchi"	"San Pedro de Huaca"	125	2020-10-01
+"Carchi"	"Tulcán"	1519	2020-10-01
+"Carchi"	"Bolivar"	183	2020-10-02
+"Carchi"	"Espejo"	238	2020-10-02
+"Carchi"	"Mira"	258	2020-10-02
+"Carchi"	"Montúfar"	357	2020-10-02
+"Carchi"	"San Pedro de Huaca"	134	2020-10-02
+"Carchi"	"Tulcán"	1530	2020-10-02
+"Carchi"	"Bolivar"	183	2020-10-03
+"Carchi"	"Espejo"	240	2020-10-03
+"Carchi"	"Mira"	260	2020-10-03
+"Carchi"	"Montúfar"	360	2020-10-03
+"Carchi"	"San Pedro de Huaca"	134	2020-10-03
+"Carchi"	"Tulcán"	1541	2020-10-03
+"Carchi"	"Bolivar"	183	2020-10-04
+"Carchi"	"Espejo"	245	2020-10-04
+"Carchi"	"Mira"	261	2020-10-04
+"Carchi"	"Montúfar"	360	2020-10-04
+"Carchi"	"San Pedro de Huaca"	138	2020-10-04
+"Carchi"	"Tulcán"	1548	2020-10-04
+"Carchi"	"Bolivar"	183	2020-10-05
+"Carchi"	"Espejo"	245	2020-10-05
+"Carchi"	"Mira"	261	2020-10-05
+"Carchi"	"Montúfar"	360	2020-10-05
+"Carchi"	"San Pedro de Huaca"	138	2020-10-05
+"Carchi"	"Tulcán"	1548	2020-10-05
+"Carchi"	"Bolivar"	183	2020-10-06
+"Carchi"	"Espejo"	246	2020-10-06
+"Carchi"	"Mira"	261	2020-10-06
+"Carchi"	"Montúfar"	363	2020-10-06
+"Carchi"	"San Pedro de Huaca"	139	2020-10-06
+"Carchi"	"Tulcán"	1566	2020-10-06
+"Carchi"	"Bolivar"	183	2020-10-07
+"Carchi"	"Espejo"	249	2020-10-07
+"Carchi"	"Mira"	263	2020-10-07
+"Carchi"	"Montúfar"	366	2020-10-07
+"Carchi"	"San Pedro de Huaca"	139	2020-10-07
+"Carchi"	"Tulcán"	1572	2020-10-07
+"Carchi"	"Bolivar"	185	2020-10-08
+"Carchi"	"Espejo"	249	2020-10-08
+"Carchi"	"Mira"	263	2020-10-08
+"Carchi"	"Montúfar"	367	2020-10-08
+"Carchi"	"San Pedro de Huaca"	139	2020-10-08
+"Carchi"	"Tulcán"	1590	2020-10-08
+"Carchi"	"Bolivar"	188	2020-10-09
+"Carchi"	"Espejo"	249	2020-10-09
+"Carchi"	"Mira"	264	2020-10-09
+"Carchi"	"Montúfar"	367	2020-10-09
+"Carchi"	"San Pedro de Huaca"	139	2020-10-09
+"Carchi"	"Tulcán"	1604	2020-10-09
+"Carchi"	"Bolivar"	188	2020-10-10
+"Carchi"	"Espejo"	250	2020-10-10
+"Carchi"	"Mira"	264	2020-10-10
+"Carchi"	"Montúfar"	370	2020-10-10
+"Carchi"	"San Pedro de Huaca"	140	2020-10-10
+"Carchi"	"Tulcán"	1605	2020-10-10
+"Carchi"	"Bolivar"	188	2020-10-11
+"Carchi"	"Espejo"	250	2020-10-11
+"Carchi"	"Mira"	264	2020-10-11
+"Carchi"	"Montúfar"	370	2020-10-11
+"Carchi"	"San Pedro de Huaca"	140	2020-10-11
+"Carchi"	"Tulcán"	1605	2020-10-11
+"Carchi"	"Bolivar"	188	2020-10-12
+"Carchi"	"Espejo"	250	2020-10-12
+"Carchi"	"Mira"	264	2020-10-12
+"Carchi"	"Montúfar"	370	2020-10-12
+"Carchi"	"San Pedro de Huaca"	140	2020-10-12
+"Carchi"	"Tulcán"	1605	2020-10-12
+"Carchi"	"Bolivar"	190	2020-10-13
+"Carchi"	"Espejo"	250	2020-10-13
+"Carchi"	"Mira"	264	2020-10-13
+"Carchi"	"Montúfar"	370	2020-10-13
+"Carchi"	"San Pedro de Huaca"	140	2020-10-13
+"Carchi"	"Tulcán"	1608	2020-10-13
+"Carchi"	"Bolivar"	191	2020-10-14
+"Carchi"	"Espejo"	250	2020-10-14
+"Carchi"	"Mira"	264	2020-10-14
+"Carchi"	"Montúfar"	370	2020-10-14
+"Carchi"	"San Pedro de Huaca"	140	2020-10-14
+"Carchi"	"Tulcán"	1614	2020-10-14
+"Carchi"	"Bolivar"	192	2020-10-15
+"Carchi"	"Espejo"	251	2020-10-15
+"Carchi"	"Mira"	265	2020-10-15
+"Carchi"	"Montúfar"	372	2020-10-15
+"Carchi"	"San Pedro de Huaca"	142	2020-10-15
+"Carchi"	"Tulcán"	1633	2020-10-15
+"Carchi"	"Bolivar"	192	2020-10-16
+"Carchi"	"Espejo"	253	2020-10-16
+"Carchi"	"Mira"	270	2020-10-16
+"Carchi"	"Montúfar"	377	2020-10-16
+"Carchi"	"San Pedro de Huaca"	142	2020-10-16
+"Carchi"	"Tulcán"	1651	2020-10-16
+"Carchi"	"Bolivar"	192	2020-10-17
+"Carchi"	"Espejo"	253	2020-10-17
+"Carchi"	"Mira"	270	2020-10-17
+"Carchi"	"Montúfar"	377	2020-10-17
+"Carchi"	"San Pedro de Huaca"	143	2020-10-17
+"Carchi"	"Tulcán"	1653	2020-10-17
+"Carchi"	"Bolivar"	192	2020-10-18
+"Carchi"	"Espejo"	260	2020-10-18
+"Carchi"	"Mira"	275	2020-10-18
+"Carchi"	"Montúfar"	378	2020-10-18
+"Carchi"	"San Pedro de Huaca"	143	2020-10-18
+"Carchi"	"Tulcán"	1660	2020-10-18
+"Carchi"	"Bolivar"	192	2020-10-19
+"Carchi"	"Espejo"	263	2020-10-19
+"Carchi"	"Mira"	275	2020-10-19
+"Carchi"	"Montúfar"	378	2020-10-19
+"Carchi"	"San Pedro de Huaca"	143	2020-10-19
+"Carchi"	"Tulcán"	1667	2020-10-19
+"Carchi"	"Bolivar"	192	2020-10-20
+"Carchi"	"Espejo"	263	2020-10-20
+"Carchi"	"Mira"	275	2020-10-20
+"Carchi"	"Montúfar"	378	2020-10-20
+"Carchi"	"San Pedro de Huaca"	143	2020-10-20
+"Carchi"	"Tulcán"	1673	2020-10-20
+"Carchi"	"Bolivar"	192	2020-10-21
+"Carchi"	"Espejo"	263	2020-10-21
+"Carchi"	"Mira"	275	2020-10-21
+"Carchi"	"Montúfar"	381	2020-10-21
+"Carchi"	"San Pedro de Huaca"	143	2020-10-21
+"Carchi"	"Tulcán"	1680	2020-10-21
+"Carchi"	"Bolivar"	192	2020-10-22
+"Carchi"	"Espejo"	263	2020-10-22
+"Carchi"	"Mira"	275	2020-10-22
+"Carchi"	"Montúfar"	384	2020-10-22
+"Carchi"	"San Pedro de Huaca"	143	2020-10-22
+"Carchi"	"Tulcán"	1680	2020-10-22
+"Carchi"	"Bolivar"	192	2020-10-23
+"Carchi"	"Espejo"	264	2020-10-23
+"Carchi"	"Mira"	275	2020-10-23
+"Carchi"	"Montúfar"	384	2020-10-23
+"Carchi"	"San Pedro de Huaca"	143	2020-10-23
+"Carchi"	"Tulcán"	1694	2020-10-23
+"Carchi"	"Bolivar"	192	2020-10-24
+"Carchi"	"Espejo"	265	2020-10-24
+"Carchi"	"Mira"	275	2020-10-24
+"Carchi"	"Montúfar"	396	2020-10-24
+"Carchi"	"San Pedro de Huaca"	143	2020-10-24
+"Carchi"	"Tulcán"	1697	2020-10-24
+"Carchi"	"Bolivar"	192	2020-10-25
+"Carchi"	"Espejo"	267	2020-10-25
+"Carchi"	"Mira"	275	2020-10-25
+"Carchi"	"Montúfar"	396	2020-10-25
+"Carchi"	"San Pedro de Huaca"	143	2020-10-25
+"Carchi"	"Tulcán"	1704	2020-10-25
+"Carchi"	"Bolivar"	192	2020-10-26
+"Carchi"	"Espejo"	267	2020-10-26
+"Carchi"	"Mira"	275	2020-10-26
+"Carchi"	"Montúfar"	396	2020-10-26
+"Carchi"	"San Pedro de Huaca"	143	2020-10-26
+"Carchi"	"Tulcán"	1704	2020-10-26
+"Carchi"	"Bolivar"	192	2020-10-27
+"Carchi"	"Espejo"	268	2020-10-27
+"Carchi"	"Mira"	275	2020-10-27
+"Carchi"	"Montúfar"	396	2020-10-27
+"Carchi"	"San Pedro de Huaca"	146	2020-10-27
+"Carchi"	"Tulcán"	1705	2020-10-27
+"Carchi"	"Bolivar"	192	2020-10-28
+"Carchi"	"Espejo"	269	2020-10-28
+"Carchi"	"Mira"	277	2020-10-28
+"Carchi"	"Montúfar"	398	2020-10-28
+"Carchi"	"San Pedro de Huaca"	147	2020-10-28
+"Carchi"	"Tulcán"	1712	2020-10-28
+"Carchi"	"Bolivar"	193	2020-10-29
+"Carchi"	"Espejo"	270	2020-10-29
+"Carchi"	"Mira"	277	2020-10-29
+"Carchi"	"Montúfar"	398	2020-10-29
+"Carchi"	"San Pedro de Huaca"	147	2020-10-29
+"Carchi"	"Tulcán"	1722	2020-10-29
+"Carchi"	"Bolivar"	193	2020-10-30
+"Carchi"	"Espejo"	270	2020-10-30
+"Carchi"	"Mira"	277	2020-10-30
+"Carchi"	"Montúfar"	400	2020-10-30
+"Carchi"	"San Pedro de Huaca"	147	2020-10-30
+"Carchi"	"Tulcán"	1742	2020-10-30
+"Carchi"	"Bolivar"	194	2020-10-31
+"Carchi"	"Espejo"	271	2020-10-31
+"Carchi"	"Mira"	277	2020-10-31
+"Carchi"	"Montúfar"	401	2020-10-31
+"Carchi"	"San Pedro de Huaca"	147	2020-10-31
+"Carchi"	"Tulcán"	1752	2020-10-31
+"Carchi"	"Bolivar"	196	2020-11-01
+"Carchi"	"Espejo"	271	2020-11-01
+"Carchi"	"Mira"	277	2020-11-01
+"Carchi"	"Montúfar"	404	2020-11-01
+"Carchi"	"San Pedro de Huaca"	148	2020-11-01
+"Carchi"	"Tulcán"	1757	2020-11-01
+"Carchi"	"Bolivar"	196	2020-11-02
+"Carchi"	"Espejo"	271	2020-11-02
+"Carchi"	"Mira"	277	2020-11-02
+"Carchi"	"Montúfar"	404	2020-11-02
+"Carchi"	"San Pedro de Huaca"	148	2020-11-02
+"Carchi"	"Tulcán"	1759	2020-11-02
+"Carchi"	"Bolivar"	196	2020-11-03
+"Carchi"	"Espejo"	271	2020-11-03
+"Carchi"	"Mira"	277	2020-11-03
+"Carchi"	"Montúfar"	407	2020-11-03
+"Carchi"	"San Pedro de Huaca"	148	2020-11-03
+"Carchi"	"Tulcán"	1759	2020-11-03
+"Carchi"	"Bolivar"	196	2020-11-04
+"Carchi"	"Espejo"	272	2020-11-04
+"Carchi"	"Mira"	277	2020-11-04
+"Carchi"	"Montúfar"	412	2020-11-04
+"Carchi"	"San Pedro de Huaca"	148	2020-11-04
+"Carchi"	"Tulcán"	1759	2020-11-04
+"Carchi"	"Bolivar"	196	2020-11-05
+"Carchi"	"Espejo"	272	2020-11-05
+"Carchi"	"Mira"	277	2020-11-05
+"Carchi"	"Montúfar"	412	2020-11-05
+"Carchi"	"San Pedro de Huaca"	148	2020-11-05
+"Carchi"	"Tulcán"	1762	2020-11-05
+"Carchi"	"Bolivar"	196	2020-11-06
+"Carchi"	"Espejo"	274	2020-11-06
+"Carchi"	"Mira"	278	2020-11-06
+"Carchi"	"Montúfar"	414	2020-11-06
+"Carchi"	"San Pedro de Huaca"	148	2020-11-06
+"Carchi"	"Tulcán"	1770	2020-11-06
+"Carchi"	"Bolivar"	196	2020-11-07
+"Carchi"	"Espejo"	278	2020-11-07
+"Carchi"	"Mira"	280	2020-11-07
+"Carchi"	"Montúfar"	418	2020-11-07
+"Carchi"	"San Pedro de Huaca"	149	2020-11-07
+"Carchi"	"Tulcán"	1771	2020-11-07
+"Carchi"	"Bolivar"	198	2020-11-08
+"Carchi"	"Espejo"	278	2020-11-08
+"Carchi"	"Mira"	283	2020-11-08
+"Carchi"	"Montúfar"	419	2020-11-08
+"Carchi"	"San Pedro de Huaca"	153	2020-11-08
+"Carchi"	"Tulcán"	1785	2020-11-08
+"Carchi"	"Bolivar"	198	2020-11-09
+"Carchi"	"Espejo"	278	2020-11-09
+"Carchi"	"Mira"	283	2020-11-09
+"Carchi"	"Montúfar"	421	2020-11-09
+"Carchi"	"San Pedro de Huaca"	153	2020-11-09
+"Carchi"	"Tulcán"	1787	2020-11-09
+"Carchi"	"Bolivar"	198	2020-11-10
+"Carchi"	"Espejo"	278	2020-11-10
+"Carchi"	"Mira"	283	2020-11-10
+"Carchi"	"Montúfar"	421	2020-11-10
+"Carchi"	"San Pedro de Huaca"	153	2020-11-10
+"Carchi"	"Tulcán"	1790	2020-11-10
+"Carchi"	"Bolivar"	198	2020-11-11
+"Carchi"	"Espejo"	278	2020-11-11
+"Carchi"	"Mira"	284	2020-11-11
+"Carchi"	"Montúfar"	424	2020-11-11
+"Carchi"	"San Pedro de Huaca"	155	2020-11-11
+"Carchi"	"Tulcán"	1794	2020-11-11
+"Carchi"	"Bolivar"	199	2020-11-12
+"Carchi"	"Espejo"	278	2020-11-12
+"Carchi"	"Mira"	284	2020-11-12
+"Carchi"	"Montúfar"	425	2020-11-12
+"Carchi"	"San Pedro de Huaca"	155	2020-11-12
+"Carchi"	"Tulcán"	1797	2020-11-12
+"Carchi"	"Bolivar"	203	2020-11-13
+"Carchi"	"Espejo"	279	2020-11-13
+"Carchi"	"Mira"	284	2020-11-13
+"Carchi"	"Montúfar"	426	2020-11-13
+"Carchi"	"San Pedro de Huaca"	155	2020-11-13
+"Carchi"	"Tulcán"	1801	2020-11-13
+"Carchi"	"Bolivar"	204	2020-11-14
+"Carchi"	"Espejo"	281	2020-11-14
+"Carchi"	"Mira"	285	2020-11-14
+"Carchi"	"Montúfar"	426	2020-11-14
+"Carchi"	"San Pedro de Huaca"	155	2020-11-14
+"Carchi"	"Tulcán"	1804	2020-11-14
+"Carchi"	"Bolivar"	204	2020-11-15
+"Carchi"	"Espejo"	281	2020-11-15
+"Carchi"	"Mira"	285	2020-11-15
+"Carchi"	"Montúfar"	427	2020-11-15
+"Carchi"	"San Pedro de Huaca"	156	2020-11-15
+"Carchi"	"Tulcán"	1805	2020-11-15
+"Carchi"	"Bolivar"	204	2020-11-16
+"Carchi"	"Espejo"	281	2020-11-16
+"Carchi"	"Mira"	285	2020-11-16
+"Carchi"	"Montúfar"	427	2020-11-16
+"Carchi"	"San Pedro de Huaca"	156	2020-11-16
+"Carchi"	"Tulcán"	1805	2020-11-16
+"Carchi"	"Bolivar"	204	2020-11-17
+"Carchi"	"Espejo"	281	2020-11-17
+"Carchi"	"Mira"	285	2020-11-17
+"Carchi"	"Montúfar"	428	2020-11-17
+"Carchi"	"San Pedro de Huaca"	156	2020-11-17
+"Carchi"	"Tulcán"	1805	2020-11-17
+"Carchi"	"Bolivar"	204	2020-11-18
+"Carchi"	"Espejo"	284	2020-11-18
+"Carchi"	"Mira"	285	2020-11-18
+"Carchi"	"Montúfar"	431	2020-11-18
+"Carchi"	"San Pedro de Huaca"	162	2020-11-18
+"Carchi"	"Tulcán"	1809	2020-11-18
+"Carchi"	"Bolivar"	204	2020-11-19
+"Carchi"	"Espejo"	284	2020-11-19
+"Carchi"	"Mira"	286	2020-11-19
+"Carchi"	"Montúfar"	431	2020-11-19
+"Carchi"	"San Pedro de Huaca"	162	2020-11-19
+"Carchi"	"Tulcán"	1814	2020-11-19
+"Carchi"	"Bolivar"	204	2020-11-20
+"Carchi"	"Espejo"	284	2020-11-20
+"Carchi"	"Mira"	287	2020-11-20
+"Carchi"	"Montúfar"	431	2020-11-20
+"Carchi"	"San Pedro de Huaca"	165	2020-11-20
+"Carchi"	"Tulcán"	1824	2020-11-20
+"Carchi"	"Bolivar"	204	2020-11-21
+"Carchi"	"Espejo"	284	2020-11-21
+"Carchi"	"Mira"	287	2020-11-21
+"Carchi"	"Montúfar"	434	2020-11-21
+"Carchi"	"San Pedro de Huaca"	169	2020-11-21
+"Carchi"	"Tulcán"	1833	2020-11-21
+"Carchi"	"Bolivar"	204	2020-11-22
+"Carchi"	"Espejo"	284	2020-11-22
+"Carchi"	"Mira"	288	2020-11-22
+"Carchi"	"Montúfar"	434	2020-11-22
+"Carchi"	"San Pedro de Huaca"	169	2020-11-22
+"Carchi"	"Tulcán"	1833	2020-11-22
+"Carchi"	"Bolivar"	204	2020-11-23
+"Carchi"	"Espejo"	284	2020-11-23
+"Carchi"	"Mira"	288	2020-11-23
+"Carchi"	"Montúfar"	436	2020-11-23
+"Carchi"	"San Pedro de Huaca"	169	2020-11-23
+"Carchi"	"Tulcán"	1834	2020-11-23
+"Carchi"	"Bolivar"	204	2020-11-24
+"Carchi"	"Espejo"	284	2020-11-24
+"Carchi"	"Mira"	288	2020-11-24
+"Carchi"	"Montúfar"	441	2020-11-24
+"Carchi"	"San Pedro de Huaca"	169	2020-11-24
+"Carchi"	"Tulcán"	1836	2020-11-24
+"Carchi"	"Bolivar"	204	2020-11-25
+"Carchi"	"Espejo"	284	2020-11-25
+"Carchi"	"Mira"	288	2020-11-25
+"Carchi"	"Montúfar"	442	2020-11-25
+"Carchi"	"San Pedro de Huaca"	169	2020-11-25
+"Carchi"	"Tulcán"	1838	2020-11-25
+"Carchi"	"Bolivar"	204	2020-11-26
+"Carchi"	"Espejo"	285	2020-11-26
+"Carchi"	"Mira"	290	2020-11-26
+"Carchi"	"Montúfar"	444	2020-11-26
+"Carchi"	"San Pedro de Huaca"	169	2020-11-26
+"Carchi"	"Tulcán"	1848	2020-11-26
+"Carchi"	"Bolivar"	204	2020-11-27
+"Carchi"	"Espejo"	285	2020-11-27
+"Carchi"	"Mira"	292	2020-11-27
+"Carchi"	"Montúfar"	447	2020-11-27
+"Carchi"	"San Pedro de Huaca"	169	2020-11-27
+"Carchi"	"Tulcán"	1866	2020-11-27
+"Carchi"	"Bolivar"	205	2020-11-28
+"Carchi"	"Espejo"	286	2020-11-28
+"Carchi"	"Mira"	293	2020-11-28
+"Carchi"	"Montúfar"	449	2020-11-28
+"Carchi"	"San Pedro de Huaca"	170	2020-11-28
+"Carchi"	"Tulcán"	1871	2020-11-28
+"Carchi"	"Bolivar"	205	2020-11-29
+"Carchi"	"Espejo"	286	2020-11-29
+"Carchi"	"Mira"	293	2020-11-29
+"Carchi"	"Montúfar"	450	2020-11-29
+"Carchi"	"San Pedro de Huaca"	171	2020-11-29
+"Carchi"	"Tulcán"	1879	2020-11-29
+"Carchi"	"Bolivar"	205	2020-11-30
+"Carchi"	"Espejo"	286	2020-11-30
+"Carchi"	"Mira"	293	2020-11-30
+"Carchi"	"Montúfar"	450	2020-11-30
+"Carchi"	"San Pedro de Huaca"	172	2020-11-30
+"Carchi"	"Tulcán"	1883	2020-11-30
+"Carchi"	"Bolivar"	205	2020-12-01
+"Carchi"	"Espejo"	286	2020-12-01
+"Carchi"	"Mira"	293	2020-12-01
+"Carchi"	"Montúfar"	453	2020-12-01
+"Carchi"	"San Pedro de Huaca"	174	2020-12-01
+"Carchi"	"Tulcán"	1885	2020-12-01
+"Carchi"	"Bolivar"	205	2020-12-02
+"Carchi"	"Espejo"	286	2020-12-02
+"Carchi"	"Mira"	298	2020-12-02
+"Carchi"	"Montúfar"	453	2020-12-02
+"Carchi"	"San Pedro de Huaca"	174	2020-12-02
+"Carchi"	"Tulcán"	1890	2020-12-02
+"Carchi"	"Bolivar"	205	2020-12-03
+"Carchi"	"Espejo"	286	2020-12-03
+"Carchi"	"Mira"	298	2020-12-03
+"Carchi"	"Montúfar"	455	2020-12-03
+"Carchi"	"San Pedro de Huaca"	174	2020-12-03
+"Carchi"	"Tulcán"	1902	2020-12-03
+"Carchi"	"Bolivar"	205	2020-12-04
+"Carchi"	"Espejo"	286	2020-12-04
+"Carchi"	"Mira"	298	2020-12-04
+"Carchi"	"Montúfar"	455	2020-12-04
+"Carchi"	"San Pedro de Huaca"	174	2020-12-04
+"Carchi"	"Tulcán"	1907	2020-12-04
+"Carchi"	"Bolivar"	207	2020-12-05
+"Carchi"	"Espejo"	287	2020-12-05
+"Carchi"	"Mira"	299	2020-12-05
+"Carchi"	"Montúfar"	455	2020-12-05
+"Carchi"	"San Pedro de Huaca"	174	2020-12-05
+"Carchi"	"Tulcán"	1919	2020-12-05
+"Carchi"	"Bolivar"	207	2020-12-06
+"Carchi"	"Espejo"	287	2020-12-06
+"Carchi"	"Mira"	301	2020-12-06
+"Carchi"	"Montúfar"	455	2020-12-06
+"Carchi"	"San Pedro de Huaca"	174	2020-12-06
+"Carchi"	"Tulcán"	1922	2020-12-06
+"Carchi"	"Bolivar"	207	2020-12-07
+"Carchi"	"Espejo"	287	2020-12-07
+"Carchi"	"Mira"	301	2020-12-07
+"Carchi"	"Montúfar"	455	2020-12-07
+"Carchi"	"San Pedro de Huaca"	174	2020-12-07
+"Carchi"	"Tulcán"	1922	2020-12-07
+"Carchi"	"Bolivar"	208	2020-12-08
+"Carchi"	"Espejo"	287	2020-12-08
+"Carchi"	"Mira"	301	2020-12-08
+"Carchi"	"Montúfar"	455	2020-12-08
+"Carchi"	"San Pedro de Huaca"	174	2020-12-08
+"Carchi"	"Tulcán"	1926	2020-12-08
+"Carchi"	"Bolivar"	208	2020-12-09
+"Carchi"	"Espejo"	289	2020-12-09
+"Carchi"	"Mira"	303	2020-12-09
+"Carchi"	"Montúfar"	457	2020-12-09
+"Carchi"	"San Pedro de Huaca"	179	2020-12-09
+"Carchi"	"Tulcán"	1936	2020-12-09
+"Carchi"	"Bolivar"	208	2020-12-10
+"Carchi"	"Espejo"	289	2020-12-10
+"Carchi"	"Mira"	304	2020-12-10
+"Carchi"	"Montúfar"	458	2020-12-10
+"Carchi"	"San Pedro de Huaca"	179	2020-12-10
+"Carchi"	"Tulcán"	1942	2020-12-10
+"Carchi"	"Bolivar"	209	2020-12-11
+"Carchi"	"Espejo"	289	2020-12-11
+"Carchi"	"Mira"	304	2020-12-11
+"Carchi"	"Montúfar"	458	2020-12-11
+"Carchi"	"San Pedro de Huaca"	179	2020-12-11
+"Carchi"	"Tulcán"	1948	2020-12-11
+"Carchi"	"Bolivar"	209	2020-12-12
+"Carchi"	"Espejo"	290	2020-12-12
+"Carchi"	"Mira"	304	2020-12-12
+"Carchi"	"Montúfar"	458	2020-12-12
+"Carchi"	"San Pedro de Huaca"	179	2020-12-12
+"Carchi"	"Tulcán"	1952	2020-12-12
+"Carchi"	"Bolivar"	209	2020-12-13
+"Carchi"	"Espejo"	290	2020-12-13
+"Carchi"	"Mira"	304	2020-12-13
+"Carchi"	"Montúfar"	458	2020-12-13
+"Carchi"	"San Pedro de Huaca"	179	2020-12-13
+"Carchi"	"Tulcán"	1958	2020-12-13
+"Carchi"	"Bolivar"	209	2020-12-14
+"Carchi"	"Espejo"	290	2020-12-14
+"Carchi"	"Mira"	304	2020-12-14
+"Carchi"	"Montúfar"	459	2020-12-14
+"Carchi"	"San Pedro de Huaca"	179	2020-12-14
+"Carchi"	"Tulcán"	1958	2020-12-14
+"Carchi"	"Bolivar"	209	2020-12-15
+"Carchi"	"Espejo"	290	2020-12-15
+"Carchi"	"Mira"	304	2020-12-15
+"Carchi"	"Montúfar"	459	2020-12-15
+"Carchi"	"San Pedro de Huaca"	179	2020-12-15
+"Carchi"	"Tulcán"	1958	2020-12-15
+"Carchi"	"Bolivar"	215	2020-12-16
+"Carchi"	"Espejo"	290	2020-12-16
+"Carchi"	"Mira"	311	2020-12-16
+"Carchi"	"Montúfar"	461	2020-12-16
+"Carchi"	"San Pedro de Huaca"	185	2020-12-16
+"Carchi"	"Tulcán"	1968	2020-12-16
+"Carchi"	"Bolivar"	215	2020-12-17
+"Carchi"	"Espejo"	291	2020-12-17
+"Carchi"	"Mira"	311	2020-12-17
+"Carchi"	"Montúfar"	462	2020-12-17
+"Carchi"	"San Pedro de Huaca"	186	2020-12-17
+"Carchi"	"Tulcán"	1971	2020-12-17
+"Carchi"	"Bolivar"	215	2020-12-18
+"Carchi"	"Espejo"	300	2020-12-18
+"Carchi"	"Mira"	312	2020-12-18
+"Carchi"	"Montúfar"	464	2020-12-18
+"Carchi"	"San Pedro de Huaca"	188	2020-12-18
+"Carchi"	"Tulcán"	1973	2020-12-18
+"Carchi"	"Bolivar"	216	2020-12-19
+"Carchi"	"Espejo"	300	2020-12-19
+"Carchi"	"Mira"	315	2020-12-19
+"Carchi"	"Montúfar"	465	2020-12-19
+"Carchi"	"San Pedro de Huaca"	190	2020-12-19
+"Carchi"	"Tulcán"	1978	2020-12-19
+"Carchi"	"Bolivar"	218	2020-12-20
+"Carchi"	"Espejo"	300	2020-12-20
+"Carchi"	"Mira"	315	2020-12-20
+"Carchi"	"Montúfar"	467	2020-12-20
+"Carchi"	"San Pedro de Huaca"	190	2020-12-20
+"Carchi"	"Tulcán"	1979	2020-12-20
+"Carchi"	"Bolivar"	218	2020-12-21
+"Carchi"	"Espejo"	300	2020-12-21
+"Carchi"	"Mira"	315	2020-12-21
+"Carchi"	"Montúfar"	467	2020-12-21
+"Carchi"	"San Pedro de Huaca"	190	2020-12-21
+"Carchi"	"Tulcán"	1980	2020-12-21
+"Carchi"	"Bolivar"	218	2020-12-22
+"Carchi"	"Espejo"	300	2020-12-22
+"Carchi"	"Mira"	315	2020-12-22
+"Carchi"	"Montúfar"	467	2020-12-22
+"Carchi"	"San Pedro de Huaca"	190	2020-12-22
+"Carchi"	"Tulcán"	1980	2020-12-22
+"Carchi"	"Bolivar"	221	2020-12-23
+"Carchi"	"Espejo"	301	2020-12-23
+"Carchi"	"Mira"	320	2020-12-23
+"Carchi"	"Montúfar"	468	2020-12-23
+"Carchi"	"San Pedro de Huaca"	190	2020-12-23
+"Carchi"	"Tulcán"	2001	2020-12-23
+"Carchi"	"Bolivar"	222	2020-12-24
+"Carchi"	"Espejo"	301	2020-12-24
+"Carchi"	"Mira"	321	2020-12-24
+"Carchi"	"Montúfar"	471	2020-12-24
+"Carchi"	"San Pedro de Huaca"	191	2020-12-24
+"Carchi"	"Tulcán"	2012	2020-12-24
+"Carchi"	"Bolivar"	223	2020-12-25
+"Carchi"	"Espejo"	301	2020-12-25
+"Carchi"	"Mira"	327	2020-12-25
+"Carchi"	"Montúfar"	476	2020-12-25
+"Carchi"	"San Pedro de Huaca"	191	2020-12-25
+"Carchi"	"Tulcán"	2024	2020-12-25
+"Carchi"	"Bolivar"	230	2020-12-26
+"Carchi"	"Espejo"	301	2020-12-26
+"Carchi"	"Mira"	331	2020-12-26
+"Carchi"	"Montúfar"	482	2020-12-26
+"Carchi"	"San Pedro de Huaca"	194	2020-12-26
+"Carchi"	"Tulcán"	2027	2020-12-26
+"Carchi"	"Bolivar"	230	2020-12-27
+"Carchi"	"Espejo"	301	2020-12-27
+"Carchi"	"Mira"	332	2020-12-27
+"Carchi"	"Montúfar"	482	2020-12-27
+"Carchi"	"San Pedro de Huaca"	194	2020-12-27
+"Carchi"	"Tulcán"	2029	2020-12-27
+"Carchi"	"Bolivar"	230	2020-12-28
+"Carchi"	"Espejo"	301	2020-12-28
+"Carchi"	"Mira"	335	2020-12-28
+"Carchi"	"Montúfar"	484	2020-12-28
+"Carchi"	"San Pedro de Huaca"	195	2020-12-28
+"Carchi"	"Tulcán"	2038	2020-12-28
+"Carchi"	"Bolivar"	230	2020-12-29
+"Carchi"	"Espejo"	301	2020-12-29
+"Carchi"	"Mira"	335	2020-12-29
+"Carchi"	"Montúfar"	486	2020-12-29
+"Carchi"	"San Pedro de Huaca"	195	2020-12-29
+"Carchi"	"Tulcán"	2043	2020-12-29
+"Carchi"	"Bolivar"	231	2020-12-30
+"Carchi"	"Espejo"	302	2020-12-30
+"Carchi"	"Mira"	337	2020-12-30
+"Carchi"	"Montúfar"	488	2020-12-30
+"Carchi"	"San Pedro de Huaca"	198	2020-12-30
+"Carchi"	"Tulcán"	2052	2020-12-30
+"Carchi"	"Bolivar"	231	2020-12-31
+"Carchi"	"Espejo"	304	2020-12-31
+"Carchi"	"Mira"	338	2020-12-31
+"Carchi"	"Montúfar"	488	2020-12-31
+"Carchi"	"San Pedro de Huaca"	198	2020-12-31
+"Carchi"	"Tulcán"	2070	2020-12-31
 "Carchi"	"Bolivar"	234	2021-01-01
 "Carchi"	"Espejo"	310	2021-01-01
 "Carchi"	"Mira"	348	2021-01-01
@@ -2843,3 +4607,51 @@
 "Carchi"	"Montúfar"	2304	2022-04-19
 "Carchi"	"San Pedro de Huaca"	697	2022-04-19
 "Carchi"	"Tulcán"	7056	2022-04-19
+"Carchi"	"Bolivar"	970	2022-04-20
+"Carchi"	"Espejo"	1032	2022-04-20
+"Carchi"	"Mira"	1108	2022-04-20
+"Carchi"	"Montúfar"	2304	2022-04-20
+"Carchi"	"San Pedro de Huaca"	697	2022-04-20
+"Carchi"	"Tulcán"	7056	2022-04-20
+"Carchi"	"Bolivar"	970	2022-04-21
+"Carchi"	"Espejo"	1032	2022-04-21
+"Carchi"	"Mira"	1108	2022-04-21
+"Carchi"	"Montúfar"	2304	2022-04-21
+"Carchi"	"San Pedro de Huaca"	697	2022-04-21
+"Carchi"	"Tulcán"	7056	2022-04-21
+"Carchi"	"Bolivar"	970	2022-04-22
+"Carchi"	"Espejo"	1032	2022-04-22
+"Carchi"	"Mira"	1108	2022-04-22
+"Carchi"	"Montúfar"	2304	2022-04-22
+"Carchi"	"San Pedro de Huaca"	697	2022-04-22
+"Carchi"	"Tulcán"	7058	2022-04-22
+"Carchi"	"Bolivar"	970	2022-04-23
+"Carchi"	"Espejo"	1032	2022-04-23
+"Carchi"	"Mira"	1108	2022-04-23
+"Carchi"	"Montúfar"	2304	2022-04-23
+"Carchi"	"San Pedro de Huaca"	697	2022-04-23
+"Carchi"	"Tulcán"	7058	2022-04-23
+"Carchi"	"Bolivar"	970	2022-04-24
+"Carchi"	"Espejo"	1032	2022-04-24
+"Carchi"	"Mira"	1108	2022-04-24
+"Carchi"	"Montúfar"	2304	2022-04-24
+"Carchi"	"San Pedro de Huaca"	697	2022-04-24
+"Carchi"	"Tulcán"	7058	2022-04-24
+"Carchi"	"Bolivar"	970	2022-04-25
+"Carchi"	"Espejo"	1032	2022-04-25
+"Carchi"	"Mira"	1108	2022-04-25
+"Carchi"	"Montúfar"	2304	2022-04-25
+"Carchi"	"San Pedro de Huaca"	697	2022-04-25
+"Carchi"	"Tulcán"	7058	2022-04-25
+"Carchi"	"Bolivar"	970	2022-04-26
+"Carchi"	"Espejo"	1032	2022-04-26
+"Carchi"	"Mira"	1109	2022-04-26
+"Carchi"	"Montúfar"	2305	2022-04-26
+"Carchi"	"San Pedro de Huaca"	697	2022-04-26
+"Carchi"	"Tulcán"	7060	2022-04-26
+"Carchi"	"Bolivar"	970	2022-04-27
+"Carchi"	"Espejo"	1032	2022-04-27
+"Carchi"	"Mira"	1109	2022-04-27
+"Carchi"	"Montúfar"	2305	2022-04-27
+"Carchi"	"San Pedro de Huaca"	697	2022-04-27
+"Carchi"	"Tulcán"	7062	2022-04-27

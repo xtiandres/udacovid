@@ -1,4 +1,4120 @@
 "provincia"	"canton"	"total"	"created_at"
+"El Oro"	"Arenillas"	0	2020-03-13
+"El Oro"	"Atahualpa"	0	2020-03-13
+"El Oro"	"Balsas"	0	2020-03-13
+"El Oro"	"Chilla"	0	2020-03-13
+"El Oro"	"El Guabo"	0	2020-03-13
+"El Oro"	"Huaquillas"	0	2020-03-13
+"El Oro"	"Las Lajas"	0	2020-03-13
+"El Oro"	"Machala"	0	2020-03-13
+"El Oro"	"Marcabelí"	0	2020-03-13
+"El Oro"	"Pasaje"	0	2020-03-13
+"El Oro"	"Piñas"	0	2020-03-13
+"El Oro"	"Portovelo"	0	2020-03-13
+"El Oro"	"Santa Rosa"	0	2020-03-13
+"El Oro"	"Zaruma"	0	2020-03-13
+"El Oro"	"Arenillas"	0	2020-03-14
+"El Oro"	"Atahualpa"	0	2020-03-14
+"El Oro"	"Balsas"	0	2020-03-14
+"El Oro"	"Chilla"	0	2020-03-14
+"El Oro"	"El Guabo"	0	2020-03-14
+"El Oro"	"Huaquillas"	0	2020-03-14
+"El Oro"	"Las Lajas"	0	2020-03-14
+"El Oro"	"Machala"	0	2020-03-14
+"El Oro"	"Marcabelí"	0	2020-03-14
+"El Oro"	"Pasaje"	0	2020-03-14
+"El Oro"	"Piñas"	0	2020-03-14
+"El Oro"	"Portovelo"	0	2020-03-14
+"El Oro"	"Santa Rosa"	0	2020-03-14
+"El Oro"	"Zaruma"	0	2020-03-14
+"El Oro"	"Arenillas"	0	2020-03-15
+"El Oro"	"Atahualpa"	0	2020-03-15
+"El Oro"	"Balsas"	0	2020-03-15
+"El Oro"	"Chilla"	0	2020-03-15
+"El Oro"	"El Guabo"	0	2020-03-15
+"El Oro"	"Huaquillas"	0	2020-03-15
+"El Oro"	"Las Lajas"	0	2020-03-15
+"El Oro"	"Machala"	0	2020-03-15
+"El Oro"	"Marcabelí"	0	2020-03-15
+"El Oro"	"Pasaje"	0	2020-03-15
+"El Oro"	"Piñas"	0	2020-03-15
+"El Oro"	"Portovelo"	0	2020-03-15
+"El Oro"	"Santa Rosa"	0	2020-03-15
+"El Oro"	"Zaruma"	0	2020-03-15
+"El Oro"	"Arenillas"	0	2020-03-16
+"El Oro"	"Atahualpa"	0	2020-03-16
+"El Oro"	"Balsas"	0	2020-03-16
+"El Oro"	"Chilla"	0	2020-03-16
+"El Oro"	"El Guabo"	0	2020-03-16
+"El Oro"	"Huaquillas"	0	2020-03-16
+"El Oro"	"Las Lajas"	0	2020-03-16
+"El Oro"	"Machala"	0	2020-03-16
+"El Oro"	"Marcabelí"	0	2020-03-16
+"El Oro"	"Pasaje"	0	2020-03-16
+"El Oro"	"Piñas"	0	2020-03-16
+"El Oro"	"Portovelo"	0	2020-03-16
+"El Oro"	"Santa Rosa"	0	2020-03-16
+"El Oro"	"Zaruma"	0	2020-03-16
+"El Oro"	"Arenillas"	0	2020-03-17
+"El Oro"	"Atahualpa"	0	2020-03-17
+"El Oro"	"Balsas"	0	2020-03-17
+"El Oro"	"Chilla"	0	2020-03-17
+"El Oro"	"El Guabo"	0	2020-03-17
+"El Oro"	"Huaquillas"	0	2020-03-17
+"El Oro"	"Las Lajas"	0	2020-03-17
+"El Oro"	"Machala"	1	2020-03-17
+"El Oro"	"Marcabelí"	0	2020-03-17
+"El Oro"	"Pasaje"	0	2020-03-17
+"El Oro"	"Piñas"	0	2020-03-17
+"El Oro"	"Portovelo"	0	2020-03-17
+"El Oro"	"Santa Rosa"	0	2020-03-17
+"El Oro"	"Zaruma"	0	2020-03-17
+"El Oro"	"Arenillas"	0	2020-03-18
+"El Oro"	"Atahualpa"	0	2020-03-18
+"El Oro"	"Balsas"	0	2020-03-18
+"El Oro"	"Chilla"	0	2020-03-18
+"El Oro"	"El Guabo"	0	2020-03-18
+"El Oro"	"Huaquillas"	0	2020-03-18
+"El Oro"	"Las Lajas"	0	2020-03-18
+"El Oro"	"Machala"	1	2020-03-18
+"El Oro"	"Marcabelí"	0	2020-03-18
+"El Oro"	"Pasaje"	0	2020-03-18
+"El Oro"	"Piñas"	0	2020-03-18
+"El Oro"	"Portovelo"	0	2020-03-18
+"El Oro"	"Santa Rosa"	0	2020-03-18
+"El Oro"	"Zaruma"	0	2020-03-18
+"El Oro"	"Arenillas"	0	2020-03-19
+"El Oro"	"Atahualpa"	0	2020-03-19
+"El Oro"	"Balsas"	0	2020-03-19
+"El Oro"	"Chilla"	0	2020-03-19
+"El Oro"	"El Guabo"	0	2020-03-19
+"El Oro"	"Huaquillas"	0	2020-03-19
+"El Oro"	"Las Lajas"	0	2020-03-19
+"El Oro"	"Machala"	1	2020-03-19
+"El Oro"	"Marcabelí"	0	2020-03-19
+"El Oro"	"Pasaje"	0	2020-03-19
+"El Oro"	"Piñas"	0	2020-03-19
+"El Oro"	"Portovelo"	0	2020-03-19
+"El Oro"	"Santa Rosa"	0	2020-03-19
+"El Oro"	"Zaruma"	0	2020-03-19
+"El Oro"	"Arenillas"	0	2020-03-20
+"El Oro"	"Atahualpa"	0	2020-03-20
+"El Oro"	"Balsas"	0	2020-03-20
+"El Oro"	"Chilla"	0	2020-03-20
+"El Oro"	"El Guabo"	0	2020-03-20
+"El Oro"	"Huaquillas"	0	2020-03-20
+"El Oro"	"Las Lajas"	0	2020-03-20
+"El Oro"	"Machala"	1	2020-03-20
+"El Oro"	"Marcabelí"	0	2020-03-20
+"El Oro"	"Pasaje"	0	2020-03-20
+"El Oro"	"Piñas"	0	2020-03-20
+"El Oro"	"Portovelo"	0	2020-03-20
+"El Oro"	"Santa Rosa"	1	2020-03-20
+"El Oro"	"Zaruma"	0	2020-03-20
+"El Oro"	"Arenillas"	0	2020-03-21
+"El Oro"	"Atahualpa"	0	2020-03-21
+"El Oro"	"Balsas"	0	2020-03-21
+"El Oro"	"Chilla"	0	2020-03-21
+"El Oro"	"El Guabo"	0	2020-03-21
+"El Oro"	"Huaquillas"	0	2020-03-21
+"El Oro"	"Las Lajas"	0	2020-03-21
+"El Oro"	"Machala"	1	2020-03-21
+"El Oro"	"Marcabelí"	0	2020-03-21
+"El Oro"	"Pasaje"	0	2020-03-21
+"El Oro"	"Piñas"	0	2020-03-21
+"El Oro"	"Portovelo"	0	2020-03-21
+"El Oro"	"Santa Rosa"	1	2020-03-21
+"El Oro"	"Zaruma"	0	2020-03-21
+"El Oro"	"Arenillas"	0	2020-03-22
+"El Oro"	"Atahualpa"	0	2020-03-22
+"El Oro"	"Balsas"	0	2020-03-22
+"El Oro"	"Chilla"	0	2020-03-22
+"El Oro"	"El Guabo"	0	2020-03-22
+"El Oro"	"Huaquillas"	2	2020-03-22
+"El Oro"	"Las Lajas"	0	2020-03-22
+"El Oro"	"Machala"	1	2020-03-22
+"El Oro"	"Marcabelí"	0	2020-03-22
+"El Oro"	"Pasaje"	0	2020-03-22
+"El Oro"	"Piñas"	0	2020-03-22
+"El Oro"	"Portovelo"	0	2020-03-22
+"El Oro"	"Santa Rosa"	3	2020-03-22
+"El Oro"	"Zaruma"	0	2020-03-22
+"El Oro"	"Arenillas"	1	2020-03-23
+"El Oro"	"Atahualpa"	0	2020-03-23
+"El Oro"	"Balsas"	0	2020-03-23
+"El Oro"	"Chilla"	0	2020-03-23
+"El Oro"	"El Guabo"	0	2020-03-23
+"El Oro"	"Huaquillas"	2	2020-03-23
+"El Oro"	"Las Lajas"	0	2020-03-23
+"El Oro"	"Machala"	2	2020-03-23
+"El Oro"	"Marcabelí"	0	2020-03-23
+"El Oro"	"Pasaje"	0	2020-03-23
+"El Oro"	"Piñas"	0	2020-03-23
+"El Oro"	"Portovelo"	0	2020-03-23
+"El Oro"	"Santa Rosa"	4	2020-03-23
+"El Oro"	"Zaruma"	0	2020-03-23
+"El Oro"	"Arenillas"	1	2020-03-24
+"El Oro"	"Atahualpa"	1	2020-03-24
+"El Oro"	"Balsas"	0	2020-03-24
+"El Oro"	"Chilla"	0	2020-03-24
+"El Oro"	"El Guabo"	0	2020-03-24
+"El Oro"	"Huaquillas"	2	2020-03-24
+"El Oro"	"Las Lajas"	0	2020-03-24
+"El Oro"	"Machala"	5	2020-03-24
+"El Oro"	"Marcabelí"	0	2020-03-24
+"El Oro"	"Pasaje"	0	2020-03-24
+"El Oro"	"Piñas"	0	2020-03-24
+"El Oro"	"Portovelo"	0	2020-03-24
+"El Oro"	"Santa Rosa"	5	2020-03-24
+"El Oro"	"Zaruma"	0	2020-03-24
+"El Oro"	"Arenillas"	1	2020-03-25
+"El Oro"	"Atahualpa"	1	2020-03-25
+"El Oro"	"Balsas"	0	2020-03-25
+"El Oro"	"Chilla"	0	2020-03-25
+"El Oro"	"El Guabo"	0	2020-03-25
+"El Oro"	"Huaquillas"	2	2020-03-25
+"El Oro"	"Las Lajas"	0	2020-03-25
+"El Oro"	"Machala"	5	2020-03-25
+"El Oro"	"Marcabelí"	0	2020-03-25
+"El Oro"	"Pasaje"	0	2020-03-25
+"El Oro"	"Piñas"	0	2020-03-25
+"El Oro"	"Portovelo"	0	2020-03-25
+"El Oro"	"Santa Rosa"	8	2020-03-25
+"El Oro"	"Zaruma"	0	2020-03-25
+"El Oro"	"Arenillas"	1	2020-03-26
+"El Oro"	"Atahualpa"	1	2020-03-26
+"El Oro"	"Balsas"	0	2020-03-26
+"El Oro"	"Chilla"	0	2020-03-26
+"El Oro"	"El Guabo"	0	2020-03-26
+"El Oro"	"Huaquillas"	3	2020-03-26
+"El Oro"	"Las Lajas"	0	2020-03-26
+"El Oro"	"Machala"	7	2020-03-26
+"El Oro"	"Marcabelí"	0	2020-03-26
+"El Oro"	"Pasaje"	0	2020-03-26
+"El Oro"	"Piñas"	0	2020-03-26
+"El Oro"	"Portovelo"	0	2020-03-26
+"El Oro"	"Santa Rosa"	8	2020-03-26
+"El Oro"	"Zaruma"	0	2020-03-26
+"El Oro"	"Arenillas"	2	2020-03-27
+"El Oro"	"Atahualpa"	1	2020-03-27
+"El Oro"	"Balsas"	0	2020-03-27
+"El Oro"	"Chilla"	0	2020-03-27
+"El Oro"	"El Guabo"	1	2020-03-27
+"El Oro"	"Huaquillas"	2	2020-03-27
+"El Oro"	"Las Lajas"	0	2020-03-27
+"El Oro"	"Machala"	7	2020-03-27
+"El Oro"	"Marcabelí"	0	2020-03-27
+"El Oro"	"Pasaje"	0	2020-03-27
+"El Oro"	"Piñas"	0	2020-03-27
+"El Oro"	"Portovelo"	0	2020-03-27
+"El Oro"	"Santa Rosa"	8	2020-03-27
+"El Oro"	"Zaruma"	0	2020-03-27
+"El Oro"	"Arenillas"	2	2020-03-28
+"El Oro"	"Atahualpa"	1	2020-03-28
+"El Oro"	"Balsas"	0	2020-03-28
+"El Oro"	"Chilla"	0	2020-03-28
+"El Oro"	"El Guabo"	1	2020-03-28
+"El Oro"	"Huaquillas"	2	2020-03-28
+"El Oro"	"Las Lajas"	0	2020-03-28
+"El Oro"	"Machala"	8	2020-03-28
+"El Oro"	"Marcabelí"	0	2020-03-28
+"El Oro"	"Pasaje"	1	2020-03-28
+"El Oro"	"Piñas"	0	2020-03-28
+"El Oro"	"Portovelo"	0	2020-03-28
+"El Oro"	"Santa Rosa"	8	2020-03-28
+"El Oro"	"Zaruma"	0	2020-03-28
+"El Oro"	"Arenillas"	2	2020-03-29
+"El Oro"	"Atahualpa"	1	2020-03-29
+"El Oro"	"Balsas"	0	2020-03-29
+"El Oro"	"Chilla"	0	2020-03-29
+"El Oro"	"El Guabo"	1	2020-03-29
+"El Oro"	"Huaquillas"	3	2020-03-29
+"El Oro"	"Las Lajas"	0	2020-03-29
+"El Oro"	"Machala"	8	2020-03-29
+"El Oro"	"Marcabelí"	0	2020-03-29
+"El Oro"	"Pasaje"	1	2020-03-29
+"El Oro"	"Piñas"	0	2020-03-29
+"El Oro"	"Portovelo"	0	2020-03-29
+"El Oro"	"Santa Rosa"	8	2020-03-29
+"El Oro"	"Zaruma"	1	2020-03-29
+"El Oro"	"Arenillas"	2	2020-03-30
+"El Oro"	"Atahualpa"	1	2020-03-30
+"El Oro"	"Balsas"	0	2020-03-30
+"El Oro"	"Chilla"	0	2020-03-30
+"El Oro"	"El Guabo"	2	2020-03-30
+"El Oro"	"Huaquillas"	3	2020-03-30
+"El Oro"	"Las Lajas"	0	2020-03-30
+"El Oro"	"Machala"	9	2020-03-30
+"El Oro"	"Marcabelí"	0	2020-03-30
+"El Oro"	"Pasaje"	2	2020-03-30
+"El Oro"	"Piñas"	1	2020-03-30
+"El Oro"	"Portovelo"	0	2020-03-30
+"El Oro"	"Santa Rosa"	9	2020-03-30
+"El Oro"	"Zaruma"	1	2020-03-30
+"El Oro"	"Arenillas"	2	2020-03-31
+"El Oro"	"Atahualpa"	1	2020-03-31
+"El Oro"	"Balsas"	0	2020-03-31
+"El Oro"	"Chilla"	0	2020-03-31
+"El Oro"	"El Guabo"	2	2020-03-31
+"El Oro"	"Huaquillas"	3	2020-03-31
+"El Oro"	"Las Lajas"	0	2020-03-31
+"El Oro"	"Machala"	10	2020-03-31
+"El Oro"	"Marcabelí"	0	2020-03-31
+"El Oro"	"Pasaje"	2	2020-03-31
+"El Oro"	"Piñas"	2	2020-03-31
+"El Oro"	"Portovelo"	1	2020-03-31
+"El Oro"	"Santa Rosa"	10	2020-03-31
+"El Oro"	"Zaruma"	1	2020-03-31
+"El Oro"	"Arenillas"	2	2020-04-01
+"El Oro"	"Atahualpa"	1	2020-04-01
+"El Oro"	"Balsas"	0	2020-04-01
+"El Oro"	"Chilla"	0	2020-04-01
+"El Oro"	"El Guabo"	2	2020-04-01
+"El Oro"	"Huaquillas"	3	2020-04-01
+"El Oro"	"Las Lajas"	0	2020-04-01
+"El Oro"	"Machala"	19	2020-04-01
+"El Oro"	"Marcabelí"	0	2020-04-01
+"El Oro"	"Pasaje"	3	2020-04-01
+"El Oro"	"Piñas"	2	2020-04-01
+"El Oro"	"Portovelo"	1	2020-04-01
+"El Oro"	"Santa Rosa"	18	2020-04-01
+"El Oro"	"Zaruma"	1	2020-04-01
+"El Oro"	"Arenillas"	2	2020-04-02
+"El Oro"	"Atahualpa"	1	2020-04-02
+"El Oro"	"Balsas"	0	2020-04-02
+"El Oro"	"Chilla"	0	2020-04-02
+"El Oro"	"El Guabo"	2	2020-04-02
+"El Oro"	"Huaquillas"	4	2020-04-02
+"El Oro"	"Las Lajas"	0	2020-04-02
+"El Oro"	"Machala"	21	2020-04-02
+"El Oro"	"Marcabelí"	0	2020-04-02
+"El Oro"	"Pasaje"	3	2020-04-02
+"El Oro"	"Piñas"	2	2020-04-02
+"El Oro"	"Portovelo"	1	2020-04-02
+"El Oro"	"Santa Rosa"	19	2020-04-02
+"El Oro"	"Zaruma"	1	2020-04-02
+"El Oro"	"Arenillas"	2	2020-04-03
+"El Oro"	"Atahualpa"	1	2020-04-03
+"El Oro"	"Balsas"	0	2020-04-03
+"El Oro"	"Chilla"	0	2020-04-03
+"El Oro"	"El Guabo"	2	2020-04-03
+"El Oro"	"Huaquillas"	4	2020-04-03
+"El Oro"	"Las Lajas"	0	2020-04-03
+"El Oro"	"Machala"	21	2020-04-03
+"El Oro"	"Marcabelí"	0	2020-04-03
+"El Oro"	"Pasaje"	3	2020-04-03
+"El Oro"	"Piñas"	2	2020-04-03
+"El Oro"	"Portovelo"	1	2020-04-03
+"El Oro"	"Santa Rosa"	19	2020-04-03
+"El Oro"	"Zaruma"	1	2020-04-03
+"El Oro"	"Arenillas"	2	2020-04-04
+"El Oro"	"Atahualpa"	1	2020-04-04
+"El Oro"	"Balsas"	0	2020-04-04
+"El Oro"	"Chilla"	0	2020-04-04
+"El Oro"	"El Guabo"	2	2020-04-04
+"El Oro"	"Huaquillas"	4	2020-04-04
+"El Oro"	"Las Lajas"	0	2020-04-04
+"El Oro"	"Machala"	21	2020-04-04
+"El Oro"	"Marcabelí"	0	2020-04-04
+"El Oro"	"Pasaje"	3	2020-04-04
+"El Oro"	"Piñas"	2	2020-04-04
+"El Oro"	"Portovelo"	1	2020-04-04
+"El Oro"	"Santa Rosa"	19	2020-04-04
+"El Oro"	"Zaruma"	1	2020-04-04
+"El Oro"	"Arenillas"	2	2020-04-05
+"El Oro"	"Atahualpa"	1	2020-04-05
+"El Oro"	"Balsas"	0	2020-04-05
+"El Oro"	"Chilla"	0	2020-04-05
+"El Oro"	"El Guabo"	2	2020-04-05
+"El Oro"	"Huaquillas"	4	2020-04-05
+"El Oro"	"Las Lajas"	0	2020-04-05
+"El Oro"	"Machala"	21	2020-04-05
+"El Oro"	"Marcabelí"	0	2020-04-05
+"El Oro"	"Pasaje"	3	2020-04-05
+"El Oro"	"Piñas"	2	2020-04-05
+"El Oro"	"Portovelo"	1	2020-04-05
+"El Oro"	"Santa Rosa"	19	2020-04-05
+"El Oro"	"Zaruma"	1	2020-04-05
+"El Oro"	"Arenillas"	2	2020-04-06
+"El Oro"	"Atahualpa"	1	2020-04-06
+"El Oro"	"Balsas"	0	2020-04-06
+"El Oro"	"Chilla"	0	2020-04-06
+"El Oro"	"El Guabo"	2	2020-04-06
+"El Oro"	"Huaquillas"	4	2020-04-06
+"El Oro"	"Las Lajas"	0	2020-04-06
+"El Oro"	"Machala"	23	2020-04-06
+"El Oro"	"Marcabelí"	0	2020-04-06
+"El Oro"	"Pasaje"	3	2020-04-06
+"El Oro"	"Piñas"	2	2020-04-06
+"El Oro"	"Portovelo"	1	2020-04-06
+"El Oro"	"Santa Rosa"	19	2020-04-06
+"El Oro"	"Zaruma"	1	2020-04-06
+"El Oro"	"Arenillas"	2	2020-04-07
+"El Oro"	"Atahualpa"	1	2020-04-07
+"El Oro"	"Balsas"	0	2020-04-07
+"El Oro"	"Chilla"	0	2020-04-07
+"El Oro"	"El Guabo"	2	2020-04-07
+"El Oro"	"Huaquillas"	4	2020-04-07
+"El Oro"	"Las Lajas"	0	2020-04-07
+"El Oro"	"Machala"	23	2020-04-07
+"El Oro"	"Marcabelí"	0	2020-04-07
+"El Oro"	"Pasaje"	3	2020-04-07
+"El Oro"	"Piñas"	2	2020-04-07
+"El Oro"	"Portovelo"	1	2020-04-07
+"El Oro"	"Santa Rosa"	19	2020-04-07
+"El Oro"	"Zaruma"	1	2020-04-07
+"El Oro"	"Arenillas"	2	2020-04-08
+"El Oro"	"Atahualpa"	1	2020-04-08
+"El Oro"	"Balsas"	0	2020-04-08
+"El Oro"	"Chilla"	0	2020-04-08
+"El Oro"	"El Guabo"	2	2020-04-08
+"El Oro"	"Huaquillas"	5	2020-04-08
+"El Oro"	"Las Lajas"	1	2020-04-08
+"El Oro"	"Machala"	37	2020-04-08
+"El Oro"	"Marcabelí"	0	2020-04-08
+"El Oro"	"Pasaje"	3	2020-04-08
+"El Oro"	"Piñas"	2	2020-04-08
+"El Oro"	"Portovelo"	1	2020-04-08
+"El Oro"	"Santa Rosa"	27	2020-04-08
+"El Oro"	"Zaruma"	1	2020-04-08
+"El Oro"	"Arenillas"	2	2020-04-09
+"El Oro"	"Atahualpa"	2	2020-04-09
+"El Oro"	"Balsas"	0	2020-04-09
+"El Oro"	"Chilla"	0	2020-04-09
+"El Oro"	"El Guabo"	4	2020-04-09
+"El Oro"	"Huaquillas"	5	2020-04-09
+"El Oro"	"Las Lajas"	1	2020-04-09
+"El Oro"	"Machala"	44	2020-04-09
+"El Oro"	"Marcabelí"	0	2020-04-09
+"El Oro"	"Pasaje"	4	2020-04-09
+"El Oro"	"Piñas"	3	2020-04-09
+"El Oro"	"Portovelo"	1	2020-04-09
+"El Oro"	"Santa Rosa"	30	2020-04-09
+"El Oro"	"Zaruma"	1	2020-04-09
+"El Oro"	"Arenillas"	5	2020-04-10
+"El Oro"	"Atahualpa"	2	2020-04-10
+"El Oro"	"Balsas"	0	2020-04-10
+"El Oro"	"Chilla"	0	2020-04-10
+"El Oro"	"El Guabo"	9	2020-04-10
+"El Oro"	"Huaquillas"	10	2020-04-10
+"El Oro"	"Las Lajas"	1	2020-04-10
+"El Oro"	"Machala"	58	2020-04-10
+"El Oro"	"Marcabelí"	0	2020-04-10
+"El Oro"	"Pasaje"	10	2020-04-10
+"El Oro"	"Piñas"	4	2020-04-10
+"El Oro"	"Portovelo"	4	2020-04-10
+"El Oro"	"Santa Rosa"	33	2020-04-10
+"El Oro"	"Zaruma"	1	2020-04-10
+"El Oro"	"Arenillas"	5	2020-04-11
+"El Oro"	"Atahualpa"	2	2020-04-11
+"El Oro"	"Balsas"	0	2020-04-11
+"El Oro"	"Chilla"	0	2020-04-11
+"El Oro"	"El Guabo"	8	2020-04-11
+"El Oro"	"Huaquillas"	10	2020-04-11
+"El Oro"	"Las Lajas"	1	2020-04-11
+"El Oro"	"Machala"	67	2020-04-11
+"El Oro"	"Marcabelí"	0	2020-04-11
+"El Oro"	"Pasaje"	10	2020-04-11
+"El Oro"	"Piñas"	4	2020-04-11
+"El Oro"	"Portovelo"	4	2020-04-11
+"El Oro"	"Santa Rosa"	37	2020-04-11
+"El Oro"	"Zaruma"	1	2020-04-11
+"El Oro"	"Arenillas"	6	2020-04-12
+"El Oro"	"Atahualpa"	2	2020-04-12
+"El Oro"	"Balsas"	0	2020-04-12
+"El Oro"	"Chilla"	0	2020-04-12
+"El Oro"	"El Guabo"	8	2020-04-12
+"El Oro"	"Huaquillas"	10	2020-04-12
+"El Oro"	"Las Lajas"	1	2020-04-12
+"El Oro"	"Machala"	67	2020-04-12
+"El Oro"	"Marcabelí"	0	2020-04-12
+"El Oro"	"Pasaje"	10	2020-04-12
+"El Oro"	"Piñas"	4	2020-04-12
+"El Oro"	"Portovelo"	4	2020-04-12
+"El Oro"	"Santa Rosa"	37	2020-04-12
+"El Oro"	"Zaruma"	1	2020-04-12
+"El Oro"	"Arenillas"	6	2020-04-13
+"El Oro"	"Atahualpa"	2	2020-04-13
+"El Oro"	"Balsas"	0	2020-04-13
+"El Oro"	"Chilla"	0	2020-04-13
+"El Oro"	"El Guabo"	9	2020-04-13
+"El Oro"	"Huaquillas"	10	2020-04-13
+"El Oro"	"Las Lajas"	1	2020-04-13
+"El Oro"	"Machala"	71	2020-04-13
+"El Oro"	"Marcabelí"	0	2020-04-13
+"El Oro"	"Pasaje"	10	2020-04-13
+"El Oro"	"Piñas"	4	2020-04-13
+"El Oro"	"Portovelo"	4	2020-04-13
+"El Oro"	"Santa Rosa"	42	2020-04-13
+"El Oro"	"Zaruma"	1	2020-04-13
+"El Oro"	"Arenillas"	6	2020-04-14
+"El Oro"	"Atahualpa"	2	2020-04-14
+"El Oro"	"Balsas"	0	2020-04-14
+"El Oro"	"Chilla"	0	2020-04-14
+"El Oro"	"El Guabo"	10	2020-04-14
+"El Oro"	"Huaquillas"	10	2020-04-14
+"El Oro"	"Las Lajas"	1	2020-04-14
+"El Oro"	"Machala"	74	2020-04-14
+"El Oro"	"Marcabelí"	0	2020-04-14
+"El Oro"	"Pasaje"	12	2020-04-14
+"El Oro"	"Piñas"	4	2020-04-14
+"El Oro"	"Portovelo"	4	2020-04-14
+"El Oro"	"Santa Rosa"	42	2020-04-14
+"El Oro"	"Zaruma"	1	2020-04-14
+"El Oro"	"Arenillas"	6	2020-04-15
+"El Oro"	"Atahualpa"	2	2020-04-15
+"El Oro"	"Balsas"	0	2020-04-15
+"El Oro"	"Chilla"	0	2020-04-15
+"El Oro"	"El Guabo"	11	2020-04-15
+"El Oro"	"Huaquillas"	10	2020-04-15
+"El Oro"	"Las Lajas"	1	2020-04-15
+"El Oro"	"Machala"	81	2020-04-15
+"El Oro"	"Marcabelí"	0	2020-04-15
+"El Oro"	"Pasaje"	13	2020-04-15
+"El Oro"	"Piñas"	5	2020-04-15
+"El Oro"	"Portovelo"	8	2020-04-15
+"El Oro"	"Santa Rosa"	44	2020-04-15
+"El Oro"	"Zaruma"	2	2020-04-15
+"El Oro"	"Arenillas"	6	2020-04-16
+"El Oro"	"Atahualpa"	2	2020-04-16
+"El Oro"	"Balsas"	0	2020-04-16
+"El Oro"	"Chilla"	0	2020-04-16
+"El Oro"	"El Guabo"	11	2020-04-16
+"El Oro"	"Huaquillas"	10	2020-04-16
+"El Oro"	"Las Lajas"	1	2020-04-16
+"El Oro"	"Machala"	91	2020-04-16
+"El Oro"	"Marcabelí"	0	2020-04-16
+"El Oro"	"Pasaje"	13	2020-04-16
+"El Oro"	"Piñas"	5	2020-04-16
+"El Oro"	"Portovelo"	8	2020-04-16
+"El Oro"	"Santa Rosa"	44	2020-04-16
+"El Oro"	"Zaruma"	2	2020-04-16
+"El Oro"	"Arenillas"	9	2020-04-17
+"El Oro"	"Atahualpa"	2	2020-04-17
+"El Oro"	"Balsas"	0	2020-04-17
+"El Oro"	"Chilla"	0	2020-04-17
+"El Oro"	"El Guabo"	11	2020-04-17
+"El Oro"	"Huaquillas"	14	2020-04-17
+"El Oro"	"Las Lajas"	1	2020-04-17
+"El Oro"	"Machala"	94	2020-04-17
+"El Oro"	"Marcabelí"	0	2020-04-17
+"El Oro"	"Pasaje"	13	2020-04-17
+"El Oro"	"Piñas"	5	2020-04-17
+"El Oro"	"Portovelo"	10	2020-04-17
+"El Oro"	"Santa Rosa"	46	2020-04-17
+"El Oro"	"Zaruma"	2	2020-04-17
+"El Oro"	"Arenillas"	11	2020-04-18
+"El Oro"	"Atahualpa"	2	2020-04-18
+"El Oro"	"Balsas"	0	2020-04-18
+"El Oro"	"Chilla"	0	2020-04-18
+"El Oro"	"El Guabo"	15	2020-04-18
+"El Oro"	"Huaquillas"	18	2020-04-18
+"El Oro"	"Las Lajas"	1	2020-04-18
+"El Oro"	"Machala"	113	2020-04-18
+"El Oro"	"Marcabelí"	0	2020-04-18
+"El Oro"	"Pasaje"	16	2020-04-18
+"El Oro"	"Piñas"	11	2020-04-18
+"El Oro"	"Portovelo"	10	2020-04-18
+"El Oro"	"Santa Rosa"	48	2020-04-18
+"El Oro"	"Zaruma"	2	2020-04-18
+"El Oro"	"Arenillas"	11	2020-04-19
+"El Oro"	"Atahualpa"	2	2020-04-19
+"El Oro"	"Balsas"	0	2020-04-19
+"El Oro"	"Chilla"	0	2020-04-19
+"El Oro"	"El Guabo"	15	2020-04-19
+"El Oro"	"Huaquillas"	18	2020-04-19
+"El Oro"	"Las Lajas"	1	2020-04-19
+"El Oro"	"Machala"	121	2020-04-19
+"El Oro"	"Marcabelí"	0	2020-04-19
+"El Oro"	"Pasaje"	17	2020-04-19
+"El Oro"	"Piñas"	11	2020-04-19
+"El Oro"	"Portovelo"	10	2020-04-19
+"El Oro"	"Santa Rosa"	49	2020-04-19
+"El Oro"	"Zaruma"	2	2020-04-19
+"El Oro"	"Arenillas"	11	2020-04-20
+"El Oro"	"Atahualpa"	2	2020-04-20
+"El Oro"	"Balsas"	0	2020-04-20
+"El Oro"	"Chilla"	0	2020-04-20
+"El Oro"	"El Guabo"	15	2020-04-20
+"El Oro"	"Huaquillas"	19	2020-04-20
+"El Oro"	"Las Lajas"	1	2020-04-20
+"El Oro"	"Machala"	127	2020-04-20
+"El Oro"	"Marcabelí"	0	2020-04-20
+"El Oro"	"Pasaje"	18	2020-04-20
+"El Oro"	"Piñas"	11	2020-04-20
+"El Oro"	"Portovelo"	10	2020-04-20
+"El Oro"	"Santa Rosa"	50	2020-04-20
+"El Oro"	"Zaruma"	2	2020-04-20
+"El Oro"	"Arenillas"	11	2020-04-21
+"El Oro"	"Atahualpa"	2	2020-04-21
+"El Oro"	"Balsas"	0	2020-04-21
+"El Oro"	"Chilla"	0	2020-04-21
+"El Oro"	"El Guabo"	15	2020-04-21
+"El Oro"	"Huaquillas"	19	2020-04-21
+"El Oro"	"Las Lajas"	1	2020-04-21
+"El Oro"	"Machala"	133	2020-04-21
+"El Oro"	"Marcabelí"	0	2020-04-21
+"El Oro"	"Pasaje"	18	2020-04-21
+"El Oro"	"Piñas"	11	2020-04-21
+"El Oro"	"Portovelo"	10	2020-04-21
+"El Oro"	"Santa Rosa"	54	2020-04-21
+"El Oro"	"Zaruma"	2	2020-04-21
+"El Oro"	"Arenillas"	12	2020-04-22
+"El Oro"	"Atahualpa"	2	2020-04-22
+"El Oro"	"Balsas"	0	2020-04-22
+"El Oro"	"Chilla"	0	2020-04-22
+"El Oro"	"El Guabo"	16	2020-04-22
+"El Oro"	"Huaquillas"	23	2020-04-22
+"El Oro"	"Las Lajas"	1	2020-04-22
+"El Oro"	"Machala"	138	2020-04-22
+"El Oro"	"Marcabelí"	0	2020-04-22
+"El Oro"	"Pasaje"	20	2020-04-22
+"El Oro"	"Piñas"	11	2020-04-22
+"El Oro"	"Portovelo"	10	2020-04-22
+"El Oro"	"Santa Rosa"	54	2020-04-22
+"El Oro"	"Zaruma"	2	2020-04-22
+"El Oro"	"Arenillas"	12	2020-04-23
+"El Oro"	"Atahualpa"	2	2020-04-23
+"El Oro"	"Balsas"	0	2020-04-23
+"El Oro"	"Chilla"	0	2020-04-23
+"El Oro"	"El Guabo"	17	2020-04-23
+"El Oro"	"Huaquillas"	23	2020-04-23
+"El Oro"	"Las Lajas"	1	2020-04-23
+"El Oro"	"Machala"	147	2020-04-23
+"El Oro"	"Marcabelí"	0	2020-04-23
+"El Oro"	"Pasaje"	21	2020-04-23
+"El Oro"	"Piñas"	11	2020-04-23
+"El Oro"	"Portovelo"	10	2020-04-23
+"El Oro"	"Santa Rosa"	54	2020-04-23
+"El Oro"	"Zaruma"	2	2020-04-23
+"El Oro"	"Arenillas"	12	2020-04-24
+"El Oro"	"Atahualpa"	2	2020-04-24
+"El Oro"	"Balsas"	0	2020-04-24
+"El Oro"	"Chilla"	0	2020-04-24
+"El Oro"	"El Guabo"	17	2020-04-24
+"El Oro"	"Huaquillas"	23	2020-04-24
+"El Oro"	"Las Lajas"	1	2020-04-24
+"El Oro"	"Machala"	147	2020-04-24
+"El Oro"	"Marcabelí"	0	2020-04-24
+"El Oro"	"Pasaje"	21	2020-04-24
+"El Oro"	"Piñas"	11	2020-04-24
+"El Oro"	"Portovelo"	10	2020-04-24
+"El Oro"	"Santa Rosa"	54	2020-04-24
+"El Oro"	"Zaruma"	2	2020-04-24
+"El Oro"	"Arenillas"	12	2020-04-25
+"El Oro"	"Atahualpa"	2	2020-04-25
+"El Oro"	"Balsas"	0	2020-04-25
+"El Oro"	"Chilla"	0	2020-04-25
+"El Oro"	"El Guabo"	17	2020-04-25
+"El Oro"	"Huaquillas"	23	2020-04-25
+"El Oro"	"Las Lajas"	1	2020-04-25
+"El Oro"	"Machala"	147	2020-04-25
+"El Oro"	"Marcabelí"	0	2020-04-25
+"El Oro"	"Pasaje"	21	2020-04-25
+"El Oro"	"Piñas"	11	2020-04-25
+"El Oro"	"Portovelo"	10	2020-04-25
+"El Oro"	"Santa Rosa"	54	2020-04-25
+"El Oro"	"Zaruma"	2	2020-04-25
+"El Oro"	"Arenillas"	12	2020-04-26
+"El Oro"	"Atahualpa"	2	2020-04-26
+"El Oro"	"Balsas"	0	2020-04-26
+"El Oro"	"Chilla"	0	2020-04-26
+"El Oro"	"El Guabo"	17	2020-04-26
+"El Oro"	"Huaquillas"	23	2020-04-26
+"El Oro"	"Las Lajas"	1	2020-04-26
+"El Oro"	"Machala"	147	2020-04-26
+"El Oro"	"Marcabelí"	0	2020-04-26
+"El Oro"	"Pasaje"	21	2020-04-26
+"El Oro"	"Piñas"	11	2020-04-26
+"El Oro"	"Portovelo"	10	2020-04-26
+"El Oro"	"Santa Rosa"	54	2020-04-26
+"El Oro"	"Zaruma"	2	2020-04-26
+"El Oro"	"Arenillas"	12	2020-04-27
+"El Oro"	"Atahualpa"	2	2020-04-27
+"El Oro"	"Balsas"	0	2020-04-27
+"El Oro"	"Chilla"	0	2020-04-27
+"El Oro"	"El Guabo"	17	2020-04-27
+"El Oro"	"Huaquillas"	23	2020-04-27
+"El Oro"	"Las Lajas"	1	2020-04-27
+"El Oro"	"Machala"	147	2020-04-27
+"El Oro"	"Marcabelí"	0	2020-04-27
+"El Oro"	"Pasaje"	21	2020-04-27
+"El Oro"	"Piñas"	11	2020-04-27
+"El Oro"	"Portovelo"	10	2020-04-27
+"El Oro"	"Santa Rosa"	54	2020-04-27
+"El Oro"	"Zaruma"	2	2020-04-27
+"El Oro"	"Arenillas"	25	2020-04-28
+"El Oro"	"Atahualpa"	2	2020-04-28
+"El Oro"	"Balsas"	0	2020-04-28
+"El Oro"	"Chilla"	0	2020-04-28
+"El Oro"	"El Guabo"	19	2020-04-28
+"El Oro"	"Huaquillas"	37	2020-04-28
+"El Oro"	"Las Lajas"	3	2020-04-28
+"El Oro"	"Machala"	216	2020-04-28
+"El Oro"	"Marcabelí"	0	2020-04-28
+"El Oro"	"Pasaje"	29	2020-04-28
+"El Oro"	"Piñas"	19	2020-04-28
+"El Oro"	"Portovelo"	11	2020-04-28
+"El Oro"	"Santa Rosa"	85	2020-04-28
+"El Oro"	"Zaruma"	2	2020-04-28
+"El Oro"	"Arenillas"	25	2020-04-29
+"El Oro"	"Atahualpa"	2	2020-04-29
+"El Oro"	"Balsas"	0	2020-04-29
+"El Oro"	"Chilla"	0	2020-04-29
+"El Oro"	"El Guabo"	19	2020-04-29
+"El Oro"	"Huaquillas"	38	2020-04-29
+"El Oro"	"Las Lajas"	3	2020-04-29
+"El Oro"	"Machala"	217	2020-04-29
+"El Oro"	"Marcabelí"	0	2020-04-29
+"El Oro"	"Pasaje"	29	2020-04-29
+"El Oro"	"Piñas"	25	2020-04-29
+"El Oro"	"Portovelo"	11	2020-04-29
+"El Oro"	"Santa Rosa"	86	2020-04-29
+"El Oro"	"Zaruma"	2	2020-04-29
+"El Oro"	"Arenillas"	25	2020-04-30
+"El Oro"	"Atahualpa"	2	2020-04-30
+"El Oro"	"Balsas"	0	2020-04-30
+"El Oro"	"Chilla"	0	2020-04-30
+"El Oro"	"El Guabo"	21	2020-04-30
+"El Oro"	"Huaquillas"	39	2020-04-30
+"El Oro"	"Las Lajas"	3	2020-04-30
+"El Oro"	"Machala"	224	2020-04-30
+"El Oro"	"Marcabelí"	0	2020-04-30
+"El Oro"	"Pasaje"	31	2020-04-30
+"El Oro"	"Piñas"	25	2020-04-30
+"El Oro"	"Portovelo"	12	2020-04-30
+"El Oro"	"Santa Rosa"	90	2020-04-30
+"El Oro"	"Zaruma"	2	2020-04-30
+"El Oro"	"Arenillas"	25	2020-05-01
+"El Oro"	"Atahualpa"	2	2020-05-01
+"El Oro"	"Balsas"	0	2020-05-01
+"El Oro"	"Chilla"	0	2020-05-01
+"El Oro"	"El Guabo"	23	2020-05-01
+"El Oro"	"Huaquillas"	39	2020-05-01
+"El Oro"	"Las Lajas"	3	2020-05-01
+"El Oro"	"Machala"	274	2020-05-01
+"El Oro"	"Marcabelí"	0	2020-05-01
+"El Oro"	"Pasaje"	32	2020-05-01
+"El Oro"	"Piñas"	33	2020-05-01
+"El Oro"	"Portovelo"	17	2020-05-01
+"El Oro"	"Santa Rosa"	109	2020-05-01
+"El Oro"	"Zaruma"	2	2020-05-01
+"El Oro"	"Arenillas"	25	2020-05-02
+"El Oro"	"Atahualpa"	2	2020-05-02
+"El Oro"	"Balsas"	0	2020-05-02
+"El Oro"	"Chilla"	0	2020-05-02
+"El Oro"	"El Guabo"	23	2020-05-02
+"El Oro"	"Huaquillas"	41	2020-05-02
+"El Oro"	"Las Lajas"	3	2020-05-02
+"El Oro"	"Machala"	286	2020-05-02
+"El Oro"	"Marcabelí"	0	2020-05-02
+"El Oro"	"Pasaje"	33	2020-05-02
+"El Oro"	"Piñas"	32	2020-05-02
+"El Oro"	"Portovelo"	18	2020-05-02
+"El Oro"	"Santa Rosa"	110	2020-05-02
+"El Oro"	"Zaruma"	2	2020-05-02
+"El Oro"	"Arenillas"	28	2020-05-03
+"El Oro"	"Atahualpa"	3	2020-05-03
+"El Oro"	"Balsas"	0	2020-05-03
+"El Oro"	"Chilla"	0	2020-05-03
+"El Oro"	"El Guabo"	22	2020-05-03
+"El Oro"	"Huaquillas"	42	2020-05-03
+"El Oro"	"Las Lajas"	3	2020-05-03
+"El Oro"	"Machala"	318	2020-05-03
+"El Oro"	"Marcabelí"	0	2020-05-03
+"El Oro"	"Pasaje"	36	2020-05-03
+"El Oro"	"Piñas"	32	2020-05-03
+"El Oro"	"Portovelo"	21	2020-05-03
+"El Oro"	"Santa Rosa"	117	2020-05-03
+"El Oro"	"Zaruma"	2	2020-05-03
+"El Oro"	"Arenillas"	31	2020-05-04
+"El Oro"	"Atahualpa"	3	2020-05-04
+"El Oro"	"Balsas"	0	2020-05-04
+"El Oro"	"Chilla"	0	2020-05-04
+"El Oro"	"El Guabo"	22	2020-05-04
+"El Oro"	"Huaquillas"	45	2020-05-04
+"El Oro"	"Las Lajas"	3	2020-05-04
+"El Oro"	"Machala"	330	2020-05-04
+"El Oro"	"Marcabelí"	0	2020-05-04
+"El Oro"	"Pasaje"	36	2020-05-04
+"El Oro"	"Piñas"	31	2020-05-04
+"El Oro"	"Portovelo"	20	2020-05-04
+"El Oro"	"Santa Rosa"	120	2020-05-04
+"El Oro"	"Zaruma"	2	2020-05-04
+"El Oro"	"Arenillas"	31	2020-05-05
+"El Oro"	"Atahualpa"	3	2020-05-05
+"El Oro"	"Balsas"	0	2020-05-05
+"El Oro"	"Chilla"	0	2020-05-05
+"El Oro"	"El Guabo"	22	2020-05-05
+"El Oro"	"Huaquillas"	45	2020-05-05
+"El Oro"	"Las Lajas"	3	2020-05-05
+"El Oro"	"Machala"	330	2020-05-05
+"El Oro"	"Marcabelí"	0	2020-05-05
+"El Oro"	"Pasaje"	36	2020-05-05
+"El Oro"	"Piñas"	31	2020-05-05
+"El Oro"	"Portovelo"	20	2020-05-05
+"El Oro"	"Santa Rosa"	120	2020-05-05
+"El Oro"	"Zaruma"	2	2020-05-05
+"El Oro"	"Arenillas"	25	2020-05-06
+"El Oro"	"Atahualpa"	2	2020-05-06
+"El Oro"	"Balsas"	0	2020-05-06
+"El Oro"	"Chilla"	0	2020-05-06
+"El Oro"	"El Guabo"	25	2020-05-06
+"El Oro"	"Huaquillas"	41	2020-05-06
+"El Oro"	"Las Lajas"	1	2020-05-06
+"El Oro"	"Machala"	323	2020-05-06
+"El Oro"	"Marcabelí"	0	2020-05-06
+"El Oro"	"Pasaje"	44	2020-05-06
+"El Oro"	"Piñas"	27	2020-05-06
+"El Oro"	"Portovelo"	18	2020-05-06
+"El Oro"	"Santa Rosa"	119	2020-05-06
+"El Oro"	"Zaruma"	3	2020-05-06
+"El Oro"	"Arenillas"	28	2020-05-07
+"El Oro"	"Atahualpa"	2	2020-05-07
+"El Oro"	"Balsas"	0	2020-05-07
+"El Oro"	"Chilla"	0	2020-05-07
+"El Oro"	"El Guabo"	25	2020-05-07
+"El Oro"	"Huaquillas"	45	2020-05-07
+"El Oro"	"Las Lajas"	3	2020-05-07
+"El Oro"	"Machala"	357	2020-05-07
+"El Oro"	"Marcabelí"	0	2020-05-07
+"El Oro"	"Pasaje"	39	2020-05-07
+"El Oro"	"Piñas"	27	2020-05-07
+"El Oro"	"Portovelo"	18	2020-05-07
+"El Oro"	"Santa Rosa"	126	2020-05-07
+"El Oro"	"Zaruma"	3	2020-05-07
+"El Oro"	"Arenillas"	15	2020-05-08
+"El Oro"	"Atahualpa"	3	2020-05-08
+"El Oro"	"Balsas"	0	2020-05-08
+"El Oro"	"Chilla"	0	2020-05-08
+"El Oro"	"El Guabo"	30	2020-05-08
+"El Oro"	"Huaquillas"	31	2020-05-08
+"El Oro"	"Las Lajas"	1	2020-05-08
+"El Oro"	"Machala"	331	2020-05-08
+"El Oro"	"Marcabelí"	0	2020-05-08
+"El Oro"	"Pasaje"	47	2020-05-08
+"El Oro"	"Piñas"	19	2020-05-08
+"El Oro"	"Portovelo"	17	2020-05-08
+"El Oro"	"Santa Rosa"	146	2020-05-08
+"El Oro"	"Zaruma"	12	2020-05-08
+"El Oro"	"Arenillas"	15	2020-05-09
+"El Oro"	"Atahualpa"	3	2020-05-09
+"El Oro"	"Balsas"	0	2020-05-09
+"El Oro"	"Chilla"	0	2020-05-09
+"El Oro"	"El Guabo"	32	2020-05-09
+"El Oro"	"Huaquillas"	31	2020-05-09
+"El Oro"	"Las Lajas"	1	2020-05-09
+"El Oro"	"Machala"	335	2020-05-09
+"El Oro"	"Marcabelí"	0	2020-05-09
+"El Oro"	"Pasaje"	47	2020-05-09
+"El Oro"	"Piñas"	19	2020-05-09
+"El Oro"	"Portovelo"	17	2020-05-09
+"El Oro"	"Santa Rosa"	149	2020-05-09
+"El Oro"	"Zaruma"	9	2020-05-09
+"El Oro"	"Arenillas"	15	2020-05-10
+"El Oro"	"Atahualpa"	3	2020-05-10
+"El Oro"	"Balsas"	0	2020-05-10
+"El Oro"	"Chilla"	0	2020-05-10
+"El Oro"	"El Guabo"	35	2020-05-10
+"El Oro"	"Huaquillas"	32	2020-05-10
+"El Oro"	"Las Lajas"	1	2020-05-10
+"El Oro"	"Machala"	339	2020-05-10
+"El Oro"	"Marcabelí"	0	2020-05-10
+"El Oro"	"Pasaje"	49	2020-05-10
+"El Oro"	"Piñas"	20	2020-05-10
+"El Oro"	"Portovelo"	18	2020-05-10
+"El Oro"	"Santa Rosa"	151	2020-05-10
+"El Oro"	"Zaruma"	9	2020-05-10
+"El Oro"	"Arenillas"	15	2020-05-11
+"El Oro"	"Atahualpa"	3	2020-05-11
+"El Oro"	"Balsas"	0	2020-05-11
+"El Oro"	"Chilla"	0	2020-05-11
+"El Oro"	"El Guabo"	33	2020-05-11
+"El Oro"	"Huaquillas"	31	2020-05-11
+"El Oro"	"Las Lajas"	1	2020-05-11
+"El Oro"	"Machala"	337	2020-05-11
+"El Oro"	"Marcabelí"	0	2020-05-11
+"El Oro"	"Pasaje"	47	2020-05-11
+"El Oro"	"Piñas"	19	2020-05-11
+"El Oro"	"Portovelo"	17	2020-05-11
+"El Oro"	"Santa Rosa"	152	2020-05-11
+"El Oro"	"Zaruma"	9	2020-05-11
+"El Oro"	"Arenillas"	18	2020-05-12
+"El Oro"	"Atahualpa"	3	2020-05-12
+"El Oro"	"Balsas"	0	2020-05-12
+"El Oro"	"Chilla"	0	2020-05-12
+"El Oro"	"El Guabo"	33	2020-05-12
+"El Oro"	"Huaquillas"	38	2020-05-12
+"El Oro"	"Las Lajas"	1	2020-05-12
+"El Oro"	"Machala"	368	2020-05-12
+"El Oro"	"Marcabelí"	0	2020-05-12
+"El Oro"	"Pasaje"	48	2020-05-12
+"El Oro"	"Piñas"	19	2020-05-12
+"El Oro"	"Portovelo"	17	2020-05-12
+"El Oro"	"Santa Rosa"	152	2020-05-12
+"El Oro"	"Zaruma"	10	2020-05-12
+"El Oro"	"Arenillas"	18	2020-05-13
+"El Oro"	"Atahualpa"	3	2020-05-13
+"El Oro"	"Balsas"	0	2020-05-13
+"El Oro"	"Chilla"	0	2020-05-13
+"El Oro"	"El Guabo"	34	2020-05-13
+"El Oro"	"Huaquillas"	38	2020-05-13
+"El Oro"	"Las Lajas"	1	2020-05-13
+"El Oro"	"Machala"	369	2020-05-13
+"El Oro"	"Marcabelí"	0	2020-05-13
+"El Oro"	"Pasaje"	48	2020-05-13
+"El Oro"	"Piñas"	19	2020-05-13
+"El Oro"	"Portovelo"	17	2020-05-13
+"El Oro"	"Santa Rosa"	152	2020-05-13
+"El Oro"	"Zaruma"	11	2020-05-13
+"El Oro"	"Arenillas"	18	2020-05-14
+"El Oro"	"Atahualpa"	3	2020-05-14
+"El Oro"	"Balsas"	0	2020-05-14
+"El Oro"	"Chilla"	0	2020-05-14
+"El Oro"	"El Guabo"	34	2020-05-14
+"El Oro"	"Huaquillas"	38	2020-05-14
+"El Oro"	"Las Lajas"	1	2020-05-14
+"El Oro"	"Machala"	375	2020-05-14
+"El Oro"	"Marcabelí"	0	2020-05-14
+"El Oro"	"Pasaje"	48	2020-05-14
+"El Oro"	"Piñas"	19	2020-05-14
+"El Oro"	"Portovelo"	17	2020-05-14
+"El Oro"	"Santa Rosa"	152	2020-05-14
+"El Oro"	"Zaruma"	11	2020-05-14
+"El Oro"	"Arenillas"	22	2020-05-15
+"El Oro"	"Atahualpa"	2	2020-05-15
+"El Oro"	"Balsas"	0	2020-05-15
+"El Oro"	"Chilla"	0	2020-05-15
+"El Oro"	"El Guabo"	45	2020-05-15
+"El Oro"	"Huaquillas"	41	2020-05-15
+"El Oro"	"Las Lajas"	1	2020-05-15
+"El Oro"	"Machala"	479	2020-05-15
+"El Oro"	"Marcabelí"	0	2020-05-15
+"El Oro"	"Pasaje"	49	2020-05-15
+"El Oro"	"Piñas"	17	2020-05-15
+"El Oro"	"Portovelo"	13	2020-05-15
+"El Oro"	"Santa Rosa"	157	2020-05-15
+"El Oro"	"Zaruma"	13	2020-05-15
+"El Oro"	"Arenillas"	24	2020-05-16
+"El Oro"	"Atahualpa"	2	2020-05-16
+"El Oro"	"Balsas"	0	2020-05-16
+"El Oro"	"Chilla"	0	2020-05-16
+"El Oro"	"El Guabo"	51	2020-05-16
+"El Oro"	"Huaquillas"	42	2020-05-16
+"El Oro"	"Las Lajas"	1	2020-05-16
+"El Oro"	"Machala"	510	2020-05-16
+"El Oro"	"Marcabelí"	0	2020-05-16
+"El Oro"	"Pasaje"	61	2020-05-16
+"El Oro"	"Piñas"	19	2020-05-16
+"El Oro"	"Portovelo"	19	2020-05-16
+"El Oro"	"Santa Rosa"	165	2020-05-16
+"El Oro"	"Zaruma"	13	2020-05-16
+"El Oro"	"Arenillas"	27	2020-05-17
+"El Oro"	"Atahualpa"	2	2020-05-17
+"El Oro"	"Balsas"	0	2020-05-17
+"El Oro"	"Chilla"	0	2020-05-17
+"El Oro"	"El Guabo"	52	2020-05-17
+"El Oro"	"Huaquillas"	44	2020-05-17
+"El Oro"	"Las Lajas"	2	2020-05-17
+"El Oro"	"Machala"	510	2020-05-17
+"El Oro"	"Marcabelí"	0	2020-05-17
+"El Oro"	"Pasaje"	62	2020-05-17
+"El Oro"	"Piñas"	19	2020-05-17
+"El Oro"	"Portovelo"	19	2020-05-17
+"El Oro"	"Santa Rosa"	170	2020-05-17
+"El Oro"	"Zaruma"	13	2020-05-17
+"El Oro"	"Arenillas"	27	2020-05-18
+"El Oro"	"Atahualpa"	2	2020-05-18
+"El Oro"	"Balsas"	0	2020-05-18
+"El Oro"	"Chilla"	0	2020-05-18
+"El Oro"	"El Guabo"	57	2020-05-18
+"El Oro"	"Huaquillas"	46	2020-05-18
+"El Oro"	"Las Lajas"	2	2020-05-18
+"El Oro"	"Machala"	510	2020-05-18
+"El Oro"	"Marcabelí"	0	2020-05-18
+"El Oro"	"Pasaje"	62	2020-05-18
+"El Oro"	"Piñas"	19	2020-05-18
+"El Oro"	"Portovelo"	23	2020-05-18
+"El Oro"	"Santa Rosa"	171	2020-05-18
+"El Oro"	"Zaruma"	16	2020-05-18
+"El Oro"	"Arenillas"	28	2020-05-19
+"El Oro"	"Atahualpa"	2	2020-05-19
+"El Oro"	"Balsas"	0	2020-05-19
+"El Oro"	"Chilla"	0	2020-05-19
+"El Oro"	"El Guabo"	59	2020-05-19
+"El Oro"	"Huaquillas"	46	2020-05-19
+"El Oro"	"Las Lajas"	2	2020-05-19
+"El Oro"	"Machala"	527	2020-05-19
+"El Oro"	"Marcabelí"	0	2020-05-19
+"El Oro"	"Pasaje"	62	2020-05-19
+"El Oro"	"Piñas"	20	2020-05-19
+"El Oro"	"Portovelo"	23	2020-05-19
+"El Oro"	"Santa Rosa"	174	2020-05-19
+"El Oro"	"Zaruma"	16	2020-05-19
+"El Oro"	"Arenillas"	29	2020-05-20
+"El Oro"	"Atahualpa"	2	2020-05-20
+"El Oro"	"Balsas"	0	2020-05-20
+"El Oro"	"Chilla"	0	2020-05-20
+"El Oro"	"El Guabo"	60	2020-05-20
+"El Oro"	"Huaquillas"	50	2020-05-20
+"El Oro"	"Las Lajas"	2	2020-05-20
+"El Oro"	"Machala"	536	2020-05-20
+"El Oro"	"Marcabelí"	0	2020-05-20
+"El Oro"	"Pasaje"	63	2020-05-20
+"El Oro"	"Piñas"	20	2020-05-20
+"El Oro"	"Portovelo"	23	2020-05-20
+"El Oro"	"Santa Rosa"	175	2020-05-20
+"El Oro"	"Zaruma"	16	2020-05-20
+"El Oro"	"Arenillas"	29	2020-05-21
+"El Oro"	"Atahualpa"	2	2020-05-21
+"El Oro"	"Balsas"	0	2020-05-21
+"El Oro"	"Chilla"	0	2020-05-21
+"El Oro"	"El Guabo"	60	2020-05-21
+"El Oro"	"Huaquillas"	51	2020-05-21
+"El Oro"	"Las Lajas"	2	2020-05-21
+"El Oro"	"Machala"	540	2020-05-21
+"El Oro"	"Marcabelí"	0	2020-05-21
+"El Oro"	"Pasaje"	63	2020-05-21
+"El Oro"	"Piñas"	22	2020-05-21
+"El Oro"	"Portovelo"	23	2020-05-21
+"El Oro"	"Santa Rosa"	186	2020-05-21
+"El Oro"	"Zaruma"	16	2020-05-21
+"El Oro"	"Arenillas"	30	2020-05-22
+"El Oro"	"Atahualpa"	2	2020-05-22
+"El Oro"	"Balsas"	0	2020-05-22
+"El Oro"	"Chilla"	0	2020-05-22
+"El Oro"	"El Guabo"	60	2020-05-22
+"El Oro"	"Huaquillas"	51	2020-05-22
+"El Oro"	"Las Lajas"	2	2020-05-22
+"El Oro"	"Machala"	545	2020-05-22
+"El Oro"	"Marcabelí"	0	2020-05-22
+"El Oro"	"Pasaje"	63	2020-05-22
+"El Oro"	"Piñas"	22	2020-05-22
+"El Oro"	"Portovelo"	23	2020-05-22
+"El Oro"	"Santa Rosa"	190	2020-05-22
+"El Oro"	"Zaruma"	16	2020-05-22
+"El Oro"	"Arenillas"	30	2020-05-23
+"El Oro"	"Atahualpa"	3	2020-05-23
+"El Oro"	"Balsas"	0	2020-05-23
+"El Oro"	"Chilla"	0	2020-05-23
+"El Oro"	"El Guabo"	60	2020-05-23
+"El Oro"	"Huaquillas"	53	2020-05-23
+"El Oro"	"Las Lajas"	2	2020-05-23
+"El Oro"	"Machala"	550	2020-05-23
+"El Oro"	"Marcabelí"	0	2020-05-23
+"El Oro"	"Pasaje"	63	2020-05-23
+"El Oro"	"Piñas"	23	2020-05-23
+"El Oro"	"Portovelo"	23	2020-05-23
+"El Oro"	"Santa Rosa"	193	2020-05-23
+"El Oro"	"Zaruma"	17	2020-05-23
+"El Oro"	"Arenillas"	32	2020-05-24
+"El Oro"	"Atahualpa"	3	2020-05-24
+"El Oro"	"Balsas"	0	2020-05-24
+"El Oro"	"Chilla"	0	2020-05-24
+"El Oro"	"El Guabo"	65	2020-05-24
+"El Oro"	"Huaquillas"	53	2020-05-24
+"El Oro"	"Las Lajas"	2	2020-05-24
+"El Oro"	"Machala"	551	2020-05-24
+"El Oro"	"Marcabelí"	0	2020-05-24
+"El Oro"	"Pasaje"	63	2020-05-24
+"El Oro"	"Piñas"	23	2020-05-24
+"El Oro"	"Portovelo"	23	2020-05-24
+"El Oro"	"Santa Rosa"	193	2020-05-24
+"El Oro"	"Zaruma"	17	2020-05-24
+"El Oro"	"Arenillas"	32	2020-05-25
+"El Oro"	"Atahualpa"	3	2020-05-25
+"El Oro"	"Balsas"	0	2020-05-25
+"El Oro"	"Chilla"	0	2020-05-25
+"El Oro"	"El Guabo"	65	2020-05-25
+"El Oro"	"Huaquillas"	54	2020-05-25
+"El Oro"	"Las Lajas"	2	2020-05-25
+"El Oro"	"Machala"	561	2020-05-25
+"El Oro"	"Marcabelí"	0	2020-05-25
+"El Oro"	"Pasaje"	63	2020-05-25
+"El Oro"	"Piñas"	23	2020-05-25
+"El Oro"	"Portovelo"	23	2020-05-25
+"El Oro"	"Santa Rosa"	196	2020-05-25
+"El Oro"	"Zaruma"	17	2020-05-25
+"El Oro"	"Arenillas"	32	2020-05-26
+"El Oro"	"Atahualpa"	3	2020-05-26
+"El Oro"	"Balsas"	0	2020-05-26
+"El Oro"	"Chilla"	0	2020-05-26
+"El Oro"	"El Guabo"	65	2020-05-26
+"El Oro"	"Huaquillas"	55	2020-05-26
+"El Oro"	"Las Lajas"	2	2020-05-26
+"El Oro"	"Machala"	566	2020-05-26
+"El Oro"	"Marcabelí"	0	2020-05-26
+"El Oro"	"Pasaje"	63	2020-05-26
+"El Oro"	"Piñas"	23	2020-05-26
+"El Oro"	"Portovelo"	23	2020-05-26
+"El Oro"	"Santa Rosa"	201	2020-05-26
+"El Oro"	"Zaruma"	17	2020-05-26
+"El Oro"	"Arenillas"	32	2020-05-27
+"El Oro"	"Atahualpa"	3	2020-05-27
+"El Oro"	"Balsas"	0	2020-05-27
+"El Oro"	"Chilla"	0	2020-05-27
+"El Oro"	"El Guabo"	65	2020-05-27
+"El Oro"	"Huaquillas"	55	2020-05-27
+"El Oro"	"Las Lajas"	2	2020-05-27
+"El Oro"	"Machala"	566	2020-05-27
+"El Oro"	"Marcabelí"	0	2020-05-27
+"El Oro"	"Pasaje"	63	2020-05-27
+"El Oro"	"Piñas"	23	2020-05-27
+"El Oro"	"Portovelo"	23	2020-05-27
+"El Oro"	"Santa Rosa"	201	2020-05-27
+"El Oro"	"Zaruma"	18	2020-05-27
+"El Oro"	"Arenillas"	32	2020-05-28
+"El Oro"	"Atahualpa"	3	2020-05-28
+"El Oro"	"Balsas"	0	2020-05-28
+"El Oro"	"Chilla"	0	2020-05-28
+"El Oro"	"El Guabo"	65	2020-05-28
+"El Oro"	"Huaquillas"	55	2020-05-28
+"El Oro"	"Las Lajas"	2	2020-05-28
+"El Oro"	"Machala"	577	2020-05-28
+"El Oro"	"Marcabelí"	0	2020-05-28
+"El Oro"	"Pasaje"	63	2020-05-28
+"El Oro"	"Piñas"	23	2020-05-28
+"El Oro"	"Portovelo"	23	2020-05-28
+"El Oro"	"Santa Rosa"	201	2020-05-28
+"El Oro"	"Zaruma"	18	2020-05-28
+"El Oro"	"Arenillas"	34	2020-05-29
+"El Oro"	"Atahualpa"	3	2020-05-29
+"El Oro"	"Balsas"	0	2020-05-29
+"El Oro"	"Chilla"	0	2020-05-29
+"El Oro"	"El Guabo"	65	2020-05-29
+"El Oro"	"Huaquillas"	57	2020-05-29
+"El Oro"	"Las Lajas"	2	2020-05-29
+"El Oro"	"Machala"	577	2020-05-29
+"El Oro"	"Marcabelí"	0	2020-05-29
+"El Oro"	"Pasaje"	63	2020-05-29
+"El Oro"	"Piñas"	23	2020-05-29
+"El Oro"	"Portovelo"	23	2020-05-29
+"El Oro"	"Santa Rosa"	201	2020-05-29
+"El Oro"	"Zaruma"	18	2020-05-29
+"El Oro"	"Arenillas"	35	2020-05-30
+"El Oro"	"Atahualpa"	3	2020-05-30
+"El Oro"	"Balsas"	0	2020-05-30
+"El Oro"	"Chilla"	0	2020-05-30
+"El Oro"	"El Guabo"	66	2020-05-30
+"El Oro"	"Huaquillas"	65	2020-05-30
+"El Oro"	"Las Lajas"	2	2020-05-30
+"El Oro"	"Machala"	585	2020-05-30
+"El Oro"	"Marcabelí"	0	2020-05-30
+"El Oro"	"Pasaje"	63	2020-05-30
+"El Oro"	"Piñas"	23	2020-05-30
+"El Oro"	"Portovelo"	23	2020-05-30
+"El Oro"	"Santa Rosa"	203	2020-05-30
+"El Oro"	"Zaruma"	20	2020-05-30
+"El Oro"	"Arenillas"	35	2020-05-31
+"El Oro"	"Atahualpa"	3	2020-05-31
+"El Oro"	"Balsas"	0	2020-05-31
+"El Oro"	"Chilla"	0	2020-05-31
+"El Oro"	"El Guabo"	66	2020-05-31
+"El Oro"	"Huaquillas"	65	2020-05-31
+"El Oro"	"Las Lajas"	2	2020-05-31
+"El Oro"	"Machala"	589	2020-05-31
+"El Oro"	"Marcabelí"	0	2020-05-31
+"El Oro"	"Pasaje"	63	2020-05-31
+"El Oro"	"Piñas"	23	2020-05-31
+"El Oro"	"Portovelo"	23	2020-05-31
+"El Oro"	"Santa Rosa"	205	2020-05-31
+"El Oro"	"Zaruma"	20	2020-05-31
+"El Oro"	"Arenillas"	40	2020-06-01
+"El Oro"	"Atahualpa"	3	2020-06-01
+"El Oro"	"Balsas"	0	2020-06-01
+"El Oro"	"Chilla"	0	2020-06-01
+"El Oro"	"El Guabo"	67	2020-06-01
+"El Oro"	"Huaquillas"	67	2020-06-01
+"El Oro"	"Las Lajas"	2	2020-06-01
+"El Oro"	"Machala"	640	2020-06-01
+"El Oro"	"Marcabelí"	0	2020-06-01
+"El Oro"	"Pasaje"	63	2020-06-01
+"El Oro"	"Piñas"	23	2020-06-01
+"El Oro"	"Portovelo"	32	2020-06-01
+"El Oro"	"Santa Rosa"	206	2020-06-01
+"El Oro"	"Zaruma"	24	2020-06-01
+"El Oro"	"Arenillas"	43	2020-06-02
+"El Oro"	"Atahualpa"	3	2020-06-02
+"El Oro"	"Balsas"	0	2020-06-02
+"El Oro"	"Chilla"	0	2020-06-02
+"El Oro"	"El Guabo"	67	2020-06-02
+"El Oro"	"Huaquillas"	68	2020-06-02
+"El Oro"	"Las Lajas"	2	2020-06-02
+"El Oro"	"Machala"	678	2020-06-02
+"El Oro"	"Marcabelí"	0	2020-06-02
+"El Oro"	"Pasaje"	63	2020-06-02
+"El Oro"	"Piñas"	23	2020-06-02
+"El Oro"	"Portovelo"	32	2020-06-02
+"El Oro"	"Santa Rosa"	207	2020-06-02
+"El Oro"	"Zaruma"	24	2020-06-02
+"El Oro"	"Arenillas"	43	2020-06-03
+"El Oro"	"Atahualpa"	3	2020-06-03
+"El Oro"	"Balsas"	0	2020-06-03
+"El Oro"	"Chilla"	0	2020-06-03
+"El Oro"	"El Guabo"	67	2020-06-03
+"El Oro"	"Huaquillas"	68	2020-06-03
+"El Oro"	"Las Lajas"	2	2020-06-03
+"El Oro"	"Machala"	678	2020-06-03
+"El Oro"	"Marcabelí"	0	2020-06-03
+"El Oro"	"Pasaje"	63	2020-06-03
+"El Oro"	"Piñas"	24	2020-06-03
+"El Oro"	"Portovelo"	32	2020-06-03
+"El Oro"	"Santa Rosa"	209	2020-06-03
+"El Oro"	"Zaruma"	24	2020-06-03
+"El Oro"	"Arenillas"	43	2020-06-04
+"El Oro"	"Atahualpa"	3	2020-06-04
+"El Oro"	"Balsas"	0	2020-06-04
+"El Oro"	"Chilla"	0	2020-06-04
+"El Oro"	"El Guabo"	67	2020-06-04
+"El Oro"	"Huaquillas"	68	2020-06-04
+"El Oro"	"Las Lajas"	2	2020-06-04
+"El Oro"	"Machala"	688	2020-06-04
+"El Oro"	"Marcabelí"	0	2020-06-04
+"El Oro"	"Pasaje"	63	2020-06-04
+"El Oro"	"Piñas"	24	2020-06-04
+"El Oro"	"Portovelo"	32	2020-06-04
+"El Oro"	"Santa Rosa"	209	2020-06-04
+"El Oro"	"Zaruma"	24	2020-06-04
+"El Oro"	"Arenillas"	44	2020-06-05
+"El Oro"	"Atahualpa"	3	2020-06-05
+"El Oro"	"Balsas"	0	2020-06-05
+"El Oro"	"Chilla"	0	2020-06-05
+"El Oro"	"El Guabo"	76	2020-06-05
+"El Oro"	"Huaquillas"	69	2020-06-05
+"El Oro"	"Las Lajas"	2	2020-06-05
+"El Oro"	"Machala"	716	2020-06-05
+"El Oro"	"Marcabelí"	0	2020-06-05
+"El Oro"	"Pasaje"	70	2020-06-05
+"El Oro"	"Piñas"	27	2020-06-05
+"El Oro"	"Portovelo"	32	2020-06-05
+"El Oro"	"Santa Rosa"	215	2020-06-05
+"El Oro"	"Zaruma"	24	2020-06-05
+"El Oro"	"Arenillas"	47	2020-06-06
+"El Oro"	"Atahualpa"	3	2020-06-06
+"El Oro"	"Balsas"	0	2020-06-06
+"El Oro"	"Chilla"	0	2020-06-06
+"El Oro"	"El Guabo"	77	2020-06-06
+"El Oro"	"Huaquillas"	71	2020-06-06
+"El Oro"	"Las Lajas"	2	2020-06-06
+"El Oro"	"Machala"	733	2020-06-06
+"El Oro"	"Marcabelí"	0	2020-06-06
+"El Oro"	"Pasaje"	70	2020-06-06
+"El Oro"	"Piñas"	27	2020-06-06
+"El Oro"	"Portovelo"	32	2020-06-06
+"El Oro"	"Santa Rosa"	219	2020-06-06
+"El Oro"	"Zaruma"	24	2020-06-06
+"El Oro"	"Arenillas"	49	2020-06-07
+"El Oro"	"Atahualpa"	3	2020-06-07
+"El Oro"	"Balsas"	0	2020-06-07
+"El Oro"	"Chilla"	0	2020-06-07
+"El Oro"	"El Guabo"	77	2020-06-07
+"El Oro"	"Huaquillas"	71	2020-06-07
+"El Oro"	"Las Lajas"	2	2020-06-07
+"El Oro"	"Machala"	733	2020-06-07
+"El Oro"	"Marcabelí"	0	2020-06-07
+"El Oro"	"Pasaje"	70	2020-06-07
+"El Oro"	"Piñas"	27	2020-06-07
+"El Oro"	"Portovelo"	34	2020-06-07
+"El Oro"	"Santa Rosa"	219	2020-06-07
+"El Oro"	"Zaruma"	24	2020-06-07
+"El Oro"	"Arenillas"	54	2020-06-08
+"El Oro"	"Atahualpa"	3	2020-06-08
+"El Oro"	"Balsas"	0	2020-06-08
+"El Oro"	"Chilla"	0	2020-06-08
+"El Oro"	"El Guabo"	77	2020-06-08
+"El Oro"	"Huaquillas"	77	2020-06-08
+"El Oro"	"Las Lajas"	2	2020-06-08
+"El Oro"	"Machala"	733	2020-06-08
+"El Oro"	"Marcabelí"	0	2020-06-08
+"El Oro"	"Pasaje"	70	2020-06-08
+"El Oro"	"Piñas"	27	2020-06-08
+"El Oro"	"Portovelo"	34	2020-06-08
+"El Oro"	"Santa Rosa"	219	2020-06-08
+"El Oro"	"Zaruma"	24	2020-06-08
+"El Oro"	"Arenillas"	55	2020-06-09
+"El Oro"	"Atahualpa"	3	2020-06-09
+"El Oro"	"Balsas"	0	2020-06-09
+"El Oro"	"Chilla"	0	2020-06-09
+"El Oro"	"El Guabo"	78	2020-06-09
+"El Oro"	"Huaquillas"	77	2020-06-09
+"El Oro"	"Las Lajas"	2	2020-06-09
+"El Oro"	"Machala"	733	2020-06-09
+"El Oro"	"Marcabelí"	0	2020-06-09
+"El Oro"	"Pasaje"	71	2020-06-09
+"El Oro"	"Piñas"	27	2020-06-09
+"El Oro"	"Portovelo"	34	2020-06-09
+"El Oro"	"Santa Rosa"	219	2020-06-09
+"El Oro"	"Zaruma"	24	2020-06-09
+"El Oro"	"Arenillas"	56	2020-06-10
+"El Oro"	"Atahualpa"	3	2020-06-10
+"El Oro"	"Balsas"	0	2020-06-10
+"El Oro"	"Chilla"	0	2020-06-10
+"El Oro"	"El Guabo"	78	2020-06-10
+"El Oro"	"Huaquillas"	78	2020-06-10
+"El Oro"	"Las Lajas"	2	2020-06-10
+"El Oro"	"Machala"	753	2020-06-10
+"El Oro"	"Marcabelí"	0	2020-06-10
+"El Oro"	"Pasaje"	72	2020-06-10
+"El Oro"	"Piñas"	27	2020-06-10
+"El Oro"	"Portovelo"	34	2020-06-10
+"El Oro"	"Santa Rosa"	219	2020-06-10
+"El Oro"	"Zaruma"	25	2020-06-10
+"El Oro"	"Arenillas"	57	2020-06-11
+"El Oro"	"Atahualpa"	3	2020-06-11
+"El Oro"	"Balsas"	0	2020-06-11
+"El Oro"	"Chilla"	0	2020-06-11
+"El Oro"	"El Guabo"	78	2020-06-11
+"El Oro"	"Huaquillas"	80	2020-06-11
+"El Oro"	"Las Lajas"	2	2020-06-11
+"El Oro"	"Machala"	776	2020-06-11
+"El Oro"	"Marcabelí"	0	2020-06-11
+"El Oro"	"Pasaje"	72	2020-06-11
+"El Oro"	"Piñas"	31	2020-06-11
+"El Oro"	"Portovelo"	34	2020-06-11
+"El Oro"	"Santa Rosa"	222	2020-06-11
+"El Oro"	"Zaruma"	25	2020-06-11
+"El Oro"	"Arenillas"	61	2020-06-12
+"El Oro"	"Atahualpa"	3	2020-06-12
+"El Oro"	"Balsas"	0	2020-06-12
+"El Oro"	"Chilla"	0	2020-06-12
+"El Oro"	"El Guabo"	79	2020-06-12
+"El Oro"	"Huaquillas"	92	2020-06-12
+"El Oro"	"Las Lajas"	2	2020-06-12
+"El Oro"	"Machala"	804	2020-06-12
+"El Oro"	"Marcabelí"	0	2020-06-12
+"El Oro"	"Pasaje"	79	2020-06-12
+"El Oro"	"Piñas"	35	2020-06-12
+"El Oro"	"Portovelo"	36	2020-06-12
+"El Oro"	"Santa Rosa"	225	2020-06-12
+"El Oro"	"Zaruma"	26	2020-06-12
+"El Oro"	"Arenillas"	71	2020-06-13
+"El Oro"	"Atahualpa"	3	2020-06-13
+"El Oro"	"Balsas"	0	2020-06-13
+"El Oro"	"Chilla"	0	2020-06-13
+"El Oro"	"El Guabo"	79	2020-06-13
+"El Oro"	"Huaquillas"	100	2020-06-13
+"El Oro"	"Las Lajas"	2	2020-06-13
+"El Oro"	"Machala"	831	2020-06-13
+"El Oro"	"Marcabelí"	0	2020-06-13
+"El Oro"	"Pasaje"	79	2020-06-13
+"El Oro"	"Piñas"	35	2020-06-13
+"El Oro"	"Portovelo"	36	2020-06-13
+"El Oro"	"Santa Rosa"	227	2020-06-13
+"El Oro"	"Zaruma"	26	2020-06-13
+"El Oro"	"Arenillas"	71	2020-06-14
+"El Oro"	"Atahualpa"	3	2020-06-14
+"El Oro"	"Balsas"	0	2020-06-14
+"El Oro"	"Chilla"	0	2020-06-14
+"El Oro"	"El Guabo"	81	2020-06-14
+"El Oro"	"Huaquillas"	101	2020-06-14
+"El Oro"	"Las Lajas"	2	2020-06-14
+"El Oro"	"Machala"	851	2020-06-14
+"El Oro"	"Marcabelí"	0	2020-06-14
+"El Oro"	"Pasaje"	79	2020-06-14
+"El Oro"	"Piñas"	35	2020-06-14
+"El Oro"	"Portovelo"	37	2020-06-14
+"El Oro"	"Santa Rosa"	228	2020-06-14
+"El Oro"	"Zaruma"	26	2020-06-14
+"El Oro"	"Arenillas"	71	2020-06-15
+"El Oro"	"Atahualpa"	3	2020-06-15
+"El Oro"	"Balsas"	0	2020-06-15
+"El Oro"	"Chilla"	0	2020-06-15
+"El Oro"	"El Guabo"	85	2020-06-15
+"El Oro"	"Huaquillas"	102	2020-06-15
+"El Oro"	"Las Lajas"	2	2020-06-15
+"El Oro"	"Machala"	904	2020-06-15
+"El Oro"	"Marcabelí"	0	2020-06-15
+"El Oro"	"Pasaje"	80	2020-06-15
+"El Oro"	"Piñas"	35	2020-06-15
+"El Oro"	"Portovelo"	37	2020-06-15
+"El Oro"	"Santa Rosa"	229	2020-06-15
+"El Oro"	"Zaruma"	26	2020-06-15
+"El Oro"	"Arenillas"	71	2020-06-16
+"El Oro"	"Atahualpa"	3	2020-06-16
+"El Oro"	"Balsas"	0	2020-06-16
+"El Oro"	"Chilla"	0	2020-06-16
+"El Oro"	"El Guabo"	85	2020-06-16
+"El Oro"	"Huaquillas"	103	2020-06-16
+"El Oro"	"Las Lajas"	2	2020-06-16
+"El Oro"	"Machala"	908	2020-06-16
+"El Oro"	"Marcabelí"	0	2020-06-16
+"El Oro"	"Pasaje"	81	2020-06-16
+"El Oro"	"Piñas"	35	2020-06-16
+"El Oro"	"Portovelo"	37	2020-06-16
+"El Oro"	"Santa Rosa"	229	2020-06-16
+"El Oro"	"Zaruma"	26	2020-06-16
+"El Oro"	"Arenillas"	71	2020-06-17
+"El Oro"	"Atahualpa"	3	2020-06-17
+"El Oro"	"Balsas"	0	2020-06-17
+"El Oro"	"Chilla"	0	2020-06-17
+"El Oro"	"El Guabo"	85	2020-06-17
+"El Oro"	"Huaquillas"	103	2020-06-17
+"El Oro"	"Las Lajas"	2	2020-06-17
+"El Oro"	"Machala"	921	2020-06-17
+"El Oro"	"Marcabelí"	0	2020-06-17
+"El Oro"	"Pasaje"	82	2020-06-17
+"El Oro"	"Piñas"	35	2020-06-17
+"El Oro"	"Portovelo"	37	2020-06-17
+"El Oro"	"Santa Rosa"	230	2020-06-17
+"El Oro"	"Zaruma"	26	2020-06-17
+"El Oro"	"Arenillas"	74	2020-06-18
+"El Oro"	"Atahualpa"	3	2020-06-18
+"El Oro"	"Balsas"	0	2020-06-18
+"El Oro"	"Chilla"	0	2020-06-18
+"El Oro"	"El Guabo"	85	2020-06-18
+"El Oro"	"Huaquillas"	109	2020-06-18
+"El Oro"	"Las Lajas"	2	2020-06-18
+"El Oro"	"Machala"	957	2020-06-18
+"El Oro"	"Marcabelí"	0	2020-06-18
+"El Oro"	"Pasaje"	84	2020-06-18
+"El Oro"	"Piñas"	35	2020-06-18
+"El Oro"	"Portovelo"	37	2020-06-18
+"El Oro"	"Santa Rosa"	245	2020-06-18
+"El Oro"	"Zaruma"	26	2020-06-18
+"El Oro"	"Arenillas"	74	2020-06-19
+"El Oro"	"Atahualpa"	3	2020-06-19
+"El Oro"	"Balsas"	1	2020-06-19
+"El Oro"	"Chilla"	0	2020-06-19
+"El Oro"	"El Guabo"	85	2020-06-19
+"El Oro"	"Huaquillas"	113	2020-06-19
+"El Oro"	"Las Lajas"	2	2020-06-19
+"El Oro"	"Machala"	1033	2020-06-19
+"El Oro"	"Marcabelí"	0	2020-06-19
+"El Oro"	"Pasaje"	86	2020-06-19
+"El Oro"	"Piñas"	36	2020-06-19
+"El Oro"	"Portovelo"	39	2020-06-19
+"El Oro"	"Santa Rosa"	245	2020-06-19
+"El Oro"	"Zaruma"	26	2020-06-19
+"El Oro"	"Arenillas"	74	2020-06-20
+"El Oro"	"Atahualpa"	3	2020-06-20
+"El Oro"	"Balsas"	2	2020-06-20
+"El Oro"	"Chilla"	0	2020-06-20
+"El Oro"	"El Guabo"	85	2020-06-20
+"El Oro"	"Huaquillas"	116	2020-06-20
+"El Oro"	"Las Lajas"	2	2020-06-20
+"El Oro"	"Machala"	1035	2020-06-20
+"El Oro"	"Marcabelí"	0	2020-06-20
+"El Oro"	"Pasaje"	87	2020-06-20
+"El Oro"	"Piñas"	36	2020-06-20
+"El Oro"	"Portovelo"	39	2020-06-20
+"El Oro"	"Santa Rosa"	254	2020-06-20
+"El Oro"	"Zaruma"	26	2020-06-20
+"El Oro"	"Arenillas"	85	2020-06-21
+"El Oro"	"Atahualpa"	3	2020-06-21
+"El Oro"	"Balsas"	2	2020-06-21
+"El Oro"	"Chilla"	0	2020-06-21
+"El Oro"	"El Guabo"	86	2020-06-21
+"El Oro"	"Huaquillas"	120	2020-06-21
+"El Oro"	"Las Lajas"	2	2020-06-21
+"El Oro"	"Machala"	1046	2020-06-21
+"El Oro"	"Marcabelí"	0	2020-06-21
+"El Oro"	"Pasaje"	89	2020-06-21
+"El Oro"	"Piñas"	36	2020-06-21
+"El Oro"	"Portovelo"	41	2020-06-21
+"El Oro"	"Santa Rosa"	254	2020-06-21
+"El Oro"	"Zaruma"	26	2020-06-21
+"El Oro"	"Arenillas"	85	2020-06-22
+"El Oro"	"Atahualpa"	3	2020-06-22
+"El Oro"	"Balsas"	2	2020-06-22
+"El Oro"	"Chilla"	0	2020-06-22
+"El Oro"	"El Guabo"	86	2020-06-22
+"El Oro"	"Huaquillas"	120	2020-06-22
+"El Oro"	"Las Lajas"	2	2020-06-22
+"El Oro"	"Machala"	1058	2020-06-22
+"El Oro"	"Marcabelí"	0	2020-06-22
+"El Oro"	"Pasaje"	90	2020-06-22
+"El Oro"	"Piñas"	36	2020-06-22
+"El Oro"	"Portovelo"	41	2020-06-22
+"El Oro"	"Santa Rosa"	254	2020-06-22
+"El Oro"	"Zaruma"	26	2020-06-22
+"El Oro"	"Arenillas"	85	2020-06-23
+"El Oro"	"Atahualpa"	3	2020-06-23
+"El Oro"	"Balsas"	2	2020-06-23
+"El Oro"	"Chilla"	0	2020-06-23
+"El Oro"	"El Guabo"	86	2020-06-23
+"El Oro"	"Huaquillas"	122	2020-06-23
+"El Oro"	"Las Lajas"	2	2020-06-23
+"El Oro"	"Machala"	1064	2020-06-23
+"El Oro"	"Marcabelí"	0	2020-06-23
+"El Oro"	"Pasaje"	90	2020-06-23
+"El Oro"	"Piñas"	36	2020-06-23
+"El Oro"	"Portovelo"	41	2020-06-23
+"El Oro"	"Santa Rosa"	260	2020-06-23
+"El Oro"	"Zaruma"	26	2020-06-23
+"El Oro"	"Arenillas"	85	2020-06-24
+"El Oro"	"Atahualpa"	3	2020-06-24
+"El Oro"	"Balsas"	3	2020-06-24
+"El Oro"	"Chilla"	0	2020-06-24
+"El Oro"	"El Guabo"	87	2020-06-24
+"El Oro"	"Huaquillas"	123	2020-06-24
+"El Oro"	"Las Lajas"	2	2020-06-24
+"El Oro"	"Machala"	1104	2020-06-24
+"El Oro"	"Marcabelí"	0	2020-06-24
+"El Oro"	"Pasaje"	90	2020-06-24
+"El Oro"	"Piñas"	36	2020-06-24
+"El Oro"	"Portovelo"	41	2020-06-24
+"El Oro"	"Santa Rosa"	261	2020-06-24
+"El Oro"	"Zaruma"	26	2020-06-24
+"El Oro"	"Arenillas"	85	2020-06-25
+"El Oro"	"Atahualpa"	3	2020-06-25
+"El Oro"	"Balsas"	7	2020-06-25
+"El Oro"	"Chilla"	0	2020-06-25
+"El Oro"	"El Guabo"	88	2020-06-25
+"El Oro"	"Huaquillas"	123	2020-06-25
+"El Oro"	"Las Lajas"	2	2020-06-25
+"El Oro"	"Machala"	1112	2020-06-25
+"El Oro"	"Marcabelí"	0	2020-06-25
+"El Oro"	"Pasaje"	91	2020-06-25
+"El Oro"	"Piñas"	36	2020-06-25
+"El Oro"	"Portovelo"	41	2020-06-25
+"El Oro"	"Santa Rosa"	267	2020-06-25
+"El Oro"	"Zaruma"	27	2020-06-25
+"El Oro"	"Arenillas"	101	2020-06-26
+"El Oro"	"Atahualpa"	3	2020-06-26
+"El Oro"	"Balsas"	8	2020-06-26
+"El Oro"	"Chilla"	0	2020-06-26
+"El Oro"	"El Guabo"	91	2020-06-26
+"El Oro"	"Huaquillas"	128	2020-06-26
+"El Oro"	"Las Lajas"	2	2020-06-26
+"El Oro"	"Machala"	1129	2020-06-26
+"El Oro"	"Marcabelí"	0	2020-06-26
+"El Oro"	"Pasaje"	97	2020-06-26
+"El Oro"	"Piñas"	36	2020-06-26
+"El Oro"	"Portovelo"	53	2020-06-26
+"El Oro"	"Santa Rosa"	269	2020-06-26
+"El Oro"	"Zaruma"	27	2020-06-26
+"El Oro"	"Arenillas"	114	2020-06-27
+"El Oro"	"Atahualpa"	3	2020-06-27
+"El Oro"	"Balsas"	8	2020-06-27
+"El Oro"	"Chilla"	0	2020-06-27
+"El Oro"	"El Guabo"	91	2020-06-27
+"El Oro"	"Huaquillas"	135	2020-06-27
+"El Oro"	"Las Lajas"	2	2020-06-27
+"El Oro"	"Machala"	1136	2020-06-27
+"El Oro"	"Marcabelí"	0	2020-06-27
+"El Oro"	"Pasaje"	99	2020-06-27
+"El Oro"	"Piñas"	36	2020-06-27
+"El Oro"	"Portovelo"	53	2020-06-27
+"El Oro"	"Santa Rosa"	272	2020-06-27
+"El Oro"	"Zaruma"	27	2020-06-27
+"El Oro"	"Arenillas"	116	2020-06-28
+"El Oro"	"Atahualpa"	3	2020-06-28
+"El Oro"	"Balsas"	14	2020-06-28
+"El Oro"	"Chilla"	0	2020-06-28
+"El Oro"	"El Guabo"	93	2020-06-28
+"El Oro"	"Huaquillas"	137	2020-06-28
+"El Oro"	"Las Lajas"	2	2020-06-28
+"El Oro"	"Machala"	1150	2020-06-28
+"El Oro"	"Marcabelí"	0	2020-06-28
+"El Oro"	"Pasaje"	100	2020-06-28
+"El Oro"	"Piñas"	39	2020-06-28
+"El Oro"	"Portovelo"	58	2020-06-28
+"El Oro"	"Santa Rosa"	272	2020-06-28
+"El Oro"	"Zaruma"	29	2020-06-28
+"El Oro"	"Arenillas"	116	2020-06-29
+"El Oro"	"Atahualpa"	3	2020-06-29
+"El Oro"	"Balsas"	15	2020-06-29
+"El Oro"	"Chilla"	0	2020-06-29
+"El Oro"	"El Guabo"	93	2020-06-29
+"El Oro"	"Huaquillas"	137	2020-06-29
+"El Oro"	"Las Lajas"	2	2020-06-29
+"El Oro"	"Machala"	1153	2020-06-29
+"El Oro"	"Marcabelí"	0	2020-06-29
+"El Oro"	"Pasaje"	100	2020-06-29
+"El Oro"	"Piñas"	39	2020-06-29
+"El Oro"	"Portovelo"	58	2020-06-29
+"El Oro"	"Santa Rosa"	272	2020-06-29
+"El Oro"	"Zaruma"	29	2020-06-29
+"El Oro"	"Arenillas"	116	2020-06-30
+"El Oro"	"Atahualpa"	3	2020-06-30
+"El Oro"	"Balsas"	15	2020-06-30
+"El Oro"	"Chilla"	0	2020-06-30
+"El Oro"	"El Guabo"	93	2020-06-30
+"El Oro"	"Huaquillas"	137	2020-06-30
+"El Oro"	"Las Lajas"	2	2020-06-30
+"El Oro"	"Machala"	1155	2020-06-30
+"El Oro"	"Marcabelí"	0	2020-06-30
+"El Oro"	"Pasaje"	102	2020-06-30
+"El Oro"	"Piñas"	39	2020-06-30
+"El Oro"	"Portovelo"	59	2020-06-30
+"El Oro"	"Santa Rosa"	272	2020-06-30
+"El Oro"	"Zaruma"	29	2020-06-30
+"El Oro"	"Arenillas"	116	2020-07-01
+"El Oro"	"Atahualpa"	3	2020-07-01
+"El Oro"	"Balsas"	15	2020-07-01
+"El Oro"	"Chilla"	0	2020-07-01
+"El Oro"	"El Guabo"	93	2020-07-01
+"El Oro"	"Huaquillas"	137	2020-07-01
+"El Oro"	"Las Lajas"	2	2020-07-01
+"El Oro"	"Machala"	1172	2020-07-01
+"El Oro"	"Marcabelí"	0	2020-07-01
+"El Oro"	"Pasaje"	104	2020-07-01
+"El Oro"	"Piñas"	39	2020-07-01
+"El Oro"	"Portovelo"	59	2020-07-01
+"El Oro"	"Santa Rosa"	272	2020-07-01
+"El Oro"	"Zaruma"	30	2020-07-01
+"El Oro"	"Arenillas"	116	2020-07-02
+"El Oro"	"Atahualpa"	3	2020-07-02
+"El Oro"	"Balsas"	16	2020-07-02
+"El Oro"	"Chilla"	0	2020-07-02
+"El Oro"	"El Guabo"	93	2020-07-02
+"El Oro"	"Huaquillas"	137	2020-07-02
+"El Oro"	"Las Lajas"	2	2020-07-02
+"El Oro"	"Machala"	1191	2020-07-02
+"El Oro"	"Marcabelí"	0	2020-07-02
+"El Oro"	"Pasaje"	105	2020-07-02
+"El Oro"	"Piñas"	39	2020-07-02
+"El Oro"	"Portovelo"	60	2020-07-02
+"El Oro"	"Santa Rosa"	281	2020-07-02
+"El Oro"	"Zaruma"	30	2020-07-02
+"El Oro"	"Arenillas"	134	2020-07-03
+"El Oro"	"Atahualpa"	7	2020-07-03
+"El Oro"	"Balsas"	20	2020-07-03
+"El Oro"	"Chilla"	0	2020-07-03
+"El Oro"	"El Guabo"	93	2020-07-03
+"El Oro"	"Huaquillas"	144	2020-07-03
+"El Oro"	"Las Lajas"	2	2020-07-03
+"El Oro"	"Machala"	1194	2020-07-03
+"El Oro"	"Marcabelí"	0	2020-07-03
+"El Oro"	"Pasaje"	109	2020-07-03
+"El Oro"	"Piñas"	40	2020-07-03
+"El Oro"	"Portovelo"	70	2020-07-03
+"El Oro"	"Santa Rosa"	288	2020-07-03
+"El Oro"	"Zaruma"	34	2020-07-03
+"El Oro"	"Arenillas"	135	2020-07-04
+"El Oro"	"Atahualpa"	7	2020-07-04
+"El Oro"	"Balsas"	20	2020-07-04
+"El Oro"	"Chilla"	0	2020-07-04
+"El Oro"	"El Guabo"	93	2020-07-04
+"El Oro"	"Huaquillas"	144	2020-07-04
+"El Oro"	"Las Lajas"	2	2020-07-04
+"El Oro"	"Machala"	1211	2020-07-04
+"El Oro"	"Marcabelí"	0	2020-07-04
+"El Oro"	"Pasaje"	110	2020-07-04
+"El Oro"	"Piñas"	41	2020-07-04
+"El Oro"	"Portovelo"	70	2020-07-04
+"El Oro"	"Santa Rosa"	289	2020-07-04
+"El Oro"	"Zaruma"	34	2020-07-04
+"El Oro"	"Arenillas"	135	2020-07-05
+"El Oro"	"Atahualpa"	7	2020-07-05
+"El Oro"	"Balsas"	21	2020-07-05
+"El Oro"	"Chilla"	0	2020-07-05
+"El Oro"	"El Guabo"	93	2020-07-05
+"El Oro"	"Huaquillas"	144	2020-07-05
+"El Oro"	"Las Lajas"	2	2020-07-05
+"El Oro"	"Machala"	1219	2020-07-05
+"El Oro"	"Marcabelí"	0	2020-07-05
+"El Oro"	"Pasaje"	110	2020-07-05
+"El Oro"	"Piñas"	41	2020-07-05
+"El Oro"	"Portovelo"	70	2020-07-05
+"El Oro"	"Santa Rosa"	297	2020-07-05
+"El Oro"	"Zaruma"	34	2020-07-05
+"El Oro"	"Arenillas"	138	2020-07-06
+"El Oro"	"Atahualpa"	7	2020-07-06
+"El Oro"	"Balsas"	26	2020-07-06
+"El Oro"	"Chilla"	0	2020-07-06
+"El Oro"	"El Guabo"	93	2020-07-06
+"El Oro"	"Huaquillas"	144	2020-07-06
+"El Oro"	"Las Lajas"	2	2020-07-06
+"El Oro"	"Machala"	1225	2020-07-06
+"El Oro"	"Marcabelí"	0	2020-07-06
+"El Oro"	"Pasaje"	111	2020-07-06
+"El Oro"	"Piñas"	42	2020-07-06
+"El Oro"	"Portovelo"	70	2020-07-06
+"El Oro"	"Santa Rosa"	297	2020-07-06
+"El Oro"	"Zaruma"	34	2020-07-06
+"El Oro"	"Arenillas"	138	2020-07-07
+"El Oro"	"Atahualpa"	7	2020-07-07
+"El Oro"	"Balsas"	26	2020-07-07
+"El Oro"	"Chilla"	0	2020-07-07
+"El Oro"	"El Guabo"	94	2020-07-07
+"El Oro"	"Huaquillas"	145	2020-07-07
+"El Oro"	"Las Lajas"	2	2020-07-07
+"El Oro"	"Machala"	1225	2020-07-07
+"El Oro"	"Marcabelí"	0	2020-07-07
+"El Oro"	"Pasaje"	111	2020-07-07
+"El Oro"	"Piñas"	43	2020-07-07
+"El Oro"	"Portovelo"	70	2020-07-07
+"El Oro"	"Santa Rosa"	297	2020-07-07
+"El Oro"	"Zaruma"	34	2020-07-07
+"El Oro"	"Arenillas"	139	2020-07-08
+"El Oro"	"Atahualpa"	8	2020-07-08
+"El Oro"	"Balsas"	28	2020-07-08
+"El Oro"	"Chilla"	0	2020-07-08
+"El Oro"	"El Guabo"	94	2020-07-08
+"El Oro"	"Huaquillas"	145	2020-07-08
+"El Oro"	"Las Lajas"	2	2020-07-08
+"El Oro"	"Machala"	1256	2020-07-08
+"El Oro"	"Marcabelí"	0	2020-07-08
+"El Oro"	"Pasaje"	112	2020-07-08
+"El Oro"	"Piñas"	43	2020-07-08
+"El Oro"	"Portovelo"	91	2020-07-08
+"El Oro"	"Santa Rosa"	297	2020-07-08
+"El Oro"	"Zaruma"	44	2020-07-08
+"El Oro"	"Arenillas"	139	2020-07-09
+"El Oro"	"Atahualpa"	9	2020-07-09
+"El Oro"	"Balsas"	28	2020-07-09
+"El Oro"	"Chilla"	0	2020-07-09
+"El Oro"	"El Guabo"	95	2020-07-09
+"El Oro"	"Huaquillas"	145	2020-07-09
+"El Oro"	"Las Lajas"	2	2020-07-09
+"El Oro"	"Machala"	1263	2020-07-09
+"El Oro"	"Marcabelí"	0	2020-07-09
+"El Oro"	"Pasaje"	112	2020-07-09
+"El Oro"	"Piñas"	44	2020-07-09
+"El Oro"	"Portovelo"	92	2020-07-09
+"El Oro"	"Santa Rosa"	305	2020-07-09
+"El Oro"	"Zaruma"	44	2020-07-09
+"El Oro"	"Arenillas"	140	2020-07-10
+"El Oro"	"Atahualpa"	9	2020-07-10
+"El Oro"	"Balsas"	31	2020-07-10
+"El Oro"	"Chilla"	0	2020-07-10
+"El Oro"	"El Guabo"	95	2020-07-10
+"El Oro"	"Huaquillas"	146	2020-07-10
+"El Oro"	"Las Lajas"	2	2020-07-10
+"El Oro"	"Machala"	1274	2020-07-10
+"El Oro"	"Marcabelí"	0	2020-07-10
+"El Oro"	"Pasaje"	113	2020-07-10
+"El Oro"	"Piñas"	44	2020-07-10
+"El Oro"	"Portovelo"	92	2020-07-10
+"El Oro"	"Santa Rosa"	306	2020-07-10
+"El Oro"	"Zaruma"	44	2020-07-10
+"El Oro"	"Arenillas"	140	2020-07-11
+"El Oro"	"Atahualpa"	9	2020-07-11
+"El Oro"	"Balsas"	31	2020-07-11
+"El Oro"	"Chilla"	0	2020-07-11
+"El Oro"	"El Guabo"	95	2020-07-11
+"El Oro"	"Huaquillas"	146	2020-07-11
+"El Oro"	"Las Lajas"	2	2020-07-11
+"El Oro"	"Machala"	1293	2020-07-11
+"El Oro"	"Marcabelí"	0	2020-07-11
+"El Oro"	"Pasaje"	113	2020-07-11
+"El Oro"	"Piñas"	44	2020-07-11
+"El Oro"	"Portovelo"	98	2020-07-11
+"El Oro"	"Santa Rosa"	312	2020-07-11
+"El Oro"	"Zaruma"	46	2020-07-11
+"El Oro"	"Arenillas"	143	2020-07-12
+"El Oro"	"Atahualpa"	9	2020-07-12
+"El Oro"	"Balsas"	31	2020-07-12
+"El Oro"	"Chilla"	0	2020-07-12
+"El Oro"	"El Guabo"	95	2020-07-12
+"El Oro"	"Huaquillas"	147	2020-07-12
+"El Oro"	"Las Lajas"	2	2020-07-12
+"El Oro"	"Machala"	1303	2020-07-12
+"El Oro"	"Marcabelí"	0	2020-07-12
+"El Oro"	"Pasaje"	114	2020-07-12
+"El Oro"	"Piñas"	46	2020-07-12
+"El Oro"	"Portovelo"	100	2020-07-12
+"El Oro"	"Santa Rosa"	317	2020-07-12
+"El Oro"	"Zaruma"	47	2020-07-12
+"El Oro"	"Arenillas"	153	2020-07-13
+"El Oro"	"Atahualpa"	9	2020-07-13
+"El Oro"	"Balsas"	31	2020-07-13
+"El Oro"	"Chilla"	0	2020-07-13
+"El Oro"	"El Guabo"	95	2020-07-13
+"El Oro"	"Huaquillas"	162	2020-07-13
+"El Oro"	"Las Lajas"	2	2020-07-13
+"El Oro"	"Machala"	1324	2020-07-13
+"El Oro"	"Marcabelí"	0	2020-07-13
+"El Oro"	"Pasaje"	118	2020-07-13
+"El Oro"	"Piñas"	47	2020-07-13
+"El Oro"	"Portovelo"	100	2020-07-13
+"El Oro"	"Santa Rosa"	318	2020-07-13
+"El Oro"	"Zaruma"	47	2020-07-13
+"El Oro"	"Arenillas"	153	2020-07-14
+"El Oro"	"Atahualpa"	9	2020-07-14
+"El Oro"	"Balsas"	33	2020-07-14
+"El Oro"	"Chilla"	0	2020-07-14
+"El Oro"	"El Guabo"	96	2020-07-14
+"El Oro"	"Huaquillas"	162	2020-07-14
+"El Oro"	"Las Lajas"	2	2020-07-14
+"El Oro"	"Machala"	1347	2020-07-14
+"El Oro"	"Marcabelí"	0	2020-07-14
+"El Oro"	"Pasaje"	118	2020-07-14
+"El Oro"	"Piñas"	47	2020-07-14
+"El Oro"	"Portovelo"	100	2020-07-14
+"El Oro"	"Santa Rosa"	318	2020-07-14
+"El Oro"	"Zaruma"	47	2020-07-14
+"El Oro"	"Arenillas"	153	2020-07-15
+"El Oro"	"Atahualpa"	11	2020-07-15
+"El Oro"	"Balsas"	33	2020-07-15
+"El Oro"	"Chilla"	0	2020-07-15
+"El Oro"	"El Guabo"	96	2020-07-15
+"El Oro"	"Huaquillas"	162	2020-07-15
+"El Oro"	"Las Lajas"	2	2020-07-15
+"El Oro"	"Machala"	1354	2020-07-15
+"El Oro"	"Marcabelí"	0	2020-07-15
+"El Oro"	"Pasaje"	118	2020-07-15
+"El Oro"	"Piñas"	47	2020-07-15
+"El Oro"	"Portovelo"	100	2020-07-15
+"El Oro"	"Santa Rosa"	318	2020-07-15
+"El Oro"	"Zaruma"	51	2020-07-15
+"El Oro"	"Arenillas"	153	2020-07-16
+"El Oro"	"Atahualpa"	11	2020-07-16
+"El Oro"	"Balsas"	33	2020-07-16
+"El Oro"	"Chilla"	0	2020-07-16
+"El Oro"	"El Guabo"	96	2020-07-16
+"El Oro"	"Huaquillas"	162	2020-07-16
+"El Oro"	"Las Lajas"	2	2020-07-16
+"El Oro"	"Machala"	1359	2020-07-16
+"El Oro"	"Marcabelí"	0	2020-07-16
+"El Oro"	"Pasaje"	118	2020-07-16
+"El Oro"	"Piñas"	47	2020-07-16
+"El Oro"	"Portovelo"	141	2020-07-16
+"El Oro"	"Santa Rosa"	319	2020-07-16
+"El Oro"	"Zaruma"	55	2020-07-16
+"El Oro"	"Arenillas"	153	2020-07-17
+"El Oro"	"Atahualpa"	11	2020-07-17
+"El Oro"	"Balsas"	33	2020-07-17
+"El Oro"	"Chilla"	0	2020-07-17
+"El Oro"	"El Guabo"	96	2020-07-17
+"El Oro"	"Huaquillas"	162	2020-07-17
+"El Oro"	"Las Lajas"	2	2020-07-17
+"El Oro"	"Machala"	1397	2020-07-17
+"El Oro"	"Marcabelí"	0	2020-07-17
+"El Oro"	"Pasaje"	118	2020-07-17
+"El Oro"	"Piñas"	48	2020-07-17
+"El Oro"	"Portovelo"	170	2020-07-17
+"El Oro"	"Santa Rosa"	326	2020-07-17
+"El Oro"	"Zaruma"	64	2020-07-17
+"El Oro"	"Arenillas"	153	2020-07-18
+"El Oro"	"Atahualpa"	11	2020-07-18
+"El Oro"	"Balsas"	33	2020-07-18
+"El Oro"	"Chilla"	0	2020-07-18
+"El Oro"	"El Guabo"	99	2020-07-18
+"El Oro"	"Huaquillas"	162	2020-07-18
+"El Oro"	"Las Lajas"	2	2020-07-18
+"El Oro"	"Machala"	1416	2020-07-18
+"El Oro"	"Marcabelí"	0	2020-07-18
+"El Oro"	"Pasaje"	118	2020-07-18
+"El Oro"	"Piñas"	48	2020-07-18
+"El Oro"	"Portovelo"	176	2020-07-18
+"El Oro"	"Santa Rosa"	335	2020-07-18
+"El Oro"	"Zaruma"	64	2020-07-18
+"El Oro"	"Arenillas"	153	2020-07-19
+"El Oro"	"Atahualpa"	11	2020-07-19
+"El Oro"	"Balsas"	33	2020-07-19
+"El Oro"	"Chilla"	0	2020-07-19
+"El Oro"	"El Guabo"	99	2020-07-19
+"El Oro"	"Huaquillas"	162	2020-07-19
+"El Oro"	"Las Lajas"	2	2020-07-19
+"El Oro"	"Machala"	1423	2020-07-19
+"El Oro"	"Marcabelí"	0	2020-07-19
+"El Oro"	"Pasaje"	119	2020-07-19
+"El Oro"	"Piñas"	48	2020-07-19
+"El Oro"	"Portovelo"	177	2020-07-19
+"El Oro"	"Santa Rosa"	335	2020-07-19
+"El Oro"	"Zaruma"	64	2020-07-19
+"El Oro"	"Arenillas"	156	2020-07-20
+"El Oro"	"Atahualpa"	11	2020-07-20
+"El Oro"	"Balsas"	33	2020-07-20
+"El Oro"	"Chilla"	0	2020-07-20
+"El Oro"	"El Guabo"	99	2020-07-20
+"El Oro"	"Huaquillas"	162	2020-07-20
+"El Oro"	"Las Lajas"	2	2020-07-20
+"El Oro"	"Machala"	1424	2020-07-20
+"El Oro"	"Marcabelí"	0	2020-07-20
+"El Oro"	"Pasaje"	119	2020-07-20
+"El Oro"	"Piñas"	48	2020-07-20
+"El Oro"	"Portovelo"	177	2020-07-20
+"El Oro"	"Santa Rosa"	337	2020-07-20
+"El Oro"	"Zaruma"	64	2020-07-20
+"El Oro"	"Arenillas"	168	2020-07-21
+"El Oro"	"Atahualpa"	11	2020-07-21
+"El Oro"	"Balsas"	35	2020-07-21
+"El Oro"	"Chilla"	0	2020-07-21
+"El Oro"	"El Guabo"	99	2020-07-21
+"El Oro"	"Huaquillas"	182	2020-07-21
+"El Oro"	"Las Lajas"	3	2020-07-21
+"El Oro"	"Machala"	1462	2020-07-21
+"El Oro"	"Marcabelí"	0	2020-07-21
+"El Oro"	"Pasaje"	121	2020-07-21
+"El Oro"	"Piñas"	51	2020-07-21
+"El Oro"	"Portovelo"	190	2020-07-21
+"El Oro"	"Santa Rosa"	353	2020-07-21
+"El Oro"	"Zaruma"	64	2020-07-21
+"El Oro"	"Arenillas"	169	2020-07-22
+"El Oro"	"Atahualpa"	11	2020-07-22
+"El Oro"	"Balsas"	35	2020-07-22
+"El Oro"	"Chilla"	0	2020-07-22
+"El Oro"	"El Guabo"	100	2020-07-22
+"El Oro"	"Huaquillas"	182	2020-07-22
+"El Oro"	"Las Lajas"	3	2020-07-22
+"El Oro"	"Machala"	1466	2020-07-22
+"El Oro"	"Marcabelí"	0	2020-07-22
+"El Oro"	"Pasaje"	121	2020-07-22
+"El Oro"	"Piñas"	51	2020-07-22
+"El Oro"	"Portovelo"	190	2020-07-22
+"El Oro"	"Santa Rosa"	353	2020-07-22
+"El Oro"	"Zaruma"	64	2020-07-22
+"El Oro"	"Arenillas"	169	2020-07-23
+"El Oro"	"Atahualpa"	11	2020-07-23
+"El Oro"	"Balsas"	35	2020-07-23
+"El Oro"	"Chilla"	0	2020-07-23
+"El Oro"	"El Guabo"	102	2020-07-23
+"El Oro"	"Huaquillas"	182	2020-07-23
+"El Oro"	"Las Lajas"	3	2020-07-23
+"El Oro"	"Machala"	1475	2020-07-23
+"El Oro"	"Marcabelí"	0	2020-07-23
+"El Oro"	"Pasaje"	122	2020-07-23
+"El Oro"	"Piñas"	51	2020-07-23
+"El Oro"	"Portovelo"	190	2020-07-23
+"El Oro"	"Santa Rosa"	353	2020-07-23
+"El Oro"	"Zaruma"	65	2020-07-23
+"El Oro"	"Arenillas"	169	2020-07-24
+"El Oro"	"Atahualpa"	11	2020-07-24
+"El Oro"	"Balsas"	35	2020-07-24
+"El Oro"	"Chilla"	0	2020-07-24
+"El Oro"	"El Guabo"	102	2020-07-24
+"El Oro"	"Huaquillas"	182	2020-07-24
+"El Oro"	"Las Lajas"	3	2020-07-24
+"El Oro"	"Machala"	1480	2020-07-24
+"El Oro"	"Marcabelí"	0	2020-07-24
+"El Oro"	"Pasaje"	123	2020-07-24
+"El Oro"	"Piñas"	51	2020-07-24
+"El Oro"	"Portovelo"	190	2020-07-24
+"El Oro"	"Santa Rosa"	353	2020-07-24
+"El Oro"	"Zaruma"	65	2020-07-24
+"El Oro"	"Arenillas"	169	2020-07-25
+"El Oro"	"Atahualpa"	12	2020-07-25
+"El Oro"	"Balsas"	38	2020-07-25
+"El Oro"	"Chilla"	0	2020-07-25
+"El Oro"	"El Guabo"	103	2020-07-25
+"El Oro"	"Huaquillas"	182	2020-07-25
+"El Oro"	"Las Lajas"	3	2020-07-25
+"El Oro"	"Machala"	1509	2020-07-25
+"El Oro"	"Marcabelí"	1	2020-07-25
+"El Oro"	"Pasaje"	125	2020-07-25
+"El Oro"	"Piñas"	57	2020-07-25
+"El Oro"	"Portovelo"	234	2020-07-25
+"El Oro"	"Santa Rosa"	370	2020-07-25
+"El Oro"	"Zaruma"	76	2020-07-25
+"El Oro"	"Arenillas"	180	2020-07-26
+"El Oro"	"Atahualpa"	12	2020-07-26
+"El Oro"	"Balsas"	38	2020-07-26
+"El Oro"	"Chilla"	0	2020-07-26
+"El Oro"	"El Guabo"	104	2020-07-26
+"El Oro"	"Huaquillas"	187	2020-07-26
+"El Oro"	"Las Lajas"	3	2020-07-26
+"El Oro"	"Machala"	1515	2020-07-26
+"El Oro"	"Marcabelí"	2	2020-07-26
+"El Oro"	"Pasaje"	125	2020-07-26
+"El Oro"	"Piñas"	57	2020-07-26
+"El Oro"	"Portovelo"	234	2020-07-26
+"El Oro"	"Santa Rosa"	370	2020-07-26
+"El Oro"	"Zaruma"	77	2020-07-26
+"El Oro"	"Arenillas"	180	2020-07-27
+"El Oro"	"Atahualpa"	12	2020-07-27
+"El Oro"	"Balsas"	38	2020-07-27
+"El Oro"	"Chilla"	0	2020-07-27
+"El Oro"	"El Guabo"	104	2020-07-27
+"El Oro"	"Huaquillas"	187	2020-07-27
+"El Oro"	"Las Lajas"	3	2020-07-27
+"El Oro"	"Machala"	1528	2020-07-27
+"El Oro"	"Marcabelí"	2	2020-07-27
+"El Oro"	"Pasaje"	126	2020-07-27
+"El Oro"	"Piñas"	57	2020-07-27
+"El Oro"	"Portovelo"	234	2020-07-27
+"El Oro"	"Santa Rosa"	372	2020-07-27
+"El Oro"	"Zaruma"	79	2020-07-27
+"El Oro"	"Arenillas"	183	2020-07-28
+"El Oro"	"Atahualpa"	13	2020-07-28
+"El Oro"	"Balsas"	39	2020-07-28
+"El Oro"	"Chilla"	0	2020-07-28
+"El Oro"	"El Guabo"	104	2020-07-28
+"El Oro"	"Huaquillas"	193	2020-07-28
+"El Oro"	"Las Lajas"	3	2020-07-28
+"El Oro"	"Machala"	1550	2020-07-28
+"El Oro"	"Marcabelí"	2	2020-07-28
+"El Oro"	"Pasaje"	127	2020-07-28
+"El Oro"	"Piñas"	57	2020-07-28
+"El Oro"	"Portovelo"	234	2020-07-28
+"El Oro"	"Santa Rosa"	399	2020-07-28
+"El Oro"	"Zaruma"	97	2020-07-28
+"El Oro"	"Arenillas"	183	2020-07-29
+"El Oro"	"Atahualpa"	13	2020-07-29
+"El Oro"	"Balsas"	44	2020-07-29
+"El Oro"	"Chilla"	0	2020-07-29
+"El Oro"	"El Guabo"	104	2020-07-29
+"El Oro"	"Huaquillas"	193	2020-07-29
+"El Oro"	"Las Lajas"	3	2020-07-29
+"El Oro"	"Machala"	1587	2020-07-29
+"El Oro"	"Marcabelí"	2	2020-07-29
+"El Oro"	"Pasaje"	127	2020-07-29
+"El Oro"	"Piñas"	71	2020-07-29
+"El Oro"	"Portovelo"	235	2020-07-29
+"El Oro"	"Santa Rosa"	403	2020-07-29
+"El Oro"	"Zaruma"	97	2020-07-29
+"El Oro"	"Arenillas"	184	2020-07-30
+"El Oro"	"Atahualpa"	15	2020-07-30
+"El Oro"	"Balsas"	44	2020-07-30
+"El Oro"	"Chilla"	0	2020-07-30
+"El Oro"	"El Guabo"	104	2020-07-30
+"El Oro"	"Huaquillas"	193	2020-07-30
+"El Oro"	"Las Lajas"	3	2020-07-30
+"El Oro"	"Machala"	1610	2020-07-30
+"El Oro"	"Marcabelí"	2	2020-07-30
+"El Oro"	"Pasaje"	128	2020-07-30
+"El Oro"	"Piñas"	71	2020-07-30
+"El Oro"	"Portovelo"	254	2020-07-30
+"El Oro"	"Santa Rosa"	403	2020-07-30
+"El Oro"	"Zaruma"	107	2020-07-30
+"El Oro"	"Arenillas"	184	2020-07-31
+"El Oro"	"Atahualpa"	17	2020-07-31
+"El Oro"	"Balsas"	44	2020-07-31
+"El Oro"	"Chilla"	0	2020-07-31
+"El Oro"	"El Guabo"	107	2020-07-31
+"El Oro"	"Huaquillas"	194	2020-07-31
+"El Oro"	"Las Lajas"	3	2020-07-31
+"El Oro"	"Machala"	1625	2020-07-31
+"El Oro"	"Marcabelí"	2	2020-07-31
+"El Oro"	"Pasaje"	134	2020-07-31
+"El Oro"	"Piñas"	72	2020-07-31
+"El Oro"	"Portovelo"	273	2020-07-31
+"El Oro"	"Santa Rosa"	415	2020-07-31
+"El Oro"	"Zaruma"	111	2020-07-31
+"El Oro"	"Arenillas"	184	2020-08-01
+"El Oro"	"Atahualpa"	19	2020-08-01
+"El Oro"	"Balsas"	44	2020-08-01
+"El Oro"	"Chilla"	0	2020-08-01
+"El Oro"	"El Guabo"	107	2020-08-01
+"El Oro"	"Huaquillas"	194	2020-08-01
+"El Oro"	"Las Lajas"	3	2020-08-01
+"El Oro"	"Machala"	1644	2020-08-01
+"El Oro"	"Marcabelí"	2	2020-08-01
+"El Oro"	"Pasaje"	135	2020-08-01
+"El Oro"	"Piñas"	72	2020-08-01
+"El Oro"	"Portovelo"	289	2020-08-01
+"El Oro"	"Santa Rosa"	422	2020-08-01
+"El Oro"	"Zaruma"	118	2020-08-01
+"El Oro"	"Arenillas"	188	2020-08-02
+"El Oro"	"Atahualpa"	19	2020-08-02
+"El Oro"	"Balsas"	44	2020-08-02
+"El Oro"	"Chilla"	0	2020-08-02
+"El Oro"	"El Guabo"	107	2020-08-02
+"El Oro"	"Huaquillas"	194	2020-08-02
+"El Oro"	"Las Lajas"	3	2020-08-02
+"El Oro"	"Machala"	1645	2020-08-02
+"El Oro"	"Marcabelí"	2	2020-08-02
+"El Oro"	"Pasaje"	136	2020-08-02
+"El Oro"	"Piñas"	81	2020-08-02
+"El Oro"	"Portovelo"	289	2020-08-02
+"El Oro"	"Santa Rosa"	422	2020-08-02
+"El Oro"	"Zaruma"	118	2020-08-02
+"El Oro"	"Arenillas"	198	2020-08-03
+"El Oro"	"Atahualpa"	19	2020-08-03
+"El Oro"	"Balsas"	44	2020-08-03
+"El Oro"	"Chilla"	1	2020-08-03
+"El Oro"	"El Guabo"	108	2020-08-03
+"El Oro"	"Huaquillas"	198	2020-08-03
+"El Oro"	"Las Lajas"	3	2020-08-03
+"El Oro"	"Machala"	1659	2020-08-03
+"El Oro"	"Marcabelí"	2	2020-08-03
+"El Oro"	"Pasaje"	140	2020-08-03
+"El Oro"	"Piñas"	81	2020-08-03
+"El Oro"	"Portovelo"	298	2020-08-03
+"El Oro"	"Santa Rosa"	422	2020-08-03
+"El Oro"	"Zaruma"	118	2020-08-03
+"El Oro"	"Arenillas"	198	2020-08-04
+"El Oro"	"Atahualpa"	19	2020-08-04
+"El Oro"	"Balsas"	44	2020-08-04
+"El Oro"	"Chilla"	1	2020-08-04
+"El Oro"	"El Guabo"	109	2020-08-04
+"El Oro"	"Huaquillas"	198	2020-08-04
+"El Oro"	"Las Lajas"	3	2020-08-04
+"El Oro"	"Machala"	1663	2020-08-04
+"El Oro"	"Marcabelí"	2	2020-08-04
+"El Oro"	"Pasaje"	140	2020-08-04
+"El Oro"	"Piñas"	81	2020-08-04
+"El Oro"	"Portovelo"	323	2020-08-04
+"El Oro"	"Santa Rosa"	437	2020-08-04
+"El Oro"	"Zaruma"	124	2020-08-04
+"El Oro"	"Arenillas"	198	2020-08-05
+"El Oro"	"Atahualpa"	19	2020-08-05
+"El Oro"	"Balsas"	44	2020-08-05
+"El Oro"	"Chilla"	1	2020-08-05
+"El Oro"	"El Guabo"	109	2020-08-05
+"El Oro"	"Huaquillas"	200	2020-08-05
+"El Oro"	"Las Lajas"	4	2020-08-05
+"El Oro"	"Machala"	1663	2020-08-05
+"El Oro"	"Marcabelí"	2	2020-08-05
+"El Oro"	"Pasaje"	140	2020-08-05
+"El Oro"	"Piñas"	81	2020-08-05
+"El Oro"	"Portovelo"	324	2020-08-05
+"El Oro"	"Santa Rosa"	437	2020-08-05
+"El Oro"	"Zaruma"	124	2020-08-05
+"El Oro"	"Arenillas"	198	2020-08-06
+"El Oro"	"Atahualpa"	19	2020-08-06
+"El Oro"	"Balsas"	44	2020-08-06
+"El Oro"	"Chilla"	1	2020-08-06
+"El Oro"	"El Guabo"	109	2020-08-06
+"El Oro"	"Huaquillas"	200	2020-08-06
+"El Oro"	"Las Lajas"	4	2020-08-06
+"El Oro"	"Machala"	1670	2020-08-06
+"El Oro"	"Marcabelí"	2	2020-08-06
+"El Oro"	"Pasaje"	141	2020-08-06
+"El Oro"	"Piñas"	81	2020-08-06
+"El Oro"	"Portovelo"	326	2020-08-06
+"El Oro"	"Santa Rosa"	437	2020-08-06
+"El Oro"	"Zaruma"	125	2020-08-06
+"El Oro"	"Arenillas"	211	2020-08-07
+"El Oro"	"Atahualpa"	21	2020-08-07
+"El Oro"	"Balsas"	44	2020-08-07
+"El Oro"	"Chilla"	1	2020-08-07
+"El Oro"	"El Guabo"	109	2020-08-07
+"El Oro"	"Huaquillas"	205	2020-08-07
+"El Oro"	"Las Lajas"	4	2020-08-07
+"El Oro"	"Machala"	1697	2020-08-07
+"El Oro"	"Marcabelí"	2	2020-08-07
+"El Oro"	"Pasaje"	142	2020-08-07
+"El Oro"	"Piñas"	90	2020-08-07
+"El Oro"	"Portovelo"	326	2020-08-07
+"El Oro"	"Santa Rosa"	437	2020-08-07
+"El Oro"	"Zaruma"	125	2020-08-07
+"El Oro"	"Arenillas"	211	2020-08-08
+"El Oro"	"Atahualpa"	21	2020-08-08
+"El Oro"	"Balsas"	44	2020-08-08
+"El Oro"	"Chilla"	1	2020-08-08
+"El Oro"	"El Guabo"	110	2020-08-08
+"El Oro"	"Huaquillas"	206	2020-08-08
+"El Oro"	"Las Lajas"	4	2020-08-08
+"El Oro"	"Machala"	1737	2020-08-08
+"El Oro"	"Marcabelí"	2	2020-08-08
+"El Oro"	"Pasaje"	143	2020-08-08
+"El Oro"	"Piñas"	101	2020-08-08
+"El Oro"	"Portovelo"	335	2020-08-08
+"El Oro"	"Santa Rosa"	442	2020-08-08
+"El Oro"	"Zaruma"	135	2020-08-08
+"El Oro"	"Arenillas"	221	2020-08-09
+"El Oro"	"Atahualpa"	22	2020-08-09
+"El Oro"	"Balsas"	44	2020-08-09
+"El Oro"	"Chilla"	1	2020-08-09
+"El Oro"	"El Guabo"	111	2020-08-09
+"El Oro"	"Huaquillas"	216	2020-08-09
+"El Oro"	"Las Lajas"	4	2020-08-09
+"El Oro"	"Machala"	1763	2020-08-09
+"El Oro"	"Marcabelí"	2	2020-08-09
+"El Oro"	"Pasaje"	144	2020-08-09
+"El Oro"	"Piñas"	110	2020-08-09
+"El Oro"	"Portovelo"	360	2020-08-09
+"El Oro"	"Santa Rosa"	445	2020-08-09
+"El Oro"	"Zaruma"	145	2020-08-09
+"El Oro"	"Arenillas"	221	2020-08-10
+"El Oro"	"Atahualpa"	24	2020-08-10
+"El Oro"	"Balsas"	44	2020-08-10
+"El Oro"	"Chilla"	1	2020-08-10
+"El Oro"	"El Guabo"	111	2020-08-10
+"El Oro"	"Huaquillas"	216	2020-08-10
+"El Oro"	"Las Lajas"	4	2020-08-10
+"El Oro"	"Machala"	1769	2020-08-10
+"El Oro"	"Marcabelí"	2	2020-08-10
+"El Oro"	"Pasaje"	144	2020-08-10
+"El Oro"	"Piñas"	110	2020-08-10
+"El Oro"	"Portovelo"	365	2020-08-10
+"El Oro"	"Santa Rosa"	478	2020-08-10
+"El Oro"	"Zaruma"	145	2020-08-10
+"El Oro"	"Arenillas"	221	2020-08-11
+"El Oro"	"Atahualpa"	24	2020-08-11
+"El Oro"	"Balsas"	44	2020-08-11
+"El Oro"	"Chilla"	1	2020-08-11
+"El Oro"	"El Guabo"	112	2020-08-11
+"El Oro"	"Huaquillas"	216	2020-08-11
+"El Oro"	"Las Lajas"	4	2020-08-11
+"El Oro"	"Machala"	1778	2020-08-11
+"El Oro"	"Marcabelí"	2	2020-08-11
+"El Oro"	"Pasaje"	146	2020-08-11
+"El Oro"	"Piñas"	110	2020-08-11
+"El Oro"	"Portovelo"	369	2020-08-11
+"El Oro"	"Santa Rosa"	494	2020-08-11
+"El Oro"	"Zaruma"	145	2020-08-11
+"El Oro"	"Arenillas"	227	2020-08-12
+"El Oro"	"Atahualpa"	24	2020-08-12
+"El Oro"	"Balsas"	44	2020-08-12
+"El Oro"	"Chilla"	1	2020-08-12
+"El Oro"	"El Guabo"	113	2020-08-12
+"El Oro"	"Huaquillas"	216	2020-08-12
+"El Oro"	"Las Lajas"	4	2020-08-12
+"El Oro"	"Machala"	1802	2020-08-12
+"El Oro"	"Marcabelí"	2	2020-08-12
+"El Oro"	"Pasaje"	146	2020-08-12
+"El Oro"	"Piñas"	111	2020-08-12
+"El Oro"	"Portovelo"	374	2020-08-12
+"El Oro"	"Santa Rosa"	499	2020-08-12
+"El Oro"	"Zaruma"	158	2020-08-12
+"El Oro"	"Arenillas"	233	2020-08-13
+"El Oro"	"Atahualpa"	24	2020-08-13
+"El Oro"	"Balsas"	44	2020-08-13
+"El Oro"	"Chilla"	1	2020-08-13
+"El Oro"	"El Guabo"	113	2020-08-13
+"El Oro"	"Huaquillas"	216	2020-08-13
+"El Oro"	"Las Lajas"	4	2020-08-13
+"El Oro"	"Machala"	1810	2020-08-13
+"El Oro"	"Marcabelí"	2	2020-08-13
+"El Oro"	"Pasaje"	146	2020-08-13
+"El Oro"	"Piñas"	116	2020-08-13
+"El Oro"	"Portovelo"	387	2020-08-13
+"El Oro"	"Santa Rosa"	501	2020-08-13
+"El Oro"	"Zaruma"	158	2020-08-13
+"El Oro"	"Arenillas"	233	2020-08-14
+"El Oro"	"Atahualpa"	24	2020-08-14
+"El Oro"	"Balsas"	44	2020-08-14
+"El Oro"	"Chilla"	1	2020-08-14
+"El Oro"	"El Guabo"	113	2020-08-14
+"El Oro"	"Huaquillas"	216	2020-08-14
+"El Oro"	"Las Lajas"	4	2020-08-14
+"El Oro"	"Machala"	1864	2020-08-14
+"El Oro"	"Marcabelí"	2	2020-08-14
+"El Oro"	"Pasaje"	146	2020-08-14
+"El Oro"	"Piñas"	126	2020-08-14
+"El Oro"	"Portovelo"	387	2020-08-14
+"El Oro"	"Santa Rosa"	503	2020-08-14
+"El Oro"	"Zaruma"	158	2020-08-14
+"El Oro"	"Arenillas"	234	2020-08-15
+"El Oro"	"Atahualpa"	24	2020-08-15
+"El Oro"	"Balsas"	44	2020-08-15
+"El Oro"	"Chilla"	1	2020-08-15
+"El Oro"	"El Guabo"	114	2020-08-15
+"El Oro"	"Huaquillas"	217	2020-08-15
+"El Oro"	"Las Lajas"	4	2020-08-15
+"El Oro"	"Machala"	1878	2020-08-15
+"El Oro"	"Marcabelí"	2	2020-08-15
+"El Oro"	"Pasaje"	148	2020-08-15
+"El Oro"	"Piñas"	127	2020-08-15
+"El Oro"	"Portovelo"	387	2020-08-15
+"El Oro"	"Santa Rosa"	507	2020-08-15
+"El Oro"	"Zaruma"	158	2020-08-15
+"El Oro"	"Arenillas"	243	2020-08-16
+"El Oro"	"Atahualpa"	24	2020-08-16
+"El Oro"	"Balsas"	44	2020-08-16
+"El Oro"	"Chilla"	1	2020-08-16
+"El Oro"	"El Guabo"	114	2020-08-16
+"El Oro"	"Huaquillas"	218	2020-08-16
+"El Oro"	"Las Lajas"	4	2020-08-16
+"El Oro"	"Machala"	1891	2020-08-16
+"El Oro"	"Marcabelí"	2	2020-08-16
+"El Oro"	"Pasaje"	148	2020-08-16
+"El Oro"	"Piñas"	129	2020-08-16
+"El Oro"	"Portovelo"	387	2020-08-16
+"El Oro"	"Santa Rosa"	507	2020-08-16
+"El Oro"	"Zaruma"	158	2020-08-16
+"El Oro"	"Arenillas"	243	2020-08-17
+"El Oro"	"Atahualpa"	24	2020-08-17
+"El Oro"	"Balsas"	44	2020-08-17
+"El Oro"	"Chilla"	1	2020-08-17
+"El Oro"	"El Guabo"	114	2020-08-17
+"El Oro"	"Huaquillas"	218	2020-08-17
+"El Oro"	"Las Lajas"	4	2020-08-17
+"El Oro"	"Machala"	1897	2020-08-17
+"El Oro"	"Marcabelí"	2	2020-08-17
+"El Oro"	"Pasaje"	148	2020-08-17
+"El Oro"	"Piñas"	129	2020-08-17
+"El Oro"	"Portovelo"	387	2020-08-17
+"El Oro"	"Santa Rosa"	508	2020-08-17
+"El Oro"	"Zaruma"	158	2020-08-17
+"El Oro"	"Arenillas"	243	2020-08-18
+"El Oro"	"Atahualpa"	25	2020-08-18
+"El Oro"	"Balsas"	44	2020-08-18
+"El Oro"	"Chilla"	1	2020-08-18
+"El Oro"	"El Guabo"	114	2020-08-18
+"El Oro"	"Huaquillas"	218	2020-08-18
+"El Oro"	"Las Lajas"	4	2020-08-18
+"El Oro"	"Machala"	1942	2020-08-18
+"El Oro"	"Marcabelí"	2	2020-08-18
+"El Oro"	"Pasaje"	148	2020-08-18
+"El Oro"	"Piñas"	137	2020-08-18
+"El Oro"	"Portovelo"	391	2020-08-18
+"El Oro"	"Santa Rosa"	526	2020-08-18
+"El Oro"	"Zaruma"	163	2020-08-18
+"El Oro"	"Arenillas"	243	2020-08-19
+"El Oro"	"Atahualpa"	25	2020-08-19
+"El Oro"	"Balsas"	44	2020-08-19
+"El Oro"	"Chilla"	1	2020-08-19
+"El Oro"	"El Guabo"	114	2020-08-19
+"El Oro"	"Huaquillas"	219	2020-08-19
+"El Oro"	"Las Lajas"	4	2020-08-19
+"El Oro"	"Machala"	1947	2020-08-19
+"El Oro"	"Marcabelí"	2	2020-08-19
+"El Oro"	"Pasaje"	148	2020-08-19
+"El Oro"	"Piñas"	138	2020-08-19
+"El Oro"	"Portovelo"	391	2020-08-19
+"El Oro"	"Santa Rosa"	528	2020-08-19
+"El Oro"	"Zaruma"	164	2020-08-19
+"El Oro"	"Arenillas"	245	2020-08-20
+"El Oro"	"Atahualpa"	25	2020-08-20
+"El Oro"	"Balsas"	44	2020-08-20
+"El Oro"	"Chilla"	1	2020-08-20
+"El Oro"	"El Guabo"	114	2020-08-20
+"El Oro"	"Huaquillas"	219	2020-08-20
+"El Oro"	"Las Lajas"	4	2020-08-20
+"El Oro"	"Machala"	1960	2020-08-20
+"El Oro"	"Marcabelí"	2	2020-08-20
+"El Oro"	"Pasaje"	149	2020-08-20
+"El Oro"	"Piñas"	139	2020-08-20
+"El Oro"	"Portovelo"	391	2020-08-20
+"El Oro"	"Santa Rosa"	530	2020-08-20
+"El Oro"	"Zaruma"	164	2020-08-20
+"El Oro"	"Arenillas"	246	2020-08-21
+"El Oro"	"Atahualpa"	25	2020-08-21
+"El Oro"	"Balsas"	44	2020-08-21
+"El Oro"	"Chilla"	1	2020-08-21
+"El Oro"	"El Guabo"	114	2020-08-21
+"El Oro"	"Huaquillas"	219	2020-08-21
+"El Oro"	"Las Lajas"	4	2020-08-21
+"El Oro"	"Machala"	1980	2020-08-21
+"El Oro"	"Marcabelí"	2	2020-08-21
+"El Oro"	"Pasaje"	149	2020-08-21
+"El Oro"	"Piñas"	145	2020-08-21
+"El Oro"	"Portovelo"	400	2020-08-21
+"El Oro"	"Santa Rosa"	545	2020-08-21
+"El Oro"	"Zaruma"	167	2020-08-21
+"El Oro"	"Arenillas"	249	2020-08-22
+"El Oro"	"Atahualpa"	26	2020-08-22
+"El Oro"	"Balsas"	44	2020-08-22
+"El Oro"	"Chilla"	1	2020-08-22
+"El Oro"	"El Guabo"	115	2020-08-22
+"El Oro"	"Huaquillas"	219	2020-08-22
+"El Oro"	"Las Lajas"	4	2020-08-22
+"El Oro"	"Machala"	1987	2020-08-22
+"El Oro"	"Marcabelí"	2	2020-08-22
+"El Oro"	"Pasaje"	149	2020-08-22
+"El Oro"	"Piñas"	145	2020-08-22
+"El Oro"	"Portovelo"	400	2020-08-22
+"El Oro"	"Santa Rosa"	545	2020-08-22
+"El Oro"	"Zaruma"	170	2020-08-22
+"El Oro"	"Arenillas"	252	2020-08-23
+"El Oro"	"Atahualpa"	26	2020-08-23
+"El Oro"	"Balsas"	45	2020-08-23
+"El Oro"	"Chilla"	1	2020-08-23
+"El Oro"	"El Guabo"	116	2020-08-23
+"El Oro"	"Huaquillas"	220	2020-08-23
+"El Oro"	"Las Lajas"	5	2020-08-23
+"El Oro"	"Machala"	2006	2020-08-23
+"El Oro"	"Marcabelí"	3	2020-08-23
+"El Oro"	"Pasaje"	151	2020-08-23
+"El Oro"	"Piñas"	156	2020-08-23
+"El Oro"	"Portovelo"	405	2020-08-23
+"El Oro"	"Santa Rosa"	547	2020-08-23
+"El Oro"	"Zaruma"	170	2020-08-23
+"El Oro"	"Arenillas"	259	2020-08-24
+"El Oro"	"Atahualpa"	26	2020-08-24
+"El Oro"	"Balsas"	45	2020-08-24
+"El Oro"	"Chilla"	1	2020-08-24
+"El Oro"	"El Guabo"	116	2020-08-24
+"El Oro"	"Huaquillas"	222	2020-08-24
+"El Oro"	"Las Lajas"	5	2020-08-24
+"El Oro"	"Machala"	2023	2020-08-24
+"El Oro"	"Marcabelí"	3	2020-08-24
+"El Oro"	"Pasaje"	153	2020-08-24
+"El Oro"	"Piñas"	156	2020-08-24
+"El Oro"	"Portovelo"	415	2020-08-24
+"El Oro"	"Santa Rosa"	551	2020-08-24
+"El Oro"	"Zaruma"	184	2020-08-24
+"El Oro"	"Arenillas"	259	2020-08-25
+"El Oro"	"Atahualpa"	26	2020-08-25
+"El Oro"	"Balsas"	45	2020-08-25
+"El Oro"	"Chilla"	1	2020-08-25
+"El Oro"	"El Guabo"	118	2020-08-25
+"El Oro"	"Huaquillas"	222	2020-08-25
+"El Oro"	"Las Lajas"	5	2020-08-25
+"El Oro"	"Machala"	2062	2020-08-25
+"El Oro"	"Marcabelí"	4	2020-08-25
+"El Oro"	"Pasaje"	155	2020-08-25
+"El Oro"	"Piñas"	164	2020-08-25
+"El Oro"	"Portovelo"	416	2020-08-25
+"El Oro"	"Santa Rosa"	553	2020-08-25
+"El Oro"	"Zaruma"	185	2020-08-25
+"El Oro"	"Arenillas"	259	2020-08-26
+"El Oro"	"Atahualpa"	26	2020-08-26
+"El Oro"	"Balsas"	45	2020-08-26
+"El Oro"	"Chilla"	1	2020-08-26
+"El Oro"	"El Guabo"	119	2020-08-26
+"El Oro"	"Huaquillas"	222	2020-08-26
+"El Oro"	"Las Lajas"	5	2020-08-26
+"El Oro"	"Machala"	2079	2020-08-26
+"El Oro"	"Marcabelí"	4	2020-08-26
+"El Oro"	"Pasaje"	155	2020-08-26
+"El Oro"	"Piñas"	165	2020-08-26
+"El Oro"	"Portovelo"	416	2020-08-26
+"El Oro"	"Santa Rosa"	553	2020-08-26
+"El Oro"	"Zaruma"	185	2020-08-26
+"El Oro"	"Arenillas"	262	2020-08-27
+"El Oro"	"Atahualpa"	26	2020-08-27
+"El Oro"	"Balsas"	45	2020-08-27
+"El Oro"	"Chilla"	1	2020-08-27
+"El Oro"	"El Guabo"	119	2020-08-27
+"El Oro"	"Huaquillas"	229	2020-08-27
+"El Oro"	"Las Lajas"	5	2020-08-27
+"El Oro"	"Machala"	2095	2020-08-27
+"El Oro"	"Marcabelí"	4	2020-08-27
+"El Oro"	"Pasaje"	156	2020-08-27
+"El Oro"	"Piñas"	172	2020-08-27
+"El Oro"	"Portovelo"	416	2020-08-27
+"El Oro"	"Santa Rosa"	558	2020-08-27
+"El Oro"	"Zaruma"	189	2020-08-27
+"El Oro"	"Arenillas"	271	2020-08-28
+"El Oro"	"Atahualpa"	29	2020-08-28
+"El Oro"	"Balsas"	46	2020-08-28
+"El Oro"	"Chilla"	4	2020-08-28
+"El Oro"	"El Guabo"	122	2020-08-28
+"El Oro"	"Huaquillas"	232	2020-08-28
+"El Oro"	"Las Lajas"	6	2020-08-28
+"El Oro"	"Machala"	2109	2020-08-28
+"El Oro"	"Marcabelí"	5	2020-08-28
+"El Oro"	"Pasaje"	158	2020-08-28
+"El Oro"	"Piñas"	182	2020-08-28
+"El Oro"	"Portovelo"	416	2020-08-28
+"El Oro"	"Santa Rosa"	561	2020-08-28
+"El Oro"	"Zaruma"	189	2020-08-28
+"El Oro"	"Arenillas"	271	2020-08-29
+"El Oro"	"Atahualpa"	29	2020-08-29
+"El Oro"	"Balsas"	46	2020-08-29
+"El Oro"	"Chilla"	4	2020-08-29
+"El Oro"	"El Guabo"	122	2020-08-29
+"El Oro"	"Huaquillas"	232	2020-08-29
+"El Oro"	"Las Lajas"	6	2020-08-29
+"El Oro"	"Machala"	2116	2020-08-29
+"El Oro"	"Marcabelí"	5	2020-08-29
+"El Oro"	"Pasaje"	158	2020-08-29
+"El Oro"	"Piñas"	183	2020-08-29
+"El Oro"	"Portovelo"	416	2020-08-29
+"El Oro"	"Santa Rosa"	567	2020-08-29
+"El Oro"	"Zaruma"	190	2020-08-29
+"El Oro"	"Arenillas"	275	2020-08-30
+"El Oro"	"Atahualpa"	33	2020-08-30
+"El Oro"	"Balsas"	46	2020-08-30
+"El Oro"	"Chilla"	4	2020-08-30
+"El Oro"	"El Guabo"	123	2020-08-30
+"El Oro"	"Huaquillas"	232	2020-08-30
+"El Oro"	"Las Lajas"	6	2020-08-30
+"El Oro"	"Machala"	2125	2020-08-30
+"El Oro"	"Marcabelí"	5	2020-08-30
+"El Oro"	"Pasaje"	160	2020-08-30
+"El Oro"	"Piñas"	183	2020-08-30
+"El Oro"	"Portovelo"	422	2020-08-30
+"El Oro"	"Santa Rosa"	570	2020-08-30
+"El Oro"	"Zaruma"	192	2020-08-30
+"El Oro"	"Arenillas"	275	2020-08-31
+"El Oro"	"Atahualpa"	33	2020-08-31
+"El Oro"	"Balsas"	46	2020-08-31
+"El Oro"	"Chilla"	4	2020-08-31
+"El Oro"	"El Guabo"	123	2020-08-31
+"El Oro"	"Huaquillas"	232	2020-08-31
+"El Oro"	"Las Lajas"	6	2020-08-31
+"El Oro"	"Machala"	2130	2020-08-31
+"El Oro"	"Marcabelí"	5	2020-08-31
+"El Oro"	"Pasaje"	161	2020-08-31
+"El Oro"	"Piñas"	185	2020-08-31
+"El Oro"	"Portovelo"	422	2020-08-31
+"El Oro"	"Santa Rosa"	571	2020-08-31
+"El Oro"	"Zaruma"	192	2020-08-31
+"El Oro"	"Arenillas"	275	2020-09-01
+"El Oro"	"Atahualpa"	45	2020-09-01
+"El Oro"	"Balsas"	46	2020-09-01
+"El Oro"	"Chilla"	4	2020-09-01
+"El Oro"	"El Guabo"	123	2020-09-01
+"El Oro"	"Huaquillas"	232	2020-09-01
+"El Oro"	"Las Lajas"	6	2020-09-01
+"El Oro"	"Machala"	2139	2020-09-01
+"El Oro"	"Marcabelí"	6	2020-09-01
+"El Oro"	"Pasaje"	162	2020-09-01
+"El Oro"	"Piñas"	185	2020-09-01
+"El Oro"	"Portovelo"	434	2020-09-01
+"El Oro"	"Santa Rosa"	571	2020-09-01
+"El Oro"	"Zaruma"	195	2020-09-01
+"El Oro"	"Arenillas"	275	2020-09-02
+"El Oro"	"Atahualpa"	45	2020-09-02
+"El Oro"	"Balsas"	46	2020-09-02
+"El Oro"	"Chilla"	4	2020-09-02
+"El Oro"	"El Guabo"	126	2020-09-02
+"El Oro"	"Huaquillas"	233	2020-09-02
+"El Oro"	"Las Lajas"	6	2020-09-02
+"El Oro"	"Machala"	2166	2020-09-02
+"El Oro"	"Marcabelí"	6	2020-09-02
+"El Oro"	"Pasaje"	165	2020-09-02
+"El Oro"	"Piñas"	188	2020-09-02
+"El Oro"	"Portovelo"	434	2020-09-02
+"El Oro"	"Santa Rosa"	574	2020-09-02
+"El Oro"	"Zaruma"	196	2020-09-02
+"El Oro"	"Arenillas"	275	2020-09-03
+"El Oro"	"Atahualpa"	46	2020-09-03
+"El Oro"	"Balsas"	47	2020-09-03
+"El Oro"	"Chilla"	4	2020-09-03
+"El Oro"	"El Guabo"	127	2020-09-03
+"El Oro"	"Huaquillas"	233	2020-09-03
+"El Oro"	"Las Lajas"	6	2020-09-03
+"El Oro"	"Machala"	2190	2020-09-03
+"El Oro"	"Marcabelí"	6	2020-09-03
+"El Oro"	"Pasaje"	167	2020-09-03
+"El Oro"	"Piñas"	195	2020-09-03
+"El Oro"	"Portovelo"	434	2020-09-03
+"El Oro"	"Santa Rosa"	577	2020-09-03
+"El Oro"	"Zaruma"	203	2020-09-03
+"El Oro"	"Arenillas"	275	2020-09-04
+"El Oro"	"Atahualpa"	46	2020-09-04
+"El Oro"	"Balsas"	47	2020-09-04
+"El Oro"	"Chilla"	4	2020-09-04
+"El Oro"	"El Guabo"	128	2020-09-04
+"El Oro"	"Huaquillas"	233	2020-09-04
+"El Oro"	"Las Lajas"	6	2020-09-04
+"El Oro"	"Machala"	2222	2020-09-04
+"El Oro"	"Marcabelí"	6	2020-09-04
+"El Oro"	"Pasaje"	171	2020-09-04
+"El Oro"	"Piñas"	195	2020-09-04
+"El Oro"	"Portovelo"	436	2020-09-04
+"El Oro"	"Santa Rosa"	587	2020-09-04
+"El Oro"	"Zaruma"	204	2020-09-04
+"El Oro"	"Arenillas"	288	2020-09-05
+"El Oro"	"Atahualpa"	49	2020-09-05
+"El Oro"	"Balsas"	47	2020-09-05
+"El Oro"	"Chilla"	4	2020-09-05
+"El Oro"	"El Guabo"	129	2020-09-05
+"El Oro"	"Huaquillas"	233	2020-09-05
+"El Oro"	"Las Lajas"	6	2020-09-05
+"El Oro"	"Machala"	2242	2020-09-05
+"El Oro"	"Marcabelí"	6	2020-09-05
+"El Oro"	"Pasaje"	176	2020-09-05
+"El Oro"	"Piñas"	196	2020-09-05
+"El Oro"	"Portovelo"	443	2020-09-05
+"El Oro"	"Santa Rosa"	590	2020-09-05
+"El Oro"	"Zaruma"	220	2020-09-05
+"El Oro"	"Arenillas"	289	2020-09-06
+"El Oro"	"Atahualpa"	57	2020-09-06
+"El Oro"	"Balsas"	47	2020-09-06
+"El Oro"	"Chilla"	4	2020-09-06
+"El Oro"	"El Guabo"	129	2020-09-06
+"El Oro"	"Huaquillas"	235	2020-09-06
+"El Oro"	"Las Lajas"	6	2020-09-06
+"El Oro"	"Machala"	2272	2020-09-06
+"El Oro"	"Marcabelí"	6	2020-09-06
+"El Oro"	"Pasaje"	178	2020-09-06
+"El Oro"	"Piñas"	198	2020-09-06
+"El Oro"	"Portovelo"	448	2020-09-06
+"El Oro"	"Santa Rosa"	606	2020-09-06
+"El Oro"	"Zaruma"	232	2020-09-06
+"El Oro"	"Arenillas"	302	2020-09-07
+"El Oro"	"Atahualpa"	57	2020-09-07
+"El Oro"	"Balsas"	47	2020-09-07
+"El Oro"	"Chilla"	4	2020-09-07
+"El Oro"	"El Guabo"	129	2020-09-07
+"El Oro"	"Huaquillas"	239	2020-09-07
+"El Oro"	"Las Lajas"	6	2020-09-07
+"El Oro"	"Machala"	2274	2020-09-07
+"El Oro"	"Marcabelí"	6	2020-09-07
+"El Oro"	"Pasaje"	178	2020-09-07
+"El Oro"	"Piñas"	198	2020-09-07
+"El Oro"	"Portovelo"	448	2020-09-07
+"El Oro"	"Santa Rosa"	607	2020-09-07
+"El Oro"	"Zaruma"	232	2020-09-07
+"El Oro"	"Arenillas"	302	2020-09-08
+"El Oro"	"Atahualpa"	57	2020-09-08
+"El Oro"	"Balsas"	47	2020-09-08
+"El Oro"	"Chilla"	4	2020-09-08
+"El Oro"	"El Guabo"	129	2020-09-08
+"El Oro"	"Huaquillas"	239	2020-09-08
+"El Oro"	"Las Lajas"	6	2020-09-08
+"El Oro"	"Machala"	2276	2020-09-08
+"El Oro"	"Marcabelí"	6	2020-09-08
+"El Oro"	"Pasaje"	178	2020-09-08
+"El Oro"	"Piñas"	223	2020-09-08
+"El Oro"	"Portovelo"	448	2020-09-08
+"El Oro"	"Santa Rosa"	608	2020-09-08
+"El Oro"	"Zaruma"	232	2020-09-08
+"El Oro"	"Arenillas"	302	2020-09-09
+"El Oro"	"Atahualpa"	57	2020-09-09
+"El Oro"	"Balsas"	47	2020-09-09
+"El Oro"	"Chilla"	4	2020-09-09
+"El Oro"	"El Guabo"	129	2020-09-09
+"El Oro"	"Huaquillas"	239	2020-09-09
+"El Oro"	"Las Lajas"	6	2020-09-09
+"El Oro"	"Machala"	2291	2020-09-09
+"El Oro"	"Marcabelí"	6	2020-09-09
+"El Oro"	"Pasaje"	179	2020-09-09
+"El Oro"	"Piñas"	225	2020-09-09
+"El Oro"	"Portovelo"	448	2020-09-09
+"El Oro"	"Santa Rosa"	610	2020-09-09
+"El Oro"	"Zaruma"	236	2020-09-09
+"El Oro"	"Arenillas"	302	2020-09-10
+"El Oro"	"Atahualpa"	57	2020-09-10
+"El Oro"	"Balsas"	47	2020-09-10
+"El Oro"	"Chilla"	4	2020-09-10
+"El Oro"	"El Guabo"	129	2020-09-10
+"El Oro"	"Huaquillas"	239	2020-09-10
+"El Oro"	"Las Lajas"	6	2020-09-10
+"El Oro"	"Machala"	2360	2020-09-10
+"El Oro"	"Marcabelí"	7	2020-09-10
+"El Oro"	"Pasaje"	180	2020-09-10
+"El Oro"	"Piñas"	227	2020-09-10
+"El Oro"	"Portovelo"	448	2020-09-10
+"El Oro"	"Santa Rosa"	635	2020-09-10
+"El Oro"	"Zaruma"	236	2020-09-10
+"El Oro"	"Arenillas"	319	2020-09-11
+"El Oro"	"Atahualpa"	57	2020-09-11
+"El Oro"	"Balsas"	47	2020-09-11
+"El Oro"	"Chilla"	4	2020-09-11
+"El Oro"	"El Guabo"	132	2020-09-11
+"El Oro"	"Huaquillas"	244	2020-09-11
+"El Oro"	"Las Lajas"	6	2020-09-11
+"El Oro"	"Machala"	2379	2020-09-11
+"El Oro"	"Marcabelí"	9	2020-09-11
+"El Oro"	"Pasaje"	181	2020-09-11
+"El Oro"	"Piñas"	245	2020-09-11
+"El Oro"	"Portovelo"	449	2020-09-11
+"El Oro"	"Santa Rosa"	640	2020-09-11
+"El Oro"	"Zaruma"	239	2020-09-11
+"El Oro"	"Arenillas"	319	2020-09-12
+"El Oro"	"Atahualpa"	61	2020-09-12
+"El Oro"	"Balsas"	47	2020-09-12
+"El Oro"	"Chilla"	5	2020-09-12
+"El Oro"	"El Guabo"	132	2020-09-12
+"El Oro"	"Huaquillas"	244	2020-09-12
+"El Oro"	"Las Lajas"	6	2020-09-12
+"El Oro"	"Machala"	2397	2020-09-12
+"El Oro"	"Marcabelí"	9	2020-09-12
+"El Oro"	"Pasaje"	183	2020-09-12
+"El Oro"	"Piñas"	245	2020-09-12
+"El Oro"	"Portovelo"	451	2020-09-12
+"El Oro"	"Santa Rosa"	640	2020-09-12
+"El Oro"	"Zaruma"	245	2020-09-12
+"El Oro"	"Arenillas"	324	2020-09-13
+"El Oro"	"Atahualpa"	66	2020-09-13
+"El Oro"	"Balsas"	47	2020-09-13
+"El Oro"	"Chilla"	5	2020-09-13
+"El Oro"	"El Guabo"	132	2020-09-13
+"El Oro"	"Huaquillas"	249	2020-09-13
+"El Oro"	"Las Lajas"	6	2020-09-13
+"El Oro"	"Machala"	2436	2020-09-13
+"El Oro"	"Marcabelí"	9	2020-09-13
+"El Oro"	"Pasaje"	184	2020-09-13
+"El Oro"	"Piñas"	245	2020-09-13
+"El Oro"	"Portovelo"	451	2020-09-13
+"El Oro"	"Santa Rosa"	648	2020-09-13
+"El Oro"	"Zaruma"	251	2020-09-13
+"El Oro"	"Arenillas"	324	2020-09-14
+"El Oro"	"Atahualpa"	66	2020-09-14
+"El Oro"	"Balsas"	47	2020-09-14
+"El Oro"	"Chilla"	5	2020-09-14
+"El Oro"	"El Guabo"	133	2020-09-14
+"El Oro"	"Huaquillas"	249	2020-09-14
+"El Oro"	"Las Lajas"	6	2020-09-14
+"El Oro"	"Machala"	2445	2020-09-14
+"El Oro"	"Marcabelí"	9	2020-09-14
+"El Oro"	"Pasaje"	186	2020-09-14
+"El Oro"	"Piñas"	259	2020-09-14
+"El Oro"	"Portovelo"	451	2020-09-14
+"El Oro"	"Santa Rosa"	651	2020-09-14
+"El Oro"	"Zaruma"	251	2020-09-14
+"El Oro"	"Arenillas"	324	2020-09-15
+"El Oro"	"Atahualpa"	66	2020-09-15
+"El Oro"	"Balsas"	47	2020-09-15
+"El Oro"	"Chilla"	5	2020-09-15
+"El Oro"	"El Guabo"	134	2020-09-15
+"El Oro"	"Huaquillas"	249	2020-09-15
+"El Oro"	"Las Lajas"	6	2020-09-15
+"El Oro"	"Machala"	2455	2020-09-15
+"El Oro"	"Marcabelí"	9	2020-09-15
+"El Oro"	"Pasaje"	186	2020-09-15
+"El Oro"	"Piñas"	259	2020-09-15
+"El Oro"	"Portovelo"	451	2020-09-15
+"El Oro"	"Santa Rosa"	651	2020-09-15
+"El Oro"	"Zaruma"	253	2020-09-15
+"El Oro"	"Arenillas"	325	2020-09-16
+"El Oro"	"Atahualpa"	66	2020-09-16
+"El Oro"	"Balsas"	47	2020-09-16
+"El Oro"	"Chilla"	5	2020-09-16
+"El Oro"	"El Guabo"	135	2020-09-16
+"El Oro"	"Huaquillas"	256	2020-09-16
+"El Oro"	"Las Lajas"	11	2020-09-16
+"El Oro"	"Machala"	2465	2020-09-16
+"El Oro"	"Marcabelí"	9	2020-09-16
+"El Oro"	"Pasaje"	187	2020-09-16
+"El Oro"	"Piñas"	262	2020-09-16
+"El Oro"	"Portovelo"	451	2020-09-16
+"El Oro"	"Santa Rosa"	651	2020-09-16
+"El Oro"	"Zaruma"	257	2020-09-16
+"El Oro"	"Arenillas"	326	2020-09-17
+"El Oro"	"Atahualpa"	66	2020-09-17
+"El Oro"	"Balsas"	47	2020-09-17
+"El Oro"	"Chilla"	5	2020-09-17
+"El Oro"	"El Guabo"	135	2020-09-17
+"El Oro"	"Huaquillas"	256	2020-09-17
+"El Oro"	"Las Lajas"	11	2020-09-17
+"El Oro"	"Machala"	2487	2020-09-17
+"El Oro"	"Marcabelí"	9	2020-09-17
+"El Oro"	"Pasaje"	190	2020-09-17
+"El Oro"	"Piñas"	262	2020-09-17
+"El Oro"	"Portovelo"	451	2020-09-17
+"El Oro"	"Santa Rosa"	659	2020-09-17
+"El Oro"	"Zaruma"	258	2020-09-17
+"El Oro"	"Arenillas"	330	2020-09-18
+"El Oro"	"Atahualpa"	67	2020-09-18
+"El Oro"	"Balsas"	47	2020-09-18
+"El Oro"	"Chilla"	5	2020-09-18
+"El Oro"	"El Guabo"	135	2020-09-18
+"El Oro"	"Huaquillas"	259	2020-09-18
+"El Oro"	"Las Lajas"	11	2020-09-18
+"El Oro"	"Machala"	2503	2020-09-18
+"El Oro"	"Marcabelí"	9	2020-09-18
+"El Oro"	"Pasaje"	192	2020-09-18
+"El Oro"	"Piñas"	264	2020-09-18
+"El Oro"	"Portovelo"	451	2020-09-18
+"El Oro"	"Santa Rosa"	659	2020-09-18
+"El Oro"	"Zaruma"	274	2020-09-18
+"El Oro"	"Arenillas"	331	2020-09-19
+"El Oro"	"Atahualpa"	68	2020-09-19
+"El Oro"	"Balsas"	47	2020-09-19
+"El Oro"	"Chilla"	5	2020-09-19
+"El Oro"	"El Guabo"	135	2020-09-19
+"El Oro"	"Huaquillas"	265	2020-09-19
+"El Oro"	"Las Lajas"	11	2020-09-19
+"El Oro"	"Machala"	2514	2020-09-19
+"El Oro"	"Marcabelí"	9	2020-09-19
+"El Oro"	"Pasaje"	194	2020-09-19
+"El Oro"	"Piñas"	267	2020-09-19
+"El Oro"	"Portovelo"	454	2020-09-19
+"El Oro"	"Santa Rosa"	661	2020-09-19
+"El Oro"	"Zaruma"	282	2020-09-19
+"El Oro"	"Arenillas"	338	2020-09-20
+"El Oro"	"Atahualpa"	68	2020-09-20
+"El Oro"	"Balsas"	47	2020-09-20
+"El Oro"	"Chilla"	5	2020-09-20
+"El Oro"	"El Guabo"	135	2020-09-20
+"El Oro"	"Huaquillas"	270	2020-09-20
+"El Oro"	"Las Lajas"	11	2020-09-20
+"El Oro"	"Machala"	2536	2020-09-20
+"El Oro"	"Marcabelí"	9	2020-09-20
+"El Oro"	"Pasaje"	194	2020-09-20
+"El Oro"	"Piñas"	267	2020-09-20
+"El Oro"	"Portovelo"	454	2020-09-20
+"El Oro"	"Santa Rosa"	661	2020-09-20
+"El Oro"	"Zaruma"	282	2020-09-20
+"El Oro"	"Arenillas"	338	2020-09-21
+"El Oro"	"Atahualpa"	68	2020-09-21
+"El Oro"	"Balsas"	47	2020-09-21
+"El Oro"	"Chilla"	5	2020-09-21
+"El Oro"	"El Guabo"	135	2020-09-21
+"El Oro"	"Huaquillas"	270	2020-09-21
+"El Oro"	"Las Lajas"	11	2020-09-21
+"El Oro"	"Machala"	2536	2020-09-21
+"El Oro"	"Marcabelí"	9	2020-09-21
+"El Oro"	"Pasaje"	194	2020-09-21
+"El Oro"	"Piñas"	270	2020-09-21
+"El Oro"	"Portovelo"	454	2020-09-21
+"El Oro"	"Santa Rosa"	661	2020-09-21
+"El Oro"	"Zaruma"	282	2020-09-21
+"El Oro"	"Arenillas"	338	2020-09-22
+"El Oro"	"Atahualpa"	69	2020-09-22
+"El Oro"	"Balsas"	47	2020-09-22
+"El Oro"	"Chilla"	5	2020-09-22
+"El Oro"	"El Guabo"	135	2020-09-22
+"El Oro"	"Huaquillas"	270	2020-09-22
+"El Oro"	"Las Lajas"	11	2020-09-22
+"El Oro"	"Machala"	2541	2020-09-22
+"El Oro"	"Marcabelí"	10	2020-09-22
+"El Oro"	"Pasaje"	194	2020-09-22
+"El Oro"	"Piñas"	273	2020-09-22
+"El Oro"	"Portovelo"	454	2020-09-22
+"El Oro"	"Santa Rosa"	661	2020-09-22
+"El Oro"	"Zaruma"	287	2020-09-22
+"El Oro"	"Arenillas"	338	2020-09-23
+"El Oro"	"Atahualpa"	69	2020-09-23
+"El Oro"	"Balsas"	47	2020-09-23
+"El Oro"	"Chilla"	5	2020-09-23
+"El Oro"	"El Guabo"	135	2020-09-23
+"El Oro"	"Huaquillas"	270	2020-09-23
+"El Oro"	"Las Lajas"	11	2020-09-23
+"El Oro"	"Machala"	2558	2020-09-23
+"El Oro"	"Marcabelí"	10	2020-09-23
+"El Oro"	"Pasaje"	195	2020-09-23
+"El Oro"	"Piñas"	273	2020-09-23
+"El Oro"	"Portovelo"	454	2020-09-23
+"El Oro"	"Santa Rosa"	661	2020-09-23
+"El Oro"	"Zaruma"	287	2020-09-23
+"El Oro"	"Arenillas"	338	2020-09-24
+"El Oro"	"Atahualpa"	71	2020-09-24
+"El Oro"	"Balsas"	47	2020-09-24
+"El Oro"	"Chilla"	5	2020-09-24
+"El Oro"	"El Guabo"	135	2020-09-24
+"El Oro"	"Huaquillas"	271	2020-09-24
+"El Oro"	"Las Lajas"	11	2020-09-24
+"El Oro"	"Machala"	2568	2020-09-24
+"El Oro"	"Marcabelí"	10	2020-09-24
+"El Oro"	"Pasaje"	195	2020-09-24
+"El Oro"	"Piñas"	273	2020-09-24
+"El Oro"	"Portovelo"	454	2020-09-24
+"El Oro"	"Santa Rosa"	664	2020-09-24
+"El Oro"	"Zaruma"	292	2020-09-24
+"El Oro"	"Arenillas"	342	2020-09-25
+"El Oro"	"Atahualpa"	72	2020-09-25
+"El Oro"	"Balsas"	47	2020-09-25
+"El Oro"	"Chilla"	5	2020-09-25
+"El Oro"	"El Guabo"	135	2020-09-25
+"El Oro"	"Huaquillas"	276	2020-09-25
+"El Oro"	"Las Lajas"	11	2020-09-25
+"El Oro"	"Machala"	2570	2020-09-25
+"El Oro"	"Marcabelí"	11	2020-09-25
+"El Oro"	"Pasaje"	195	2020-09-25
+"El Oro"	"Piñas"	275	2020-09-25
+"El Oro"	"Portovelo"	454	2020-09-25
+"El Oro"	"Santa Rosa"	664	2020-09-25
+"El Oro"	"Zaruma"	295	2020-09-25
+"El Oro"	"Arenillas"	342	2020-09-26
+"El Oro"	"Atahualpa"	72	2020-09-26
+"El Oro"	"Balsas"	47	2020-09-26
+"El Oro"	"Chilla"	5	2020-09-26
+"El Oro"	"El Guabo"	135	2020-09-26
+"El Oro"	"Huaquillas"	279	2020-09-26
+"El Oro"	"Las Lajas"	11	2020-09-26
+"El Oro"	"Machala"	2578	2020-09-26
+"El Oro"	"Marcabelí"	11	2020-09-26
+"El Oro"	"Pasaje"	196	2020-09-26
+"El Oro"	"Piñas"	277	2020-09-26
+"El Oro"	"Portovelo"	456	2020-09-26
+"El Oro"	"Santa Rosa"	667	2020-09-26
+"El Oro"	"Zaruma"	295	2020-09-26
+"El Oro"	"Arenillas"	345	2020-09-27
+"El Oro"	"Atahualpa"	72	2020-09-27
+"El Oro"	"Balsas"	47	2020-09-27
+"El Oro"	"Chilla"	5	2020-09-27
+"El Oro"	"El Guabo"	135	2020-09-27
+"El Oro"	"Huaquillas"	285	2020-09-27
+"El Oro"	"Las Lajas"	11	2020-09-27
+"El Oro"	"Machala"	2579	2020-09-27
+"El Oro"	"Marcabelí"	11	2020-09-27
+"El Oro"	"Pasaje"	197	2020-09-27
+"El Oro"	"Piñas"	277	2020-09-27
+"El Oro"	"Portovelo"	456	2020-09-27
+"El Oro"	"Santa Rosa"	667	2020-09-27
+"El Oro"	"Zaruma"	295	2020-09-27
+"El Oro"	"Arenillas"	345	2020-09-28
+"El Oro"	"Atahualpa"	72	2020-09-28
+"El Oro"	"Balsas"	47	2020-09-28
+"El Oro"	"Chilla"	5	2020-09-28
+"El Oro"	"El Guabo"	135	2020-09-28
+"El Oro"	"Huaquillas"	286	2020-09-28
+"El Oro"	"Las Lajas"	11	2020-09-28
+"El Oro"	"Machala"	2579	2020-09-28
+"El Oro"	"Marcabelí"	11	2020-09-28
+"El Oro"	"Pasaje"	197	2020-09-28
+"El Oro"	"Piñas"	278	2020-09-28
+"El Oro"	"Portovelo"	456	2020-09-28
+"El Oro"	"Santa Rosa"	667	2020-09-28
+"El Oro"	"Zaruma"	295	2020-09-28
+"El Oro"	"Arenillas"	345	2020-09-29
+"El Oro"	"Atahualpa"	72	2020-09-29
+"El Oro"	"Balsas"	47	2020-09-29
+"El Oro"	"Chilla"	5	2020-09-29
+"El Oro"	"El Guabo"	135	2020-09-29
+"El Oro"	"Huaquillas"	286	2020-09-29
+"El Oro"	"Las Lajas"	11	2020-09-29
+"El Oro"	"Machala"	2591	2020-09-29
+"El Oro"	"Marcabelí"	11	2020-09-29
+"El Oro"	"Pasaje"	197	2020-09-29
+"El Oro"	"Piñas"	278	2020-09-29
+"El Oro"	"Portovelo"	456	2020-09-29
+"El Oro"	"Santa Rosa"	668	2020-09-29
+"El Oro"	"Zaruma"	298	2020-09-29
+"El Oro"	"Arenillas"	345	2020-09-30
+"El Oro"	"Atahualpa"	72	2020-09-30
+"El Oro"	"Balsas"	47	2020-09-30
+"El Oro"	"Chilla"	5	2020-09-30
+"El Oro"	"El Guabo"	138	2020-09-30
+"El Oro"	"Huaquillas"	292	2020-09-30
+"El Oro"	"Las Lajas"	11	2020-09-30
+"El Oro"	"Machala"	2688	2020-09-30
+"El Oro"	"Marcabelí"	11	2020-09-30
+"El Oro"	"Pasaje"	201	2020-09-30
+"El Oro"	"Piñas"	278	2020-09-30
+"El Oro"	"Portovelo"	457	2020-09-30
+"El Oro"	"Santa Rosa"	677	2020-09-30
+"El Oro"	"Zaruma"	301	2020-09-30
+"El Oro"	"Arenillas"	345	2020-10-01
+"El Oro"	"Atahualpa"	72	2020-10-01
+"El Oro"	"Balsas"	47	2020-10-01
+"El Oro"	"Chilla"	5	2020-10-01
+"El Oro"	"El Guabo"	141	2020-10-01
+"El Oro"	"Huaquillas"	293	2020-10-01
+"El Oro"	"Las Lajas"	11	2020-10-01
+"El Oro"	"Machala"	2745	2020-10-01
+"El Oro"	"Marcabelí"	11	2020-10-01
+"El Oro"	"Pasaje"	205	2020-10-01
+"El Oro"	"Piñas"	280	2020-10-01
+"El Oro"	"Portovelo"	458	2020-10-01
+"El Oro"	"Santa Rosa"	680	2020-10-01
+"El Oro"	"Zaruma"	307	2020-10-01
+"El Oro"	"Arenillas"	348	2020-10-02
+"El Oro"	"Atahualpa"	75	2020-10-02
+"El Oro"	"Balsas"	47	2020-10-02
+"El Oro"	"Chilla"	5	2020-10-02
+"El Oro"	"El Guabo"	141	2020-10-02
+"El Oro"	"Huaquillas"	296	2020-10-02
+"El Oro"	"Las Lajas"	11	2020-10-02
+"El Oro"	"Machala"	2748	2020-10-02
+"El Oro"	"Marcabelí"	11	2020-10-02
+"El Oro"	"Pasaje"	205	2020-10-02
+"El Oro"	"Piñas"	286	2020-10-02
+"El Oro"	"Portovelo"	459	2020-10-02
+"El Oro"	"Santa Rosa"	680	2020-10-02
+"El Oro"	"Zaruma"	307	2020-10-02
+"El Oro"	"Arenillas"	348	2020-10-03
+"El Oro"	"Atahualpa"	75	2020-10-03
+"El Oro"	"Balsas"	47	2020-10-03
+"El Oro"	"Chilla"	5	2020-10-03
+"El Oro"	"El Guabo"	141	2020-10-03
+"El Oro"	"Huaquillas"	305	2020-10-03
+"El Oro"	"Las Lajas"	11	2020-10-03
+"El Oro"	"Machala"	2749	2020-10-03
+"El Oro"	"Marcabelí"	11	2020-10-03
+"El Oro"	"Pasaje"	205	2020-10-03
+"El Oro"	"Piñas"	286	2020-10-03
+"El Oro"	"Portovelo"	459	2020-10-03
+"El Oro"	"Santa Rosa"	686	2020-10-03
+"El Oro"	"Zaruma"	307	2020-10-03
+"El Oro"	"Arenillas"	348	2020-10-04
+"El Oro"	"Atahualpa"	75	2020-10-04
+"El Oro"	"Balsas"	47	2020-10-04
+"El Oro"	"Chilla"	5	2020-10-04
+"El Oro"	"El Guabo"	141	2020-10-04
+"El Oro"	"Huaquillas"	305	2020-10-04
+"El Oro"	"Las Lajas"	11	2020-10-04
+"El Oro"	"Machala"	2754	2020-10-04
+"El Oro"	"Marcabelí"	11	2020-10-04
+"El Oro"	"Pasaje"	205	2020-10-04
+"El Oro"	"Piñas"	286	2020-10-04
+"El Oro"	"Portovelo"	459	2020-10-04
+"El Oro"	"Santa Rosa"	686	2020-10-04
+"El Oro"	"Zaruma"	307	2020-10-04
+"El Oro"	"Arenillas"	349	2020-10-05
+"El Oro"	"Atahualpa"	75	2020-10-05
+"El Oro"	"Balsas"	47	2020-10-05
+"El Oro"	"Chilla"	5	2020-10-05
+"El Oro"	"El Guabo"	141	2020-10-05
+"El Oro"	"Huaquillas"	308	2020-10-05
+"El Oro"	"Las Lajas"	11	2020-10-05
+"El Oro"	"Machala"	2759	2020-10-05
+"El Oro"	"Marcabelí"	11	2020-10-05
+"El Oro"	"Pasaje"	206	2020-10-05
+"El Oro"	"Piñas"	290	2020-10-05
+"El Oro"	"Portovelo"	459	2020-10-05
+"El Oro"	"Santa Rosa"	686	2020-10-05
+"El Oro"	"Zaruma"	307	2020-10-05
+"El Oro"	"Arenillas"	349	2020-10-06
+"El Oro"	"Atahualpa"	75	2020-10-06
+"El Oro"	"Balsas"	49	2020-10-06
+"El Oro"	"Chilla"	5	2020-10-06
+"El Oro"	"El Guabo"	141	2020-10-06
+"El Oro"	"Huaquillas"	308	2020-10-06
+"El Oro"	"Las Lajas"	11	2020-10-06
+"El Oro"	"Machala"	2762	2020-10-06
+"El Oro"	"Marcabelí"	11	2020-10-06
+"El Oro"	"Pasaje"	206	2020-10-06
+"El Oro"	"Piñas"	294	2020-10-06
+"El Oro"	"Portovelo"	459	2020-10-06
+"El Oro"	"Santa Rosa"	687	2020-10-06
+"El Oro"	"Zaruma"	307	2020-10-06
+"El Oro"	"Arenillas"	350	2020-10-07
+"El Oro"	"Atahualpa"	76	2020-10-07
+"El Oro"	"Balsas"	49	2020-10-07
+"El Oro"	"Chilla"	5	2020-10-07
+"El Oro"	"El Guabo"	144	2020-10-07
+"El Oro"	"Huaquillas"	313	2020-10-07
+"El Oro"	"Las Lajas"	11	2020-10-07
+"El Oro"	"Machala"	2814	2020-10-07
+"El Oro"	"Marcabelí"	11	2020-10-07
+"El Oro"	"Pasaje"	213	2020-10-07
+"El Oro"	"Piñas"	297	2020-10-07
+"El Oro"	"Portovelo"	461	2020-10-07
+"El Oro"	"Santa Rosa"	687	2020-10-07
+"El Oro"	"Zaruma"	309	2020-10-07
+"El Oro"	"Arenillas"	350	2020-10-08
+"El Oro"	"Atahualpa"	76	2020-10-08
+"El Oro"	"Balsas"	49	2020-10-08
+"El Oro"	"Chilla"	5	2020-10-08
+"El Oro"	"El Guabo"	146	2020-10-08
+"El Oro"	"Huaquillas"	314	2020-10-08
+"El Oro"	"Las Lajas"	11	2020-10-08
+"El Oro"	"Machala"	2855	2020-10-08
+"El Oro"	"Marcabelí"	11	2020-10-08
+"El Oro"	"Pasaje"	221	2020-10-08
+"El Oro"	"Piñas"	297	2020-10-08
+"El Oro"	"Portovelo"	461	2020-10-08
+"El Oro"	"Santa Rosa"	691	2020-10-08
+"El Oro"	"Zaruma"	310	2020-10-08
+"El Oro"	"Arenillas"	351	2020-10-09
+"El Oro"	"Atahualpa"	78	2020-10-09
+"El Oro"	"Balsas"	49	2020-10-09
+"El Oro"	"Chilla"	5	2020-10-09
+"El Oro"	"El Guabo"	147	2020-10-09
+"El Oro"	"Huaquillas"	318	2020-10-09
+"El Oro"	"Las Lajas"	12	2020-10-09
+"El Oro"	"Machala"	2866	2020-10-09
+"El Oro"	"Marcabelí"	11	2020-10-09
+"El Oro"	"Pasaje"	221	2020-10-09
+"El Oro"	"Piñas"	304	2020-10-09
+"El Oro"	"Portovelo"	461	2020-10-09
+"El Oro"	"Santa Rosa"	693	2020-10-09
+"El Oro"	"Zaruma"	312	2020-10-09
+"El Oro"	"Arenillas"	351	2020-10-10
+"El Oro"	"Atahualpa"	78	2020-10-10
+"El Oro"	"Balsas"	49	2020-10-10
+"El Oro"	"Chilla"	5	2020-10-10
+"El Oro"	"El Guabo"	147	2020-10-10
+"El Oro"	"Huaquillas"	318	2020-10-10
+"El Oro"	"Las Lajas"	12	2020-10-10
+"El Oro"	"Machala"	2866	2020-10-10
+"El Oro"	"Marcabelí"	11	2020-10-10
+"El Oro"	"Pasaje"	221	2020-10-10
+"El Oro"	"Piñas"	308	2020-10-10
+"El Oro"	"Portovelo"	461	2020-10-10
+"El Oro"	"Santa Rosa"	693	2020-10-10
+"El Oro"	"Zaruma"	312	2020-10-10
+"El Oro"	"Arenillas"	351	2020-10-11
+"El Oro"	"Atahualpa"	78	2020-10-11
+"El Oro"	"Balsas"	49	2020-10-11
+"El Oro"	"Chilla"	5	2020-10-11
+"El Oro"	"El Guabo"	147	2020-10-11
+"El Oro"	"Huaquillas"	318	2020-10-11
+"El Oro"	"Las Lajas"	12	2020-10-11
+"El Oro"	"Machala"	2866	2020-10-11
+"El Oro"	"Marcabelí"	11	2020-10-11
+"El Oro"	"Pasaje"	221	2020-10-11
+"El Oro"	"Piñas"	309	2020-10-11
+"El Oro"	"Portovelo"	461	2020-10-11
+"El Oro"	"Santa Rosa"	693	2020-10-11
+"El Oro"	"Zaruma"	312	2020-10-11
+"El Oro"	"Arenillas"	351	2020-10-12
+"El Oro"	"Atahualpa"	78	2020-10-12
+"El Oro"	"Balsas"	50	2020-10-12
+"El Oro"	"Chilla"	5	2020-10-12
+"El Oro"	"El Guabo"	147	2020-10-12
+"El Oro"	"Huaquillas"	319	2020-10-12
+"El Oro"	"Las Lajas"	12	2020-10-12
+"El Oro"	"Machala"	2866	2020-10-12
+"El Oro"	"Marcabelí"	11	2020-10-12
+"El Oro"	"Pasaje"	221	2020-10-12
+"El Oro"	"Piñas"	315	2020-10-12
+"El Oro"	"Portovelo"	461	2020-10-12
+"El Oro"	"Santa Rosa"	695	2020-10-12
+"El Oro"	"Zaruma"	313	2020-10-12
+"El Oro"	"Arenillas"	359	2020-10-13
+"El Oro"	"Atahualpa"	79	2020-10-13
+"El Oro"	"Balsas"	50	2020-10-13
+"El Oro"	"Chilla"	5	2020-10-13
+"El Oro"	"El Guabo"	147	2020-10-13
+"El Oro"	"Huaquillas"	334	2020-10-13
+"El Oro"	"Las Lajas"	12	2020-10-13
+"El Oro"	"Machala"	2895	2020-10-13
+"El Oro"	"Marcabelí"	11	2020-10-13
+"El Oro"	"Pasaje"	223	2020-10-13
+"El Oro"	"Piñas"	316	2020-10-13
+"El Oro"	"Portovelo"	463	2020-10-13
+"El Oro"	"Santa Rosa"	697	2020-10-13
+"El Oro"	"Zaruma"	314	2020-10-13
+"El Oro"	"Arenillas"	359	2020-10-14
+"El Oro"	"Atahualpa"	80	2020-10-14
+"El Oro"	"Balsas"	50	2020-10-14
+"El Oro"	"Chilla"	5	2020-10-14
+"El Oro"	"El Guabo"	148	2020-10-14
+"El Oro"	"Huaquillas"	340	2020-10-14
+"El Oro"	"Las Lajas"	12	2020-10-14
+"El Oro"	"Machala"	2910	2020-10-14
+"El Oro"	"Marcabelí"	11	2020-10-14
+"El Oro"	"Pasaje"	223	2020-10-14
+"El Oro"	"Piñas"	322	2020-10-14
+"El Oro"	"Portovelo"	463	2020-10-14
+"El Oro"	"Santa Rosa"	699	2020-10-14
+"El Oro"	"Zaruma"	314	2020-10-14
+"El Oro"	"Arenillas"	359	2020-10-15
+"El Oro"	"Atahualpa"	80	2020-10-15
+"El Oro"	"Balsas"	50	2020-10-15
+"El Oro"	"Chilla"	5	2020-10-15
+"El Oro"	"El Guabo"	148	2020-10-15
+"El Oro"	"Huaquillas"	346	2020-10-15
+"El Oro"	"Las Lajas"	12	2020-10-15
+"El Oro"	"Machala"	2923	2020-10-15
+"El Oro"	"Marcabelí"	11	2020-10-15
+"El Oro"	"Pasaje"	224	2020-10-15
+"El Oro"	"Piñas"	322	2020-10-15
+"El Oro"	"Portovelo"	463	2020-10-15
+"El Oro"	"Santa Rosa"	706	2020-10-15
+"El Oro"	"Zaruma"	315	2020-10-15
+"El Oro"	"Arenillas"	362	2020-10-16
+"El Oro"	"Atahualpa"	80	2020-10-16
+"El Oro"	"Balsas"	50	2020-10-16
+"El Oro"	"Chilla"	5	2020-10-16
+"El Oro"	"El Guabo"	148	2020-10-16
+"El Oro"	"Huaquillas"	354	2020-10-16
+"El Oro"	"Las Lajas"	12	2020-10-16
+"El Oro"	"Machala"	2940	2020-10-16
+"El Oro"	"Marcabelí"	11	2020-10-16
+"El Oro"	"Pasaje"	224	2020-10-16
+"El Oro"	"Piñas"	328	2020-10-16
+"El Oro"	"Portovelo"	471	2020-10-16
+"El Oro"	"Santa Rosa"	706	2020-10-16
+"El Oro"	"Zaruma"	317	2020-10-16
+"El Oro"	"Arenillas"	362	2020-10-17
+"El Oro"	"Atahualpa"	80	2020-10-17
+"El Oro"	"Balsas"	50	2020-10-17
+"El Oro"	"Chilla"	5	2020-10-17
+"El Oro"	"El Guabo"	148	2020-10-17
+"El Oro"	"Huaquillas"	354	2020-10-17
+"El Oro"	"Las Lajas"	12	2020-10-17
+"El Oro"	"Machala"	2941	2020-10-17
+"El Oro"	"Marcabelí"	11	2020-10-17
+"El Oro"	"Pasaje"	224	2020-10-17
+"El Oro"	"Piñas"	328	2020-10-17
+"El Oro"	"Portovelo"	471	2020-10-17
+"El Oro"	"Santa Rosa"	706	2020-10-17
+"El Oro"	"Zaruma"	317	2020-10-17
+"El Oro"	"Arenillas"	362	2020-10-18
+"El Oro"	"Atahualpa"	80	2020-10-18
+"El Oro"	"Balsas"	50	2020-10-18
+"El Oro"	"Chilla"	5	2020-10-18
+"El Oro"	"El Guabo"	148	2020-10-18
+"El Oro"	"Huaquillas"	354	2020-10-18
+"El Oro"	"Las Lajas"	12	2020-10-18
+"El Oro"	"Machala"	2949	2020-10-18
+"El Oro"	"Marcabelí"	11	2020-10-18
+"El Oro"	"Pasaje"	224	2020-10-18
+"El Oro"	"Piñas"	337	2020-10-18
+"El Oro"	"Portovelo"	471	2020-10-18
+"El Oro"	"Santa Rosa"	708	2020-10-18
+"El Oro"	"Zaruma"	317	2020-10-18
+"El Oro"	"Arenillas"	363	2020-10-19
+"El Oro"	"Atahualpa"	80	2020-10-19
+"El Oro"	"Balsas"	50	2020-10-19
+"El Oro"	"Chilla"	5	2020-10-19
+"El Oro"	"El Guabo"	148	2020-10-19
+"El Oro"	"Huaquillas"	355	2020-10-19
+"El Oro"	"Las Lajas"	12	2020-10-19
+"El Oro"	"Machala"	2955	2020-10-19
+"El Oro"	"Marcabelí"	11	2020-10-19
+"El Oro"	"Pasaje"	225	2020-10-19
+"El Oro"	"Piñas"	338	2020-10-19
+"El Oro"	"Portovelo"	471	2020-10-19
+"El Oro"	"Santa Rosa"	708	2020-10-19
+"El Oro"	"Zaruma"	317	2020-10-19
+"El Oro"	"Arenillas"	363	2020-10-20
+"El Oro"	"Atahualpa"	80	2020-10-20
+"El Oro"	"Balsas"	50	2020-10-20
+"El Oro"	"Chilla"	5	2020-10-20
+"El Oro"	"El Guabo"	148	2020-10-20
+"El Oro"	"Huaquillas"	355	2020-10-20
+"El Oro"	"Las Lajas"	12	2020-10-20
+"El Oro"	"Machala"	2955	2020-10-20
+"El Oro"	"Marcabelí"	11	2020-10-20
+"El Oro"	"Pasaje"	226	2020-10-20
+"El Oro"	"Piñas"	339	2020-10-20
+"El Oro"	"Portovelo"	471	2020-10-20
+"El Oro"	"Santa Rosa"	708	2020-10-20
+"El Oro"	"Zaruma"	317	2020-10-20
+"El Oro"	"Arenillas"	366	2020-10-21
+"El Oro"	"Atahualpa"	80	2020-10-21
+"El Oro"	"Balsas"	50	2020-10-21
+"El Oro"	"Chilla"	5	2020-10-21
+"El Oro"	"El Guabo"	150	2020-10-21
+"El Oro"	"Huaquillas"	355	2020-10-21
+"El Oro"	"Las Lajas"	12	2020-10-21
+"El Oro"	"Machala"	2996	2020-10-21
+"El Oro"	"Marcabelí"	12	2020-10-21
+"El Oro"	"Pasaje"	228	2020-10-21
+"El Oro"	"Piñas"	339	2020-10-21
+"El Oro"	"Portovelo"	471	2020-10-21
+"El Oro"	"Santa Rosa"	712	2020-10-21
+"El Oro"	"Zaruma"	318	2020-10-21
+"El Oro"	"Arenillas"	366	2020-10-22
+"El Oro"	"Atahualpa"	80	2020-10-22
+"El Oro"	"Balsas"	50	2020-10-22
+"El Oro"	"Chilla"	5	2020-10-22
+"El Oro"	"El Guabo"	154	2020-10-22
+"El Oro"	"Huaquillas"	358	2020-10-22
+"El Oro"	"Las Lajas"	12	2020-10-22
+"El Oro"	"Machala"	3047	2020-10-22
+"El Oro"	"Marcabelí"	12	2020-10-22
+"El Oro"	"Pasaje"	229	2020-10-22
+"El Oro"	"Piñas"	339	2020-10-22
+"El Oro"	"Portovelo"	471	2020-10-22
+"El Oro"	"Santa Rosa"	716	2020-10-22
+"El Oro"	"Zaruma"	321	2020-10-22
+"El Oro"	"Arenillas"	368	2020-10-23
+"El Oro"	"Atahualpa"	80	2020-10-23
+"El Oro"	"Balsas"	50	2020-10-23
+"El Oro"	"Chilla"	5	2020-10-23
+"El Oro"	"El Guabo"	156	2020-10-23
+"El Oro"	"Huaquillas"	367	2020-10-23
+"El Oro"	"Las Lajas"	12	2020-10-23
+"El Oro"	"Machala"	3098	2020-10-23
+"El Oro"	"Marcabelí"	12	2020-10-23
+"El Oro"	"Pasaje"	234	2020-10-23
+"El Oro"	"Piñas"	347	2020-10-23
+"El Oro"	"Portovelo"	482	2020-10-23
+"El Oro"	"Santa Rosa"	719	2020-10-23
+"El Oro"	"Zaruma"	323	2020-10-23
+"El Oro"	"Arenillas"	368	2020-10-24
+"El Oro"	"Atahualpa"	80	2020-10-24
+"El Oro"	"Balsas"	50	2020-10-24
+"El Oro"	"Chilla"	5	2020-10-24
+"El Oro"	"El Guabo"	156	2020-10-24
+"El Oro"	"Huaquillas"	367	2020-10-24
+"El Oro"	"Las Lajas"	12	2020-10-24
+"El Oro"	"Machala"	3135	2020-10-24
+"El Oro"	"Marcabelí"	12	2020-10-24
+"El Oro"	"Pasaje"	235	2020-10-24
+"El Oro"	"Piñas"	347	2020-10-24
+"El Oro"	"Portovelo"	482	2020-10-24
+"El Oro"	"Santa Rosa"	721	2020-10-24
+"El Oro"	"Zaruma"	323	2020-10-24
+"El Oro"	"Arenillas"	368	2020-10-25
+"El Oro"	"Atahualpa"	80	2020-10-25
+"El Oro"	"Balsas"	50	2020-10-25
+"El Oro"	"Chilla"	5	2020-10-25
+"El Oro"	"El Guabo"	156	2020-10-25
+"El Oro"	"Huaquillas"	368	2020-10-25
+"El Oro"	"Las Lajas"	12	2020-10-25
+"El Oro"	"Machala"	3136	2020-10-25
+"El Oro"	"Marcabelí"	12	2020-10-25
+"El Oro"	"Pasaje"	235	2020-10-25
+"El Oro"	"Piñas"	347	2020-10-25
+"El Oro"	"Portovelo"	482	2020-10-25
+"El Oro"	"Santa Rosa"	721	2020-10-25
+"El Oro"	"Zaruma"	323	2020-10-25
+"El Oro"	"Arenillas"	373	2020-10-26
+"El Oro"	"Atahualpa"	80	2020-10-26
+"El Oro"	"Balsas"	50	2020-10-26
+"El Oro"	"Chilla"	5	2020-10-26
+"El Oro"	"El Guabo"	156	2020-10-26
+"El Oro"	"Huaquillas"	370	2020-10-26
+"El Oro"	"Las Lajas"	12	2020-10-26
+"El Oro"	"Machala"	3144	2020-10-26
+"El Oro"	"Marcabelí"	12	2020-10-26
+"El Oro"	"Pasaje"	235	2020-10-26
+"El Oro"	"Piñas"	347	2020-10-26
+"El Oro"	"Portovelo"	482	2020-10-26
+"El Oro"	"Santa Rosa"	721	2020-10-26
+"El Oro"	"Zaruma"	323	2020-10-26
+"El Oro"	"Arenillas"	373	2020-10-27
+"El Oro"	"Atahualpa"	80	2020-10-27
+"El Oro"	"Balsas"	50	2020-10-27
+"El Oro"	"Chilla"	5	2020-10-27
+"El Oro"	"El Guabo"	157	2020-10-27
+"El Oro"	"Huaquillas"	371	2020-10-27
+"El Oro"	"Las Lajas"	12	2020-10-27
+"El Oro"	"Machala"	3179	2020-10-27
+"El Oro"	"Marcabelí"	12	2020-10-27
+"El Oro"	"Pasaje"	237	2020-10-27
+"El Oro"	"Piñas"	347	2020-10-27
+"El Oro"	"Portovelo"	482	2020-10-27
+"El Oro"	"Santa Rosa"	722	2020-10-27
+"El Oro"	"Zaruma"	323	2020-10-27
+"El Oro"	"Arenillas"	374	2020-10-28
+"El Oro"	"Atahualpa"	80	2020-10-28
+"El Oro"	"Balsas"	50	2020-10-28
+"El Oro"	"Chilla"	5	2020-10-28
+"El Oro"	"El Guabo"	157	2020-10-28
+"El Oro"	"Huaquillas"	375	2020-10-28
+"El Oro"	"Las Lajas"	12	2020-10-28
+"El Oro"	"Machala"	3223	2020-10-28
+"El Oro"	"Marcabelí"	13	2020-10-28
+"El Oro"	"Pasaje"	238	2020-10-28
+"El Oro"	"Piñas"	350	2020-10-28
+"El Oro"	"Portovelo"	483	2020-10-28
+"El Oro"	"Santa Rosa"	725	2020-10-28
+"El Oro"	"Zaruma"	323	2020-10-28
+"El Oro"	"Arenillas"	374	2020-10-29
+"El Oro"	"Atahualpa"	80	2020-10-29
+"El Oro"	"Balsas"	50	2020-10-29
+"El Oro"	"Chilla"	6	2020-10-29
+"El Oro"	"El Guabo"	157	2020-10-29
+"El Oro"	"Huaquillas"	377	2020-10-29
+"El Oro"	"Las Lajas"	12	2020-10-29
+"El Oro"	"Machala"	3238	2020-10-29
+"El Oro"	"Marcabelí"	13	2020-10-29
+"El Oro"	"Pasaje"	241	2020-10-29
+"El Oro"	"Piñas"	354	2020-10-29
+"El Oro"	"Portovelo"	483	2020-10-29
+"El Oro"	"Santa Rosa"	725	2020-10-29
+"El Oro"	"Zaruma"	323	2020-10-29
+"El Oro"	"Arenillas"	374	2020-10-30
+"El Oro"	"Atahualpa"	80	2020-10-30
+"El Oro"	"Balsas"	50	2020-10-30
+"El Oro"	"Chilla"	6	2020-10-30
+"El Oro"	"El Guabo"	157	2020-10-30
+"El Oro"	"Huaquillas"	377	2020-10-30
+"El Oro"	"Las Lajas"	12	2020-10-30
+"El Oro"	"Machala"	3244	2020-10-30
+"El Oro"	"Marcabelí"	13	2020-10-30
+"El Oro"	"Pasaje"	242	2020-10-30
+"El Oro"	"Piñas"	355	2020-10-30
+"El Oro"	"Portovelo"	483	2020-10-30
+"El Oro"	"Santa Rosa"	725	2020-10-30
+"El Oro"	"Zaruma"	323	2020-10-30
+"El Oro"	"Arenillas"	374	2020-10-31
+"El Oro"	"Atahualpa"	80	2020-10-31
+"El Oro"	"Balsas"	50	2020-10-31
+"El Oro"	"Chilla"	6	2020-10-31
+"El Oro"	"El Guabo"	157	2020-10-31
+"El Oro"	"Huaquillas"	377	2020-10-31
+"El Oro"	"Las Lajas"	12	2020-10-31
+"El Oro"	"Machala"	3244	2020-10-31
+"El Oro"	"Marcabelí"	13	2020-10-31
+"El Oro"	"Pasaje"	243	2020-10-31
+"El Oro"	"Piñas"	363	2020-10-31
+"El Oro"	"Portovelo"	483	2020-10-31
+"El Oro"	"Santa Rosa"	727	2020-10-31
+"El Oro"	"Zaruma"	323	2020-10-31
+"El Oro"	"Arenillas"	374	2020-11-01
+"El Oro"	"Atahualpa"	80	2020-11-01
+"El Oro"	"Balsas"	50	2020-11-01
+"El Oro"	"Chilla"	6	2020-11-01
+"El Oro"	"El Guabo"	157	2020-11-01
+"El Oro"	"Huaquillas"	383	2020-11-01
+"El Oro"	"Las Lajas"	12	2020-11-01
+"El Oro"	"Machala"	3255	2020-11-01
+"El Oro"	"Marcabelí"	13	2020-11-01
+"El Oro"	"Pasaje"	245	2020-11-01
+"El Oro"	"Piñas"	363	2020-11-01
+"El Oro"	"Portovelo"	483	2020-11-01
+"El Oro"	"Santa Rosa"	733	2020-11-01
+"El Oro"	"Zaruma"	323	2020-11-01
+"El Oro"	"Arenillas"	376	2020-11-02
+"El Oro"	"Atahualpa"	80	2020-11-02
+"El Oro"	"Balsas"	50	2020-11-02
+"El Oro"	"Chilla"	6	2020-11-02
+"El Oro"	"El Guabo"	157	2020-11-02
+"El Oro"	"Huaquillas"	383	2020-11-02
+"El Oro"	"Las Lajas"	12	2020-11-02
+"El Oro"	"Machala"	3256	2020-11-02
+"El Oro"	"Marcabelí"	13	2020-11-02
+"El Oro"	"Pasaje"	245	2020-11-02
+"El Oro"	"Piñas"	366	2020-11-02
+"El Oro"	"Portovelo"	483	2020-11-02
+"El Oro"	"Santa Rosa"	733	2020-11-02
+"El Oro"	"Zaruma"	323	2020-11-02
+"El Oro"	"Arenillas"	376	2020-11-03
+"El Oro"	"Atahualpa"	80	2020-11-03
+"El Oro"	"Balsas"	50	2020-11-03
+"El Oro"	"Chilla"	6	2020-11-03
+"El Oro"	"El Guabo"	157	2020-11-03
+"El Oro"	"Huaquillas"	383	2020-11-03
+"El Oro"	"Las Lajas"	12	2020-11-03
+"El Oro"	"Machala"	3265	2020-11-03
+"El Oro"	"Marcabelí"	13	2020-11-03
+"El Oro"	"Pasaje"	246	2020-11-03
+"El Oro"	"Piñas"	366	2020-11-03
+"El Oro"	"Portovelo"	483	2020-11-03
+"El Oro"	"Santa Rosa"	733	2020-11-03
+"El Oro"	"Zaruma"	323	2020-11-03
+"El Oro"	"Arenillas"	376	2020-11-04
+"El Oro"	"Atahualpa"	80	2020-11-04
+"El Oro"	"Balsas"	50	2020-11-04
+"El Oro"	"Chilla"	6	2020-11-04
+"El Oro"	"El Guabo"	157	2020-11-04
+"El Oro"	"Huaquillas"	383	2020-11-04
+"El Oro"	"Las Lajas"	12	2020-11-04
+"El Oro"	"Machala"	3267	2020-11-04
+"El Oro"	"Marcabelí"	13	2020-11-04
+"El Oro"	"Pasaje"	246	2020-11-04
+"El Oro"	"Piñas"	368	2020-11-04
+"El Oro"	"Portovelo"	483	2020-11-04
+"El Oro"	"Santa Rosa"	733	2020-11-04
+"El Oro"	"Zaruma"	323	2020-11-04
+"El Oro"	"Arenillas"	376	2020-11-05
+"El Oro"	"Atahualpa"	80	2020-11-05
+"El Oro"	"Balsas"	50	2020-11-05
+"El Oro"	"Chilla"	6	2020-11-05
+"El Oro"	"El Guabo"	157	2020-11-05
+"El Oro"	"Huaquillas"	383	2020-11-05
+"El Oro"	"Las Lajas"	12	2020-11-05
+"El Oro"	"Machala"	3267	2020-11-05
+"El Oro"	"Marcabelí"	13	2020-11-05
+"El Oro"	"Pasaje"	246	2020-11-05
+"El Oro"	"Piñas"	368	2020-11-05
+"El Oro"	"Portovelo"	483	2020-11-05
+"El Oro"	"Santa Rosa"	733	2020-11-05
+"El Oro"	"Zaruma"	323	2020-11-05
+"El Oro"	"Arenillas"	376	2020-11-06
+"El Oro"	"Atahualpa"	80	2020-11-06
+"El Oro"	"Balsas"	50	2020-11-06
+"El Oro"	"Chilla"	6	2020-11-06
+"El Oro"	"El Guabo"	157	2020-11-06
+"El Oro"	"Huaquillas"	383	2020-11-06
+"El Oro"	"Las Lajas"	12	2020-11-06
+"El Oro"	"Machala"	3267	2020-11-06
+"El Oro"	"Marcabelí"	13	2020-11-06
+"El Oro"	"Pasaje"	246	2020-11-06
+"El Oro"	"Piñas"	368	2020-11-06
+"El Oro"	"Portovelo"	483	2020-11-06
+"El Oro"	"Santa Rosa"	733	2020-11-06
+"El Oro"	"Zaruma"	323	2020-11-06
+"El Oro"	"Arenillas"	377	2020-11-07
+"El Oro"	"Atahualpa"	80	2020-11-07
+"El Oro"	"Balsas"	50	2020-11-07
+"El Oro"	"Chilla"	6	2020-11-07
+"El Oro"	"El Guabo"	157	2020-11-07
+"El Oro"	"Huaquillas"	387	2020-11-07
+"El Oro"	"Las Lajas"	12	2020-11-07
+"El Oro"	"Machala"	3288	2020-11-07
+"El Oro"	"Marcabelí"	13	2020-11-07
+"El Oro"	"Pasaje"	246	2020-11-07
+"El Oro"	"Piñas"	368	2020-11-07
+"El Oro"	"Portovelo"	483	2020-11-07
+"El Oro"	"Santa Rosa"	734	2020-11-07
+"El Oro"	"Zaruma"	323	2020-11-07
+"El Oro"	"Arenillas"	379	2020-11-08
+"El Oro"	"Atahualpa"	80	2020-11-08
+"El Oro"	"Balsas"	50	2020-11-08
+"El Oro"	"Chilla"	6	2020-11-08
+"El Oro"	"El Guabo"	157	2020-11-08
+"El Oro"	"Huaquillas"	392	2020-11-08
+"El Oro"	"Las Lajas"	12	2020-11-08
+"El Oro"	"Machala"	3304	2020-11-08
+"El Oro"	"Marcabelí"	13	2020-11-08
+"El Oro"	"Pasaje"	255	2020-11-08
+"El Oro"	"Piñas"	380	2020-11-08
+"El Oro"	"Portovelo"	483	2020-11-08
+"El Oro"	"Santa Rosa"	742	2020-11-08
+"El Oro"	"Zaruma"	324	2020-11-08
+"El Oro"	"Arenillas"	379	2020-11-09
+"El Oro"	"Atahualpa"	80	2020-11-09
+"El Oro"	"Balsas"	50	2020-11-09
+"El Oro"	"Chilla"	6	2020-11-09
+"El Oro"	"El Guabo"	157	2020-11-09
+"El Oro"	"Huaquillas"	392	2020-11-09
+"El Oro"	"Las Lajas"	12	2020-11-09
+"El Oro"	"Machala"	3304	2020-11-09
+"El Oro"	"Marcabelí"	13	2020-11-09
+"El Oro"	"Pasaje"	255	2020-11-09
+"El Oro"	"Piñas"	380	2020-11-09
+"El Oro"	"Portovelo"	483	2020-11-09
+"El Oro"	"Santa Rosa"	742	2020-11-09
+"El Oro"	"Zaruma"	324	2020-11-09
+"El Oro"	"Arenillas"	382	2020-11-10
+"El Oro"	"Atahualpa"	80	2020-11-10
+"El Oro"	"Balsas"	50	2020-11-10
+"El Oro"	"Chilla"	6	2020-11-10
+"El Oro"	"El Guabo"	157	2020-11-10
+"El Oro"	"Huaquillas"	400	2020-11-10
+"El Oro"	"Las Lajas"	12	2020-11-10
+"El Oro"	"Machala"	3317	2020-11-10
+"El Oro"	"Marcabelí"	13	2020-11-10
+"El Oro"	"Pasaje"	258	2020-11-10
+"El Oro"	"Piñas"	380	2020-11-10
+"El Oro"	"Portovelo"	483	2020-11-10
+"El Oro"	"Santa Rosa"	743	2020-11-10
+"El Oro"	"Zaruma"	324	2020-11-10
+"El Oro"	"Arenillas"	384	2020-11-11
+"El Oro"	"Atahualpa"	80	2020-11-11
+"El Oro"	"Balsas"	50	2020-11-11
+"El Oro"	"Chilla"	6	2020-11-11
+"El Oro"	"El Guabo"	161	2020-11-11
+"El Oro"	"Huaquillas"	400	2020-11-11
+"El Oro"	"Las Lajas"	12	2020-11-11
+"El Oro"	"Machala"	3362	2020-11-11
+"El Oro"	"Marcabelí"	13	2020-11-11
+"El Oro"	"Pasaje"	262	2020-11-11
+"El Oro"	"Piñas"	382	2020-11-11
+"El Oro"	"Portovelo"	484	2020-11-11
+"El Oro"	"Santa Rosa"	749	2020-11-11
+"El Oro"	"Zaruma"	324	2020-11-11
+"El Oro"	"Arenillas"	384	2020-11-12
+"El Oro"	"Atahualpa"	80	2020-11-12
+"El Oro"	"Balsas"	50	2020-11-12
+"El Oro"	"Chilla"	6	2020-11-12
+"El Oro"	"El Guabo"	161	2020-11-12
+"El Oro"	"Huaquillas"	401	2020-11-12
+"El Oro"	"Las Lajas"	12	2020-11-12
+"El Oro"	"Machala"	3388	2020-11-12
+"El Oro"	"Marcabelí"	13	2020-11-12
+"El Oro"	"Pasaje"	262	2020-11-12
+"El Oro"	"Piñas"	383	2020-11-12
+"El Oro"	"Portovelo"	484	2020-11-12
+"El Oro"	"Santa Rosa"	756	2020-11-12
+"El Oro"	"Zaruma"	326	2020-11-12
+"El Oro"	"Arenillas"	385	2020-11-13
+"El Oro"	"Atahualpa"	80	2020-11-13
+"El Oro"	"Balsas"	51	2020-11-13
+"El Oro"	"Chilla"	6	2020-11-13
+"El Oro"	"El Guabo"	161	2020-11-13
+"El Oro"	"Huaquillas"	405	2020-11-13
+"El Oro"	"Las Lajas"	12	2020-11-13
+"El Oro"	"Machala"	3434	2020-11-13
+"El Oro"	"Marcabelí"	13	2020-11-13
+"El Oro"	"Pasaje"	271	2020-11-13
+"El Oro"	"Piñas"	383	2020-11-13
+"El Oro"	"Portovelo"	485	2020-11-13
+"El Oro"	"Santa Rosa"	772	2020-11-13
+"El Oro"	"Zaruma"	327	2020-11-13
+"El Oro"	"Arenillas"	388	2020-11-14
+"El Oro"	"Atahualpa"	80	2020-11-14
+"El Oro"	"Balsas"	51	2020-11-14
+"El Oro"	"Chilla"	6	2020-11-14
+"El Oro"	"El Guabo"	161	2020-11-14
+"El Oro"	"Huaquillas"	415	2020-11-14
+"El Oro"	"Las Lajas"	12	2020-11-14
+"El Oro"	"Machala"	3470	2020-11-14
+"El Oro"	"Marcabelí"	13	2020-11-14
+"El Oro"	"Pasaje"	275	2020-11-14
+"El Oro"	"Piñas"	383	2020-11-14
+"El Oro"	"Portovelo"	485	2020-11-14
+"El Oro"	"Santa Rosa"	776	2020-11-14
+"El Oro"	"Zaruma"	327	2020-11-14
+"El Oro"	"Arenillas"	389	2020-11-15
+"El Oro"	"Atahualpa"	80	2020-11-15
+"El Oro"	"Balsas"	51	2020-11-15
+"El Oro"	"Chilla"	6	2020-11-15
+"El Oro"	"El Guabo"	161	2020-11-15
+"El Oro"	"Huaquillas"	417	2020-11-15
+"El Oro"	"Las Lajas"	12	2020-11-15
+"El Oro"	"Machala"	3484	2020-11-15
+"El Oro"	"Marcabelí"	13	2020-11-15
+"El Oro"	"Pasaje"	280	2020-11-15
+"El Oro"	"Piñas"	383	2020-11-15
+"El Oro"	"Portovelo"	485	2020-11-15
+"El Oro"	"Santa Rosa"	782	2020-11-15
+"El Oro"	"Zaruma"	327	2020-11-15
+"El Oro"	"Arenillas"	389	2020-11-16
+"El Oro"	"Atahualpa"	80	2020-11-16
+"El Oro"	"Balsas"	51	2020-11-16
+"El Oro"	"Chilla"	6	2020-11-16
+"El Oro"	"El Guabo"	161	2020-11-16
+"El Oro"	"Huaquillas"	417	2020-11-16
+"El Oro"	"Las Lajas"	12	2020-11-16
+"El Oro"	"Machala"	3485	2020-11-16
+"El Oro"	"Marcabelí"	13	2020-11-16
+"El Oro"	"Pasaje"	280	2020-11-16
+"El Oro"	"Piñas"	384	2020-11-16
+"El Oro"	"Portovelo"	485	2020-11-16
+"El Oro"	"Santa Rosa"	782	2020-11-16
+"El Oro"	"Zaruma"	327	2020-11-16
+"El Oro"	"Arenillas"	399	2020-11-17
+"El Oro"	"Atahualpa"	80	2020-11-17
+"El Oro"	"Balsas"	51	2020-11-17
+"El Oro"	"Chilla"	6	2020-11-17
+"El Oro"	"El Guabo"	161	2020-11-17
+"El Oro"	"Huaquillas"	419	2020-11-17
+"El Oro"	"Las Lajas"	13	2020-11-17
+"El Oro"	"Machala"	3492	2020-11-17
+"El Oro"	"Marcabelí"	13	2020-11-17
+"El Oro"	"Pasaje"	280	2020-11-17
+"El Oro"	"Piñas"	384	2020-11-17
+"El Oro"	"Portovelo"	485	2020-11-17
+"El Oro"	"Santa Rosa"	784	2020-11-17
+"El Oro"	"Zaruma"	327	2020-11-17
+"El Oro"	"Arenillas"	399	2020-11-18
+"El Oro"	"Atahualpa"	80	2020-11-18
+"El Oro"	"Balsas"	51	2020-11-18
+"El Oro"	"Chilla"	6	2020-11-18
+"El Oro"	"El Guabo"	161	2020-11-18
+"El Oro"	"Huaquillas"	419	2020-11-18
+"El Oro"	"Las Lajas"	13	2020-11-18
+"El Oro"	"Machala"	3523	2020-11-18
+"El Oro"	"Marcabelí"	13	2020-11-18
+"El Oro"	"Pasaje"	284	2020-11-18
+"El Oro"	"Piñas"	391	2020-11-18
+"El Oro"	"Portovelo"	486	2020-11-18
+"El Oro"	"Santa Rosa"	785	2020-11-18
+"El Oro"	"Zaruma"	328	2020-11-18
+"El Oro"	"Arenillas"	399	2020-11-19
+"El Oro"	"Atahualpa"	80	2020-11-19
+"El Oro"	"Balsas"	51	2020-11-19
+"El Oro"	"Chilla"	6	2020-11-19
+"El Oro"	"El Guabo"	161	2020-11-19
+"El Oro"	"Huaquillas"	419	2020-11-19
+"El Oro"	"Las Lajas"	13	2020-11-19
+"El Oro"	"Machala"	3547	2020-11-19
+"El Oro"	"Marcabelí"	13	2020-11-19
+"El Oro"	"Pasaje"	288	2020-11-19
+"El Oro"	"Piñas"	396	2020-11-19
+"El Oro"	"Portovelo"	486	2020-11-19
+"El Oro"	"Santa Rosa"	788	2020-11-19
+"El Oro"	"Zaruma"	328	2020-11-19
+"El Oro"	"Arenillas"	399	2020-11-20
+"El Oro"	"Atahualpa"	80	2020-11-20
+"El Oro"	"Balsas"	51	2020-11-20
+"El Oro"	"Chilla"	6	2020-11-20
+"El Oro"	"El Guabo"	163	2020-11-20
+"El Oro"	"Huaquillas"	422	2020-11-20
+"El Oro"	"Las Lajas"	13	2020-11-20
+"El Oro"	"Machala"	3559	2020-11-20
+"El Oro"	"Marcabelí"	13	2020-11-20
+"El Oro"	"Pasaje"	288	2020-11-20
+"El Oro"	"Piñas"	396	2020-11-20
+"El Oro"	"Portovelo"	486	2020-11-20
+"El Oro"	"Santa Rosa"	789	2020-11-20
+"El Oro"	"Zaruma"	328	2020-11-20
+"El Oro"	"Arenillas"	400	2020-11-21
+"El Oro"	"Atahualpa"	80	2020-11-21
+"El Oro"	"Balsas"	51	2020-11-21
+"El Oro"	"Chilla"	6	2020-11-21
+"El Oro"	"El Guabo"	163	2020-11-21
+"El Oro"	"Huaquillas"	422	2020-11-21
+"El Oro"	"Las Lajas"	13	2020-11-21
+"El Oro"	"Machala"	3601	2020-11-21
+"El Oro"	"Marcabelí"	13	2020-11-21
+"El Oro"	"Pasaje"	290	2020-11-21
+"El Oro"	"Piñas"	396	2020-11-21
+"El Oro"	"Portovelo"	486	2020-11-21
+"El Oro"	"Santa Rosa"	796	2020-11-21
+"El Oro"	"Zaruma"	329	2020-11-21
+"El Oro"	"Arenillas"	400	2020-11-22
+"El Oro"	"Atahualpa"	80	2020-11-22
+"El Oro"	"Balsas"	51	2020-11-22
+"El Oro"	"Chilla"	6	2020-11-22
+"El Oro"	"El Guabo"	164	2020-11-22
+"El Oro"	"Huaquillas"	423	2020-11-22
+"El Oro"	"Las Lajas"	13	2020-11-22
+"El Oro"	"Machala"	3620	2020-11-22
+"El Oro"	"Marcabelí"	13	2020-11-22
+"El Oro"	"Pasaje"	291	2020-11-22
+"El Oro"	"Piñas"	396	2020-11-22
+"El Oro"	"Portovelo"	487	2020-11-22
+"El Oro"	"Santa Rosa"	800	2020-11-22
+"El Oro"	"Zaruma"	329	2020-11-22
+"El Oro"	"Arenillas"	400	2020-11-23
+"El Oro"	"Atahualpa"	80	2020-11-23
+"El Oro"	"Balsas"	51	2020-11-23
+"El Oro"	"Chilla"	6	2020-11-23
+"El Oro"	"El Guabo"	164	2020-11-23
+"El Oro"	"Huaquillas"	423	2020-11-23
+"El Oro"	"Las Lajas"	13	2020-11-23
+"El Oro"	"Machala"	3649	2020-11-23
+"El Oro"	"Marcabelí"	13	2020-11-23
+"El Oro"	"Pasaje"	292	2020-11-23
+"El Oro"	"Piñas"	396	2020-11-23
+"El Oro"	"Portovelo"	487	2020-11-23
+"El Oro"	"Santa Rosa"	801	2020-11-23
+"El Oro"	"Zaruma"	329	2020-11-23
+"El Oro"	"Arenillas"	400	2020-11-24
+"El Oro"	"Atahualpa"	80	2020-11-24
+"El Oro"	"Balsas"	51	2020-11-24
+"El Oro"	"Chilla"	6	2020-11-24
+"El Oro"	"El Guabo"	164	2020-11-24
+"El Oro"	"Huaquillas"	423	2020-11-24
+"El Oro"	"Las Lajas"	13	2020-11-24
+"El Oro"	"Machala"	3654	2020-11-24
+"El Oro"	"Marcabelí"	13	2020-11-24
+"El Oro"	"Pasaje"	295	2020-11-24
+"El Oro"	"Piñas"	396	2020-11-24
+"El Oro"	"Portovelo"	487	2020-11-24
+"El Oro"	"Santa Rosa"	802	2020-11-24
+"El Oro"	"Zaruma"	329	2020-11-24
+"El Oro"	"Arenillas"	404	2020-11-25
+"El Oro"	"Atahualpa"	80	2020-11-25
+"El Oro"	"Balsas"	51	2020-11-25
+"El Oro"	"Chilla"	6	2020-11-25
+"El Oro"	"El Guabo"	164	2020-11-25
+"El Oro"	"Huaquillas"	426	2020-11-25
+"El Oro"	"Las Lajas"	13	2020-11-25
+"El Oro"	"Machala"	3681	2020-11-25
+"El Oro"	"Marcabelí"	13	2020-11-25
+"El Oro"	"Pasaje"	301	2020-11-25
+"El Oro"	"Piñas"	396	2020-11-25
+"El Oro"	"Portovelo"	488	2020-11-25
+"El Oro"	"Santa Rosa"	804	2020-11-25
+"El Oro"	"Zaruma"	329	2020-11-25
+"El Oro"	"Arenillas"	406	2020-11-26
+"El Oro"	"Atahualpa"	80	2020-11-26
+"El Oro"	"Balsas"	51	2020-11-26
+"El Oro"	"Chilla"	6	2020-11-26
+"El Oro"	"El Guabo"	165	2020-11-26
+"El Oro"	"Huaquillas"	426	2020-11-26
+"El Oro"	"Las Lajas"	13	2020-11-26
+"El Oro"	"Machala"	3719	2020-11-26
+"El Oro"	"Marcabelí"	13	2020-11-26
+"El Oro"	"Pasaje"	302	2020-11-26
+"El Oro"	"Piñas"	396	2020-11-26
+"El Oro"	"Portovelo"	488	2020-11-26
+"El Oro"	"Santa Rosa"	808	2020-11-26
+"El Oro"	"Zaruma"	329	2020-11-26
+"El Oro"	"Arenillas"	410	2020-11-27
+"El Oro"	"Atahualpa"	80	2020-11-27
+"El Oro"	"Balsas"	51	2020-11-27
+"El Oro"	"Chilla"	6	2020-11-27
+"El Oro"	"El Guabo"	168	2020-11-27
+"El Oro"	"Huaquillas"	428	2020-11-27
+"El Oro"	"Las Lajas"	13	2020-11-27
+"El Oro"	"Machala"	3753	2020-11-27
+"El Oro"	"Marcabelí"	15	2020-11-27
+"El Oro"	"Pasaje"	308	2020-11-27
+"El Oro"	"Piñas"	408	2020-11-27
+"El Oro"	"Portovelo"	489	2020-11-27
+"El Oro"	"Santa Rosa"	819	2020-11-27
+"El Oro"	"Zaruma"	331	2020-11-27
+"El Oro"	"Arenillas"	412	2020-11-28
+"El Oro"	"Atahualpa"	80	2020-11-28
+"El Oro"	"Balsas"	51	2020-11-28
+"El Oro"	"Chilla"	7	2020-11-28
+"El Oro"	"El Guabo"	169	2020-11-28
+"El Oro"	"Huaquillas"	428	2020-11-28
+"El Oro"	"Las Lajas"	13	2020-11-28
+"El Oro"	"Machala"	3769	2020-11-28
+"El Oro"	"Marcabelí"	15	2020-11-28
+"El Oro"	"Pasaje"	317	2020-11-28
+"El Oro"	"Piñas"	409	2020-11-28
+"El Oro"	"Portovelo"	489	2020-11-28
+"El Oro"	"Santa Rosa"	820	2020-11-28
+"El Oro"	"Zaruma"	332	2020-11-28
+"El Oro"	"Arenillas"	415	2020-11-29
+"El Oro"	"Atahualpa"	80	2020-11-29
+"El Oro"	"Balsas"	52	2020-11-29
+"El Oro"	"Chilla"	7	2020-11-29
+"El Oro"	"El Guabo"	169	2020-11-29
+"El Oro"	"Huaquillas"	429	2020-11-29
+"El Oro"	"Las Lajas"	13	2020-11-29
+"El Oro"	"Machala"	3807	2020-11-29
+"El Oro"	"Marcabelí"	15	2020-11-29
+"El Oro"	"Pasaje"	320	2020-11-29
+"El Oro"	"Piñas"	412	2020-11-29
+"El Oro"	"Portovelo"	489	2020-11-29
+"El Oro"	"Santa Rosa"	822	2020-11-29
+"El Oro"	"Zaruma"	332	2020-11-29
+"El Oro"	"Arenillas"	415	2020-11-30
+"El Oro"	"Atahualpa"	80	2020-11-30
+"El Oro"	"Balsas"	52	2020-11-30
+"El Oro"	"Chilla"	7	2020-11-30
+"El Oro"	"El Guabo"	169	2020-11-30
+"El Oro"	"Huaquillas"	430	2020-11-30
+"El Oro"	"Las Lajas"	13	2020-11-30
+"El Oro"	"Machala"	3809	2020-11-30
+"El Oro"	"Marcabelí"	15	2020-11-30
+"El Oro"	"Pasaje"	321	2020-11-30
+"El Oro"	"Piñas"	412	2020-11-30
+"El Oro"	"Portovelo"	489	2020-11-30
+"El Oro"	"Santa Rosa"	823	2020-11-30
+"El Oro"	"Zaruma"	332	2020-11-30
+"El Oro"	"Arenillas"	420	2020-12-01
+"El Oro"	"Atahualpa"	80	2020-12-01
+"El Oro"	"Balsas"	52	2020-12-01
+"El Oro"	"Chilla"	9	2020-12-01
+"El Oro"	"El Guabo"	169	2020-12-01
+"El Oro"	"Huaquillas"	432	2020-12-01
+"El Oro"	"Las Lajas"	13	2020-12-01
+"El Oro"	"Machala"	3821	2020-12-01
+"El Oro"	"Marcabelí"	15	2020-12-01
+"El Oro"	"Pasaje"	322	2020-12-01
+"El Oro"	"Piñas"	412	2020-12-01
+"El Oro"	"Portovelo"	489	2020-12-01
+"El Oro"	"Santa Rosa"	824	2020-12-01
+"El Oro"	"Zaruma"	332	2020-12-01
+"El Oro"	"Arenillas"	420	2020-12-02
+"El Oro"	"Atahualpa"	80	2020-12-02
+"El Oro"	"Balsas"	52	2020-12-02
+"El Oro"	"Chilla"	9	2020-12-02
+"El Oro"	"El Guabo"	169	2020-12-02
+"El Oro"	"Huaquillas"	432	2020-12-02
+"El Oro"	"Las Lajas"	13	2020-12-02
+"El Oro"	"Machala"	3829	2020-12-02
+"El Oro"	"Marcabelí"	15	2020-12-02
+"El Oro"	"Pasaje"	322	2020-12-02
+"El Oro"	"Piñas"	412	2020-12-02
+"El Oro"	"Portovelo"	489	2020-12-02
+"El Oro"	"Santa Rosa"	824	2020-12-02
+"El Oro"	"Zaruma"	332	2020-12-02
+"El Oro"	"Arenillas"	420	2020-12-03
+"El Oro"	"Atahualpa"	80	2020-12-03
+"El Oro"	"Balsas"	52	2020-12-03
+"El Oro"	"Chilla"	9	2020-12-03
+"El Oro"	"El Guabo"	169	2020-12-03
+"El Oro"	"Huaquillas"	434	2020-12-03
+"El Oro"	"Las Lajas"	13	2020-12-03
+"El Oro"	"Machala"	3840	2020-12-03
+"El Oro"	"Marcabelí"	15	2020-12-03
+"El Oro"	"Pasaje"	322	2020-12-03
+"El Oro"	"Piñas"	412	2020-12-03
+"El Oro"	"Portovelo"	489	2020-12-03
+"El Oro"	"Santa Rosa"	825	2020-12-03
+"El Oro"	"Zaruma"	338	2020-12-03
+"El Oro"	"Arenillas"	423	2020-12-04
+"El Oro"	"Atahualpa"	80	2020-12-04
+"El Oro"	"Balsas"	52	2020-12-04
+"El Oro"	"Chilla"	9	2020-12-04
+"El Oro"	"El Guabo"	170	2020-12-04
+"El Oro"	"Huaquillas"	434	2020-12-04
+"El Oro"	"Las Lajas"	13	2020-12-04
+"El Oro"	"Machala"	3865	2020-12-04
+"El Oro"	"Marcabelí"	15	2020-12-04
+"El Oro"	"Pasaje"	326	2020-12-04
+"El Oro"	"Piñas"	412	2020-12-04
+"El Oro"	"Portovelo"	489	2020-12-04
+"El Oro"	"Santa Rosa"	836	2020-12-04
+"El Oro"	"Zaruma"	338	2020-12-04
+"El Oro"	"Arenillas"	424	2020-12-05
+"El Oro"	"Atahualpa"	80	2020-12-05
+"El Oro"	"Balsas"	52	2020-12-05
+"El Oro"	"Chilla"	9	2020-12-05
+"El Oro"	"El Guabo"	172	2020-12-05
+"El Oro"	"Huaquillas"	437	2020-12-05
+"El Oro"	"Las Lajas"	13	2020-12-05
+"El Oro"	"Machala"	3893	2020-12-05
+"El Oro"	"Marcabelí"	15	2020-12-05
+"El Oro"	"Pasaje"	327	2020-12-05
+"El Oro"	"Piñas"	412	2020-12-05
+"El Oro"	"Portovelo"	489	2020-12-05
+"El Oro"	"Santa Rosa"	841	2020-12-05
+"El Oro"	"Zaruma"	338	2020-12-05
+"El Oro"	"Arenillas"	430	2020-12-06
+"El Oro"	"Atahualpa"	81	2020-12-06
+"El Oro"	"Balsas"	52	2020-12-06
+"El Oro"	"Chilla"	9	2020-12-06
+"El Oro"	"El Guabo"	173	2020-12-06
+"El Oro"	"Huaquillas"	441	2020-12-06
+"El Oro"	"Las Lajas"	14	2020-12-06
+"El Oro"	"Machala"	3912	2020-12-06
+"El Oro"	"Marcabelí"	15	2020-12-06
+"El Oro"	"Pasaje"	329	2020-12-06
+"El Oro"	"Piñas"	412	2020-12-06
+"El Oro"	"Portovelo"	489	2020-12-06
+"El Oro"	"Santa Rosa"	845	2020-12-06
+"El Oro"	"Zaruma"	339	2020-12-06
+"El Oro"	"Arenillas"	430	2020-12-07
+"El Oro"	"Atahualpa"	81	2020-12-07
+"El Oro"	"Balsas"	52	2020-12-07
+"El Oro"	"Chilla"	9	2020-12-07
+"El Oro"	"El Guabo"	173	2020-12-07
+"El Oro"	"Huaquillas"	442	2020-12-07
+"El Oro"	"Las Lajas"	14	2020-12-07
+"El Oro"	"Machala"	3916	2020-12-07
+"El Oro"	"Marcabelí"	15	2020-12-07
+"El Oro"	"Pasaje"	329	2020-12-07
+"El Oro"	"Piñas"	412	2020-12-07
+"El Oro"	"Portovelo"	489	2020-12-07
+"El Oro"	"Santa Rosa"	845	2020-12-07
+"El Oro"	"Zaruma"	342	2020-12-07
+"El Oro"	"Arenillas"	430	2020-12-08
+"El Oro"	"Atahualpa"	81	2020-12-08
+"El Oro"	"Balsas"	53	2020-12-08
+"El Oro"	"Chilla"	9	2020-12-08
+"El Oro"	"El Guabo"	173	2020-12-08
+"El Oro"	"Huaquillas"	443	2020-12-08
+"El Oro"	"Las Lajas"	14	2020-12-08
+"El Oro"	"Machala"	3921	2020-12-08
+"El Oro"	"Marcabelí"	15	2020-12-08
+"El Oro"	"Pasaje"	331	2020-12-08
+"El Oro"	"Piñas"	413	2020-12-08
+"El Oro"	"Portovelo"	489	2020-12-08
+"El Oro"	"Santa Rosa"	845	2020-12-08
+"El Oro"	"Zaruma"	343	2020-12-08
+"El Oro"	"Arenillas"	430	2020-12-09
+"El Oro"	"Atahualpa"	81	2020-12-09
+"El Oro"	"Balsas"	53	2020-12-09
+"El Oro"	"Chilla"	9	2020-12-09
+"El Oro"	"El Guabo"	173	2020-12-09
+"El Oro"	"Huaquillas"	443	2020-12-09
+"El Oro"	"Las Lajas"	14	2020-12-09
+"El Oro"	"Machala"	3927	2020-12-09
+"El Oro"	"Marcabelí"	15	2020-12-09
+"El Oro"	"Pasaje"	331	2020-12-09
+"El Oro"	"Piñas"	413	2020-12-09
+"El Oro"	"Portovelo"	489	2020-12-09
+"El Oro"	"Santa Rosa"	845	2020-12-09
+"El Oro"	"Zaruma"	343	2020-12-09
+"El Oro"	"Arenillas"	431	2020-12-10
+"El Oro"	"Atahualpa"	81	2020-12-10
+"El Oro"	"Balsas"	53	2020-12-10
+"El Oro"	"Chilla"	9	2020-12-10
+"El Oro"	"El Guabo"	176	2020-12-10
+"El Oro"	"Huaquillas"	445	2020-12-10
+"El Oro"	"Las Lajas"	15	2020-12-10
+"El Oro"	"Machala"	3966	2020-12-10
+"El Oro"	"Marcabelí"	15	2020-12-10
+"El Oro"	"Pasaje"	334	2020-12-10
+"El Oro"	"Piñas"	415	2020-12-10
+"El Oro"	"Portovelo"	489	2020-12-10
+"El Oro"	"Santa Rosa"	848	2020-12-10
+"El Oro"	"Zaruma"	343	2020-12-10
+"El Oro"	"Arenillas"	435	2020-12-11
+"El Oro"	"Atahualpa"	81	2020-12-11
+"El Oro"	"Balsas"	53	2020-12-11
+"El Oro"	"Chilla"	9	2020-12-11
+"El Oro"	"El Guabo"	176	2020-12-11
+"El Oro"	"Huaquillas"	445	2020-12-11
+"El Oro"	"Las Lajas"	15	2020-12-11
+"El Oro"	"Machala"	3978	2020-12-11
+"El Oro"	"Marcabelí"	15	2020-12-11
+"El Oro"	"Pasaje"	337	2020-12-11
+"El Oro"	"Piñas"	415	2020-12-11
+"El Oro"	"Portovelo"	489	2020-12-11
+"El Oro"	"Santa Rosa"	861	2020-12-11
+"El Oro"	"Zaruma"	343	2020-12-11
+"El Oro"	"Arenillas"	439	2020-12-12
+"El Oro"	"Atahualpa"	81	2020-12-12
+"El Oro"	"Balsas"	53	2020-12-12
+"El Oro"	"Chilla"	9	2020-12-12
+"El Oro"	"El Guabo"	176	2020-12-12
+"El Oro"	"Huaquillas"	446	2020-12-12
+"El Oro"	"Las Lajas"	15	2020-12-12
+"El Oro"	"Machala"	3998	2020-12-12
+"El Oro"	"Marcabelí"	15	2020-12-12
+"El Oro"	"Pasaje"	341	2020-12-12
+"El Oro"	"Piñas"	415	2020-12-12
+"El Oro"	"Portovelo"	492	2020-12-12
+"El Oro"	"Santa Rosa"	865	2020-12-12
+"El Oro"	"Zaruma"	346	2020-12-12
+"El Oro"	"Arenillas"	440	2020-12-13
+"El Oro"	"Atahualpa"	81	2020-12-13
+"El Oro"	"Balsas"	53	2020-12-13
+"El Oro"	"Chilla"	9	2020-12-13
+"El Oro"	"El Guabo"	176	2020-12-13
+"El Oro"	"Huaquillas"	446	2020-12-13
+"El Oro"	"Las Lajas"	15	2020-12-13
+"El Oro"	"Machala"	4029	2020-12-13
+"El Oro"	"Marcabelí"	15	2020-12-13
+"El Oro"	"Pasaje"	341	2020-12-13
+"El Oro"	"Piñas"	416	2020-12-13
+"El Oro"	"Portovelo"	492	2020-12-13
+"El Oro"	"Santa Rosa"	867	2020-12-13
+"El Oro"	"Zaruma"	350	2020-12-13
+"El Oro"	"Arenillas"	440	2020-12-14
+"El Oro"	"Atahualpa"	81	2020-12-14
+"El Oro"	"Balsas"	53	2020-12-14
+"El Oro"	"Chilla"	9	2020-12-14
+"El Oro"	"El Guabo"	176	2020-12-14
+"El Oro"	"Huaquillas"	448	2020-12-14
+"El Oro"	"Las Lajas"	15	2020-12-14
+"El Oro"	"Machala"	4029	2020-12-14
+"El Oro"	"Marcabelí"	15	2020-12-14
+"El Oro"	"Pasaje"	341	2020-12-14
+"El Oro"	"Piñas"	416	2020-12-14
+"El Oro"	"Portovelo"	492	2020-12-14
+"El Oro"	"Santa Rosa"	867	2020-12-14
+"El Oro"	"Zaruma"	350	2020-12-14
+"El Oro"	"Arenillas"	441	2020-12-15
+"El Oro"	"Atahualpa"	81	2020-12-15
+"El Oro"	"Balsas"	53	2020-12-15
+"El Oro"	"Chilla"	9	2020-12-15
+"El Oro"	"El Guabo"	176	2020-12-15
+"El Oro"	"Huaquillas"	449	2020-12-15
+"El Oro"	"Las Lajas"	15	2020-12-15
+"El Oro"	"Machala"	4043	2020-12-15
+"El Oro"	"Marcabelí"	15	2020-12-15
+"El Oro"	"Pasaje"	341	2020-12-15
+"El Oro"	"Piñas"	416	2020-12-15
+"El Oro"	"Portovelo"	492	2020-12-15
+"El Oro"	"Santa Rosa"	867	2020-12-15
+"El Oro"	"Zaruma"	350	2020-12-15
+"El Oro"	"Arenillas"	444	2020-12-16
+"El Oro"	"Atahualpa"	82	2020-12-16
+"El Oro"	"Balsas"	54	2020-12-16
+"El Oro"	"Chilla"	9	2020-12-16
+"El Oro"	"El Guabo"	176	2020-12-16
+"El Oro"	"Huaquillas"	451	2020-12-16
+"El Oro"	"Las Lajas"	15	2020-12-16
+"El Oro"	"Machala"	4062	2020-12-16
+"El Oro"	"Marcabelí"	15	2020-12-16
+"El Oro"	"Pasaje"	343	2020-12-16
+"El Oro"	"Piñas"	417	2020-12-16
+"El Oro"	"Portovelo"	492	2020-12-16
+"El Oro"	"Santa Rosa"	870	2020-12-16
+"El Oro"	"Zaruma"	350	2020-12-16
+"El Oro"	"Arenillas"	446	2020-12-17
+"El Oro"	"Atahualpa"	82	2020-12-17
+"El Oro"	"Balsas"	55	2020-12-17
+"El Oro"	"Chilla"	9	2020-12-17
+"El Oro"	"El Guabo"	176	2020-12-17
+"El Oro"	"Huaquillas"	451	2020-12-17
+"El Oro"	"Las Lajas"	15	2020-12-17
+"El Oro"	"Machala"	4093	2020-12-17
+"El Oro"	"Marcabelí"	15	2020-12-17
+"El Oro"	"Pasaje"	343	2020-12-17
+"El Oro"	"Piñas"	418	2020-12-17
+"El Oro"	"Portovelo"	492	2020-12-17
+"El Oro"	"Santa Rosa"	874	2020-12-17
+"El Oro"	"Zaruma"	350	2020-12-17
+"El Oro"	"Arenillas"	450	2020-12-18
+"El Oro"	"Atahualpa"	83	2020-12-18
+"El Oro"	"Balsas"	55	2020-12-18
+"El Oro"	"Chilla"	9	2020-12-18
+"El Oro"	"El Guabo"	176	2020-12-18
+"El Oro"	"Huaquillas"	452	2020-12-18
+"El Oro"	"Las Lajas"	15	2020-12-18
+"El Oro"	"Machala"	4132	2020-12-18
+"El Oro"	"Marcabelí"	15	2020-12-18
+"El Oro"	"Pasaje"	352	2020-12-18
+"El Oro"	"Piñas"	418	2020-12-18
+"El Oro"	"Portovelo"	492	2020-12-18
+"El Oro"	"Santa Rosa"	895	2020-12-18
+"El Oro"	"Zaruma"	357	2020-12-18
+"El Oro"	"Arenillas"	451	2020-12-19
+"El Oro"	"Atahualpa"	83	2020-12-19
+"El Oro"	"Balsas"	56	2020-12-19
+"El Oro"	"Chilla"	9	2020-12-19
+"El Oro"	"El Guabo"	178	2020-12-19
+"El Oro"	"Huaquillas"	453	2020-12-19
+"El Oro"	"Las Lajas"	15	2020-12-19
+"El Oro"	"Machala"	4151	2020-12-19
+"El Oro"	"Marcabelí"	15	2020-12-19
+"El Oro"	"Pasaje"	355	2020-12-19
+"El Oro"	"Piñas"	422	2020-12-19
+"El Oro"	"Portovelo"	492	2020-12-19
+"El Oro"	"Santa Rosa"	895	2020-12-19
+"El Oro"	"Zaruma"	363	2020-12-19
+"El Oro"	"Arenillas"	456	2020-12-20
+"El Oro"	"Atahualpa"	83	2020-12-20
+"El Oro"	"Balsas"	56	2020-12-20
+"El Oro"	"Chilla"	9	2020-12-20
+"El Oro"	"El Guabo"	179	2020-12-20
+"El Oro"	"Huaquillas"	462	2020-12-20
+"El Oro"	"Las Lajas"	15	2020-12-20
+"El Oro"	"Machala"	4173	2020-12-20
+"El Oro"	"Marcabelí"	15	2020-12-20
+"El Oro"	"Pasaje"	358	2020-12-20
+"El Oro"	"Piñas"	426	2020-12-20
+"El Oro"	"Portovelo"	493	2020-12-20
+"El Oro"	"Santa Rosa"	895	2020-12-20
+"El Oro"	"Zaruma"	365	2020-12-20
+"El Oro"	"Arenillas"	457	2020-12-21
+"El Oro"	"Atahualpa"	83	2020-12-21
+"El Oro"	"Balsas"	56	2020-12-21
+"El Oro"	"Chilla"	9	2020-12-21
+"El Oro"	"El Guabo"	179	2020-12-21
+"El Oro"	"Huaquillas"	462	2020-12-21
+"El Oro"	"Las Lajas"	15	2020-12-21
+"El Oro"	"Machala"	4180	2020-12-21
+"El Oro"	"Marcabelí"	15	2020-12-21
+"El Oro"	"Pasaje"	360	2020-12-21
+"El Oro"	"Piñas"	426	2020-12-21
+"El Oro"	"Portovelo"	493	2020-12-21
+"El Oro"	"Santa Rosa"	895	2020-12-21
+"El Oro"	"Zaruma"	368	2020-12-21
+"El Oro"	"Arenillas"	457	2020-12-22
+"El Oro"	"Atahualpa"	83	2020-12-22
+"El Oro"	"Balsas"	56	2020-12-22
+"El Oro"	"Chilla"	9	2020-12-22
+"El Oro"	"El Guabo"	179	2020-12-22
+"El Oro"	"Huaquillas"	462	2020-12-22
+"El Oro"	"Las Lajas"	15	2020-12-22
+"El Oro"	"Machala"	4180	2020-12-22
+"El Oro"	"Marcabelí"	15	2020-12-22
+"El Oro"	"Pasaje"	360	2020-12-22
+"El Oro"	"Piñas"	426	2020-12-22
+"El Oro"	"Portovelo"	493	2020-12-22
+"El Oro"	"Santa Rosa"	895	2020-12-22
+"El Oro"	"Zaruma"	368	2020-12-22
+"El Oro"	"Arenillas"	458	2020-12-23
+"El Oro"	"Atahualpa"	83	2020-12-23
+"El Oro"	"Balsas"	56	2020-12-23
+"El Oro"	"Chilla"	10	2020-12-23
+"El Oro"	"El Guabo"	180	2020-12-23
+"El Oro"	"Huaquillas"	462	2020-12-23
+"El Oro"	"Las Lajas"	15	2020-12-23
+"El Oro"	"Machala"	4212	2020-12-23
+"El Oro"	"Marcabelí"	15	2020-12-23
+"El Oro"	"Pasaje"	365	2020-12-23
+"El Oro"	"Piñas"	427	2020-12-23
+"El Oro"	"Portovelo"	493	2020-12-23
+"El Oro"	"Santa Rosa"	895	2020-12-23
+"El Oro"	"Zaruma"	369	2020-12-23
+"El Oro"	"Arenillas"	460	2020-12-24
+"El Oro"	"Atahualpa"	83	2020-12-24
+"El Oro"	"Balsas"	56	2020-12-24
+"El Oro"	"Chilla"	10	2020-12-24
+"El Oro"	"El Guabo"	181	2020-12-24
+"El Oro"	"Huaquillas"	462	2020-12-24
+"El Oro"	"Las Lajas"	15	2020-12-24
+"El Oro"	"Machala"	4240	2020-12-24
+"El Oro"	"Marcabelí"	15	2020-12-24
+"El Oro"	"Pasaje"	371	2020-12-24
+"El Oro"	"Piñas"	427	2020-12-24
+"El Oro"	"Portovelo"	493	2020-12-24
+"El Oro"	"Santa Rosa"	902	2020-12-24
+"El Oro"	"Zaruma"	369	2020-12-24
+"El Oro"	"Arenillas"	462	2020-12-25
+"El Oro"	"Atahualpa"	84	2020-12-25
+"El Oro"	"Balsas"	56	2020-12-25
+"El Oro"	"Chilla"	10	2020-12-25
+"El Oro"	"El Guabo"	181	2020-12-25
+"El Oro"	"Huaquillas"	465	2020-12-25
+"El Oro"	"Las Lajas"	16	2020-12-25
+"El Oro"	"Machala"	4268	2020-12-25
+"El Oro"	"Marcabelí"	15	2020-12-25
+"El Oro"	"Pasaje"	376	2020-12-25
+"El Oro"	"Piñas"	427	2020-12-25
+"El Oro"	"Portovelo"	493	2020-12-25
+"El Oro"	"Santa Rosa"	911	2020-12-25
+"El Oro"	"Zaruma"	383	2020-12-25
+"El Oro"	"Arenillas"	462	2020-12-26
+"El Oro"	"Atahualpa"	84	2020-12-26
+"El Oro"	"Balsas"	56	2020-12-26
+"El Oro"	"Chilla"	10	2020-12-26
+"El Oro"	"El Guabo"	181	2020-12-26
+"El Oro"	"Huaquillas"	465	2020-12-26
+"El Oro"	"Las Lajas"	16	2020-12-26
+"El Oro"	"Machala"	4270	2020-12-26
+"El Oro"	"Marcabelí"	15	2020-12-26
+"El Oro"	"Pasaje"	379	2020-12-26
+"El Oro"	"Piñas"	427	2020-12-26
+"El Oro"	"Portovelo"	493	2020-12-26
+"El Oro"	"Santa Rosa"	912	2020-12-26
+"El Oro"	"Zaruma"	383	2020-12-26
+"El Oro"	"Arenillas"	462	2020-12-27
+"El Oro"	"Atahualpa"	84	2020-12-27
+"El Oro"	"Balsas"	56	2020-12-27
+"El Oro"	"Chilla"	10	2020-12-27
+"El Oro"	"El Guabo"	181	2020-12-27
+"El Oro"	"Huaquillas"	465	2020-12-27
+"El Oro"	"Las Lajas"	16	2020-12-27
+"El Oro"	"Machala"	4270	2020-12-27
+"El Oro"	"Marcabelí"	15	2020-12-27
+"El Oro"	"Pasaje"	379	2020-12-27
+"El Oro"	"Piñas"	427	2020-12-27
+"El Oro"	"Portovelo"	493	2020-12-27
+"El Oro"	"Santa Rosa"	912	2020-12-27
+"El Oro"	"Zaruma"	383	2020-12-27
+"El Oro"	"Arenillas"	462	2020-12-28
+"El Oro"	"Atahualpa"	84	2020-12-28
+"El Oro"	"Balsas"	56	2020-12-28
+"El Oro"	"Chilla"	11	2020-12-28
+"El Oro"	"El Guabo"	182	2020-12-28
+"El Oro"	"Huaquillas"	465	2020-12-28
+"El Oro"	"Las Lajas"	16	2020-12-28
+"El Oro"	"Machala"	4303	2020-12-28
+"El Oro"	"Marcabelí"	15	2020-12-28
+"El Oro"	"Pasaje"	382	2020-12-28
+"El Oro"	"Piñas"	427	2020-12-28
+"El Oro"	"Portovelo"	494	2020-12-28
+"El Oro"	"Santa Rosa"	917	2020-12-28
+"El Oro"	"Zaruma"	385	2020-12-28
+"El Oro"	"Arenillas"	462	2020-12-29
+"El Oro"	"Atahualpa"	84	2020-12-29
+"El Oro"	"Balsas"	56	2020-12-29
+"El Oro"	"Chilla"	11	2020-12-29
+"El Oro"	"El Guabo"	182	2020-12-29
+"El Oro"	"Huaquillas"	465	2020-12-29
+"El Oro"	"Las Lajas"	16	2020-12-29
+"El Oro"	"Machala"	4315	2020-12-29
+"El Oro"	"Marcabelí"	15	2020-12-29
+"El Oro"	"Pasaje"	382	2020-12-29
+"El Oro"	"Piñas"	427	2020-12-29
+"El Oro"	"Portovelo"	494	2020-12-29
+"El Oro"	"Santa Rosa"	919	2020-12-29
+"El Oro"	"Zaruma"	385	2020-12-29
+"El Oro"	"Arenillas"	467	2020-12-30
+"El Oro"	"Atahualpa"	84	2020-12-30
+"El Oro"	"Balsas"	58	2020-12-30
+"El Oro"	"Chilla"	11	2020-12-30
+"El Oro"	"El Guabo"	184	2020-12-30
+"El Oro"	"Huaquillas"	477	2020-12-30
+"El Oro"	"Las Lajas"	18	2020-12-30
+"El Oro"	"Machala"	4357	2020-12-30
+"El Oro"	"Marcabelí"	17	2020-12-30
+"El Oro"	"Pasaje"	388	2020-12-30
+"El Oro"	"Piñas"	436	2020-12-30
+"El Oro"	"Portovelo"	494	2020-12-30
+"El Oro"	"Santa Rosa"	919	2020-12-30
+"El Oro"	"Zaruma"	387	2020-12-30
+"El Oro"	"Arenillas"	468	2020-12-31
+"El Oro"	"Atahualpa"	84	2020-12-31
+"El Oro"	"Balsas"	58	2020-12-31
+"El Oro"	"Chilla"	11	2020-12-31
+"El Oro"	"El Guabo"	185	2020-12-31
+"El Oro"	"Huaquillas"	477	2020-12-31
+"El Oro"	"Las Lajas"	18	2020-12-31
+"El Oro"	"Machala"	4375	2020-12-31
+"El Oro"	"Marcabelí"	17	2020-12-31
+"El Oro"	"Pasaje"	389	2020-12-31
+"El Oro"	"Piñas"	438	2020-12-31
+"El Oro"	"Portovelo"	494	2020-12-31
+"El Oro"	"Santa Rosa"	920	2020-12-31
+"El Oro"	"Zaruma"	389	2020-12-31
 "El Oro"	"Arenillas"	468	2021-01-01
 "El Oro"	"Atahualpa"	84	2021-01-01
 "El Oro"	"Balsas"	58	2021-01-01
@@ -6635,3 +10751,115 @@
 "El Oro"	"Portovelo"	1570	2022-04-19
 "El Oro"	"Santa Rosa"	4916	2022-04-19
 "El Oro"	"Zaruma"	2025	2022-04-19
+"El Oro"	"Arenillas"	1354	2022-04-20
+"El Oro"	"Atahualpa"	588	2022-04-20
+"El Oro"	"Balsas"	608	2022-04-20
+"El Oro"	"Chilla"	78	2022-04-20
+"El Oro"	"El Guabo"	1629	2022-04-20
+"El Oro"	"Huaquillas"	2072	2022-04-20
+"El Oro"	"Las Lajas"	251	2022-04-20
+"El Oro"	"Machala"	25749	2022-04-20
+"El Oro"	"Marcabelí"	450	2022-04-20
+"El Oro"	"Pasaje"	4451	2022-04-20
+"El Oro"	"Piñas"	3503	2022-04-20
+"El Oro"	"Portovelo"	1571	2022-04-20
+"El Oro"	"Santa Rosa"	4916	2022-04-20
+"El Oro"	"Zaruma"	2025	2022-04-20
+"El Oro"	"Arenillas"	1354	2022-04-21
+"El Oro"	"Atahualpa"	588	2022-04-21
+"El Oro"	"Balsas"	608	2022-04-21
+"El Oro"	"Chilla"	78	2022-04-21
+"El Oro"	"El Guabo"	1629	2022-04-21
+"El Oro"	"Huaquillas"	2072	2022-04-21
+"El Oro"	"Las Lajas"	251	2022-04-21
+"El Oro"	"Machala"	25751	2022-04-21
+"El Oro"	"Marcabelí"	450	2022-04-21
+"El Oro"	"Pasaje"	4451	2022-04-21
+"El Oro"	"Piñas"	3503	2022-04-21
+"El Oro"	"Portovelo"	1571	2022-04-21
+"El Oro"	"Santa Rosa"	4916	2022-04-21
+"El Oro"	"Zaruma"	2025	2022-04-21
+"El Oro"	"Arenillas"	1354	2022-04-22
+"El Oro"	"Atahualpa"	588	2022-04-22
+"El Oro"	"Balsas"	608	2022-04-22
+"El Oro"	"Chilla"	78	2022-04-22
+"El Oro"	"El Guabo"	1631	2022-04-22
+"El Oro"	"Huaquillas"	2072	2022-04-22
+"El Oro"	"Las Lajas"	251	2022-04-22
+"El Oro"	"Machala"	25755	2022-04-22
+"El Oro"	"Marcabelí"	450	2022-04-22
+"El Oro"	"Pasaje"	4452	2022-04-22
+"El Oro"	"Piñas"	3503	2022-04-22
+"El Oro"	"Portovelo"	1571	2022-04-22
+"El Oro"	"Santa Rosa"	4917	2022-04-22
+"El Oro"	"Zaruma"	2025	2022-04-22
+"El Oro"	"Arenillas"	1354	2022-04-23
+"El Oro"	"Atahualpa"	588	2022-04-23
+"El Oro"	"Balsas"	608	2022-04-23
+"El Oro"	"Chilla"	78	2022-04-23
+"El Oro"	"El Guabo"	1631	2022-04-23
+"El Oro"	"Huaquillas"	2072	2022-04-23
+"El Oro"	"Las Lajas"	251	2022-04-23
+"El Oro"	"Machala"	25755	2022-04-23
+"El Oro"	"Marcabelí"	450	2022-04-23
+"El Oro"	"Pasaje"	4452	2022-04-23
+"El Oro"	"Piñas"	3503	2022-04-23
+"El Oro"	"Portovelo"	1571	2022-04-23
+"El Oro"	"Santa Rosa"	4917	2022-04-23
+"El Oro"	"Zaruma"	2025	2022-04-23
+"El Oro"	"Arenillas"	1354	2022-04-24
+"El Oro"	"Atahualpa"	588	2022-04-24
+"El Oro"	"Balsas"	608	2022-04-24
+"El Oro"	"Chilla"	78	2022-04-24
+"El Oro"	"El Guabo"	1631	2022-04-24
+"El Oro"	"Huaquillas"	2072	2022-04-24
+"El Oro"	"Las Lajas"	251	2022-04-24
+"El Oro"	"Machala"	25755	2022-04-24
+"El Oro"	"Marcabelí"	450	2022-04-24
+"El Oro"	"Pasaje"	4452	2022-04-24
+"El Oro"	"Piñas"	3503	2022-04-24
+"El Oro"	"Portovelo"	1571	2022-04-24
+"El Oro"	"Santa Rosa"	4917	2022-04-24
+"El Oro"	"Zaruma"	2025	2022-04-24
+"El Oro"	"Arenillas"	1354	2022-04-25
+"El Oro"	"Atahualpa"	588	2022-04-25
+"El Oro"	"Balsas"	608	2022-04-25
+"El Oro"	"Chilla"	78	2022-04-25
+"El Oro"	"El Guabo"	1631	2022-04-25
+"El Oro"	"Huaquillas"	2072	2022-04-25
+"El Oro"	"Las Lajas"	251	2022-04-25
+"El Oro"	"Machala"	25755	2022-04-25
+"El Oro"	"Marcabelí"	450	2022-04-25
+"El Oro"	"Pasaje"	4452	2022-04-25
+"El Oro"	"Piñas"	3503	2022-04-25
+"El Oro"	"Portovelo"	1571	2022-04-25
+"El Oro"	"Santa Rosa"	4917	2022-04-25
+"El Oro"	"Zaruma"	2025	2022-04-25
+"El Oro"	"Arenillas"	1354	2022-04-26
+"El Oro"	"Atahualpa"	588	2022-04-26
+"El Oro"	"Balsas"	608	2022-04-26
+"El Oro"	"Chilla"	78	2022-04-26
+"El Oro"	"El Guabo"	1631	2022-04-26
+"El Oro"	"Huaquillas"	2072	2022-04-26
+"El Oro"	"Las Lajas"	251	2022-04-26
+"El Oro"	"Machala"	25759	2022-04-26
+"El Oro"	"Marcabelí"	450	2022-04-26
+"El Oro"	"Pasaje"	4452	2022-04-26
+"El Oro"	"Piñas"	3503	2022-04-26
+"El Oro"	"Portovelo"	1571	2022-04-26
+"El Oro"	"Santa Rosa"	4917	2022-04-26
+"El Oro"	"Zaruma"	2025	2022-04-26
+"El Oro"	"Arenillas"	1354	2022-04-27
+"El Oro"	"Atahualpa"	588	2022-04-27
+"El Oro"	"Balsas"	608	2022-04-27
+"El Oro"	"Chilla"	78	2022-04-27
+"El Oro"	"El Guabo"	1631	2022-04-27
+"El Oro"	"Huaquillas"	2072	2022-04-27
+"El Oro"	"Las Lajas"	251	2022-04-27
+"El Oro"	"Machala"	25759	2022-04-27
+"El Oro"	"Marcabelí"	450	2022-04-27
+"El Oro"	"Pasaje"	4453	2022-04-27
+"El Oro"	"Piñas"	3503	2022-04-27
+"El Oro"	"Portovelo"	1571	2022-04-27
+"El Oro"	"Santa Rosa"	4917	2022-04-27
+"El Oro"	"Zaruma"	2025	2022-04-27
