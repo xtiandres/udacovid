@@ -1,4 +1,1474 @@
 "provincia"	"canton"	"total"	"created_at"
+"Napo"	"Archidona"	0	2020-03-13
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-13
+"Napo"	"El Chaco"	0	2020-03-13
+"Napo"	"Quijos"	0	2020-03-13
+"Napo"	"Tena"	0	2020-03-13
+"Napo"	"Archidona"	0	2020-03-14
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-14
+"Napo"	"El Chaco"	0	2020-03-14
+"Napo"	"Quijos"	0	2020-03-14
+"Napo"	"Tena"	0	2020-03-14
+"Napo"	"Archidona"	0	2020-03-15
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-15
+"Napo"	"El Chaco"	0	2020-03-15
+"Napo"	"Quijos"	0	2020-03-15
+"Napo"	"Tena"	0	2020-03-15
+"Napo"	"Archidona"	0	2020-03-16
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-16
+"Napo"	"El Chaco"	0	2020-03-16
+"Napo"	"Quijos"	0	2020-03-16
+"Napo"	"Tena"	0	2020-03-16
+"Napo"	"Archidona"	0	2020-03-17
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-17
+"Napo"	"El Chaco"	0	2020-03-17
+"Napo"	"Quijos"	0	2020-03-17
+"Napo"	"Tena"	0	2020-03-17
+"Napo"	"Archidona"	0	2020-03-18
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-18
+"Napo"	"El Chaco"	0	2020-03-18
+"Napo"	"Quijos"	0	2020-03-18
+"Napo"	"Tena"	0	2020-03-18
+"Napo"	"Archidona"	0	2020-03-19
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-19
+"Napo"	"El Chaco"	0	2020-03-19
+"Napo"	"Quijos"	0	2020-03-19
+"Napo"	"Tena"	0	2020-03-19
+"Napo"	"Archidona"	0	2020-03-20
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-20
+"Napo"	"El Chaco"	0	2020-03-20
+"Napo"	"Quijos"	0	2020-03-20
+"Napo"	"Tena"	0	2020-03-20
+"Napo"	"Archidona"	0	2020-03-21
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-21
+"Napo"	"El Chaco"	0	2020-03-21
+"Napo"	"Quijos"	0	2020-03-21
+"Napo"	"Tena"	0	2020-03-21
+"Napo"	"Archidona"	0	2020-03-22
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-22
+"Napo"	"El Chaco"	0	2020-03-22
+"Napo"	"Quijos"	0	2020-03-22
+"Napo"	"Tena"	0	2020-03-22
+"Napo"	"Archidona"	0	2020-03-23
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-23
+"Napo"	"El Chaco"	0	2020-03-23
+"Napo"	"Quijos"	0	2020-03-23
+"Napo"	"Tena"	0	2020-03-23
+"Napo"	"Archidona"	0	2020-03-24
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-24
+"Napo"	"El Chaco"	0	2020-03-24
+"Napo"	"Quijos"	0	2020-03-24
+"Napo"	"Tena"	0	2020-03-24
+"Napo"	"Archidona"	0	2020-03-25
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-25
+"Napo"	"El Chaco"	0	2020-03-25
+"Napo"	"Quijos"	0	2020-03-25
+"Napo"	"Tena"	0	2020-03-25
+"Napo"	"Archidona"	0	2020-03-26
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-26
+"Napo"	"El Chaco"	0	2020-03-26
+"Napo"	"Quijos"	0	2020-03-26
+"Napo"	"Tena"	0	2020-03-26
+"Napo"	"Archidona"	0	2020-03-27
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-27
+"Napo"	"El Chaco"	0	2020-03-27
+"Napo"	"Quijos"	0	2020-03-27
+"Napo"	"Tena"	0	2020-03-27
+"Napo"	"Archidona"	0	2020-03-28
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-28
+"Napo"	"El Chaco"	0	2020-03-28
+"Napo"	"Quijos"	0	2020-03-28
+"Napo"	"Tena"	0	2020-03-28
+"Napo"	"Archidona"	0	2020-03-29
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-29
+"Napo"	"El Chaco"	0	2020-03-29
+"Napo"	"Quijos"	0	2020-03-29
+"Napo"	"Tena"	0	2020-03-29
+"Napo"	"Archidona"	0	2020-03-30
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-30
+"Napo"	"El Chaco"	0	2020-03-30
+"Napo"	"Quijos"	0	2020-03-30
+"Napo"	"Tena"	0	2020-03-30
+"Napo"	"Archidona"	0	2020-03-31
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-03-31
+"Napo"	"El Chaco"	0	2020-03-31
+"Napo"	"Quijos"	0	2020-03-31
+"Napo"	"Tena"	1	2020-03-31
+"Napo"	"Archidona"	0	2020-04-01
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-01
+"Napo"	"El Chaco"	0	2020-04-01
+"Napo"	"Quijos"	0	2020-04-01
+"Napo"	"Tena"	1	2020-04-01
+"Napo"	"Archidona"	0	2020-04-02
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-02
+"Napo"	"El Chaco"	0	2020-04-02
+"Napo"	"Quijos"	0	2020-04-02
+"Napo"	"Tena"	1	2020-04-02
+"Napo"	"Archidona"	0	2020-04-03
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-03
+"Napo"	"El Chaco"	0	2020-04-03
+"Napo"	"Quijos"	0	2020-04-03
+"Napo"	"Tena"	1	2020-04-03
+"Napo"	"Archidona"	0	2020-04-04
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-04
+"Napo"	"El Chaco"	0	2020-04-04
+"Napo"	"Quijos"	0	2020-04-04
+"Napo"	"Tena"	2	2020-04-04
+"Napo"	"Archidona"	0	2020-04-05
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-05
+"Napo"	"El Chaco"	0	2020-04-05
+"Napo"	"Quijos"	0	2020-04-05
+"Napo"	"Tena"	2	2020-04-05
+"Napo"	"Archidona"	0	2020-04-06
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-06
+"Napo"	"El Chaco"	0	2020-04-06
+"Napo"	"Quijos"	0	2020-04-06
+"Napo"	"Tena"	2	2020-04-06
+"Napo"	"Archidona"	0	2020-04-07
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-07
+"Napo"	"El Chaco"	0	2020-04-07
+"Napo"	"Quijos"	0	2020-04-07
+"Napo"	"Tena"	2	2020-04-07
+"Napo"	"Archidona"	0	2020-04-08
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-08
+"Napo"	"El Chaco"	0	2020-04-08
+"Napo"	"Quijos"	0	2020-04-08
+"Napo"	"Tena"	2	2020-04-08
+"Napo"	"Archidona"	0	2020-04-09
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-09
+"Napo"	"El Chaco"	0	2020-04-09
+"Napo"	"Quijos"	0	2020-04-09
+"Napo"	"Tena"	2	2020-04-09
+"Napo"	"Archidona"	0	2020-04-10
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-10
+"Napo"	"El Chaco"	0	2020-04-10
+"Napo"	"Quijos"	0	2020-04-10
+"Napo"	"Tena"	3	2020-04-10
+"Napo"	"Archidona"	0	2020-04-11
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-11
+"Napo"	"El Chaco"	0	2020-04-11
+"Napo"	"Quijos"	0	2020-04-11
+"Napo"	"Tena"	4	2020-04-11
+"Napo"	"Archidona"	0	2020-04-12
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-12
+"Napo"	"El Chaco"	0	2020-04-12
+"Napo"	"Quijos"	0	2020-04-12
+"Napo"	"Tena"	6	2020-04-12
+"Napo"	"Archidona"	0	2020-04-13
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-13
+"Napo"	"El Chaco"	0	2020-04-13
+"Napo"	"Quijos"	0	2020-04-13
+"Napo"	"Tena"	6	2020-04-13
+"Napo"	"Archidona"	0	2020-04-14
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-14
+"Napo"	"El Chaco"	0	2020-04-14
+"Napo"	"Quijos"	0	2020-04-14
+"Napo"	"Tena"	8	2020-04-14
+"Napo"	"Archidona"	0	2020-04-15
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-15
+"Napo"	"El Chaco"	0	2020-04-15
+"Napo"	"Quijos"	0	2020-04-15
+"Napo"	"Tena"	8	2020-04-15
+"Napo"	"Archidona"	0	2020-04-16
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-16
+"Napo"	"El Chaco"	0	2020-04-16
+"Napo"	"Quijos"	0	2020-04-16
+"Napo"	"Tena"	8	2020-04-16
+"Napo"	"Archidona"	0	2020-04-17
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-17
+"Napo"	"El Chaco"	0	2020-04-17
+"Napo"	"Quijos"	0	2020-04-17
+"Napo"	"Tena"	8	2020-04-17
+"Napo"	"Archidona"	0	2020-04-18
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-18
+"Napo"	"El Chaco"	0	2020-04-18
+"Napo"	"Quijos"	0	2020-04-18
+"Napo"	"Tena"	8	2020-04-18
+"Napo"	"Archidona"	0	2020-04-19
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-19
+"Napo"	"El Chaco"	0	2020-04-19
+"Napo"	"Quijos"	0	2020-04-19
+"Napo"	"Tena"	8	2020-04-19
+"Napo"	"Archidona"	1	2020-04-20
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-20
+"Napo"	"El Chaco"	0	2020-04-20
+"Napo"	"Quijos"	0	2020-04-20
+"Napo"	"Tena"	8	2020-04-20
+"Napo"	"Archidona"	1	2020-04-21
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-21
+"Napo"	"El Chaco"	0	2020-04-21
+"Napo"	"Quijos"	0	2020-04-21
+"Napo"	"Tena"	8	2020-04-21
+"Napo"	"Archidona"	1	2020-04-22
+"Napo"	"Carlos Julio Arosemena Tola"	0	2020-04-22
+"Napo"	"El Chaco"	0	2020-04-22
+"Napo"	"Quijos"	0	2020-04-22
+"Napo"	"Tena"	9	2020-04-22
+"Napo"	"Archidona"	1	2020-04-23
+"Napo"	"Carlos Julio Arosemena Tola"	1	2020-04-23
+"Napo"	"El Chaco"	0	2020-04-23
+"Napo"	"Quijos"	0	2020-04-23
+"Napo"	"Tena"	10	2020-04-23
+"Napo"	"Archidona"	1	2020-04-24
+"Napo"	"Carlos Julio Arosemena Tola"	1	2020-04-24
+"Napo"	"El Chaco"	0	2020-04-24
+"Napo"	"Quijos"	0	2020-04-24
+"Napo"	"Tena"	10	2020-04-24
+"Napo"	"Archidona"	1	2020-04-25
+"Napo"	"Carlos Julio Arosemena Tola"	1	2020-04-25
+"Napo"	"El Chaco"	0	2020-04-25
+"Napo"	"Quijos"	0	2020-04-25
+"Napo"	"Tena"	10	2020-04-25
+"Napo"	"Archidona"	1	2020-04-26
+"Napo"	"Carlos Julio Arosemena Tola"	1	2020-04-26
+"Napo"	"El Chaco"	0	2020-04-26
+"Napo"	"Quijos"	0	2020-04-26
+"Napo"	"Tena"	10	2020-04-26
+"Napo"	"Archidona"	1	2020-04-27
+"Napo"	"Carlos Julio Arosemena Tola"	1	2020-04-27
+"Napo"	"El Chaco"	0	2020-04-27
+"Napo"	"Quijos"	0	2020-04-27
+"Napo"	"Tena"	10	2020-04-27
+"Napo"	"Archidona"	3	2020-04-28
+"Napo"	"Carlos Julio Arosemena Tola"	1	2020-04-28
+"Napo"	"El Chaco"	0	2020-04-28
+"Napo"	"Quijos"	1	2020-04-28
+"Napo"	"Tena"	14	2020-04-28
+"Napo"	"Archidona"	3	2020-04-29
+"Napo"	"Carlos Julio Arosemena Tola"	1	2020-04-29
+"Napo"	"El Chaco"	0	2020-04-29
+"Napo"	"Quijos"	1	2020-04-29
+"Napo"	"Tena"	18	2020-04-29
+"Napo"	"Archidona"	3	2020-04-30
+"Napo"	"Carlos Julio Arosemena Tola"	1	2020-04-30
+"Napo"	"El Chaco"	0	2020-04-30
+"Napo"	"Quijos"	1	2020-04-30
+"Napo"	"Tena"	18	2020-04-30
+"Napo"	"Archidona"	4	2020-05-01
+"Napo"	"Carlos Julio Arosemena Tola"	1	2020-05-01
+"Napo"	"El Chaco"	0	2020-05-01
+"Napo"	"Quijos"	1	2020-05-01
+"Napo"	"Tena"	24	2020-05-01
+"Napo"	"Archidona"	7	2020-05-02
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-02
+"Napo"	"El Chaco"	0	2020-05-02
+"Napo"	"Quijos"	1	2020-05-02
+"Napo"	"Tena"	26	2020-05-02
+"Napo"	"Archidona"	9	2020-05-03
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-03
+"Napo"	"El Chaco"	0	2020-05-03
+"Napo"	"Quijos"	1	2020-05-03
+"Napo"	"Tena"	28	2020-05-03
+"Napo"	"Archidona"	8	2020-05-04
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-04
+"Napo"	"El Chaco"	0	2020-05-04
+"Napo"	"Quijos"	1	2020-05-04
+"Napo"	"Tena"	31	2020-05-04
+"Napo"	"Archidona"	8	2020-05-05
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-05
+"Napo"	"El Chaco"	0	2020-05-05
+"Napo"	"Quijos"	1	2020-05-05
+"Napo"	"Tena"	31	2020-05-05
+"Napo"	"Archidona"	8	2020-05-06
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-06
+"Napo"	"El Chaco"	0	2020-05-06
+"Napo"	"Quijos"	1	2020-05-06
+"Napo"	"Tena"	29	2020-05-06
+"Napo"	"Archidona"	8	2020-05-07
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-07
+"Napo"	"El Chaco"	0	2020-05-07
+"Napo"	"Quijos"	1	2020-05-07
+"Napo"	"Tena"	29	2020-05-07
+"Napo"	"Archidona"	8	2020-05-08
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-08
+"Napo"	"El Chaco"	0	2020-05-08
+"Napo"	"Quijos"	1	2020-05-08
+"Napo"	"Tena"	32	2020-05-08
+"Napo"	"Archidona"	8	2020-05-09
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-09
+"Napo"	"El Chaco"	0	2020-05-09
+"Napo"	"Quijos"	1	2020-05-09
+"Napo"	"Tena"	32	2020-05-09
+"Napo"	"Archidona"	14	2020-05-10
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-10
+"Napo"	"El Chaco"	0	2020-05-10
+"Napo"	"Quijos"	1	2020-05-10
+"Napo"	"Tena"	37	2020-05-10
+"Napo"	"Archidona"	8	2020-05-11
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-11
+"Napo"	"El Chaco"	0	2020-05-11
+"Napo"	"Quijos"	1	2020-05-11
+"Napo"	"Tena"	32	2020-05-11
+"Napo"	"Archidona"	15	2020-05-12
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-12
+"Napo"	"El Chaco"	0	2020-05-12
+"Napo"	"Quijos"	2	2020-05-12
+"Napo"	"Tena"	41	2020-05-12
+"Napo"	"Archidona"	15	2020-05-13
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-13
+"Napo"	"El Chaco"	0	2020-05-13
+"Napo"	"Quijos"	2	2020-05-13
+"Napo"	"Tena"	42	2020-05-13
+"Napo"	"Archidona"	15	2020-05-14
+"Napo"	"Carlos Julio Arosemena Tola"	2	2020-05-14
+"Napo"	"El Chaco"	0	2020-05-14
+"Napo"	"Quijos"	2	2020-05-14
+"Napo"	"Tena"	42	2020-05-14
+"Napo"	"Archidona"	39	2020-05-15
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-15
+"Napo"	"El Chaco"	0	2020-05-15
+"Napo"	"Quijos"	2	2020-05-15
+"Napo"	"Tena"	44	2020-05-15
+"Napo"	"Archidona"	41	2020-05-16
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-16
+"Napo"	"El Chaco"	0	2020-05-16
+"Napo"	"Quijos"	3	2020-05-16
+"Napo"	"Tena"	48	2020-05-16
+"Napo"	"Archidona"	43	2020-05-17
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-17
+"Napo"	"El Chaco"	0	2020-05-17
+"Napo"	"Quijos"	3	2020-05-17
+"Napo"	"Tena"	52	2020-05-17
+"Napo"	"Archidona"	43	2020-05-18
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-18
+"Napo"	"El Chaco"	0	2020-05-18
+"Napo"	"Quijos"	3	2020-05-18
+"Napo"	"Tena"	56	2020-05-18
+"Napo"	"Archidona"	44	2020-05-19
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-19
+"Napo"	"El Chaco"	0	2020-05-19
+"Napo"	"Quijos"	3	2020-05-19
+"Napo"	"Tena"	65	2020-05-19
+"Napo"	"Archidona"	46	2020-05-20
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-20
+"Napo"	"El Chaco"	0	2020-05-20
+"Napo"	"Quijos"	3	2020-05-20
+"Napo"	"Tena"	66	2020-05-20
+"Napo"	"Archidona"	48	2020-05-21
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-21
+"Napo"	"El Chaco"	0	2020-05-21
+"Napo"	"Quijos"	3	2020-05-21
+"Napo"	"Tena"	71	2020-05-21
+"Napo"	"Archidona"	57	2020-05-22
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-22
+"Napo"	"El Chaco"	0	2020-05-22
+"Napo"	"Quijos"	7	2020-05-22
+"Napo"	"Tena"	78	2020-05-22
+"Napo"	"Archidona"	58	2020-05-23
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-23
+"Napo"	"El Chaco"	0	2020-05-23
+"Napo"	"Quijos"	7	2020-05-23
+"Napo"	"Tena"	84	2020-05-23
+"Napo"	"Archidona"	69	2020-05-24
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-24
+"Napo"	"El Chaco"	1	2020-05-24
+"Napo"	"Quijos"	7	2020-05-24
+"Napo"	"Tena"	86	2020-05-24
+"Napo"	"Archidona"	78	2020-05-25
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-25
+"Napo"	"El Chaco"	1	2020-05-25
+"Napo"	"Quijos"	8	2020-05-25
+"Napo"	"Tena"	100	2020-05-25
+"Napo"	"Archidona"	78	2020-05-26
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-26
+"Napo"	"El Chaco"	1	2020-05-26
+"Napo"	"Quijos"	8	2020-05-26
+"Napo"	"Tena"	105	2020-05-26
+"Napo"	"Archidona"	81	2020-05-27
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-27
+"Napo"	"El Chaco"	1	2020-05-27
+"Napo"	"Quijos"	8	2020-05-27
+"Napo"	"Tena"	108	2020-05-27
+"Napo"	"Archidona"	81	2020-05-28
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-28
+"Napo"	"El Chaco"	1	2020-05-28
+"Napo"	"Quijos"	8	2020-05-28
+"Napo"	"Tena"	108	2020-05-28
+"Napo"	"Archidona"	81	2020-05-29
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-29
+"Napo"	"El Chaco"	1	2020-05-29
+"Napo"	"Quijos"	8	2020-05-29
+"Napo"	"Tena"	108	2020-05-29
+"Napo"	"Archidona"	81	2020-05-30
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-30
+"Napo"	"El Chaco"	1	2020-05-30
+"Napo"	"Quijos"	8	2020-05-30
+"Napo"	"Tena"	108	2020-05-30
+"Napo"	"Archidona"	81	2020-05-31
+"Napo"	"Carlos Julio Arosemena Tola"	3	2020-05-31
+"Napo"	"El Chaco"	1	2020-05-31
+"Napo"	"Quijos"	8	2020-05-31
+"Napo"	"Tena"	108	2020-05-31
+"Napo"	"Archidona"	81	2020-06-01
+"Napo"	"Carlos Julio Arosemena Tola"	4	2020-06-01
+"Napo"	"El Chaco"	1	2020-06-01
+"Napo"	"Quijos"	10	2020-06-01
+"Napo"	"Tena"	124	2020-06-01
+"Napo"	"Archidona"	85	2020-06-02
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-02
+"Napo"	"El Chaco"	1	2020-06-02
+"Napo"	"Quijos"	10	2020-06-02
+"Napo"	"Tena"	128	2020-06-02
+"Napo"	"Archidona"	87	2020-06-03
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-03
+"Napo"	"El Chaco"	1	2020-06-03
+"Napo"	"Quijos"	10	2020-06-03
+"Napo"	"Tena"	135	2020-06-03
+"Napo"	"Archidona"	91	2020-06-04
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-04
+"Napo"	"El Chaco"	1	2020-06-04
+"Napo"	"Quijos"	12	2020-06-04
+"Napo"	"Tena"	158	2020-06-04
+"Napo"	"Archidona"	93	2020-06-05
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-05
+"Napo"	"El Chaco"	1	2020-06-05
+"Napo"	"Quijos"	12	2020-06-05
+"Napo"	"Tena"	175	2020-06-05
+"Napo"	"Archidona"	93	2020-06-06
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-06
+"Napo"	"El Chaco"	3	2020-06-06
+"Napo"	"Quijos"	12	2020-06-06
+"Napo"	"Tena"	198	2020-06-06
+"Napo"	"Archidona"	95	2020-06-07
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-07
+"Napo"	"El Chaco"	3	2020-06-07
+"Napo"	"Quijos"	14	2020-06-07
+"Napo"	"Tena"	208	2020-06-07
+"Napo"	"Archidona"	95	2020-06-08
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-08
+"Napo"	"El Chaco"	3	2020-06-08
+"Napo"	"Quijos"	14	2020-06-08
+"Napo"	"Tena"	208	2020-06-08
+"Napo"	"Archidona"	96	2020-06-09
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-09
+"Napo"	"El Chaco"	3	2020-06-09
+"Napo"	"Quijos"	14	2020-06-09
+"Napo"	"Tena"	209	2020-06-09
+"Napo"	"Archidona"	100	2020-06-10
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-10
+"Napo"	"El Chaco"	3	2020-06-10
+"Napo"	"Quijos"	14	2020-06-10
+"Napo"	"Tena"	223	2020-06-10
+"Napo"	"Archidona"	100	2020-06-11
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-11
+"Napo"	"El Chaco"	3	2020-06-11
+"Napo"	"Quijos"	14	2020-06-11
+"Napo"	"Tena"	227	2020-06-11
+"Napo"	"Archidona"	101	2020-06-12
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-12
+"Napo"	"El Chaco"	9	2020-06-12
+"Napo"	"Quijos"	16	2020-06-12
+"Napo"	"Tena"	230	2020-06-12
+"Napo"	"Archidona"	104	2020-06-13
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-13
+"Napo"	"El Chaco"	9	2020-06-13
+"Napo"	"Quijos"	16	2020-06-13
+"Napo"	"Tena"	256	2020-06-13
+"Napo"	"Archidona"	104	2020-06-14
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-14
+"Napo"	"El Chaco"	9	2020-06-14
+"Napo"	"Quijos"	16	2020-06-14
+"Napo"	"Tena"	256	2020-06-14
+"Napo"	"Archidona"	106	2020-06-15
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-15
+"Napo"	"El Chaco"	9	2020-06-15
+"Napo"	"Quijos"	16	2020-06-15
+"Napo"	"Tena"	268	2020-06-15
+"Napo"	"Archidona"	108	2020-06-16
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-16
+"Napo"	"El Chaco"	9	2020-06-16
+"Napo"	"Quijos"	16	2020-06-16
+"Napo"	"Tena"	268	2020-06-16
+"Napo"	"Archidona"	108	2020-06-17
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-17
+"Napo"	"El Chaco"	9	2020-06-17
+"Napo"	"Quijos"	16	2020-06-17
+"Napo"	"Tena"	268	2020-06-17
+"Napo"	"Archidona"	111	2020-06-18
+"Napo"	"Carlos Julio Arosemena Tola"	5	2020-06-18
+"Napo"	"El Chaco"	19	2020-06-18
+"Napo"	"Quijos"	19	2020-06-18
+"Napo"	"Tena"	291	2020-06-18
+"Napo"	"Archidona"	117	2020-06-19
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-19
+"Napo"	"El Chaco"	28	2020-06-19
+"Napo"	"Quijos"	24	2020-06-19
+"Napo"	"Tena"	321	2020-06-19
+"Napo"	"Archidona"	118	2020-06-20
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-20
+"Napo"	"El Chaco"	29	2020-06-20
+"Napo"	"Quijos"	24	2020-06-20
+"Napo"	"Tena"	324	2020-06-20
+"Napo"	"Archidona"	118	2020-06-21
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-21
+"Napo"	"El Chaco"	29	2020-06-21
+"Napo"	"Quijos"	24	2020-06-21
+"Napo"	"Tena"	324	2020-06-21
+"Napo"	"Archidona"	118	2020-06-22
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-22
+"Napo"	"El Chaco"	29	2020-06-22
+"Napo"	"Quijos"	24	2020-06-22
+"Napo"	"Tena"	324	2020-06-22
+"Napo"	"Archidona"	118	2020-06-23
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-23
+"Napo"	"El Chaco"	29	2020-06-23
+"Napo"	"Quijos"	24	2020-06-23
+"Napo"	"Tena"	349	2020-06-23
+"Napo"	"Archidona"	118	2020-06-24
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-24
+"Napo"	"El Chaco"	29	2020-06-24
+"Napo"	"Quijos"	24	2020-06-24
+"Napo"	"Tena"	349	2020-06-24
+"Napo"	"Archidona"	118	2020-06-25
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-25
+"Napo"	"El Chaco"	38	2020-06-25
+"Napo"	"Quijos"	29	2020-06-25
+"Napo"	"Tena"	364	2020-06-25
+"Napo"	"Archidona"	118	2020-06-26
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-26
+"Napo"	"El Chaco"	38	2020-06-26
+"Napo"	"Quijos"	29	2020-06-26
+"Napo"	"Tena"	364	2020-06-26
+"Napo"	"Archidona"	118	2020-06-27
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-27
+"Napo"	"El Chaco"	38	2020-06-27
+"Napo"	"Quijos"	29	2020-06-27
+"Napo"	"Tena"	365	2020-06-27
+"Napo"	"Archidona"	118	2020-06-28
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-28
+"Napo"	"El Chaco"	38	2020-06-28
+"Napo"	"Quijos"	33	2020-06-28
+"Napo"	"Tena"	369	2020-06-28
+"Napo"	"Archidona"	118	2020-06-29
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-29
+"Napo"	"El Chaco"	38	2020-06-29
+"Napo"	"Quijos"	33	2020-06-29
+"Napo"	"Tena"	369	2020-06-29
+"Napo"	"Archidona"	118	2020-06-30
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-06-30
+"Napo"	"El Chaco"	44	2020-06-30
+"Napo"	"Quijos"	34	2020-06-30
+"Napo"	"Tena"	384	2020-06-30
+"Napo"	"Archidona"	119	2020-07-01
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-07-01
+"Napo"	"El Chaco"	47	2020-07-01
+"Napo"	"Quijos"	34	2020-07-01
+"Napo"	"Tena"	387	2020-07-01
+"Napo"	"Archidona"	121	2020-07-02
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-07-02
+"Napo"	"El Chaco"	49	2020-07-02
+"Napo"	"Quijos"	34	2020-07-02
+"Napo"	"Tena"	403	2020-07-02
+"Napo"	"Archidona"	122	2020-07-03
+"Napo"	"Carlos Julio Arosemena Tola"	6	2020-07-03
+"Napo"	"El Chaco"	49	2020-07-03
+"Napo"	"Quijos"	34	2020-07-03
+"Napo"	"Tena"	428	2020-07-03
+"Napo"	"Archidona"	124	2020-07-04
+"Napo"	"Carlos Julio Arosemena Tola"	7	2020-07-04
+"Napo"	"El Chaco"	50	2020-07-04
+"Napo"	"Quijos"	34	2020-07-04
+"Napo"	"Tena"	437	2020-07-04
+"Napo"	"Archidona"	124	2020-07-05
+"Napo"	"Carlos Julio Arosemena Tola"	7	2020-07-05
+"Napo"	"El Chaco"	50	2020-07-05
+"Napo"	"Quijos"	34	2020-07-05
+"Napo"	"Tena"	438	2020-07-05
+"Napo"	"Archidona"	125	2020-07-06
+"Napo"	"Carlos Julio Arosemena Tola"	7	2020-07-06
+"Napo"	"El Chaco"	50	2020-07-06
+"Napo"	"Quijos"	34	2020-07-06
+"Napo"	"Tena"	440	2020-07-06
+"Napo"	"Archidona"	127	2020-07-07
+"Napo"	"Carlos Julio Arosemena Tola"	7	2020-07-07
+"Napo"	"El Chaco"	50	2020-07-07
+"Napo"	"Quijos"	34	2020-07-07
+"Napo"	"Tena"	442	2020-07-07
+"Napo"	"Archidona"	128	2020-07-08
+"Napo"	"Carlos Julio Arosemena Tola"	8	2020-07-08
+"Napo"	"El Chaco"	51	2020-07-08
+"Napo"	"Quijos"	34	2020-07-08
+"Napo"	"Tena"	449	2020-07-08
+"Napo"	"Archidona"	128	2020-07-09
+"Napo"	"Carlos Julio Arosemena Tola"	8	2020-07-09
+"Napo"	"El Chaco"	58	2020-07-09
+"Napo"	"Quijos"	34	2020-07-09
+"Napo"	"Tena"	463	2020-07-09
+"Napo"	"Archidona"	129	2020-07-10
+"Napo"	"Carlos Julio Arosemena Tola"	8	2020-07-10
+"Napo"	"El Chaco"	58	2020-07-10
+"Napo"	"Quijos"	34	2020-07-10
+"Napo"	"Tena"	469	2020-07-10
+"Napo"	"Archidona"	131	2020-07-11
+"Napo"	"Carlos Julio Arosemena Tola"	8	2020-07-11
+"Napo"	"El Chaco"	58	2020-07-11
+"Napo"	"Quijos"	40	2020-07-11
+"Napo"	"Tena"	489	2020-07-11
+"Napo"	"Archidona"	131	2020-07-12
+"Napo"	"Carlos Julio Arosemena Tola"	8	2020-07-12
+"Napo"	"El Chaco"	58	2020-07-12
+"Napo"	"Quijos"	40	2020-07-12
+"Napo"	"Tena"	489	2020-07-12
+"Napo"	"Archidona"	131	2020-07-13
+"Napo"	"Carlos Julio Arosemena Tola"	8	2020-07-13
+"Napo"	"El Chaco"	58	2020-07-13
+"Napo"	"Quijos"	40	2020-07-13
+"Napo"	"Tena"	489	2020-07-13
+"Napo"	"Archidona"	133	2020-07-14
+"Napo"	"Carlos Julio Arosemena Tola"	9	2020-07-14
+"Napo"	"El Chaco"	67	2020-07-14
+"Napo"	"Quijos"	43	2020-07-14
+"Napo"	"Tena"	510	2020-07-14
+"Napo"	"Archidona"	134	2020-07-15
+"Napo"	"Carlos Julio Arosemena Tola"	10	2020-07-15
+"Napo"	"El Chaco"	67	2020-07-15
+"Napo"	"Quijos"	46	2020-07-15
+"Napo"	"Tena"	513	2020-07-15
+"Napo"	"Archidona"	136	2020-07-16
+"Napo"	"Carlos Julio Arosemena Tola"	10	2020-07-16
+"Napo"	"El Chaco"	69	2020-07-16
+"Napo"	"Quijos"	47	2020-07-16
+"Napo"	"Tena"	523	2020-07-16
+"Napo"	"Archidona"	136	2020-07-17
+"Napo"	"Carlos Julio Arosemena Tola"	10	2020-07-17
+"Napo"	"El Chaco"	69	2020-07-17
+"Napo"	"Quijos"	47	2020-07-17
+"Napo"	"Tena"	524	2020-07-17
+"Napo"	"Archidona"	137	2020-07-18
+"Napo"	"Carlos Julio Arosemena Tola"	10	2020-07-18
+"Napo"	"El Chaco"	76	2020-07-18
+"Napo"	"Quijos"	48	2020-07-18
+"Napo"	"Tena"	539	2020-07-18
+"Napo"	"Archidona"	137	2020-07-19
+"Napo"	"Carlos Julio Arosemena Tola"	10	2020-07-19
+"Napo"	"El Chaco"	76	2020-07-19
+"Napo"	"Quijos"	48	2020-07-19
+"Napo"	"Tena"	543	2020-07-19
+"Napo"	"Archidona"	138	2020-07-20
+"Napo"	"Carlos Julio Arosemena Tola"	10	2020-07-20
+"Napo"	"El Chaco"	76	2020-07-20
+"Napo"	"Quijos"	48	2020-07-20
+"Napo"	"Tena"	548	2020-07-20
+"Napo"	"Archidona"	139	2020-07-21
+"Napo"	"Carlos Julio Arosemena Tola"	10	2020-07-21
+"Napo"	"El Chaco"	76	2020-07-21
+"Napo"	"Quijos"	57	2020-07-21
+"Napo"	"Tena"	550	2020-07-21
+"Napo"	"Archidona"	139	2020-07-22
+"Napo"	"Carlos Julio Arosemena Tola"	10	2020-07-22
+"Napo"	"El Chaco"	76	2020-07-22
+"Napo"	"Quijos"	57	2020-07-22
+"Napo"	"Tena"	554	2020-07-22
+"Napo"	"Archidona"	140	2020-07-23
+"Napo"	"Carlos Julio Arosemena Tola"	10	2020-07-23
+"Napo"	"El Chaco"	81	2020-07-23
+"Napo"	"Quijos"	62	2020-07-23
+"Napo"	"Tena"	565	2020-07-23
+"Napo"	"Archidona"	141	2020-07-24
+"Napo"	"Carlos Julio Arosemena Tola"	10	2020-07-24
+"Napo"	"El Chaco"	87	2020-07-24
+"Napo"	"Quijos"	64	2020-07-24
+"Napo"	"Tena"	574	2020-07-24
+"Napo"	"Archidona"	141	2020-07-25
+"Napo"	"Carlos Julio Arosemena Tola"	11	2020-07-25
+"Napo"	"El Chaco"	87	2020-07-25
+"Napo"	"Quijos"	72	2020-07-25
+"Napo"	"Tena"	580	2020-07-25
+"Napo"	"Archidona"	141	2020-07-26
+"Napo"	"Carlos Julio Arosemena Tola"	11	2020-07-26
+"Napo"	"El Chaco"	87	2020-07-26
+"Napo"	"Quijos"	72	2020-07-26
+"Napo"	"Tena"	581	2020-07-26
+"Napo"	"Archidona"	141	2020-07-27
+"Napo"	"Carlos Julio Arosemena Tola"	11	2020-07-27
+"Napo"	"El Chaco"	87	2020-07-27
+"Napo"	"Quijos"	72	2020-07-27
+"Napo"	"Tena"	581	2020-07-27
+"Napo"	"Archidona"	142	2020-07-28
+"Napo"	"Carlos Julio Arosemena Tola"	11	2020-07-28
+"Napo"	"El Chaco"	95	2020-07-28
+"Napo"	"Quijos"	74	2020-07-28
+"Napo"	"Tena"	598	2020-07-28
+"Napo"	"Archidona"	143	2020-07-29
+"Napo"	"Carlos Julio Arosemena Tola"	11	2020-07-29
+"Napo"	"El Chaco"	95	2020-07-29
+"Napo"	"Quijos"	79	2020-07-29
+"Napo"	"Tena"	602	2020-07-29
+"Napo"	"Archidona"	143	2020-07-30
+"Napo"	"Carlos Julio Arosemena Tola"	11	2020-07-30
+"Napo"	"El Chaco"	95	2020-07-30
+"Napo"	"Quijos"	79	2020-07-30
+"Napo"	"Tena"	603	2020-07-30
+"Napo"	"Archidona"	144	2020-07-31
+"Napo"	"Carlos Julio Arosemena Tola"	12	2020-07-31
+"Napo"	"El Chaco"	95	2020-07-31
+"Napo"	"Quijos"	80	2020-07-31
+"Napo"	"Tena"	609	2020-07-31
+"Napo"	"Archidona"	146	2020-08-01
+"Napo"	"Carlos Julio Arosemena Tola"	12	2020-08-01
+"Napo"	"El Chaco"	95	2020-08-01
+"Napo"	"Quijos"	80	2020-08-01
+"Napo"	"Tena"	614	2020-08-01
+"Napo"	"Archidona"	146	2020-08-02
+"Napo"	"Carlos Julio Arosemena Tola"	12	2020-08-02
+"Napo"	"El Chaco"	95	2020-08-02
+"Napo"	"Quijos"	80	2020-08-02
+"Napo"	"Tena"	614	2020-08-02
+"Napo"	"Archidona"	146	2020-08-03
+"Napo"	"Carlos Julio Arosemena Tola"	12	2020-08-03
+"Napo"	"El Chaco"	95	2020-08-03
+"Napo"	"Quijos"	80	2020-08-03
+"Napo"	"Tena"	614	2020-08-03
+"Napo"	"Archidona"	146	2020-08-04
+"Napo"	"Carlos Julio Arosemena Tola"	12	2020-08-04
+"Napo"	"El Chaco"	95	2020-08-04
+"Napo"	"Quijos"	80	2020-08-04
+"Napo"	"Tena"	614	2020-08-04
+"Napo"	"Archidona"	146	2020-08-05
+"Napo"	"Carlos Julio Arosemena Tola"	12	2020-08-05
+"Napo"	"El Chaco"	95	2020-08-05
+"Napo"	"Quijos"	80	2020-08-05
+"Napo"	"Tena"	614	2020-08-05
+"Napo"	"Archidona"	147	2020-08-06
+"Napo"	"Carlos Julio Arosemena Tola"	12	2020-08-06
+"Napo"	"El Chaco"	95	2020-08-06
+"Napo"	"Quijos"	80	2020-08-06
+"Napo"	"Tena"	616	2020-08-06
+"Napo"	"Archidona"	147	2020-08-07
+"Napo"	"Carlos Julio Arosemena Tola"	12	2020-08-07
+"Napo"	"El Chaco"	95	2020-08-07
+"Napo"	"Quijos"	80	2020-08-07
+"Napo"	"Tena"	616	2020-08-07
+"Napo"	"Archidona"	149	2020-08-08
+"Napo"	"Carlos Julio Arosemena Tola"	14	2020-08-08
+"Napo"	"El Chaco"	95	2020-08-08
+"Napo"	"Quijos"	81	2020-08-08
+"Napo"	"Tena"	632	2020-08-08
+"Napo"	"Archidona"	149	2020-08-09
+"Napo"	"Carlos Julio Arosemena Tola"	14	2020-08-09
+"Napo"	"El Chaco"	101	2020-08-09
+"Napo"	"Quijos"	82	2020-08-09
+"Napo"	"Tena"	632	2020-08-09
+"Napo"	"Archidona"	149	2020-08-10
+"Napo"	"Carlos Julio Arosemena Tola"	14	2020-08-10
+"Napo"	"El Chaco"	101	2020-08-10
+"Napo"	"Quijos"	82	2020-08-10
+"Napo"	"Tena"	632	2020-08-10
+"Napo"	"Archidona"	151	2020-08-11
+"Napo"	"Carlos Julio Arosemena Tola"	14	2020-08-11
+"Napo"	"El Chaco"	101	2020-08-11
+"Napo"	"Quijos"	82	2020-08-11
+"Napo"	"Tena"	632	2020-08-11
+"Napo"	"Archidona"	151	2020-08-12
+"Napo"	"Carlos Julio Arosemena Tola"	14	2020-08-12
+"Napo"	"El Chaco"	104	2020-08-12
+"Napo"	"Quijos"	83	2020-08-12
+"Napo"	"Tena"	633	2020-08-12
+"Napo"	"Archidona"	151	2020-08-13
+"Napo"	"Carlos Julio Arosemena Tola"	14	2020-08-13
+"Napo"	"El Chaco"	104	2020-08-13
+"Napo"	"Quijos"	83	2020-08-13
+"Napo"	"Tena"	633	2020-08-13
+"Napo"	"Archidona"	153	2020-08-14
+"Napo"	"Carlos Julio Arosemena Tola"	14	2020-08-14
+"Napo"	"El Chaco"	104	2020-08-14
+"Napo"	"Quijos"	83	2020-08-14
+"Napo"	"Tena"	642	2020-08-14
+"Napo"	"Archidona"	153	2020-08-15
+"Napo"	"Carlos Julio Arosemena Tola"	14	2020-08-15
+"Napo"	"El Chaco"	104	2020-08-15
+"Napo"	"Quijos"	83	2020-08-15
+"Napo"	"Tena"	647	2020-08-15
+"Napo"	"Archidona"	155	2020-08-16
+"Napo"	"Carlos Julio Arosemena Tola"	15	2020-08-16
+"Napo"	"El Chaco"	104	2020-08-16
+"Napo"	"Quijos"	83	2020-08-16
+"Napo"	"Tena"	652	2020-08-16
+"Napo"	"Archidona"	155	2020-08-17
+"Napo"	"Carlos Julio Arosemena Tola"	15	2020-08-17
+"Napo"	"El Chaco"	104	2020-08-17
+"Napo"	"Quijos"	83	2020-08-17
+"Napo"	"Tena"	652	2020-08-17
+"Napo"	"Archidona"	156	2020-08-18
+"Napo"	"Carlos Julio Arosemena Tola"	15	2020-08-18
+"Napo"	"El Chaco"	104	2020-08-18
+"Napo"	"Quijos"	83	2020-08-18
+"Napo"	"Tena"	656	2020-08-18
+"Napo"	"Archidona"	157	2020-08-19
+"Napo"	"Carlos Julio Arosemena Tola"	15	2020-08-19
+"Napo"	"El Chaco"	133	2020-08-19
+"Napo"	"Quijos"	83	2020-08-19
+"Napo"	"Tena"	663	2020-08-19
+"Napo"	"Archidona"	159	2020-08-20
+"Napo"	"Carlos Julio Arosemena Tola"	15	2020-08-20
+"Napo"	"El Chaco"	138	2020-08-20
+"Napo"	"Quijos"	83	2020-08-20
+"Napo"	"Tena"	677	2020-08-20
+"Napo"	"Archidona"	166	2020-08-21
+"Napo"	"Carlos Julio Arosemena Tola"	16	2020-08-21
+"Napo"	"El Chaco"	158	2020-08-21
+"Napo"	"Quijos"	88	2020-08-21
+"Napo"	"Tena"	688	2020-08-21
+"Napo"	"Archidona"	168	2020-08-22
+"Napo"	"Carlos Julio Arosemena Tola"	16	2020-08-22
+"Napo"	"El Chaco"	158	2020-08-22
+"Napo"	"Quijos"	88	2020-08-22
+"Napo"	"Tena"	692	2020-08-22
+"Napo"	"Archidona"	168	2020-08-23
+"Napo"	"Carlos Julio Arosemena Tola"	16	2020-08-23
+"Napo"	"El Chaco"	158	2020-08-23
+"Napo"	"Quijos"	88	2020-08-23
+"Napo"	"Tena"	692	2020-08-23
+"Napo"	"Archidona"	168	2020-08-24
+"Napo"	"Carlos Julio Arosemena Tola"	16	2020-08-24
+"Napo"	"El Chaco"	158	2020-08-24
+"Napo"	"Quijos"	88	2020-08-24
+"Napo"	"Tena"	692	2020-08-24
+"Napo"	"Archidona"	168	2020-08-25
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-08-25
+"Napo"	"El Chaco"	158	2020-08-25
+"Napo"	"Quijos"	88	2020-08-25
+"Napo"	"Tena"	692	2020-08-25
+"Napo"	"Archidona"	169	2020-08-26
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-08-26
+"Napo"	"El Chaco"	158	2020-08-26
+"Napo"	"Quijos"	89	2020-08-26
+"Napo"	"Tena"	696	2020-08-26
+"Napo"	"Archidona"	170	2020-08-27
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-08-27
+"Napo"	"El Chaco"	158	2020-08-27
+"Napo"	"Quijos"	89	2020-08-27
+"Napo"	"Tena"	699	2020-08-27
+"Napo"	"Archidona"	170	2020-08-28
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-08-28
+"Napo"	"El Chaco"	158	2020-08-28
+"Napo"	"Quijos"	89	2020-08-28
+"Napo"	"Tena"	700	2020-08-28
+"Napo"	"Archidona"	172	2020-08-29
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-08-29
+"Napo"	"El Chaco"	158	2020-08-29
+"Napo"	"Quijos"	89	2020-08-29
+"Napo"	"Tena"	717	2020-08-29
+"Napo"	"Archidona"	172	2020-08-30
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-08-30
+"Napo"	"El Chaco"	158	2020-08-30
+"Napo"	"Quijos"	89	2020-08-30
+"Napo"	"Tena"	717	2020-08-30
+"Napo"	"Archidona"	172	2020-08-31
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-08-31
+"Napo"	"El Chaco"	158	2020-08-31
+"Napo"	"Quijos"	89	2020-08-31
+"Napo"	"Tena"	717	2020-08-31
+"Napo"	"Archidona"	173	2020-09-01
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-01
+"Napo"	"El Chaco"	158	2020-09-01
+"Napo"	"Quijos"	89	2020-09-01
+"Napo"	"Tena"	723	2020-09-01
+"Napo"	"Archidona"	173	2020-09-02
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-02
+"Napo"	"El Chaco"	160	2020-09-02
+"Napo"	"Quijos"	93	2020-09-02
+"Napo"	"Tena"	723	2020-09-02
+"Napo"	"Archidona"	173	2020-09-03
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-03
+"Napo"	"El Chaco"	161	2020-09-03
+"Napo"	"Quijos"	93	2020-09-03
+"Napo"	"Tena"	730	2020-09-03
+"Napo"	"Archidona"	173	2020-09-04
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-04
+"Napo"	"El Chaco"	161	2020-09-04
+"Napo"	"Quijos"	93	2020-09-04
+"Napo"	"Tena"	730	2020-09-04
+"Napo"	"Archidona"	174	2020-09-05
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-05
+"Napo"	"El Chaco"	161	2020-09-05
+"Napo"	"Quijos"	93	2020-09-05
+"Napo"	"Tena"	730	2020-09-05
+"Napo"	"Archidona"	174	2020-09-06
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-06
+"Napo"	"El Chaco"	161	2020-09-06
+"Napo"	"Quijos"	94	2020-09-06
+"Napo"	"Tena"	730	2020-09-06
+"Napo"	"Archidona"	174	2020-09-07
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-07
+"Napo"	"El Chaco"	161	2020-09-07
+"Napo"	"Quijos"	94	2020-09-07
+"Napo"	"Tena"	730	2020-09-07
+"Napo"	"Archidona"	175	2020-09-08
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-08
+"Napo"	"El Chaco"	161	2020-09-08
+"Napo"	"Quijos"	94	2020-09-08
+"Napo"	"Tena"	737	2020-09-08
+"Napo"	"Archidona"	175	2020-09-09
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-09
+"Napo"	"El Chaco"	161	2020-09-09
+"Napo"	"Quijos"	94	2020-09-09
+"Napo"	"Tena"	741	2020-09-09
+"Napo"	"Archidona"	175	2020-09-10
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-10
+"Napo"	"El Chaco"	161	2020-09-10
+"Napo"	"Quijos"	94	2020-09-10
+"Napo"	"Tena"	741	2020-09-10
+"Napo"	"Archidona"	175	2020-09-11
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-11
+"Napo"	"El Chaco"	161	2020-09-11
+"Napo"	"Quijos"	94	2020-09-11
+"Napo"	"Tena"	743	2020-09-11
+"Napo"	"Archidona"	178	2020-09-12
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-12
+"Napo"	"El Chaco"	161	2020-09-12
+"Napo"	"Quijos"	94	2020-09-12
+"Napo"	"Tena"	744	2020-09-12
+"Napo"	"Archidona"	184	2020-09-13
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-13
+"Napo"	"El Chaco"	161	2020-09-13
+"Napo"	"Quijos"	94	2020-09-13
+"Napo"	"Tena"	750	2020-09-13
+"Napo"	"Archidona"	184	2020-09-14
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-14
+"Napo"	"El Chaco"	161	2020-09-14
+"Napo"	"Quijos"	96	2020-09-14
+"Napo"	"Tena"	750	2020-09-14
+"Napo"	"Archidona"	184	2020-09-15
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-15
+"Napo"	"El Chaco"	166	2020-09-15
+"Napo"	"Quijos"	98	2020-09-15
+"Napo"	"Tena"	750	2020-09-15
+"Napo"	"Archidona"	184	2020-09-16
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-16
+"Napo"	"El Chaco"	178	2020-09-16
+"Napo"	"Quijos"	110	2020-09-16
+"Napo"	"Tena"	750	2020-09-16
+"Napo"	"Archidona"	184	2020-09-17
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-17
+"Napo"	"El Chaco"	178	2020-09-17
+"Napo"	"Quijos"	111	2020-09-17
+"Napo"	"Tena"	755	2020-09-17
+"Napo"	"Archidona"	184	2020-09-18
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-18
+"Napo"	"El Chaco"	178	2020-09-18
+"Napo"	"Quijos"	111	2020-09-18
+"Napo"	"Tena"	755	2020-09-18
+"Napo"	"Archidona"	189	2020-09-19
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-19
+"Napo"	"El Chaco"	178	2020-09-19
+"Napo"	"Quijos"	114	2020-09-19
+"Napo"	"Tena"	761	2020-09-19
+"Napo"	"Archidona"	189	2020-09-20
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-20
+"Napo"	"El Chaco"	178	2020-09-20
+"Napo"	"Quijos"	114	2020-09-20
+"Napo"	"Tena"	762	2020-09-20
+"Napo"	"Archidona"	189	2020-09-21
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-21
+"Napo"	"El Chaco"	178	2020-09-21
+"Napo"	"Quijos"	114	2020-09-21
+"Napo"	"Tena"	762	2020-09-21
+"Napo"	"Archidona"	189	2020-09-22
+"Napo"	"Carlos Julio Arosemena Tola"	17	2020-09-22
+"Napo"	"El Chaco"	178	2020-09-22
+"Napo"	"Quijos"	114	2020-09-22
+"Napo"	"Tena"	763	2020-09-22
+"Napo"	"Archidona"	191	2020-09-23
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-09-23
+"Napo"	"El Chaco"	178	2020-09-23
+"Napo"	"Quijos"	117	2020-09-23
+"Napo"	"Tena"	774	2020-09-23
+"Napo"	"Archidona"	191	2020-09-24
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-09-24
+"Napo"	"El Chaco"	178	2020-09-24
+"Napo"	"Quijos"	117	2020-09-24
+"Napo"	"Tena"	774	2020-09-24
+"Napo"	"Archidona"	191	2020-09-25
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-09-25
+"Napo"	"El Chaco"	178	2020-09-25
+"Napo"	"Quijos"	119	2020-09-25
+"Napo"	"Tena"	775	2020-09-25
+"Napo"	"Archidona"	192	2020-09-26
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-09-26
+"Napo"	"El Chaco"	178	2020-09-26
+"Napo"	"Quijos"	127	2020-09-26
+"Napo"	"Tena"	781	2020-09-26
+"Napo"	"Archidona"	192	2020-09-27
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-09-27
+"Napo"	"El Chaco"	178	2020-09-27
+"Napo"	"Quijos"	129	2020-09-27
+"Napo"	"Tena"	783	2020-09-27
+"Napo"	"Archidona"	192	2020-09-28
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-09-28
+"Napo"	"El Chaco"	178	2020-09-28
+"Napo"	"Quijos"	129	2020-09-28
+"Napo"	"Tena"	783	2020-09-28
+"Napo"	"Archidona"	192	2020-09-29
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-09-29
+"Napo"	"El Chaco"	199	2020-09-29
+"Napo"	"Quijos"	147	2020-09-29
+"Napo"	"Tena"	783	2020-09-29
+"Napo"	"Archidona"	192	2020-09-30
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-09-30
+"Napo"	"El Chaco"	210	2020-09-30
+"Napo"	"Quijos"	151	2020-09-30
+"Napo"	"Tena"	785	2020-09-30
+"Napo"	"Archidona"	193	2020-10-01
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-01
+"Napo"	"El Chaco"	210	2020-10-01
+"Napo"	"Quijos"	151	2020-10-01
+"Napo"	"Tena"	787	2020-10-01
+"Napo"	"Archidona"	194	2020-10-02
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-02
+"Napo"	"El Chaco"	211	2020-10-02
+"Napo"	"Quijos"	158	2020-10-02
+"Napo"	"Tena"	789	2020-10-02
+"Napo"	"Archidona"	197	2020-10-03
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-03
+"Napo"	"El Chaco"	211	2020-10-03
+"Napo"	"Quijos"	158	2020-10-03
+"Napo"	"Tena"	793	2020-10-03
+"Napo"	"Archidona"	197	2020-10-04
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-04
+"Napo"	"El Chaco"	211	2020-10-04
+"Napo"	"Quijos"	158	2020-10-04
+"Napo"	"Tena"	793	2020-10-04
+"Napo"	"Archidona"	197	2020-10-05
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-05
+"Napo"	"El Chaco"	211	2020-10-05
+"Napo"	"Quijos"	158	2020-10-05
+"Napo"	"Tena"	793	2020-10-05
+"Napo"	"Archidona"	197	2020-10-06
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-06
+"Napo"	"El Chaco"	211	2020-10-06
+"Napo"	"Quijos"	158	2020-10-06
+"Napo"	"Tena"	798	2020-10-06
+"Napo"	"Archidona"	197	2020-10-07
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-07
+"Napo"	"El Chaco"	211	2020-10-07
+"Napo"	"Quijos"	158	2020-10-07
+"Napo"	"Tena"	799	2020-10-07
+"Napo"	"Archidona"	198	2020-10-08
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-08
+"Napo"	"El Chaco"	213	2020-10-08
+"Napo"	"Quijos"	158	2020-10-08
+"Napo"	"Tena"	799	2020-10-08
+"Napo"	"Archidona"	198	2020-10-09
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-09
+"Napo"	"El Chaco"	214	2020-10-09
+"Napo"	"Quijos"	158	2020-10-09
+"Napo"	"Tena"	803	2020-10-09
+"Napo"	"Archidona"	198	2020-10-10
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-10
+"Napo"	"El Chaco"	214	2020-10-10
+"Napo"	"Quijos"	158	2020-10-10
+"Napo"	"Tena"	803	2020-10-10
+"Napo"	"Archidona"	198	2020-10-11
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-11
+"Napo"	"El Chaco"	214	2020-10-11
+"Napo"	"Quijos"	158	2020-10-11
+"Napo"	"Tena"	803	2020-10-11
+"Napo"	"Archidona"	198	2020-10-12
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-12
+"Napo"	"El Chaco"	214	2020-10-12
+"Napo"	"Quijos"	158	2020-10-12
+"Napo"	"Tena"	803	2020-10-12
+"Napo"	"Archidona"	198	2020-10-13
+"Napo"	"Carlos Julio Arosemena Tola"	18	2020-10-13
+"Napo"	"El Chaco"	214	2020-10-13
+"Napo"	"Quijos"	159	2020-10-13
+"Napo"	"Tena"	803	2020-10-13
+"Napo"	"Archidona"	201	2020-10-14
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-14
+"Napo"	"El Chaco"	214	2020-10-14
+"Napo"	"Quijos"	159	2020-10-14
+"Napo"	"Tena"	809	2020-10-14
+"Napo"	"Archidona"	201	2020-10-15
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-15
+"Napo"	"El Chaco"	214	2020-10-15
+"Napo"	"Quijos"	161	2020-10-15
+"Napo"	"Tena"	810	2020-10-15
+"Napo"	"Archidona"	201	2020-10-16
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-16
+"Napo"	"El Chaco"	214	2020-10-16
+"Napo"	"Quijos"	161	2020-10-16
+"Napo"	"Tena"	810	2020-10-16
+"Napo"	"Archidona"	203	2020-10-17
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-17
+"Napo"	"El Chaco"	214	2020-10-17
+"Napo"	"Quijos"	161	2020-10-17
+"Napo"	"Tena"	815	2020-10-17
+"Napo"	"Archidona"	203	2020-10-18
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-18
+"Napo"	"El Chaco"	214	2020-10-18
+"Napo"	"Quijos"	162	2020-10-18
+"Napo"	"Tena"	815	2020-10-18
+"Napo"	"Archidona"	203	2020-10-19
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-19
+"Napo"	"El Chaco"	214	2020-10-19
+"Napo"	"Quijos"	162	2020-10-19
+"Napo"	"Tena"	815	2020-10-19
+"Napo"	"Archidona"	203	2020-10-20
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-20
+"Napo"	"El Chaco"	214	2020-10-20
+"Napo"	"Quijos"	162	2020-10-20
+"Napo"	"Tena"	815	2020-10-20
+"Napo"	"Archidona"	203	2020-10-21
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-21
+"Napo"	"El Chaco"	214	2020-10-21
+"Napo"	"Quijos"	162	2020-10-21
+"Napo"	"Tena"	817	2020-10-21
+"Napo"	"Archidona"	203	2020-10-22
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-22
+"Napo"	"El Chaco"	215	2020-10-22
+"Napo"	"Quijos"	162	2020-10-22
+"Napo"	"Tena"	818	2020-10-22
+"Napo"	"Archidona"	203	2020-10-23
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-23
+"Napo"	"El Chaco"	216	2020-10-23
+"Napo"	"Quijos"	164	2020-10-23
+"Napo"	"Tena"	819	2020-10-23
+"Napo"	"Archidona"	203	2020-10-24
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-24
+"Napo"	"El Chaco"	216	2020-10-24
+"Napo"	"Quijos"	165	2020-10-24
+"Napo"	"Tena"	819	2020-10-24
+"Napo"	"Archidona"	203	2020-10-25
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-25
+"Napo"	"El Chaco"	218	2020-10-25
+"Napo"	"Quijos"	165	2020-10-25
+"Napo"	"Tena"	821	2020-10-25
+"Napo"	"Archidona"	203	2020-10-26
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-26
+"Napo"	"El Chaco"	218	2020-10-26
+"Napo"	"Quijos"	165	2020-10-26
+"Napo"	"Tena"	821	2020-10-26
+"Napo"	"Archidona"	203	2020-10-27
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-27
+"Napo"	"El Chaco"	218	2020-10-27
+"Napo"	"Quijos"	165	2020-10-27
+"Napo"	"Tena"	821	2020-10-27
+"Napo"	"Archidona"	203	2020-10-28
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-28
+"Napo"	"El Chaco"	218	2020-10-28
+"Napo"	"Quijos"	165	2020-10-28
+"Napo"	"Tena"	825	2020-10-28
+"Napo"	"Archidona"	203	2020-10-29
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-29
+"Napo"	"El Chaco"	218	2020-10-29
+"Napo"	"Quijos"	165	2020-10-29
+"Napo"	"Tena"	828	2020-10-29
+"Napo"	"Archidona"	203	2020-10-30
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-30
+"Napo"	"El Chaco"	218	2020-10-30
+"Napo"	"Quijos"	165	2020-10-30
+"Napo"	"Tena"	828	2020-10-30
+"Napo"	"Archidona"	205	2020-10-31
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-10-31
+"Napo"	"El Chaco"	218	2020-10-31
+"Napo"	"Quijos"	165	2020-10-31
+"Napo"	"Tena"	831	2020-10-31
+"Napo"	"Archidona"	205	2020-11-01
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-01
+"Napo"	"El Chaco"	218	2020-11-01
+"Napo"	"Quijos"	165	2020-11-01
+"Napo"	"Tena"	833	2020-11-01
+"Napo"	"Archidona"	205	2020-11-02
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-02
+"Napo"	"El Chaco"	218	2020-11-02
+"Napo"	"Quijos"	165	2020-11-02
+"Napo"	"Tena"	834	2020-11-02
+"Napo"	"Archidona"	205	2020-11-03
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-03
+"Napo"	"El Chaco"	218	2020-11-03
+"Napo"	"Quijos"	165	2020-11-03
+"Napo"	"Tena"	834	2020-11-03
+"Napo"	"Archidona"	205	2020-11-04
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-04
+"Napo"	"El Chaco"	218	2020-11-04
+"Napo"	"Quijos"	165	2020-11-04
+"Napo"	"Tena"	836	2020-11-04
+"Napo"	"Archidona"	205	2020-11-05
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-05
+"Napo"	"El Chaco"	218	2020-11-05
+"Napo"	"Quijos"	165	2020-11-05
+"Napo"	"Tena"	840	2020-11-05
+"Napo"	"Archidona"	205	2020-11-06
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-06
+"Napo"	"El Chaco"	218	2020-11-06
+"Napo"	"Quijos"	165	2020-11-06
+"Napo"	"Tena"	840	2020-11-06
+"Napo"	"Archidona"	205	2020-11-07
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-07
+"Napo"	"El Chaco"	218	2020-11-07
+"Napo"	"Quijos"	165	2020-11-07
+"Napo"	"Tena"	840	2020-11-07
+"Napo"	"Archidona"	210	2020-11-08
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-08
+"Napo"	"El Chaco"	219	2020-11-08
+"Napo"	"Quijos"	165	2020-11-08
+"Napo"	"Tena"	845	2020-11-08
+"Napo"	"Archidona"	210	2020-11-09
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-09
+"Napo"	"El Chaco"	219	2020-11-09
+"Napo"	"Quijos"	165	2020-11-09
+"Napo"	"Tena"	845	2020-11-09
+"Napo"	"Archidona"	210	2020-11-10
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-10
+"Napo"	"El Chaco"	219	2020-11-10
+"Napo"	"Quijos"	165	2020-11-10
+"Napo"	"Tena"	845	2020-11-10
+"Napo"	"Archidona"	211	2020-11-11
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-11
+"Napo"	"El Chaco"	219	2020-11-11
+"Napo"	"Quijos"	165	2020-11-11
+"Napo"	"Tena"	850	2020-11-11
+"Napo"	"Archidona"	211	2020-11-12
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-12
+"Napo"	"El Chaco"	219	2020-11-12
+"Napo"	"Quijos"	165	2020-11-12
+"Napo"	"Tena"	854	2020-11-12
+"Napo"	"Archidona"	212	2020-11-13
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-13
+"Napo"	"El Chaco"	219	2020-11-13
+"Napo"	"Quijos"	165	2020-11-13
+"Napo"	"Tena"	855	2020-11-13
+"Napo"	"Archidona"	212	2020-11-14
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-14
+"Napo"	"El Chaco"	219	2020-11-14
+"Napo"	"Quijos"	165	2020-11-14
+"Napo"	"Tena"	855	2020-11-14
+"Napo"	"Archidona"	213	2020-11-15
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-15
+"Napo"	"El Chaco"	219	2020-11-15
+"Napo"	"Quijos"	166	2020-11-15
+"Napo"	"Tena"	858	2020-11-15
+"Napo"	"Archidona"	213	2020-11-16
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-16
+"Napo"	"El Chaco"	219	2020-11-16
+"Napo"	"Quijos"	166	2020-11-16
+"Napo"	"Tena"	858	2020-11-16
+"Napo"	"Archidona"	213	2020-11-17
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-17
+"Napo"	"El Chaco"	219	2020-11-17
+"Napo"	"Quijos"	166	2020-11-17
+"Napo"	"Tena"	858	2020-11-17
+"Napo"	"Archidona"	214	2020-11-18
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-18
+"Napo"	"El Chaco"	221	2020-11-18
+"Napo"	"Quijos"	169	2020-11-18
+"Napo"	"Tena"	863	2020-11-18
+"Napo"	"Archidona"	214	2020-11-19
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-19
+"Napo"	"El Chaco"	221	2020-11-19
+"Napo"	"Quijos"	169	2020-11-19
+"Napo"	"Tena"	863	2020-11-19
+"Napo"	"Archidona"	214	2020-11-20
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-20
+"Napo"	"El Chaco"	221	2020-11-20
+"Napo"	"Quijos"	169	2020-11-20
+"Napo"	"Tena"	868	2020-11-20
+"Napo"	"Archidona"	216	2020-11-21
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-21
+"Napo"	"El Chaco"	221	2020-11-21
+"Napo"	"Quijos"	169	2020-11-21
+"Napo"	"Tena"	878	2020-11-21
+"Napo"	"Archidona"	216	2020-11-22
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-22
+"Napo"	"El Chaco"	221	2020-11-22
+"Napo"	"Quijos"	169	2020-11-22
+"Napo"	"Tena"	880	2020-11-22
+"Napo"	"Archidona"	217	2020-11-23
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-23
+"Napo"	"El Chaco"	221	2020-11-23
+"Napo"	"Quijos"	169	2020-11-23
+"Napo"	"Tena"	881	2020-11-23
+"Napo"	"Archidona"	217	2020-11-24
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-24
+"Napo"	"El Chaco"	221	2020-11-24
+"Napo"	"Quijos"	169	2020-11-24
+"Napo"	"Tena"	881	2020-11-24
+"Napo"	"Archidona"	217	2020-11-25
+"Napo"	"Carlos Julio Arosemena Tola"	19	2020-11-25
+"Napo"	"El Chaco"	222	2020-11-25
+"Napo"	"Quijos"	169	2020-11-25
+"Napo"	"Tena"	881	2020-11-25
+"Napo"	"Archidona"	217	2020-11-26
+"Napo"	"Carlos Julio Arosemena Tola"	20	2020-11-26
+"Napo"	"El Chaco"	222	2020-11-26
+"Napo"	"Quijos"	169	2020-11-26
+"Napo"	"Tena"	883	2020-11-26
+"Napo"	"Archidona"	217	2020-11-27
+"Napo"	"Carlos Julio Arosemena Tola"	20	2020-11-27
+"Napo"	"El Chaco"	222	2020-11-27
+"Napo"	"Quijos"	170	2020-11-27
+"Napo"	"Tena"	883	2020-11-27
+"Napo"	"Archidona"	217	2020-11-28
+"Napo"	"Carlos Julio Arosemena Tola"	20	2020-11-28
+"Napo"	"El Chaco"	224	2020-11-28
+"Napo"	"Quijos"	170	2020-11-28
+"Napo"	"Tena"	901	2020-11-28
+"Napo"	"Archidona"	217	2020-11-29
+"Napo"	"Carlos Julio Arosemena Tola"	20	2020-11-29
+"Napo"	"El Chaco"	225	2020-11-29
+"Napo"	"Quijos"	170	2020-11-29
+"Napo"	"Tena"	902	2020-11-29
+"Napo"	"Archidona"	218	2020-11-30
+"Napo"	"Carlos Julio Arosemena Tola"	20	2020-11-30
+"Napo"	"El Chaco"	227	2020-11-30
+"Napo"	"Quijos"	170	2020-11-30
+"Napo"	"Tena"	902	2020-11-30
+"Napo"	"Archidona"	218	2020-12-01
+"Napo"	"Carlos Julio Arosemena Tola"	20	2020-12-01
+"Napo"	"El Chaco"	227	2020-12-01
+"Napo"	"Quijos"	170	2020-12-01
+"Napo"	"Tena"	904	2020-12-01
+"Napo"	"Archidona"	218	2020-12-02
+"Napo"	"Carlos Julio Arosemena Tola"	20	2020-12-02
+"Napo"	"El Chaco"	227	2020-12-02
+"Napo"	"Quijos"	171	2020-12-02
+"Napo"	"Tena"	905	2020-12-02
+"Napo"	"Archidona"	218	2020-12-03
+"Napo"	"Carlos Julio Arosemena Tola"	20	2020-12-03
+"Napo"	"El Chaco"	227	2020-12-03
+"Napo"	"Quijos"	171	2020-12-03
+"Napo"	"Tena"	912	2020-12-03
+"Napo"	"Archidona"	218	2020-12-04
+"Napo"	"Carlos Julio Arosemena Tola"	20	2020-12-04
+"Napo"	"El Chaco"	228	2020-12-04
+"Napo"	"Quijos"	171	2020-12-04
+"Napo"	"Tena"	912	2020-12-04
+"Napo"	"Archidona"	219	2020-12-05
+"Napo"	"Carlos Julio Arosemena Tola"	20	2020-12-05
+"Napo"	"El Chaco"	228	2020-12-05
+"Napo"	"Quijos"	171	2020-12-05
+"Napo"	"Tena"	935	2020-12-05
+"Napo"	"Archidona"	219	2020-12-06
+"Napo"	"Carlos Julio Arosemena Tola"	21	2020-12-06
+"Napo"	"El Chaco"	228	2020-12-06
+"Napo"	"Quijos"	171	2020-12-06
+"Napo"	"Tena"	935	2020-12-06
+"Napo"	"Archidona"	219	2020-12-07
+"Napo"	"Carlos Julio Arosemena Tola"	21	2020-12-07
+"Napo"	"El Chaco"	228	2020-12-07
+"Napo"	"Quijos"	171	2020-12-07
+"Napo"	"Tena"	935	2020-12-07
+"Napo"	"Archidona"	219	2020-12-08
+"Napo"	"Carlos Julio Arosemena Tola"	21	2020-12-08
+"Napo"	"El Chaco"	228	2020-12-08
+"Napo"	"Quijos"	171	2020-12-08
+"Napo"	"Tena"	935	2020-12-08
+"Napo"	"Archidona"	219	2020-12-09
+"Napo"	"Carlos Julio Arosemena Tola"	21	2020-12-09
+"Napo"	"El Chaco"	228	2020-12-09
+"Napo"	"Quijos"	171	2020-12-09
+"Napo"	"Tena"	944	2020-12-09
+"Napo"	"Archidona"	219	2020-12-10
+"Napo"	"Carlos Julio Arosemena Tola"	22	2020-12-10
+"Napo"	"El Chaco"	230	2020-12-10
+"Napo"	"Quijos"	172	2020-12-10
+"Napo"	"Tena"	946	2020-12-10
+"Napo"	"Archidona"	220	2020-12-11
+"Napo"	"Carlos Julio Arosemena Tola"	22	2020-12-11
+"Napo"	"El Chaco"	230	2020-12-11
+"Napo"	"Quijos"	172	2020-12-11
+"Napo"	"Tena"	946	2020-12-11
+"Napo"	"Archidona"	221	2020-12-12
+"Napo"	"Carlos Julio Arosemena Tola"	23	2020-12-12
+"Napo"	"El Chaco"	230	2020-12-12
+"Napo"	"Quijos"	172	2020-12-12
+"Napo"	"Tena"	957	2020-12-12
+"Napo"	"Archidona"	221	2020-12-13
+"Napo"	"Carlos Julio Arosemena Tola"	23	2020-12-13
+"Napo"	"El Chaco"	230	2020-12-13
+"Napo"	"Quijos"	172	2020-12-13
+"Napo"	"Tena"	958	2020-12-13
+"Napo"	"Archidona"	221	2020-12-14
+"Napo"	"Carlos Julio Arosemena Tola"	23	2020-12-14
+"Napo"	"El Chaco"	230	2020-12-14
+"Napo"	"Quijos"	172	2020-12-14
+"Napo"	"Tena"	959	2020-12-14
+"Napo"	"Archidona"	221	2020-12-15
+"Napo"	"Carlos Julio Arosemena Tola"	23	2020-12-15
+"Napo"	"El Chaco"	230	2020-12-15
+"Napo"	"Quijos"	172	2020-12-15
+"Napo"	"Tena"	959	2020-12-15
+"Napo"	"Archidona"	221	2020-12-16
+"Napo"	"Carlos Julio Arosemena Tola"	23	2020-12-16
+"Napo"	"El Chaco"	230	2020-12-16
+"Napo"	"Quijos"	174	2020-12-16
+"Napo"	"Tena"	961	2020-12-16
+"Napo"	"Archidona"	221	2020-12-17
+"Napo"	"Carlos Julio Arosemena Tola"	23	2020-12-17
+"Napo"	"El Chaco"	230	2020-12-17
+"Napo"	"Quijos"	174	2020-12-17
+"Napo"	"Tena"	962	2020-12-17
+"Napo"	"Archidona"	221	2020-12-18
+"Napo"	"Carlos Julio Arosemena Tola"	23	2020-12-18
+"Napo"	"El Chaco"	232	2020-12-18
+"Napo"	"Quijos"	174	2020-12-18
+"Napo"	"Tena"	971	2020-12-18
+"Napo"	"Archidona"	221	2020-12-19
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-19
+"Napo"	"El Chaco"	232	2020-12-19
+"Napo"	"Quijos"	174	2020-12-19
+"Napo"	"Tena"	976	2020-12-19
+"Napo"	"Archidona"	221	2020-12-20
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-20
+"Napo"	"El Chaco"	232	2020-12-20
+"Napo"	"Quijos"	174	2020-12-20
+"Napo"	"Tena"	980	2020-12-20
+"Napo"	"Archidona"	221	2020-12-21
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-21
+"Napo"	"El Chaco"	232	2020-12-21
+"Napo"	"Quijos"	174	2020-12-21
+"Napo"	"Tena"	981	2020-12-21
+"Napo"	"Archidona"	221	2020-12-22
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-22
+"Napo"	"El Chaco"	232	2020-12-22
+"Napo"	"Quijos"	174	2020-12-22
+"Napo"	"Tena"	981	2020-12-22
+"Napo"	"Archidona"	221	2020-12-23
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-23
+"Napo"	"El Chaco"	234	2020-12-23
+"Napo"	"Quijos"	174	2020-12-23
+"Napo"	"Tena"	982	2020-12-23
+"Napo"	"Archidona"	221	2020-12-24
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-24
+"Napo"	"El Chaco"	234	2020-12-24
+"Napo"	"Quijos"	174	2020-12-24
+"Napo"	"Tena"	988	2020-12-24
+"Napo"	"Archidona"	222	2020-12-25
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-25
+"Napo"	"El Chaco"	235	2020-12-25
+"Napo"	"Quijos"	174	2020-12-25
+"Napo"	"Tena"	990	2020-12-25
+"Napo"	"Archidona"	223	2020-12-26
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-26
+"Napo"	"El Chaco"	237	2020-12-26
+"Napo"	"Quijos"	174	2020-12-26
+"Napo"	"Tena"	999	2020-12-26
+"Napo"	"Archidona"	223	2020-12-27
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-27
+"Napo"	"El Chaco"	237	2020-12-27
+"Napo"	"Quijos"	174	2020-12-27
+"Napo"	"Tena"	999	2020-12-27
+"Napo"	"Archidona"	223	2020-12-28
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-28
+"Napo"	"El Chaco"	243	2020-12-28
+"Napo"	"Quijos"	174	2020-12-28
+"Napo"	"Tena"	1001	2020-12-28
+"Napo"	"Archidona"	223	2020-12-29
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-29
+"Napo"	"El Chaco"	243	2020-12-29
+"Napo"	"Quijos"	174	2020-12-29
+"Napo"	"Tena"	1002	2020-12-29
+"Napo"	"Archidona"	223	2020-12-30
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-30
+"Napo"	"El Chaco"	243	2020-12-30
+"Napo"	"Quijos"	174	2020-12-30
+"Napo"	"Tena"	1004	2020-12-30
+"Napo"	"Archidona"	223	2020-12-31
+"Napo"	"Carlos Julio Arosemena Tola"	24	2020-12-31
+"Napo"	"El Chaco"	243	2020-12-31
+"Napo"	"Quijos"	174	2020-12-31
+"Napo"	"Tena"	1004	2020-12-31
 "Napo"	"Archidona"	224	2021-01-01
 "Napo"	"Carlos Julio Arosemena Tola"	24	2021-01-01
 "Napo"	"El Chaco"	251	2021-01-01
@@ -2369,3 +3839,43 @@
 "Napo"	"El Chaco"	800	2022-04-19
 "Napo"	"Quijos"	763	2022-04-19
 "Napo"	"Tena"	4231	2022-04-19
+"Napo"	"Archidona"	841	2022-04-20
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-20
+"Napo"	"El Chaco"	800	2022-04-20
+"Napo"	"Quijos"	764	2022-04-20
+"Napo"	"Tena"	4231	2022-04-20
+"Napo"	"Archidona"	841	2022-04-21
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-21
+"Napo"	"El Chaco"	800	2022-04-21
+"Napo"	"Quijos"	764	2022-04-21
+"Napo"	"Tena"	4231	2022-04-21
+"Napo"	"Archidona"	841	2022-04-22
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-22
+"Napo"	"El Chaco"	800	2022-04-22
+"Napo"	"Quijos"	764	2022-04-22
+"Napo"	"Tena"	4232	2022-04-22
+"Napo"	"Archidona"	841	2022-04-23
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-23
+"Napo"	"El Chaco"	800	2022-04-23
+"Napo"	"Quijos"	764	2022-04-23
+"Napo"	"Tena"	4232	2022-04-23
+"Napo"	"Archidona"	841	2022-04-24
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-24
+"Napo"	"El Chaco"	800	2022-04-24
+"Napo"	"Quijos"	764	2022-04-24
+"Napo"	"Tena"	4232	2022-04-24
+"Napo"	"Archidona"	841	2022-04-25
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-25
+"Napo"	"El Chaco"	800	2022-04-25
+"Napo"	"Quijos"	764	2022-04-25
+"Napo"	"Tena"	4232	2022-04-25
+"Napo"	"Archidona"	842	2022-04-26
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-26
+"Napo"	"El Chaco"	800	2022-04-26
+"Napo"	"Quijos"	764	2022-04-26
+"Napo"	"Tena"	4232	2022-04-26
+"Napo"	"Archidona"	842	2022-04-27
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-27
+"Napo"	"El Chaco"	800	2022-04-27
+"Napo"	"Quijos"	764	2022-04-27
+"Napo"	"Tena"	4232	2022-04-27

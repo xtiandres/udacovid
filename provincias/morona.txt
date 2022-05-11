@@ -1,4 +1,3532 @@
 "provincia"	"canton"	"total"	"created_at"
+"Morona Santiago"	"Gualaquiza"	0	2020-03-13
+"Morona Santiago"	"Huamboya"	0	2020-03-13
+"Morona Santiago"	"Limón Indanza"	0	2020-03-13
+"Morona Santiago"	"Logroño"	0	2020-03-13
+"Morona Santiago"	"Morona"	0	2020-03-13
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-13
+"Morona Santiago"	"Palora"	0	2020-03-13
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-13
+"Morona Santiago"	"Santiago"	0	2020-03-13
+"Morona Santiago"	"Sucúa"	0	2020-03-13
+"Morona Santiago"	"Taisha"	0	2020-03-13
+"Morona Santiago"	"Tiwintza"	0	2020-03-13
+"Morona Santiago"	"Gualaquiza"	0	2020-03-14
+"Morona Santiago"	"Huamboya"	0	2020-03-14
+"Morona Santiago"	"Limón Indanza"	0	2020-03-14
+"Morona Santiago"	"Logroño"	0	2020-03-14
+"Morona Santiago"	"Morona"	0	2020-03-14
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-14
+"Morona Santiago"	"Palora"	0	2020-03-14
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-14
+"Morona Santiago"	"Santiago"	0	2020-03-14
+"Morona Santiago"	"Sucúa"	0	2020-03-14
+"Morona Santiago"	"Taisha"	0	2020-03-14
+"Morona Santiago"	"Tiwintza"	0	2020-03-14
+"Morona Santiago"	"Gualaquiza"	0	2020-03-15
+"Morona Santiago"	"Huamboya"	0	2020-03-15
+"Morona Santiago"	"Limón Indanza"	0	2020-03-15
+"Morona Santiago"	"Logroño"	0	2020-03-15
+"Morona Santiago"	"Morona"	0	2020-03-15
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-15
+"Morona Santiago"	"Palora"	0	2020-03-15
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-15
+"Morona Santiago"	"Santiago"	0	2020-03-15
+"Morona Santiago"	"Sucúa"	0	2020-03-15
+"Morona Santiago"	"Taisha"	0	2020-03-15
+"Morona Santiago"	"Tiwintza"	0	2020-03-15
+"Morona Santiago"	"Gualaquiza"	0	2020-03-16
+"Morona Santiago"	"Huamboya"	0	2020-03-16
+"Morona Santiago"	"Limón Indanza"	0	2020-03-16
+"Morona Santiago"	"Logroño"	0	2020-03-16
+"Morona Santiago"	"Morona"	0	2020-03-16
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-16
+"Morona Santiago"	"Palora"	0	2020-03-16
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-16
+"Morona Santiago"	"Santiago"	0	2020-03-16
+"Morona Santiago"	"Sucúa"	0	2020-03-16
+"Morona Santiago"	"Taisha"	0	2020-03-16
+"Morona Santiago"	"Tiwintza"	0	2020-03-16
+"Morona Santiago"	"Gualaquiza"	1	2020-03-17
+"Morona Santiago"	"Huamboya"	0	2020-03-17
+"Morona Santiago"	"Limón Indanza"	0	2020-03-17
+"Morona Santiago"	"Logroño"	0	2020-03-17
+"Morona Santiago"	"Morona"	0	2020-03-17
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-17
+"Morona Santiago"	"Palora"	0	2020-03-17
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-17
+"Morona Santiago"	"Santiago"	0	2020-03-17
+"Morona Santiago"	"Sucúa"	0	2020-03-17
+"Morona Santiago"	"Taisha"	0	2020-03-17
+"Morona Santiago"	"Tiwintza"	0	2020-03-17
+"Morona Santiago"	"Gualaquiza"	1	2020-03-18
+"Morona Santiago"	"Huamboya"	0	2020-03-18
+"Morona Santiago"	"Limón Indanza"	0	2020-03-18
+"Morona Santiago"	"Logroño"	0	2020-03-18
+"Morona Santiago"	"Morona"	0	2020-03-18
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-18
+"Morona Santiago"	"Palora"	0	2020-03-18
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-18
+"Morona Santiago"	"Santiago"	0	2020-03-18
+"Morona Santiago"	"Sucúa"	0	2020-03-18
+"Morona Santiago"	"Taisha"	0	2020-03-18
+"Morona Santiago"	"Tiwintza"	0	2020-03-18
+"Morona Santiago"	"Gualaquiza"	1	2020-03-19
+"Morona Santiago"	"Huamboya"	0	2020-03-19
+"Morona Santiago"	"Limón Indanza"	0	2020-03-19
+"Morona Santiago"	"Logroño"	0	2020-03-19
+"Morona Santiago"	"Morona"	1	2020-03-19
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-19
+"Morona Santiago"	"Palora"	0	2020-03-19
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-19
+"Morona Santiago"	"Santiago"	0	2020-03-19
+"Morona Santiago"	"Sucúa"	1	2020-03-19
+"Morona Santiago"	"Taisha"	0	2020-03-19
+"Morona Santiago"	"Tiwintza"	0	2020-03-19
+"Morona Santiago"	"Gualaquiza"	1	2020-03-20
+"Morona Santiago"	"Huamboya"	0	2020-03-20
+"Morona Santiago"	"Limón Indanza"	0	2020-03-20
+"Morona Santiago"	"Logroño"	0	2020-03-20
+"Morona Santiago"	"Morona"	1	2020-03-20
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-20
+"Morona Santiago"	"Palora"	0	2020-03-20
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-20
+"Morona Santiago"	"Santiago"	0	2020-03-20
+"Morona Santiago"	"Sucúa"	1	2020-03-20
+"Morona Santiago"	"Taisha"	0	2020-03-20
+"Morona Santiago"	"Tiwintza"	0	2020-03-20
+"Morona Santiago"	"Gualaquiza"	1	2020-03-21
+"Morona Santiago"	"Huamboya"	0	2020-03-21
+"Morona Santiago"	"Limón Indanza"	0	2020-03-21
+"Morona Santiago"	"Logroño"	0	2020-03-21
+"Morona Santiago"	"Morona"	1	2020-03-21
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-21
+"Morona Santiago"	"Palora"	0	2020-03-21
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-21
+"Morona Santiago"	"Santiago"	0	2020-03-21
+"Morona Santiago"	"Sucúa"	1	2020-03-21
+"Morona Santiago"	"Taisha"	0	2020-03-21
+"Morona Santiago"	"Tiwintza"	0	2020-03-21
+"Morona Santiago"	"Gualaquiza"	1	2020-03-22
+"Morona Santiago"	"Huamboya"	0	2020-03-22
+"Morona Santiago"	"Limón Indanza"	0	2020-03-22
+"Morona Santiago"	"Logroño"	0	2020-03-22
+"Morona Santiago"	"Morona"	1	2020-03-22
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-22
+"Morona Santiago"	"Palora"	0	2020-03-22
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-22
+"Morona Santiago"	"Santiago"	0	2020-03-22
+"Morona Santiago"	"Sucúa"	1	2020-03-22
+"Morona Santiago"	"Taisha"	0	2020-03-22
+"Morona Santiago"	"Tiwintza"	0	2020-03-22
+"Morona Santiago"	"Gualaquiza"	1	2020-03-23
+"Morona Santiago"	"Huamboya"	0	2020-03-23
+"Morona Santiago"	"Limón Indanza"	0	2020-03-23
+"Morona Santiago"	"Logroño"	0	2020-03-23
+"Morona Santiago"	"Morona"	1	2020-03-23
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-23
+"Morona Santiago"	"Palora"	2	2020-03-23
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-23
+"Morona Santiago"	"Santiago"	0	2020-03-23
+"Morona Santiago"	"Sucúa"	2	2020-03-23
+"Morona Santiago"	"Taisha"	0	2020-03-23
+"Morona Santiago"	"Tiwintza"	0	2020-03-23
+"Morona Santiago"	"Gualaquiza"	1	2020-03-24
+"Morona Santiago"	"Huamboya"	0	2020-03-24
+"Morona Santiago"	"Limón Indanza"	0	2020-03-24
+"Morona Santiago"	"Logroño"	0	2020-03-24
+"Morona Santiago"	"Morona"	1	2020-03-24
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-24
+"Morona Santiago"	"Palora"	2	2020-03-24
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-24
+"Morona Santiago"	"Santiago"	0	2020-03-24
+"Morona Santiago"	"Sucúa"	2	2020-03-24
+"Morona Santiago"	"Taisha"	0	2020-03-24
+"Morona Santiago"	"Tiwintza"	0	2020-03-24
+"Morona Santiago"	"Gualaquiza"	1	2020-03-25
+"Morona Santiago"	"Huamboya"	0	2020-03-25
+"Morona Santiago"	"Limón Indanza"	0	2020-03-25
+"Morona Santiago"	"Logroño"	0	2020-03-25
+"Morona Santiago"	"Morona"	1	2020-03-25
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-25
+"Morona Santiago"	"Palora"	2	2020-03-25
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-25
+"Morona Santiago"	"Santiago"	0	2020-03-25
+"Morona Santiago"	"Sucúa"	2	2020-03-25
+"Morona Santiago"	"Taisha"	1	2020-03-25
+"Morona Santiago"	"Tiwintza"	0	2020-03-25
+"Morona Santiago"	"Gualaquiza"	1	2020-03-26
+"Morona Santiago"	"Huamboya"	0	2020-03-26
+"Morona Santiago"	"Limón Indanza"	0	2020-03-26
+"Morona Santiago"	"Logroño"	0	2020-03-26
+"Morona Santiago"	"Morona"	1	2020-03-26
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-26
+"Morona Santiago"	"Palora"	3	2020-03-26
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-26
+"Morona Santiago"	"Santiago"	0	2020-03-26
+"Morona Santiago"	"Sucúa"	2	2020-03-26
+"Morona Santiago"	"Taisha"	1	2020-03-26
+"Morona Santiago"	"Tiwintza"	0	2020-03-26
+"Morona Santiago"	"Gualaquiza"	1	2020-03-27
+"Morona Santiago"	"Huamboya"	0	2020-03-27
+"Morona Santiago"	"Limón Indanza"	0	2020-03-27
+"Morona Santiago"	"Logroño"	0	2020-03-27
+"Morona Santiago"	"Morona"	1	2020-03-27
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-27
+"Morona Santiago"	"Palora"	3	2020-03-27
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-27
+"Morona Santiago"	"Santiago"	0	2020-03-27
+"Morona Santiago"	"Sucúa"	2	2020-03-27
+"Morona Santiago"	"Taisha"	1	2020-03-27
+"Morona Santiago"	"Tiwintza"	0	2020-03-27
+"Morona Santiago"	"Gualaquiza"	1	2020-03-28
+"Morona Santiago"	"Huamboya"	0	2020-03-28
+"Morona Santiago"	"Limón Indanza"	0	2020-03-28
+"Morona Santiago"	"Logroño"	0	2020-03-28
+"Morona Santiago"	"Morona"	1	2020-03-28
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-28
+"Morona Santiago"	"Palora"	3	2020-03-28
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-28
+"Morona Santiago"	"Santiago"	0	2020-03-28
+"Morona Santiago"	"Sucúa"	2	2020-03-28
+"Morona Santiago"	"Taisha"	1	2020-03-28
+"Morona Santiago"	"Tiwintza"	0	2020-03-28
+"Morona Santiago"	"Gualaquiza"	1	2020-03-29
+"Morona Santiago"	"Huamboya"	0	2020-03-29
+"Morona Santiago"	"Limón Indanza"	0	2020-03-29
+"Morona Santiago"	"Logroño"	0	2020-03-29
+"Morona Santiago"	"Morona"	1	2020-03-29
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-29
+"Morona Santiago"	"Palora"	4	2020-03-29
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-29
+"Morona Santiago"	"Santiago"	0	2020-03-29
+"Morona Santiago"	"Sucúa"	2	2020-03-29
+"Morona Santiago"	"Taisha"	1	2020-03-29
+"Morona Santiago"	"Tiwintza"	0	2020-03-29
+"Morona Santiago"	"Gualaquiza"	1	2020-03-30
+"Morona Santiago"	"Huamboya"	0	2020-03-30
+"Morona Santiago"	"Limón Indanza"	0	2020-03-30
+"Morona Santiago"	"Logroño"	0	2020-03-30
+"Morona Santiago"	"Morona"	2	2020-03-30
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-30
+"Morona Santiago"	"Palora"	4	2020-03-30
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-30
+"Morona Santiago"	"Santiago"	0	2020-03-30
+"Morona Santiago"	"Sucúa"	2	2020-03-30
+"Morona Santiago"	"Taisha"	1	2020-03-30
+"Morona Santiago"	"Tiwintza"	0	2020-03-30
+"Morona Santiago"	"Gualaquiza"	1	2020-03-31
+"Morona Santiago"	"Huamboya"	0	2020-03-31
+"Morona Santiago"	"Limón Indanza"	0	2020-03-31
+"Morona Santiago"	"Logroño"	0	2020-03-31
+"Morona Santiago"	"Morona"	2	2020-03-31
+"Morona Santiago"	"Pablo Sexto"	0	2020-03-31
+"Morona Santiago"	"Palora"	4	2020-03-31
+"Morona Santiago"	"San Juan Bosco"	0	2020-03-31
+"Morona Santiago"	"Santiago"	0	2020-03-31
+"Morona Santiago"	"Sucúa"	2	2020-03-31
+"Morona Santiago"	"Taisha"	1	2020-03-31
+"Morona Santiago"	"Tiwintza"	0	2020-03-31
+"Morona Santiago"	"Gualaquiza"	1	2020-04-01
+"Morona Santiago"	"Huamboya"	0	2020-04-01
+"Morona Santiago"	"Limón Indanza"	0	2020-04-01
+"Morona Santiago"	"Logroño"	0	2020-04-01
+"Morona Santiago"	"Morona"	2	2020-04-01
+"Morona Santiago"	"Pablo Sexto"	0	2020-04-01
+"Morona Santiago"	"Palora"	4	2020-04-01
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-01
+"Morona Santiago"	"Santiago"	0	2020-04-01
+"Morona Santiago"	"Sucúa"	2	2020-04-01
+"Morona Santiago"	"Taisha"	1	2020-04-01
+"Morona Santiago"	"Tiwintza"	0	2020-04-01
+"Morona Santiago"	"Gualaquiza"	1	2020-04-02
+"Morona Santiago"	"Huamboya"	0	2020-04-02
+"Morona Santiago"	"Limón Indanza"	0	2020-04-02
+"Morona Santiago"	"Logroño"	0	2020-04-02
+"Morona Santiago"	"Morona"	2	2020-04-02
+"Morona Santiago"	"Pablo Sexto"	0	2020-04-02
+"Morona Santiago"	"Palora"	4	2020-04-02
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-02
+"Morona Santiago"	"Santiago"	0	2020-04-02
+"Morona Santiago"	"Sucúa"	2	2020-04-02
+"Morona Santiago"	"Taisha"	1	2020-04-02
+"Morona Santiago"	"Tiwintza"	0	2020-04-02
+"Morona Santiago"	"Gualaquiza"	1	2020-04-03
+"Morona Santiago"	"Huamboya"	0	2020-04-03
+"Morona Santiago"	"Limón Indanza"	0	2020-04-03
+"Morona Santiago"	"Logroño"	0	2020-04-03
+"Morona Santiago"	"Morona"	2	2020-04-03
+"Morona Santiago"	"Pablo Sexto"	0	2020-04-03
+"Morona Santiago"	"Palora"	4	2020-04-03
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-03
+"Morona Santiago"	"Santiago"	0	2020-04-03
+"Morona Santiago"	"Sucúa"	2	2020-04-03
+"Morona Santiago"	"Taisha"	1	2020-04-03
+"Morona Santiago"	"Tiwintza"	0	2020-04-03
+"Morona Santiago"	"Gualaquiza"	1	2020-04-04
+"Morona Santiago"	"Huamboya"	0	2020-04-04
+"Morona Santiago"	"Limón Indanza"	0	2020-04-04
+"Morona Santiago"	"Logroño"	0	2020-04-04
+"Morona Santiago"	"Morona"	2	2020-04-04
+"Morona Santiago"	"Pablo Sexto"	0	2020-04-04
+"Morona Santiago"	"Palora"	4	2020-04-04
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-04
+"Morona Santiago"	"Santiago"	0	2020-04-04
+"Morona Santiago"	"Sucúa"	2	2020-04-04
+"Morona Santiago"	"Taisha"	1	2020-04-04
+"Morona Santiago"	"Tiwintza"	0	2020-04-04
+"Morona Santiago"	"Gualaquiza"	1	2020-04-05
+"Morona Santiago"	"Huamboya"	0	2020-04-05
+"Morona Santiago"	"Limón Indanza"	0	2020-04-05
+"Morona Santiago"	"Logroño"	0	2020-04-05
+"Morona Santiago"	"Morona"	2	2020-04-05
+"Morona Santiago"	"Pablo Sexto"	0	2020-04-05
+"Morona Santiago"	"Palora"	4	2020-04-05
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-05
+"Morona Santiago"	"Santiago"	0	2020-04-05
+"Morona Santiago"	"Sucúa"	2	2020-04-05
+"Morona Santiago"	"Taisha"	1	2020-04-05
+"Morona Santiago"	"Tiwintza"	0	2020-04-05
+"Morona Santiago"	"Gualaquiza"	1	2020-04-06
+"Morona Santiago"	"Huamboya"	0	2020-04-06
+"Morona Santiago"	"Limón Indanza"	0	2020-04-06
+"Morona Santiago"	"Logroño"	0	2020-04-06
+"Morona Santiago"	"Morona"	2	2020-04-06
+"Morona Santiago"	"Pablo Sexto"	0	2020-04-06
+"Morona Santiago"	"Palora"	4	2020-04-06
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-06
+"Morona Santiago"	"Santiago"	0	2020-04-06
+"Morona Santiago"	"Sucúa"	2	2020-04-06
+"Morona Santiago"	"Taisha"	1	2020-04-06
+"Morona Santiago"	"Tiwintza"	1	2020-04-06
+"Morona Santiago"	"Gualaquiza"	1	2020-04-07
+"Morona Santiago"	"Huamboya"	0	2020-04-07
+"Morona Santiago"	"Limón Indanza"	0	2020-04-07
+"Morona Santiago"	"Logroño"	0	2020-04-07
+"Morona Santiago"	"Morona"	3	2020-04-07
+"Morona Santiago"	"Pablo Sexto"	0	2020-04-07
+"Morona Santiago"	"Palora"	4	2020-04-07
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-07
+"Morona Santiago"	"Santiago"	0	2020-04-07
+"Morona Santiago"	"Sucúa"	2	2020-04-07
+"Morona Santiago"	"Taisha"	1	2020-04-07
+"Morona Santiago"	"Tiwintza"	1	2020-04-07
+"Morona Santiago"	"Gualaquiza"	1	2020-04-08
+"Morona Santiago"	"Huamboya"	0	2020-04-08
+"Morona Santiago"	"Limón Indanza"	0	2020-04-08
+"Morona Santiago"	"Logroño"	0	2020-04-08
+"Morona Santiago"	"Morona"	3	2020-04-08
+"Morona Santiago"	"Pablo Sexto"	0	2020-04-08
+"Morona Santiago"	"Palora"	9	2020-04-08
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-08
+"Morona Santiago"	"Santiago"	0	2020-04-08
+"Morona Santiago"	"Sucúa"	2	2020-04-08
+"Morona Santiago"	"Taisha"	1	2020-04-08
+"Morona Santiago"	"Tiwintza"	1	2020-04-08
+"Morona Santiago"	"Gualaquiza"	1	2020-04-09
+"Morona Santiago"	"Huamboya"	0	2020-04-09
+"Morona Santiago"	"Limón Indanza"	0	2020-04-09
+"Morona Santiago"	"Logroño"	0	2020-04-09
+"Morona Santiago"	"Morona"	3	2020-04-09
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-09
+"Morona Santiago"	"Palora"	9	2020-04-09
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-09
+"Morona Santiago"	"Santiago"	0	2020-04-09
+"Morona Santiago"	"Sucúa"	2	2020-04-09
+"Morona Santiago"	"Taisha"	1	2020-04-09
+"Morona Santiago"	"Tiwintza"	1	2020-04-09
+"Morona Santiago"	"Gualaquiza"	1	2020-04-10
+"Morona Santiago"	"Huamboya"	0	2020-04-10
+"Morona Santiago"	"Limón Indanza"	0	2020-04-10
+"Morona Santiago"	"Logroño"	0	2020-04-10
+"Morona Santiago"	"Morona"	3	2020-04-10
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-10
+"Morona Santiago"	"Palora"	10	2020-04-10
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-10
+"Morona Santiago"	"Santiago"	0	2020-04-10
+"Morona Santiago"	"Sucúa"	2	2020-04-10
+"Morona Santiago"	"Taisha"	1	2020-04-10
+"Morona Santiago"	"Tiwintza"	1	2020-04-10
+"Morona Santiago"	"Gualaquiza"	1	2020-04-11
+"Morona Santiago"	"Huamboya"	0	2020-04-11
+"Morona Santiago"	"Limón Indanza"	0	2020-04-11
+"Morona Santiago"	"Logroño"	0	2020-04-11
+"Morona Santiago"	"Morona"	3	2020-04-11
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-11
+"Morona Santiago"	"Palora"	10	2020-04-11
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-11
+"Morona Santiago"	"Santiago"	0	2020-04-11
+"Morona Santiago"	"Sucúa"	2	2020-04-11
+"Morona Santiago"	"Taisha"	1	2020-04-11
+"Morona Santiago"	"Tiwintza"	1	2020-04-11
+"Morona Santiago"	"Gualaquiza"	1	2020-04-12
+"Morona Santiago"	"Huamboya"	0	2020-04-12
+"Morona Santiago"	"Limón Indanza"	0	2020-04-12
+"Morona Santiago"	"Logroño"	0	2020-04-12
+"Morona Santiago"	"Morona"	3	2020-04-12
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-12
+"Morona Santiago"	"Palora"	10	2020-04-12
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-12
+"Morona Santiago"	"Santiago"	0	2020-04-12
+"Morona Santiago"	"Sucúa"	2	2020-04-12
+"Morona Santiago"	"Taisha"	1	2020-04-12
+"Morona Santiago"	"Tiwintza"	1	2020-04-12
+"Morona Santiago"	"Gualaquiza"	1	2020-04-13
+"Morona Santiago"	"Huamboya"	0	2020-04-13
+"Morona Santiago"	"Limón Indanza"	0	2020-04-13
+"Morona Santiago"	"Logroño"	0	2020-04-13
+"Morona Santiago"	"Morona"	4	2020-04-13
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-13
+"Morona Santiago"	"Palora"	10	2020-04-13
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-13
+"Morona Santiago"	"Santiago"	0	2020-04-13
+"Morona Santiago"	"Sucúa"	2	2020-04-13
+"Morona Santiago"	"Taisha"	1	2020-04-13
+"Morona Santiago"	"Tiwintza"	1	2020-04-13
+"Morona Santiago"	"Gualaquiza"	1	2020-04-14
+"Morona Santiago"	"Huamboya"	0	2020-04-14
+"Morona Santiago"	"Limón Indanza"	0	2020-04-14
+"Morona Santiago"	"Logroño"	0	2020-04-14
+"Morona Santiago"	"Morona"	4	2020-04-14
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-14
+"Morona Santiago"	"Palora"	10	2020-04-14
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-14
+"Morona Santiago"	"Santiago"	0	2020-04-14
+"Morona Santiago"	"Sucúa"	3	2020-04-14
+"Morona Santiago"	"Taisha"	1	2020-04-14
+"Morona Santiago"	"Tiwintza"	1	2020-04-14
+"Morona Santiago"	"Gualaquiza"	1	2020-04-15
+"Morona Santiago"	"Huamboya"	0	2020-04-15
+"Morona Santiago"	"Limón Indanza"	0	2020-04-15
+"Morona Santiago"	"Logroño"	0	2020-04-15
+"Morona Santiago"	"Morona"	4	2020-04-15
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-15
+"Morona Santiago"	"Palora"	10	2020-04-15
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-15
+"Morona Santiago"	"Santiago"	0	2020-04-15
+"Morona Santiago"	"Sucúa"	3	2020-04-15
+"Morona Santiago"	"Taisha"	1	2020-04-15
+"Morona Santiago"	"Tiwintza"	1	2020-04-15
+"Morona Santiago"	"Gualaquiza"	1	2020-04-16
+"Morona Santiago"	"Huamboya"	0	2020-04-16
+"Morona Santiago"	"Limón Indanza"	0	2020-04-16
+"Morona Santiago"	"Logroño"	0	2020-04-16
+"Morona Santiago"	"Morona"	4	2020-04-16
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-16
+"Morona Santiago"	"Palora"	10	2020-04-16
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-16
+"Morona Santiago"	"Santiago"	0	2020-04-16
+"Morona Santiago"	"Sucúa"	3	2020-04-16
+"Morona Santiago"	"Taisha"	1	2020-04-16
+"Morona Santiago"	"Tiwintza"	1	2020-04-16
+"Morona Santiago"	"Gualaquiza"	1	2020-04-17
+"Morona Santiago"	"Huamboya"	0	2020-04-17
+"Morona Santiago"	"Limón Indanza"	0	2020-04-17
+"Morona Santiago"	"Logroño"	0	2020-04-17
+"Morona Santiago"	"Morona"	4	2020-04-17
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-17
+"Morona Santiago"	"Palora"	10	2020-04-17
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-17
+"Morona Santiago"	"Santiago"	0	2020-04-17
+"Morona Santiago"	"Sucúa"	5	2020-04-17
+"Morona Santiago"	"Taisha"	1	2020-04-17
+"Morona Santiago"	"Tiwintza"	1	2020-04-17
+"Morona Santiago"	"Gualaquiza"	3	2020-04-18
+"Morona Santiago"	"Huamboya"	0	2020-04-18
+"Morona Santiago"	"Limón Indanza"	0	2020-04-18
+"Morona Santiago"	"Logroño"	0	2020-04-18
+"Morona Santiago"	"Morona"	4	2020-04-18
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-18
+"Morona Santiago"	"Palora"	10	2020-04-18
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-18
+"Morona Santiago"	"Santiago"	0	2020-04-18
+"Morona Santiago"	"Sucúa"	6	2020-04-18
+"Morona Santiago"	"Taisha"	1	2020-04-18
+"Morona Santiago"	"Tiwintza"	1	2020-04-18
+"Morona Santiago"	"Gualaquiza"	3	2020-04-19
+"Morona Santiago"	"Huamboya"	0	2020-04-19
+"Morona Santiago"	"Limón Indanza"	0	2020-04-19
+"Morona Santiago"	"Logroño"	0	2020-04-19
+"Morona Santiago"	"Morona"	6	2020-04-19
+"Morona Santiago"	"Pablo Sexto"	1	2020-04-19
+"Morona Santiago"	"Palora"	10	2020-04-19
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-19
+"Morona Santiago"	"Santiago"	0	2020-04-19
+"Morona Santiago"	"Sucúa"	6	2020-04-19
+"Morona Santiago"	"Taisha"	1	2020-04-19
+"Morona Santiago"	"Tiwintza"	1	2020-04-19
+"Morona Santiago"	"Gualaquiza"	3	2020-04-20
+"Morona Santiago"	"Huamboya"	0	2020-04-20
+"Morona Santiago"	"Limón Indanza"	0	2020-04-20
+"Morona Santiago"	"Logroño"	0	2020-04-20
+"Morona Santiago"	"Morona"	7	2020-04-20
+"Morona Santiago"	"Pablo Sexto"	2	2020-04-20
+"Morona Santiago"	"Palora"	10	2020-04-20
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-20
+"Morona Santiago"	"Santiago"	0	2020-04-20
+"Morona Santiago"	"Sucúa"	6	2020-04-20
+"Morona Santiago"	"Taisha"	1	2020-04-20
+"Morona Santiago"	"Tiwintza"	1	2020-04-20
+"Morona Santiago"	"Gualaquiza"	3	2020-04-21
+"Morona Santiago"	"Huamboya"	0	2020-04-21
+"Morona Santiago"	"Limón Indanza"	0	2020-04-21
+"Morona Santiago"	"Logroño"	0	2020-04-21
+"Morona Santiago"	"Morona"	7	2020-04-21
+"Morona Santiago"	"Pablo Sexto"	2	2020-04-21
+"Morona Santiago"	"Palora"	10	2020-04-21
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-21
+"Morona Santiago"	"Santiago"	0	2020-04-21
+"Morona Santiago"	"Sucúa"	6	2020-04-21
+"Morona Santiago"	"Taisha"	1	2020-04-21
+"Morona Santiago"	"Tiwintza"	1	2020-04-21
+"Morona Santiago"	"Gualaquiza"	3	2020-04-22
+"Morona Santiago"	"Huamboya"	1	2020-04-22
+"Morona Santiago"	"Limón Indanza"	0	2020-04-22
+"Morona Santiago"	"Logroño"	0	2020-04-22
+"Morona Santiago"	"Morona"	7	2020-04-22
+"Morona Santiago"	"Pablo Sexto"	2	2020-04-22
+"Morona Santiago"	"Palora"	10	2020-04-22
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-22
+"Morona Santiago"	"Santiago"	0	2020-04-22
+"Morona Santiago"	"Sucúa"	6	2020-04-22
+"Morona Santiago"	"Taisha"	1	2020-04-22
+"Morona Santiago"	"Tiwintza"	1	2020-04-22
+"Morona Santiago"	"Gualaquiza"	3	2020-04-23
+"Morona Santiago"	"Huamboya"	1	2020-04-23
+"Morona Santiago"	"Limón Indanza"	0	2020-04-23
+"Morona Santiago"	"Logroño"	0	2020-04-23
+"Morona Santiago"	"Morona"	7	2020-04-23
+"Morona Santiago"	"Pablo Sexto"	2	2020-04-23
+"Morona Santiago"	"Palora"	10	2020-04-23
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-23
+"Morona Santiago"	"Santiago"	0	2020-04-23
+"Morona Santiago"	"Sucúa"	6	2020-04-23
+"Morona Santiago"	"Taisha"	1	2020-04-23
+"Morona Santiago"	"Tiwintza"	1	2020-04-23
+"Morona Santiago"	"Gualaquiza"	3	2020-04-24
+"Morona Santiago"	"Huamboya"	1	2020-04-24
+"Morona Santiago"	"Limón Indanza"	0	2020-04-24
+"Morona Santiago"	"Logroño"	0	2020-04-24
+"Morona Santiago"	"Morona"	7	2020-04-24
+"Morona Santiago"	"Pablo Sexto"	2	2020-04-24
+"Morona Santiago"	"Palora"	10	2020-04-24
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-24
+"Morona Santiago"	"Santiago"	0	2020-04-24
+"Morona Santiago"	"Sucúa"	6	2020-04-24
+"Morona Santiago"	"Taisha"	1	2020-04-24
+"Morona Santiago"	"Tiwintza"	1	2020-04-24
+"Morona Santiago"	"Gualaquiza"	3	2020-04-25
+"Morona Santiago"	"Huamboya"	1	2020-04-25
+"Morona Santiago"	"Limón Indanza"	0	2020-04-25
+"Morona Santiago"	"Logroño"	0	2020-04-25
+"Morona Santiago"	"Morona"	7	2020-04-25
+"Morona Santiago"	"Pablo Sexto"	2	2020-04-25
+"Morona Santiago"	"Palora"	10	2020-04-25
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-25
+"Morona Santiago"	"Santiago"	0	2020-04-25
+"Morona Santiago"	"Sucúa"	6	2020-04-25
+"Morona Santiago"	"Taisha"	1	2020-04-25
+"Morona Santiago"	"Tiwintza"	1	2020-04-25
+"Morona Santiago"	"Gualaquiza"	3	2020-04-26
+"Morona Santiago"	"Huamboya"	1	2020-04-26
+"Morona Santiago"	"Limón Indanza"	0	2020-04-26
+"Morona Santiago"	"Logroño"	0	2020-04-26
+"Morona Santiago"	"Morona"	7	2020-04-26
+"Morona Santiago"	"Pablo Sexto"	2	2020-04-26
+"Morona Santiago"	"Palora"	10	2020-04-26
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-26
+"Morona Santiago"	"Santiago"	0	2020-04-26
+"Morona Santiago"	"Sucúa"	6	2020-04-26
+"Morona Santiago"	"Taisha"	1	2020-04-26
+"Morona Santiago"	"Tiwintza"	1	2020-04-26
+"Morona Santiago"	"Gualaquiza"	3	2020-04-27
+"Morona Santiago"	"Huamboya"	1	2020-04-27
+"Morona Santiago"	"Limón Indanza"	0	2020-04-27
+"Morona Santiago"	"Logroño"	0	2020-04-27
+"Morona Santiago"	"Morona"	7	2020-04-27
+"Morona Santiago"	"Pablo Sexto"	2	2020-04-27
+"Morona Santiago"	"Palora"	10	2020-04-27
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-27
+"Morona Santiago"	"Santiago"	0	2020-04-27
+"Morona Santiago"	"Sucúa"	6	2020-04-27
+"Morona Santiago"	"Taisha"	1	2020-04-27
+"Morona Santiago"	"Tiwintza"	1	2020-04-27
+"Morona Santiago"	"Gualaquiza"	7	2020-04-28
+"Morona Santiago"	"Huamboya"	1	2020-04-28
+"Morona Santiago"	"Limón Indanza"	0	2020-04-28
+"Morona Santiago"	"Logroño"	0	2020-04-28
+"Morona Santiago"	"Morona"	14	2020-04-28
+"Morona Santiago"	"Pablo Sexto"	3	2020-04-28
+"Morona Santiago"	"Palora"	19	2020-04-28
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-28
+"Morona Santiago"	"Santiago"	0	2020-04-28
+"Morona Santiago"	"Sucúa"	11	2020-04-28
+"Morona Santiago"	"Taisha"	3	2020-04-28
+"Morona Santiago"	"Tiwintza"	3	2020-04-28
+"Morona Santiago"	"Gualaquiza"	7	2020-04-29
+"Morona Santiago"	"Huamboya"	1	2020-04-29
+"Morona Santiago"	"Limón Indanza"	0	2020-04-29
+"Morona Santiago"	"Logroño"	0	2020-04-29
+"Morona Santiago"	"Morona"	14	2020-04-29
+"Morona Santiago"	"Pablo Sexto"	3	2020-04-29
+"Morona Santiago"	"Palora"	19	2020-04-29
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-29
+"Morona Santiago"	"Santiago"	0	2020-04-29
+"Morona Santiago"	"Sucúa"	11	2020-04-29
+"Morona Santiago"	"Taisha"	3	2020-04-29
+"Morona Santiago"	"Tiwintza"	3	2020-04-29
+"Morona Santiago"	"Gualaquiza"	7	2020-04-30
+"Morona Santiago"	"Huamboya"	1	2020-04-30
+"Morona Santiago"	"Limón Indanza"	0	2020-04-30
+"Morona Santiago"	"Logroño"	0	2020-04-30
+"Morona Santiago"	"Morona"	13	2020-04-30
+"Morona Santiago"	"Pablo Sexto"	2	2020-04-30
+"Morona Santiago"	"Palora"	22	2020-04-30
+"Morona Santiago"	"San Juan Bosco"	0	2020-04-30
+"Morona Santiago"	"Santiago"	0	2020-04-30
+"Morona Santiago"	"Sucúa"	10	2020-04-30
+"Morona Santiago"	"Taisha"	3	2020-04-30
+"Morona Santiago"	"Tiwintza"	3	2020-04-30
+"Morona Santiago"	"Gualaquiza"	8	2020-05-01
+"Morona Santiago"	"Huamboya"	1	2020-05-01
+"Morona Santiago"	"Limón Indanza"	0	2020-05-01
+"Morona Santiago"	"Logroño"	0	2020-05-01
+"Morona Santiago"	"Morona"	13	2020-05-01
+"Morona Santiago"	"Pablo Sexto"	2	2020-05-01
+"Morona Santiago"	"Palora"	24	2020-05-01
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-01
+"Morona Santiago"	"Santiago"	0	2020-05-01
+"Morona Santiago"	"Sucúa"	18	2020-05-01
+"Morona Santiago"	"Taisha"	3	2020-05-01
+"Morona Santiago"	"Tiwintza"	3	2020-05-01
+"Morona Santiago"	"Gualaquiza"	8	2020-05-02
+"Morona Santiago"	"Huamboya"	1	2020-05-02
+"Morona Santiago"	"Limón Indanza"	0	2020-05-02
+"Morona Santiago"	"Logroño"	0	2020-05-02
+"Morona Santiago"	"Morona"	13	2020-05-02
+"Morona Santiago"	"Pablo Sexto"	2	2020-05-02
+"Morona Santiago"	"Palora"	24	2020-05-02
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-02
+"Morona Santiago"	"Santiago"	0	2020-05-02
+"Morona Santiago"	"Sucúa"	18	2020-05-02
+"Morona Santiago"	"Taisha"	3	2020-05-02
+"Morona Santiago"	"Tiwintza"	3	2020-05-02
+"Morona Santiago"	"Gualaquiza"	11	2020-05-03
+"Morona Santiago"	"Huamboya"	1	2020-05-03
+"Morona Santiago"	"Limón Indanza"	0	2020-05-03
+"Morona Santiago"	"Logroño"	0	2020-05-03
+"Morona Santiago"	"Morona"	13	2020-05-03
+"Morona Santiago"	"Pablo Sexto"	2	2020-05-03
+"Morona Santiago"	"Palora"	27	2020-05-03
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-03
+"Morona Santiago"	"Santiago"	0	2020-05-03
+"Morona Santiago"	"Sucúa"	19	2020-05-03
+"Morona Santiago"	"Taisha"	3	2020-05-03
+"Morona Santiago"	"Tiwintza"	3	2020-05-03
+"Morona Santiago"	"Gualaquiza"	10	2020-05-04
+"Morona Santiago"	"Huamboya"	1	2020-05-04
+"Morona Santiago"	"Limón Indanza"	0	2020-05-04
+"Morona Santiago"	"Logroño"	0	2020-05-04
+"Morona Santiago"	"Morona"	14	2020-05-04
+"Morona Santiago"	"Pablo Sexto"	2	2020-05-04
+"Morona Santiago"	"Palora"	27	2020-05-04
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-04
+"Morona Santiago"	"Santiago"	0	2020-05-04
+"Morona Santiago"	"Sucúa"	19	2020-05-04
+"Morona Santiago"	"Taisha"	3	2020-05-04
+"Morona Santiago"	"Tiwintza"	3	2020-05-04
+"Morona Santiago"	"Gualaquiza"	10	2020-05-05
+"Morona Santiago"	"Huamboya"	1	2020-05-05
+"Morona Santiago"	"Limón Indanza"	0	2020-05-05
+"Morona Santiago"	"Logroño"	0	2020-05-05
+"Morona Santiago"	"Morona"	14	2020-05-05
+"Morona Santiago"	"Pablo Sexto"	2	2020-05-05
+"Morona Santiago"	"Palora"	27	2020-05-05
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-05
+"Morona Santiago"	"Santiago"	0	2020-05-05
+"Morona Santiago"	"Sucúa"	19	2020-05-05
+"Morona Santiago"	"Taisha"	3	2020-05-05
+"Morona Santiago"	"Tiwintza"	3	2020-05-05
+"Morona Santiago"	"Gualaquiza"	4	2020-05-06
+"Morona Santiago"	"Huamboya"	1	2020-05-06
+"Morona Santiago"	"Limón Indanza"	0	2020-05-06
+"Morona Santiago"	"Logroño"	0	2020-05-06
+"Morona Santiago"	"Morona"	9	2020-05-06
+"Morona Santiago"	"Pablo Sexto"	3	2020-05-06
+"Morona Santiago"	"Palora"	11	2020-05-06
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-06
+"Morona Santiago"	"Santiago"	0	2020-05-06
+"Morona Santiago"	"Sucúa"	7	2020-05-06
+"Morona Santiago"	"Taisha"	1	2020-05-06
+"Morona Santiago"	"Tiwintza"	1	2020-05-06
+"Morona Santiago"	"Gualaquiza"	8	2020-05-07
+"Morona Santiago"	"Huamboya"	1	2020-05-07
+"Morona Santiago"	"Limón Indanza"	0	2020-05-07
+"Morona Santiago"	"Logroño"	0	2020-05-07
+"Morona Santiago"	"Morona"	15	2020-05-07
+"Morona Santiago"	"Pablo Sexto"	3	2020-05-07
+"Morona Santiago"	"Palora"	22	2020-05-07
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-07
+"Morona Santiago"	"Santiago"	0	2020-05-07
+"Morona Santiago"	"Sucúa"	16	2020-05-07
+"Morona Santiago"	"Taisha"	3	2020-05-07
+"Morona Santiago"	"Tiwintza"	3	2020-05-07
+"Morona Santiago"	"Gualaquiza"	4	2020-05-08
+"Morona Santiago"	"Huamboya"	1	2020-05-08
+"Morona Santiago"	"Limón Indanza"	0	2020-05-08
+"Morona Santiago"	"Logroño"	0	2020-05-08
+"Morona Santiago"	"Morona"	9	2020-05-08
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-08
+"Morona Santiago"	"Palora"	14	2020-05-08
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-08
+"Morona Santiago"	"Santiago"	0	2020-05-08
+"Morona Santiago"	"Sucúa"	6	2020-05-08
+"Morona Santiago"	"Taisha"	1	2020-05-08
+"Morona Santiago"	"Tiwintza"	1	2020-05-08
+"Morona Santiago"	"Gualaquiza"	4	2020-05-09
+"Morona Santiago"	"Huamboya"	1	2020-05-09
+"Morona Santiago"	"Limón Indanza"	0	2020-05-09
+"Morona Santiago"	"Logroño"	0	2020-05-09
+"Morona Santiago"	"Morona"	10	2020-05-09
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-09
+"Morona Santiago"	"Palora"	17	2020-05-09
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-09
+"Morona Santiago"	"Santiago"	0	2020-05-09
+"Morona Santiago"	"Sucúa"	6	2020-05-09
+"Morona Santiago"	"Taisha"	1	2020-05-09
+"Morona Santiago"	"Tiwintza"	1	2020-05-09
+"Morona Santiago"	"Gualaquiza"	4	2020-05-10
+"Morona Santiago"	"Huamboya"	1	2020-05-10
+"Morona Santiago"	"Limón Indanza"	0	2020-05-10
+"Morona Santiago"	"Logroño"	0	2020-05-10
+"Morona Santiago"	"Morona"	10	2020-05-10
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-10
+"Morona Santiago"	"Palora"	17	2020-05-10
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-10
+"Morona Santiago"	"Santiago"	0	2020-05-10
+"Morona Santiago"	"Sucúa"	6	2020-05-10
+"Morona Santiago"	"Taisha"	1	2020-05-10
+"Morona Santiago"	"Tiwintza"	1	2020-05-10
+"Morona Santiago"	"Gualaquiza"	4	2020-05-11
+"Morona Santiago"	"Huamboya"	1	2020-05-11
+"Morona Santiago"	"Limón Indanza"	0	2020-05-11
+"Morona Santiago"	"Logroño"	0	2020-05-11
+"Morona Santiago"	"Morona"	10	2020-05-11
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-11
+"Morona Santiago"	"Palora"	17	2020-05-11
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-11
+"Morona Santiago"	"Santiago"	0	2020-05-11
+"Morona Santiago"	"Sucúa"	6	2020-05-11
+"Morona Santiago"	"Taisha"	1	2020-05-11
+"Morona Santiago"	"Tiwintza"	1	2020-05-11
+"Morona Santiago"	"Gualaquiza"	8	2020-05-12
+"Morona Santiago"	"Huamboya"	1	2020-05-12
+"Morona Santiago"	"Limón Indanza"	0	2020-05-12
+"Morona Santiago"	"Logroño"	0	2020-05-12
+"Morona Santiago"	"Morona"	11	2020-05-12
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-12
+"Morona Santiago"	"Palora"	17	2020-05-12
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-12
+"Morona Santiago"	"Santiago"	0	2020-05-12
+"Morona Santiago"	"Sucúa"	6	2020-05-12
+"Morona Santiago"	"Taisha"	1	2020-05-12
+"Morona Santiago"	"Tiwintza"	1	2020-05-12
+"Morona Santiago"	"Gualaquiza"	8	2020-05-13
+"Morona Santiago"	"Huamboya"	1	2020-05-13
+"Morona Santiago"	"Limón Indanza"	0	2020-05-13
+"Morona Santiago"	"Logroño"	0	2020-05-13
+"Morona Santiago"	"Morona"	11	2020-05-13
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-13
+"Morona Santiago"	"Palora"	17	2020-05-13
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-13
+"Morona Santiago"	"Santiago"	0	2020-05-13
+"Morona Santiago"	"Sucúa"	6	2020-05-13
+"Morona Santiago"	"Taisha"	1	2020-05-13
+"Morona Santiago"	"Tiwintza"	1	2020-05-13
+"Morona Santiago"	"Gualaquiza"	8	2020-05-14
+"Morona Santiago"	"Huamboya"	1	2020-05-14
+"Morona Santiago"	"Limón Indanza"	0	2020-05-14
+"Morona Santiago"	"Logroño"	0	2020-05-14
+"Morona Santiago"	"Morona"	11	2020-05-14
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-14
+"Morona Santiago"	"Palora"	17	2020-05-14
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-14
+"Morona Santiago"	"Santiago"	0	2020-05-14
+"Morona Santiago"	"Sucúa"	6	2020-05-14
+"Morona Santiago"	"Taisha"	1	2020-05-14
+"Morona Santiago"	"Tiwintza"	1	2020-05-14
+"Morona Santiago"	"Gualaquiza"	12	2020-05-15
+"Morona Santiago"	"Huamboya"	2	2020-05-15
+"Morona Santiago"	"Limón Indanza"	0	2020-05-15
+"Morona Santiago"	"Logroño"	0	2020-05-15
+"Morona Santiago"	"Morona"	14	2020-05-15
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-15
+"Morona Santiago"	"Palora"	19	2020-05-15
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-15
+"Morona Santiago"	"Santiago"	0	2020-05-15
+"Morona Santiago"	"Sucúa"	6	2020-05-15
+"Morona Santiago"	"Taisha"	2	2020-05-15
+"Morona Santiago"	"Tiwintza"	1	2020-05-15
+"Morona Santiago"	"Gualaquiza"	13	2020-05-16
+"Morona Santiago"	"Huamboya"	2	2020-05-16
+"Morona Santiago"	"Limón Indanza"	0	2020-05-16
+"Morona Santiago"	"Logroño"	0	2020-05-16
+"Morona Santiago"	"Morona"	14	2020-05-16
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-16
+"Morona Santiago"	"Palora"	21	2020-05-16
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-16
+"Morona Santiago"	"Santiago"	0	2020-05-16
+"Morona Santiago"	"Sucúa"	6	2020-05-16
+"Morona Santiago"	"Taisha"	2	2020-05-16
+"Morona Santiago"	"Tiwintza"	1	2020-05-16
+"Morona Santiago"	"Gualaquiza"	14	2020-05-17
+"Morona Santiago"	"Huamboya"	2	2020-05-17
+"Morona Santiago"	"Limón Indanza"	0	2020-05-17
+"Morona Santiago"	"Logroño"	0	2020-05-17
+"Morona Santiago"	"Morona"	14	2020-05-17
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-17
+"Morona Santiago"	"Palora"	21	2020-05-17
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-17
+"Morona Santiago"	"Santiago"	0	2020-05-17
+"Morona Santiago"	"Sucúa"	6	2020-05-17
+"Morona Santiago"	"Taisha"	2	2020-05-17
+"Morona Santiago"	"Tiwintza"	1	2020-05-17
+"Morona Santiago"	"Gualaquiza"	14	2020-05-18
+"Morona Santiago"	"Huamboya"	2	2020-05-18
+"Morona Santiago"	"Limón Indanza"	0	2020-05-18
+"Morona Santiago"	"Logroño"	0	2020-05-18
+"Morona Santiago"	"Morona"	19	2020-05-18
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-18
+"Morona Santiago"	"Palora"	21	2020-05-18
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-18
+"Morona Santiago"	"Santiago"	0	2020-05-18
+"Morona Santiago"	"Sucúa"	6	2020-05-18
+"Morona Santiago"	"Taisha"	3	2020-05-18
+"Morona Santiago"	"Tiwintza"	1	2020-05-18
+"Morona Santiago"	"Gualaquiza"	14	2020-05-19
+"Morona Santiago"	"Huamboya"	2	2020-05-19
+"Morona Santiago"	"Limón Indanza"	0	2020-05-19
+"Morona Santiago"	"Logroño"	0	2020-05-19
+"Morona Santiago"	"Morona"	19	2020-05-19
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-19
+"Morona Santiago"	"Palora"	21	2020-05-19
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-19
+"Morona Santiago"	"Santiago"	0	2020-05-19
+"Morona Santiago"	"Sucúa"	6	2020-05-19
+"Morona Santiago"	"Taisha"	3	2020-05-19
+"Morona Santiago"	"Tiwintza"	1	2020-05-19
+"Morona Santiago"	"Gualaquiza"	16	2020-05-20
+"Morona Santiago"	"Huamboya"	2	2020-05-20
+"Morona Santiago"	"Limón Indanza"	0	2020-05-20
+"Morona Santiago"	"Logroño"	0	2020-05-20
+"Morona Santiago"	"Morona"	20	2020-05-20
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-20
+"Morona Santiago"	"Palora"	22	2020-05-20
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-20
+"Morona Santiago"	"Santiago"	0	2020-05-20
+"Morona Santiago"	"Sucúa"	6	2020-05-20
+"Morona Santiago"	"Taisha"	8	2020-05-20
+"Morona Santiago"	"Tiwintza"	1	2020-05-20
+"Morona Santiago"	"Gualaquiza"	16	2020-05-21
+"Morona Santiago"	"Huamboya"	2	2020-05-21
+"Morona Santiago"	"Limón Indanza"	0	2020-05-21
+"Morona Santiago"	"Logroño"	0	2020-05-21
+"Morona Santiago"	"Morona"	24	2020-05-21
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-21
+"Morona Santiago"	"Palora"	22	2020-05-21
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-21
+"Morona Santiago"	"Santiago"	1	2020-05-21
+"Morona Santiago"	"Sucúa"	6	2020-05-21
+"Morona Santiago"	"Taisha"	8	2020-05-21
+"Morona Santiago"	"Tiwintza"	1	2020-05-21
+"Morona Santiago"	"Gualaquiza"	16	2020-05-22
+"Morona Santiago"	"Huamboya"	2	2020-05-22
+"Morona Santiago"	"Limón Indanza"	0	2020-05-22
+"Morona Santiago"	"Logroño"	0	2020-05-22
+"Morona Santiago"	"Morona"	24	2020-05-22
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-22
+"Morona Santiago"	"Palora"	22	2020-05-22
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-22
+"Morona Santiago"	"Santiago"	1	2020-05-22
+"Morona Santiago"	"Sucúa"	6	2020-05-22
+"Morona Santiago"	"Taisha"	8	2020-05-22
+"Morona Santiago"	"Tiwintza"	1	2020-05-22
+"Morona Santiago"	"Gualaquiza"	16	2020-05-23
+"Morona Santiago"	"Huamboya"	3	2020-05-23
+"Morona Santiago"	"Limón Indanza"	0	2020-05-23
+"Morona Santiago"	"Logroño"	0	2020-05-23
+"Morona Santiago"	"Morona"	25	2020-05-23
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-23
+"Morona Santiago"	"Palora"	24	2020-05-23
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-23
+"Morona Santiago"	"Santiago"	1	2020-05-23
+"Morona Santiago"	"Sucúa"	6	2020-05-23
+"Morona Santiago"	"Taisha"	10	2020-05-23
+"Morona Santiago"	"Tiwintza"	1	2020-05-23
+"Morona Santiago"	"Gualaquiza"	17	2020-05-24
+"Morona Santiago"	"Huamboya"	3	2020-05-24
+"Morona Santiago"	"Limón Indanza"	0	2020-05-24
+"Morona Santiago"	"Logroño"	0	2020-05-24
+"Morona Santiago"	"Morona"	25	2020-05-24
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-24
+"Morona Santiago"	"Palora"	24	2020-05-24
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-24
+"Morona Santiago"	"Santiago"	1	2020-05-24
+"Morona Santiago"	"Sucúa"	6	2020-05-24
+"Morona Santiago"	"Taisha"	11	2020-05-24
+"Morona Santiago"	"Tiwintza"	1	2020-05-24
+"Morona Santiago"	"Gualaquiza"	18	2020-05-25
+"Morona Santiago"	"Huamboya"	3	2020-05-25
+"Morona Santiago"	"Limón Indanza"	0	2020-05-25
+"Morona Santiago"	"Logroño"	0	2020-05-25
+"Morona Santiago"	"Morona"	25	2020-05-25
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-25
+"Morona Santiago"	"Palora"	24	2020-05-25
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-25
+"Morona Santiago"	"Santiago"	2	2020-05-25
+"Morona Santiago"	"Sucúa"	7	2020-05-25
+"Morona Santiago"	"Taisha"	11	2020-05-25
+"Morona Santiago"	"Tiwintza"	1	2020-05-25
+"Morona Santiago"	"Gualaquiza"	19	2020-05-26
+"Morona Santiago"	"Huamboya"	4	2020-05-26
+"Morona Santiago"	"Limón Indanza"	0	2020-05-26
+"Morona Santiago"	"Logroño"	0	2020-05-26
+"Morona Santiago"	"Morona"	26	2020-05-26
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-26
+"Morona Santiago"	"Palora"	24	2020-05-26
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-26
+"Morona Santiago"	"Santiago"	4	2020-05-26
+"Morona Santiago"	"Sucúa"	7	2020-05-26
+"Morona Santiago"	"Taisha"	11	2020-05-26
+"Morona Santiago"	"Tiwintza"	1	2020-05-26
+"Morona Santiago"	"Gualaquiza"	19	2020-05-27
+"Morona Santiago"	"Huamboya"	4	2020-05-27
+"Morona Santiago"	"Limón Indanza"	0	2020-05-27
+"Morona Santiago"	"Logroño"	0	2020-05-27
+"Morona Santiago"	"Morona"	26	2020-05-27
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-27
+"Morona Santiago"	"Palora"	24	2020-05-27
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-27
+"Morona Santiago"	"Santiago"	5	2020-05-27
+"Morona Santiago"	"Sucúa"	7	2020-05-27
+"Morona Santiago"	"Taisha"	11	2020-05-27
+"Morona Santiago"	"Tiwintza"	1	2020-05-27
+"Morona Santiago"	"Gualaquiza"	19	2020-05-28
+"Morona Santiago"	"Huamboya"	5	2020-05-28
+"Morona Santiago"	"Limón Indanza"	0	2020-05-28
+"Morona Santiago"	"Logroño"	0	2020-05-28
+"Morona Santiago"	"Morona"	27	2020-05-28
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-28
+"Morona Santiago"	"Palora"	24	2020-05-28
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-28
+"Morona Santiago"	"Santiago"	5	2020-05-28
+"Morona Santiago"	"Sucúa"	7	2020-05-28
+"Morona Santiago"	"Taisha"	11	2020-05-28
+"Morona Santiago"	"Tiwintza"	1	2020-05-28
+"Morona Santiago"	"Gualaquiza"	19	2020-05-29
+"Morona Santiago"	"Huamboya"	5	2020-05-29
+"Morona Santiago"	"Limón Indanza"	0	2020-05-29
+"Morona Santiago"	"Logroño"	0	2020-05-29
+"Morona Santiago"	"Morona"	29	2020-05-29
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-29
+"Morona Santiago"	"Palora"	24	2020-05-29
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-29
+"Morona Santiago"	"Santiago"	5	2020-05-29
+"Morona Santiago"	"Sucúa"	7	2020-05-29
+"Morona Santiago"	"Taisha"	11	2020-05-29
+"Morona Santiago"	"Tiwintza"	1	2020-05-29
+"Morona Santiago"	"Gualaquiza"	19	2020-05-30
+"Morona Santiago"	"Huamboya"	5	2020-05-30
+"Morona Santiago"	"Limón Indanza"	0	2020-05-30
+"Morona Santiago"	"Logroño"	0	2020-05-30
+"Morona Santiago"	"Morona"	29	2020-05-30
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-30
+"Morona Santiago"	"Palora"	24	2020-05-30
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-30
+"Morona Santiago"	"Santiago"	5	2020-05-30
+"Morona Santiago"	"Sucúa"	7	2020-05-30
+"Morona Santiago"	"Taisha"	11	2020-05-30
+"Morona Santiago"	"Tiwintza"	1	2020-05-30
+"Morona Santiago"	"Gualaquiza"	19	2020-05-31
+"Morona Santiago"	"Huamboya"	5	2020-05-31
+"Morona Santiago"	"Limón Indanza"	0	2020-05-31
+"Morona Santiago"	"Logroño"	0	2020-05-31
+"Morona Santiago"	"Morona"	29	2020-05-31
+"Morona Santiago"	"Pablo Sexto"	4	2020-05-31
+"Morona Santiago"	"Palora"	24	2020-05-31
+"Morona Santiago"	"San Juan Bosco"	0	2020-05-31
+"Morona Santiago"	"Santiago"	5	2020-05-31
+"Morona Santiago"	"Sucúa"	7	2020-05-31
+"Morona Santiago"	"Taisha"	11	2020-05-31
+"Morona Santiago"	"Tiwintza"	1	2020-05-31
+"Morona Santiago"	"Gualaquiza"	23	2020-06-01
+"Morona Santiago"	"Huamboya"	6	2020-06-01
+"Morona Santiago"	"Limón Indanza"	2	2020-06-01
+"Morona Santiago"	"Logroño"	0	2020-06-01
+"Morona Santiago"	"Morona"	37	2020-06-01
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-01
+"Morona Santiago"	"Palora"	24	2020-06-01
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-01
+"Morona Santiago"	"Santiago"	9	2020-06-01
+"Morona Santiago"	"Sucúa"	8	2020-06-01
+"Morona Santiago"	"Taisha"	14	2020-06-01
+"Morona Santiago"	"Tiwintza"	1	2020-06-01
+"Morona Santiago"	"Gualaquiza"	24	2020-06-02
+"Morona Santiago"	"Huamboya"	6	2020-06-02
+"Morona Santiago"	"Limón Indanza"	2	2020-06-02
+"Morona Santiago"	"Logroño"	1	2020-06-02
+"Morona Santiago"	"Morona"	37	2020-06-02
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-02
+"Morona Santiago"	"Palora"	24	2020-06-02
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-02
+"Morona Santiago"	"Santiago"	9	2020-06-02
+"Morona Santiago"	"Sucúa"	8	2020-06-02
+"Morona Santiago"	"Taisha"	14	2020-06-02
+"Morona Santiago"	"Tiwintza"	1	2020-06-02
+"Morona Santiago"	"Gualaquiza"	24	2020-06-03
+"Morona Santiago"	"Huamboya"	6	2020-06-03
+"Morona Santiago"	"Limón Indanza"	7	2020-06-03
+"Morona Santiago"	"Logroño"	1	2020-06-03
+"Morona Santiago"	"Morona"	37	2020-06-03
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-03
+"Morona Santiago"	"Palora"	24	2020-06-03
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-03
+"Morona Santiago"	"Santiago"	10	2020-06-03
+"Morona Santiago"	"Sucúa"	8	2020-06-03
+"Morona Santiago"	"Taisha"	15	2020-06-03
+"Morona Santiago"	"Tiwintza"	1	2020-06-03
+"Morona Santiago"	"Gualaquiza"	24	2020-06-04
+"Morona Santiago"	"Huamboya"	6	2020-06-04
+"Morona Santiago"	"Limón Indanza"	7	2020-06-04
+"Morona Santiago"	"Logroño"	1	2020-06-04
+"Morona Santiago"	"Morona"	37	2020-06-04
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-04
+"Morona Santiago"	"Palora"	24	2020-06-04
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-04
+"Morona Santiago"	"Santiago"	10	2020-06-04
+"Morona Santiago"	"Sucúa"	8	2020-06-04
+"Morona Santiago"	"Taisha"	15	2020-06-04
+"Morona Santiago"	"Tiwintza"	1	2020-06-04
+"Morona Santiago"	"Gualaquiza"	33	2020-06-05
+"Morona Santiago"	"Huamboya"	6	2020-06-05
+"Morona Santiago"	"Limón Indanza"	9	2020-06-05
+"Morona Santiago"	"Logroño"	1	2020-06-05
+"Morona Santiago"	"Morona"	51	2020-06-05
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-05
+"Morona Santiago"	"Palora"	25	2020-06-05
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-05
+"Morona Santiago"	"Santiago"	12	2020-06-05
+"Morona Santiago"	"Sucúa"	11	2020-06-05
+"Morona Santiago"	"Taisha"	18	2020-06-05
+"Morona Santiago"	"Tiwintza"	1	2020-06-05
+"Morona Santiago"	"Gualaquiza"	33	2020-06-06
+"Morona Santiago"	"Huamboya"	6	2020-06-06
+"Morona Santiago"	"Limón Indanza"	9	2020-06-06
+"Morona Santiago"	"Logroño"	1	2020-06-06
+"Morona Santiago"	"Morona"	51	2020-06-06
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-06
+"Morona Santiago"	"Palora"	31	2020-06-06
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-06
+"Morona Santiago"	"Santiago"	13	2020-06-06
+"Morona Santiago"	"Sucúa"	11	2020-06-06
+"Morona Santiago"	"Taisha"	18	2020-06-06
+"Morona Santiago"	"Tiwintza"	1	2020-06-06
+"Morona Santiago"	"Gualaquiza"	36	2020-06-07
+"Morona Santiago"	"Huamboya"	6	2020-06-07
+"Morona Santiago"	"Limón Indanza"	9	2020-06-07
+"Morona Santiago"	"Logroño"	1	2020-06-07
+"Morona Santiago"	"Morona"	51	2020-06-07
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-07
+"Morona Santiago"	"Palora"	31	2020-06-07
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-07
+"Morona Santiago"	"Santiago"	13	2020-06-07
+"Morona Santiago"	"Sucúa"	11	2020-06-07
+"Morona Santiago"	"Taisha"	18	2020-06-07
+"Morona Santiago"	"Tiwintza"	1	2020-06-07
+"Morona Santiago"	"Gualaquiza"	36	2020-06-08
+"Morona Santiago"	"Huamboya"	6	2020-06-08
+"Morona Santiago"	"Limón Indanza"	9	2020-06-08
+"Morona Santiago"	"Logroño"	1	2020-06-08
+"Morona Santiago"	"Morona"	51	2020-06-08
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-08
+"Morona Santiago"	"Palora"	31	2020-06-08
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-08
+"Morona Santiago"	"Santiago"	15	2020-06-08
+"Morona Santiago"	"Sucúa"	11	2020-06-08
+"Morona Santiago"	"Taisha"	18	2020-06-08
+"Morona Santiago"	"Tiwintza"	1	2020-06-08
+"Morona Santiago"	"Gualaquiza"	40	2020-06-09
+"Morona Santiago"	"Huamboya"	6	2020-06-09
+"Morona Santiago"	"Limón Indanza"	9	2020-06-09
+"Morona Santiago"	"Logroño"	1	2020-06-09
+"Morona Santiago"	"Morona"	60	2020-06-09
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-09
+"Morona Santiago"	"Palora"	31	2020-06-09
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-09
+"Morona Santiago"	"Santiago"	15	2020-06-09
+"Morona Santiago"	"Sucúa"	11	2020-06-09
+"Morona Santiago"	"Taisha"	19	2020-06-09
+"Morona Santiago"	"Tiwintza"	1	2020-06-09
+"Morona Santiago"	"Gualaquiza"	40	2020-06-10
+"Morona Santiago"	"Huamboya"	6	2020-06-10
+"Morona Santiago"	"Limón Indanza"	12	2020-06-10
+"Morona Santiago"	"Logroño"	1	2020-06-10
+"Morona Santiago"	"Morona"	61	2020-06-10
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-10
+"Morona Santiago"	"Palora"	31	2020-06-10
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-10
+"Morona Santiago"	"Santiago"	15	2020-06-10
+"Morona Santiago"	"Sucúa"	11	2020-06-10
+"Morona Santiago"	"Taisha"	19	2020-06-10
+"Morona Santiago"	"Tiwintza"	1	2020-06-10
+"Morona Santiago"	"Gualaquiza"	53	2020-06-11
+"Morona Santiago"	"Huamboya"	6	2020-06-11
+"Morona Santiago"	"Limón Indanza"	12	2020-06-11
+"Morona Santiago"	"Logroño"	3	2020-06-11
+"Morona Santiago"	"Morona"	61	2020-06-11
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-11
+"Morona Santiago"	"Palora"	36	2020-06-11
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-11
+"Morona Santiago"	"Santiago"	18	2020-06-11
+"Morona Santiago"	"Sucúa"	11	2020-06-11
+"Morona Santiago"	"Taisha"	20	2020-06-11
+"Morona Santiago"	"Tiwintza"	1	2020-06-11
+"Morona Santiago"	"Gualaquiza"	67	2020-06-12
+"Morona Santiago"	"Huamboya"	6	2020-06-12
+"Morona Santiago"	"Limón Indanza"	12	2020-06-12
+"Morona Santiago"	"Logroño"	4	2020-06-12
+"Morona Santiago"	"Morona"	66	2020-06-12
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-12
+"Morona Santiago"	"Palora"	41	2020-06-12
+"Morona Santiago"	"San Juan Bosco"	1	2020-06-12
+"Morona Santiago"	"Santiago"	22	2020-06-12
+"Morona Santiago"	"Sucúa"	13	2020-06-12
+"Morona Santiago"	"Taisha"	22	2020-06-12
+"Morona Santiago"	"Tiwintza"	1	2020-06-12
+"Morona Santiago"	"Gualaquiza"	67	2020-06-13
+"Morona Santiago"	"Huamboya"	6	2020-06-13
+"Morona Santiago"	"Limón Indanza"	12	2020-06-13
+"Morona Santiago"	"Logroño"	4	2020-06-13
+"Morona Santiago"	"Morona"	66	2020-06-13
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-13
+"Morona Santiago"	"Palora"	41	2020-06-13
+"Morona Santiago"	"San Juan Bosco"	2	2020-06-13
+"Morona Santiago"	"Santiago"	28	2020-06-13
+"Morona Santiago"	"Sucúa"	13	2020-06-13
+"Morona Santiago"	"Taisha"	22	2020-06-13
+"Morona Santiago"	"Tiwintza"	1	2020-06-13
+"Morona Santiago"	"Gualaquiza"	75	2020-06-14
+"Morona Santiago"	"Huamboya"	6	2020-06-14
+"Morona Santiago"	"Limón Indanza"	12	2020-06-14
+"Morona Santiago"	"Logroño"	7	2020-06-14
+"Morona Santiago"	"Morona"	72	2020-06-14
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-14
+"Morona Santiago"	"Palora"	43	2020-06-14
+"Morona Santiago"	"San Juan Bosco"	2	2020-06-14
+"Morona Santiago"	"Santiago"	29	2020-06-14
+"Morona Santiago"	"Sucúa"	14	2020-06-14
+"Morona Santiago"	"Taisha"	27	2020-06-14
+"Morona Santiago"	"Tiwintza"	1	2020-06-14
+"Morona Santiago"	"Gualaquiza"	75	2020-06-15
+"Morona Santiago"	"Huamboya"	7	2020-06-15
+"Morona Santiago"	"Limón Indanza"	12	2020-06-15
+"Morona Santiago"	"Logroño"	8	2020-06-15
+"Morona Santiago"	"Morona"	80	2020-06-15
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-15
+"Morona Santiago"	"Palora"	49	2020-06-15
+"Morona Santiago"	"San Juan Bosco"	2	2020-06-15
+"Morona Santiago"	"Santiago"	32	2020-06-15
+"Morona Santiago"	"Sucúa"	15	2020-06-15
+"Morona Santiago"	"Taisha"	27	2020-06-15
+"Morona Santiago"	"Tiwintza"	1	2020-06-15
+"Morona Santiago"	"Gualaquiza"	75	2020-06-16
+"Morona Santiago"	"Huamboya"	7	2020-06-16
+"Morona Santiago"	"Limón Indanza"	12	2020-06-16
+"Morona Santiago"	"Logroño"	10	2020-06-16
+"Morona Santiago"	"Morona"	85	2020-06-16
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-16
+"Morona Santiago"	"Palora"	50	2020-06-16
+"Morona Santiago"	"San Juan Bosco"	2	2020-06-16
+"Morona Santiago"	"Santiago"	32	2020-06-16
+"Morona Santiago"	"Sucúa"	16	2020-06-16
+"Morona Santiago"	"Taisha"	27	2020-06-16
+"Morona Santiago"	"Tiwintza"	1	2020-06-16
+"Morona Santiago"	"Gualaquiza"	75	2020-06-17
+"Morona Santiago"	"Huamboya"	7	2020-06-17
+"Morona Santiago"	"Limón Indanza"	12	2020-06-17
+"Morona Santiago"	"Logroño"	14	2020-06-17
+"Morona Santiago"	"Morona"	88	2020-06-17
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-17
+"Morona Santiago"	"Palora"	50	2020-06-17
+"Morona Santiago"	"San Juan Bosco"	2	2020-06-17
+"Morona Santiago"	"Santiago"	37	2020-06-17
+"Morona Santiago"	"Sucúa"	16	2020-06-17
+"Morona Santiago"	"Taisha"	27	2020-06-17
+"Morona Santiago"	"Tiwintza"	1	2020-06-17
+"Morona Santiago"	"Gualaquiza"	77	2020-06-18
+"Morona Santiago"	"Huamboya"	7	2020-06-18
+"Morona Santiago"	"Limón Indanza"	13	2020-06-18
+"Morona Santiago"	"Logroño"	14	2020-06-18
+"Morona Santiago"	"Morona"	99	2020-06-18
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-18
+"Morona Santiago"	"Palora"	53	2020-06-18
+"Morona Santiago"	"San Juan Bosco"	2	2020-06-18
+"Morona Santiago"	"Santiago"	37	2020-06-18
+"Morona Santiago"	"Sucúa"	16	2020-06-18
+"Morona Santiago"	"Taisha"	27	2020-06-18
+"Morona Santiago"	"Tiwintza"	1	2020-06-18
+"Morona Santiago"	"Gualaquiza"	78	2020-06-19
+"Morona Santiago"	"Huamboya"	8	2020-06-19
+"Morona Santiago"	"Limón Indanza"	15	2020-06-19
+"Morona Santiago"	"Logroño"	24	2020-06-19
+"Morona Santiago"	"Morona"	108	2020-06-19
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-19
+"Morona Santiago"	"Palora"	61	2020-06-19
+"Morona Santiago"	"San Juan Bosco"	2	2020-06-19
+"Morona Santiago"	"Santiago"	39	2020-06-19
+"Morona Santiago"	"Sucúa"	19	2020-06-19
+"Morona Santiago"	"Taisha"	28	2020-06-19
+"Morona Santiago"	"Tiwintza"	1	2020-06-19
+"Morona Santiago"	"Gualaquiza"	79	2020-06-20
+"Morona Santiago"	"Huamboya"	8	2020-06-20
+"Morona Santiago"	"Limón Indanza"	15	2020-06-20
+"Morona Santiago"	"Logroño"	25	2020-06-20
+"Morona Santiago"	"Morona"	117	2020-06-20
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-20
+"Morona Santiago"	"Palora"	61	2020-06-20
+"Morona Santiago"	"San Juan Bosco"	3	2020-06-20
+"Morona Santiago"	"Santiago"	43	2020-06-20
+"Morona Santiago"	"Sucúa"	20	2020-06-20
+"Morona Santiago"	"Taisha"	43	2020-06-20
+"Morona Santiago"	"Tiwintza"	3	2020-06-20
+"Morona Santiago"	"Gualaquiza"	84	2020-06-21
+"Morona Santiago"	"Huamboya"	8	2020-06-21
+"Morona Santiago"	"Limón Indanza"	15	2020-06-21
+"Morona Santiago"	"Logroño"	26	2020-06-21
+"Morona Santiago"	"Morona"	128	2020-06-21
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-21
+"Morona Santiago"	"Palora"	64	2020-06-21
+"Morona Santiago"	"San Juan Bosco"	3	2020-06-21
+"Morona Santiago"	"Santiago"	46	2020-06-21
+"Morona Santiago"	"Sucúa"	20	2020-06-21
+"Morona Santiago"	"Taisha"	46	2020-06-21
+"Morona Santiago"	"Tiwintza"	3	2020-06-21
+"Morona Santiago"	"Gualaquiza"	84	2020-06-22
+"Morona Santiago"	"Huamboya"	8	2020-06-22
+"Morona Santiago"	"Limón Indanza"	15	2020-06-22
+"Morona Santiago"	"Logroño"	26	2020-06-22
+"Morona Santiago"	"Morona"	128	2020-06-22
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-22
+"Morona Santiago"	"Palora"	64	2020-06-22
+"Morona Santiago"	"San Juan Bosco"	3	2020-06-22
+"Morona Santiago"	"Santiago"	46	2020-06-22
+"Morona Santiago"	"Sucúa"	20	2020-06-22
+"Morona Santiago"	"Taisha"	46	2020-06-22
+"Morona Santiago"	"Tiwintza"	3	2020-06-22
+"Morona Santiago"	"Gualaquiza"	101	2020-06-23
+"Morona Santiago"	"Huamboya"	10	2020-06-23
+"Morona Santiago"	"Limón Indanza"	16	2020-06-23
+"Morona Santiago"	"Logroño"	41	2020-06-23
+"Morona Santiago"	"Morona"	174	2020-06-23
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-23
+"Morona Santiago"	"Palora"	64	2020-06-23
+"Morona Santiago"	"San Juan Bosco"	3	2020-06-23
+"Morona Santiago"	"Santiago"	49	2020-06-23
+"Morona Santiago"	"Sucúa"	28	2020-06-23
+"Morona Santiago"	"Taisha"	48	2020-06-23
+"Morona Santiago"	"Tiwintza"	3	2020-06-23
+"Morona Santiago"	"Gualaquiza"	110	2020-06-24
+"Morona Santiago"	"Huamboya"	11	2020-06-24
+"Morona Santiago"	"Limón Indanza"	16	2020-06-24
+"Morona Santiago"	"Logroño"	44	2020-06-24
+"Morona Santiago"	"Morona"	175	2020-06-24
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-24
+"Morona Santiago"	"Palora"	64	2020-06-24
+"Morona Santiago"	"San Juan Bosco"	4	2020-06-24
+"Morona Santiago"	"Santiago"	49	2020-06-24
+"Morona Santiago"	"Sucúa"	31	2020-06-24
+"Morona Santiago"	"Taisha"	48	2020-06-24
+"Morona Santiago"	"Tiwintza"	3	2020-06-24
+"Morona Santiago"	"Gualaquiza"	114	2020-06-25
+"Morona Santiago"	"Huamboya"	11	2020-06-25
+"Morona Santiago"	"Limón Indanza"	16	2020-06-25
+"Morona Santiago"	"Logroño"	44	2020-06-25
+"Morona Santiago"	"Morona"	177	2020-06-25
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-25
+"Morona Santiago"	"Palora"	64	2020-06-25
+"Morona Santiago"	"San Juan Bosco"	4	2020-06-25
+"Morona Santiago"	"Santiago"	49	2020-06-25
+"Morona Santiago"	"Sucúa"	32	2020-06-25
+"Morona Santiago"	"Taisha"	49	2020-06-25
+"Morona Santiago"	"Tiwintza"	3	2020-06-25
+"Morona Santiago"	"Gualaquiza"	125	2020-06-26
+"Morona Santiago"	"Huamboya"	14	2020-06-26
+"Morona Santiago"	"Limón Indanza"	18	2020-06-26
+"Morona Santiago"	"Logroño"	52	2020-06-26
+"Morona Santiago"	"Morona"	208	2020-06-26
+"Morona Santiago"	"Pablo Sexto"	4	2020-06-26
+"Morona Santiago"	"Palora"	83	2020-06-26
+"Morona Santiago"	"San Juan Bosco"	4	2020-06-26
+"Morona Santiago"	"Santiago"	53	2020-06-26
+"Morona Santiago"	"Sucúa"	42	2020-06-26
+"Morona Santiago"	"Taisha"	50	2020-06-26
+"Morona Santiago"	"Tiwintza"	4	2020-06-26
+"Morona Santiago"	"Gualaquiza"	136	2020-06-27
+"Morona Santiago"	"Huamboya"	15	2020-06-27
+"Morona Santiago"	"Limón Indanza"	21	2020-06-27
+"Morona Santiago"	"Logroño"	55	2020-06-27
+"Morona Santiago"	"Morona"	215	2020-06-27
+"Morona Santiago"	"Pablo Sexto"	11	2020-06-27
+"Morona Santiago"	"Palora"	83	2020-06-27
+"Morona Santiago"	"San Juan Bosco"	4	2020-06-27
+"Morona Santiago"	"Santiago"	55	2020-06-27
+"Morona Santiago"	"Sucúa"	45	2020-06-27
+"Morona Santiago"	"Taisha"	50	2020-06-27
+"Morona Santiago"	"Tiwintza"	5	2020-06-27
+"Morona Santiago"	"Gualaquiza"	145	2020-06-28
+"Morona Santiago"	"Huamboya"	16	2020-06-28
+"Morona Santiago"	"Limón Indanza"	21	2020-06-28
+"Morona Santiago"	"Logroño"	60	2020-06-28
+"Morona Santiago"	"Morona"	235	2020-06-28
+"Morona Santiago"	"Pablo Sexto"	14	2020-06-28
+"Morona Santiago"	"Palora"	92	2020-06-28
+"Morona Santiago"	"San Juan Bosco"	7	2020-06-28
+"Morona Santiago"	"Santiago"	56	2020-06-28
+"Morona Santiago"	"Sucúa"	55	2020-06-28
+"Morona Santiago"	"Taisha"	52	2020-06-28
+"Morona Santiago"	"Tiwintza"	5	2020-06-28
+"Morona Santiago"	"Gualaquiza"	145	2020-06-29
+"Morona Santiago"	"Huamboya"	16	2020-06-29
+"Morona Santiago"	"Limón Indanza"	21	2020-06-29
+"Morona Santiago"	"Logroño"	60	2020-06-29
+"Morona Santiago"	"Morona"	235	2020-06-29
+"Morona Santiago"	"Pablo Sexto"	14	2020-06-29
+"Morona Santiago"	"Palora"	92	2020-06-29
+"Morona Santiago"	"San Juan Bosco"	8	2020-06-29
+"Morona Santiago"	"Santiago"	56	2020-06-29
+"Morona Santiago"	"Sucúa"	55	2020-06-29
+"Morona Santiago"	"Taisha"	52	2020-06-29
+"Morona Santiago"	"Tiwintza"	5	2020-06-29
+"Morona Santiago"	"Gualaquiza"	154	2020-06-30
+"Morona Santiago"	"Huamboya"	18	2020-06-30
+"Morona Santiago"	"Limón Indanza"	21	2020-06-30
+"Morona Santiago"	"Logroño"	60	2020-06-30
+"Morona Santiago"	"Morona"	242	2020-06-30
+"Morona Santiago"	"Pablo Sexto"	14	2020-06-30
+"Morona Santiago"	"Palora"	95	2020-06-30
+"Morona Santiago"	"San Juan Bosco"	8	2020-06-30
+"Morona Santiago"	"Santiago"	56	2020-06-30
+"Morona Santiago"	"Sucúa"	55	2020-06-30
+"Morona Santiago"	"Taisha"	52	2020-06-30
+"Morona Santiago"	"Tiwintza"	5	2020-06-30
+"Morona Santiago"	"Gualaquiza"	154	2020-07-01
+"Morona Santiago"	"Huamboya"	18	2020-07-01
+"Morona Santiago"	"Limón Indanza"	21	2020-07-01
+"Morona Santiago"	"Logroño"	60	2020-07-01
+"Morona Santiago"	"Morona"	247	2020-07-01
+"Morona Santiago"	"Pablo Sexto"	14	2020-07-01
+"Morona Santiago"	"Palora"	95	2020-07-01
+"Morona Santiago"	"San Juan Bosco"	8	2020-07-01
+"Morona Santiago"	"Santiago"	57	2020-07-01
+"Morona Santiago"	"Sucúa"	56	2020-07-01
+"Morona Santiago"	"Taisha"	61	2020-07-01
+"Morona Santiago"	"Tiwintza"	5	2020-07-01
+"Morona Santiago"	"Gualaquiza"	169	2020-07-02
+"Morona Santiago"	"Huamboya"	18	2020-07-02
+"Morona Santiago"	"Limón Indanza"	21	2020-07-02
+"Morona Santiago"	"Logroño"	65	2020-07-02
+"Morona Santiago"	"Morona"	261	2020-07-02
+"Morona Santiago"	"Pablo Sexto"	14	2020-07-02
+"Morona Santiago"	"Palora"	98	2020-07-02
+"Morona Santiago"	"San Juan Bosco"	8	2020-07-02
+"Morona Santiago"	"Santiago"	57	2020-07-02
+"Morona Santiago"	"Sucúa"	71	2020-07-02
+"Morona Santiago"	"Taisha"	62	2020-07-02
+"Morona Santiago"	"Tiwintza"	5	2020-07-02
+"Morona Santiago"	"Gualaquiza"	169	2020-07-03
+"Morona Santiago"	"Huamboya"	25	2020-07-03
+"Morona Santiago"	"Limón Indanza"	23	2020-07-03
+"Morona Santiago"	"Logroño"	66	2020-07-03
+"Morona Santiago"	"Morona"	277	2020-07-03
+"Morona Santiago"	"Pablo Sexto"	14	2020-07-03
+"Morona Santiago"	"Palora"	106	2020-07-03
+"Morona Santiago"	"San Juan Bosco"	8	2020-07-03
+"Morona Santiago"	"Santiago"	59	2020-07-03
+"Morona Santiago"	"Sucúa"	92	2020-07-03
+"Morona Santiago"	"Taisha"	65	2020-07-03
+"Morona Santiago"	"Tiwintza"	5	2020-07-03
+"Morona Santiago"	"Gualaquiza"	186	2020-07-04
+"Morona Santiago"	"Huamboya"	28	2020-07-04
+"Morona Santiago"	"Limón Indanza"	23	2020-07-04
+"Morona Santiago"	"Logroño"	69	2020-07-04
+"Morona Santiago"	"Morona"	312	2020-07-04
+"Morona Santiago"	"Pablo Sexto"	28	2020-07-04
+"Morona Santiago"	"Palora"	110	2020-07-04
+"Morona Santiago"	"San Juan Bosco"	9	2020-07-04
+"Morona Santiago"	"Santiago"	59	2020-07-04
+"Morona Santiago"	"Sucúa"	97	2020-07-04
+"Morona Santiago"	"Taisha"	66	2020-07-04
+"Morona Santiago"	"Tiwintza"	5	2020-07-04
+"Morona Santiago"	"Gualaquiza"	187	2020-07-05
+"Morona Santiago"	"Huamboya"	28	2020-07-05
+"Morona Santiago"	"Limón Indanza"	24	2020-07-05
+"Morona Santiago"	"Logroño"	69	2020-07-05
+"Morona Santiago"	"Morona"	315	2020-07-05
+"Morona Santiago"	"Pablo Sexto"	29	2020-07-05
+"Morona Santiago"	"Palora"	110	2020-07-05
+"Morona Santiago"	"San Juan Bosco"	9	2020-07-05
+"Morona Santiago"	"Santiago"	61	2020-07-05
+"Morona Santiago"	"Sucúa"	97	2020-07-05
+"Morona Santiago"	"Taisha"	66	2020-07-05
+"Morona Santiago"	"Tiwintza"	5	2020-07-05
+"Morona Santiago"	"Gualaquiza"	187	2020-07-06
+"Morona Santiago"	"Huamboya"	28	2020-07-06
+"Morona Santiago"	"Limón Indanza"	24	2020-07-06
+"Morona Santiago"	"Logroño"	69	2020-07-06
+"Morona Santiago"	"Morona"	316	2020-07-06
+"Morona Santiago"	"Pablo Sexto"	29	2020-07-06
+"Morona Santiago"	"Palora"	110	2020-07-06
+"Morona Santiago"	"San Juan Bosco"	9	2020-07-06
+"Morona Santiago"	"Santiago"	63	2020-07-06
+"Morona Santiago"	"Sucúa"	97	2020-07-06
+"Morona Santiago"	"Taisha"	66	2020-07-06
+"Morona Santiago"	"Tiwintza"	11	2020-07-06
+"Morona Santiago"	"Gualaquiza"	209	2020-07-07
+"Morona Santiago"	"Huamboya"	32	2020-07-07
+"Morona Santiago"	"Limón Indanza"	24	2020-07-07
+"Morona Santiago"	"Logroño"	72	2020-07-07
+"Morona Santiago"	"Morona"	338	2020-07-07
+"Morona Santiago"	"Pablo Sexto"	32	2020-07-07
+"Morona Santiago"	"Palora"	119	2020-07-07
+"Morona Santiago"	"San Juan Bosco"	10	2020-07-07
+"Morona Santiago"	"Santiago"	65	2020-07-07
+"Morona Santiago"	"Sucúa"	112	2020-07-07
+"Morona Santiago"	"Taisha"	66	2020-07-07
+"Morona Santiago"	"Tiwintza"	11	2020-07-07
+"Morona Santiago"	"Gualaquiza"	219	2020-07-08
+"Morona Santiago"	"Huamboya"	32	2020-07-08
+"Morona Santiago"	"Limón Indanza"	24	2020-07-08
+"Morona Santiago"	"Logroño"	72	2020-07-08
+"Morona Santiago"	"Morona"	352	2020-07-08
+"Morona Santiago"	"Pablo Sexto"	32	2020-07-08
+"Morona Santiago"	"Palora"	119	2020-07-08
+"Morona Santiago"	"San Juan Bosco"	12	2020-07-08
+"Morona Santiago"	"Santiago"	65	2020-07-08
+"Morona Santiago"	"Sucúa"	113	2020-07-08
+"Morona Santiago"	"Taisha"	66	2020-07-08
+"Morona Santiago"	"Tiwintza"	11	2020-07-08
+"Morona Santiago"	"Gualaquiza"	219	2020-07-09
+"Morona Santiago"	"Huamboya"	32	2020-07-09
+"Morona Santiago"	"Limón Indanza"	24	2020-07-09
+"Morona Santiago"	"Logroño"	72	2020-07-09
+"Morona Santiago"	"Morona"	374	2020-07-09
+"Morona Santiago"	"Pablo Sexto"	32	2020-07-09
+"Morona Santiago"	"Palora"	121	2020-07-09
+"Morona Santiago"	"San Juan Bosco"	12	2020-07-09
+"Morona Santiago"	"Santiago"	65	2020-07-09
+"Morona Santiago"	"Sucúa"	125	2020-07-09
+"Morona Santiago"	"Taisha"	66	2020-07-09
+"Morona Santiago"	"Tiwintza"	11	2020-07-09
+"Morona Santiago"	"Gualaquiza"	224	2020-07-10
+"Morona Santiago"	"Huamboya"	32	2020-07-10
+"Morona Santiago"	"Limón Indanza"	24	2020-07-10
+"Morona Santiago"	"Logroño"	72	2020-07-10
+"Morona Santiago"	"Morona"	388	2020-07-10
+"Morona Santiago"	"Pablo Sexto"	32	2020-07-10
+"Morona Santiago"	"Palora"	121	2020-07-10
+"Morona Santiago"	"San Juan Bosco"	12	2020-07-10
+"Morona Santiago"	"Santiago"	65	2020-07-10
+"Morona Santiago"	"Sucúa"	146	2020-07-10
+"Morona Santiago"	"Taisha"	66	2020-07-10
+"Morona Santiago"	"Tiwintza"	12	2020-07-10
+"Morona Santiago"	"Gualaquiza"	226	2020-07-11
+"Morona Santiago"	"Huamboya"	37	2020-07-11
+"Morona Santiago"	"Limón Indanza"	27	2020-07-11
+"Morona Santiago"	"Logroño"	72	2020-07-11
+"Morona Santiago"	"Morona"	395	2020-07-11
+"Morona Santiago"	"Pablo Sexto"	35	2020-07-11
+"Morona Santiago"	"Palora"	132	2020-07-11
+"Morona Santiago"	"San Juan Bosco"	12	2020-07-11
+"Morona Santiago"	"Santiago"	78	2020-07-11
+"Morona Santiago"	"Sucúa"	151	2020-07-11
+"Morona Santiago"	"Taisha"	66	2020-07-11
+"Morona Santiago"	"Tiwintza"	13	2020-07-11
+"Morona Santiago"	"Gualaquiza"	226	2020-07-12
+"Morona Santiago"	"Huamboya"	44	2020-07-12
+"Morona Santiago"	"Limón Indanza"	29	2020-07-12
+"Morona Santiago"	"Logroño"	79	2020-07-12
+"Morona Santiago"	"Morona"	396	2020-07-12
+"Morona Santiago"	"Pablo Sexto"	35	2020-07-12
+"Morona Santiago"	"Palora"	132	2020-07-12
+"Morona Santiago"	"San Juan Bosco"	12	2020-07-12
+"Morona Santiago"	"Santiago"	84	2020-07-12
+"Morona Santiago"	"Sucúa"	169	2020-07-12
+"Morona Santiago"	"Taisha"	66	2020-07-12
+"Morona Santiago"	"Tiwintza"	14	2020-07-12
+"Morona Santiago"	"Gualaquiza"	251	2020-07-13
+"Morona Santiago"	"Huamboya"	45	2020-07-13
+"Morona Santiago"	"Limón Indanza"	29	2020-07-13
+"Morona Santiago"	"Logroño"	80	2020-07-13
+"Morona Santiago"	"Morona"	448	2020-07-13
+"Morona Santiago"	"Pablo Sexto"	35	2020-07-13
+"Morona Santiago"	"Palora"	132	2020-07-13
+"Morona Santiago"	"San Juan Bosco"	16	2020-07-13
+"Morona Santiago"	"Santiago"	85	2020-07-13
+"Morona Santiago"	"Sucúa"	170	2020-07-13
+"Morona Santiago"	"Taisha"	66	2020-07-13
+"Morona Santiago"	"Tiwintza"	14	2020-07-13
+"Morona Santiago"	"Gualaquiza"	262	2020-07-14
+"Morona Santiago"	"Huamboya"	45	2020-07-14
+"Morona Santiago"	"Limón Indanza"	29	2020-07-14
+"Morona Santiago"	"Logroño"	81	2020-07-14
+"Morona Santiago"	"Morona"	473	2020-07-14
+"Morona Santiago"	"Pablo Sexto"	35	2020-07-14
+"Morona Santiago"	"Palora"	133	2020-07-14
+"Morona Santiago"	"San Juan Bosco"	16	2020-07-14
+"Morona Santiago"	"Santiago"	85	2020-07-14
+"Morona Santiago"	"Sucúa"	170	2020-07-14
+"Morona Santiago"	"Taisha"	66	2020-07-14
+"Morona Santiago"	"Tiwintza"	14	2020-07-14
+"Morona Santiago"	"Gualaquiza"	265	2020-07-15
+"Morona Santiago"	"Huamboya"	45	2020-07-15
+"Morona Santiago"	"Limón Indanza"	29	2020-07-15
+"Morona Santiago"	"Logroño"	81	2020-07-15
+"Morona Santiago"	"Morona"	479	2020-07-15
+"Morona Santiago"	"Pablo Sexto"	35	2020-07-15
+"Morona Santiago"	"Palora"	133	2020-07-15
+"Morona Santiago"	"San Juan Bosco"	16	2020-07-15
+"Morona Santiago"	"Santiago"	85	2020-07-15
+"Morona Santiago"	"Sucúa"	172	2020-07-15
+"Morona Santiago"	"Taisha"	76	2020-07-15
+"Morona Santiago"	"Tiwintza"	14	2020-07-15
+"Morona Santiago"	"Gualaquiza"	268	2020-07-16
+"Morona Santiago"	"Huamboya"	45	2020-07-16
+"Morona Santiago"	"Limón Indanza"	29	2020-07-16
+"Morona Santiago"	"Logroño"	85	2020-07-16
+"Morona Santiago"	"Morona"	480	2020-07-16
+"Morona Santiago"	"Pablo Sexto"	36	2020-07-16
+"Morona Santiago"	"Palora"	136	2020-07-16
+"Morona Santiago"	"San Juan Bosco"	16	2020-07-16
+"Morona Santiago"	"Santiago"	85	2020-07-16
+"Morona Santiago"	"Sucúa"	188	2020-07-16
+"Morona Santiago"	"Taisha"	76	2020-07-16
+"Morona Santiago"	"Tiwintza"	14	2020-07-16
+"Morona Santiago"	"Gualaquiza"	268	2020-07-17
+"Morona Santiago"	"Huamboya"	45	2020-07-17
+"Morona Santiago"	"Limón Indanza"	29	2020-07-17
+"Morona Santiago"	"Logroño"	85	2020-07-17
+"Morona Santiago"	"Morona"	484	2020-07-17
+"Morona Santiago"	"Pablo Sexto"	37	2020-07-17
+"Morona Santiago"	"Palora"	136	2020-07-17
+"Morona Santiago"	"San Juan Bosco"	16	2020-07-17
+"Morona Santiago"	"Santiago"	85	2020-07-17
+"Morona Santiago"	"Sucúa"	190	2020-07-17
+"Morona Santiago"	"Taisha"	76	2020-07-17
+"Morona Santiago"	"Tiwintza"	16	2020-07-17
+"Morona Santiago"	"Gualaquiza"	269	2020-07-18
+"Morona Santiago"	"Huamboya"	48	2020-07-18
+"Morona Santiago"	"Limón Indanza"	29	2020-07-18
+"Morona Santiago"	"Logroño"	85	2020-07-18
+"Morona Santiago"	"Morona"	487	2020-07-18
+"Morona Santiago"	"Pablo Sexto"	39	2020-07-18
+"Morona Santiago"	"Palora"	143	2020-07-18
+"Morona Santiago"	"San Juan Bosco"	16	2020-07-18
+"Morona Santiago"	"Santiago"	85	2020-07-18
+"Morona Santiago"	"Sucúa"	192	2020-07-18
+"Morona Santiago"	"Taisha"	77	2020-07-18
+"Morona Santiago"	"Tiwintza"	16	2020-07-18
+"Morona Santiago"	"Gualaquiza"	315	2020-07-19
+"Morona Santiago"	"Huamboya"	48	2020-07-19
+"Morona Santiago"	"Limón Indanza"	30	2020-07-19
+"Morona Santiago"	"Logroño"	86	2020-07-19
+"Morona Santiago"	"Morona"	514	2020-07-19
+"Morona Santiago"	"Pablo Sexto"	39	2020-07-19
+"Morona Santiago"	"Palora"	143	2020-07-19
+"Morona Santiago"	"San Juan Bosco"	23	2020-07-19
+"Morona Santiago"	"Santiago"	85	2020-07-19
+"Morona Santiago"	"Sucúa"	214	2020-07-19
+"Morona Santiago"	"Taisha"	77	2020-07-19
+"Morona Santiago"	"Tiwintza"	16	2020-07-19
+"Morona Santiago"	"Gualaquiza"	315	2020-07-20
+"Morona Santiago"	"Huamboya"	51	2020-07-20
+"Morona Santiago"	"Limón Indanza"	31	2020-07-20
+"Morona Santiago"	"Logroño"	86	2020-07-20
+"Morona Santiago"	"Morona"	529	2020-07-20
+"Morona Santiago"	"Pablo Sexto"	40	2020-07-20
+"Morona Santiago"	"Palora"	147	2020-07-20
+"Morona Santiago"	"San Juan Bosco"	23	2020-07-20
+"Morona Santiago"	"Santiago"	87	2020-07-20
+"Morona Santiago"	"Sucúa"	214	2020-07-20
+"Morona Santiago"	"Taisha"	77	2020-07-20
+"Morona Santiago"	"Tiwintza"	19	2020-07-20
+"Morona Santiago"	"Gualaquiza"	318	2020-07-21
+"Morona Santiago"	"Huamboya"	52	2020-07-21
+"Morona Santiago"	"Limón Indanza"	31	2020-07-21
+"Morona Santiago"	"Logroño"	87	2020-07-21
+"Morona Santiago"	"Morona"	555	2020-07-21
+"Morona Santiago"	"Pablo Sexto"	41	2020-07-21
+"Morona Santiago"	"Palora"	149	2020-07-21
+"Morona Santiago"	"San Juan Bosco"	23	2020-07-21
+"Morona Santiago"	"Santiago"	87	2020-07-21
+"Morona Santiago"	"Sucúa"	214	2020-07-21
+"Morona Santiago"	"Taisha"	79	2020-07-21
+"Morona Santiago"	"Tiwintza"	22	2020-07-21
+"Morona Santiago"	"Gualaquiza"	321	2020-07-22
+"Morona Santiago"	"Huamboya"	53	2020-07-22
+"Morona Santiago"	"Limón Indanza"	31	2020-07-22
+"Morona Santiago"	"Logroño"	88	2020-07-22
+"Morona Santiago"	"Morona"	566	2020-07-22
+"Morona Santiago"	"Pablo Sexto"	41	2020-07-22
+"Morona Santiago"	"Palora"	151	2020-07-22
+"Morona Santiago"	"San Juan Bosco"	23	2020-07-22
+"Morona Santiago"	"Santiago"	88	2020-07-22
+"Morona Santiago"	"Sucúa"	230	2020-07-22
+"Morona Santiago"	"Taisha"	82	2020-07-22
+"Morona Santiago"	"Tiwintza"	22	2020-07-22
+"Morona Santiago"	"Gualaquiza"	327	2020-07-23
+"Morona Santiago"	"Huamboya"	53	2020-07-23
+"Morona Santiago"	"Limón Indanza"	32	2020-07-23
+"Morona Santiago"	"Logroño"	94	2020-07-23
+"Morona Santiago"	"Morona"	590	2020-07-23
+"Morona Santiago"	"Pablo Sexto"	41	2020-07-23
+"Morona Santiago"	"Palora"	152	2020-07-23
+"Morona Santiago"	"San Juan Bosco"	27	2020-07-23
+"Morona Santiago"	"Santiago"	90	2020-07-23
+"Morona Santiago"	"Sucúa"	235	2020-07-23
+"Morona Santiago"	"Taisha"	82	2020-07-23
+"Morona Santiago"	"Tiwintza"	22	2020-07-23
+"Morona Santiago"	"Gualaquiza"	327	2020-07-24
+"Morona Santiago"	"Huamboya"	54	2020-07-24
+"Morona Santiago"	"Limón Indanza"	32	2020-07-24
+"Morona Santiago"	"Logroño"	95	2020-07-24
+"Morona Santiago"	"Morona"	632	2020-07-24
+"Morona Santiago"	"Pablo Sexto"	44	2020-07-24
+"Morona Santiago"	"Palora"	162	2020-07-24
+"Morona Santiago"	"San Juan Bosco"	27	2020-07-24
+"Morona Santiago"	"Santiago"	90	2020-07-24
+"Morona Santiago"	"Sucúa"	262	2020-07-24
+"Morona Santiago"	"Taisha"	82	2020-07-24
+"Morona Santiago"	"Tiwintza"	26	2020-07-24
+"Morona Santiago"	"Gualaquiza"	328	2020-07-25
+"Morona Santiago"	"Huamboya"	54	2020-07-25
+"Morona Santiago"	"Limón Indanza"	32	2020-07-25
+"Morona Santiago"	"Logroño"	95	2020-07-25
+"Morona Santiago"	"Morona"	632	2020-07-25
+"Morona Santiago"	"Pablo Sexto"	44	2020-07-25
+"Morona Santiago"	"Palora"	162	2020-07-25
+"Morona Santiago"	"San Juan Bosco"	27	2020-07-25
+"Morona Santiago"	"Santiago"	92	2020-07-25
+"Morona Santiago"	"Sucúa"	269	2020-07-25
+"Morona Santiago"	"Taisha"	83	2020-07-25
+"Morona Santiago"	"Tiwintza"	37	2020-07-25
+"Morona Santiago"	"Gualaquiza"	331	2020-07-26
+"Morona Santiago"	"Huamboya"	54	2020-07-26
+"Morona Santiago"	"Limón Indanza"	32	2020-07-26
+"Morona Santiago"	"Logroño"	96	2020-07-26
+"Morona Santiago"	"Morona"	639	2020-07-26
+"Morona Santiago"	"Pablo Sexto"	44	2020-07-26
+"Morona Santiago"	"Palora"	162	2020-07-26
+"Morona Santiago"	"San Juan Bosco"	27	2020-07-26
+"Morona Santiago"	"Santiago"	92	2020-07-26
+"Morona Santiago"	"Sucúa"	277	2020-07-26
+"Morona Santiago"	"Taisha"	97	2020-07-26
+"Morona Santiago"	"Tiwintza"	37	2020-07-26
+"Morona Santiago"	"Gualaquiza"	331	2020-07-27
+"Morona Santiago"	"Huamboya"	54	2020-07-27
+"Morona Santiago"	"Limón Indanza"	32	2020-07-27
+"Morona Santiago"	"Logroño"	96	2020-07-27
+"Morona Santiago"	"Morona"	639	2020-07-27
+"Morona Santiago"	"Pablo Sexto"	44	2020-07-27
+"Morona Santiago"	"Palora"	162	2020-07-27
+"Morona Santiago"	"San Juan Bosco"	27	2020-07-27
+"Morona Santiago"	"Santiago"	92	2020-07-27
+"Morona Santiago"	"Sucúa"	277	2020-07-27
+"Morona Santiago"	"Taisha"	97	2020-07-27
+"Morona Santiago"	"Tiwintza"	37	2020-07-27
+"Morona Santiago"	"Gualaquiza"	331	2020-07-28
+"Morona Santiago"	"Huamboya"	58	2020-07-28
+"Morona Santiago"	"Limón Indanza"	32	2020-07-28
+"Morona Santiago"	"Logroño"	96	2020-07-28
+"Morona Santiago"	"Morona"	655	2020-07-28
+"Morona Santiago"	"Pablo Sexto"	45	2020-07-28
+"Morona Santiago"	"Palora"	169	2020-07-28
+"Morona Santiago"	"San Juan Bosco"	27	2020-07-28
+"Morona Santiago"	"Santiago"	92	2020-07-28
+"Morona Santiago"	"Sucúa"	284	2020-07-28
+"Morona Santiago"	"Taisha"	97	2020-07-28
+"Morona Santiago"	"Tiwintza"	37	2020-07-28
+"Morona Santiago"	"Gualaquiza"	332	2020-07-29
+"Morona Santiago"	"Huamboya"	58	2020-07-29
+"Morona Santiago"	"Limón Indanza"	32	2020-07-29
+"Morona Santiago"	"Logroño"	96	2020-07-29
+"Morona Santiago"	"Morona"	673	2020-07-29
+"Morona Santiago"	"Pablo Sexto"	45	2020-07-29
+"Morona Santiago"	"Palora"	170	2020-07-29
+"Morona Santiago"	"San Juan Bosco"	27	2020-07-29
+"Morona Santiago"	"Santiago"	92	2020-07-29
+"Morona Santiago"	"Sucúa"	297	2020-07-29
+"Morona Santiago"	"Taisha"	97	2020-07-29
+"Morona Santiago"	"Tiwintza"	37	2020-07-29
+"Morona Santiago"	"Gualaquiza"	332	2020-07-30
+"Morona Santiago"	"Huamboya"	58	2020-07-30
+"Morona Santiago"	"Limón Indanza"	32	2020-07-30
+"Morona Santiago"	"Logroño"	96	2020-07-30
+"Morona Santiago"	"Morona"	675	2020-07-30
+"Morona Santiago"	"Pablo Sexto"	45	2020-07-30
+"Morona Santiago"	"Palora"	170	2020-07-30
+"Morona Santiago"	"San Juan Bosco"	27	2020-07-30
+"Morona Santiago"	"Santiago"	110	2020-07-30
+"Morona Santiago"	"Sucúa"	297	2020-07-30
+"Morona Santiago"	"Taisha"	97	2020-07-30
+"Morona Santiago"	"Tiwintza"	37	2020-07-30
+"Morona Santiago"	"Gualaquiza"	332	2020-07-31
+"Morona Santiago"	"Huamboya"	58	2020-07-31
+"Morona Santiago"	"Limón Indanza"	32	2020-07-31
+"Morona Santiago"	"Logroño"	96	2020-07-31
+"Morona Santiago"	"Morona"	700	2020-07-31
+"Morona Santiago"	"Pablo Sexto"	45	2020-07-31
+"Morona Santiago"	"Palora"	173	2020-07-31
+"Morona Santiago"	"San Juan Bosco"	27	2020-07-31
+"Morona Santiago"	"Santiago"	110	2020-07-31
+"Morona Santiago"	"Sucúa"	304	2020-07-31
+"Morona Santiago"	"Taisha"	97	2020-07-31
+"Morona Santiago"	"Tiwintza"	37	2020-07-31
+"Morona Santiago"	"Gualaquiza"	337	2020-08-01
+"Morona Santiago"	"Huamboya"	58	2020-08-01
+"Morona Santiago"	"Limón Indanza"	32	2020-08-01
+"Morona Santiago"	"Logroño"	96	2020-08-01
+"Morona Santiago"	"Morona"	715	2020-08-01
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-01
+"Morona Santiago"	"Palora"	173	2020-08-01
+"Morona Santiago"	"San Juan Bosco"	28	2020-08-01
+"Morona Santiago"	"Santiago"	122	2020-08-01
+"Morona Santiago"	"Sucúa"	308	2020-08-01
+"Morona Santiago"	"Taisha"	100	2020-08-01
+"Morona Santiago"	"Tiwintza"	41	2020-08-01
+"Morona Santiago"	"Gualaquiza"	338	2020-08-02
+"Morona Santiago"	"Huamboya"	58	2020-08-02
+"Morona Santiago"	"Limón Indanza"	32	2020-08-02
+"Morona Santiago"	"Logroño"	96	2020-08-02
+"Morona Santiago"	"Morona"	715	2020-08-02
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-02
+"Morona Santiago"	"Palora"	173	2020-08-02
+"Morona Santiago"	"San Juan Bosco"	28	2020-08-02
+"Morona Santiago"	"Santiago"	122	2020-08-02
+"Morona Santiago"	"Sucúa"	308	2020-08-02
+"Morona Santiago"	"Taisha"	100	2020-08-02
+"Morona Santiago"	"Tiwintza"	41	2020-08-02
+"Morona Santiago"	"Gualaquiza"	339	2020-08-03
+"Morona Santiago"	"Huamboya"	58	2020-08-03
+"Morona Santiago"	"Limón Indanza"	32	2020-08-03
+"Morona Santiago"	"Logroño"	96	2020-08-03
+"Morona Santiago"	"Morona"	715	2020-08-03
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-03
+"Morona Santiago"	"Palora"	173	2020-08-03
+"Morona Santiago"	"San Juan Bosco"	28	2020-08-03
+"Morona Santiago"	"Santiago"	122	2020-08-03
+"Morona Santiago"	"Sucúa"	309	2020-08-03
+"Morona Santiago"	"Taisha"	100	2020-08-03
+"Morona Santiago"	"Tiwintza"	41	2020-08-03
+"Morona Santiago"	"Gualaquiza"	339	2020-08-04
+"Morona Santiago"	"Huamboya"	59	2020-08-04
+"Morona Santiago"	"Limón Indanza"	32	2020-08-04
+"Morona Santiago"	"Logroño"	96	2020-08-04
+"Morona Santiago"	"Morona"	724	2020-08-04
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-04
+"Morona Santiago"	"Palora"	173	2020-08-04
+"Morona Santiago"	"San Juan Bosco"	28	2020-08-04
+"Morona Santiago"	"Santiago"	122	2020-08-04
+"Morona Santiago"	"Sucúa"	318	2020-08-04
+"Morona Santiago"	"Taisha"	100	2020-08-04
+"Morona Santiago"	"Tiwintza"	41	2020-08-04
+"Morona Santiago"	"Gualaquiza"	340	2020-08-05
+"Morona Santiago"	"Huamboya"	59	2020-08-05
+"Morona Santiago"	"Limón Indanza"	32	2020-08-05
+"Morona Santiago"	"Logroño"	96	2020-08-05
+"Morona Santiago"	"Morona"	736	2020-08-05
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-05
+"Morona Santiago"	"Palora"	173	2020-08-05
+"Morona Santiago"	"San Juan Bosco"	28	2020-08-05
+"Morona Santiago"	"Santiago"	122	2020-08-05
+"Morona Santiago"	"Sucúa"	321	2020-08-05
+"Morona Santiago"	"Taisha"	100	2020-08-05
+"Morona Santiago"	"Tiwintza"	41	2020-08-05
+"Morona Santiago"	"Gualaquiza"	340	2020-08-06
+"Morona Santiago"	"Huamboya"	59	2020-08-06
+"Morona Santiago"	"Limón Indanza"	33	2020-08-06
+"Morona Santiago"	"Logroño"	96	2020-08-06
+"Morona Santiago"	"Morona"	748	2020-08-06
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-06
+"Morona Santiago"	"Palora"	176	2020-08-06
+"Morona Santiago"	"San Juan Bosco"	28	2020-08-06
+"Morona Santiago"	"Santiago"	137	2020-08-06
+"Morona Santiago"	"Sucúa"	321	2020-08-06
+"Morona Santiago"	"Taisha"	100	2020-08-06
+"Morona Santiago"	"Tiwintza"	41	2020-08-06
+"Morona Santiago"	"Gualaquiza"	342	2020-08-07
+"Morona Santiago"	"Huamboya"	59	2020-08-07
+"Morona Santiago"	"Limón Indanza"	33	2020-08-07
+"Morona Santiago"	"Logroño"	96	2020-08-07
+"Morona Santiago"	"Morona"	757	2020-08-07
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-07
+"Morona Santiago"	"Palora"	176	2020-08-07
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-07
+"Morona Santiago"	"Santiago"	138	2020-08-07
+"Morona Santiago"	"Sucúa"	325	2020-08-07
+"Morona Santiago"	"Taisha"	100	2020-08-07
+"Morona Santiago"	"Tiwintza"	41	2020-08-07
+"Morona Santiago"	"Gualaquiza"	348	2020-08-08
+"Morona Santiago"	"Huamboya"	59	2020-08-08
+"Morona Santiago"	"Limón Indanza"	35	2020-08-08
+"Morona Santiago"	"Logroño"	97	2020-08-08
+"Morona Santiago"	"Morona"	765	2020-08-08
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-08
+"Morona Santiago"	"Palora"	176	2020-08-08
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-08
+"Morona Santiago"	"Santiago"	146	2020-08-08
+"Morona Santiago"	"Sucúa"	331	2020-08-08
+"Morona Santiago"	"Taisha"	102	2020-08-08
+"Morona Santiago"	"Tiwintza"	43	2020-08-08
+"Morona Santiago"	"Gualaquiza"	348	2020-08-09
+"Morona Santiago"	"Huamboya"	59	2020-08-09
+"Morona Santiago"	"Limón Indanza"	35	2020-08-09
+"Morona Santiago"	"Logroño"	97	2020-08-09
+"Morona Santiago"	"Morona"	765	2020-08-09
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-09
+"Morona Santiago"	"Palora"	176	2020-08-09
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-09
+"Morona Santiago"	"Santiago"	146	2020-08-09
+"Morona Santiago"	"Sucúa"	331	2020-08-09
+"Morona Santiago"	"Taisha"	102	2020-08-09
+"Morona Santiago"	"Tiwintza"	43	2020-08-09
+"Morona Santiago"	"Gualaquiza"	349	2020-08-10
+"Morona Santiago"	"Huamboya"	59	2020-08-10
+"Morona Santiago"	"Limón Indanza"	35	2020-08-10
+"Morona Santiago"	"Logroño"	97	2020-08-10
+"Morona Santiago"	"Morona"	765	2020-08-10
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-10
+"Morona Santiago"	"Palora"	176	2020-08-10
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-10
+"Morona Santiago"	"Santiago"	146	2020-08-10
+"Morona Santiago"	"Sucúa"	331	2020-08-10
+"Morona Santiago"	"Taisha"	102	2020-08-10
+"Morona Santiago"	"Tiwintza"	43	2020-08-10
+"Morona Santiago"	"Gualaquiza"	349	2020-08-11
+"Morona Santiago"	"Huamboya"	59	2020-08-11
+"Morona Santiago"	"Limón Indanza"	35	2020-08-11
+"Morona Santiago"	"Logroño"	97	2020-08-11
+"Morona Santiago"	"Morona"	772	2020-08-11
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-11
+"Morona Santiago"	"Palora"	176	2020-08-11
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-11
+"Morona Santiago"	"Santiago"	146	2020-08-11
+"Morona Santiago"	"Sucúa"	331	2020-08-11
+"Morona Santiago"	"Taisha"	108	2020-08-11
+"Morona Santiago"	"Tiwintza"	43	2020-08-11
+"Morona Santiago"	"Gualaquiza"	349	2020-08-12
+"Morona Santiago"	"Huamboya"	59	2020-08-12
+"Morona Santiago"	"Limón Indanza"	35	2020-08-12
+"Morona Santiago"	"Logroño"	97	2020-08-12
+"Morona Santiago"	"Morona"	772	2020-08-12
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-12
+"Morona Santiago"	"Palora"	178	2020-08-12
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-12
+"Morona Santiago"	"Santiago"	146	2020-08-12
+"Morona Santiago"	"Sucúa"	331	2020-08-12
+"Morona Santiago"	"Taisha"	108	2020-08-12
+"Morona Santiago"	"Tiwintza"	43	2020-08-12
+"Morona Santiago"	"Gualaquiza"	349	2020-08-13
+"Morona Santiago"	"Huamboya"	59	2020-08-13
+"Morona Santiago"	"Limón Indanza"	35	2020-08-13
+"Morona Santiago"	"Logroño"	97	2020-08-13
+"Morona Santiago"	"Morona"	782	2020-08-13
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-13
+"Morona Santiago"	"Palora"	183	2020-08-13
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-13
+"Morona Santiago"	"Santiago"	146	2020-08-13
+"Morona Santiago"	"Sucúa"	331	2020-08-13
+"Morona Santiago"	"Taisha"	108	2020-08-13
+"Morona Santiago"	"Tiwintza"	43	2020-08-13
+"Morona Santiago"	"Gualaquiza"	349	2020-08-14
+"Morona Santiago"	"Huamboya"	59	2020-08-14
+"Morona Santiago"	"Limón Indanza"	35	2020-08-14
+"Morona Santiago"	"Logroño"	97	2020-08-14
+"Morona Santiago"	"Morona"	799	2020-08-14
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-14
+"Morona Santiago"	"Palora"	191	2020-08-14
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-14
+"Morona Santiago"	"Santiago"	146	2020-08-14
+"Morona Santiago"	"Sucúa"	335	2020-08-14
+"Morona Santiago"	"Taisha"	110	2020-08-14
+"Morona Santiago"	"Tiwintza"	43	2020-08-14
+"Morona Santiago"	"Gualaquiza"	349	2020-08-15
+"Morona Santiago"	"Huamboya"	59	2020-08-15
+"Morona Santiago"	"Limón Indanza"	37	2020-08-15
+"Morona Santiago"	"Logroño"	97	2020-08-15
+"Morona Santiago"	"Morona"	804	2020-08-15
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-15
+"Morona Santiago"	"Palora"	191	2020-08-15
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-15
+"Morona Santiago"	"Santiago"	156	2020-08-15
+"Morona Santiago"	"Sucúa"	335	2020-08-15
+"Morona Santiago"	"Taisha"	117	2020-08-15
+"Morona Santiago"	"Tiwintza"	43	2020-08-15
+"Morona Santiago"	"Gualaquiza"	349	2020-08-16
+"Morona Santiago"	"Huamboya"	59	2020-08-16
+"Morona Santiago"	"Limón Indanza"	37	2020-08-16
+"Morona Santiago"	"Logroño"	97	2020-08-16
+"Morona Santiago"	"Morona"	815	2020-08-16
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-16
+"Morona Santiago"	"Palora"	191	2020-08-16
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-16
+"Morona Santiago"	"Santiago"	156	2020-08-16
+"Morona Santiago"	"Sucúa"	335	2020-08-16
+"Morona Santiago"	"Taisha"	117	2020-08-16
+"Morona Santiago"	"Tiwintza"	43	2020-08-16
+"Morona Santiago"	"Gualaquiza"	349	2020-08-17
+"Morona Santiago"	"Huamboya"	59	2020-08-17
+"Morona Santiago"	"Limón Indanza"	37	2020-08-17
+"Morona Santiago"	"Logroño"	97	2020-08-17
+"Morona Santiago"	"Morona"	815	2020-08-17
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-17
+"Morona Santiago"	"Palora"	191	2020-08-17
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-17
+"Morona Santiago"	"Santiago"	156	2020-08-17
+"Morona Santiago"	"Sucúa"	335	2020-08-17
+"Morona Santiago"	"Taisha"	117	2020-08-17
+"Morona Santiago"	"Tiwintza"	43	2020-08-17
+"Morona Santiago"	"Gualaquiza"	349	2020-08-18
+"Morona Santiago"	"Huamboya"	59	2020-08-18
+"Morona Santiago"	"Limón Indanza"	37	2020-08-18
+"Morona Santiago"	"Logroño"	97	2020-08-18
+"Morona Santiago"	"Morona"	817	2020-08-18
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-18
+"Morona Santiago"	"Palora"	194	2020-08-18
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-18
+"Morona Santiago"	"Santiago"	156	2020-08-18
+"Morona Santiago"	"Sucúa"	336	2020-08-18
+"Morona Santiago"	"Taisha"	117	2020-08-18
+"Morona Santiago"	"Tiwintza"	43	2020-08-18
+"Morona Santiago"	"Gualaquiza"	349	2020-08-19
+"Morona Santiago"	"Huamboya"	59	2020-08-19
+"Morona Santiago"	"Limón Indanza"	37	2020-08-19
+"Morona Santiago"	"Logroño"	97	2020-08-19
+"Morona Santiago"	"Morona"	830	2020-08-19
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-19
+"Morona Santiago"	"Palora"	194	2020-08-19
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-19
+"Morona Santiago"	"Santiago"	156	2020-08-19
+"Morona Santiago"	"Sucúa"	337	2020-08-19
+"Morona Santiago"	"Taisha"	117	2020-08-19
+"Morona Santiago"	"Tiwintza"	43	2020-08-19
+"Morona Santiago"	"Gualaquiza"	349	2020-08-20
+"Morona Santiago"	"Huamboya"	63	2020-08-20
+"Morona Santiago"	"Limón Indanza"	39	2020-08-20
+"Morona Santiago"	"Logroño"	97	2020-08-20
+"Morona Santiago"	"Morona"	836	2020-08-20
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-20
+"Morona Santiago"	"Palora"	194	2020-08-20
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-20
+"Morona Santiago"	"Santiago"	159	2020-08-20
+"Morona Santiago"	"Sucúa"	354	2020-08-20
+"Morona Santiago"	"Taisha"	117	2020-08-20
+"Morona Santiago"	"Tiwintza"	50	2020-08-20
+"Morona Santiago"	"Gualaquiza"	349	2020-08-21
+"Morona Santiago"	"Huamboya"	63	2020-08-21
+"Morona Santiago"	"Limón Indanza"	39	2020-08-21
+"Morona Santiago"	"Logroño"	97	2020-08-21
+"Morona Santiago"	"Morona"	846	2020-08-21
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-21
+"Morona Santiago"	"Palora"	194	2020-08-21
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-21
+"Morona Santiago"	"Santiago"	159	2020-08-21
+"Morona Santiago"	"Sucúa"	354	2020-08-21
+"Morona Santiago"	"Taisha"	117	2020-08-21
+"Morona Santiago"	"Tiwintza"	50	2020-08-21
+"Morona Santiago"	"Gualaquiza"	349	2020-08-22
+"Morona Santiago"	"Huamboya"	63	2020-08-22
+"Morona Santiago"	"Limón Indanza"	43	2020-08-22
+"Morona Santiago"	"Logroño"	97	2020-08-22
+"Morona Santiago"	"Morona"	846	2020-08-22
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-22
+"Morona Santiago"	"Palora"	194	2020-08-22
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-22
+"Morona Santiago"	"Santiago"	169	2020-08-22
+"Morona Santiago"	"Sucúa"	354	2020-08-22
+"Morona Santiago"	"Taisha"	117	2020-08-22
+"Morona Santiago"	"Tiwintza"	51	2020-08-22
+"Morona Santiago"	"Gualaquiza"	350	2020-08-23
+"Morona Santiago"	"Huamboya"	63	2020-08-23
+"Morona Santiago"	"Limón Indanza"	45	2020-08-23
+"Morona Santiago"	"Logroño"	97	2020-08-23
+"Morona Santiago"	"Morona"	866	2020-08-23
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-23
+"Morona Santiago"	"Palora"	194	2020-08-23
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-23
+"Morona Santiago"	"Santiago"	169	2020-08-23
+"Morona Santiago"	"Sucúa"	358	2020-08-23
+"Morona Santiago"	"Taisha"	131	2020-08-23
+"Morona Santiago"	"Tiwintza"	51	2020-08-23
+"Morona Santiago"	"Gualaquiza"	350	2020-08-24
+"Morona Santiago"	"Huamboya"	63	2020-08-24
+"Morona Santiago"	"Limón Indanza"	45	2020-08-24
+"Morona Santiago"	"Logroño"	97	2020-08-24
+"Morona Santiago"	"Morona"	866	2020-08-24
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-24
+"Morona Santiago"	"Palora"	194	2020-08-24
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-24
+"Morona Santiago"	"Santiago"	170	2020-08-24
+"Morona Santiago"	"Sucúa"	358	2020-08-24
+"Morona Santiago"	"Taisha"	131	2020-08-24
+"Morona Santiago"	"Tiwintza"	51	2020-08-24
+"Morona Santiago"	"Gualaquiza"	350	2020-08-25
+"Morona Santiago"	"Huamboya"	63	2020-08-25
+"Morona Santiago"	"Limón Indanza"	45	2020-08-25
+"Morona Santiago"	"Logroño"	97	2020-08-25
+"Morona Santiago"	"Morona"	868	2020-08-25
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-25
+"Morona Santiago"	"Palora"	194	2020-08-25
+"Morona Santiago"	"San Juan Bosco"	29	2020-08-25
+"Morona Santiago"	"Santiago"	170	2020-08-25
+"Morona Santiago"	"Sucúa"	358	2020-08-25
+"Morona Santiago"	"Taisha"	134	2020-08-25
+"Morona Santiago"	"Tiwintza"	51	2020-08-25
+"Morona Santiago"	"Gualaquiza"	350	2020-08-26
+"Morona Santiago"	"Huamboya"	63	2020-08-26
+"Morona Santiago"	"Limón Indanza"	45	2020-08-26
+"Morona Santiago"	"Logroño"	97	2020-08-26
+"Morona Santiago"	"Morona"	868	2020-08-26
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-26
+"Morona Santiago"	"Palora"	194	2020-08-26
+"Morona Santiago"	"San Juan Bosco"	31	2020-08-26
+"Morona Santiago"	"Santiago"	170	2020-08-26
+"Morona Santiago"	"Sucúa"	362	2020-08-26
+"Morona Santiago"	"Taisha"	134	2020-08-26
+"Morona Santiago"	"Tiwintza"	51	2020-08-26
+"Morona Santiago"	"Gualaquiza"	351	2020-08-27
+"Morona Santiago"	"Huamboya"	63	2020-08-27
+"Morona Santiago"	"Limón Indanza"	45	2020-08-27
+"Morona Santiago"	"Logroño"	97	2020-08-27
+"Morona Santiago"	"Morona"	873	2020-08-27
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-27
+"Morona Santiago"	"Palora"	194	2020-08-27
+"Morona Santiago"	"San Juan Bosco"	31	2020-08-27
+"Morona Santiago"	"Santiago"	171	2020-08-27
+"Morona Santiago"	"Sucúa"	362	2020-08-27
+"Morona Santiago"	"Taisha"	134	2020-08-27
+"Morona Santiago"	"Tiwintza"	51	2020-08-27
+"Morona Santiago"	"Gualaquiza"	355	2020-08-28
+"Morona Santiago"	"Huamboya"	63	2020-08-28
+"Morona Santiago"	"Limón Indanza"	50	2020-08-28
+"Morona Santiago"	"Logroño"	97	2020-08-28
+"Morona Santiago"	"Morona"	877	2020-08-28
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-28
+"Morona Santiago"	"Palora"	197	2020-08-28
+"Morona Santiago"	"San Juan Bosco"	31	2020-08-28
+"Morona Santiago"	"Santiago"	171	2020-08-28
+"Morona Santiago"	"Sucúa"	367	2020-08-28
+"Morona Santiago"	"Taisha"	134	2020-08-28
+"Morona Santiago"	"Tiwintza"	51	2020-08-28
+"Morona Santiago"	"Gualaquiza"	355	2020-08-29
+"Morona Santiago"	"Huamboya"	63	2020-08-29
+"Morona Santiago"	"Limón Indanza"	52	2020-08-29
+"Morona Santiago"	"Logroño"	97	2020-08-29
+"Morona Santiago"	"Morona"	877	2020-08-29
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-29
+"Morona Santiago"	"Palora"	197	2020-08-29
+"Morona Santiago"	"San Juan Bosco"	31	2020-08-29
+"Morona Santiago"	"Santiago"	171	2020-08-29
+"Morona Santiago"	"Sucúa"	367	2020-08-29
+"Morona Santiago"	"Taisha"	135	2020-08-29
+"Morona Santiago"	"Tiwintza"	51	2020-08-29
+"Morona Santiago"	"Gualaquiza"	358	2020-08-30
+"Morona Santiago"	"Huamboya"	63	2020-08-30
+"Morona Santiago"	"Limón Indanza"	52	2020-08-30
+"Morona Santiago"	"Logroño"	97	2020-08-30
+"Morona Santiago"	"Morona"	881	2020-08-30
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-30
+"Morona Santiago"	"Palora"	198	2020-08-30
+"Morona Santiago"	"San Juan Bosco"	31	2020-08-30
+"Morona Santiago"	"Santiago"	171	2020-08-30
+"Morona Santiago"	"Sucúa"	368	2020-08-30
+"Morona Santiago"	"Taisha"	152	2020-08-30
+"Morona Santiago"	"Tiwintza"	51	2020-08-30
+"Morona Santiago"	"Gualaquiza"	358	2020-08-31
+"Morona Santiago"	"Huamboya"	63	2020-08-31
+"Morona Santiago"	"Limón Indanza"	52	2020-08-31
+"Morona Santiago"	"Logroño"	97	2020-08-31
+"Morona Santiago"	"Morona"	881	2020-08-31
+"Morona Santiago"	"Pablo Sexto"	45	2020-08-31
+"Morona Santiago"	"Palora"	198	2020-08-31
+"Morona Santiago"	"San Juan Bosco"	31	2020-08-31
+"Morona Santiago"	"Santiago"	171	2020-08-31
+"Morona Santiago"	"Sucúa"	368	2020-08-31
+"Morona Santiago"	"Taisha"	152	2020-08-31
+"Morona Santiago"	"Tiwintza"	51	2020-08-31
+"Morona Santiago"	"Gualaquiza"	358	2020-09-01
+"Morona Santiago"	"Huamboya"	63	2020-09-01
+"Morona Santiago"	"Limón Indanza"	52	2020-09-01
+"Morona Santiago"	"Logroño"	97	2020-09-01
+"Morona Santiago"	"Morona"	881	2020-09-01
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-01
+"Morona Santiago"	"Palora"	198	2020-09-01
+"Morona Santiago"	"San Juan Bosco"	31	2020-09-01
+"Morona Santiago"	"Santiago"	171	2020-09-01
+"Morona Santiago"	"Sucúa"	368	2020-09-01
+"Morona Santiago"	"Taisha"	153	2020-09-01
+"Morona Santiago"	"Tiwintza"	51	2020-09-01
+"Morona Santiago"	"Gualaquiza"	361	2020-09-02
+"Morona Santiago"	"Huamboya"	63	2020-09-02
+"Morona Santiago"	"Limón Indanza"	52	2020-09-02
+"Morona Santiago"	"Logroño"	97	2020-09-02
+"Morona Santiago"	"Morona"	887	2020-09-02
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-02
+"Morona Santiago"	"Palora"	198	2020-09-02
+"Morona Santiago"	"San Juan Bosco"	31	2020-09-02
+"Morona Santiago"	"Santiago"	171	2020-09-02
+"Morona Santiago"	"Sucúa"	370	2020-09-02
+"Morona Santiago"	"Taisha"	153	2020-09-02
+"Morona Santiago"	"Tiwintza"	51	2020-09-02
+"Morona Santiago"	"Gualaquiza"	362	2020-09-03
+"Morona Santiago"	"Huamboya"	63	2020-09-03
+"Morona Santiago"	"Limón Indanza"	53	2020-09-03
+"Morona Santiago"	"Logroño"	97	2020-09-03
+"Morona Santiago"	"Morona"	889	2020-09-03
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-03
+"Morona Santiago"	"Palora"	198	2020-09-03
+"Morona Santiago"	"San Juan Bosco"	31	2020-09-03
+"Morona Santiago"	"Santiago"	171	2020-09-03
+"Morona Santiago"	"Sucúa"	370	2020-09-03
+"Morona Santiago"	"Taisha"	153	2020-09-03
+"Morona Santiago"	"Tiwintza"	51	2020-09-03
+"Morona Santiago"	"Gualaquiza"	363	2020-09-04
+"Morona Santiago"	"Huamboya"	64	2020-09-04
+"Morona Santiago"	"Limón Indanza"	56	2020-09-04
+"Morona Santiago"	"Logroño"	97	2020-09-04
+"Morona Santiago"	"Morona"	892	2020-09-04
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-04
+"Morona Santiago"	"Palora"	199	2020-09-04
+"Morona Santiago"	"San Juan Bosco"	31	2020-09-04
+"Morona Santiago"	"Santiago"	171	2020-09-04
+"Morona Santiago"	"Sucúa"	375	2020-09-04
+"Morona Santiago"	"Taisha"	154	2020-09-04
+"Morona Santiago"	"Tiwintza"	51	2020-09-04
+"Morona Santiago"	"Gualaquiza"	363	2020-09-05
+"Morona Santiago"	"Huamboya"	64	2020-09-05
+"Morona Santiago"	"Limón Indanza"	56	2020-09-05
+"Morona Santiago"	"Logroño"	97	2020-09-05
+"Morona Santiago"	"Morona"	895	2020-09-05
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-05
+"Morona Santiago"	"Palora"	201	2020-09-05
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-05
+"Morona Santiago"	"Santiago"	171	2020-09-05
+"Morona Santiago"	"Sucúa"	376	2020-09-05
+"Morona Santiago"	"Taisha"	154	2020-09-05
+"Morona Santiago"	"Tiwintza"	51	2020-09-05
+"Morona Santiago"	"Gualaquiza"	365	2020-09-06
+"Morona Santiago"	"Huamboya"	64	2020-09-06
+"Morona Santiago"	"Limón Indanza"	62	2020-09-06
+"Morona Santiago"	"Logroño"	97	2020-09-06
+"Morona Santiago"	"Morona"	898	2020-09-06
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-06
+"Morona Santiago"	"Palora"	201	2020-09-06
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-06
+"Morona Santiago"	"Santiago"	172	2020-09-06
+"Morona Santiago"	"Sucúa"	384	2020-09-06
+"Morona Santiago"	"Taisha"	154	2020-09-06
+"Morona Santiago"	"Tiwintza"	51	2020-09-06
+"Morona Santiago"	"Gualaquiza"	365	2020-09-07
+"Morona Santiago"	"Huamboya"	64	2020-09-07
+"Morona Santiago"	"Limón Indanza"	62	2020-09-07
+"Morona Santiago"	"Logroño"	97	2020-09-07
+"Morona Santiago"	"Morona"	898	2020-09-07
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-07
+"Morona Santiago"	"Palora"	201	2020-09-07
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-07
+"Morona Santiago"	"Santiago"	172	2020-09-07
+"Morona Santiago"	"Sucúa"	384	2020-09-07
+"Morona Santiago"	"Taisha"	154	2020-09-07
+"Morona Santiago"	"Tiwintza"	51	2020-09-07
+"Morona Santiago"	"Gualaquiza"	365	2020-09-08
+"Morona Santiago"	"Huamboya"	64	2020-09-08
+"Morona Santiago"	"Limón Indanza"	62	2020-09-08
+"Morona Santiago"	"Logroño"	97	2020-09-08
+"Morona Santiago"	"Morona"	899	2020-09-08
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-08
+"Morona Santiago"	"Palora"	201	2020-09-08
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-08
+"Morona Santiago"	"Santiago"	172	2020-09-08
+"Morona Santiago"	"Sucúa"	384	2020-09-08
+"Morona Santiago"	"Taisha"	154	2020-09-08
+"Morona Santiago"	"Tiwintza"	51	2020-09-08
+"Morona Santiago"	"Gualaquiza"	365	2020-09-09
+"Morona Santiago"	"Huamboya"	64	2020-09-09
+"Morona Santiago"	"Limón Indanza"	62	2020-09-09
+"Morona Santiago"	"Logroño"	97	2020-09-09
+"Morona Santiago"	"Morona"	901	2020-09-09
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-09
+"Morona Santiago"	"Palora"	201	2020-09-09
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-09
+"Morona Santiago"	"Santiago"	172	2020-09-09
+"Morona Santiago"	"Sucúa"	384	2020-09-09
+"Morona Santiago"	"Taisha"	154	2020-09-09
+"Morona Santiago"	"Tiwintza"	51	2020-09-09
+"Morona Santiago"	"Gualaquiza"	365	2020-09-10
+"Morona Santiago"	"Huamboya"	64	2020-09-10
+"Morona Santiago"	"Limón Indanza"	62	2020-09-10
+"Morona Santiago"	"Logroño"	97	2020-09-10
+"Morona Santiago"	"Morona"	902	2020-09-10
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-10
+"Morona Santiago"	"Palora"	201	2020-09-10
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-10
+"Morona Santiago"	"Santiago"	172	2020-09-10
+"Morona Santiago"	"Sucúa"	384	2020-09-10
+"Morona Santiago"	"Taisha"	154	2020-09-10
+"Morona Santiago"	"Tiwintza"	51	2020-09-10
+"Morona Santiago"	"Gualaquiza"	368	2020-09-11
+"Morona Santiago"	"Huamboya"	64	2020-09-11
+"Morona Santiago"	"Limón Indanza"	66	2020-09-11
+"Morona Santiago"	"Logroño"	97	2020-09-11
+"Morona Santiago"	"Morona"	914	2020-09-11
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-11
+"Morona Santiago"	"Palora"	201	2020-09-11
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-11
+"Morona Santiago"	"Santiago"	175	2020-09-11
+"Morona Santiago"	"Sucúa"	390	2020-09-11
+"Morona Santiago"	"Taisha"	154	2020-09-11
+"Morona Santiago"	"Tiwintza"	51	2020-09-11
+"Morona Santiago"	"Gualaquiza"	368	2020-09-12
+"Morona Santiago"	"Huamboya"	64	2020-09-12
+"Morona Santiago"	"Limón Indanza"	67	2020-09-12
+"Morona Santiago"	"Logroño"	97	2020-09-12
+"Morona Santiago"	"Morona"	914	2020-09-12
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-12
+"Morona Santiago"	"Palora"	201	2020-09-12
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-12
+"Morona Santiago"	"Santiago"	175	2020-09-12
+"Morona Santiago"	"Sucúa"	390	2020-09-12
+"Morona Santiago"	"Taisha"	154	2020-09-12
+"Morona Santiago"	"Tiwintza"	51	2020-09-12
+"Morona Santiago"	"Gualaquiza"	373	2020-09-13
+"Morona Santiago"	"Huamboya"	64	2020-09-13
+"Morona Santiago"	"Limón Indanza"	67	2020-09-13
+"Morona Santiago"	"Logroño"	97	2020-09-13
+"Morona Santiago"	"Morona"	926	2020-09-13
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-13
+"Morona Santiago"	"Palora"	201	2020-09-13
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-13
+"Morona Santiago"	"Santiago"	175	2020-09-13
+"Morona Santiago"	"Sucúa"	393	2020-09-13
+"Morona Santiago"	"Taisha"	154	2020-09-13
+"Morona Santiago"	"Tiwintza"	51	2020-09-13
+"Morona Santiago"	"Gualaquiza"	373	2020-09-14
+"Morona Santiago"	"Huamboya"	64	2020-09-14
+"Morona Santiago"	"Limón Indanza"	67	2020-09-14
+"Morona Santiago"	"Logroño"	97	2020-09-14
+"Morona Santiago"	"Morona"	926	2020-09-14
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-14
+"Morona Santiago"	"Palora"	201	2020-09-14
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-14
+"Morona Santiago"	"Santiago"	175	2020-09-14
+"Morona Santiago"	"Sucúa"	393	2020-09-14
+"Morona Santiago"	"Taisha"	154	2020-09-14
+"Morona Santiago"	"Tiwintza"	51	2020-09-14
+"Morona Santiago"	"Gualaquiza"	374	2020-09-15
+"Morona Santiago"	"Huamboya"	64	2020-09-15
+"Morona Santiago"	"Limón Indanza"	67	2020-09-15
+"Morona Santiago"	"Logroño"	97	2020-09-15
+"Morona Santiago"	"Morona"	926	2020-09-15
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-15
+"Morona Santiago"	"Palora"	201	2020-09-15
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-15
+"Morona Santiago"	"Santiago"	175	2020-09-15
+"Morona Santiago"	"Sucúa"	393	2020-09-15
+"Morona Santiago"	"Taisha"	154	2020-09-15
+"Morona Santiago"	"Tiwintza"	51	2020-09-15
+"Morona Santiago"	"Gualaquiza"	374	2020-09-16
+"Morona Santiago"	"Huamboya"	64	2020-09-16
+"Morona Santiago"	"Limón Indanza"	67	2020-09-16
+"Morona Santiago"	"Logroño"	97	2020-09-16
+"Morona Santiago"	"Morona"	952	2020-09-16
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-16
+"Morona Santiago"	"Palora"	201	2020-09-16
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-16
+"Morona Santiago"	"Santiago"	175	2020-09-16
+"Morona Santiago"	"Sucúa"	395	2020-09-16
+"Morona Santiago"	"Taisha"	154	2020-09-16
+"Morona Santiago"	"Tiwintza"	52	2020-09-16
+"Morona Santiago"	"Gualaquiza"	375	2020-09-17
+"Morona Santiago"	"Huamboya"	64	2020-09-17
+"Morona Santiago"	"Limón Indanza"	72	2020-09-17
+"Morona Santiago"	"Logroño"	97	2020-09-17
+"Morona Santiago"	"Morona"	955	2020-09-17
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-17
+"Morona Santiago"	"Palora"	201	2020-09-17
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-17
+"Morona Santiago"	"Santiago"	178	2020-09-17
+"Morona Santiago"	"Sucúa"	396	2020-09-17
+"Morona Santiago"	"Taisha"	155	2020-09-17
+"Morona Santiago"	"Tiwintza"	52	2020-09-17
+"Morona Santiago"	"Gualaquiza"	375	2020-09-18
+"Morona Santiago"	"Huamboya"	64	2020-09-18
+"Morona Santiago"	"Limón Indanza"	72	2020-09-18
+"Morona Santiago"	"Logroño"	97	2020-09-18
+"Morona Santiago"	"Morona"	962	2020-09-18
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-18
+"Morona Santiago"	"Palora"	202	2020-09-18
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-18
+"Morona Santiago"	"Santiago"	178	2020-09-18
+"Morona Santiago"	"Sucúa"	396	2020-09-18
+"Morona Santiago"	"Taisha"	155	2020-09-18
+"Morona Santiago"	"Tiwintza"	52	2020-09-18
+"Morona Santiago"	"Gualaquiza"	375	2020-09-19
+"Morona Santiago"	"Huamboya"	64	2020-09-19
+"Morona Santiago"	"Limón Indanza"	72	2020-09-19
+"Morona Santiago"	"Logroño"	97	2020-09-19
+"Morona Santiago"	"Morona"	962	2020-09-19
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-19
+"Morona Santiago"	"Palora"	203	2020-09-19
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-19
+"Morona Santiago"	"Santiago"	178	2020-09-19
+"Morona Santiago"	"Sucúa"	396	2020-09-19
+"Morona Santiago"	"Taisha"	155	2020-09-19
+"Morona Santiago"	"Tiwintza"	52	2020-09-19
+"Morona Santiago"	"Gualaquiza"	377	2020-09-20
+"Morona Santiago"	"Huamboya"	64	2020-09-20
+"Morona Santiago"	"Limón Indanza"	74	2020-09-20
+"Morona Santiago"	"Logroño"	97	2020-09-20
+"Morona Santiago"	"Morona"	969	2020-09-20
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-20
+"Morona Santiago"	"Palora"	205	2020-09-20
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-20
+"Morona Santiago"	"Santiago"	179	2020-09-20
+"Morona Santiago"	"Sucúa"	398	2020-09-20
+"Morona Santiago"	"Taisha"	155	2020-09-20
+"Morona Santiago"	"Tiwintza"	52	2020-09-20
+"Morona Santiago"	"Gualaquiza"	378	2020-09-21
+"Morona Santiago"	"Huamboya"	64	2020-09-21
+"Morona Santiago"	"Limón Indanza"	74	2020-09-21
+"Morona Santiago"	"Logroño"	97	2020-09-21
+"Morona Santiago"	"Morona"	970	2020-09-21
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-21
+"Morona Santiago"	"Palora"	205	2020-09-21
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-21
+"Morona Santiago"	"Santiago"	179	2020-09-21
+"Morona Santiago"	"Sucúa"	398	2020-09-21
+"Morona Santiago"	"Taisha"	155	2020-09-21
+"Morona Santiago"	"Tiwintza"	53	2020-09-21
+"Morona Santiago"	"Gualaquiza"	378	2020-09-22
+"Morona Santiago"	"Huamboya"	64	2020-09-22
+"Morona Santiago"	"Limón Indanza"	74	2020-09-22
+"Morona Santiago"	"Logroño"	97	2020-09-22
+"Morona Santiago"	"Morona"	972	2020-09-22
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-22
+"Morona Santiago"	"Palora"	205	2020-09-22
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-22
+"Morona Santiago"	"Santiago"	180	2020-09-22
+"Morona Santiago"	"Sucúa"	398	2020-09-22
+"Morona Santiago"	"Taisha"	155	2020-09-22
+"Morona Santiago"	"Tiwintza"	53	2020-09-22
+"Morona Santiago"	"Gualaquiza"	378	2020-09-23
+"Morona Santiago"	"Huamboya"	64	2020-09-23
+"Morona Santiago"	"Limón Indanza"	75	2020-09-23
+"Morona Santiago"	"Logroño"	97	2020-09-23
+"Morona Santiago"	"Morona"	972	2020-09-23
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-23
+"Morona Santiago"	"Palora"	205	2020-09-23
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-23
+"Morona Santiago"	"Santiago"	181	2020-09-23
+"Morona Santiago"	"Sucúa"	402	2020-09-23
+"Morona Santiago"	"Taisha"	155	2020-09-23
+"Morona Santiago"	"Tiwintza"	53	2020-09-23
+"Morona Santiago"	"Gualaquiza"	378	2020-09-24
+"Morona Santiago"	"Huamboya"	64	2020-09-24
+"Morona Santiago"	"Limón Indanza"	91	2020-09-24
+"Morona Santiago"	"Logroño"	97	2020-09-24
+"Morona Santiago"	"Morona"	972	2020-09-24
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-24
+"Morona Santiago"	"Palora"	205	2020-09-24
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-24
+"Morona Santiago"	"Santiago"	187	2020-09-24
+"Morona Santiago"	"Sucúa"	402	2020-09-24
+"Morona Santiago"	"Taisha"	155	2020-09-24
+"Morona Santiago"	"Tiwintza"	53	2020-09-24
+"Morona Santiago"	"Gualaquiza"	378	2020-09-25
+"Morona Santiago"	"Huamboya"	64	2020-09-25
+"Morona Santiago"	"Limón Indanza"	91	2020-09-25
+"Morona Santiago"	"Logroño"	97	2020-09-25
+"Morona Santiago"	"Morona"	979	2020-09-25
+"Morona Santiago"	"Pablo Sexto"	45	2020-09-25
+"Morona Santiago"	"Palora"	205	2020-09-25
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-25
+"Morona Santiago"	"Santiago"	187	2020-09-25
+"Morona Santiago"	"Sucúa"	403	2020-09-25
+"Morona Santiago"	"Taisha"	155	2020-09-25
+"Morona Santiago"	"Tiwintza"	53	2020-09-25
+"Morona Santiago"	"Gualaquiza"	385	2020-09-26
+"Morona Santiago"	"Huamboya"	64	2020-09-26
+"Morona Santiago"	"Limón Indanza"	96	2020-09-26
+"Morona Santiago"	"Logroño"	97	2020-09-26
+"Morona Santiago"	"Morona"	979	2020-09-26
+"Morona Santiago"	"Pablo Sexto"	46	2020-09-26
+"Morona Santiago"	"Palora"	205	2020-09-26
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-26
+"Morona Santiago"	"Santiago"	187	2020-09-26
+"Morona Santiago"	"Sucúa"	405	2020-09-26
+"Morona Santiago"	"Taisha"	155	2020-09-26
+"Morona Santiago"	"Tiwintza"	53	2020-09-26
+"Morona Santiago"	"Gualaquiza"	385	2020-09-27
+"Morona Santiago"	"Huamboya"	64	2020-09-27
+"Morona Santiago"	"Limón Indanza"	96	2020-09-27
+"Morona Santiago"	"Logroño"	97	2020-09-27
+"Morona Santiago"	"Morona"	980	2020-09-27
+"Morona Santiago"	"Pablo Sexto"	46	2020-09-27
+"Morona Santiago"	"Palora"	205	2020-09-27
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-27
+"Morona Santiago"	"Santiago"	187	2020-09-27
+"Morona Santiago"	"Sucúa"	405	2020-09-27
+"Morona Santiago"	"Taisha"	155	2020-09-27
+"Morona Santiago"	"Tiwintza"	53	2020-09-27
+"Morona Santiago"	"Gualaquiza"	385	2020-09-28
+"Morona Santiago"	"Huamboya"	64	2020-09-28
+"Morona Santiago"	"Limón Indanza"	96	2020-09-28
+"Morona Santiago"	"Logroño"	97	2020-09-28
+"Morona Santiago"	"Morona"	980	2020-09-28
+"Morona Santiago"	"Pablo Sexto"	46	2020-09-28
+"Morona Santiago"	"Palora"	205	2020-09-28
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-28
+"Morona Santiago"	"Santiago"	187	2020-09-28
+"Morona Santiago"	"Sucúa"	405	2020-09-28
+"Morona Santiago"	"Taisha"	155	2020-09-28
+"Morona Santiago"	"Tiwintza"	53	2020-09-28
+"Morona Santiago"	"Gualaquiza"	387	2020-09-29
+"Morona Santiago"	"Huamboya"	64	2020-09-29
+"Morona Santiago"	"Limón Indanza"	96	2020-09-29
+"Morona Santiago"	"Logroño"	98	2020-09-29
+"Morona Santiago"	"Morona"	980	2020-09-29
+"Morona Santiago"	"Pablo Sexto"	46	2020-09-29
+"Morona Santiago"	"Palora"	205	2020-09-29
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-29
+"Morona Santiago"	"Santiago"	187	2020-09-29
+"Morona Santiago"	"Sucúa"	406	2020-09-29
+"Morona Santiago"	"Taisha"	155	2020-09-29
+"Morona Santiago"	"Tiwintza"	53	2020-09-29
+"Morona Santiago"	"Gualaquiza"	388	2020-09-30
+"Morona Santiago"	"Huamboya"	64	2020-09-30
+"Morona Santiago"	"Limón Indanza"	97	2020-09-30
+"Morona Santiago"	"Logroño"	98	2020-09-30
+"Morona Santiago"	"Morona"	980	2020-09-30
+"Morona Santiago"	"Pablo Sexto"	46	2020-09-30
+"Morona Santiago"	"Palora"	205	2020-09-30
+"Morona Santiago"	"San Juan Bosco"	32	2020-09-30
+"Morona Santiago"	"Santiago"	189	2020-09-30
+"Morona Santiago"	"Sucúa"	407	2020-09-30
+"Morona Santiago"	"Taisha"	155	2020-09-30
+"Morona Santiago"	"Tiwintza"	53	2020-09-30
+"Morona Santiago"	"Gualaquiza"	388	2020-10-01
+"Morona Santiago"	"Huamboya"	64	2020-10-01
+"Morona Santiago"	"Limón Indanza"	98	2020-10-01
+"Morona Santiago"	"Logroño"	98	2020-10-01
+"Morona Santiago"	"Morona"	990	2020-10-01
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-01
+"Morona Santiago"	"Palora"	205	2020-10-01
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-01
+"Morona Santiago"	"Santiago"	189	2020-10-01
+"Morona Santiago"	"Sucúa"	411	2020-10-01
+"Morona Santiago"	"Taisha"	155	2020-10-01
+"Morona Santiago"	"Tiwintza"	53	2020-10-01
+"Morona Santiago"	"Gualaquiza"	388	2020-10-02
+"Morona Santiago"	"Huamboya"	64	2020-10-02
+"Morona Santiago"	"Limón Indanza"	98	2020-10-02
+"Morona Santiago"	"Logroño"	98	2020-10-02
+"Morona Santiago"	"Morona"	994	2020-10-02
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-02
+"Morona Santiago"	"Palora"	205	2020-10-02
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-02
+"Morona Santiago"	"Santiago"	189	2020-10-02
+"Morona Santiago"	"Sucúa"	411	2020-10-02
+"Morona Santiago"	"Taisha"	155	2020-10-02
+"Morona Santiago"	"Tiwintza"	53	2020-10-02
+"Morona Santiago"	"Gualaquiza"	389	2020-10-03
+"Morona Santiago"	"Huamboya"	64	2020-10-03
+"Morona Santiago"	"Limón Indanza"	101	2020-10-03
+"Morona Santiago"	"Logroño"	98	2020-10-03
+"Morona Santiago"	"Morona"	994	2020-10-03
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-03
+"Morona Santiago"	"Palora"	205	2020-10-03
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-03
+"Morona Santiago"	"Santiago"	189	2020-10-03
+"Morona Santiago"	"Sucúa"	411	2020-10-03
+"Morona Santiago"	"Taisha"	155	2020-10-03
+"Morona Santiago"	"Tiwintza"	53	2020-10-03
+"Morona Santiago"	"Gualaquiza"	391	2020-10-04
+"Morona Santiago"	"Huamboya"	64	2020-10-04
+"Morona Santiago"	"Limón Indanza"	101	2020-10-04
+"Morona Santiago"	"Logroño"	104	2020-10-04
+"Morona Santiago"	"Morona"	1005	2020-10-04
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-04
+"Morona Santiago"	"Palora"	205	2020-10-04
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-04
+"Morona Santiago"	"Santiago"	190	2020-10-04
+"Morona Santiago"	"Sucúa"	413	2020-10-04
+"Morona Santiago"	"Taisha"	155	2020-10-04
+"Morona Santiago"	"Tiwintza"	53	2020-10-04
+"Morona Santiago"	"Gualaquiza"	391	2020-10-05
+"Morona Santiago"	"Huamboya"	64	2020-10-05
+"Morona Santiago"	"Limón Indanza"	101	2020-10-05
+"Morona Santiago"	"Logroño"	104	2020-10-05
+"Morona Santiago"	"Morona"	1005	2020-10-05
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-05
+"Morona Santiago"	"Palora"	205	2020-10-05
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-05
+"Morona Santiago"	"Santiago"	190	2020-10-05
+"Morona Santiago"	"Sucúa"	413	2020-10-05
+"Morona Santiago"	"Taisha"	155	2020-10-05
+"Morona Santiago"	"Tiwintza"	53	2020-10-05
+"Morona Santiago"	"Gualaquiza"	391	2020-10-06
+"Morona Santiago"	"Huamboya"	64	2020-10-06
+"Morona Santiago"	"Limón Indanza"	101	2020-10-06
+"Morona Santiago"	"Logroño"	104	2020-10-06
+"Morona Santiago"	"Morona"	1005	2020-10-06
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-06
+"Morona Santiago"	"Palora"	205	2020-10-06
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-06
+"Morona Santiago"	"Santiago"	190	2020-10-06
+"Morona Santiago"	"Sucúa"	413	2020-10-06
+"Morona Santiago"	"Taisha"	155	2020-10-06
+"Morona Santiago"	"Tiwintza"	53	2020-10-06
+"Morona Santiago"	"Gualaquiza"	392	2020-10-07
+"Morona Santiago"	"Huamboya"	64	2020-10-07
+"Morona Santiago"	"Limón Indanza"	101	2020-10-07
+"Morona Santiago"	"Logroño"	104	2020-10-07
+"Morona Santiago"	"Morona"	1005	2020-10-07
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-07
+"Morona Santiago"	"Palora"	205	2020-10-07
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-07
+"Morona Santiago"	"Santiago"	190	2020-10-07
+"Morona Santiago"	"Sucúa"	414	2020-10-07
+"Morona Santiago"	"Taisha"	155	2020-10-07
+"Morona Santiago"	"Tiwintza"	53	2020-10-07
+"Morona Santiago"	"Gualaquiza"	401	2020-10-08
+"Morona Santiago"	"Huamboya"	64	2020-10-08
+"Morona Santiago"	"Limón Indanza"	103	2020-10-08
+"Morona Santiago"	"Logroño"	104	2020-10-08
+"Morona Santiago"	"Morona"	1005	2020-10-08
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-08
+"Morona Santiago"	"Palora"	205	2020-10-08
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-08
+"Morona Santiago"	"Santiago"	190	2020-10-08
+"Morona Santiago"	"Sucúa"	415	2020-10-08
+"Morona Santiago"	"Taisha"	155	2020-10-08
+"Morona Santiago"	"Tiwintza"	53	2020-10-08
+"Morona Santiago"	"Gualaquiza"	401	2020-10-09
+"Morona Santiago"	"Huamboya"	64	2020-10-09
+"Morona Santiago"	"Limón Indanza"	103	2020-10-09
+"Morona Santiago"	"Logroño"	104	2020-10-09
+"Morona Santiago"	"Morona"	1005	2020-10-09
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-09
+"Morona Santiago"	"Palora"	205	2020-10-09
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-09
+"Morona Santiago"	"Santiago"	190	2020-10-09
+"Morona Santiago"	"Sucúa"	415	2020-10-09
+"Morona Santiago"	"Taisha"	155	2020-10-09
+"Morona Santiago"	"Tiwintza"	53	2020-10-09
+"Morona Santiago"	"Gualaquiza"	402	2020-10-10
+"Morona Santiago"	"Huamboya"	65	2020-10-10
+"Morona Santiago"	"Limón Indanza"	106	2020-10-10
+"Morona Santiago"	"Logroño"	104	2020-10-10
+"Morona Santiago"	"Morona"	1042	2020-10-10
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-10
+"Morona Santiago"	"Palora"	205	2020-10-10
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-10
+"Morona Santiago"	"Santiago"	190	2020-10-10
+"Morona Santiago"	"Sucúa"	415	2020-10-10
+"Morona Santiago"	"Taisha"	155	2020-10-10
+"Morona Santiago"	"Tiwintza"	53	2020-10-10
+"Morona Santiago"	"Gualaquiza"	402	2020-10-11
+"Morona Santiago"	"Huamboya"	65	2020-10-11
+"Morona Santiago"	"Limón Indanza"	106	2020-10-11
+"Morona Santiago"	"Logroño"	104	2020-10-11
+"Morona Santiago"	"Morona"	1042	2020-10-11
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-11
+"Morona Santiago"	"Palora"	205	2020-10-11
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-11
+"Morona Santiago"	"Santiago"	190	2020-10-11
+"Morona Santiago"	"Sucúa"	415	2020-10-11
+"Morona Santiago"	"Taisha"	155	2020-10-11
+"Morona Santiago"	"Tiwintza"	53	2020-10-11
+"Morona Santiago"	"Gualaquiza"	402	2020-10-12
+"Morona Santiago"	"Huamboya"	65	2020-10-12
+"Morona Santiago"	"Limón Indanza"	106	2020-10-12
+"Morona Santiago"	"Logroño"	104	2020-10-12
+"Morona Santiago"	"Morona"	1043	2020-10-12
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-12
+"Morona Santiago"	"Palora"	205	2020-10-12
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-12
+"Morona Santiago"	"Santiago"	190	2020-10-12
+"Morona Santiago"	"Sucúa"	415	2020-10-12
+"Morona Santiago"	"Taisha"	155	2020-10-12
+"Morona Santiago"	"Tiwintza"	53	2020-10-12
+"Morona Santiago"	"Gualaquiza"	402	2020-10-13
+"Morona Santiago"	"Huamboya"	65	2020-10-13
+"Morona Santiago"	"Limón Indanza"	106	2020-10-13
+"Morona Santiago"	"Logroño"	104	2020-10-13
+"Morona Santiago"	"Morona"	1043	2020-10-13
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-13
+"Morona Santiago"	"Palora"	205	2020-10-13
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-13
+"Morona Santiago"	"Santiago"	190	2020-10-13
+"Morona Santiago"	"Sucúa"	415	2020-10-13
+"Morona Santiago"	"Taisha"	155	2020-10-13
+"Morona Santiago"	"Tiwintza"	53	2020-10-13
+"Morona Santiago"	"Gualaquiza"	409	2020-10-14
+"Morona Santiago"	"Huamboya"	65	2020-10-14
+"Morona Santiago"	"Limón Indanza"	106	2020-10-14
+"Morona Santiago"	"Logroño"	104	2020-10-14
+"Morona Santiago"	"Morona"	1043	2020-10-14
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-14
+"Morona Santiago"	"Palora"	205	2020-10-14
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-14
+"Morona Santiago"	"Santiago"	190	2020-10-14
+"Morona Santiago"	"Sucúa"	415	2020-10-14
+"Morona Santiago"	"Taisha"	155	2020-10-14
+"Morona Santiago"	"Tiwintza"	53	2020-10-14
+"Morona Santiago"	"Gualaquiza"	409	2020-10-15
+"Morona Santiago"	"Huamboya"	65	2020-10-15
+"Morona Santiago"	"Limón Indanza"	112	2020-10-15
+"Morona Santiago"	"Logroño"	104	2020-10-15
+"Morona Santiago"	"Morona"	1043	2020-10-15
+"Morona Santiago"	"Pablo Sexto"	47	2020-10-15
+"Morona Santiago"	"Palora"	205	2020-10-15
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-15
+"Morona Santiago"	"Santiago"	191	2020-10-15
+"Morona Santiago"	"Sucúa"	415	2020-10-15
+"Morona Santiago"	"Taisha"	155	2020-10-15
+"Morona Santiago"	"Tiwintza"	53	2020-10-15
+"Morona Santiago"	"Gualaquiza"	410	2020-10-16
+"Morona Santiago"	"Huamboya"	65	2020-10-16
+"Morona Santiago"	"Limón Indanza"	112	2020-10-16
+"Morona Santiago"	"Logroño"	105	2020-10-16
+"Morona Santiago"	"Morona"	1058	2020-10-16
+"Morona Santiago"	"Pablo Sexto"	49	2020-10-16
+"Morona Santiago"	"Palora"	205	2020-10-16
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-16
+"Morona Santiago"	"Santiago"	191	2020-10-16
+"Morona Santiago"	"Sucúa"	418	2020-10-16
+"Morona Santiago"	"Taisha"	155	2020-10-16
+"Morona Santiago"	"Tiwintza"	53	2020-10-16
+"Morona Santiago"	"Gualaquiza"	413	2020-10-17
+"Morona Santiago"	"Huamboya"	66	2020-10-17
+"Morona Santiago"	"Limón Indanza"	117	2020-10-17
+"Morona Santiago"	"Logroño"	105	2020-10-17
+"Morona Santiago"	"Morona"	1060	2020-10-17
+"Morona Santiago"	"Pablo Sexto"	49	2020-10-17
+"Morona Santiago"	"Palora"	205	2020-10-17
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-17
+"Morona Santiago"	"Santiago"	192	2020-10-17
+"Morona Santiago"	"Sucúa"	418	2020-10-17
+"Morona Santiago"	"Taisha"	155	2020-10-17
+"Morona Santiago"	"Tiwintza"	53	2020-10-17
+"Morona Santiago"	"Gualaquiza"	413	2020-10-18
+"Morona Santiago"	"Huamboya"	67	2020-10-18
+"Morona Santiago"	"Limón Indanza"	120	2020-10-18
+"Morona Santiago"	"Logroño"	105	2020-10-18
+"Morona Santiago"	"Morona"	1064	2020-10-18
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-18
+"Morona Santiago"	"Palora"	205	2020-10-18
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-18
+"Morona Santiago"	"Santiago"	192	2020-10-18
+"Morona Santiago"	"Sucúa"	419	2020-10-18
+"Morona Santiago"	"Taisha"	155	2020-10-18
+"Morona Santiago"	"Tiwintza"	53	2020-10-18
+"Morona Santiago"	"Gualaquiza"	413	2020-10-19
+"Morona Santiago"	"Huamboya"	67	2020-10-19
+"Morona Santiago"	"Limón Indanza"	120	2020-10-19
+"Morona Santiago"	"Logroño"	105	2020-10-19
+"Morona Santiago"	"Morona"	1064	2020-10-19
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-19
+"Morona Santiago"	"Palora"	205	2020-10-19
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-19
+"Morona Santiago"	"Santiago"	192	2020-10-19
+"Morona Santiago"	"Sucúa"	419	2020-10-19
+"Morona Santiago"	"Taisha"	155	2020-10-19
+"Morona Santiago"	"Tiwintza"	53	2020-10-19
+"Morona Santiago"	"Gualaquiza"	413	2020-10-20
+"Morona Santiago"	"Huamboya"	67	2020-10-20
+"Morona Santiago"	"Limón Indanza"	120	2020-10-20
+"Morona Santiago"	"Logroño"	105	2020-10-20
+"Morona Santiago"	"Morona"	1064	2020-10-20
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-20
+"Morona Santiago"	"Palora"	205	2020-10-20
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-20
+"Morona Santiago"	"Santiago"	192	2020-10-20
+"Morona Santiago"	"Sucúa"	419	2020-10-20
+"Morona Santiago"	"Taisha"	155	2020-10-20
+"Morona Santiago"	"Tiwintza"	53	2020-10-20
+"Morona Santiago"	"Gualaquiza"	416	2020-10-21
+"Morona Santiago"	"Huamboya"	67	2020-10-21
+"Morona Santiago"	"Limón Indanza"	120	2020-10-21
+"Morona Santiago"	"Logroño"	105	2020-10-21
+"Morona Santiago"	"Morona"	1064	2020-10-21
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-21
+"Morona Santiago"	"Palora"	205	2020-10-21
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-21
+"Morona Santiago"	"Santiago"	192	2020-10-21
+"Morona Santiago"	"Sucúa"	421	2020-10-21
+"Morona Santiago"	"Taisha"	155	2020-10-21
+"Morona Santiago"	"Tiwintza"	53	2020-10-21
+"Morona Santiago"	"Gualaquiza"	416	2020-10-22
+"Morona Santiago"	"Huamboya"	67	2020-10-22
+"Morona Santiago"	"Limón Indanza"	122	2020-10-22
+"Morona Santiago"	"Logroño"	105	2020-10-22
+"Morona Santiago"	"Morona"	1065	2020-10-22
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-22
+"Morona Santiago"	"Palora"	205	2020-10-22
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-22
+"Morona Santiago"	"Santiago"	193	2020-10-22
+"Morona Santiago"	"Sucúa"	421	2020-10-22
+"Morona Santiago"	"Taisha"	158	2020-10-22
+"Morona Santiago"	"Tiwintza"	53	2020-10-22
+"Morona Santiago"	"Gualaquiza"	416	2020-10-23
+"Morona Santiago"	"Huamboya"	67	2020-10-23
+"Morona Santiago"	"Limón Indanza"	123	2020-10-23
+"Morona Santiago"	"Logroño"	105	2020-10-23
+"Morona Santiago"	"Morona"	1077	2020-10-23
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-23
+"Morona Santiago"	"Palora"	205	2020-10-23
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-23
+"Morona Santiago"	"Santiago"	193	2020-10-23
+"Morona Santiago"	"Sucúa"	422	2020-10-23
+"Morona Santiago"	"Taisha"	158	2020-10-23
+"Morona Santiago"	"Tiwintza"	53	2020-10-23
+"Morona Santiago"	"Gualaquiza"	416	2020-10-24
+"Morona Santiago"	"Huamboya"	67	2020-10-24
+"Morona Santiago"	"Limón Indanza"	126	2020-10-24
+"Morona Santiago"	"Logroño"	105	2020-10-24
+"Morona Santiago"	"Morona"	1078	2020-10-24
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-24
+"Morona Santiago"	"Palora"	205	2020-10-24
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-24
+"Morona Santiago"	"Santiago"	193	2020-10-24
+"Morona Santiago"	"Sucúa"	422	2020-10-24
+"Morona Santiago"	"Taisha"	158	2020-10-24
+"Morona Santiago"	"Tiwintza"	53	2020-10-24
+"Morona Santiago"	"Gualaquiza"	416	2020-10-25
+"Morona Santiago"	"Huamboya"	67	2020-10-25
+"Morona Santiago"	"Limón Indanza"	126	2020-10-25
+"Morona Santiago"	"Logroño"	105	2020-10-25
+"Morona Santiago"	"Morona"	1093	2020-10-25
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-25
+"Morona Santiago"	"Palora"	205	2020-10-25
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-25
+"Morona Santiago"	"Santiago"	193	2020-10-25
+"Morona Santiago"	"Sucúa"	422	2020-10-25
+"Morona Santiago"	"Taisha"	158	2020-10-25
+"Morona Santiago"	"Tiwintza"	53	2020-10-25
+"Morona Santiago"	"Gualaquiza"	416	2020-10-26
+"Morona Santiago"	"Huamboya"	67	2020-10-26
+"Morona Santiago"	"Limón Indanza"	126	2020-10-26
+"Morona Santiago"	"Logroño"	105	2020-10-26
+"Morona Santiago"	"Morona"	1093	2020-10-26
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-26
+"Morona Santiago"	"Palora"	205	2020-10-26
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-26
+"Morona Santiago"	"Santiago"	193	2020-10-26
+"Morona Santiago"	"Sucúa"	422	2020-10-26
+"Morona Santiago"	"Taisha"	158	2020-10-26
+"Morona Santiago"	"Tiwintza"	53	2020-10-26
+"Morona Santiago"	"Gualaquiza"	416	2020-10-27
+"Morona Santiago"	"Huamboya"	68	2020-10-27
+"Morona Santiago"	"Limón Indanza"	126	2020-10-27
+"Morona Santiago"	"Logroño"	105	2020-10-27
+"Morona Santiago"	"Morona"	1093	2020-10-27
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-27
+"Morona Santiago"	"Palora"	205	2020-10-27
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-27
+"Morona Santiago"	"Santiago"	193	2020-10-27
+"Morona Santiago"	"Sucúa"	422	2020-10-27
+"Morona Santiago"	"Taisha"	163	2020-10-27
+"Morona Santiago"	"Tiwintza"	53	2020-10-27
+"Morona Santiago"	"Gualaquiza"	416	2020-10-28
+"Morona Santiago"	"Huamboya"	68	2020-10-28
+"Morona Santiago"	"Limón Indanza"	126	2020-10-28
+"Morona Santiago"	"Logroño"	105	2020-10-28
+"Morona Santiago"	"Morona"	1104	2020-10-28
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-28
+"Morona Santiago"	"Palora"	206	2020-10-28
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-28
+"Morona Santiago"	"Santiago"	194	2020-10-28
+"Morona Santiago"	"Sucúa"	422	2020-10-28
+"Morona Santiago"	"Taisha"	166	2020-10-28
+"Morona Santiago"	"Tiwintza"	53	2020-10-28
+"Morona Santiago"	"Gualaquiza"	417	2020-10-29
+"Morona Santiago"	"Huamboya"	68	2020-10-29
+"Morona Santiago"	"Limón Indanza"	137	2020-10-29
+"Morona Santiago"	"Logroño"	105	2020-10-29
+"Morona Santiago"	"Morona"	1106	2020-10-29
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-29
+"Morona Santiago"	"Palora"	207	2020-10-29
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-29
+"Morona Santiago"	"Santiago"	194	2020-10-29
+"Morona Santiago"	"Sucúa"	422	2020-10-29
+"Morona Santiago"	"Taisha"	174	2020-10-29
+"Morona Santiago"	"Tiwintza"	53	2020-10-29
+"Morona Santiago"	"Gualaquiza"	417	2020-10-30
+"Morona Santiago"	"Huamboya"	68	2020-10-30
+"Morona Santiago"	"Limón Indanza"	137	2020-10-30
+"Morona Santiago"	"Logroño"	105	2020-10-30
+"Morona Santiago"	"Morona"	1106	2020-10-30
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-30
+"Morona Santiago"	"Palora"	207	2020-10-30
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-30
+"Morona Santiago"	"Santiago"	194	2020-10-30
+"Morona Santiago"	"Sucúa"	423	2020-10-30
+"Morona Santiago"	"Taisha"	174	2020-10-30
+"Morona Santiago"	"Tiwintza"	53	2020-10-30
+"Morona Santiago"	"Gualaquiza"	417	2020-10-31
+"Morona Santiago"	"Huamboya"	68	2020-10-31
+"Morona Santiago"	"Limón Indanza"	137	2020-10-31
+"Morona Santiago"	"Logroño"	105	2020-10-31
+"Morona Santiago"	"Morona"	1131	2020-10-31
+"Morona Santiago"	"Pablo Sexto"	55	2020-10-31
+"Morona Santiago"	"Palora"	207	2020-10-31
+"Morona Santiago"	"San Juan Bosco"	32	2020-10-31
+"Morona Santiago"	"Santiago"	194	2020-10-31
+"Morona Santiago"	"Sucúa"	423	2020-10-31
+"Morona Santiago"	"Taisha"	174	2020-10-31
+"Morona Santiago"	"Tiwintza"	53	2020-10-31
+"Morona Santiago"	"Gualaquiza"	419	2020-11-01
+"Morona Santiago"	"Huamboya"	68	2020-11-01
+"Morona Santiago"	"Limón Indanza"	137	2020-11-01
+"Morona Santiago"	"Logroño"	107	2020-11-01
+"Morona Santiago"	"Morona"	1133	2020-11-01
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-01
+"Morona Santiago"	"Palora"	212	2020-11-01
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-01
+"Morona Santiago"	"Santiago"	195	2020-11-01
+"Morona Santiago"	"Sucúa"	423	2020-11-01
+"Morona Santiago"	"Taisha"	174	2020-11-01
+"Morona Santiago"	"Tiwintza"	53	2020-11-01
+"Morona Santiago"	"Gualaquiza"	420	2020-11-02
+"Morona Santiago"	"Huamboya"	68	2020-11-02
+"Morona Santiago"	"Limón Indanza"	137	2020-11-02
+"Morona Santiago"	"Logroño"	107	2020-11-02
+"Morona Santiago"	"Morona"	1133	2020-11-02
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-02
+"Morona Santiago"	"Palora"	212	2020-11-02
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-02
+"Morona Santiago"	"Santiago"	195	2020-11-02
+"Morona Santiago"	"Sucúa"	425	2020-11-02
+"Morona Santiago"	"Taisha"	174	2020-11-02
+"Morona Santiago"	"Tiwintza"	53	2020-11-02
+"Morona Santiago"	"Gualaquiza"	420	2020-11-03
+"Morona Santiago"	"Huamboya"	68	2020-11-03
+"Morona Santiago"	"Limón Indanza"	138	2020-11-03
+"Morona Santiago"	"Logroño"	107	2020-11-03
+"Morona Santiago"	"Morona"	1133	2020-11-03
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-03
+"Morona Santiago"	"Palora"	212	2020-11-03
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-03
+"Morona Santiago"	"Santiago"	195	2020-11-03
+"Morona Santiago"	"Sucúa"	425	2020-11-03
+"Morona Santiago"	"Taisha"	174	2020-11-03
+"Morona Santiago"	"Tiwintza"	53	2020-11-03
+"Morona Santiago"	"Gualaquiza"	420	2020-11-04
+"Morona Santiago"	"Huamboya"	68	2020-11-04
+"Morona Santiago"	"Limón Indanza"	139	2020-11-04
+"Morona Santiago"	"Logroño"	107	2020-11-04
+"Morona Santiago"	"Morona"	1133	2020-11-04
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-04
+"Morona Santiago"	"Palora"	212	2020-11-04
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-04
+"Morona Santiago"	"Santiago"	195	2020-11-04
+"Morona Santiago"	"Sucúa"	425	2020-11-04
+"Morona Santiago"	"Taisha"	174	2020-11-04
+"Morona Santiago"	"Tiwintza"	53	2020-11-04
+"Morona Santiago"	"Gualaquiza"	420	2020-11-05
+"Morona Santiago"	"Huamboya"	68	2020-11-05
+"Morona Santiago"	"Limón Indanza"	139	2020-11-05
+"Morona Santiago"	"Logroño"	107	2020-11-05
+"Morona Santiago"	"Morona"	1133	2020-11-05
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-05
+"Morona Santiago"	"Palora"	212	2020-11-05
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-05
+"Morona Santiago"	"Santiago"	195	2020-11-05
+"Morona Santiago"	"Sucúa"	425	2020-11-05
+"Morona Santiago"	"Taisha"	174	2020-11-05
+"Morona Santiago"	"Tiwintza"	53	2020-11-05
+"Morona Santiago"	"Gualaquiza"	420	2020-11-06
+"Morona Santiago"	"Huamboya"	68	2020-11-06
+"Morona Santiago"	"Limón Indanza"	139	2020-11-06
+"Morona Santiago"	"Logroño"	107	2020-11-06
+"Morona Santiago"	"Morona"	1134	2020-11-06
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-06
+"Morona Santiago"	"Palora"	212	2020-11-06
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-06
+"Morona Santiago"	"Santiago"	195	2020-11-06
+"Morona Santiago"	"Sucúa"	426	2020-11-06
+"Morona Santiago"	"Taisha"	174	2020-11-06
+"Morona Santiago"	"Tiwintza"	53	2020-11-06
+"Morona Santiago"	"Gualaquiza"	420	2020-11-07
+"Morona Santiago"	"Huamboya"	68	2020-11-07
+"Morona Santiago"	"Limón Indanza"	139	2020-11-07
+"Morona Santiago"	"Logroño"	107	2020-11-07
+"Morona Santiago"	"Morona"	1143	2020-11-07
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-07
+"Morona Santiago"	"Palora"	212	2020-11-07
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-07
+"Morona Santiago"	"Santiago"	195	2020-11-07
+"Morona Santiago"	"Sucúa"	426	2020-11-07
+"Morona Santiago"	"Taisha"	174	2020-11-07
+"Morona Santiago"	"Tiwintza"	53	2020-11-07
+"Morona Santiago"	"Gualaquiza"	422	2020-11-08
+"Morona Santiago"	"Huamboya"	69	2020-11-08
+"Morona Santiago"	"Limón Indanza"	144	2020-11-08
+"Morona Santiago"	"Logroño"	107	2020-11-08
+"Morona Santiago"	"Morona"	1150	2020-11-08
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-08
+"Morona Santiago"	"Palora"	215	2020-11-08
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-08
+"Morona Santiago"	"Santiago"	198	2020-11-08
+"Morona Santiago"	"Sucúa"	427	2020-11-08
+"Morona Santiago"	"Taisha"	198	2020-11-08
+"Morona Santiago"	"Tiwintza"	53	2020-11-08
+"Morona Santiago"	"Gualaquiza"	422	2020-11-09
+"Morona Santiago"	"Huamboya"	69	2020-11-09
+"Morona Santiago"	"Limón Indanza"	144	2020-11-09
+"Morona Santiago"	"Logroño"	107	2020-11-09
+"Morona Santiago"	"Morona"	1151	2020-11-09
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-09
+"Morona Santiago"	"Palora"	215	2020-11-09
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-09
+"Morona Santiago"	"Santiago"	198	2020-11-09
+"Morona Santiago"	"Sucúa"	427	2020-11-09
+"Morona Santiago"	"Taisha"	198	2020-11-09
+"Morona Santiago"	"Tiwintza"	53	2020-11-09
+"Morona Santiago"	"Gualaquiza"	422	2020-11-10
+"Morona Santiago"	"Huamboya"	69	2020-11-10
+"Morona Santiago"	"Limón Indanza"	144	2020-11-10
+"Morona Santiago"	"Logroño"	107	2020-11-10
+"Morona Santiago"	"Morona"	1151	2020-11-10
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-10
+"Morona Santiago"	"Palora"	215	2020-11-10
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-10
+"Morona Santiago"	"Santiago"	198	2020-11-10
+"Morona Santiago"	"Sucúa"	427	2020-11-10
+"Morona Santiago"	"Taisha"	198	2020-11-10
+"Morona Santiago"	"Tiwintza"	53	2020-11-10
+"Morona Santiago"	"Gualaquiza"	422	2020-11-11
+"Morona Santiago"	"Huamboya"	69	2020-11-11
+"Morona Santiago"	"Limón Indanza"	144	2020-11-11
+"Morona Santiago"	"Logroño"	107	2020-11-11
+"Morona Santiago"	"Morona"	1151	2020-11-11
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-11
+"Morona Santiago"	"Palora"	215	2020-11-11
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-11
+"Morona Santiago"	"Santiago"	198	2020-11-11
+"Morona Santiago"	"Sucúa"	427	2020-11-11
+"Morona Santiago"	"Taisha"	198	2020-11-11
+"Morona Santiago"	"Tiwintza"	53	2020-11-11
+"Morona Santiago"	"Gualaquiza"	423	2020-11-12
+"Morona Santiago"	"Huamboya"	70	2020-11-12
+"Morona Santiago"	"Limón Indanza"	148	2020-11-12
+"Morona Santiago"	"Logroño"	107	2020-11-12
+"Morona Santiago"	"Morona"	1153	2020-11-12
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-12
+"Morona Santiago"	"Palora"	215	2020-11-12
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-12
+"Morona Santiago"	"Santiago"	202	2020-11-12
+"Morona Santiago"	"Sucúa"	428	2020-11-12
+"Morona Santiago"	"Taisha"	198	2020-11-12
+"Morona Santiago"	"Tiwintza"	53	2020-11-12
+"Morona Santiago"	"Gualaquiza"	425	2020-11-13
+"Morona Santiago"	"Huamboya"	70	2020-11-13
+"Morona Santiago"	"Limón Indanza"	148	2020-11-13
+"Morona Santiago"	"Logroño"	109	2020-11-13
+"Morona Santiago"	"Morona"	1155	2020-11-13
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-13
+"Morona Santiago"	"Palora"	215	2020-11-13
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-13
+"Morona Santiago"	"Santiago"	202	2020-11-13
+"Morona Santiago"	"Sucúa"	430	2020-11-13
+"Morona Santiago"	"Taisha"	198	2020-11-13
+"Morona Santiago"	"Tiwintza"	53	2020-11-13
+"Morona Santiago"	"Gualaquiza"	425	2020-11-14
+"Morona Santiago"	"Huamboya"	70	2020-11-14
+"Morona Santiago"	"Limón Indanza"	151	2020-11-14
+"Morona Santiago"	"Logroño"	109	2020-11-14
+"Morona Santiago"	"Morona"	1181	2020-11-14
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-14
+"Morona Santiago"	"Palora"	235	2020-11-14
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-14
+"Morona Santiago"	"Santiago"	203	2020-11-14
+"Morona Santiago"	"Sucúa"	431	2020-11-14
+"Morona Santiago"	"Taisha"	198	2020-11-14
+"Morona Santiago"	"Tiwintza"	53	2020-11-14
+"Morona Santiago"	"Gualaquiza"	425	2020-11-15
+"Morona Santiago"	"Huamboya"	70	2020-11-15
+"Morona Santiago"	"Limón Indanza"	151	2020-11-15
+"Morona Santiago"	"Logroño"	109	2020-11-15
+"Morona Santiago"	"Morona"	1181	2020-11-15
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-15
+"Morona Santiago"	"Palora"	235	2020-11-15
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-15
+"Morona Santiago"	"Santiago"	203	2020-11-15
+"Morona Santiago"	"Sucúa"	431	2020-11-15
+"Morona Santiago"	"Taisha"	198	2020-11-15
+"Morona Santiago"	"Tiwintza"	53	2020-11-15
+"Morona Santiago"	"Gualaquiza"	428	2020-11-16
+"Morona Santiago"	"Huamboya"	70	2020-11-16
+"Morona Santiago"	"Limón Indanza"	151	2020-11-16
+"Morona Santiago"	"Logroño"	109	2020-11-16
+"Morona Santiago"	"Morona"	1189	2020-11-16
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-16
+"Morona Santiago"	"Palora"	235	2020-11-16
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-16
+"Morona Santiago"	"Santiago"	203	2020-11-16
+"Morona Santiago"	"Sucúa"	434	2020-11-16
+"Morona Santiago"	"Taisha"	198	2020-11-16
+"Morona Santiago"	"Tiwintza"	53	2020-11-16
+"Morona Santiago"	"Gualaquiza"	428	2020-11-17
+"Morona Santiago"	"Huamboya"	70	2020-11-17
+"Morona Santiago"	"Limón Indanza"	152	2020-11-17
+"Morona Santiago"	"Logroño"	109	2020-11-17
+"Morona Santiago"	"Morona"	1204	2020-11-17
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-17
+"Morona Santiago"	"Palora"	235	2020-11-17
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-17
+"Morona Santiago"	"Santiago"	204	2020-11-17
+"Morona Santiago"	"Sucúa"	434	2020-11-17
+"Morona Santiago"	"Taisha"	198	2020-11-17
+"Morona Santiago"	"Tiwintza"	53	2020-11-17
+"Morona Santiago"	"Gualaquiza"	428	2020-11-18
+"Morona Santiago"	"Huamboya"	70	2020-11-18
+"Morona Santiago"	"Limón Indanza"	152	2020-11-18
+"Morona Santiago"	"Logroño"	109	2020-11-18
+"Morona Santiago"	"Morona"	1207	2020-11-18
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-18
+"Morona Santiago"	"Palora"	235	2020-11-18
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-18
+"Morona Santiago"	"Santiago"	204	2020-11-18
+"Morona Santiago"	"Sucúa"	436	2020-11-18
+"Morona Santiago"	"Taisha"	200	2020-11-18
+"Morona Santiago"	"Tiwintza"	53	2020-11-18
+"Morona Santiago"	"Gualaquiza"	432	2020-11-19
+"Morona Santiago"	"Huamboya"	70	2020-11-19
+"Morona Santiago"	"Limón Indanza"	156	2020-11-19
+"Morona Santiago"	"Logroño"	109	2020-11-19
+"Morona Santiago"	"Morona"	1223	2020-11-19
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-19
+"Morona Santiago"	"Palora"	237	2020-11-19
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-19
+"Morona Santiago"	"Santiago"	204	2020-11-19
+"Morona Santiago"	"Sucúa"	439	2020-11-19
+"Morona Santiago"	"Taisha"	200	2020-11-19
+"Morona Santiago"	"Tiwintza"	53	2020-11-19
+"Morona Santiago"	"Gualaquiza"	434	2020-11-20
+"Morona Santiago"	"Huamboya"	70	2020-11-20
+"Morona Santiago"	"Limón Indanza"	156	2020-11-20
+"Morona Santiago"	"Logroño"	110	2020-11-20
+"Morona Santiago"	"Morona"	1225	2020-11-20
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-20
+"Morona Santiago"	"Palora"	237	2020-11-20
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-20
+"Morona Santiago"	"Santiago"	204	2020-11-20
+"Morona Santiago"	"Sucúa"	441	2020-11-20
+"Morona Santiago"	"Taisha"	200	2020-11-20
+"Morona Santiago"	"Tiwintza"	53	2020-11-20
+"Morona Santiago"	"Gualaquiza"	434	2020-11-21
+"Morona Santiago"	"Huamboya"	70	2020-11-21
+"Morona Santiago"	"Limón Indanza"	159	2020-11-21
+"Morona Santiago"	"Logroño"	110	2020-11-21
+"Morona Santiago"	"Morona"	1237	2020-11-21
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-21
+"Morona Santiago"	"Palora"	237	2020-11-21
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-21
+"Morona Santiago"	"Santiago"	205	2020-11-21
+"Morona Santiago"	"Sucúa"	443	2020-11-21
+"Morona Santiago"	"Taisha"	200	2020-11-21
+"Morona Santiago"	"Tiwintza"	53	2020-11-21
+"Morona Santiago"	"Gualaquiza"	434	2020-11-22
+"Morona Santiago"	"Huamboya"	70	2020-11-22
+"Morona Santiago"	"Limón Indanza"	159	2020-11-22
+"Morona Santiago"	"Logroño"	110	2020-11-22
+"Morona Santiago"	"Morona"	1237	2020-11-22
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-22
+"Morona Santiago"	"Palora"	237	2020-11-22
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-22
+"Morona Santiago"	"Santiago"	205	2020-11-22
+"Morona Santiago"	"Sucúa"	444	2020-11-22
+"Morona Santiago"	"Taisha"	200	2020-11-22
+"Morona Santiago"	"Tiwintza"	53	2020-11-22
+"Morona Santiago"	"Gualaquiza"	434	2020-11-23
+"Morona Santiago"	"Huamboya"	70	2020-11-23
+"Morona Santiago"	"Limón Indanza"	159	2020-11-23
+"Morona Santiago"	"Logroño"	110	2020-11-23
+"Morona Santiago"	"Morona"	1237	2020-11-23
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-23
+"Morona Santiago"	"Palora"	237	2020-11-23
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-23
+"Morona Santiago"	"Santiago"	205	2020-11-23
+"Morona Santiago"	"Sucúa"	444	2020-11-23
+"Morona Santiago"	"Taisha"	200	2020-11-23
+"Morona Santiago"	"Tiwintza"	53	2020-11-23
+"Morona Santiago"	"Gualaquiza"	434	2020-11-24
+"Morona Santiago"	"Huamboya"	70	2020-11-24
+"Morona Santiago"	"Limón Indanza"	159	2020-11-24
+"Morona Santiago"	"Logroño"	110	2020-11-24
+"Morona Santiago"	"Morona"	1237	2020-11-24
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-24
+"Morona Santiago"	"Palora"	237	2020-11-24
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-24
+"Morona Santiago"	"Santiago"	206	2020-11-24
+"Morona Santiago"	"Sucúa"	444	2020-11-24
+"Morona Santiago"	"Taisha"	200	2020-11-24
+"Morona Santiago"	"Tiwintza"	53	2020-11-24
+"Morona Santiago"	"Gualaquiza"	439	2020-11-25
+"Morona Santiago"	"Huamboya"	70	2020-11-25
+"Morona Santiago"	"Limón Indanza"	159	2020-11-25
+"Morona Santiago"	"Logroño"	110	2020-11-25
+"Morona Santiago"	"Morona"	1238	2020-11-25
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-25
+"Morona Santiago"	"Palora"	237	2020-11-25
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-25
+"Morona Santiago"	"Santiago"	206	2020-11-25
+"Morona Santiago"	"Sucúa"	446	2020-11-25
+"Morona Santiago"	"Taisha"	200	2020-11-25
+"Morona Santiago"	"Tiwintza"	53	2020-11-25
+"Morona Santiago"	"Gualaquiza"	439	2020-11-26
+"Morona Santiago"	"Huamboya"	70	2020-11-26
+"Morona Santiago"	"Limón Indanza"	162	2020-11-26
+"Morona Santiago"	"Logroño"	110	2020-11-26
+"Morona Santiago"	"Morona"	1246	2020-11-26
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-26
+"Morona Santiago"	"Palora"	237	2020-11-26
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-26
+"Morona Santiago"	"Santiago"	206	2020-11-26
+"Morona Santiago"	"Sucúa"	449	2020-11-26
+"Morona Santiago"	"Taisha"	200	2020-11-26
+"Morona Santiago"	"Tiwintza"	53	2020-11-26
+"Morona Santiago"	"Gualaquiza"	441	2020-11-27
+"Morona Santiago"	"Huamboya"	70	2020-11-27
+"Morona Santiago"	"Limón Indanza"	162	2020-11-27
+"Morona Santiago"	"Logroño"	110	2020-11-27
+"Morona Santiago"	"Morona"	1248	2020-11-27
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-27
+"Morona Santiago"	"Palora"	237	2020-11-27
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-27
+"Morona Santiago"	"Santiago"	206	2020-11-27
+"Morona Santiago"	"Sucúa"	450	2020-11-27
+"Morona Santiago"	"Taisha"	200	2020-11-27
+"Morona Santiago"	"Tiwintza"	53	2020-11-27
+"Morona Santiago"	"Gualaquiza"	442	2020-11-28
+"Morona Santiago"	"Huamboya"	70	2020-11-28
+"Morona Santiago"	"Limón Indanza"	167	2020-11-28
+"Morona Santiago"	"Logroño"	110	2020-11-28
+"Morona Santiago"	"Morona"	1255	2020-11-28
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-28
+"Morona Santiago"	"Palora"	237	2020-11-28
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-28
+"Morona Santiago"	"Santiago"	206	2020-11-28
+"Morona Santiago"	"Sucúa"	450	2020-11-28
+"Morona Santiago"	"Taisha"	200	2020-11-28
+"Morona Santiago"	"Tiwintza"	53	2020-11-28
+"Morona Santiago"	"Gualaquiza"	444	2020-11-29
+"Morona Santiago"	"Huamboya"	70	2020-11-29
+"Morona Santiago"	"Limón Indanza"	167	2020-11-29
+"Morona Santiago"	"Logroño"	110	2020-11-29
+"Morona Santiago"	"Morona"	1255	2020-11-29
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-29
+"Morona Santiago"	"Palora"	237	2020-11-29
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-29
+"Morona Santiago"	"Santiago"	206	2020-11-29
+"Morona Santiago"	"Sucúa"	453	2020-11-29
+"Morona Santiago"	"Taisha"	200	2020-11-29
+"Morona Santiago"	"Tiwintza"	53	2020-11-29
+"Morona Santiago"	"Gualaquiza"	444	2020-11-30
+"Morona Santiago"	"Huamboya"	70	2020-11-30
+"Morona Santiago"	"Limón Indanza"	167	2020-11-30
+"Morona Santiago"	"Logroño"	110	2020-11-30
+"Morona Santiago"	"Morona"	1255	2020-11-30
+"Morona Santiago"	"Pablo Sexto"	55	2020-11-30
+"Morona Santiago"	"Palora"	237	2020-11-30
+"Morona Santiago"	"San Juan Bosco"	32	2020-11-30
+"Morona Santiago"	"Santiago"	206	2020-11-30
+"Morona Santiago"	"Sucúa"	453	2020-11-30
+"Morona Santiago"	"Taisha"	200	2020-11-30
+"Morona Santiago"	"Tiwintza"	53	2020-11-30
+"Morona Santiago"	"Gualaquiza"	446	2020-12-01
+"Morona Santiago"	"Huamboya"	70	2020-12-01
+"Morona Santiago"	"Limón Indanza"	167	2020-12-01
+"Morona Santiago"	"Logroño"	110	2020-12-01
+"Morona Santiago"	"Morona"	1255	2020-12-01
+"Morona Santiago"	"Pablo Sexto"	55	2020-12-01
+"Morona Santiago"	"Palora"	237	2020-12-01
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-01
+"Morona Santiago"	"Santiago"	206	2020-12-01
+"Morona Santiago"	"Sucúa"	453	2020-12-01
+"Morona Santiago"	"Taisha"	200	2020-12-01
+"Morona Santiago"	"Tiwintza"	53	2020-12-01
+"Morona Santiago"	"Gualaquiza"	454	2020-12-02
+"Morona Santiago"	"Huamboya"	70	2020-12-02
+"Morona Santiago"	"Limón Indanza"	167	2020-12-02
+"Morona Santiago"	"Logroño"	110	2020-12-02
+"Morona Santiago"	"Morona"	1260	2020-12-02
+"Morona Santiago"	"Pablo Sexto"	55	2020-12-02
+"Morona Santiago"	"Palora"	237	2020-12-02
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-02
+"Morona Santiago"	"Santiago"	206	2020-12-02
+"Morona Santiago"	"Sucúa"	454	2020-12-02
+"Morona Santiago"	"Taisha"	200	2020-12-02
+"Morona Santiago"	"Tiwintza"	53	2020-12-02
+"Morona Santiago"	"Gualaquiza"	454	2020-12-03
+"Morona Santiago"	"Huamboya"	71	2020-12-03
+"Morona Santiago"	"Limón Indanza"	174	2020-12-03
+"Morona Santiago"	"Logroño"	110	2020-12-03
+"Morona Santiago"	"Morona"	1278	2020-12-03
+"Morona Santiago"	"Pablo Sexto"	55	2020-12-03
+"Morona Santiago"	"Palora"	238	2020-12-03
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-03
+"Morona Santiago"	"Santiago"	207	2020-12-03
+"Morona Santiago"	"Sucúa"	455	2020-12-03
+"Morona Santiago"	"Taisha"	200	2020-12-03
+"Morona Santiago"	"Tiwintza"	53	2020-12-03
+"Morona Santiago"	"Gualaquiza"	461	2020-12-04
+"Morona Santiago"	"Huamboya"	71	2020-12-04
+"Morona Santiago"	"Limón Indanza"	174	2020-12-04
+"Morona Santiago"	"Logroño"	110	2020-12-04
+"Morona Santiago"	"Morona"	1280	2020-12-04
+"Morona Santiago"	"Pablo Sexto"	55	2020-12-04
+"Morona Santiago"	"Palora"	238	2020-12-04
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-04
+"Morona Santiago"	"Santiago"	207	2020-12-04
+"Morona Santiago"	"Sucúa"	456	2020-12-04
+"Morona Santiago"	"Taisha"	200	2020-12-04
+"Morona Santiago"	"Tiwintza"	53	2020-12-04
+"Morona Santiago"	"Gualaquiza"	462	2020-12-05
+"Morona Santiago"	"Huamboya"	71	2020-12-05
+"Morona Santiago"	"Limón Indanza"	174	2020-12-05
+"Morona Santiago"	"Logroño"	110	2020-12-05
+"Morona Santiago"	"Morona"	1280	2020-12-05
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-05
+"Morona Santiago"	"Palora"	240	2020-12-05
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-05
+"Morona Santiago"	"Santiago"	208	2020-12-05
+"Morona Santiago"	"Sucúa"	457	2020-12-05
+"Morona Santiago"	"Taisha"	200	2020-12-05
+"Morona Santiago"	"Tiwintza"	53	2020-12-05
+"Morona Santiago"	"Gualaquiza"	465	2020-12-06
+"Morona Santiago"	"Huamboya"	71	2020-12-06
+"Morona Santiago"	"Limón Indanza"	175	2020-12-06
+"Morona Santiago"	"Logroño"	110	2020-12-06
+"Morona Santiago"	"Morona"	1280	2020-12-06
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-06
+"Morona Santiago"	"Palora"	240	2020-12-06
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-06
+"Morona Santiago"	"Santiago"	208	2020-12-06
+"Morona Santiago"	"Sucúa"	458	2020-12-06
+"Morona Santiago"	"Taisha"	200	2020-12-06
+"Morona Santiago"	"Tiwintza"	53	2020-12-06
+"Morona Santiago"	"Gualaquiza"	469	2020-12-07
+"Morona Santiago"	"Huamboya"	71	2020-12-07
+"Morona Santiago"	"Limón Indanza"	175	2020-12-07
+"Morona Santiago"	"Logroño"	110	2020-12-07
+"Morona Santiago"	"Morona"	1281	2020-12-07
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-07
+"Morona Santiago"	"Palora"	240	2020-12-07
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-07
+"Morona Santiago"	"Santiago"	208	2020-12-07
+"Morona Santiago"	"Sucúa"	458	2020-12-07
+"Morona Santiago"	"Taisha"	200	2020-12-07
+"Morona Santiago"	"Tiwintza"	53	2020-12-07
+"Morona Santiago"	"Gualaquiza"	469	2020-12-08
+"Morona Santiago"	"Huamboya"	71	2020-12-08
+"Morona Santiago"	"Limón Indanza"	175	2020-12-08
+"Morona Santiago"	"Logroño"	110	2020-12-08
+"Morona Santiago"	"Morona"	1281	2020-12-08
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-08
+"Morona Santiago"	"Palora"	240	2020-12-08
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-08
+"Morona Santiago"	"Santiago"	208	2020-12-08
+"Morona Santiago"	"Sucúa"	458	2020-12-08
+"Morona Santiago"	"Taisha"	200	2020-12-08
+"Morona Santiago"	"Tiwintza"	53	2020-12-08
+"Morona Santiago"	"Gualaquiza"	472	2020-12-09
+"Morona Santiago"	"Huamboya"	71	2020-12-09
+"Morona Santiago"	"Limón Indanza"	184	2020-12-09
+"Morona Santiago"	"Logroño"	110	2020-12-09
+"Morona Santiago"	"Morona"	1281	2020-12-09
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-09
+"Morona Santiago"	"Palora"	240	2020-12-09
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-09
+"Morona Santiago"	"Santiago"	208	2020-12-09
+"Morona Santiago"	"Sucúa"	458	2020-12-09
+"Morona Santiago"	"Taisha"	200	2020-12-09
+"Morona Santiago"	"Tiwintza"	54	2020-12-09
+"Morona Santiago"	"Gualaquiza"	479	2020-12-10
+"Morona Santiago"	"Huamboya"	71	2020-12-10
+"Morona Santiago"	"Limón Indanza"	185	2020-12-10
+"Morona Santiago"	"Logroño"	110	2020-12-10
+"Morona Santiago"	"Morona"	1301	2020-12-10
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-10
+"Morona Santiago"	"Palora"	242	2020-12-10
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-10
+"Morona Santiago"	"Santiago"	210	2020-12-10
+"Morona Santiago"	"Sucúa"	458	2020-12-10
+"Morona Santiago"	"Taisha"	200	2020-12-10
+"Morona Santiago"	"Tiwintza"	54	2020-12-10
+"Morona Santiago"	"Gualaquiza"	480	2020-12-11
+"Morona Santiago"	"Huamboya"	71	2020-12-11
+"Morona Santiago"	"Limón Indanza"	185	2020-12-11
+"Morona Santiago"	"Logroño"	110	2020-12-11
+"Morona Santiago"	"Morona"	1301	2020-12-11
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-11
+"Morona Santiago"	"Palora"	242	2020-12-11
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-11
+"Morona Santiago"	"Santiago"	210	2020-12-11
+"Morona Santiago"	"Sucúa"	458	2020-12-11
+"Morona Santiago"	"Taisha"	200	2020-12-11
+"Morona Santiago"	"Tiwintza"	54	2020-12-11
+"Morona Santiago"	"Gualaquiza"	481	2020-12-12
+"Morona Santiago"	"Huamboya"	72	2020-12-12
+"Morona Santiago"	"Limón Indanza"	185	2020-12-12
+"Morona Santiago"	"Logroño"	111	2020-12-12
+"Morona Santiago"	"Morona"	1315	2020-12-12
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-12
+"Morona Santiago"	"Palora"	242	2020-12-12
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-12
+"Morona Santiago"	"Santiago"	210	2020-12-12
+"Morona Santiago"	"Sucúa"	458	2020-12-12
+"Morona Santiago"	"Taisha"	200	2020-12-12
+"Morona Santiago"	"Tiwintza"	54	2020-12-12
+"Morona Santiago"	"Gualaquiza"	481	2020-12-13
+"Morona Santiago"	"Huamboya"	72	2020-12-13
+"Morona Santiago"	"Limón Indanza"	186	2020-12-13
+"Morona Santiago"	"Logroño"	111	2020-12-13
+"Morona Santiago"	"Morona"	1317	2020-12-13
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-13
+"Morona Santiago"	"Palora"	245	2020-12-13
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-13
+"Morona Santiago"	"Santiago"	210	2020-12-13
+"Morona Santiago"	"Sucúa"	458	2020-12-13
+"Morona Santiago"	"Taisha"	200	2020-12-13
+"Morona Santiago"	"Tiwintza"	54	2020-12-13
+"Morona Santiago"	"Gualaquiza"	481	2020-12-14
+"Morona Santiago"	"Huamboya"	72	2020-12-14
+"Morona Santiago"	"Limón Indanza"	186	2020-12-14
+"Morona Santiago"	"Logroño"	111	2020-12-14
+"Morona Santiago"	"Morona"	1317	2020-12-14
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-14
+"Morona Santiago"	"Palora"	245	2020-12-14
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-14
+"Morona Santiago"	"Santiago"	210	2020-12-14
+"Morona Santiago"	"Sucúa"	458	2020-12-14
+"Morona Santiago"	"Taisha"	200	2020-12-14
+"Morona Santiago"	"Tiwintza"	54	2020-12-14
+"Morona Santiago"	"Gualaquiza"	481	2020-12-15
+"Morona Santiago"	"Huamboya"	72	2020-12-15
+"Morona Santiago"	"Limón Indanza"	186	2020-12-15
+"Morona Santiago"	"Logroño"	111	2020-12-15
+"Morona Santiago"	"Morona"	1317	2020-12-15
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-15
+"Morona Santiago"	"Palora"	245	2020-12-15
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-15
+"Morona Santiago"	"Santiago"	210	2020-12-15
+"Morona Santiago"	"Sucúa"	458	2020-12-15
+"Morona Santiago"	"Taisha"	200	2020-12-15
+"Morona Santiago"	"Tiwintza"	54	2020-12-15
+"Morona Santiago"	"Gualaquiza"	483	2020-12-16
+"Morona Santiago"	"Huamboya"	72	2020-12-16
+"Morona Santiago"	"Limón Indanza"	186	2020-12-16
+"Morona Santiago"	"Logroño"	111	2020-12-16
+"Morona Santiago"	"Morona"	1324	2020-12-16
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-16
+"Morona Santiago"	"Palora"	245	2020-12-16
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-16
+"Morona Santiago"	"Santiago"	210	2020-12-16
+"Morona Santiago"	"Sucúa"	461	2020-12-16
+"Morona Santiago"	"Taisha"	200	2020-12-16
+"Morona Santiago"	"Tiwintza"	54	2020-12-16
+"Morona Santiago"	"Gualaquiza"	483	2020-12-17
+"Morona Santiago"	"Huamboya"	72	2020-12-17
+"Morona Santiago"	"Limón Indanza"	186	2020-12-17
+"Morona Santiago"	"Logroño"	111	2020-12-17
+"Morona Santiago"	"Morona"	1349	2020-12-17
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-17
+"Morona Santiago"	"Palora"	245	2020-12-17
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-17
+"Morona Santiago"	"Santiago"	210	2020-12-17
+"Morona Santiago"	"Sucúa"	462	2020-12-17
+"Morona Santiago"	"Taisha"	200	2020-12-17
+"Morona Santiago"	"Tiwintza"	55	2020-12-17
+"Morona Santiago"	"Gualaquiza"	492	2020-12-18
+"Morona Santiago"	"Huamboya"	72	2020-12-18
+"Morona Santiago"	"Limón Indanza"	195	2020-12-18
+"Morona Santiago"	"Logroño"	115	2020-12-18
+"Morona Santiago"	"Morona"	1376	2020-12-18
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-18
+"Morona Santiago"	"Palora"	245	2020-12-18
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-18
+"Morona Santiago"	"Santiago"	211	2020-12-18
+"Morona Santiago"	"Sucúa"	466	2020-12-18
+"Morona Santiago"	"Taisha"	200	2020-12-18
+"Morona Santiago"	"Tiwintza"	55	2020-12-18
+"Morona Santiago"	"Gualaquiza"	498	2020-12-19
+"Morona Santiago"	"Huamboya"	72	2020-12-19
+"Morona Santiago"	"Limón Indanza"	195	2020-12-19
+"Morona Santiago"	"Logroño"	116	2020-12-19
+"Morona Santiago"	"Morona"	1376	2020-12-19
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-19
+"Morona Santiago"	"Palora"	245	2020-12-19
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-19
+"Morona Santiago"	"Santiago"	211	2020-12-19
+"Morona Santiago"	"Sucúa"	467	2020-12-19
+"Morona Santiago"	"Taisha"	200	2020-12-19
+"Morona Santiago"	"Tiwintza"	55	2020-12-19
+"Morona Santiago"	"Gualaquiza"	499	2020-12-20
+"Morona Santiago"	"Huamboya"	72	2020-12-20
+"Morona Santiago"	"Limón Indanza"	195	2020-12-20
+"Morona Santiago"	"Logroño"	116	2020-12-20
+"Morona Santiago"	"Morona"	1376	2020-12-20
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-20
+"Morona Santiago"	"Palora"	245	2020-12-20
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-20
+"Morona Santiago"	"Santiago"	227	2020-12-20
+"Morona Santiago"	"Sucúa"	468	2020-12-20
+"Morona Santiago"	"Taisha"	200	2020-12-20
+"Morona Santiago"	"Tiwintza"	55	2020-12-20
+"Morona Santiago"	"Gualaquiza"	499	2020-12-21
+"Morona Santiago"	"Huamboya"	72	2020-12-21
+"Morona Santiago"	"Limón Indanza"	195	2020-12-21
+"Morona Santiago"	"Logroño"	116	2020-12-21
+"Morona Santiago"	"Morona"	1376	2020-12-21
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-21
+"Morona Santiago"	"Palora"	245	2020-12-21
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-21
+"Morona Santiago"	"Santiago"	227	2020-12-21
+"Morona Santiago"	"Sucúa"	468	2020-12-21
+"Morona Santiago"	"Taisha"	200	2020-12-21
+"Morona Santiago"	"Tiwintza"	55	2020-12-21
+"Morona Santiago"	"Gualaquiza"	499	2020-12-22
+"Morona Santiago"	"Huamboya"	72	2020-12-22
+"Morona Santiago"	"Limón Indanza"	195	2020-12-22
+"Morona Santiago"	"Logroño"	116	2020-12-22
+"Morona Santiago"	"Morona"	1376	2020-12-22
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-22
+"Morona Santiago"	"Palora"	245	2020-12-22
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-22
+"Morona Santiago"	"Santiago"	227	2020-12-22
+"Morona Santiago"	"Sucúa"	468	2020-12-22
+"Morona Santiago"	"Taisha"	200	2020-12-22
+"Morona Santiago"	"Tiwintza"	55	2020-12-22
+"Morona Santiago"	"Gualaquiza"	500	2020-12-23
+"Morona Santiago"	"Huamboya"	72	2020-12-23
+"Morona Santiago"	"Limón Indanza"	195	2020-12-23
+"Morona Santiago"	"Logroño"	116	2020-12-23
+"Morona Santiago"	"Morona"	1376	2020-12-23
+"Morona Santiago"	"Pablo Sexto"	56	2020-12-23
+"Morona Santiago"	"Palora"	245	2020-12-23
+"Morona Santiago"	"San Juan Bosco"	32	2020-12-23
+"Morona Santiago"	"Santiago"	227	2020-12-23
+"Morona Santiago"	"Sucúa"	468	2020-12-23
+"Morona Santiago"	"Taisha"	200	2020-12-23
+"Morona Santiago"	"Tiwintza"	55	2020-12-23
+"Morona Santiago"	"Gualaquiza"	502	2020-12-24
+"Morona Santiago"	"Huamboya"	72	2020-12-24
+"Morona Santiago"	"Limón Indanza"	195	2020-12-24
+"Morona Santiago"	"Logroño"	116	2020-12-24
+"Morona Santiago"	"Morona"	1397	2020-12-24
+"Morona Santiago"	"Pablo Sexto"	57	2020-12-24
+"Morona Santiago"	"Palora"	245	2020-12-24
+"Morona Santiago"	"San Juan Bosco"	33	2020-12-24
+"Morona Santiago"	"Santiago"	227	2020-12-24
+"Morona Santiago"	"Sucúa"	471	2020-12-24
+"Morona Santiago"	"Taisha"	200	2020-12-24
+"Morona Santiago"	"Tiwintza"	55	2020-12-24
+"Morona Santiago"	"Gualaquiza"	507	2020-12-25
+"Morona Santiago"	"Huamboya"	72	2020-12-25
+"Morona Santiago"	"Limón Indanza"	204	2020-12-25
+"Morona Santiago"	"Logroño"	116	2020-12-25
+"Morona Santiago"	"Morona"	1419	2020-12-25
+"Morona Santiago"	"Pablo Sexto"	59	2020-12-25
+"Morona Santiago"	"Palora"	246	2020-12-25
+"Morona Santiago"	"San Juan Bosco"	33	2020-12-25
+"Morona Santiago"	"Santiago"	229	2020-12-25
+"Morona Santiago"	"Sucúa"	472	2020-12-25
+"Morona Santiago"	"Taisha"	200	2020-12-25
+"Morona Santiago"	"Tiwintza"	55	2020-12-25
+"Morona Santiago"	"Gualaquiza"	510	2020-12-26
+"Morona Santiago"	"Huamboya"	72	2020-12-26
+"Morona Santiago"	"Limón Indanza"	205	2020-12-26
+"Morona Santiago"	"Logroño"	123	2020-12-26
+"Morona Santiago"	"Morona"	1421	2020-12-26
+"Morona Santiago"	"Pablo Sexto"	59	2020-12-26
+"Morona Santiago"	"Palora"	246	2020-12-26
+"Morona Santiago"	"San Juan Bosco"	33	2020-12-26
+"Morona Santiago"	"Santiago"	230	2020-12-26
+"Morona Santiago"	"Sucúa"	474	2020-12-26
+"Morona Santiago"	"Taisha"	200	2020-12-26
+"Morona Santiago"	"Tiwintza"	55	2020-12-26
+"Morona Santiago"	"Gualaquiza"	510	2020-12-27
+"Morona Santiago"	"Huamboya"	72	2020-12-27
+"Morona Santiago"	"Limón Indanza"	205	2020-12-27
+"Morona Santiago"	"Logroño"	123	2020-12-27
+"Morona Santiago"	"Morona"	1422	2020-12-27
+"Morona Santiago"	"Pablo Sexto"	59	2020-12-27
+"Morona Santiago"	"Palora"	246	2020-12-27
+"Morona Santiago"	"San Juan Bosco"	33	2020-12-27
+"Morona Santiago"	"Santiago"	230	2020-12-27
+"Morona Santiago"	"Sucúa"	475	2020-12-27
+"Morona Santiago"	"Taisha"	201	2020-12-27
+"Morona Santiago"	"Tiwintza"	55	2020-12-27
+"Morona Santiago"	"Gualaquiza"	510	2020-12-28
+"Morona Santiago"	"Huamboya"	72	2020-12-28
+"Morona Santiago"	"Limón Indanza"	205	2020-12-28
+"Morona Santiago"	"Logroño"	123	2020-12-28
+"Morona Santiago"	"Morona"	1423	2020-12-28
+"Morona Santiago"	"Pablo Sexto"	59	2020-12-28
+"Morona Santiago"	"Palora"	246	2020-12-28
+"Morona Santiago"	"San Juan Bosco"	33	2020-12-28
+"Morona Santiago"	"Santiago"	230	2020-12-28
+"Morona Santiago"	"Sucúa"	476	2020-12-28
+"Morona Santiago"	"Taisha"	201	2020-12-28
+"Morona Santiago"	"Tiwintza"	55	2020-12-28
+"Morona Santiago"	"Gualaquiza"	510	2020-12-29
+"Morona Santiago"	"Huamboya"	72	2020-12-29
+"Morona Santiago"	"Limón Indanza"	205	2020-12-29
+"Morona Santiago"	"Logroño"	124	2020-12-29
+"Morona Santiago"	"Morona"	1424	2020-12-29
+"Morona Santiago"	"Pablo Sexto"	59	2020-12-29
+"Morona Santiago"	"Palora"	246	2020-12-29
+"Morona Santiago"	"San Juan Bosco"	33	2020-12-29
+"Morona Santiago"	"Santiago"	230	2020-12-29
+"Morona Santiago"	"Sucúa"	477	2020-12-29
+"Morona Santiago"	"Taisha"	201	2020-12-29
+"Morona Santiago"	"Tiwintza"	55	2020-12-29
+"Morona Santiago"	"Gualaquiza"	513	2020-12-30
+"Morona Santiago"	"Huamboya"	72	2020-12-30
+"Morona Santiago"	"Limón Indanza"	205	2020-12-30
+"Morona Santiago"	"Logroño"	124	2020-12-30
+"Morona Santiago"	"Morona"	1424	2020-12-30
+"Morona Santiago"	"Pablo Sexto"	59	2020-12-30
+"Morona Santiago"	"Palora"	246	2020-12-30
+"Morona Santiago"	"San Juan Bosco"	33	2020-12-30
+"Morona Santiago"	"Santiago"	230	2020-12-30
+"Morona Santiago"	"Sucúa"	478	2020-12-30
+"Morona Santiago"	"Taisha"	202	2020-12-30
+"Morona Santiago"	"Tiwintza"	55	2020-12-30
+"Morona Santiago"	"Gualaquiza"	513	2020-12-31
+"Morona Santiago"	"Huamboya"	72	2020-12-31
+"Morona Santiago"	"Limón Indanza"	205	2020-12-31
+"Morona Santiago"	"Logroño"	124	2020-12-31
+"Morona Santiago"	"Morona"	1424	2020-12-31
+"Morona Santiago"	"Pablo Sexto"	59	2020-12-31
+"Morona Santiago"	"Palora"	246	2020-12-31
+"Morona Santiago"	"San Juan Bosco"	33	2020-12-31
+"Morona Santiago"	"Santiago"	230	2020-12-31
+"Morona Santiago"	"Sucúa"	478	2020-12-31
+"Morona Santiago"	"Taisha"	202	2020-12-31
+"Morona Santiago"	"Tiwintza"	55	2020-12-31
 "Morona Santiago"	"Gualaquiza"	513	2021-01-01
 "Morona Santiago"	"Huamboya"	73	2021-01-01
 "Morona Santiago"	"Limón Indanza"	207	2021-01-01
@@ -5687,3 +9215,99 @@
 "Morona Santiago"	"Sucúa"	1357	2022-04-19
 "Morona Santiago"	"Taisha"	443	2022-04-19
 "Morona Santiago"	"Tiwintza"	182	2022-04-19
+"Morona Santiago"	"Gualaquiza"	1648	2022-04-20
+"Morona Santiago"	"Huamboya"	258	2022-04-20
+"Morona Santiago"	"Limón Indanza"	748	2022-04-20
+"Morona Santiago"	"Logroño"	223	2022-04-20
+"Morona Santiago"	"Morona"	4039	2022-04-20
+"Morona Santiago"	"Pablo Sexto"	149	2022-04-20
+"Morona Santiago"	"Palora"	677	2022-04-20
+"Morona Santiago"	"San Juan Bosco"	226	2022-04-20
+"Morona Santiago"	"Santiago"	541	2022-04-20
+"Morona Santiago"	"Sucúa"	1357	2022-04-20
+"Morona Santiago"	"Taisha"	443	2022-04-20
+"Morona Santiago"	"Tiwintza"	183	2022-04-20
+"Morona Santiago"	"Gualaquiza"	1649	2022-04-21
+"Morona Santiago"	"Huamboya"	258	2022-04-21
+"Morona Santiago"	"Limón Indanza"	748	2022-04-21
+"Morona Santiago"	"Logroño"	223	2022-04-21
+"Morona Santiago"	"Morona"	4039	2022-04-21
+"Morona Santiago"	"Pablo Sexto"	149	2022-04-21
+"Morona Santiago"	"Palora"	677	2022-04-21
+"Morona Santiago"	"San Juan Bosco"	226	2022-04-21
+"Morona Santiago"	"Santiago"	543	2022-04-21
+"Morona Santiago"	"Sucúa"	1359	2022-04-21
+"Morona Santiago"	"Taisha"	443	2022-04-21
+"Morona Santiago"	"Tiwintza"	183	2022-04-21
+"Morona Santiago"	"Gualaquiza"	1649	2022-04-22
+"Morona Santiago"	"Huamboya"	258	2022-04-22
+"Morona Santiago"	"Limón Indanza"	749	2022-04-22
+"Morona Santiago"	"Logroño"	223	2022-04-22
+"Morona Santiago"	"Morona"	4039	2022-04-22
+"Morona Santiago"	"Pablo Sexto"	150	2022-04-22
+"Morona Santiago"	"Palora"	677	2022-04-22
+"Morona Santiago"	"San Juan Bosco"	226	2022-04-22
+"Morona Santiago"	"Santiago"	543	2022-04-22
+"Morona Santiago"	"Sucúa"	1360	2022-04-22
+"Morona Santiago"	"Taisha"	443	2022-04-22
+"Morona Santiago"	"Tiwintza"	183	2022-04-22
+"Morona Santiago"	"Gualaquiza"	1649	2022-04-23
+"Morona Santiago"	"Huamboya"	258	2022-04-23
+"Morona Santiago"	"Limón Indanza"	750	2022-04-23
+"Morona Santiago"	"Logroño"	223	2022-04-23
+"Morona Santiago"	"Morona"	4039	2022-04-23
+"Morona Santiago"	"Pablo Sexto"	150	2022-04-23
+"Morona Santiago"	"Palora"	677	2022-04-23
+"Morona Santiago"	"San Juan Bosco"	226	2022-04-23
+"Morona Santiago"	"Santiago"	543	2022-04-23
+"Morona Santiago"	"Sucúa"	1360	2022-04-23
+"Morona Santiago"	"Taisha"	443	2022-04-23
+"Morona Santiago"	"Tiwintza"	183	2022-04-23
+"Morona Santiago"	"Gualaquiza"	1649	2022-04-24
+"Morona Santiago"	"Huamboya"	258	2022-04-24
+"Morona Santiago"	"Limón Indanza"	750	2022-04-24
+"Morona Santiago"	"Logroño"	223	2022-04-24
+"Morona Santiago"	"Morona"	4039	2022-04-24
+"Morona Santiago"	"Pablo Sexto"	150	2022-04-24
+"Morona Santiago"	"Palora"	677	2022-04-24
+"Morona Santiago"	"San Juan Bosco"	226	2022-04-24
+"Morona Santiago"	"Santiago"	543	2022-04-24
+"Morona Santiago"	"Sucúa"	1360	2022-04-24
+"Morona Santiago"	"Taisha"	443	2022-04-24
+"Morona Santiago"	"Tiwintza"	183	2022-04-24
+"Morona Santiago"	"Gualaquiza"	1649	2022-04-25
+"Morona Santiago"	"Huamboya"	258	2022-04-25
+"Morona Santiago"	"Limón Indanza"	750	2022-04-25
+"Morona Santiago"	"Logroño"	223	2022-04-25
+"Morona Santiago"	"Morona"	4039	2022-04-25
+"Morona Santiago"	"Pablo Sexto"	150	2022-04-25
+"Morona Santiago"	"Palora"	677	2022-04-25
+"Morona Santiago"	"San Juan Bosco"	226	2022-04-25
+"Morona Santiago"	"Santiago"	543	2022-04-25
+"Morona Santiago"	"Sucúa"	1360	2022-04-25
+"Morona Santiago"	"Taisha"	443	2022-04-25
+"Morona Santiago"	"Tiwintza"	183	2022-04-25
+"Morona Santiago"	"Gualaquiza"	1649	2022-04-26
+"Morona Santiago"	"Huamboya"	258	2022-04-26
+"Morona Santiago"	"Limón Indanza"	750	2022-04-26
+"Morona Santiago"	"Logroño"	223	2022-04-26
+"Morona Santiago"	"Morona"	4039	2022-04-26
+"Morona Santiago"	"Pablo Sexto"	151	2022-04-26
+"Morona Santiago"	"Palora"	677	2022-04-26
+"Morona Santiago"	"San Juan Bosco"	226	2022-04-26
+"Morona Santiago"	"Santiago"	543	2022-04-26
+"Morona Santiago"	"Sucúa"	1360	2022-04-26
+"Morona Santiago"	"Taisha"	443	2022-04-26
+"Morona Santiago"	"Tiwintza"	183	2022-04-26
+"Morona Santiago"	"Gualaquiza"	1649	2022-04-27
+"Morona Santiago"	"Huamboya"	258	2022-04-27
+"Morona Santiago"	"Limón Indanza"	750	2022-04-27
+"Morona Santiago"	"Logroño"	223	2022-04-27
+"Morona Santiago"	"Morona"	4039	2022-04-27
+"Morona Santiago"	"Pablo Sexto"	151	2022-04-27
+"Morona Santiago"	"Palora"	677	2022-04-27
+"Morona Santiago"	"San Juan Bosco"	226	2022-04-27
+"Morona Santiago"	"Santiago"	543	2022-04-27
+"Morona Santiago"	"Sucúa"	1360	2022-04-27
+"Morona Santiago"	"Taisha"	443	2022-04-27
+"Morona Santiago"	"Tiwintza"	183	2022-04-27

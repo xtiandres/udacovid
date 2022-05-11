@@ -1,4 +1,1180 @@
 "provincia"	"canton"	"total"	"created_at"
+"Pastaza"	"Arajuno"	0	2020-03-13
+"Pastaza"	"Mera"	0	2020-03-13
+"Pastaza"	"Pastaza"	0	2020-03-13
+"Pastaza"	"Santa Clara"	0	2020-03-13
+"Pastaza"	"Arajuno"	0	2020-03-14
+"Pastaza"	"Mera"	0	2020-03-14
+"Pastaza"	"Pastaza"	0	2020-03-14
+"Pastaza"	"Santa Clara"	0	2020-03-14
+"Pastaza"	"Arajuno"	0	2020-03-15
+"Pastaza"	"Mera"	0	2020-03-15
+"Pastaza"	"Pastaza"	0	2020-03-15
+"Pastaza"	"Santa Clara"	0	2020-03-15
+"Pastaza"	"Arajuno"	0	2020-03-16
+"Pastaza"	"Mera"	0	2020-03-16
+"Pastaza"	"Pastaza"	0	2020-03-16
+"Pastaza"	"Santa Clara"	0	2020-03-16
+"Pastaza"	"Arajuno"	0	2020-03-17
+"Pastaza"	"Mera"	0	2020-03-17
+"Pastaza"	"Pastaza"	0	2020-03-17
+"Pastaza"	"Santa Clara"	0	2020-03-17
+"Pastaza"	"Arajuno"	0	2020-03-18
+"Pastaza"	"Mera"	0	2020-03-18
+"Pastaza"	"Pastaza"	0	2020-03-18
+"Pastaza"	"Santa Clara"	0	2020-03-18
+"Pastaza"	"Arajuno"	0	2020-03-19
+"Pastaza"	"Mera"	0	2020-03-19
+"Pastaza"	"Pastaza"	0	2020-03-19
+"Pastaza"	"Santa Clara"	0	2020-03-19
+"Pastaza"	"Arajuno"	0	2020-03-20
+"Pastaza"	"Mera"	0	2020-03-20
+"Pastaza"	"Pastaza"	0	2020-03-20
+"Pastaza"	"Santa Clara"	0	2020-03-20
+"Pastaza"	"Arajuno"	0	2020-03-21
+"Pastaza"	"Mera"	0	2020-03-21
+"Pastaza"	"Pastaza"	0	2020-03-21
+"Pastaza"	"Santa Clara"	0	2020-03-21
+"Pastaza"	"Arajuno"	0	2020-03-22
+"Pastaza"	"Mera"	0	2020-03-22
+"Pastaza"	"Pastaza"	0	2020-03-22
+"Pastaza"	"Santa Clara"	0	2020-03-22
+"Pastaza"	"Arajuno"	0	2020-03-23
+"Pastaza"	"Mera"	0	2020-03-23
+"Pastaza"	"Pastaza"	0	2020-03-23
+"Pastaza"	"Santa Clara"	0	2020-03-23
+"Pastaza"	"Arajuno"	0	2020-03-24
+"Pastaza"	"Mera"	0	2020-03-24
+"Pastaza"	"Pastaza"	0	2020-03-24
+"Pastaza"	"Santa Clara"	0	2020-03-24
+"Pastaza"	"Arajuno"	0	2020-03-25
+"Pastaza"	"Mera"	0	2020-03-25
+"Pastaza"	"Pastaza"	1	2020-03-25
+"Pastaza"	"Santa Clara"	0	2020-03-25
+"Pastaza"	"Arajuno"	0	2020-03-26
+"Pastaza"	"Mera"	1	2020-03-26
+"Pastaza"	"Pastaza"	1	2020-03-26
+"Pastaza"	"Santa Clara"	0	2020-03-26
+"Pastaza"	"Arajuno"	0	2020-03-27
+"Pastaza"	"Mera"	1	2020-03-27
+"Pastaza"	"Pastaza"	1	2020-03-27
+"Pastaza"	"Santa Clara"	0	2020-03-27
+"Pastaza"	"Arajuno"	0	2020-03-28
+"Pastaza"	"Mera"	1	2020-03-28
+"Pastaza"	"Pastaza"	4	2020-03-28
+"Pastaza"	"Santa Clara"	0	2020-03-28
+"Pastaza"	"Arajuno"	0	2020-03-29
+"Pastaza"	"Mera"	1	2020-03-29
+"Pastaza"	"Pastaza"	4	2020-03-29
+"Pastaza"	"Santa Clara"	0	2020-03-29
+"Pastaza"	"Arajuno"	0	2020-03-30
+"Pastaza"	"Mera"	1	2020-03-30
+"Pastaza"	"Pastaza"	4	2020-03-30
+"Pastaza"	"Santa Clara"	0	2020-03-30
+"Pastaza"	"Arajuno"	0	2020-03-31
+"Pastaza"	"Mera"	1	2020-03-31
+"Pastaza"	"Pastaza"	4	2020-03-31
+"Pastaza"	"Santa Clara"	0	2020-03-31
+"Pastaza"	"Arajuno"	0	2020-04-01
+"Pastaza"	"Mera"	1	2020-04-01
+"Pastaza"	"Pastaza"	4	2020-04-01
+"Pastaza"	"Santa Clara"	0	2020-04-01
+"Pastaza"	"Arajuno"	0	2020-04-02
+"Pastaza"	"Mera"	1	2020-04-02
+"Pastaza"	"Pastaza"	6	2020-04-02
+"Pastaza"	"Santa Clara"	0	2020-04-02
+"Pastaza"	"Arajuno"	0	2020-04-03
+"Pastaza"	"Mera"	1	2020-04-03
+"Pastaza"	"Pastaza"	8	2020-04-03
+"Pastaza"	"Santa Clara"	0	2020-04-03
+"Pastaza"	"Arajuno"	0	2020-04-04
+"Pastaza"	"Mera"	1	2020-04-04
+"Pastaza"	"Pastaza"	8	2020-04-04
+"Pastaza"	"Santa Clara"	0	2020-04-04
+"Pastaza"	"Arajuno"	0	2020-04-05
+"Pastaza"	"Mera"	1	2020-04-05
+"Pastaza"	"Pastaza"	10	2020-04-05
+"Pastaza"	"Santa Clara"	0	2020-04-05
+"Pastaza"	"Arajuno"	0	2020-04-06
+"Pastaza"	"Mera"	1	2020-04-06
+"Pastaza"	"Pastaza"	11	2020-04-06
+"Pastaza"	"Santa Clara"	0	2020-04-06
+"Pastaza"	"Arajuno"	0	2020-04-07
+"Pastaza"	"Mera"	1	2020-04-07
+"Pastaza"	"Pastaza"	11	2020-04-07
+"Pastaza"	"Santa Clara"	0	2020-04-07
+"Pastaza"	"Arajuno"	0	2020-04-08
+"Pastaza"	"Mera"	1	2020-04-08
+"Pastaza"	"Pastaza"	11	2020-04-08
+"Pastaza"	"Santa Clara"	0	2020-04-08
+"Pastaza"	"Arajuno"	0	2020-04-09
+"Pastaza"	"Mera"	1	2020-04-09
+"Pastaza"	"Pastaza"	11	2020-04-09
+"Pastaza"	"Santa Clara"	0	2020-04-09
+"Pastaza"	"Arajuno"	0	2020-04-10
+"Pastaza"	"Mera"	1	2020-04-10
+"Pastaza"	"Pastaza"	12	2020-04-10
+"Pastaza"	"Santa Clara"	0	2020-04-10
+"Pastaza"	"Arajuno"	0	2020-04-11
+"Pastaza"	"Mera"	1	2020-04-11
+"Pastaza"	"Pastaza"	12	2020-04-11
+"Pastaza"	"Santa Clara"	0	2020-04-11
+"Pastaza"	"Arajuno"	0	2020-04-12
+"Pastaza"	"Mera"	1	2020-04-12
+"Pastaza"	"Pastaza"	12	2020-04-12
+"Pastaza"	"Santa Clara"	0	2020-04-12
+"Pastaza"	"Arajuno"	0	2020-04-13
+"Pastaza"	"Mera"	1	2020-04-13
+"Pastaza"	"Pastaza"	12	2020-04-13
+"Pastaza"	"Santa Clara"	0	2020-04-13
+"Pastaza"	"Arajuno"	0	2020-04-14
+"Pastaza"	"Mera"	1	2020-04-14
+"Pastaza"	"Pastaza"	13	2020-04-14
+"Pastaza"	"Santa Clara"	0	2020-04-14
+"Pastaza"	"Arajuno"	0	2020-04-15
+"Pastaza"	"Mera"	1	2020-04-15
+"Pastaza"	"Pastaza"	15	2020-04-15
+"Pastaza"	"Santa Clara"	0	2020-04-15
+"Pastaza"	"Arajuno"	0	2020-04-16
+"Pastaza"	"Mera"	1	2020-04-16
+"Pastaza"	"Pastaza"	15	2020-04-16
+"Pastaza"	"Santa Clara"	1	2020-04-16
+"Pastaza"	"Arajuno"	0	2020-04-17
+"Pastaza"	"Mera"	1	2020-04-17
+"Pastaza"	"Pastaza"	16	2020-04-17
+"Pastaza"	"Santa Clara"	1	2020-04-17
+"Pastaza"	"Arajuno"	0	2020-04-18
+"Pastaza"	"Mera"	1	2020-04-18
+"Pastaza"	"Pastaza"	16	2020-04-18
+"Pastaza"	"Santa Clara"	1	2020-04-18
+"Pastaza"	"Arajuno"	0	2020-04-19
+"Pastaza"	"Mera"	1	2020-04-19
+"Pastaza"	"Pastaza"	17	2020-04-19
+"Pastaza"	"Santa Clara"	2	2020-04-19
+"Pastaza"	"Arajuno"	0	2020-04-20
+"Pastaza"	"Mera"	1	2020-04-20
+"Pastaza"	"Pastaza"	17	2020-04-20
+"Pastaza"	"Santa Clara"	2	2020-04-20
+"Pastaza"	"Arajuno"	0	2020-04-21
+"Pastaza"	"Mera"	1	2020-04-21
+"Pastaza"	"Pastaza"	17	2020-04-21
+"Pastaza"	"Santa Clara"	2	2020-04-21
+"Pastaza"	"Arajuno"	0	2020-04-22
+"Pastaza"	"Mera"	1	2020-04-22
+"Pastaza"	"Pastaza"	17	2020-04-22
+"Pastaza"	"Santa Clara"	2	2020-04-22
+"Pastaza"	"Arajuno"	0	2020-04-23
+"Pastaza"	"Mera"	1	2020-04-23
+"Pastaza"	"Pastaza"	21	2020-04-23
+"Pastaza"	"Santa Clara"	3	2020-04-23
+"Pastaza"	"Arajuno"	0	2020-04-24
+"Pastaza"	"Mera"	1	2020-04-24
+"Pastaza"	"Pastaza"	21	2020-04-24
+"Pastaza"	"Santa Clara"	3	2020-04-24
+"Pastaza"	"Arajuno"	0	2020-04-25
+"Pastaza"	"Mera"	1	2020-04-25
+"Pastaza"	"Pastaza"	21	2020-04-25
+"Pastaza"	"Santa Clara"	3	2020-04-25
+"Pastaza"	"Arajuno"	0	2020-04-26
+"Pastaza"	"Mera"	1	2020-04-26
+"Pastaza"	"Pastaza"	21	2020-04-26
+"Pastaza"	"Santa Clara"	3	2020-04-26
+"Pastaza"	"Arajuno"	0	2020-04-27
+"Pastaza"	"Mera"	1	2020-04-27
+"Pastaza"	"Pastaza"	21	2020-04-27
+"Pastaza"	"Santa Clara"	3	2020-04-27
+"Pastaza"	"Arajuno"	1	2020-04-28
+"Pastaza"	"Mera"	4	2020-04-28
+"Pastaza"	"Pastaza"	31	2020-04-28
+"Pastaza"	"Santa Clara"	7	2020-04-28
+"Pastaza"	"Arajuno"	1	2020-04-29
+"Pastaza"	"Mera"	4	2020-04-29
+"Pastaza"	"Pastaza"	32	2020-04-29
+"Pastaza"	"Santa Clara"	7	2020-04-29
+"Pastaza"	"Arajuno"	1	2020-04-30
+"Pastaza"	"Mera"	4	2020-04-30
+"Pastaza"	"Pastaza"	34	2020-04-30
+"Pastaza"	"Santa Clara"	7	2020-04-30
+"Pastaza"	"Arajuno"	1	2020-05-01
+"Pastaza"	"Mera"	4	2020-05-01
+"Pastaza"	"Pastaza"	35	2020-05-01
+"Pastaza"	"Santa Clara"	10	2020-05-01
+"Pastaza"	"Arajuno"	1	2020-05-02
+"Pastaza"	"Mera"	4	2020-05-02
+"Pastaza"	"Pastaza"	37	2020-05-02
+"Pastaza"	"Santa Clara"	10	2020-05-02
+"Pastaza"	"Arajuno"	2	2020-05-03
+"Pastaza"	"Mera"	4	2020-05-03
+"Pastaza"	"Pastaza"	39	2020-05-03
+"Pastaza"	"Santa Clara"	19	2020-05-03
+"Pastaza"	"Arajuno"	3	2020-05-04
+"Pastaza"	"Mera"	4	2020-05-04
+"Pastaza"	"Pastaza"	40	2020-05-04
+"Pastaza"	"Santa Clara"	20	2020-05-04
+"Pastaza"	"Arajuno"	3	2020-05-05
+"Pastaza"	"Mera"	4	2020-05-05
+"Pastaza"	"Pastaza"	40	2020-05-05
+"Pastaza"	"Santa Clara"	20	2020-05-05
+"Pastaza"	"Arajuno"	4	2020-05-06
+"Pastaza"	"Mera"	8	2020-05-06
+"Pastaza"	"Pastaza"	45	2020-05-06
+"Pastaza"	"Santa Clara"	19	2020-05-06
+"Pastaza"	"Arajuno"	4	2020-05-07
+"Pastaza"	"Mera"	9	2020-05-07
+"Pastaza"	"Pastaza"	48	2020-05-07
+"Pastaza"	"Santa Clara"	19	2020-05-07
+"Pastaza"	"Arajuno"	4	2020-05-08
+"Pastaza"	"Mera"	14	2020-05-08
+"Pastaza"	"Pastaza"	45	2020-05-08
+"Pastaza"	"Santa Clara"	19	2020-05-08
+"Pastaza"	"Arajuno"	4	2020-05-09
+"Pastaza"	"Mera"	14	2020-05-09
+"Pastaza"	"Pastaza"	50	2020-05-09
+"Pastaza"	"Santa Clara"	19	2020-05-09
+"Pastaza"	"Arajuno"	9	2020-05-10
+"Pastaza"	"Mera"	16	2020-05-10
+"Pastaza"	"Pastaza"	53	2020-05-10
+"Pastaza"	"Santa Clara"	19	2020-05-10
+"Pastaza"	"Arajuno"	4	2020-05-11
+"Pastaza"	"Mera"	14	2020-05-11
+"Pastaza"	"Pastaza"	50	2020-05-11
+"Pastaza"	"Santa Clara"	19	2020-05-11
+"Pastaza"	"Arajuno"	9	2020-05-12
+"Pastaza"	"Mera"	18	2020-05-12
+"Pastaza"	"Pastaza"	64	2020-05-12
+"Pastaza"	"Santa Clara"	23	2020-05-12
+"Pastaza"	"Arajuno"	9	2020-05-13
+"Pastaza"	"Mera"	18	2020-05-13
+"Pastaza"	"Pastaza"	64	2020-05-13
+"Pastaza"	"Santa Clara"	23	2020-05-13
+"Pastaza"	"Arajuno"	9	2020-05-14
+"Pastaza"	"Mera"	18	2020-05-14
+"Pastaza"	"Pastaza"	64	2020-05-14
+"Pastaza"	"Santa Clara"	23	2020-05-14
+"Pastaza"	"Arajuno"	9	2020-05-15
+"Pastaza"	"Mera"	20	2020-05-15
+"Pastaza"	"Pastaza"	64	2020-05-15
+"Pastaza"	"Santa Clara"	23	2020-05-15
+"Pastaza"	"Arajuno"	12	2020-05-16
+"Pastaza"	"Mera"	21	2020-05-16
+"Pastaza"	"Pastaza"	69	2020-05-16
+"Pastaza"	"Santa Clara"	25	2020-05-16
+"Pastaza"	"Arajuno"	12	2020-05-17
+"Pastaza"	"Mera"	23	2020-05-17
+"Pastaza"	"Pastaza"	69	2020-05-17
+"Pastaza"	"Santa Clara"	25	2020-05-17
+"Pastaza"	"Arajuno"	12	2020-05-18
+"Pastaza"	"Mera"	25	2020-05-18
+"Pastaza"	"Pastaza"	69	2020-05-18
+"Pastaza"	"Santa Clara"	25	2020-05-18
+"Pastaza"	"Arajuno"	12	2020-05-19
+"Pastaza"	"Mera"	26	2020-05-19
+"Pastaza"	"Pastaza"	73	2020-05-19
+"Pastaza"	"Santa Clara"	25	2020-05-19
+"Pastaza"	"Arajuno"	16	2020-05-20
+"Pastaza"	"Mera"	40	2020-05-20
+"Pastaza"	"Pastaza"	84	2020-05-20
+"Pastaza"	"Santa Clara"	27	2020-05-20
+"Pastaza"	"Arajuno"	17	2020-05-21
+"Pastaza"	"Mera"	43	2020-05-21
+"Pastaza"	"Pastaza"	88	2020-05-21
+"Pastaza"	"Santa Clara"	27	2020-05-21
+"Pastaza"	"Arajuno"	17	2020-05-22
+"Pastaza"	"Mera"	44	2020-05-22
+"Pastaza"	"Pastaza"	95	2020-05-22
+"Pastaza"	"Santa Clara"	28	2020-05-22
+"Pastaza"	"Arajuno"	18	2020-05-23
+"Pastaza"	"Mera"	47	2020-05-23
+"Pastaza"	"Pastaza"	95	2020-05-23
+"Pastaza"	"Santa Clara"	28	2020-05-23
+"Pastaza"	"Arajuno"	18	2020-05-24
+"Pastaza"	"Mera"	47	2020-05-24
+"Pastaza"	"Pastaza"	101	2020-05-24
+"Pastaza"	"Santa Clara"	29	2020-05-24
+"Pastaza"	"Arajuno"	21	2020-05-25
+"Pastaza"	"Mera"	51	2020-05-25
+"Pastaza"	"Pastaza"	113	2020-05-25
+"Pastaza"	"Santa Clara"	29	2020-05-25
+"Pastaza"	"Arajuno"	21	2020-05-26
+"Pastaza"	"Mera"	53	2020-05-26
+"Pastaza"	"Pastaza"	117	2020-05-26
+"Pastaza"	"Santa Clara"	29	2020-05-26
+"Pastaza"	"Arajuno"	21	2020-05-27
+"Pastaza"	"Mera"	53	2020-05-27
+"Pastaza"	"Pastaza"	122	2020-05-27
+"Pastaza"	"Santa Clara"	29	2020-05-27
+"Pastaza"	"Arajuno"	21	2020-05-28
+"Pastaza"	"Mera"	55	2020-05-28
+"Pastaza"	"Pastaza"	122	2020-05-28
+"Pastaza"	"Santa Clara"	29	2020-05-28
+"Pastaza"	"Arajuno"	21	2020-05-29
+"Pastaza"	"Mera"	56	2020-05-29
+"Pastaza"	"Pastaza"	122	2020-05-29
+"Pastaza"	"Santa Clara"	29	2020-05-29
+"Pastaza"	"Arajuno"	21	2020-05-30
+"Pastaza"	"Mera"	56	2020-05-30
+"Pastaza"	"Pastaza"	122	2020-05-30
+"Pastaza"	"Santa Clara"	29	2020-05-30
+"Pastaza"	"Arajuno"	21	2020-05-31
+"Pastaza"	"Mera"	56	2020-05-31
+"Pastaza"	"Pastaza"	122	2020-05-31
+"Pastaza"	"Santa Clara"	29	2020-05-31
+"Pastaza"	"Arajuno"	22	2020-06-01
+"Pastaza"	"Mera"	63	2020-06-01
+"Pastaza"	"Pastaza"	164	2020-06-01
+"Pastaza"	"Santa Clara"	30	2020-06-01
+"Pastaza"	"Arajuno"	22	2020-06-02
+"Pastaza"	"Mera"	63	2020-06-02
+"Pastaza"	"Pastaza"	167	2020-06-02
+"Pastaza"	"Santa Clara"	30	2020-06-02
+"Pastaza"	"Arajuno"	22	2020-06-03
+"Pastaza"	"Mera"	69	2020-06-03
+"Pastaza"	"Pastaza"	183	2020-06-03
+"Pastaza"	"Santa Clara"	30	2020-06-03
+"Pastaza"	"Arajuno"	22	2020-06-04
+"Pastaza"	"Mera"	70	2020-06-04
+"Pastaza"	"Pastaza"	184	2020-06-04
+"Pastaza"	"Santa Clara"	30	2020-06-04
+"Pastaza"	"Arajuno"	22	2020-06-05
+"Pastaza"	"Mera"	71	2020-06-05
+"Pastaza"	"Pastaza"	185	2020-06-05
+"Pastaza"	"Santa Clara"	30	2020-06-05
+"Pastaza"	"Arajuno"	23	2020-06-06
+"Pastaza"	"Mera"	71	2020-06-06
+"Pastaza"	"Pastaza"	193	2020-06-06
+"Pastaza"	"Santa Clara"	30	2020-06-06
+"Pastaza"	"Arajuno"	23	2020-06-07
+"Pastaza"	"Mera"	71	2020-06-07
+"Pastaza"	"Pastaza"	196	2020-06-07
+"Pastaza"	"Santa Clara"	30	2020-06-07
+"Pastaza"	"Arajuno"	23	2020-06-08
+"Pastaza"	"Mera"	74	2020-06-08
+"Pastaza"	"Pastaza"	197	2020-06-08
+"Pastaza"	"Santa Clara"	30	2020-06-08
+"Pastaza"	"Arajuno"	23	2020-06-09
+"Pastaza"	"Mera"	74	2020-06-09
+"Pastaza"	"Pastaza"	197	2020-06-09
+"Pastaza"	"Santa Clara"	32	2020-06-09
+"Pastaza"	"Arajuno"	23	2020-06-10
+"Pastaza"	"Mera"	78	2020-06-10
+"Pastaza"	"Pastaza"	224	2020-06-10
+"Pastaza"	"Santa Clara"	32	2020-06-10
+"Pastaza"	"Arajuno"	23	2020-06-11
+"Pastaza"	"Mera"	80	2020-06-11
+"Pastaza"	"Pastaza"	228	2020-06-11
+"Pastaza"	"Santa Clara"	32	2020-06-11
+"Pastaza"	"Arajuno"	27	2020-06-12
+"Pastaza"	"Mera"	92	2020-06-12
+"Pastaza"	"Pastaza"	229	2020-06-12
+"Pastaza"	"Santa Clara"	32	2020-06-12
+"Pastaza"	"Arajuno"	27	2020-06-13
+"Pastaza"	"Mera"	92	2020-06-13
+"Pastaza"	"Pastaza"	240	2020-06-13
+"Pastaza"	"Santa Clara"	32	2020-06-13
+"Pastaza"	"Arajuno"	27	2020-06-14
+"Pastaza"	"Mera"	92	2020-06-14
+"Pastaza"	"Pastaza"	241	2020-06-14
+"Pastaza"	"Santa Clara"	32	2020-06-14
+"Pastaza"	"Arajuno"	27	2020-06-15
+"Pastaza"	"Mera"	94	2020-06-15
+"Pastaza"	"Pastaza"	282	2020-06-15
+"Pastaza"	"Santa Clara"	36	2020-06-15
+"Pastaza"	"Arajuno"	27	2020-06-16
+"Pastaza"	"Mera"	94	2020-06-16
+"Pastaza"	"Pastaza"	284	2020-06-16
+"Pastaza"	"Santa Clara"	36	2020-06-16
+"Pastaza"	"Arajuno"	27	2020-06-17
+"Pastaza"	"Mera"	94	2020-06-17
+"Pastaza"	"Pastaza"	305	2020-06-17
+"Pastaza"	"Santa Clara"	36	2020-06-17
+"Pastaza"	"Arajuno"	27	2020-06-18
+"Pastaza"	"Mera"	101	2020-06-18
+"Pastaza"	"Pastaza"	320	2020-06-18
+"Pastaza"	"Santa Clara"	36	2020-06-18
+"Pastaza"	"Arajuno"	42	2020-06-19
+"Pastaza"	"Mera"	106	2020-06-19
+"Pastaza"	"Pastaza"	355	2020-06-19
+"Pastaza"	"Santa Clara"	36	2020-06-19
+"Pastaza"	"Arajuno"	42	2020-06-20
+"Pastaza"	"Mera"	106	2020-06-20
+"Pastaza"	"Pastaza"	355	2020-06-20
+"Pastaza"	"Santa Clara"	36	2020-06-20
+"Pastaza"	"Arajuno"	43	2020-06-21
+"Pastaza"	"Mera"	106	2020-06-21
+"Pastaza"	"Pastaza"	355	2020-06-21
+"Pastaza"	"Santa Clara"	36	2020-06-21
+"Pastaza"	"Arajuno"	43	2020-06-22
+"Pastaza"	"Mera"	106	2020-06-22
+"Pastaza"	"Pastaza"	355	2020-06-22
+"Pastaza"	"Santa Clara"	36	2020-06-22
+"Pastaza"	"Arajuno"	45	2020-06-23
+"Pastaza"	"Mera"	106	2020-06-23
+"Pastaza"	"Pastaza"	366	2020-06-23
+"Pastaza"	"Santa Clara"	36	2020-06-23
+"Pastaza"	"Arajuno"	45	2020-06-24
+"Pastaza"	"Mera"	123	2020-06-24
+"Pastaza"	"Pastaza"	370	2020-06-24
+"Pastaza"	"Santa Clara"	36	2020-06-24
+"Pastaza"	"Arajuno"	49	2020-06-25
+"Pastaza"	"Mera"	128	2020-06-25
+"Pastaza"	"Pastaza"	398	2020-06-25
+"Pastaza"	"Santa Clara"	39	2020-06-25
+"Pastaza"	"Arajuno"	49	2020-06-26
+"Pastaza"	"Mera"	128	2020-06-26
+"Pastaza"	"Pastaza"	400	2020-06-26
+"Pastaza"	"Santa Clara"	39	2020-06-26
+"Pastaza"	"Arajuno"	49	2020-06-27
+"Pastaza"	"Mera"	130	2020-06-27
+"Pastaza"	"Pastaza"	412	2020-06-27
+"Pastaza"	"Santa Clara"	39	2020-06-27
+"Pastaza"	"Arajuno"	49	2020-06-28
+"Pastaza"	"Mera"	132	2020-06-28
+"Pastaza"	"Pastaza"	421	2020-06-28
+"Pastaza"	"Santa Clara"	39	2020-06-28
+"Pastaza"	"Arajuno"	49	2020-06-29
+"Pastaza"	"Mera"	132	2020-06-29
+"Pastaza"	"Pastaza"	428	2020-06-29
+"Pastaza"	"Santa Clara"	40	2020-06-29
+"Pastaza"	"Arajuno"	64	2020-06-30
+"Pastaza"	"Mera"	138	2020-06-30
+"Pastaza"	"Pastaza"	444	2020-06-30
+"Pastaza"	"Santa Clara"	40	2020-06-30
+"Pastaza"	"Arajuno"	64	2020-07-01
+"Pastaza"	"Mera"	145	2020-07-01
+"Pastaza"	"Pastaza"	456	2020-07-01
+"Pastaza"	"Santa Clara"	40	2020-07-01
+"Pastaza"	"Arajuno"	64	2020-07-02
+"Pastaza"	"Mera"	148	2020-07-02
+"Pastaza"	"Pastaza"	504	2020-07-02
+"Pastaza"	"Santa Clara"	44	2020-07-02
+"Pastaza"	"Arajuno"	65	2020-07-03
+"Pastaza"	"Mera"	154	2020-07-03
+"Pastaza"	"Pastaza"	529	2020-07-03
+"Pastaza"	"Santa Clara"	44	2020-07-03
+"Pastaza"	"Arajuno"	65	2020-07-04
+"Pastaza"	"Mera"	154	2020-07-04
+"Pastaza"	"Pastaza"	542	2020-07-04
+"Pastaza"	"Santa Clara"	44	2020-07-04
+"Pastaza"	"Arajuno"	65	2020-07-05
+"Pastaza"	"Mera"	173	2020-07-05
+"Pastaza"	"Pastaza"	547	2020-07-05
+"Pastaza"	"Santa Clara"	45	2020-07-05
+"Pastaza"	"Arajuno"	65	2020-07-06
+"Pastaza"	"Mera"	173	2020-07-06
+"Pastaza"	"Pastaza"	554	2020-07-06
+"Pastaza"	"Santa Clara"	45	2020-07-06
+"Pastaza"	"Arajuno"	65	2020-07-07
+"Pastaza"	"Mera"	230	2020-07-07
+"Pastaza"	"Pastaza"	558	2020-07-07
+"Pastaza"	"Santa Clara"	46	2020-07-07
+"Pastaza"	"Arajuno"	75	2020-07-08
+"Pastaza"	"Mera"	230	2020-07-08
+"Pastaza"	"Pastaza"	558	2020-07-08
+"Pastaza"	"Santa Clara"	46	2020-07-08
+"Pastaza"	"Arajuno"	75	2020-07-09
+"Pastaza"	"Mera"	230	2020-07-09
+"Pastaza"	"Pastaza"	570	2020-07-09
+"Pastaza"	"Santa Clara"	46	2020-07-09
+"Pastaza"	"Arajuno"	75	2020-07-10
+"Pastaza"	"Mera"	233	2020-07-10
+"Pastaza"	"Pastaza"	585	2020-07-10
+"Pastaza"	"Santa Clara"	48	2020-07-10
+"Pastaza"	"Arajuno"	75	2020-07-11
+"Pastaza"	"Mera"	233	2020-07-11
+"Pastaza"	"Pastaza"	606	2020-07-11
+"Pastaza"	"Santa Clara"	48	2020-07-11
+"Pastaza"	"Arajuno"	75	2020-07-12
+"Pastaza"	"Mera"	233	2020-07-12
+"Pastaza"	"Pastaza"	606	2020-07-12
+"Pastaza"	"Santa Clara"	48	2020-07-12
+"Pastaza"	"Arajuno"	75	2020-07-13
+"Pastaza"	"Mera"	233	2020-07-13
+"Pastaza"	"Pastaza"	606	2020-07-13
+"Pastaza"	"Santa Clara"	48	2020-07-13
+"Pastaza"	"Arajuno"	83	2020-07-14
+"Pastaza"	"Mera"	259	2020-07-14
+"Pastaza"	"Pastaza"	622	2020-07-14
+"Pastaza"	"Santa Clara"	48	2020-07-14
+"Pastaza"	"Arajuno"	83	2020-07-15
+"Pastaza"	"Mera"	267	2020-07-15
+"Pastaza"	"Pastaza"	637	2020-07-15
+"Pastaza"	"Santa Clara"	48	2020-07-15
+"Pastaza"	"Arajuno"	83	2020-07-16
+"Pastaza"	"Mera"	279	2020-07-16
+"Pastaza"	"Pastaza"	644	2020-07-16
+"Pastaza"	"Santa Clara"	48	2020-07-16
+"Pastaza"	"Arajuno"	83	2020-07-17
+"Pastaza"	"Mera"	285	2020-07-17
+"Pastaza"	"Pastaza"	645	2020-07-17
+"Pastaza"	"Santa Clara"	48	2020-07-17
+"Pastaza"	"Arajuno"	87	2020-07-18
+"Pastaza"	"Mera"	293	2020-07-18
+"Pastaza"	"Pastaza"	691	2020-07-18
+"Pastaza"	"Santa Clara"	48	2020-07-18
+"Pastaza"	"Arajuno"	87	2020-07-19
+"Pastaza"	"Mera"	293	2020-07-19
+"Pastaza"	"Pastaza"	691	2020-07-19
+"Pastaza"	"Santa Clara"	48	2020-07-19
+"Pastaza"	"Arajuno"	87	2020-07-20
+"Pastaza"	"Mera"	293	2020-07-20
+"Pastaza"	"Pastaza"	693	2020-07-20
+"Pastaza"	"Santa Clara"	48	2020-07-20
+"Pastaza"	"Arajuno"	87	2020-07-21
+"Pastaza"	"Mera"	331	2020-07-21
+"Pastaza"	"Pastaza"	702	2020-07-21
+"Pastaza"	"Santa Clara"	48	2020-07-21
+"Pastaza"	"Arajuno"	87	2020-07-22
+"Pastaza"	"Mera"	333	2020-07-22
+"Pastaza"	"Pastaza"	736	2020-07-22
+"Pastaza"	"Santa Clara"	56	2020-07-22
+"Pastaza"	"Arajuno"	87	2020-07-23
+"Pastaza"	"Mera"	334	2020-07-23
+"Pastaza"	"Pastaza"	796	2020-07-23
+"Pastaza"	"Santa Clara"	57	2020-07-23
+"Pastaza"	"Arajuno"	95	2020-07-24
+"Pastaza"	"Mera"	337	2020-07-24
+"Pastaza"	"Pastaza"	806	2020-07-24
+"Pastaza"	"Santa Clara"	57	2020-07-24
+"Pastaza"	"Arajuno"	95	2020-07-25
+"Pastaza"	"Mera"	337	2020-07-25
+"Pastaza"	"Pastaza"	807	2020-07-25
+"Pastaza"	"Santa Clara"	57	2020-07-25
+"Pastaza"	"Arajuno"	95	2020-07-26
+"Pastaza"	"Mera"	347	2020-07-26
+"Pastaza"	"Pastaza"	827	2020-07-26
+"Pastaza"	"Santa Clara"	57	2020-07-26
+"Pastaza"	"Arajuno"	95	2020-07-27
+"Pastaza"	"Mera"	347	2020-07-27
+"Pastaza"	"Pastaza"	827	2020-07-27
+"Pastaza"	"Santa Clara"	57	2020-07-27
+"Pastaza"	"Arajuno"	98	2020-07-28
+"Pastaza"	"Mera"	352	2020-07-28
+"Pastaza"	"Pastaza"	835	2020-07-28
+"Pastaza"	"Santa Clara"	57	2020-07-28
+"Pastaza"	"Arajuno"	98	2020-07-29
+"Pastaza"	"Mera"	353	2020-07-29
+"Pastaza"	"Pastaza"	840	2020-07-29
+"Pastaza"	"Santa Clara"	57	2020-07-29
+"Pastaza"	"Arajuno"	98	2020-07-30
+"Pastaza"	"Mera"	353	2020-07-30
+"Pastaza"	"Pastaza"	841	2020-07-30
+"Pastaza"	"Santa Clara"	57	2020-07-30
+"Pastaza"	"Arajuno"	98	2020-07-31
+"Pastaza"	"Mera"	353	2020-07-31
+"Pastaza"	"Pastaza"	862	2020-07-31
+"Pastaza"	"Santa Clara"	63	2020-07-31
+"Pastaza"	"Arajuno"	98	2020-08-01
+"Pastaza"	"Mera"	353	2020-08-01
+"Pastaza"	"Pastaza"	862	2020-08-01
+"Pastaza"	"Santa Clara"	64	2020-08-01
+"Pastaza"	"Arajuno"	98	2020-08-02
+"Pastaza"	"Mera"	353	2020-08-02
+"Pastaza"	"Pastaza"	862	2020-08-02
+"Pastaza"	"Santa Clara"	64	2020-08-02
+"Pastaza"	"Arajuno"	98	2020-08-03
+"Pastaza"	"Mera"	353	2020-08-03
+"Pastaza"	"Pastaza"	862	2020-08-03
+"Pastaza"	"Santa Clara"	64	2020-08-03
+"Pastaza"	"Arajuno"	98	2020-08-04
+"Pastaza"	"Mera"	353	2020-08-04
+"Pastaza"	"Pastaza"	865	2020-08-04
+"Pastaza"	"Santa Clara"	64	2020-08-04
+"Pastaza"	"Arajuno"	101	2020-08-05
+"Pastaza"	"Mera"	393	2020-08-05
+"Pastaza"	"Pastaza"	883	2020-08-05
+"Pastaza"	"Santa Clara"	64	2020-08-05
+"Pastaza"	"Arajuno"	101	2020-08-06
+"Pastaza"	"Mera"	407	2020-08-06
+"Pastaza"	"Pastaza"	922	2020-08-06
+"Pastaza"	"Santa Clara"	64	2020-08-06
+"Pastaza"	"Arajuno"	101	2020-08-07
+"Pastaza"	"Mera"	407	2020-08-07
+"Pastaza"	"Pastaza"	925	2020-08-07
+"Pastaza"	"Santa Clara"	64	2020-08-07
+"Pastaza"	"Arajuno"	101	2020-08-08
+"Pastaza"	"Mera"	420	2020-08-08
+"Pastaza"	"Pastaza"	954	2020-08-08
+"Pastaza"	"Santa Clara"	64	2020-08-08
+"Pastaza"	"Arajuno"	101	2020-08-09
+"Pastaza"	"Mera"	420	2020-08-09
+"Pastaza"	"Pastaza"	957	2020-08-09
+"Pastaza"	"Santa Clara"	69	2020-08-09
+"Pastaza"	"Arajuno"	101	2020-08-10
+"Pastaza"	"Mera"	420	2020-08-10
+"Pastaza"	"Pastaza"	957	2020-08-10
+"Pastaza"	"Santa Clara"	69	2020-08-10
+"Pastaza"	"Arajuno"	101	2020-08-11
+"Pastaza"	"Mera"	420	2020-08-11
+"Pastaza"	"Pastaza"	962	2020-08-11
+"Pastaza"	"Santa Clara"	70	2020-08-11
+"Pastaza"	"Arajuno"	101	2020-08-12
+"Pastaza"	"Mera"	456	2020-08-12
+"Pastaza"	"Pastaza"	1000	2020-08-12
+"Pastaza"	"Santa Clara"	88	2020-08-12
+"Pastaza"	"Arajuno"	103	2020-08-13
+"Pastaza"	"Mera"	456	2020-08-13
+"Pastaza"	"Pastaza"	1015	2020-08-13
+"Pastaza"	"Santa Clara"	88	2020-08-13
+"Pastaza"	"Arajuno"	103	2020-08-14
+"Pastaza"	"Mera"	456	2020-08-14
+"Pastaza"	"Pastaza"	1015	2020-08-14
+"Pastaza"	"Santa Clara"	88	2020-08-14
+"Pastaza"	"Arajuno"	103	2020-08-15
+"Pastaza"	"Mera"	478	2020-08-15
+"Pastaza"	"Pastaza"	1036	2020-08-15
+"Pastaza"	"Santa Clara"	88	2020-08-15
+"Pastaza"	"Arajuno"	103	2020-08-16
+"Pastaza"	"Mera"	479	2020-08-16
+"Pastaza"	"Pastaza"	1038	2020-08-16
+"Pastaza"	"Santa Clara"	88	2020-08-16
+"Pastaza"	"Arajuno"	103	2020-08-17
+"Pastaza"	"Mera"	479	2020-08-17
+"Pastaza"	"Pastaza"	1039	2020-08-17
+"Pastaza"	"Santa Clara"	88	2020-08-17
+"Pastaza"	"Arajuno"	103	2020-08-18
+"Pastaza"	"Mera"	482	2020-08-18
+"Pastaza"	"Pastaza"	1047	2020-08-18
+"Pastaza"	"Santa Clara"	88	2020-08-18
+"Pastaza"	"Arajuno"	105	2020-08-19
+"Pastaza"	"Mera"	508	2020-08-19
+"Pastaza"	"Pastaza"	1058	2020-08-19
+"Pastaza"	"Santa Clara"	88	2020-08-19
+"Pastaza"	"Arajuno"	105	2020-08-20
+"Pastaza"	"Mera"	509	2020-08-20
+"Pastaza"	"Pastaza"	1078	2020-08-20
+"Pastaza"	"Santa Clara"	88	2020-08-20
+"Pastaza"	"Arajuno"	105	2020-08-21
+"Pastaza"	"Mera"	513	2020-08-21
+"Pastaza"	"Pastaza"	1090	2020-08-21
+"Pastaza"	"Santa Clara"	88	2020-08-21
+"Pastaza"	"Arajuno"	105	2020-08-22
+"Pastaza"	"Mera"	513	2020-08-22
+"Pastaza"	"Pastaza"	1090	2020-08-22
+"Pastaza"	"Santa Clara"	90	2020-08-22
+"Pastaza"	"Arajuno"	105	2020-08-23
+"Pastaza"	"Mera"	513	2020-08-23
+"Pastaza"	"Pastaza"	1094	2020-08-23
+"Pastaza"	"Santa Clara"	90	2020-08-23
+"Pastaza"	"Arajuno"	105	2020-08-24
+"Pastaza"	"Mera"	513	2020-08-24
+"Pastaza"	"Pastaza"	1097	2020-08-24
+"Pastaza"	"Santa Clara"	90	2020-08-24
+"Pastaza"	"Arajuno"	105	2020-08-25
+"Pastaza"	"Mera"	517	2020-08-25
+"Pastaza"	"Pastaza"	1108	2020-08-25
+"Pastaza"	"Santa Clara"	90	2020-08-25
+"Pastaza"	"Arajuno"	106	2020-08-26
+"Pastaza"	"Mera"	517	2020-08-26
+"Pastaza"	"Pastaza"	1124	2020-08-26
+"Pastaza"	"Santa Clara"	90	2020-08-26
+"Pastaza"	"Arajuno"	106	2020-08-27
+"Pastaza"	"Mera"	517	2020-08-27
+"Pastaza"	"Pastaza"	1141	2020-08-27
+"Pastaza"	"Santa Clara"	90	2020-08-27
+"Pastaza"	"Arajuno"	106	2020-08-28
+"Pastaza"	"Mera"	517	2020-08-28
+"Pastaza"	"Pastaza"	1177	2020-08-28
+"Pastaza"	"Santa Clara"	90	2020-08-28
+"Pastaza"	"Arajuno"	106	2020-08-29
+"Pastaza"	"Mera"	517	2020-08-29
+"Pastaza"	"Pastaza"	1184	2020-08-29
+"Pastaza"	"Santa Clara"	90	2020-08-29
+"Pastaza"	"Arajuno"	106	2020-08-30
+"Pastaza"	"Mera"	517	2020-08-30
+"Pastaza"	"Pastaza"	1195	2020-08-30
+"Pastaza"	"Santa Clara"	90	2020-08-30
+"Pastaza"	"Arajuno"	106	2020-08-31
+"Pastaza"	"Mera"	517	2020-08-31
+"Pastaza"	"Pastaza"	1195	2020-08-31
+"Pastaza"	"Santa Clara"	90	2020-08-31
+"Pastaza"	"Arajuno"	106	2020-09-01
+"Pastaza"	"Mera"	520	2020-09-01
+"Pastaza"	"Pastaza"	1220	2020-09-01
+"Pastaza"	"Santa Clara"	93	2020-09-01
+"Pastaza"	"Arajuno"	106	2020-09-02
+"Pastaza"	"Mera"	520	2020-09-02
+"Pastaza"	"Pastaza"	1230	2020-09-02
+"Pastaza"	"Santa Clara"	93	2020-09-02
+"Pastaza"	"Arajuno"	106	2020-09-03
+"Pastaza"	"Mera"	520	2020-09-03
+"Pastaza"	"Pastaza"	1230	2020-09-03
+"Pastaza"	"Santa Clara"	93	2020-09-03
+"Pastaza"	"Arajuno"	106	2020-09-04
+"Pastaza"	"Mera"	523	2020-09-04
+"Pastaza"	"Pastaza"	1237	2020-09-04
+"Pastaza"	"Santa Clara"	93	2020-09-04
+"Pastaza"	"Arajuno"	106	2020-09-05
+"Pastaza"	"Mera"	527	2020-09-05
+"Pastaza"	"Pastaza"	1242	2020-09-05
+"Pastaza"	"Santa Clara"	93	2020-09-05
+"Pastaza"	"Arajuno"	106	2020-09-06
+"Pastaza"	"Mera"	527	2020-09-06
+"Pastaza"	"Pastaza"	1245	2020-09-06
+"Pastaza"	"Santa Clara"	93	2020-09-06
+"Pastaza"	"Arajuno"	106	2020-09-07
+"Pastaza"	"Mera"	527	2020-09-07
+"Pastaza"	"Pastaza"	1245	2020-09-07
+"Pastaza"	"Santa Clara"	93	2020-09-07
+"Pastaza"	"Arajuno"	106	2020-09-08
+"Pastaza"	"Mera"	527	2020-09-08
+"Pastaza"	"Pastaza"	1247	2020-09-08
+"Pastaza"	"Santa Clara"	93	2020-09-08
+"Pastaza"	"Arajuno"	106	2020-09-09
+"Pastaza"	"Mera"	528	2020-09-09
+"Pastaza"	"Pastaza"	1248	2020-09-09
+"Pastaza"	"Santa Clara"	113	2020-09-09
+"Pastaza"	"Arajuno"	106	2020-09-10
+"Pastaza"	"Mera"	528	2020-09-10
+"Pastaza"	"Pastaza"	1250	2020-09-10
+"Pastaza"	"Santa Clara"	113	2020-09-10
+"Pastaza"	"Arajuno"	106	2020-09-11
+"Pastaza"	"Mera"	529	2020-09-11
+"Pastaza"	"Pastaza"	1258	2020-09-11
+"Pastaza"	"Santa Clara"	114	2020-09-11
+"Pastaza"	"Arajuno"	106	2020-09-12
+"Pastaza"	"Mera"	534	2020-09-12
+"Pastaza"	"Pastaza"	1273	2020-09-12
+"Pastaza"	"Santa Clara"	114	2020-09-12
+"Pastaza"	"Arajuno"	106	2020-09-13
+"Pastaza"	"Mera"	537	2020-09-13
+"Pastaza"	"Pastaza"	1273	2020-09-13
+"Pastaza"	"Santa Clara"	114	2020-09-13
+"Pastaza"	"Arajuno"	106	2020-09-14
+"Pastaza"	"Mera"	537	2020-09-14
+"Pastaza"	"Pastaza"	1279	2020-09-14
+"Pastaza"	"Santa Clara"	114	2020-09-14
+"Pastaza"	"Arajuno"	106	2020-09-15
+"Pastaza"	"Mera"	537	2020-09-15
+"Pastaza"	"Pastaza"	1279	2020-09-15
+"Pastaza"	"Santa Clara"	114	2020-09-15
+"Pastaza"	"Arajuno"	106	2020-09-16
+"Pastaza"	"Mera"	540	2020-09-16
+"Pastaza"	"Pastaza"	1287	2020-09-16
+"Pastaza"	"Santa Clara"	115	2020-09-16
+"Pastaza"	"Arajuno"	106	2020-09-17
+"Pastaza"	"Mera"	541	2020-09-17
+"Pastaza"	"Pastaza"	1292	2020-09-17
+"Pastaza"	"Santa Clara"	115	2020-09-17
+"Pastaza"	"Arajuno"	106	2020-09-18
+"Pastaza"	"Mera"	541	2020-09-18
+"Pastaza"	"Pastaza"	1298	2020-09-18
+"Pastaza"	"Santa Clara"	115	2020-09-18
+"Pastaza"	"Arajuno"	107	2020-09-19
+"Pastaza"	"Mera"	543	2020-09-19
+"Pastaza"	"Pastaza"	1309	2020-09-19
+"Pastaza"	"Santa Clara"	115	2020-09-19
+"Pastaza"	"Arajuno"	107	2020-09-20
+"Pastaza"	"Mera"	543	2020-09-20
+"Pastaza"	"Pastaza"	1309	2020-09-20
+"Pastaza"	"Santa Clara"	115	2020-09-20
+"Pastaza"	"Arajuno"	107	2020-09-21
+"Pastaza"	"Mera"	543	2020-09-21
+"Pastaza"	"Pastaza"	1309	2020-09-21
+"Pastaza"	"Santa Clara"	115	2020-09-21
+"Pastaza"	"Arajuno"	107	2020-09-22
+"Pastaza"	"Mera"	548	2020-09-22
+"Pastaza"	"Pastaza"	1315	2020-09-22
+"Pastaza"	"Santa Clara"	116	2020-09-22
+"Pastaza"	"Arajuno"	107	2020-09-23
+"Pastaza"	"Mera"	551	2020-09-23
+"Pastaza"	"Pastaza"	1316	2020-09-23
+"Pastaza"	"Santa Clara"	116	2020-09-23
+"Pastaza"	"Arajuno"	107	2020-09-24
+"Pastaza"	"Mera"	551	2020-09-24
+"Pastaza"	"Pastaza"	1317	2020-09-24
+"Pastaza"	"Santa Clara"	116	2020-09-24
+"Pastaza"	"Arajuno"	107	2020-09-25
+"Pastaza"	"Mera"	551	2020-09-25
+"Pastaza"	"Pastaza"	1318	2020-09-25
+"Pastaza"	"Santa Clara"	116	2020-09-25
+"Pastaza"	"Arajuno"	109	2020-09-26
+"Pastaza"	"Mera"	553	2020-09-26
+"Pastaza"	"Pastaza"	1328	2020-09-26
+"Pastaza"	"Santa Clara"	116	2020-09-26
+"Pastaza"	"Arajuno"	111	2020-09-27
+"Pastaza"	"Mera"	553	2020-09-27
+"Pastaza"	"Pastaza"	1328	2020-09-27
+"Pastaza"	"Santa Clara"	116	2020-09-27
+"Pastaza"	"Arajuno"	111	2020-09-28
+"Pastaza"	"Mera"	553	2020-09-28
+"Pastaza"	"Pastaza"	1329	2020-09-28
+"Pastaza"	"Santa Clara"	116	2020-09-28
+"Pastaza"	"Arajuno"	111	2020-09-29
+"Pastaza"	"Mera"	567	2020-09-29
+"Pastaza"	"Pastaza"	1337	2020-09-29
+"Pastaza"	"Santa Clara"	116	2020-09-29
+"Pastaza"	"Arajuno"	111	2020-09-30
+"Pastaza"	"Mera"	569	2020-09-30
+"Pastaza"	"Pastaza"	1349	2020-09-30
+"Pastaza"	"Santa Clara"	116	2020-09-30
+"Pastaza"	"Arajuno"	111	2020-10-01
+"Pastaza"	"Mera"	570	2020-10-01
+"Pastaza"	"Pastaza"	1358	2020-10-01
+"Pastaza"	"Santa Clara"	116	2020-10-01
+"Pastaza"	"Arajuno"	111	2020-10-02
+"Pastaza"	"Mera"	571	2020-10-02
+"Pastaza"	"Pastaza"	1363	2020-10-02
+"Pastaza"	"Santa Clara"	116	2020-10-02
+"Pastaza"	"Arajuno"	111	2020-10-03
+"Pastaza"	"Mera"	571	2020-10-03
+"Pastaza"	"Pastaza"	1377	2020-10-03
+"Pastaza"	"Santa Clara"	116	2020-10-03
+"Pastaza"	"Arajuno"	111	2020-10-04
+"Pastaza"	"Mera"	573	2020-10-04
+"Pastaza"	"Pastaza"	1386	2020-10-04
+"Pastaza"	"Santa Clara"	121	2020-10-04
+"Pastaza"	"Arajuno"	111	2020-10-05
+"Pastaza"	"Mera"	573	2020-10-05
+"Pastaza"	"Pastaza"	1386	2020-10-05
+"Pastaza"	"Santa Clara"	121	2020-10-05
+"Pastaza"	"Arajuno"	111	2020-10-06
+"Pastaza"	"Mera"	575	2020-10-06
+"Pastaza"	"Pastaza"	1388	2020-10-06
+"Pastaza"	"Santa Clara"	121	2020-10-06
+"Pastaza"	"Arajuno"	111	2020-10-07
+"Pastaza"	"Mera"	575	2020-10-07
+"Pastaza"	"Pastaza"	1391	2020-10-07
+"Pastaza"	"Santa Clara"	121	2020-10-07
+"Pastaza"	"Arajuno"	112	2020-10-08
+"Pastaza"	"Mera"	575	2020-10-08
+"Pastaza"	"Pastaza"	1395	2020-10-08
+"Pastaza"	"Santa Clara"	121	2020-10-08
+"Pastaza"	"Arajuno"	112	2020-10-09
+"Pastaza"	"Mera"	575	2020-10-09
+"Pastaza"	"Pastaza"	1396	2020-10-09
+"Pastaza"	"Santa Clara"	121	2020-10-09
+"Pastaza"	"Arajuno"	112	2020-10-10
+"Pastaza"	"Mera"	575	2020-10-10
+"Pastaza"	"Pastaza"	1397	2020-10-10
+"Pastaza"	"Santa Clara"	121	2020-10-10
+"Pastaza"	"Arajuno"	112	2020-10-11
+"Pastaza"	"Mera"	575	2020-10-11
+"Pastaza"	"Pastaza"	1397	2020-10-11
+"Pastaza"	"Santa Clara"	121	2020-10-11
+"Pastaza"	"Arajuno"	112	2020-10-12
+"Pastaza"	"Mera"	575	2020-10-12
+"Pastaza"	"Pastaza"	1397	2020-10-12
+"Pastaza"	"Santa Clara"	121	2020-10-12
+"Pastaza"	"Arajuno"	112	2020-10-13
+"Pastaza"	"Mera"	575	2020-10-13
+"Pastaza"	"Pastaza"	1397	2020-10-13
+"Pastaza"	"Santa Clara"	121	2020-10-13
+"Pastaza"	"Arajuno"	112	2020-10-14
+"Pastaza"	"Mera"	575	2020-10-14
+"Pastaza"	"Pastaza"	1398	2020-10-14
+"Pastaza"	"Santa Clara"	121	2020-10-14
+"Pastaza"	"Arajuno"	112	2020-10-15
+"Pastaza"	"Mera"	575	2020-10-15
+"Pastaza"	"Pastaza"	1400	2020-10-15
+"Pastaza"	"Santa Clara"	121	2020-10-15
+"Pastaza"	"Arajuno"	112	2020-10-16
+"Pastaza"	"Mera"	575	2020-10-16
+"Pastaza"	"Pastaza"	1405	2020-10-16
+"Pastaza"	"Santa Clara"	121	2020-10-16
+"Pastaza"	"Arajuno"	112	2020-10-17
+"Pastaza"	"Mera"	575	2020-10-17
+"Pastaza"	"Pastaza"	1406	2020-10-17
+"Pastaza"	"Santa Clara"	121	2020-10-17
+"Pastaza"	"Arajuno"	112	2020-10-18
+"Pastaza"	"Mera"	575	2020-10-18
+"Pastaza"	"Pastaza"	1407	2020-10-18
+"Pastaza"	"Santa Clara"	121	2020-10-18
+"Pastaza"	"Arajuno"	112	2020-10-19
+"Pastaza"	"Mera"	575	2020-10-19
+"Pastaza"	"Pastaza"	1407	2020-10-19
+"Pastaza"	"Santa Clara"	121	2020-10-19
+"Pastaza"	"Arajuno"	113	2020-10-20
+"Pastaza"	"Mera"	575	2020-10-20
+"Pastaza"	"Pastaza"	1418	2020-10-20
+"Pastaza"	"Santa Clara"	121	2020-10-20
+"Pastaza"	"Arajuno"	113	2020-10-21
+"Pastaza"	"Mera"	575	2020-10-21
+"Pastaza"	"Pastaza"	1418	2020-10-21
+"Pastaza"	"Santa Clara"	121	2020-10-21
+"Pastaza"	"Arajuno"	113	2020-10-22
+"Pastaza"	"Mera"	575	2020-10-22
+"Pastaza"	"Pastaza"	1421	2020-10-22
+"Pastaza"	"Santa Clara"	121	2020-10-22
+"Pastaza"	"Arajuno"	113	2020-10-23
+"Pastaza"	"Mera"	575	2020-10-23
+"Pastaza"	"Pastaza"	1424	2020-10-23
+"Pastaza"	"Santa Clara"	121	2020-10-23
+"Pastaza"	"Arajuno"	113	2020-10-24
+"Pastaza"	"Mera"	575	2020-10-24
+"Pastaza"	"Pastaza"	1424	2020-10-24
+"Pastaza"	"Santa Clara"	121	2020-10-24
+"Pastaza"	"Arajuno"	113	2020-10-25
+"Pastaza"	"Mera"	576	2020-10-25
+"Pastaza"	"Pastaza"	1426	2020-10-25
+"Pastaza"	"Santa Clara"	121	2020-10-25
+"Pastaza"	"Arajuno"	113	2020-10-26
+"Pastaza"	"Mera"	576	2020-10-26
+"Pastaza"	"Pastaza"	1427	2020-10-26
+"Pastaza"	"Santa Clara"	121	2020-10-26
+"Pastaza"	"Arajuno"	113	2020-10-27
+"Pastaza"	"Mera"	576	2020-10-27
+"Pastaza"	"Pastaza"	1435	2020-10-27
+"Pastaza"	"Santa Clara"	121	2020-10-27
+"Pastaza"	"Arajuno"	115	2020-10-28
+"Pastaza"	"Mera"	577	2020-10-28
+"Pastaza"	"Pastaza"	1439	2020-10-28
+"Pastaza"	"Santa Clara"	121	2020-10-28
+"Pastaza"	"Arajuno"	115	2020-10-29
+"Pastaza"	"Mera"	577	2020-10-29
+"Pastaza"	"Pastaza"	1441	2020-10-29
+"Pastaza"	"Santa Clara"	121	2020-10-29
+"Pastaza"	"Arajuno"	115	2020-10-30
+"Pastaza"	"Mera"	577	2020-10-30
+"Pastaza"	"Pastaza"	1441	2020-10-30
+"Pastaza"	"Santa Clara"	121	2020-10-30
+"Pastaza"	"Arajuno"	115	2020-10-31
+"Pastaza"	"Mera"	577	2020-10-31
+"Pastaza"	"Pastaza"	1442	2020-10-31
+"Pastaza"	"Santa Clara"	121	2020-10-31
+"Pastaza"	"Arajuno"	115	2020-11-01
+"Pastaza"	"Mera"	577	2020-11-01
+"Pastaza"	"Pastaza"	1445	2020-11-01
+"Pastaza"	"Santa Clara"	121	2020-11-01
+"Pastaza"	"Arajuno"	115	2020-11-02
+"Pastaza"	"Mera"	577	2020-11-02
+"Pastaza"	"Pastaza"	1452	2020-11-02
+"Pastaza"	"Santa Clara"	122	2020-11-02
+"Pastaza"	"Arajuno"	115	2020-11-03
+"Pastaza"	"Mera"	577	2020-11-03
+"Pastaza"	"Pastaza"	1453	2020-11-03
+"Pastaza"	"Santa Clara"	122	2020-11-03
+"Pastaza"	"Arajuno"	115	2020-11-04
+"Pastaza"	"Mera"	577	2020-11-04
+"Pastaza"	"Pastaza"	1458	2020-11-04
+"Pastaza"	"Santa Clara"	123	2020-11-04
+"Pastaza"	"Arajuno"	115	2020-11-05
+"Pastaza"	"Mera"	577	2020-11-05
+"Pastaza"	"Pastaza"	1460	2020-11-05
+"Pastaza"	"Santa Clara"	123	2020-11-05
+"Pastaza"	"Arajuno"	115	2020-11-06
+"Pastaza"	"Mera"	577	2020-11-06
+"Pastaza"	"Pastaza"	1461	2020-11-06
+"Pastaza"	"Santa Clara"	123	2020-11-06
+"Pastaza"	"Arajuno"	115	2020-11-07
+"Pastaza"	"Mera"	578	2020-11-07
+"Pastaza"	"Pastaza"	1463	2020-11-07
+"Pastaza"	"Santa Clara"	123	2020-11-07
+"Pastaza"	"Arajuno"	115	2020-11-08
+"Pastaza"	"Mera"	579	2020-11-08
+"Pastaza"	"Pastaza"	1465	2020-11-08
+"Pastaza"	"Santa Clara"	123	2020-11-08
+"Pastaza"	"Arajuno"	115	2020-11-09
+"Pastaza"	"Mera"	579	2020-11-09
+"Pastaza"	"Pastaza"	1466	2020-11-09
+"Pastaza"	"Santa Clara"	123	2020-11-09
+"Pastaza"	"Arajuno"	115	2020-11-10
+"Pastaza"	"Mera"	579	2020-11-10
+"Pastaza"	"Pastaza"	1466	2020-11-10
+"Pastaza"	"Santa Clara"	123	2020-11-10
+"Pastaza"	"Arajuno"	115	2020-11-11
+"Pastaza"	"Mera"	579	2020-11-11
+"Pastaza"	"Pastaza"	1468	2020-11-11
+"Pastaza"	"Santa Clara"	123	2020-11-11
+"Pastaza"	"Arajuno"	115	2020-11-12
+"Pastaza"	"Mera"	579	2020-11-12
+"Pastaza"	"Pastaza"	1476	2020-11-12
+"Pastaza"	"Santa Clara"	124	2020-11-12
+"Pastaza"	"Arajuno"	115	2020-11-13
+"Pastaza"	"Mera"	579	2020-11-13
+"Pastaza"	"Pastaza"	1476	2020-11-13
+"Pastaza"	"Santa Clara"	124	2020-11-13
+"Pastaza"	"Arajuno"	115	2020-11-14
+"Pastaza"	"Mera"	579	2020-11-14
+"Pastaza"	"Pastaza"	1484	2020-11-14
+"Pastaza"	"Santa Clara"	124	2020-11-14
+"Pastaza"	"Arajuno"	115	2020-11-15
+"Pastaza"	"Mera"	579	2020-11-15
+"Pastaza"	"Pastaza"	1485	2020-11-15
+"Pastaza"	"Santa Clara"	124	2020-11-15
+"Pastaza"	"Arajuno"	115	2020-11-16
+"Pastaza"	"Mera"	579	2020-11-16
+"Pastaza"	"Pastaza"	1485	2020-11-16
+"Pastaza"	"Santa Clara"	124	2020-11-16
+"Pastaza"	"Arajuno"	115	2020-11-17
+"Pastaza"	"Mera"	580	2020-11-17
+"Pastaza"	"Pastaza"	1487	2020-11-17
+"Pastaza"	"Santa Clara"	124	2020-11-17
+"Pastaza"	"Arajuno"	115	2020-11-18
+"Pastaza"	"Mera"	580	2020-11-18
+"Pastaza"	"Pastaza"	1494	2020-11-18
+"Pastaza"	"Santa Clara"	124	2020-11-18
+"Pastaza"	"Arajuno"	115	2020-11-19
+"Pastaza"	"Mera"	581	2020-11-19
+"Pastaza"	"Pastaza"	1496	2020-11-19
+"Pastaza"	"Santa Clara"	124	2020-11-19
+"Pastaza"	"Arajuno"	115	2020-11-20
+"Pastaza"	"Mera"	581	2020-11-20
+"Pastaza"	"Pastaza"	1497	2020-11-20
+"Pastaza"	"Santa Clara"	124	2020-11-20
+"Pastaza"	"Arajuno"	115	2020-11-21
+"Pastaza"	"Mera"	581	2020-11-21
+"Pastaza"	"Pastaza"	1501	2020-11-21
+"Pastaza"	"Santa Clara"	124	2020-11-21
+"Pastaza"	"Arajuno"	115	2020-11-22
+"Pastaza"	"Mera"	581	2020-11-22
+"Pastaza"	"Pastaza"	1502	2020-11-22
+"Pastaza"	"Santa Clara"	124	2020-11-22
+"Pastaza"	"Arajuno"	115	2020-11-23
+"Pastaza"	"Mera"	581	2020-11-23
+"Pastaza"	"Pastaza"	1502	2020-11-23
+"Pastaza"	"Santa Clara"	124	2020-11-23
+"Pastaza"	"Arajuno"	115	2020-11-24
+"Pastaza"	"Mera"	582	2020-11-24
+"Pastaza"	"Pastaza"	1503	2020-11-24
+"Pastaza"	"Santa Clara"	124	2020-11-24
+"Pastaza"	"Arajuno"	115	2020-11-25
+"Pastaza"	"Mera"	582	2020-11-25
+"Pastaza"	"Pastaza"	1504	2020-11-25
+"Pastaza"	"Santa Clara"	124	2020-11-25
+"Pastaza"	"Arajuno"	115	2020-11-26
+"Pastaza"	"Mera"	582	2020-11-26
+"Pastaza"	"Pastaza"	1509	2020-11-26
+"Pastaza"	"Santa Clara"	124	2020-11-26
+"Pastaza"	"Arajuno"	115	2020-11-27
+"Pastaza"	"Mera"	584	2020-11-27
+"Pastaza"	"Pastaza"	1512	2020-11-27
+"Pastaza"	"Santa Clara"	124	2020-11-27
+"Pastaza"	"Arajuno"	115	2020-11-28
+"Pastaza"	"Mera"	584	2020-11-28
+"Pastaza"	"Pastaza"	1512	2020-11-28
+"Pastaza"	"Santa Clara"	124	2020-11-28
+"Pastaza"	"Arajuno"	115	2020-11-29
+"Pastaza"	"Mera"	584	2020-11-29
+"Pastaza"	"Pastaza"	1515	2020-11-29
+"Pastaza"	"Santa Clara"	124	2020-11-29
+"Pastaza"	"Arajuno"	115	2020-11-30
+"Pastaza"	"Mera"	584	2020-11-30
+"Pastaza"	"Pastaza"	1515	2020-11-30
+"Pastaza"	"Santa Clara"	124	2020-11-30
+"Pastaza"	"Arajuno"	115	2020-12-01
+"Pastaza"	"Mera"	584	2020-12-01
+"Pastaza"	"Pastaza"	1517	2020-12-01
+"Pastaza"	"Santa Clara"	124	2020-12-01
+"Pastaza"	"Arajuno"	115	2020-12-02
+"Pastaza"	"Mera"	584	2020-12-02
+"Pastaza"	"Pastaza"	1521	2020-12-02
+"Pastaza"	"Santa Clara"	124	2020-12-02
+"Pastaza"	"Arajuno"	115	2020-12-03
+"Pastaza"	"Mera"	586	2020-12-03
+"Pastaza"	"Pastaza"	1522	2020-12-03
+"Pastaza"	"Santa Clara"	124	2020-12-03
+"Pastaza"	"Arajuno"	115	2020-12-04
+"Pastaza"	"Mera"	586	2020-12-04
+"Pastaza"	"Pastaza"	1522	2020-12-04
+"Pastaza"	"Santa Clara"	124	2020-12-04
+"Pastaza"	"Arajuno"	115	2020-12-05
+"Pastaza"	"Mera"	586	2020-12-05
+"Pastaza"	"Pastaza"	1522	2020-12-05
+"Pastaza"	"Santa Clara"	124	2020-12-05
+"Pastaza"	"Arajuno"	115	2020-12-06
+"Pastaza"	"Mera"	586	2020-12-06
+"Pastaza"	"Pastaza"	1522	2020-12-06
+"Pastaza"	"Santa Clara"	124	2020-12-06
+"Pastaza"	"Arajuno"	115	2020-12-07
+"Pastaza"	"Mera"	586	2020-12-07
+"Pastaza"	"Pastaza"	1522	2020-12-07
+"Pastaza"	"Santa Clara"	124	2020-12-07
+"Pastaza"	"Arajuno"	115	2020-12-08
+"Pastaza"	"Mera"	586	2020-12-08
+"Pastaza"	"Pastaza"	1522	2020-12-08
+"Pastaza"	"Santa Clara"	124	2020-12-08
+"Pastaza"	"Arajuno"	115	2020-12-09
+"Pastaza"	"Mera"	586	2020-12-09
+"Pastaza"	"Pastaza"	1533	2020-12-09
+"Pastaza"	"Santa Clara"	124	2020-12-09
+"Pastaza"	"Arajuno"	115	2020-12-10
+"Pastaza"	"Mera"	586	2020-12-10
+"Pastaza"	"Pastaza"	1534	2020-12-10
+"Pastaza"	"Santa Clara"	124	2020-12-10
+"Pastaza"	"Arajuno"	115	2020-12-11
+"Pastaza"	"Mera"	587	2020-12-11
+"Pastaza"	"Pastaza"	1534	2020-12-11
+"Pastaza"	"Santa Clara"	124	2020-12-11
+"Pastaza"	"Arajuno"	115	2020-12-12
+"Pastaza"	"Mera"	587	2020-12-12
+"Pastaza"	"Pastaza"	1534	2020-12-12
+"Pastaza"	"Santa Clara"	124	2020-12-12
+"Pastaza"	"Arajuno"	115	2020-12-13
+"Pastaza"	"Mera"	587	2020-12-13
+"Pastaza"	"Pastaza"	1534	2020-12-13
+"Pastaza"	"Santa Clara"	124	2020-12-13
+"Pastaza"	"Arajuno"	115	2020-12-14
+"Pastaza"	"Mera"	587	2020-12-14
+"Pastaza"	"Pastaza"	1534	2020-12-14
+"Pastaza"	"Santa Clara"	124	2020-12-14
+"Pastaza"	"Arajuno"	115	2020-12-15
+"Pastaza"	"Mera"	587	2020-12-15
+"Pastaza"	"Pastaza"	1534	2020-12-15
+"Pastaza"	"Santa Clara"	124	2020-12-15
+"Pastaza"	"Arajuno"	115	2020-12-16
+"Pastaza"	"Mera"	587	2020-12-16
+"Pastaza"	"Pastaza"	1535	2020-12-16
+"Pastaza"	"Santa Clara"	124	2020-12-16
+"Pastaza"	"Arajuno"	115	2020-12-17
+"Pastaza"	"Mera"	587	2020-12-17
+"Pastaza"	"Pastaza"	1540	2020-12-17
+"Pastaza"	"Santa Clara"	124	2020-12-17
+"Pastaza"	"Arajuno"	115	2020-12-18
+"Pastaza"	"Mera"	587	2020-12-18
+"Pastaza"	"Pastaza"	1543	2020-12-18
+"Pastaza"	"Santa Clara"	124	2020-12-18
+"Pastaza"	"Arajuno"	115	2020-12-19
+"Pastaza"	"Mera"	587	2020-12-19
+"Pastaza"	"Pastaza"	1549	2020-12-19
+"Pastaza"	"Santa Clara"	124	2020-12-19
+"Pastaza"	"Arajuno"	115	2020-12-20
+"Pastaza"	"Mera"	587	2020-12-20
+"Pastaza"	"Pastaza"	1550	2020-12-20
+"Pastaza"	"Santa Clara"	124	2020-12-20
+"Pastaza"	"Arajuno"	115	2020-12-21
+"Pastaza"	"Mera"	587	2020-12-21
+"Pastaza"	"Pastaza"	1551	2020-12-21
+"Pastaza"	"Santa Clara"	124	2020-12-21
+"Pastaza"	"Arajuno"	115	2020-12-22
+"Pastaza"	"Mera"	587	2020-12-22
+"Pastaza"	"Pastaza"	1551	2020-12-22
+"Pastaza"	"Santa Clara"	124	2020-12-22
+"Pastaza"	"Arajuno"	115	2020-12-23
+"Pastaza"	"Mera"	587	2020-12-23
+"Pastaza"	"Pastaza"	1556	2020-12-23
+"Pastaza"	"Santa Clara"	125	2020-12-23
+"Pastaza"	"Arajuno"	115	2020-12-24
+"Pastaza"	"Mera"	587	2020-12-24
+"Pastaza"	"Pastaza"	1565	2020-12-24
+"Pastaza"	"Santa Clara"	125	2020-12-24
+"Pastaza"	"Arajuno"	115	2020-12-25
+"Pastaza"	"Mera"	587	2020-12-25
+"Pastaza"	"Pastaza"	1565	2020-12-25
+"Pastaza"	"Santa Clara"	125	2020-12-25
+"Pastaza"	"Arajuno"	115	2020-12-26
+"Pastaza"	"Mera"	588	2020-12-26
+"Pastaza"	"Pastaza"	1566	2020-12-26
+"Pastaza"	"Santa Clara"	125	2020-12-26
+"Pastaza"	"Arajuno"	115	2020-12-27
+"Pastaza"	"Mera"	588	2020-12-27
+"Pastaza"	"Pastaza"	1575	2020-12-27
+"Pastaza"	"Santa Clara"	125	2020-12-27
+"Pastaza"	"Arajuno"	115	2020-12-28
+"Pastaza"	"Mera"	588	2020-12-28
+"Pastaza"	"Pastaza"	1576	2020-12-28
+"Pastaza"	"Santa Clara"	125	2020-12-28
+"Pastaza"	"Arajuno"	115	2020-12-29
+"Pastaza"	"Mera"	588	2020-12-29
+"Pastaza"	"Pastaza"	1577	2020-12-29
+"Pastaza"	"Santa Clara"	125	2020-12-29
+"Pastaza"	"Arajuno"	115	2020-12-30
+"Pastaza"	"Mera"	588	2020-12-30
+"Pastaza"	"Pastaza"	1580	2020-12-30
+"Pastaza"	"Santa Clara"	125	2020-12-30
+"Pastaza"	"Arajuno"	115	2020-12-31
+"Pastaza"	"Mera"	589	2020-12-31
+"Pastaza"	"Pastaza"	1582	2020-12-31
+"Pastaza"	"Santa Clara"	125	2020-12-31
 "Pastaza"	"Arajuno"	115	2021-01-01
 "Pastaza"	"Mera"	590	2021-01-01
 "Pastaza"	"Pastaza"	1584	2021-01-01
@@ -1895,3 +3071,35 @@
 "Pastaza"	"Mera"	1007	2022-04-19
 "Pastaza"	"Pastaza"	3889	2022-04-19
 "Pastaza"	"Santa Clara"	193	2022-04-19
+"Pastaza"	"Arajuno"	215	2022-04-20
+"Pastaza"	"Mera"	1007	2022-04-20
+"Pastaza"	"Pastaza"	3889	2022-04-20
+"Pastaza"	"Santa Clara"	193	2022-04-20
+"Pastaza"	"Arajuno"	215	2022-04-21
+"Pastaza"	"Mera"	1007	2022-04-21
+"Pastaza"	"Pastaza"	3889	2022-04-21
+"Pastaza"	"Santa Clara"	193	2022-04-21
+"Pastaza"	"Arajuno"	215	2022-04-22
+"Pastaza"	"Mera"	1007	2022-04-22
+"Pastaza"	"Pastaza"	3889	2022-04-22
+"Pastaza"	"Santa Clara"	193	2022-04-22
+"Pastaza"	"Arajuno"	215	2022-04-23
+"Pastaza"	"Mera"	1007	2022-04-23
+"Pastaza"	"Pastaza"	3889	2022-04-23
+"Pastaza"	"Santa Clara"	193	2022-04-23
+"Pastaza"	"Arajuno"	215	2022-04-24
+"Pastaza"	"Mera"	1007	2022-04-24
+"Pastaza"	"Pastaza"	3890	2022-04-24
+"Pastaza"	"Santa Clara"	193	2022-04-24
+"Pastaza"	"Arajuno"	215	2022-04-25
+"Pastaza"	"Mera"	1007	2022-04-25
+"Pastaza"	"Pastaza"	3890	2022-04-25
+"Pastaza"	"Santa Clara"	193	2022-04-25
+"Pastaza"	"Arajuno"	215	2022-04-26
+"Pastaza"	"Mera"	1007	2022-04-26
+"Pastaza"	"Pastaza"	3890	2022-04-26
+"Pastaza"	"Santa Clara"	193	2022-04-26
+"Pastaza"	"Arajuno"	215	2022-04-27
+"Pastaza"	"Mera"	1007	2022-04-27
+"Pastaza"	"Pastaza"	3891	2022-04-27
+"Pastaza"	"Santa Clara"	193	2022-04-27
