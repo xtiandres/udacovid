@@ -1,0 +1,2 @@
+"fecha"	"dncgu"	"dncpi"	"dncma"	"dnclr"	"dncaz"	"dncel"	"dnces"	"dnctu"	"dncch"	"dnclo"	"dncga"	"dncza"	"dncsu"	"dncpa"	"dncor"	"dncna"	"dncmo"	"dncim"	"dncco"	"dncca"	"dnccr"	"dncbo"	"dncst"	"dncea"
+"14may22"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
