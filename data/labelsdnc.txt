@@ -1,20 +1,21 @@
-nea134 <- staelena22 %>%
-  filter(created_at == "2022-05-14") %>%
+ngu140 <- staelena22 %>%
+  filter(created_at == "2022-05-20") %>%
   summarise(tn = sum(nuevas))
-nea133 <- staelena22 %>%
-  filter(created_at == "2022-05-13") %>%
+ngu139 <- staelena22 %>%
+  filter(created_at == "2022-05-19") %>%
   summarise(tn = sum(nuevas))
-nea132 <- staelena22 %>%
-  filter(created_at == "2022-05-12") %>%
+ngu138 <- staelena22 %>%
+  filter(created_at == "2022-05-18") %>%
   summarise(tn = sum(nuevas))
-nea131 <- staelena22 %>%
-  filter(created_at == "2022-05-11") %>%
+ngu137 <- staelena22 %>%
+  filter(created_at == "2022-05-17") %>%
   summarise(tn = sum(nuevas))
-nea130 <- staelena22 %>%
-  filter(created_at == "2022-05-10") %>%
+ngu136 <- staelena22 %>%
+  filter(created_at == "2022-05-16") %>%
   summarise(tn = sum(nuevas))
-nea129 <- staelena22 %>%
-  filter(created_at == "2022-05-09") %>%
+ngu135 <- staelena22 %>%
+  filter(created_at == "2022-05-15") %>%
   summarise(tn = sum(nuevas))
 
-dgu134 <- mean(c(nea134$tn, nea133$tn, nea132$tn, nea131$tn, nea130$tn, nea129$tn, nea128$tn))
+
+dea140 <- mean(c(ngu140$tn, ngu139$tn, ngu138$tn, ngu137$tn, ngu136$tn, ngu135$tn, ngu134$tn))
