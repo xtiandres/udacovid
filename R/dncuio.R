@@ -1,5 +1,13 @@
 # ***** DNC - FILTRO DIARIO - QUITO *****
 
+# DATASET A PARTIR DE "canpro.R"
+uio21 <- pichincha21 %>%
+  filter(canton == "Quito") %>%
+  select(canton, canton_poblacion, nuevas, created_at)
+uio22 <- pichincha22 %>%
+  filter(canton == "Quito") %>%
+  select(canton, canton_poblacion, nuevas, created_at)
+
 # DESDE 2021-12-01 HASTA 2022-05-31 (ACTUALIZAR)
 dncuio211201 <- uio21 %>%
   filter(created_at == "2021-12-01") %>%
@@ -1665,6 +1673,48 @@ x134 <- mean(c(dncuio220508$nuevas,
                dncuio220512$nuevas,
                dncuio220513$nuevas,
                dncuio220514$nuevas))
+x135 <- mean(c(dncuio220509$nuevas,
+               dncuio220510$nuevas,
+               dncuio220511$nuevas,
+               dncuio220512$nuevas,
+               dncuio220513$nuevas,
+               dncuio220514$nuevas,
+               dncuio220515$nuevas))
+x136 <- mean(c(dncuio220510$nuevas,
+               dncuio220511$nuevas,
+               dncuio220512$nuevas,
+               dncuio220513$nuevas,
+               dncuio220514$nuevas,
+               dncuio220515$nuevas,
+               dncuio220516$nuevas))
+x137 <- mean(c(dncuio220511$nuevas,
+               dncuio220512$nuevas,
+               dncuio220513$nuevas,
+               dncuio220514$nuevas,
+               dncuio220515$nuevas,
+               dncuio220516$nuevas,
+               dncuio220517$nuevas))
+x138 <- mean(c(dncuio220512$nuevas,
+               dncuio220513$nuevas,
+               dncuio220514$nuevas,
+               dncuio220515$nuevas,
+               dncuio220516$nuevas,
+               dncuio220517$nuevas,
+               dncuio220518$nuevas))
+x139 <- mean(c(dncuio220513$nuevas,
+               dncuio220514$nuevas,
+               dncuio220515$nuevas,
+               dncuio220516$nuevas,
+               dncuio220517$nuevas,
+               dncuio220518$nuevas,
+               dncuio220519$nuevas))
+x140 <- mean(c(dncuio220514$nuevas,
+               dncuio220515$nuevas,
+               dncuio220516$nuevas,
+               dncuio220517$nuevas,
+               dncuio220518$nuevas,
+               dncuio220519$nuevas,
+               dncuio220520$nuevas))
 
 
 # POBLACIÓN QUITO POR 100MIL HABITANTES
@@ -1686,14 +1736,14 @@ xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "
   "5mar22", "6mar22", "7mar22", "8mar22", "9mar22", "10mar22", "11mar22",
   "12mar22", "13mar22", "14mar22", "15mar22", "16mar22", "17mar22", "18mar22", 
   "19mar22", "20mar22", "21mar22", "22mar22", "23mar22", "24mar22", "25mar22", 
-  "26mar22", "27mar22", "28mar22", "29mar22", "30mar22", "31mar22", 
-  "1abr22", "2abr22", "3abr22", "4abr22", "5abr22", "6abr22", "7abr22", 
-  "8abr22", "9abr22", "10abr22", "11abr22", "12abr22", "13abr22", "14abr22",
-  "15abr22", "16abr22", "17abr22", "18abr22", "19abr22", "20abr22", "21abr22",
-  "22abr22", "23abr22", "24abr22", "25abr22", "26abr22", "27abr22", "28abr22",
-  "29abr22", "30abr22", "1may22", "2may22", "3may22", "4may22", "5may22",
-  "6may22", "7may22", "8may22", "9may22", "10may22", "11may22", "12may22",
-  "13may22", "14may22"),
+  "26mar22", "27mar22", "28mar22", "29mar22", "30mar22", "31mar22", "1abr22", 
+  "2abr22", "3abr22", "4abr22", "5abr22", "6abr22", "7abr22", "8abr22",
+  "9abr22", "10abr22", "11abr22", "12abr22", "13abr22", "14abr22", "15abr22",
+  "16abr22", "17abr22", "18abr22", "19abr22", "20abr22", "21abr22", "22abr22",
+  "23abr22", "24abr22", "25abr22", "26abr22", "27abr22", "28abr22", "29abr22",
+  "30abr22", "1may22", "2may22", "3may22", "4may22", "5may22", "6may22",
+  "7may22", "8may22", "9may22", "10may22", "11may22", "12may22", "13may22",
+  "14may22", "15may22", "16may22", "17may22", "18may22", "19may22", "20may22"),
   dnc = c(#y7/27.81641, y8/27.81641, y9/27.81641, y10/27.81641, y11/27.81641, y12/27.81641, y13/27.81641,
     #y14/27.81641, y15/27.81641, y16/27.81641, y17/27.81641, y18/27.81641, y19/27.81641, y20/27.81641,
     #y21/27.81641, y22/27.81641, y23/27.81641, y24/27.81641, y25/27.81641, y26/27.81641, y27/27.81641,
@@ -1717,7 +1767,7 @@ xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "
     x113/pqm, x114/pqm, x115/pqm, x116/pqm, x117/pqm, x118/pqm, x119/pqm,
     x120/pqm, x121/pqm, x122/pqm, x123/pqm, x124/pqm, x125/pqm, x126/pqm,
     x127/pqm, x128/pqm, x129/pqm, x130/pqm, x131/pqm, x132/pqm, x133/pqm, 
-    x134/pqm))
+    x134/pqm, x135/pqm, x136/pqm, x137/pqm, x138/pqm, x139/pqm, x140/pqm))
 
 # GUARDAR COMO SVG
 #svg("quitoinc.svg", width = 14, height = 7)
@@ -1737,7 +1787,7 @@ a1 +
   theme(panel.grid.major = element_blank(),
         panel.grid.minor = element_blank()) + 
   labs(title = "FACTOR DE INCIDENCIA COVID - QUITO",
-       subtitle = "Incidencia: nuevos casos diarios por cada 100mil habitantes | Actualización: 14 Mayo 2022
+       subtitle = "Incidencia: nuevos casos diarios por cada 100mil habitantes | Actualización: 20 Mayo 2022
        DNC Niveles: basados en 'Key Metrics for Covid Suppression' - Harvard Global Health Institute",
        #caption = "Fuente: Boletines Ministerio Salud Publica",
        x = NULL,
