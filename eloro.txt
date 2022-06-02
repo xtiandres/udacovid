@@ -11101,3 +11101,87 @@
 "El Oro"	"Portovelo"	1572	2022-05-14
 "El Oro"	"Santa Rosa"	4917	2022-05-14
 "El Oro"	"Zaruma"	2025	2022-05-14
+"El Oro"	"Arenillas"	1356	2022-05-15
+"El Oro"	"Atahualpa"	588	2022-05-15
+"El Oro"	"Balsas"	608	2022-05-15
+"El Oro"	"Chilla"	78	2022-05-15
+"El Oro"	"El Guabo"	1633	2022-05-15
+"El Oro"	"Huaquillas"	2072	2022-05-15
+"El Oro"	"Las Lajas"	251	2022-05-15
+"El Oro"	"Machala"	25782	2022-05-15
+"El Oro"	"Marcabelí"	451	2022-05-15
+"El Oro"	"Pasaje"	4456	2022-05-15
+"El Oro"	"Piñas"	3506	2022-05-15
+"El Oro"	"Portovelo"	1572	2022-05-15
+"El Oro"	"Santa Rosa"	4917	2022-05-15
+"El Oro"	"Zaruma"	2025	2022-05-15
+"El Oro"	"Arenillas"	1356	2022-05-16
+"El Oro"	"Atahualpa"	588	2022-05-16
+"El Oro"	"Balsas"	608	2022-05-16
+"El Oro"	"Chilla"	78	2022-05-16
+"El Oro"	"El Guabo"	1633	2022-05-16
+"El Oro"	"Huaquillas"	2072	2022-05-16
+"El Oro"	"Las Lajas"	251	2022-05-16
+"El Oro"	"Machala"	25782	2022-05-16
+"El Oro"	"Marcabelí"	451	2022-05-16
+"El Oro"	"Pasaje"	4456	2022-05-16
+"El Oro"	"Piñas"	3506	2022-05-16
+"El Oro"	"Portovelo"	1572	2022-05-16
+"El Oro"	"Santa Rosa"	4917	2022-05-16
+"El Oro"	"Zaruma"	2025	2022-05-16
+"El Oro"	"Arenillas"	1356	2022-05-17
+"El Oro"	"Atahualpa"	588	2022-05-17
+"El Oro"	"Balsas"	608	2022-05-17
+"El Oro"	"Chilla"	78	2022-05-17
+"El Oro"	"El Guabo"	1633	2022-05-17
+"El Oro"	"Huaquillas"	2072	2022-05-17
+"El Oro"	"Las Lajas"	251	2022-05-17
+"El Oro"	"Machala"	25783	2022-05-17
+"El Oro"	"Marcabelí"	451	2022-05-17
+"El Oro"	"Pasaje"	4456	2022-05-17
+"El Oro"	"Piñas"	3506	2022-05-17
+"El Oro"	"Portovelo"	1572	2022-05-17
+"El Oro"	"Santa Rosa"	4917	2022-05-17
+"El Oro"	"Zaruma"	2025	2022-05-17
+"El Oro"	"Arenillas"	1356	2022-05-18
+"El Oro"	"Atahualpa"	588	2022-05-18
+"El Oro"	"Balsas"	608	2022-05-18
+"El Oro"	"Chilla"	78	2022-05-18
+"El Oro"	"El Guabo"	1633	2022-05-18
+"El Oro"	"Huaquillas"	2072	2022-05-18
+"El Oro"	"Las Lajas"	251	2022-05-18
+"El Oro"	"Machala"	25786	2022-05-18
+"El Oro"	"Marcabelí"	451	2022-05-18
+"El Oro"	"Pasaje"	4456	2022-05-18
+"El Oro"	"Piñas"	3506	2022-05-18
+"El Oro"	"Portovelo"	1572	2022-05-18
+"El Oro"	"Santa Rosa"	4917	2022-05-18
+"El Oro"	"Zaruma"	2025	2022-05-18
+"El Oro"	"Arenillas"	1356	2022-05-19
+"El Oro"	"Atahualpa"	588	2022-05-19
+"El Oro"	"Balsas"	608	2022-05-19
+"El Oro"	"Chilla"	78	2022-05-19
+"El Oro"	"El Guabo"	1633	2022-05-19
+"El Oro"	"Huaquillas"	2072	2022-05-19
+"El Oro"	"Las Lajas"	251	2022-05-19
+"El Oro"	"Machala"	25787	2022-05-19
+"El Oro"	"Marcabelí"	452	2022-05-19
+"El Oro"	"Pasaje"	4456	2022-05-19
+"El Oro"	"Piñas"	3506	2022-05-19
+"El Oro"	"Portovelo"	1572	2022-05-19
+"El Oro"	"Santa Rosa"	4917	2022-05-19
+"El Oro"	"Zaruma"	2025	2022-05-19
+"El Oro"	"Arenillas"	1358	2022-05-20
+"El Oro"	"Atahualpa"	588	2022-05-20
+"El Oro"	"Balsas"	608	2022-05-20
+"El Oro"	"Chilla"	78	2022-05-20
+"El Oro"	"El Guabo"	1634	2022-05-20
+"El Oro"	"Huaquillas"	2072	2022-05-20
+"El Oro"	"Las Lajas"	251	2022-05-20
+"El Oro"	"Machala"	25791	2022-05-20
+"El Oro"	"Marcabelí"	452	2022-05-20
+"El Oro"	"Pasaje"	4456	2022-05-20
+"El Oro"	"Piñas"	3506	2022-05-20
+"El Oro"	"Portovelo"	1572	2022-05-20
+"El Oro"	"Santa Rosa"	4917	2022-05-20
+"El Oro"	"Zaruma"	2025	2022-05-20

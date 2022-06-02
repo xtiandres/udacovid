@@ -19824,3 +19824,153 @@
 "Guayas"	"San Jacinto De Yaguachi"	930	2022-05-14
 "Guayas"	"Santa Lucía"	293	2022-05-14
 "Guayas"	"Simón Bolivar"	266	2022-05-14
+"Guayas"	"Alfredo Baquerizo Moreno"	277	2022-05-15
+"Guayas"	"Balao"	449	2022-05-15
+"Guayas"	"Balzar"	1023	2022-05-15
+"Guayas"	"Colimes"	354	2022-05-15
+"Guayas"	"Coronel Marcelino Maridueña"	329	2022-05-15
+"Guayas"	"Daule"	3460	2022-05-15
+"Guayas"	"Durán"	6514	2022-05-15
+"Guayas"	"El Triunfo"	1236	2022-05-15
+"Guayas"	"Empalme"	1826	2022-05-15
+"Guayas"	"General Antonio Elizalde"	681	2022-05-15
+"Guayas"	"Guayaquil"	100720	2022-05-15
+"Guayas"	"Isidro Ayora"	194	2022-05-15
+"Guayas"	"Lomas de Sargentillo"	215	2022-05-15
+"Guayas"	"Milagro"	6593	2022-05-15
+"Guayas"	"Naranjal"	2018	2022-05-15
+"Guayas"	"Naranjito"	809	2022-05-15
+"Guayas"	"Nobol"	194	2022-05-15
+"Guayas"	"Palestina"	224	2022-05-15
+"Guayas"	"Pedro Carbo"	1230	2022-05-15
+"Guayas"	"Playas"	773	2022-05-15
+"Guayas"	"Salitre"	1486	2022-05-15
+"Guayas"	"Samborondón"	3348	2022-05-15
+"Guayas"	"San Jacinto De Yaguachi"	930	2022-05-15
+"Guayas"	"Santa Lucía"	293	2022-05-15
+"Guayas"	"Simón Bolivar"	266	2022-05-15
+"Guayas"	"Alfredo Baquerizo Moreno"	277	2022-05-16
+"Guayas"	"Balao"	449	2022-05-16
+"Guayas"	"Balzar"	1023	2022-05-16
+"Guayas"	"Colimes"	354	2022-05-16
+"Guayas"	"Coronel Marcelino Maridueña"	329	2022-05-16
+"Guayas"	"Daule"	3460	2022-05-16
+"Guayas"	"Durán"	6514	2022-05-16
+"Guayas"	"El Triunfo"	1236	2022-05-16
+"Guayas"	"Empalme"	1826	2022-05-16
+"Guayas"	"General Antonio Elizalde"	681	2022-05-16
+"Guayas"	"Guayaquil"	100720	2022-05-16
+"Guayas"	"Isidro Ayora"	194	2022-05-16
+"Guayas"	"Lomas de Sargentillo"	215	2022-05-16
+"Guayas"	"Milagro"	6593	2022-05-16
+"Guayas"	"Naranjal"	2018	2022-05-16
+"Guayas"	"Naranjito"	809	2022-05-16
+"Guayas"	"Nobol"	194	2022-05-16
+"Guayas"	"Palestina"	224	2022-05-16
+"Guayas"	"Pedro Carbo"	1230	2022-05-16
+"Guayas"	"Playas"	773	2022-05-16
+"Guayas"	"Salitre"	1486	2022-05-16
+"Guayas"	"Samborondón"	3348	2022-05-16
+"Guayas"	"San Jacinto De Yaguachi"	930	2022-05-16
+"Guayas"	"Santa Lucía"	293	2022-05-16
+"Guayas"	"Simón Bolivar"	266	2022-05-16
+"Guayas"	"Alfredo Baquerizo Moreno"	277	2022-05-17
+"Guayas"	"Balao"	449	2022-05-17
+"Guayas"	"Balzar"	1023	2022-05-17
+"Guayas"	"Colimes"	354	2022-05-17
+"Guayas"	"Coronel Marcelino Maridueña"	329	2022-05-17
+"Guayas"	"Daule"	3460	2022-05-17
+"Guayas"	"Durán"	6515	2022-05-17
+"Guayas"	"El Triunfo"	1236	2022-05-17
+"Guayas"	"Empalme"	1826	2022-05-17
+"Guayas"	"General Antonio Elizalde"	681	2022-05-17
+"Guayas"	"Guayaquil"	100792	2022-05-17
+"Guayas"	"Isidro Ayora"	194	2022-05-17
+"Guayas"	"Lomas de Sargentillo"	215	2022-05-17
+"Guayas"	"Milagro"	6593	2022-05-17
+"Guayas"	"Naranjal"	2018	2022-05-17
+"Guayas"	"Naranjito"	809	2022-05-17
+"Guayas"	"Nobol"	194	2022-05-17
+"Guayas"	"Palestina"	224	2022-05-17
+"Guayas"	"Pedro Carbo"	1230	2022-05-17
+"Guayas"	"Playas"	773	2022-05-17
+"Guayas"	"Salitre"	1486	2022-05-17
+"Guayas"	"Samborondón"	3352	2022-05-17
+"Guayas"	"San Jacinto De Yaguachi"	930	2022-05-17
+"Guayas"	"Santa Lucía"	293	2022-05-17
+"Guayas"	"Simón Bolivar"	266	2022-05-17
+"Guayas"	"Alfredo Baquerizo Moreno"	277	2022-05-18
+"Guayas"	"Balao"	449	2022-05-18
+"Guayas"	"Balzar"	1023	2022-05-18
+"Guayas"	"Colimes"	354	2022-05-18
+"Guayas"	"Coronel Marcelino Maridueña"	329	2022-05-18
+"Guayas"	"Daule"	3462	2022-05-18
+"Guayas"	"Durán"	6516	2022-05-18
+"Guayas"	"El Triunfo"	1236	2022-05-18
+"Guayas"	"Empalme"	1826	2022-05-18
+"Guayas"	"General Antonio Elizalde"	681	2022-05-18
+"Guayas"	"Guayaquil"	100832	2022-05-18
+"Guayas"	"Isidro Ayora"	194	2022-05-18
+"Guayas"	"Lomas de Sargentillo"	215	2022-05-18
+"Guayas"	"Milagro"	6593	2022-05-18
+"Guayas"	"Naranjal"	2018	2022-05-18
+"Guayas"	"Naranjito"	809	2022-05-18
+"Guayas"	"Nobol"	194	2022-05-18
+"Guayas"	"Palestina"	224	2022-05-18
+"Guayas"	"Pedro Carbo"	1230	2022-05-18
+"Guayas"	"Playas"	773	2022-05-18
+"Guayas"	"Salitre"	1486	2022-05-18
+"Guayas"	"Samborondón"	3358	2022-05-18
+"Guayas"	"San Jacinto De Yaguachi"	930	2022-05-18
+"Guayas"	"Santa Lucía"	293	2022-05-18
+"Guayas"	"Simón Bolivar"	266	2022-05-18
+"Guayas"	"Alfredo Baquerizo Moreno"	277	2022-05-19
+"Guayas"	"Balao"	449	2022-05-19
+"Guayas"	"Balzar"	1023	2022-05-19
+"Guayas"	"Colimes"	354	2022-05-19
+"Guayas"	"Coronel Marcelino Maridueña"	329	2022-05-19
+"Guayas"	"Daule"	3464	2022-05-19
+"Guayas"	"Durán"	6516	2022-05-19
+"Guayas"	"El Triunfo"	1236	2022-05-19
+"Guayas"	"Empalme"	1826	2022-05-19
+"Guayas"	"General Antonio Elizalde"	681	2022-05-19
+"Guayas"	"Guayaquil"	100886	2022-05-19
+"Guayas"	"Isidro Ayora"	194	2022-05-19
+"Guayas"	"Lomas de Sargentillo"	215	2022-05-19
+"Guayas"	"Milagro"	6593	2022-05-19
+"Guayas"	"Naranjal"	2018	2022-05-19
+"Guayas"	"Naranjito"	809	2022-05-19
+"Guayas"	"Nobol"	194	2022-05-19
+"Guayas"	"Palestina"	224	2022-05-19
+"Guayas"	"Pedro Carbo"	1230	2022-05-19
+"Guayas"	"Playas"	773	2022-05-19
+"Guayas"	"Salitre"	1486	2022-05-19
+"Guayas"	"Samborondón"	3364	2022-05-19
+"Guayas"	"San Jacinto De Yaguachi"	930	2022-05-19
+"Guayas"	"Santa Lucía"	293	2022-05-19
+"Guayas"	"Simón Bolivar"	266	2022-05-19
+"Guayas"	"Alfredo Baquerizo Moreno"	277	2022-05-20
+"Guayas"	"Balao"	449	2022-05-20
+"Guayas"	"Balzar"	1023	2022-05-20
+"Guayas"	"Colimes"	354	2022-05-20
+"Guayas"	"Coronel Marcelino Maridueña"	329	2022-05-20
+"Guayas"	"Daule"	3465	2022-05-20
+"Guayas"	"Durán"	6518	2022-05-20
+"Guayas"	"El Triunfo"	1236	2022-05-20
+"Guayas"	"Empalme"	1827	2022-05-20
+"Guayas"	"General Antonio Elizalde"	681	2022-05-20
+"Guayas"	"Guayaquil"	100961	2022-05-20
+"Guayas"	"Isidro Ayora"	194	2022-05-20
+"Guayas"	"Lomas de Sargentillo"	215	2022-05-20
+"Guayas"	"Milagro"	6595	2022-05-20
+"Guayas"	"Naranjal"	2018	2022-05-20
+"Guayas"	"Naranjito"	809	2022-05-20
+"Guayas"	"Nobol"	194	2022-05-20
+"Guayas"	"Palestina"	224	2022-05-20
+"Guayas"	"Pedro Carbo"	1230	2022-05-20
+"Guayas"	"Playas"	773	2022-05-20
+"Guayas"	"Salitre"	1486	2022-05-20
+"Guayas"	"Samborondón"	3367	2022-05-20
+"Guayas"	"San Jacinto De Yaguachi"	930	2022-05-20
+"Guayas"	"Santa Lucía"	293	2022-05-20
+"Guayas"	"Simón Bolivar"	266	2022-05-20

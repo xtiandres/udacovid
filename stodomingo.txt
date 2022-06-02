@@ -1585,3 +1585,15 @@
 "Sto. Domingo Tsáchilas"	"Santo Domingo"	14813	2022-05-13
 "Sto. Domingo Tsáchilas"	"La Concordia"	1963	2022-05-14
 "Sto. Domingo Tsáchilas"	"Santo Domingo"	14817	2022-05-14
+"Sto. Domingo Tsáchilas"	"La Concordia"	1963	2022-05-15
+"Sto. Domingo Tsáchilas"	"Santo Domingo"	14817	2022-05-15
+"Sto. Domingo Tsáchilas"	"La Concordia"	1963	2022-05-16
+"Sto. Domingo Tsáchilas"	"Santo Domingo"	14817	2022-05-16
+"Sto. Domingo Tsáchilas"	"La Concordia"	1963	2022-05-17
+"Sto. Domingo Tsáchilas"	"Santo Domingo"	14817	2022-05-17
+"Sto. Domingo Tsáchilas"	"La Concordia"	1963	2022-05-18
+"Sto. Domingo Tsáchilas"	"Santo Domingo"	14817	2022-05-18
+"Sto. Domingo Tsáchilas"	"La Concordia"	1963	2022-05-19
+"Sto. Domingo Tsáchilas"	"Santo Domingo"	14817	2022-05-19
+"Sto. Domingo Tsáchilas"	"La Concordia"	1963	2022-05-20
+"Sto. Domingo Tsáchilas"	"Santo Domingo"	14822	2022-05-20

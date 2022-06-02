@@ -2378,3 +2378,21 @@
 "Galápagos"	"Isabela"	466	2022-05-14
 "Galápagos"	"San Cristóbal"	935	2022-05-14
 "Galápagos"	"Santa Cruz"	1707	2022-05-14
+"Galápagos"	"Isabela"	466	2022-05-15
+"Galápagos"	"San Cristóbal"	935	2022-05-15
+"Galápagos"	"Santa Cruz"	1707	2022-05-15
+"Galápagos"	"Isabela"	466	2022-05-16
+"Galápagos"	"San Cristóbal"	935	2022-05-16
+"Galápagos"	"Santa Cruz"	1707	2022-05-16
+"Galápagos"	"Isabela"	466	2022-05-17
+"Galápagos"	"San Cristóbal"	935	2022-05-17
+"Galápagos"	"Santa Cruz"	1707	2022-05-17
+"Galápagos"	"Isabela"	466	2022-05-18
+"Galápagos"	"San Cristóbal"	935	2022-05-18
+"Galápagos"	"Santa Cruz"	1707	2022-05-18
+"Galápagos"	"Isabela"	466	2022-05-19
+"Galápagos"	"San Cristóbal"	935	2022-05-19
+"Galápagos"	"Santa Cruz"	1708	2022-05-19
+"Galápagos"	"Isabela"	466	2022-05-20
+"Galápagos"	"San Cristóbal"	935	2022-05-20
+"Galápagos"	"Santa Cruz"	1708	2022-05-20

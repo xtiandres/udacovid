@@ -17445,3 +17445,135 @@
 "Manabí"	"Sucre"	2512	2022-05-14
 "Manabí"	"Tosagua"	1048	2022-05-14
 "Manabí"	"Veinticuatro de Mayo"	1354	2022-05-14
+"Manabí"	"Bolívar"	1245	2022-05-15
+"Manabí"	"Chone"	6047	2022-05-15
+"Manabí"	"El Carmen"	1824	2022-05-15
+"Manabí"	"Flavio Alfaro"	594	2022-05-15
+"Manabí"	"Jama"	431	2022-05-15
+"Manabí"	"Jaramijó"	376	2022-05-15
+"Manabí"	"Jipijapa"	3280	2022-05-15
+"Manabí"	"Junín"	757	2022-05-15
+"Manabí"	"Manta"	7852	2022-05-15
+"Manabí"	"Montecristi"	1414	2022-05-15
+"Manabí"	"Olmedo"	657	2022-05-15
+"Manabí"	"Paján"	918	2022-05-15
+"Manabí"	"Pedernales"	1037	2022-05-15
+"Manabí"	"Pichincha"	835	2022-05-15
+"Manabí"	"Portoviejo"	17303	2022-05-15
+"Manabí"	"Puerto López"	955	2022-05-15
+"Manabí"	"Rocafuerte"	2026	2022-05-15
+"Manabí"	"San Vicente"	775	2022-05-15
+"Manabí"	"Santa Ana"	1931	2022-05-15
+"Manabí"	"Sucre"	2512	2022-05-15
+"Manabí"	"Tosagua"	1048	2022-05-15
+"Manabí"	"Veinticuatro de Mayo"	1354	2022-05-15
+"Manabí"	"Bolívar"	1245	2022-05-16
+"Manabí"	"Chone"	6048	2022-05-16
+"Manabí"	"El Carmen"	1824	2022-05-16
+"Manabí"	"Flavio Alfaro"	594	2022-05-16
+"Manabí"	"Jama"	431	2022-05-16
+"Manabí"	"Jaramijó"	376	2022-05-16
+"Manabí"	"Jipijapa"	3280	2022-05-16
+"Manabí"	"Junín"	757	2022-05-16
+"Manabí"	"Manta"	7852	2022-05-16
+"Manabí"	"Montecristi"	1414	2022-05-16
+"Manabí"	"Olmedo"	657	2022-05-16
+"Manabí"	"Paján"	918	2022-05-16
+"Manabí"	"Pedernales"	1037	2022-05-16
+"Manabí"	"Pichincha"	835	2022-05-16
+"Manabí"	"Portoviejo"	17304	2022-05-16
+"Manabí"	"Puerto López"	955	2022-05-16
+"Manabí"	"Rocafuerte"	2026	2022-05-16
+"Manabí"	"San Vicente"	775	2022-05-16
+"Manabí"	"Santa Ana"	1931	2022-05-16
+"Manabí"	"Sucre"	2512	2022-05-16
+"Manabí"	"Tosagua"	1048	2022-05-16
+"Manabí"	"Veinticuatro de Mayo"	1354	2022-05-16
+"Manabí"	"Bolívar"	1245	2022-05-17
+"Manabí"	"Chone"	6050	2022-05-17
+"Manabí"	"El Carmen"	1824	2022-05-17
+"Manabí"	"Flavio Alfaro"	594	2022-05-17
+"Manabí"	"Jama"	431	2022-05-17
+"Manabí"	"Jaramijó"	376	2022-05-17
+"Manabí"	"Jipijapa"	3281	2022-05-17
+"Manabí"	"Junín"	757	2022-05-17
+"Manabí"	"Manta"	7852	2022-05-17
+"Manabí"	"Montecristi"	1414	2022-05-17
+"Manabí"	"Olmedo"	657	2022-05-17
+"Manabí"	"Paján"	918	2022-05-17
+"Manabí"	"Pedernales"	1037	2022-05-17
+"Manabí"	"Pichincha"	835	2022-05-17
+"Manabí"	"Portoviejo"	17304	2022-05-17
+"Manabí"	"Puerto López"	955	2022-05-17
+"Manabí"	"Rocafuerte"	2026	2022-05-17
+"Manabí"	"San Vicente"	775	2022-05-17
+"Manabí"	"Santa Ana"	1931	2022-05-17
+"Manabí"	"Sucre"	2512	2022-05-17
+"Manabí"	"Tosagua"	1048	2022-05-17
+"Manabí"	"Veinticuatro de Mayo"	1354	2022-05-17
+"Manabí"	"Bolívar"	1245	2022-05-18
+"Manabí"	"Chone"	6051	2022-05-18
+"Manabí"	"El Carmen"	1824	2022-05-18
+"Manabí"	"Flavio Alfaro"	594	2022-05-18
+"Manabí"	"Jama"	431	2022-05-18
+"Manabí"	"Jaramijó"	376	2022-05-18
+"Manabí"	"Jipijapa"	3281	2022-05-18
+"Manabí"	"Junín"	757	2022-05-18
+"Manabí"	"Manta"	7852	2022-05-18
+"Manabí"	"Montecristi"	1415	2022-05-18
+"Manabí"	"Olmedo"	657	2022-05-18
+"Manabí"	"Paján"	918	2022-05-18
+"Manabí"	"Pedernales"	1037	2022-05-18
+"Manabí"	"Pichincha"	835	2022-05-18
+"Manabí"	"Portoviejo"	17306	2022-05-18
+"Manabí"	"Puerto López"	955	2022-05-18
+"Manabí"	"Rocafuerte"	2026	2022-05-18
+"Manabí"	"San Vicente"	775	2022-05-18
+"Manabí"	"Santa Ana"	1931	2022-05-18
+"Manabí"	"Sucre"	2512	2022-05-18
+"Manabí"	"Tosagua"	1048	2022-05-18
+"Manabí"	"Veinticuatro de Mayo"	1354	2022-05-18
+"Manabí"	"Bolívar"	1245	2022-05-19
+"Manabí"	"Chone"	6051	2022-05-19
+"Manabí"	"El Carmen"	1825	2022-05-19
+"Manabí"	"Flavio Alfaro"	594	2022-05-19
+"Manabí"	"Jama"	431	2022-05-19
+"Manabí"	"Jaramijó"	376	2022-05-19
+"Manabí"	"Jipijapa"	3281	2022-05-19
+"Manabí"	"Junín"	757	2022-05-19
+"Manabí"	"Manta"	7854	2022-05-19
+"Manabí"	"Montecristi"	1415	2022-05-19
+"Manabí"	"Olmedo"	657	2022-05-19
+"Manabí"	"Paján"	918	2022-05-19
+"Manabí"	"Pedernales"	1037	2022-05-19
+"Manabí"	"Pichincha"	835	2022-05-19
+"Manabí"	"Portoviejo"	17308	2022-05-19
+"Manabí"	"Puerto López"	955	2022-05-19
+"Manabí"	"Rocafuerte"	2026	2022-05-19
+"Manabí"	"San Vicente"	775	2022-05-19
+"Manabí"	"Santa Ana"	1931	2022-05-19
+"Manabí"	"Sucre"	2512	2022-05-19
+"Manabí"	"Tosagua"	1049	2022-05-19
+"Manabí"	"Veinticuatro de Mayo"	1354	2022-05-19
+"Manabí"	"Bolívar"	1245	2022-05-20
+"Manabí"	"Chone"	6053	2022-05-20
+"Manabí"	"El Carmen"	1825	2022-05-20
+"Manabí"	"Flavio Alfaro"	594	2022-05-20
+"Manabí"	"Jama"	431	2022-05-20
+"Manabí"	"Jaramijó"	376	2022-05-20
+"Manabí"	"Jipijapa"	3282	2022-05-20
+"Manabí"	"Junín"	757	2022-05-20
+"Manabí"	"Manta"	7856	2022-05-20
+"Manabí"	"Montecristi"	1415	2022-05-20
+"Manabí"	"Olmedo"	657	2022-05-20
+"Manabí"	"Paján"	918	2022-05-20
+"Manabí"	"Pedernales"	1037	2022-05-20
+"Manabí"	"Pichincha"	835	2022-05-20
+"Manabí"	"Portoviejo"	17309	2022-05-20
+"Manabí"	"Puerto López"	955	2022-05-20
+"Manabí"	"Rocafuerte"	2026	2022-05-20
+"Manabí"	"San Vicente"	775	2022-05-20
+"Manabí"	"Santa Ana"	1932	2022-05-20
+"Manabí"	"Sucre"	2512	2022-05-20
+"Manabí"	"Tosagua"	1051	2022-05-20
+"Manabí"	"Veinticuatro de Mayo"	1354	2022-05-20
