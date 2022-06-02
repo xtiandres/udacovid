@@ -1523,4 +1523,5 @@ provincias
 provcolu <- provincias
 provcolu <- as.data.frame(t(provcolu))
 # COMPROBACION DE SCRIPT CON REPORTE DEL MSP
-sum(provcolu)
+TOTAL <- sum(provcolu)
+TOTAL
