@@ -1718,7 +1718,9 @@ x140 <- mean(c(dncuio220514$nuevas,
 
 
 # POBLACIÓN QUITO POR 100MIL HABITANTES
-pqm <- 27.81641
+pqm <- pichincha22 %>%
+  filter(canton == "Quito" & created_at == "2022-05-20")
+pqm <- (pqm$canton_poblacion)/100000
 
 # DATA FRAME QUITO - pqm
 xx <- data_frame(fecha = c(#"7dic21", "8dic21", "9dic21","10dic21", "11dic21", "12dic21", "13dic21", "14dic21","15dic21", "16dic21", 
