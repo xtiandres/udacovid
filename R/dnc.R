@@ -3,13 +3,6 @@
 
 
 # DATASET A PARTIR DE "canpro.R"
-uio21 <- pichincha21 %>%
-  filter(canton == "Quito") %>%
-  select(canton, canton_poblacion, nuevas, created_at)
-uio22 <- pichincha22 %>%
-  filter(canton == "Quito") %>%
-  select(canton, canton_poblacion, nuevas, created_at)
-
 
 # ***** GUAYAS *****
 # npi"x" // ACORDE A DIAS DEL AÑO
