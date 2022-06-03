@@ -2,10 +2,10 @@
 
 # DATASET A PARTIR DE "canpro.R"
 gye21 <- guayas21 %>%
-  filter(canton == "Quito") %>%
+  filter(canton == "Guayaquil") %>%
   select(canton, canton_poblacion, nuevas, created_at)
 gye22 <- guayas22 %>%
-  filter(canton == "Quito") %>%
+  filter(canton == "Guayaquil") %>%
   select(canton, canton_poblacion, nuevas, created_at)
 
 # DESDE 2021-12-01 HASTA 2022-05-31 (ACTUALIZAR)
