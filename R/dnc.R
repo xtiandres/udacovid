@@ -6,6 +6,42 @@
 
 # ***** GUAYAS *****
 # npi"x" // ACORDE A DIAS DEL AÑO
+ngu152 <- guayas22 %>%
+  filter(created_at == "2022-06-01") %>%
+  summarise(tn = sum(nuevas))
+ngu151 <- guayas22 %>%
+  filter(created_at == "2022-05-31") %>%
+  summarise(tn = sum(nuevas))
+ngu150 <- guayas22 %>%
+  filter(created_at == "2022-05-30") %>%
+  summarise(tn = sum(nuevas))
+ngu149 <- guayas22 %>%
+  filter(created_at == "2022-05-29") %>%
+  summarise(tn = sum(nuevas))
+ngu148 <- guayas22 %>%
+  filter(created_at == "2022-05-28") %>%
+  summarise(tn = sum(nuevas))
+ngu147 <- guayas22 %>%
+  filter(created_at == "2022-05-27") %>%
+  summarise(tn = sum(nuevas))
+ngu146 <- guayas22 %>%
+  filter(created_at == "2022-05-26") %>%
+  summarise(tn = sum(nuevas))
+ngu145 <- guayas22 %>%
+  filter(created_at == "2022-05-25") %>%
+  summarise(tn = sum(nuevas))
+ngu144 <- guayas22 %>%
+  filter(created_at == "2022-05-24") %>%
+  summarise(tn = sum(nuevas))
+ngu143 <- guayas22 %>%
+  filter(created_at == "2022-05-23") %>%
+  summarise(tn = sum(nuevas))
+ngu142 <- guayas22 %>%
+  filter(created_at == "2022-05-22") %>%
+  summarise(tn = sum(nuevas))
+ngu141 <- guayas22 %>%
+  filter(created_at == "2022-05-21") %>%
+  summarise(tn = sum(nuevas))
 ngu140 <- guayas22 %>%
   filter(created_at == "2022-05-20") %>%
   summarise(tn = sum(nuevas))
@@ -250,6 +286,7 @@ ngu60 <- guayas22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 # PROMEDIO POR DÍA, CONSIDERANDO ÚLTIMOS 7 DÍAS
+dgu152 <- mean(c(ngu152$tn, ngu151$tn, ngu150$tn, ngu149$tn, ngu148$tn, ngu147$tn, ngu146$tn))
 dgu140 <- mean(c(ngu140$tn, ngu139$tn, ngu138$tn, ngu137$tn, ngu136$tn, ngu135$tn, ngu134$tn))
 dgu134 <- mean(c(ngu134$tn, ngu133$tn, ngu132$tn, ngu131$tn, ngu130$tn, ngu129$tn, ngu128$tn))
 dgu128 <- mean(c(ngu128$tn, ngu127$tn, ngu126$tn, ngu125$tn, ngu124$tn, ngu123$tn, ngu122$tn))
@@ -290,17 +327,16 @@ dgu67 <- mean(c(ngu67$tn, ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn, ngu6
 dgu66 <- mean(c(ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn, ngu61$tn, ngu60$tn))
 # POBLACIÓN GUAYAS POR CADA 100MIL HABITANTES
 pgu <- guayas22 %>%
-  filter(canton == "Guayaquil" & created_at == "2022-04-11") %>%
-  select(provincia_poblacion)
+  filter(canton == "Guayaquil" & created_at == "2022-06-01")
 pgu <- (pgu$provincia_poblacion)/100000
 # DATA FRAME GUAYAS
 dfgu <- data_frame(
-  fecha = c("20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncgu = c(dgu140/pgu, dgu134/pgu, dgu128/pgu, dgu117/pgu, dgu109/pgu, dgu101/pgu, 
+  dncgu = c(dgu152/pgu, dgu140/pgu, dgu134/pgu, dgu128/pgu, dgu117/pgu, dgu109/pgu, dgu101/pgu, 
             dgu97/pgu, dgu96/pgu, dgu95/pgu, dgu94/pgu, dgu93/pgu, dgu92/pgu, dgu91/pgu, 
             dgu90/pgu, dgu89/pgu, dgu83/pgu, dgu82/pgu, dgu81/pgu, dgu80/pgu, dgu79/pgu, 
             dgu78/pgu, dgu77/pgu, dgu76/pgu, dgu75/pgu, dgu74/pgu, dgu73/pgu, dgu72/pgu, 
