@@ -5676,3 +5676,24 @@
 "Cañar"	"El Tambo"	619	2022-06-01
 "Cañar"	"La Troncal"	2127	2022-06-01
 "Cañar"	"Suscal"	127	2022-06-01
+"Cañar"	"Azogues"	7830	2022-06-02
+"Cañar"	"Biblían"	1329	2022-06-02
+"Cañar"	"Cañar"	2791	2022-06-02
+"Cañar"	"Déleg"	219	2022-06-02
+"Cañar"	"El Tambo"	619	2022-06-02
+"Cañar"	"La Troncal"	2129	2022-06-02
+"Cañar"	"Suscal"	127	2022-06-02
+"Cañar"	"Azogues"	7835	2022-06-03
+"Cañar"	"Biblían"	1329	2022-06-03
+"Cañar"	"Cañar"	2791	2022-06-03
+"Cañar"	"Déleg"	219	2022-06-03
+"Cañar"	"El Tambo"	620	2022-06-03
+"Cañar"	"La Troncal"	2129	2022-06-03
+"Cañar"	"Suscal"	127	2022-06-03
+"Cañar"	"Azogues"	7839	2022-06-04
+"Cañar"	"Biblían"	1329	2022-06-04
+"Cañar"	"Cañar"	2792	2022-06-04
+"Cañar"	"Déleg"	219	2022-06-04
+"Cañar"	"El Tambo"	620	2022-06-04
+"Cañar"	"La Troncal"	2129	2022-06-04
+"Cañar"	"Suscal"	127	2022-06-04

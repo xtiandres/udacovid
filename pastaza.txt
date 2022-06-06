@@ -3243,3 +3243,15 @@
 "Pastaza"	"Mera"	1009	2022-06-01
 "Pastaza"	"Pastaza"	3912	2022-06-01
 "Pastaza"	"Santa Clara"	193	2022-06-01
+"Pastaza"	"Arajuno"	215	2022-06-02
+"Pastaza"	"Mera"	1009	2022-06-02
+"Pastaza"	"Pastaza"	3912	2022-06-02
+"Pastaza"	"Santa Clara"	193	2022-06-02
+"Pastaza"	"Arajuno"	215	2022-06-03
+"Pastaza"	"Mera"	1009	2022-06-03
+"Pastaza"	"Pastaza"	3913	2022-06-03
+"Pastaza"	"Santa Clara"	193	2022-06-03
+"Pastaza"	"Arajuno"	215	2022-06-04
+"Pastaza"	"Mera"	1010	2022-06-04
+"Pastaza"	"Pastaza"	3913	2022-06-04
+"Pastaza"	"Santa Clara"	193	2022-06-04

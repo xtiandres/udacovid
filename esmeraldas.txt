@@ -5676,3 +5676,24 @@
 "Esmeraldas"	"Quinindé"	2637	2022-06-01
 "Esmeraldas"	"Rioverde"	534	2022-06-01
 "Esmeraldas"	"San Lorenzo"	1170	2022-06-01
+"Esmeraldas"	"Atacames"	1205	2022-06-02
+"Esmeraldas"	"Eloy Alfaro"	556	2022-06-02
+"Esmeraldas"	"Esmeraldas"	7720	2022-06-02
+"Esmeraldas"	"Muisne"	329	2022-06-02
+"Esmeraldas"	"Quinindé"	2637	2022-06-02
+"Esmeraldas"	"Rioverde"	534	2022-06-02
+"Esmeraldas"	"San Lorenzo"	1170	2022-06-02
+"Esmeraldas"	"Atacames"	1205	2022-06-03
+"Esmeraldas"	"Eloy Alfaro"	556	2022-06-03
+"Esmeraldas"	"Esmeraldas"	7724	2022-06-03
+"Esmeraldas"	"Muisne"	329	2022-06-03
+"Esmeraldas"	"Quinindé"	2639	2022-06-03
+"Esmeraldas"	"Rioverde"	534	2022-06-03
+"Esmeraldas"	"San Lorenzo"	1171	2022-06-03
+"Esmeraldas"	"Atacames"	1205	2022-06-04
+"Esmeraldas"	"Eloy Alfaro"	556	2022-06-04
+"Esmeraldas"	"Esmeraldas"	7724	2022-06-04
+"Esmeraldas"	"Muisne"	329	2022-06-04
+"Esmeraldas"	"Quinindé"	2639	2022-06-04
+"Esmeraldas"	"Rioverde"	534	2022-06-04
+"Esmeraldas"	"San Lorenzo"	1171	2022-06-04

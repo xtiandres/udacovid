@@ -5676,3 +5676,24 @@
 "Sucumbíos"	"Putumayo"	373	2022-06-01
 "Sucumbíos"	"Shushufindi"	1701	2022-06-01
 "Sucumbíos"	"Sucumbíos"	196	2022-06-01
+"Sucumbíos"	"Cascales"	398	2022-06-02
+"Sucumbíos"	"Cuyabeno"	466	2022-06-02
+"Sucumbíos"	"Gonzalo Pizarro"	470	2022-06-02
+"Sucumbíos"	"Lago Agrio"	5209	2022-06-02
+"Sucumbíos"	"Putumayo"	373	2022-06-02
+"Sucumbíos"	"Shushufindi"	1701	2022-06-02
+"Sucumbíos"	"Sucumbíos"	196	2022-06-02
+"Sucumbíos"	"Cascales"	398	2022-06-03
+"Sucumbíos"	"Cuyabeno"	466	2022-06-03
+"Sucumbíos"	"Gonzalo Pizarro"	470	2022-06-03
+"Sucumbíos"	"Lago Agrio"	5209	2022-06-03
+"Sucumbíos"	"Putumayo"	373	2022-06-03
+"Sucumbíos"	"Shushufindi"	1701	2022-06-03
+"Sucumbíos"	"Sucumbíos"	196	2022-06-03
+"Sucumbíos"	"Cascales"	398	2022-06-04
+"Sucumbíos"	"Cuyabeno"	466	2022-06-04
+"Sucumbíos"	"Gonzalo Pizarro"	472	2022-06-04
+"Sucumbíos"	"Lago Agrio"	5210	2022-06-04
+"Sucumbíos"	"Putumayo"	373	2022-06-04
+"Sucumbíos"	"Shushufindi"	1701	2022-06-04
+"Sucumbíos"	"Sucumbíos"	196	2022-06-04

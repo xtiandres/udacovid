@@ -3243,3 +3243,15 @@
 "Orellana"	"La Joya de los Sachas"	1089	2022-06-01
 "Orellana"	"Loreto"	303	2022-06-01
 "Orellana"	"Orellana"	3807	2022-06-01
+"Orellana"	"Aguarico"	869	2022-06-02
+"Orellana"	"La Joya de los Sachas"	1089	2022-06-02
+"Orellana"	"Loreto"	303	2022-06-02
+"Orellana"	"Orellana"	3807	2022-06-02
+"Orellana"	"Aguarico"	869	2022-06-03
+"Orellana"	"La Joya de los Sachas"	1089	2022-06-03
+"Orellana"	"Loreto"	303	2022-06-03
+"Orellana"	"Orellana"	3807	2022-06-03
+"Orellana"	"Aguarico"	869	2022-06-04
+"Orellana"	"La Joya de los Sachas"	1089	2022-06-04
+"Orellana"	"Loreto"	303	2022-06-04
+"Orellana"	"Orellana"	3807	2022-06-04

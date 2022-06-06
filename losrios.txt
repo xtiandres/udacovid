@@ -10542,3 +10542,42 @@
 "Los Ríos"	"Valencia"	814	2022-06-01
 "Los Ríos"	"Ventanas"	1870	2022-06-01
 "Los Ríos"	"Vinces"	1495	2022-06-01
+"Los Ríos"	"Baba"	462	2022-06-02
+"Los Ríos"	"Babahoyo"	5018	2022-06-02
+"Los Ríos"	"Buena Fe"	1048	2022-06-02
+"Los Ríos"	"Mocache"	209	2022-06-02
+"Los Ríos"	"Montalvo"	692	2022-06-02
+"Los Ríos"	"Palenque"	470	2022-06-02
+"Los Ríos"	"Puebloviejo"	512	2022-06-02
+"Los Ríos"	"Quevedo"	3589	2022-06-02
+"Los Ríos"	"Quinsaloma"	471	2022-06-02
+"Los Ríos"	"Urdaneta"	714	2022-06-02
+"Los Ríos"	"Valencia"	814	2022-06-02
+"Los Ríos"	"Ventanas"	1870	2022-06-02
+"Los Ríos"	"Vinces"	1495	2022-06-02
+"Los Ríos"	"Baba"	462	2022-06-03
+"Los Ríos"	"Babahoyo"	5020	2022-06-03
+"Los Ríos"	"Buena Fe"	1048	2022-06-03
+"Los Ríos"	"Mocache"	209	2022-06-03
+"Los Ríos"	"Montalvo"	692	2022-06-03
+"Los Ríos"	"Palenque"	470	2022-06-03
+"Los Ríos"	"Puebloviejo"	513	2022-06-03
+"Los Ríos"	"Quevedo"	3592	2022-06-03
+"Los Ríos"	"Quinsaloma"	471	2022-06-03
+"Los Ríos"	"Urdaneta"	714	2022-06-03
+"Los Ríos"	"Valencia"	814	2022-06-03
+"Los Ríos"	"Ventanas"	1870	2022-06-03
+"Los Ríos"	"Vinces"	1496	2022-06-03
+"Los Ríos"	"Baba"	462	2022-06-04
+"Los Ríos"	"Babahoyo"	5021	2022-06-04
+"Los Ríos"	"Buena Fe"	1048	2022-06-04
+"Los Ríos"	"Mocache"	209	2022-06-04
+"Los Ríos"	"Montalvo"	692	2022-06-04
+"Los Ríos"	"Palenque"	470	2022-06-04
+"Los Ríos"	"Puebloviejo"	514	2022-06-04
+"Los Ríos"	"Quevedo"	3592	2022-06-04
+"Los Ríos"	"Quinsaloma"	471	2022-06-04
+"Los Ríos"	"Urdaneta"	714	2022-06-04
+"Los Ríos"	"Valencia"	814	2022-06-04
+"Los Ríos"	"Ventanas"	1870	2022-06-04
+"Los Ríos"	"Vinces"	1496	2022-06-04
