@@ -1,21 +1,39 @@
-ngu140 <- staelena22 %>%
-  filter(created_at == "2022-05-20") %>%
+ngu152 <- guayas22 %>%
+  filter(created_at == "2022-06-01") %>%
   summarise(tn = sum(nuevas))
-ngu139 <- staelena22 %>%
-  filter(created_at == "2022-05-19") %>%
+ngu151 <- guayas22 %>%
+  filter(created_at == "2022-05-31") %>%
   summarise(tn = sum(nuevas))
-ngu138 <- staelena22 %>%
-  filter(created_at == "2022-05-18") %>%
+ngu150 <- guayas22 %>%
+  filter(created_at == "2022-05-30") %>%
   summarise(tn = sum(nuevas))
-ngu137 <- staelena22 %>%
-  filter(created_at == "2022-05-17") %>%
+ngu149 <- guayas22 %>%
+  filter(created_at == "2022-05-29") %>%
   summarise(tn = sum(nuevas))
-ngu136 <- staelena22 %>%
-  filter(created_at == "2022-05-16") %>%
+ngu148 <- guayas22 %>%
+  filter(created_at == "2022-05-28") %>%
   summarise(tn = sum(nuevas))
-ngu135 <- staelena22 %>%
-  filter(created_at == "2022-05-15") %>%
+ngu147 <- guayas22 %>%
+  filter(created_at == "2022-05-27") %>%
+  summarise(tn = sum(nuevas))
+ngu146 <- guayas22 %>%
+  filter(created_at == "2022-05-26") %>%
+  summarise(tn = sum(nuevas))
+ngu145 <- guayas22 %>%
+  filter(created_at == "2022-05-25") %>%
+  summarise(tn = sum(nuevas))
+ngu144 <- guayas22 %>%
+  filter(created_at == "2022-05-24") %>%
+  summarise(tn = sum(nuevas))
+ngu143 <- guayas22 %>%
+  filter(created_at == "2022-05-23") %>%
+  summarise(tn = sum(nuevas))
+ngu142 <- guayas22 %>%
+  filter(created_at == "2022-05-22") %>%
+  summarise(tn = sum(nuevas))
+ngu141 <- guayas22 %>%
+  filter(created_at == "2022-05-21") %>%
   summarise(tn = sum(nuevas))
 
 
-dea140 <- mean(c(ngu140$tn, ngu139$tn, ngu138$tn, ngu137$tn, ngu136$tn, ngu135$tn, ngu134$tn))
+dea152 <- mean(c(ngu152$tn, ngu151$tn, ngu150$tn, ngu149$tn, ngu148$tn, ngu147$tn, ngu146$tn))
