@@ -3195,3 +3195,51 @@
 "Orellana"	"La Joya de los Sachas"	1066	2022-05-20
 "Orellana"	"Loreto"	303	2022-05-20
 "Orellana"	"Orellana"	3676	2022-05-20
+"Orellana"	"Aguarico"	869	2022-05-21
+"Orellana"	"La Joya de los Sachas"	1068	2022-05-21
+"Orellana"	"Loreto"	303	2022-05-21
+"Orellana"	"Orellana"	3783	2022-05-21
+"Orellana"	"Aguarico"	869	2022-05-22
+"Orellana"	"La Joya de los Sachas"	1068	2022-05-22
+"Orellana"	"Loreto"	303	2022-05-22
+"Orellana"	"Orellana"	3794	2022-05-22
+"Orellana"	"Aguarico"	869	2022-05-23
+"Orellana"	"La Joya de los Sachas"	1068	2022-05-23
+"Orellana"	"Loreto"	303	2022-05-23
+"Orellana"	"Orellana"	3794	2022-05-23
+"Orellana"	"Aguarico"	869	2022-05-24
+"Orellana"	"La Joya de los Sachas"	1068	2022-05-24
+"Orellana"	"Loreto"	303	2022-05-24
+"Orellana"	"Orellana"	3794	2022-05-24
+"Orellana"	"Aguarico"	869	2022-05-25
+"Orellana"	"La Joya de los Sachas"	1068	2022-05-25
+"Orellana"	"Loreto"	303	2022-05-25
+"Orellana"	"Orellana"	3796	2022-05-25
+"Orellana"	"Aguarico"	869	2022-05-26
+"Orellana"	"La Joya de los Sachas"	1068	2022-05-26
+"Orellana"	"Loreto"	303	2022-05-26
+"Orellana"	"Orellana"	3798	2022-05-26
+"Orellana"	"Aguarico"	869	2022-05-27
+"Orellana"	"La Joya de los Sachas"	1069	2022-05-27
+"Orellana"	"Loreto"	303	2022-05-27
+"Orellana"	"Orellana"	3800	2022-05-27
+"Orellana"	"Aguarico"	869	2022-05-28
+"Orellana"	"La Joya de los Sachas"	1069	2022-05-28
+"Orellana"	"Loreto"	303	2022-05-28
+"Orellana"	"Orellana"	3800	2022-05-28
+"Orellana"	"Aguarico"	869	2022-05-29
+"Orellana"	"La Joya de los Sachas"	1069	2022-05-29
+"Orellana"	"Loreto"	303	2022-05-29
+"Orellana"	"Orellana"	3801	2022-05-29
+"Orellana"	"Aguarico"	869	2022-05-30
+"Orellana"	"La Joya de los Sachas"	1069	2022-05-30
+"Orellana"	"Loreto"	303	2022-05-30
+"Orellana"	"Orellana"	3801	2022-05-30
+"Orellana"	"Aguarico"	869	2022-05-31
+"Orellana"	"La Joya de los Sachas"	1069	2022-05-31
+"Orellana"	"Loreto"	303	2022-05-31
+"Orellana"	"Orellana"	3802	2022-05-31
+"Orellana"	"Aguarico"	869	2022-06-01
+"Orellana"	"La Joya de los Sachas"	1089	2022-06-01
+"Orellana"	"Loreto"	303	2022-06-01
+"Orellana"	"Orellana"	3807	2022-06-01

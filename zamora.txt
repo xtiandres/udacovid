@@ -7190,3 +7190,111 @@
 "Zamora Chinchipe"	"Yacuambi"	148	2022-05-20
 "Zamora Chinchipe"	"Yantzaza"	1383	2022-05-20
 "Zamora Chinchipe"	"Zamora"	1518	2022-05-20
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-21
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-21
+"Zamora Chinchipe"	"El Pangui"	654	2022-05-21
+"Zamora Chinchipe"	"Nangaritza"	210	2022-05-21
+"Zamora Chinchipe"	"Palanda"	208	2022-05-21
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-21
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-21
+"Zamora Chinchipe"	"Yantzaza"	1384	2022-05-21
+"Zamora Chinchipe"	"Zamora"	1519	2022-05-21
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-22
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-22
+"Zamora Chinchipe"	"El Pangui"	654	2022-05-22
+"Zamora Chinchipe"	"Nangaritza"	210	2022-05-22
+"Zamora Chinchipe"	"Palanda"	208	2022-05-22
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-22
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-22
+"Zamora Chinchipe"	"Yantzaza"	1384	2022-05-22
+"Zamora Chinchipe"	"Zamora"	1519	2022-05-22
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-23
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-23
+"Zamora Chinchipe"	"El Pangui"	654	2022-05-23
+"Zamora Chinchipe"	"Nangaritza"	210	2022-05-23
+"Zamora Chinchipe"	"Palanda"	208	2022-05-23
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-23
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-23
+"Zamora Chinchipe"	"Yantzaza"	1384	2022-05-23
+"Zamora Chinchipe"	"Zamora"	1519	2022-05-23
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-24
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-24
+"Zamora Chinchipe"	"El Pangui"	654	2022-05-24
+"Zamora Chinchipe"	"Nangaritza"	210	2022-05-24
+"Zamora Chinchipe"	"Palanda"	208	2022-05-24
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-24
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-24
+"Zamora Chinchipe"	"Yantzaza"	1384	2022-05-24
+"Zamora Chinchipe"	"Zamora"	1519	2022-05-24
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-25
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-25
+"Zamora Chinchipe"	"El Pangui"	656	2022-05-25
+"Zamora Chinchipe"	"Nangaritza"	210	2022-05-25
+"Zamora Chinchipe"	"Palanda"	208	2022-05-25
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-25
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-25
+"Zamora Chinchipe"	"Yantzaza"	1385	2022-05-25
+"Zamora Chinchipe"	"Zamora"	1519	2022-05-25
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-26
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-26
+"Zamora Chinchipe"	"El Pangui"	656	2022-05-26
+"Zamora Chinchipe"	"Nangaritza"	210	2022-05-26
+"Zamora Chinchipe"	"Palanda"	208	2022-05-26
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-26
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-26
+"Zamora Chinchipe"	"Yantzaza"	1385	2022-05-26
+"Zamora Chinchipe"	"Zamora"	1519	2022-05-26
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-27
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-27
+"Zamora Chinchipe"	"El Pangui"	658	2022-05-27
+"Zamora Chinchipe"	"Nangaritza"	211	2022-05-27
+"Zamora Chinchipe"	"Palanda"	208	2022-05-27
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-27
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-27
+"Zamora Chinchipe"	"Yantzaza"	1386	2022-05-27
+"Zamora Chinchipe"	"Zamora"	1520	2022-05-27
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-28
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-28
+"Zamora Chinchipe"	"El Pangui"	658	2022-05-28
+"Zamora Chinchipe"	"Nangaritza"	211	2022-05-28
+"Zamora Chinchipe"	"Palanda"	208	2022-05-28
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-28
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-28
+"Zamora Chinchipe"	"Yantzaza"	1386	2022-05-28
+"Zamora Chinchipe"	"Zamora"	1520	2022-05-28
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-29
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-29
+"Zamora Chinchipe"	"El Pangui"	658	2022-05-29
+"Zamora Chinchipe"	"Nangaritza"	211	2022-05-29
+"Zamora Chinchipe"	"Palanda"	208	2022-05-29
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-29
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-29
+"Zamora Chinchipe"	"Yantzaza"	1386	2022-05-29
+"Zamora Chinchipe"	"Zamora"	1520	2022-05-29
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-30
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-30
+"Zamora Chinchipe"	"El Pangui"	658	2022-05-30
+"Zamora Chinchipe"	"Nangaritza"	211	2022-05-30
+"Zamora Chinchipe"	"Palanda"	208	2022-05-30
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-30
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-30
+"Zamora Chinchipe"	"Yantzaza"	1386	2022-05-30
+"Zamora Chinchipe"	"Zamora"	1520	2022-05-30
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-05-31
+"Zamora Chinchipe"	"Chinchipe"	558	2022-05-31
+"Zamora Chinchipe"	"El Pangui"	661	2022-05-31
+"Zamora Chinchipe"	"Nangaritza"	211	2022-05-31
+"Zamora Chinchipe"	"Palanda"	208	2022-05-31
+"Zamora Chinchipe"	"Paquisha"	202	2022-05-31
+"Zamora Chinchipe"	"Yacuambi"	148	2022-05-31
+"Zamora Chinchipe"	"Yantzaza"	1386	2022-05-31
+"Zamora Chinchipe"	"Zamora"	1524	2022-05-31
+"Zamora Chinchipe"	"Centinela del Cóndor"	363	2022-06-01
+"Zamora Chinchipe"	"Chinchipe"	558	2022-06-01
+"Zamora Chinchipe"	"El Pangui"	661	2022-06-01
+"Zamora Chinchipe"	"Nangaritza"	211	2022-06-01
+"Zamora Chinchipe"	"Palanda"	208	2022-06-01
+"Zamora Chinchipe"	"Paquisha"	202	2022-06-01
+"Zamora Chinchipe"	"Yacuambi"	148	2022-06-01
+"Zamora Chinchipe"	"Yantzaza"	1387	2022-06-01
+"Zamora Chinchipe"	"Zamora"	1524	2022-06-01

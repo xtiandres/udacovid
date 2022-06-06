@@ -4793,3 +4793,75 @@
 "Carchi"	"Montúfar"	2310	2022-05-20
 "Carchi"	"San Pedro de Huaca"	698	2022-05-20
 "Carchi"	"Tulcán"	7074	2022-05-20
+"Carchi"	"Bolivar"	973	2022-05-21
+"Carchi"	"Espejo"	1034	2022-05-21
+"Carchi"	"Mira"	1109	2022-05-21
+"Carchi"	"Montúfar"	2311	2022-05-21
+"Carchi"	"San Pedro de Huaca"	698	2022-05-21
+"Carchi"	"Tulcán"	7076	2022-05-21
+"Carchi"	"Bolivar"	973	2022-05-22
+"Carchi"	"Espejo"	1034	2022-05-22
+"Carchi"	"Mira"	1109	2022-05-22
+"Carchi"	"Montúfar"	2311	2022-05-22
+"Carchi"	"San Pedro de Huaca"	699	2022-05-22
+"Carchi"	"Tulcán"	7082	2022-05-22
+"Carchi"	"Bolivar"	973	2022-05-23
+"Carchi"	"Espejo"	1034	2022-05-23
+"Carchi"	"Mira"	1109	2022-05-23
+"Carchi"	"Montúfar"	2311	2022-05-23
+"Carchi"	"San Pedro de Huaca"	699	2022-05-23
+"Carchi"	"Tulcán"	7082	2022-05-23
+"Carchi"	"Bolivar"	973	2022-05-24
+"Carchi"	"Espejo"	1034	2022-05-24
+"Carchi"	"Mira"	1109	2022-05-24
+"Carchi"	"Montúfar"	2311	2022-05-24
+"Carchi"	"San Pedro de Huaca"	699	2022-05-24
+"Carchi"	"Tulcán"	7082	2022-05-24
+"Carchi"	"Bolivar"	973	2022-05-25
+"Carchi"	"Espejo"	1035	2022-05-25
+"Carchi"	"Mira"	1109	2022-05-25
+"Carchi"	"Montúfar"	2312	2022-05-25
+"Carchi"	"San Pedro de Huaca"	699	2022-05-25
+"Carchi"	"Tulcán"	7082	2022-05-25
+"Carchi"	"Bolivar"	973	2022-05-26
+"Carchi"	"Espejo"	1035	2022-05-26
+"Carchi"	"Mira"	1109	2022-05-26
+"Carchi"	"Montúfar"	2312	2022-05-26
+"Carchi"	"San Pedro de Huaca"	699	2022-05-26
+"Carchi"	"Tulcán"	7083	2022-05-26
+"Carchi"	"Bolivar"	973	2022-05-27
+"Carchi"	"Espejo"	1035	2022-05-27
+"Carchi"	"Mira"	1109	2022-05-27
+"Carchi"	"Montúfar"	2312	2022-05-27
+"Carchi"	"San Pedro de Huaca"	699	2022-05-27
+"Carchi"	"Tulcán"	7088	2022-05-27
+"Carchi"	"Bolivar"	973	2022-05-28
+"Carchi"	"Espejo"	1035	2022-05-28
+"Carchi"	"Mira"	1109	2022-05-28
+"Carchi"	"Montúfar"	2312	2022-05-28
+"Carchi"	"San Pedro de Huaca"	699	2022-05-28
+"Carchi"	"Tulcán"	7088	2022-05-28
+"Carchi"	"Bolivar"	974	2022-05-29
+"Carchi"	"Espejo"	1035	2022-05-29
+"Carchi"	"Mira"	1109	2022-05-29
+"Carchi"	"Montúfar"	2312	2022-05-29
+"Carchi"	"San Pedro de Huaca"	699	2022-05-29
+"Carchi"	"Tulcán"	7089	2022-05-29
+"Carchi"	"Bolivar"	974	2022-05-30
+"Carchi"	"Espejo"	1035	2022-05-30
+"Carchi"	"Mira"	1109	2022-05-30
+"Carchi"	"Montúfar"	2312	2022-05-30
+"Carchi"	"San Pedro de Huaca"	699	2022-05-30
+"Carchi"	"Tulcán"	7089	2022-05-30
+"Carchi"	"Bolivar"	974	2022-05-31
+"Carchi"	"Espejo"	1035	2022-05-31
+"Carchi"	"Mira"	1110	2022-05-31
+"Carchi"	"Montúfar"	2312	2022-05-31
+"Carchi"	"San Pedro de Huaca"	699	2022-05-31
+"Carchi"	"Tulcán"	7091	2022-05-31
+"Carchi"	"Bolivar"	975	2022-06-01
+"Carchi"	"Espejo"	1036	2022-06-01
+"Carchi"	"Mira"	1112	2022-06-01
+"Carchi"	"Montúfar"	2314	2022-06-01
+"Carchi"	"San Pedro de Huaca"	699	2022-06-01
+"Carchi"	"Tulcán"	7098	2022-06-01

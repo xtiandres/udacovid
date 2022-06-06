@@ -2396,3 +2396,39 @@
 "Galápagos"	"Isabela"	466	2022-05-20
 "Galápagos"	"San Cristóbal"	935	2022-05-20
 "Galápagos"	"Santa Cruz"	1708	2022-05-20
+"Galápagos"	"Isabela"	466	2022-05-21
+"Galápagos"	"San Cristóbal"	936	2022-05-21
+"Galápagos"	"Santa Cruz"	1708	2022-05-21
+"Galápagos"	"Isabela"	466	2022-05-22
+"Galápagos"	"San Cristóbal"	936	2022-05-22
+"Galápagos"	"Santa Cruz"	1708	2022-05-22
+"Galápagos"	"Isabela"	466	2022-05-23
+"Galápagos"	"San Cristóbal"	936	2022-05-23
+"Galápagos"	"Santa Cruz"	1708	2022-05-23
+"Galápagos"	"Isabela"	466	2022-05-24
+"Galápagos"	"San Cristóbal"	936	2022-05-24
+"Galápagos"	"Santa Cruz"	1708	2022-05-24
+"Galápagos"	"Isabela"	466	2022-05-25
+"Galápagos"	"San Cristóbal"	936	2022-05-25
+"Galápagos"	"Santa Cruz"	1708	2022-05-25
+"Galápagos"	"Isabela"	467	2022-05-26
+"Galápagos"	"San Cristóbal"	936	2022-05-26
+"Galápagos"	"Santa Cruz"	1710	2022-05-26
+"Galápagos"	"Isabela"	468	2022-05-27
+"Galápagos"	"San Cristóbal"	936	2022-05-27
+"Galápagos"	"Santa Cruz"	1711	2022-05-27
+"Galápagos"	"Isabela"	468	2022-05-28
+"Galápagos"	"San Cristóbal"	936	2022-05-28
+"Galápagos"	"Santa Cruz"	1711	2022-05-28
+"Galápagos"	"Isabela"	468	2022-05-29
+"Galápagos"	"San Cristóbal"	936	2022-05-29
+"Galápagos"	"Santa Cruz"	1711	2022-05-29
+"Galápagos"	"Isabela"	468	2022-05-30
+"Galápagos"	"San Cristóbal"	936	2022-05-30
+"Galápagos"	"Santa Cruz"	1711	2022-05-30
+"Galápagos"	"Isabela"	468	2022-05-31
+"Galápagos"	"San Cristóbal"	937	2022-05-31
+"Galápagos"	"Santa Cruz"	1711	2022-05-31
+"Galápagos"	"Isabela"	468	2022-06-01
+"Galápagos"	"San Cristóbal"	958	2022-06-01
+"Galápagos"	"Santa Cruz"	1727	2022-06-01

@@ -5592,3 +5592,87 @@
 "Bolívar"	"Guaranda"	4347	2022-05-20
 "Bolívar"	"Las Naves"	518	2022-05-20
 "Bolívar"	"San Miguel"	2166	2022-05-20
+"Bolívar"	"Caluma"	1546	2022-05-21
+"Bolívar"	"Chillanes"	934	2022-05-21
+"Bolívar"	"Chimbo"	921	2022-05-21
+"Bolívar"	"Echeandía"	1267	2022-05-21
+"Bolívar"	"Guaranda"	4347	2022-05-21
+"Bolívar"	"Las Naves"	518	2022-05-21
+"Bolívar"	"San Miguel"	2168	2022-05-21
+"Bolívar"	"Caluma"	1546	2022-05-22
+"Bolívar"	"Chillanes"	934	2022-05-22
+"Bolívar"	"Chimbo"	921	2022-05-22
+"Bolívar"	"Echeandía"	1267	2022-05-22
+"Bolívar"	"Guaranda"	4347	2022-05-22
+"Bolívar"	"Las Naves"	518	2022-05-22
+"Bolívar"	"San Miguel"	2168	2022-05-22
+"Bolívar"	"Caluma"	1546	2022-05-23
+"Bolívar"	"Chillanes"	934	2022-05-23
+"Bolívar"	"Chimbo"	921	2022-05-23
+"Bolívar"	"Echeandía"	1267	2022-05-23
+"Bolívar"	"Guaranda"	4347	2022-05-23
+"Bolívar"	"Las Naves"	518	2022-05-23
+"Bolívar"	"San Miguel"	2168	2022-05-23
+"Bolívar"	"Caluma"	1546	2022-05-24
+"Bolívar"	"Chillanes"	934	2022-05-24
+"Bolívar"	"Chimbo"	921	2022-05-24
+"Bolívar"	"Echeandía"	1267	2022-05-24
+"Bolívar"	"Guaranda"	4347	2022-05-24
+"Bolívar"	"Las Naves"	518	2022-05-24
+"Bolívar"	"San Miguel"	2168	2022-05-24
+"Bolívar"	"Caluma"	1546	2022-05-25
+"Bolívar"	"Chillanes"	935	2022-05-25
+"Bolívar"	"Chimbo"	922	2022-05-25
+"Bolívar"	"Echeandía"	1267	2022-05-25
+"Bolívar"	"Guaranda"	4348	2022-05-25
+"Bolívar"	"Las Naves"	518	2022-05-25
+"Bolívar"	"San Miguel"	2168	2022-05-25
+"Bolívar"	"Caluma"	1546	2022-05-26
+"Bolívar"	"Chillanes"	936	2022-05-26
+"Bolívar"	"Chimbo"	922	2022-05-26
+"Bolívar"	"Echeandía"	1268	2022-05-26
+"Bolívar"	"Guaranda"	4351	2022-05-26
+"Bolívar"	"Las Naves"	518	2022-05-26
+"Bolívar"	"San Miguel"	2168	2022-05-26
+"Bolívar"	"Caluma"	1547	2022-05-27
+"Bolívar"	"Chillanes"	936	2022-05-27
+"Bolívar"	"Chimbo"	923	2022-05-27
+"Bolívar"	"Echeandía"	1268	2022-05-27
+"Bolívar"	"Guaranda"	4355	2022-05-27
+"Bolívar"	"Las Naves"	518	2022-05-27
+"Bolívar"	"San Miguel"	2168	2022-05-27
+"Bolívar"	"Caluma"	1550	2022-05-28
+"Bolívar"	"Chillanes"	936	2022-05-28
+"Bolívar"	"Chimbo"	923	2022-05-28
+"Bolívar"	"Echeandía"	1268	2022-05-28
+"Bolívar"	"Guaranda"	4357	2022-05-28
+"Bolívar"	"Las Naves"	518	2022-05-28
+"Bolívar"	"San Miguel"	2169	2022-05-28
+"Bolívar"	"Caluma"	1551	2022-05-29
+"Bolívar"	"Chillanes"	936	2022-05-29
+"Bolívar"	"Chimbo"	924	2022-05-29
+"Bolívar"	"Echeandía"	1268	2022-05-29
+"Bolívar"	"Guaranda"	4357	2022-05-29
+"Bolívar"	"Las Naves"	518	2022-05-29
+"Bolívar"	"San Miguel"	2169	2022-05-29
+"Bolívar"	"Caluma"	1551	2022-05-30
+"Bolívar"	"Chillanes"	936	2022-05-30
+"Bolívar"	"Chimbo"	924	2022-05-30
+"Bolívar"	"Echeandía"	1269	2022-05-30
+"Bolívar"	"Guaranda"	4357	2022-05-30
+"Bolívar"	"Las Naves"	518	2022-05-30
+"Bolívar"	"San Miguel"	2169	2022-05-30
+"Bolívar"	"Caluma"	1551	2022-05-31
+"Bolívar"	"Chillanes"	941	2022-05-31
+"Bolívar"	"Chimbo"	924	2022-05-31
+"Bolívar"	"Echeandía"	1269	2022-05-31
+"Bolívar"	"Guaranda"	4358	2022-05-31
+"Bolívar"	"Las Naves"	518	2022-05-31
+"Bolívar"	"San Miguel"	2169	2022-05-31
+"Bolívar"	"Caluma"	1552	2022-06-01
+"Bolívar"	"Chillanes"	944	2022-06-01
+"Bolívar"	"Chimbo"	937	2022-06-01
+"Bolívar"	"Echeandía"	1269	2022-06-01
+"Bolívar"	"Guaranda"	4370	2022-06-01
+"Bolívar"	"Las Naves"	518	2022-06-01
+"Bolívar"	"San Miguel"	2221	2022-06-01
