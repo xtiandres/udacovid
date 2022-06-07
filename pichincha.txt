@@ -6511,3 +6511,11 @@
 "Pichincha"	"Quito"	306505	2022-06-04
 "Pichincha"	"Rumiñahui"	11076	2022-06-04
 "Pichincha"	"San Miguel de Los Bancos"	1029	2022-06-04
+"Pichincha"	"Cayambe"	4321	2022-06-05
+"Pichincha"	"Mejía"	6136	2022-06-05
+"Pichincha"	"Pedro Moncayo"	1176	2022-06-05
+"Pichincha"	"Pedro Vicente Maldonado"	607	2022-06-05
+"Pichincha"	"Puerto Quito"	831	2022-06-05
+"Pichincha"	"Quito"	306643	2022-06-05
+"Pichincha"	"Rumiñahui"	11080	2022-06-05
+"Pichincha"	"San Miguel de Los Bancos"	1029	2022-06-05

@@ -20349,3 +20349,28 @@
 "Guayas"	"San Jacinto De Yaguachi"	930	2022-06-04
 "Guayas"	"Santa Lucía"	294	2022-06-04
 "Guayas"	"Simón Bolivar"	268	2022-06-04
+"Guayas"	"Alfredo Baquerizo Moreno"	278	2022-06-05
+"Guayas"	"Balao"	452	2022-06-05
+"Guayas"	"Balzar"	1024	2022-06-05
+"Guayas"	"Colimes"	355	2022-06-05
+"Guayas"	"Coronel Marcelino Maridueña"	335	2022-06-05
+"Guayas"	"Daule"	3517	2022-06-05
+"Guayas"	"Durán"	6563	2022-06-05
+"Guayas"	"El Triunfo"	1252	2022-06-05
+"Guayas"	"Empalme"	1828	2022-06-05
+"Guayas"	"General Antonio Elizalde"	682	2022-06-05
+"Guayas"	"Guayaquil"	102710	2022-06-05
+"Guayas"	"Isidro Ayora"	194	2022-06-05
+"Guayas"	"Lomas de Sargentillo"	215	2022-06-05
+"Guayas"	"Milagro"	6612	2022-06-05
+"Guayas"	"Naranjal"	2041	2022-06-05
+"Guayas"	"Naranjito"	811	2022-06-05
+"Guayas"	"Nobol"	195	2022-06-05
+"Guayas"	"Palestina"	224	2022-06-05
+"Guayas"	"Pedro Carbo"	1231	2022-06-05
+"Guayas"	"Playas"	775	2022-06-05
+"Guayas"	"Salitre"	1488	2022-06-05
+"Guayas"	"Samborondón"	3446	2022-06-05
+"Guayas"	"San Jacinto De Yaguachi"	930	2022-06-05
+"Guayas"	"Santa Lucía"	294	2022-06-05
+"Guayas"	"Simón Bolivar"	268	2022-06-05

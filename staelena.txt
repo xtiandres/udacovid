@@ -2441,3 +2441,6 @@
 "Santa Elena"	"La Libertad"	2261	2022-06-04
 "Santa Elena"	"Salinas"	1589	2022-06-04
 "Santa Elena"	"Santa Elena"	2706	2022-06-04
+"Santa Elena"	"La Libertad"	2261	2022-06-05
+"Santa Elena"	"Salinas"	1589	2022-06-05
+"Santa Elena"	"Santa Elena"	2706	2022-06-05

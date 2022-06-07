@@ -5697,3 +5697,10 @@
 "Sucumbíos"	"Putumayo"	373	2022-06-04
 "Sucumbíos"	"Shushufindi"	1701	2022-06-04
 "Sucumbíos"	"Sucumbíos"	196	2022-06-04
+"Sucumbíos"	"Cascales"	398	2022-06-05
+"Sucumbíos"	"Cuyabeno"	466	2022-06-05
+"Sucumbíos"	"Gonzalo Pizarro"	472	2022-06-05
+"Sucumbíos"	"Lago Agrio"	5210	2022-06-05
+"Sucumbíos"	"Putumayo"	373	2022-06-05
+"Sucumbíos"	"Shushufindi"	1701	2022-06-05
+"Sucumbíos"	"Sucumbíos"	196	2022-06-05

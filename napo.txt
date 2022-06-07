@@ -4069,3 +4069,8 @@
 "Napo"	"El Chaco"	806	2022-06-04
 "Napo"	"Quijos"	767	2022-06-04
 "Napo"	"Tena"	4241	2022-06-04
+"Napo"	"Archidona"	845	2022-06-05
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-05
+"Napo"	"El Chaco"	806	2022-06-05
+"Napo"	"Quijos"	767	2022-06-05
+"Napo"	"Tena"	4242	2022-06-05

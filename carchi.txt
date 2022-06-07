@@ -4883,3 +4883,9 @@
 "Carchi"	"Montúfar"	2316	2022-06-04
 "Carchi"	"San Pedro de Huaca"	699	2022-06-04
 "Carchi"	"Tulcán"	7107	2022-06-04
+"Carchi"	"Bolivar"	974	2022-06-05
+"Carchi"	"Espejo"	1036	2022-06-05
+"Carchi"	"Mira"	1112	2022-06-05
+"Carchi"	"Montúfar"	2316	2022-06-05
+"Carchi"	"San Pedro de Huaca"	699	2022-06-05
+"Carchi"	"Tulcán"	7107	2022-06-05

@@ -5697,3 +5697,10 @@
 "Cotopaxi"	"Salcedo"	4424	2022-06-04
 "Cotopaxi"	"Saquisilí"	1134	2022-06-04
 "Cotopaxi"	"Sigchos"	656	2022-06-04
+"Cotopaxi"	"La Maná"	945	2022-06-05
+"Cotopaxi"	"Latacunga"	8085	2022-06-05
+"Cotopaxi"	"Pangua"	498	2022-06-05
+"Cotopaxi"	"Pujilí"	2452	2022-06-05
+"Cotopaxi"	"Salcedo"	4424	2022-06-05
+"Cotopaxi"	"Saquisilí"	1134	2022-06-05
+"Cotopaxi"	"Sigchos"	656	2022-06-05

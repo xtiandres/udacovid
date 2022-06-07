@@ -5697,3 +5697,10 @@
 "Cañar"	"El Tambo"	620	2022-06-04
 "Cañar"	"La Troncal"	2129	2022-06-04
 "Cañar"	"Suscal"	127	2022-06-04
+"Cañar"	"Azogues"	7841	2022-06-05
+"Cañar"	"Biblían"	1329	2022-06-05
+"Cañar"	"Cañar"	2792	2022-06-05
+"Cañar"	"Déleg"	219	2022-06-05
+"Cañar"	"El Tambo"	620	2022-06-05
+"Cañar"	"La Troncal"	2129	2022-06-05
+"Cañar"	"Suscal"	127	2022-06-05

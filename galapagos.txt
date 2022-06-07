@@ -2441,3 +2441,6 @@
 "Galápagos"	"Isabela"	469	2022-06-04
 "Galápagos"	"San Cristóbal"	961	2022-06-04
 "Galápagos"	"Santa Cruz"	1731	2022-06-04
+"Galápagos"	"Isabela"	469	2022-06-05
+"Galápagos"	"San Cristóbal"	961	2022-06-05
+"Galápagos"	"Santa Cruz"	1731	2022-06-05

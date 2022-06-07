@@ -9767,3 +9767,15 @@
 "Morona Santiago"	"Sucúa"	1367	2022-06-04
 "Morona Santiago"	"Taisha"	443	2022-06-04
 "Morona Santiago"	"Tiwintza"	183	2022-06-04
+"Morona Santiago"	"Gualaquiza"	1653	2022-06-05
+"Morona Santiago"	"Huamboya"	258	2022-06-05
+"Morona Santiago"	"Limón Indanza"	752	2022-06-05
+"Morona Santiago"	"Logroño"	224	2022-06-05
+"Morona Santiago"	"Morona"	4055	2022-06-05
+"Morona Santiago"	"Pablo Sexto"	151	2022-06-05
+"Morona Santiago"	"Palora"	677	2022-06-05
+"Morona Santiago"	"San Juan Bosco"	226	2022-06-05
+"Morona Santiago"	"Santiago"	547	2022-06-05
+"Morona Santiago"	"Sucúa"	1367	2022-06-05
+"Morona Santiago"	"Taisha"	443	2022-06-05
+"Morona Santiago"	"Tiwintza"	183	2022-06-05

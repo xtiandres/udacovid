@@ -5697,3 +5697,10 @@
 "Bolívar"	"Guaranda"	4378	2022-06-04
 "Bolívar"	"Las Naves"	518	2022-06-04
 "Bolívar"	"San Miguel"	2229	2022-06-04
+"Bolívar"	"Caluma"	1553	2022-06-05
+"Bolívar"	"Chillanes"	946	2022-06-05
+"Bolívar"	"Chimbo"	937	2022-06-05
+"Bolívar"	"Echeandía"	1269	2022-06-05
+"Bolívar"	"Guaranda"	4379	2022-06-05
+"Bolívar"	"Las Naves"	518	2022-06-05
+"Bolívar"	"San Miguel"	2229	2022-06-05

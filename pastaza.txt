@@ -3255,3 +3255,7 @@
 "Pastaza"	"Mera"	1010	2022-06-04
 "Pastaza"	"Pastaza"	3913	2022-06-04
 "Pastaza"	"Santa Clara"	193	2022-06-04
+"Pastaza"	"Arajuno"	215	2022-06-05
+"Pastaza"	"Mera"	1010	2022-06-05
+"Pastaza"	"Pastaza"	3913	2022-06-05
+"Pastaza"	"Santa Clara"	193	2022-06-05
