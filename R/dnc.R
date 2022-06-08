@@ -4,13 +4,87 @@
 
 # DATASET A PARTIR DE "canpro.R"
 
-# VARIABLE FECHA PARA DNC DE PROVINCIAS
+# VARIABLE fecha PARA dnc DE PROVINCIAS
 fecha = c("05jun22", "04jun22", "01jun22", 
           "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
           "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
           "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
           "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
           "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22")
+
+# VARIABLE POBLACION PROVINCIAS POR CADA 100MIL HABITANTES
+pgu <- guayas22 %>%
+  filter(canton == "Guayaquil" & created_at == "2022-06-01")
+pgu <- (pgu$provincia_poblacion)/100000
+ppi <- pichincha22 %>%
+  filter(canton == "Quito" & created_at == "2022-06-01")
+ppi <- (ppi$provincia_poblacion)/100000
+pma <- manabi22 %>%
+  filter(canton == "Manta" & created_at == "2022-06-01")
+pma <- (pma$provincia_poblacion)/100000
+plr <- losrios22 %>%
+  filter(canton == "Babahoyo" & created_at == "2022-06-01")
+plr <- (plr$provincia_poblacion)/100000
+paz <- azuay22 %>%
+  filter(canton == "Cuenca" & created_at == "2022-06-01")
+paz <- (paz$provincia_poblacion)/100000
+pel <- eloro22 %>%
+  filter(canton == "Machala" & created_at == "2022-06-01")
+pel <- (pel$provincia_poblacion)/100000
+pes <- esmeraldas22 %>%
+  filter(canton == "Esmeraldas" & created_at == "2022-06-01")
+pes <- (pes$provincia_poblacion)/100000
+ptu <- tungurahua22 %>%
+  filter(canton == "Ambato" & created_at == "2022-06-01")
+ptu <- (ptu$provincia_poblacion)/100000
+pch <- chimborazo22 %>%
+  filter(canton == "Riobamba" & created_at == "2022-06-01")
+pch <- (pch$provincia_poblacion)/100000
+plo <- loja22 %>%
+  filter(canton == "Loja" & created_at == "2022-06-01")
+plo <- (plo$provincia_poblacion)/100000
+pga <- galapagos22 %>%
+  filter(canton == "Isabela" & created_at == "2022-06-01")
+pga <- (pga$provincia_poblacion)/100000
+pza <- zamora22 %>%
+  filter(canton == "Zamora" & created_at == "2022-06-01")
+pza <- (pza$provincia_poblacion)/100000
+psu <- sucumbios22 %>%
+  filter(canton == "Cuyabeno" & created_at == "2022-06-01")
+psu <- (psu$provincia_poblacion)/100000
+ppa <- pastaza22 %>%
+  filter(canton == "Mera" & created_at == "2022-06-01")
+ppa <- (ppa$provincia_poblacion)/100000
+por <- orellana22 %>%
+  filter(canton == "Loreto" & created_at == "2022-06-01")
+por <- (por$provincia_poblacion)/100000
+pna <- napo22 %>%
+  filter(canton == "Tena" & created_at == "2022-06-01")
+pna <- (pna$provincia_poblacion)/100000
+pmo <- morona22 %>%
+  filter(canton == "Palora" & created_at == "2022-06-01")
+pmo <- (pmo$provincia_poblacion)/100000
+pim <- imbabura22 %>%
+  filter(canton == "Otavalo" & created_at == "2022-06-01")
+pim <- (pim$provincia_poblacion)/100000
+pco <- cotopaxi22 %>%
+  filter(canton == "Salcedo" & created_at == "2022-06-01")
+pco <- (pco$provincia_poblacion)/100000
+pca <- carchi22 %>%
+  filter(canton == "Mira" & created_at == "2022-06-01")
+pca <- (pca$provincia_poblacion)/100000
+pcr <- canar22 %>%
+  filter(canton == "Azogues" & created_at == "2022-06-01")
+pcr <- (pcr$provincia_poblacion)/100000
+pbo <- bolivar22 %>%
+  filter(canton == "Chimbo" & created_at == "2022-06-01")
+pbo <- (pbo$provincia_poblacion)/100000
+pst <- stodomingo22 %>%
+  filter(canton == "Santo Domingo" & created_at == "2022-06-01")
+pst <- (pst$provincia_poblacion)/100000
+pea <- staelena22 %>%
+  filter(canton == "Salinas" & created_at == "2022-06-01")
+pea <- (pea$provincia_poblacion)/100000
 
 # ***** GUAYAS *****
 # npi"x" // ACORDE A DIAS DEL AÑO
@@ -347,10 +421,6 @@ dgu69 <- mean(c(ngu69$tn, ngu68$tn, ngu67$tn, ngu66$tn, ngu65$tn, ngu64$tn, ngu6
 dgu68 <- mean(c(ngu68$tn, ngu67$tn, ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn))
 dgu67 <- mean(c(ngu67$tn, ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn, ngu61$tn))
 dgu66 <- mean(c(ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn, ngu61$tn, ngu60$tn))
-# POBLACIÓN GUAYAS POR CADA 100MIL HABITANTES
-pgu <- guayas22 %>%
-  filter(canton == "Guayaquil" & created_at == "2022-06-01")
-pgu <- (pgu$provincia_poblacion)/100000
 # DATA FRAME GUAYAS
 dfgu <- data_frame(
   fecha,
@@ -697,10 +767,6 @@ dpi68 <- mean(c(npi68$tn, npi67$tn, npi66$tn, npi65$tn, npi64$tn, npi63$tn, npi6
 dpi67 <- mean(c(npi67$tn, npi66$tn, npi65$tn, npi64$tn, npi63$tn, npi62$tn, npi61$tn))
 dpi66 <- mean(c(npi66$tn, npi65$tn, npi64$tn, npi63$tn, npi62$tn, npi61$tn, npi60$tn))
 
-ppi <- pichincha22 %>%
-  filter(canton == "Quito" & created_at == "2022-06-01")
-ppi <- (ppi$provincia_poblacion)/100000
-
 dfpi <- data_frame(
   fecha,
   dncpi = c(dpi156/ppi, dpi155/ppi, dpi152/ppi, 
@@ -1045,10 +1111,6 @@ dma69 <- mean(c(nma69$tn, nma68$tn, nma67$tn, nma66$tn, nma65$tn, nma64$tn, nma6
 dma68 <- mean(c(nma68$tn, nma67$tn, nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn))
 dma67 <- mean(c(nma67$tn, nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn, nma61$tn))
 dma66 <- mean(c(nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn, nma61$tn, nma60$tn))
-
-pma <- manabi22 %>%
-  filter(canton == "Manta" & created_at == "2022-06-01")
-pma <- (pma$provincia_poblacion)/100000
 
 dfma <- data_frame(
   fecha,
@@ -1395,10 +1457,6 @@ dlr68 <- mean(c(nlr68$tn, nlr67$tn, nlr66$tn, nlr65$tn, nlr64$tn, nlr63$tn, nlr6
 dlr67 <- mean(c(nlr67$tn, nlr66$tn, nlr65$tn, nlr64$tn, nlr63$tn, nlr62$tn, nlr61$tn))
 dlr66 <- mean(c(nlr66$tn, nlr65$tn, nlr64$tn, nlr63$tn, nlr62$tn, nlr61$tn, nlr60$tn))
 
-plr <- losrios22 %>%
-  filter(canton == "Babahoyo" & created_at == "2022-06-01")
-plr <- (plr$provincia_poblacion)/100000
-
 dflr <- data_frame(
   fecha,
   dnclr = c(dlr156/plr, dlr155/plr, dlr152/plr, 
@@ -1743,10 +1801,6 @@ daz69 <- mean(c(naz69$tn, naz68$tn, naz67$tn, naz66$tn, naz65$tn, naz64$tn, naz6
 daz68 <- mean(c(naz68$tn, naz67$tn, naz66$tn, naz65$tn, naz64$tn, naz63$tn, naz62$tn))
 daz67 <- mean(c(naz67$tn, naz66$tn, naz65$tn, naz64$tn, naz63$tn, naz62$tn, naz61$tn))
 daz66 <- mean(c(naz66$tn, naz65$tn, naz64$tn, naz63$tn, naz62$tn, naz61$tn, naz60$tn))
-
-paz <- azuay22 %>%
-  filter(canton == "Cuenca" & created_at == "2022-06-01")
-paz <- (paz$provincia_poblacion)/100000
 
 dfaz <- data_frame(
   fecha,
@@ -2093,10 +2147,6 @@ del68 <- mean(c(nel68$tn, nel67$tn, nel66$tn, nel65$tn, nel64$tn, nel63$tn, nel6
 del67 <- mean(c(nel67$tn, nel66$tn, nel65$tn, nel64$tn, nel63$tn, nel62$tn, nel61$tn))
 del66 <- mean(c(nel66$tn, nel65$tn, nel64$tn, nel63$tn, nel62$tn, nel61$tn, nel60$tn))
 
-pel <- eloro22 %>%
-  filter(canton == "Machala" & created_at == "2022-06-01")
-pel <- (pel$provincia_poblacion)/100000
-
 dfel <- data_frame(
   fecha,
   dncel = c(del156/pel, del155/pel, del152/pel, 
@@ -2441,10 +2491,6 @@ des69 <- mean(c(nes69$tn, nes68$tn, nes67$tn, nes66$tn, nes65$tn, nes64$tn, nes6
 des68 <- mean(c(nes68$tn, nes67$tn, nes66$tn, nes65$tn, nes64$tn, nes63$tn, nes62$tn))
 des67 <- mean(c(nes67$tn, nes66$tn, nes65$tn, nes64$tn, nes63$tn, nes62$tn, nes61$tn))
 des66 <- mean(c(nes66$tn, nes65$tn, nes64$tn, nes63$tn, nes62$tn, nes61$tn, nes60$tn))
-
-pes <- esmeraldas22 %>%
-  filter(canton == "Esmeraldas" & created_at == "2022-06-01")
-pes <- (pes$provincia_poblacion)/100000
 
 dfes <- data_frame(
   fecha,
@@ -2791,10 +2837,6 @@ dtu68 <- mean(c(ntu68$tn, ntu67$tn, ntu66$tn, ntu65$tn, ntu64$tn, ntu63$tn, ntu6
 dtu67 <- mean(c(ntu67$tn, ntu66$tn, ntu65$tn, ntu64$tn, ntu63$tn, ntu62$tn, ntu61$tn))
 dtu66 <- mean(c(ntu66$tn, ntu65$tn, ntu64$tn, ntu63$tn, ntu62$tn, ntu61$tn, ntu60$tn))
 
-ptu <- tungurahua22 %>%
-  filter(canton == "Ambato" & created_at == "2022-06-01")
-ptu <- (ptu$provincia_poblacion)/100000
-
 dftu <- data_frame(
   fecha,
   dnctu = c(dtu156/ptu, dtu155/ptu, dtu152/ptu, 
@@ -3139,10 +3181,6 @@ dch69 <- mean(c(nch69$tn, nch68$tn, nch67$tn, nch66$tn, nch65$tn, nch64$tn, nch6
 dch68 <- mean(c(nch68$tn, nch67$tn, nch66$tn, nch65$tn, nch64$tn, nch63$tn, nch62$tn))
 dch67 <- mean(c(nch67$tn, nch66$tn, nch65$tn, nch64$tn, nch63$tn, nch62$tn, nch61$tn))
 dch66 <- mean(c(nch66$tn, nch65$tn, nch64$tn, nch63$tn, nch62$tn, nch61$tn, nch60$tn))
-
-pch <- chimborazo22 %>%
-  filter(canton == "Riobamba" & created_at == "2022-06-01")
-pch <- (pch$provincia_poblacion)/100000
 
 dfch <- data_frame(
   fecha,
@@ -3489,10 +3527,6 @@ dlo68 <- mean(c(nlo68$tn, nlo67$tn, nlo66$tn, nlo65$tn, nlo64$tn, nlo63$tn, nlo6
 dlo67 <- mean(c(nlo67$tn, nlo66$tn, nlo65$tn, nlo64$tn, nlo63$tn, nlo62$tn, nlo61$tn))
 dlo66 <- mean(c(nlo66$tn, nlo65$tn, nlo64$tn, nlo63$tn, nlo62$tn, nlo61$tn, nlo60$tn))
 
-plo <- loja22 %>%
-  filter(canton == "Loja" & created_at == "2022-06-01")
-plo <- (plo$provincia_poblacion)/100000
-
 dflo <- data_frame(
   fecha,
   dnclo = c(dlo156/plo, dlo155/plo, dlo152/plo, 
@@ -3837,10 +3871,6 @@ dga69 <- mean(c(nga69$tn, nga68$tn, nga67$tn, nga66$tn, nga65$tn, nga64$tn, nga6
 dga68 <- mean(c(nga68$tn, nga67$tn, nga66$tn, nga65$tn, nga64$tn, nga63$tn, nga62$tn))
 dga67 <- mean(c(nga67$tn, nga66$tn, nga65$tn, nga64$tn, nga63$tn, nga62$tn, nga61$tn))
 dga66 <- mean(c(nga66$tn, nga65$tn, nga64$tn, nga63$tn, nga62$tn, nga61$tn, nga60$tn))
-
-pga <- galapagos22 %>%
-  filter(canton == "Isabela" & created_at == "2022-06-01")
-pga <- (pga$provincia_poblacion)/100000
 
 dfga <- data_frame(
   fecha,
@@ -4187,10 +4217,6 @@ dza68 <- mean(c(nza68$tn, nza67$tn, nza66$tn, nza65$tn, nza64$tn, nza63$tn, nza6
 dza67 <- mean(c(nza67$tn, nza66$tn, nza65$tn, nza64$tn, nza63$tn, nza62$tn, nza61$tn))
 dza66 <- mean(c(nza66$tn, nza65$tn, nza64$tn, nza63$tn, nza62$tn, nza61$tn, nza60$tn))
 
-pza <- zamora22 %>%
-  filter(canton == "Zamora" & created_at == "2022-06-01")
-pza <- (pza$provincia_poblacion)/100000
-
 dfza <- data_frame(
   fecha,
   dncza = c(dza156/pza, dza155/pza, dza152/pza, 
@@ -4535,10 +4561,6 @@ dsu69 <- mean(c(nsu69$tn, nsu68$tn, nsu67$tn, nsu66$tn, nsu65$tn, nsu64$tn, nsu6
 dsu68 <- mean(c(nsu68$tn, nsu67$tn, nsu66$tn, nsu65$tn, nsu64$tn, nsu63$tn, nsu62$tn))
 dsu67 <- mean(c(nsu67$tn, nsu66$tn, nsu65$tn, nsu64$tn, nsu63$tn, nsu62$tn, nsu61$tn))
 dsu66 <- mean(c(nsu66$tn, nsu65$tn, nsu64$tn, nsu63$tn, nsu62$tn, nsu61$tn, nsu60$tn))
-
-psu <- sucumbios22 %>%
-  filter(canton == "Cuyabeno" & created_at == "2022-06-01")
-psu <- (psu$provincia_poblacion)/100000
 
 dfsu <- data_frame(
   fecha,
@@ -4885,10 +4907,6 @@ dpa68 <- mean(c(npa68$tn, npa67$tn, npa66$tn, npa65$tn, npa64$tn, npa63$tn, npa6
 dpa67 <- mean(c(npa67$tn, npa66$tn, npa65$tn, npa64$tn, npa63$tn, npa62$tn, npa61$tn))
 dpa66 <- mean(c(npa66$tn, npa65$tn, npa64$tn, npa63$tn, npa62$tn, npa61$tn, npa60$tn))
 
-ppa <- pastaza22 %>%
-  filter(canton == "Mera" & created_at == "2022-06-01")
-ppa <- (ppa$provincia_poblacion)/100000
-
 dfpa <- data_frame(
   fecha,
   dncpa = c(dpa156/ppa, dpa155/ppa, dpa152/ppa, 
@@ -5233,10 +5251,6 @@ dor69 <- mean(c(nor69$tn, nor68$tn, nor67$tn, nor66$tn, nor65$tn, nor64$tn, nor6
 dor68 <- mean(c(nor68$tn, nor67$tn, nor66$tn, nor65$tn, nor64$tn, nor63$tn, nor62$tn))
 dor67 <- mean(c(nor67$tn, nor66$tn, nor65$tn, nor64$tn, nor63$tn, nor62$tn, nor61$tn))
 dor66 <- mean(c(nor66$tn, nor65$tn, nor64$tn, nor63$tn, nor62$tn, nor61$tn, nor60$tn))
-
-por <- orellana22 %>%
-  filter(canton == "Loreto" & created_at == "2022-06-01")
-por <- (por$provincia_poblacion)/100000
 
 dfor <- data_frame(
   fecha,
@@ -5583,10 +5597,6 @@ dna68 <- mean(c(nna68$tn, nna67$tn, nna66$tn, nna65$tn, nna64$tn, nna63$tn, nna6
 dna67 <- mean(c(nna67$tn, nna66$tn, nna65$tn, nna64$tn, nna63$tn, nna62$tn, nna61$tn))
 dna66 <- mean(c(nna66$tn, nna65$tn, nna64$tn, nna63$tn, nna62$tn, nna61$tn, nna60$tn))
 
-pna <- napo22 %>%
-  filter(canton == "Tena" & created_at == "2022-06-01")
-pna <- (pna$provincia_poblacion)/100000
-
 dfna <- data_frame(
   fecha,
   dncna = c(dna156/pna, dna155/pna, dna152/pna, 
@@ -5931,10 +5941,6 @@ dmo69 <- mean(c(nmo69$tn, nmo68$tn, nmo67$tn, nmo66$tn, nmo65$tn, nmo64$tn, nmo6
 dmo68 <- mean(c(nmo68$tn, nmo67$tn, nmo66$tn, nmo65$tn, nmo64$tn, nmo63$tn, nmo62$tn))
 dmo67 <- mean(c(nmo67$tn, nmo66$tn, nmo65$tn, nmo64$tn, nmo63$tn, nmo62$tn, nmo61$tn))
 dmo66 <- mean(c(nmo66$tn, nmo65$tn, nmo64$tn, nmo63$tn, nmo62$tn, nmo61$tn, nmo60$tn))
-
-pmo <- morona22 %>%
-  filter(canton == "Palora" & created_at == "2022-06-01")
-pmo <- (pmo$provincia_poblacion)/100000
 
 dfmo <- data_frame(
   fecha,
@@ -6281,10 +6287,6 @@ dim68 <- mean(c(nim68$tn, nim67$tn, nim66$tn, nim65$tn, nim64$tn, nim63$tn, nim6
 dim67 <- mean(c(nim67$tn, nim66$tn, nim65$tn, nim64$tn, nim63$tn, nim62$tn, nim61$tn))
 dim66 <- mean(c(nim66$tn, nim65$tn, nim64$tn, nim63$tn, nim62$tn, nim61$tn, nim60$tn))
 
-pim <- imbabura22 %>%
-  filter(canton == "Otavalo" & created_at == "2022-06-01")
-pim <- (pim$provincia_poblacion)/100000
-
 dfim <- data_frame(
   fecha,
   dncim = c(dim156/pim, dim155/pim, dim152/pim, 
@@ -6629,10 +6631,6 @@ dco69 <- mean(c(nco69$tn, nco68$tn, nco67$tn, nco66$tn, nco65$tn, nco64$tn, nco6
 dco68 <- mean(c(nco68$tn, nco67$tn, nco66$tn, nco65$tn, nco64$tn, nco63$tn, nco62$tn))
 dco67 <- mean(c(nco67$tn, nco66$tn, nco65$tn, nco64$tn, nco63$tn, nco62$tn, nco61$tn))
 dco66 <- mean(c(nco66$tn, nco65$tn, nco64$tn, nco63$tn, nco62$tn, nco61$tn, nco60$tn))
-
-pco <- cotopaxi22 %>%
-  filter(canton == "Salcedo" & created_at == "2022-06-01")
-pco <- (pco$provincia_poblacion)/100000
 
 dfco <- data_frame(
   fecha,
@@ -6979,10 +6977,6 @@ dca68 <- mean(c(nca68$tn, nca67$tn, nca66$tn, nca65$tn, nca64$tn, nca63$tn, nca6
 dca67 <- mean(c(nca67$tn, nca66$tn, nca65$tn, nca64$tn, nca63$tn, nca62$tn, nca61$tn))
 dca66 <- mean(c(nca66$tn, nca65$tn, nca64$tn, nca63$tn, nca62$tn, nca61$tn, nca60$tn))
 
-pca <- carchi22 %>%
-  filter(canton == "Mira" & created_at == "2022-06-01")
-pca <- (pca$provincia_poblacion)/100000
-
 dfca <- data_frame(
   fecha,
   dncca = c(dca156/pca, dca155/pca, dca152/pca, 
@@ -7327,10 +7321,6 @@ dcr69 <- mean(c(ncr69$tn, ncr68$tn, ncr67$tn, ncr66$tn, ncr65$tn, ncr64$tn, ncr6
 dcr68 <- mean(c(ncr68$tn, ncr67$tn, ncr66$tn, ncr65$tn, ncr64$tn, ncr63$tn, ncr62$tn))
 dcr67 <- mean(c(ncr67$tn, ncr66$tn, ncr65$tn, ncr64$tn, ncr63$tn, ncr62$tn, ncr61$tn))
 dcr66 <- mean(c(ncr66$tn, ncr65$tn, ncr64$tn, ncr63$tn, ncr62$tn, ncr61$tn, ncr60$tn))
-
-pcr <- canar22 %>%
-  filter(canton == "Azogues" & created_at == "2022-06-01")
-pcr <- (pcr$provincia_poblacion)/100000
 
 dfcr <- data_frame(
   fecha,
@@ -7677,10 +7667,6 @@ dbo68 <- mean(c(nbo68$tn, nbo67$tn, nbo66$tn, nbo65$tn, nbo64$tn, nbo63$tn, nbo6
 dbo67 <- mean(c(nbo67$tn, nbo66$tn, nbo65$tn, nbo64$tn, nbo63$tn, nbo62$tn, nbo61$tn))
 dbo66 <- mean(c(nbo66$tn, nbo65$tn, nbo64$tn, nbo63$tn, nbo62$tn, nbo61$tn, nbo60$tn))
 
-pbo <- bolivar22 %>%
-  filter(canton == "Chimbo" & created_at == "2022-06-01")
-pbo <- (pbo$provincia_poblacion)/100000
-
 dfbo <- data_frame(
   fecha,
   dncbo = c(dbo156/pbo, dbo155/pbo, dbo152/pbo, 
@@ -8026,10 +8012,6 @@ dst68 <- mean(c(nst68$tn, nst67$tn, nst66$tn, nst65$tn, nst64$tn, nst63$tn, nst6
 dst67 <- mean(c(nst67$tn, nst66$tn, nst65$tn, nst64$tn, nst63$tn, nst62$tn, nst61$tn))
 dst66 <- mean(c(nst66$tn, nst65$tn, nst64$tn, nst63$tn, nst62$tn, nst61$tn, nst60$tn))
 
-pst <- stodomingo22 %>%
-  filter(canton == "Santo Domingo" & created_at == "2022-06-01")
-pst <- (pst$provincia_poblacion)/100000
-
 dfst <- data_frame(
   fecha,
   dncst = c(dst156/pst, dst155/pst, dst152/pst, 
@@ -8374,10 +8356,6 @@ dea69 <- mean(c(nea69$tn, nea68$tn, nea67$tn, nea66$tn, nea65$tn, nea64$tn, nea6
 dea68 <- mean(c(nea68$tn, nea67$tn, nea66$tn, nea65$tn, nea64$tn, nea63$tn, nea62$tn))
 dea67 <- mean(c(nea67$tn, nea66$tn, nea65$tn, nea64$tn, nea63$tn, nea62$tn, nea61$tn))
 dea66 <- mean(c(nea66$tn, nea65$tn, nea64$tn, nea63$tn, nea62$tn, nea61$tn, nea60$tn))
-
-pea <- staelena22 %>%
-  filter(canton == "Salinas" & created_at == "2022-06-01")
-pea <- (pea$provincia_poblacion)/100000
 
 dfea <- data_frame(
   fecha,
