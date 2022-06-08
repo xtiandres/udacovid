@@ -6,6 +6,9 @@
 
 # ***** GUAYAS *****
 # npi"x" // ACORDE A DIAS DEL AÑO
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 ngu155 <- guayas22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -295,6 +298,7 @@ ngu60 <- guayas22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 # PROMEDIO POR DÍA, CONSIDERANDO ÚLTIMOS 7 DÍAS
+dgu156 <- mean(c(ngu156$tn, ngu155$tn, ngu154$tn, ngu153$tn, ngu152$tn, ngu151$tn, ngu150$tn))
 dgu155 <- mean(c(ngu155$tn, ngu154$tn, ngu153$tn, ngu152$tn, ngu151$tn, ngu150$tn, ngu149$tn))
 dgu152 <- mean(c(ngu152$tn, ngu151$tn, ngu150$tn, ngu149$tn, ngu148$tn, ngu147$tn, ngu146$tn))
 dgu140 <- mean(c(ngu140$tn, ngu139$tn, ngu138$tn, ngu137$tn, ngu136$tn, ngu135$tn, ngu134$tn))
@@ -354,6 +358,9 @@ dfgu <- data_frame(
 )
 
 # ***** PICHINCHA *****
+ngu156 <- pichincha22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 npi155 <- pichincha22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -643,6 +650,7 @@ npi60 <- pichincha22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dpi156 <- mean(c(npi156$tn, npi155$tn, npi154$tn, npi153$tn, npi152$tn, npi151$tn, npi150$tn))
 dpi155 <- mean(c(npi155$tn, npi154$tn, npi153$tn, npi152$tn, npi151$tn, npi150$tn, npi149$tn))
 dpi152 <- mean(c(npi152$tn, npi151$tn, npi150$tn, npi149$tn, npi148$tn, npi147$tn, npi146$tn))
 dpi140 <- mean(c(npi140$tn, npi139$tn, npi138$tn, npi137$tn, npi136$tn, npi135$tn, npi134$tn))
@@ -702,6 +710,9 @@ dfpi <- data_frame(
   )
 
 # ***** MANABI *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nma155 <- manabi22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -1050,6 +1061,9 @@ dfma <- data_frame(
 )
 
 # ***** LOS RIOS *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nlr155 <- losrios22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -1398,6 +1412,9 @@ dflr <- data_frame(
 )
 
 # ***** AZUAY *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 naz155 <- azuay22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -1746,6 +1763,9 @@ dfaz <- data_frame(
 )
 
 # ***** EL ORO *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nel155 <- eloro22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -2094,6 +2114,9 @@ dfel <- data_frame(
 )
 
 # ***** ESMERALDAS *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nes155 <- esmeraldas22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -2442,6 +2465,9 @@ dfes <- data_frame(
 )
 
 # ***** TUNGURAHUA *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 ntu155 <- tungurahua22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -2790,6 +2816,9 @@ dftu <- data_frame(
 )
 
 # ***** CHIMBORAZO *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nch155 <- chimborazo22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -3138,6 +3167,9 @@ dfch <- data_frame(
 )
 
 # ***** LOJA *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nlo155 <- loja22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -3486,6 +3518,9 @@ dflo <- data_frame(
 )
 
 # ***** GALAPAGOS *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nga155 <- galapagos22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -3834,6 +3869,9 @@ dfga <- data_frame(
 )
 
 # ***** ZAMORA *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nza155 <- zamora22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -4182,6 +4220,9 @@ dfza <- data_frame(
 )
 
 # ***** SUCUMBIOS *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nsu155 <- sucumbios22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -4530,6 +4571,9 @@ dfsu <- data_frame(
 )
 
 # ***** PASTAZA *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 npa155 <- pastaza22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -4878,6 +4922,9 @@ dfpa <- data_frame(
 )
 
 # ***** ORELLANA *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nor155 <- orellana22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -5226,6 +5273,9 @@ dfor <- data_frame(
 )
 
 # ***** NAPO *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nna155 <- napo22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -5574,6 +5624,9 @@ dfna <- data_frame(
 )
 
 # ***** MORONA *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nmo155 <- morona22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -5922,6 +5975,9 @@ dfmo <- data_frame(
 )
 
 # ***** IMBABURA *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nim155 <- imbabura22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -6270,6 +6326,9 @@ dfim <- data_frame(
 )
 
 # ***** COTOPAXI *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nco155 <- cotopaxi22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -6618,6 +6677,9 @@ dfco <- data_frame(
 )
 
 # ***** CARCHI *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nca155 <- carchi22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -6966,6 +7028,9 @@ dfca <- data_frame(
 )
 
 # ***** CAÑAR *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 ncr155 <- canar22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -7314,6 +7379,9 @@ dfcr <- data_frame(
 )
 
 # ***** BOLIVAR *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nbo155 <- bolivar22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -7662,6 +7730,9 @@ dfbo <- data_frame(
 )
 
 # ***** STO DOMINGO *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nst155 <- stodomingo22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
@@ -8010,6 +8081,9 @@ dfst <- data_frame(
 )
 
 # ***** STA ELENA *****
+ngu156 <- guayas22 %>%
+  filter(created_at == "2022-06-05") %>%
+  summarise(tn = sum(nuevas))
 nea155 <- staelena22 %>%
   filter(created_at == "2022-06-04") %>%
   summarise(tn = sum(nuevas))
