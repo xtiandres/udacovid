@@ -345,12 +345,14 @@ pgu <- guayas22 %>%
 pgu <- (pgu$provincia_poblacion)/100000
 # DATA FRAME GUAYAS
 dfgu <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncgu = c(dgu155/pgu, dgu152/pgu, dgu140/pgu, dgu134/pgu, dgu128/pgu, dgu117/pgu, dgu109/pgu, dgu101/pgu, 
+  dncgu = c(dgu156/pgu, dgu155/pgu, dgu152/pgu, 
+            dgu140/pgu, dgu134/pgu, dgu128/pgu, dgu117/pgu, dgu109/pgu, dgu101/pgu, 
             dgu97/pgu, dgu96/pgu, dgu95/pgu, dgu94/pgu, dgu93/pgu, dgu92/pgu, dgu91/pgu, 
             dgu90/pgu, dgu89/pgu, dgu83/pgu, dgu82/pgu, dgu81/pgu, dgu80/pgu, dgu79/pgu, 
             dgu78/pgu, dgu77/pgu, dgu76/pgu, dgu75/pgu, dgu74/pgu, dgu73/pgu, dgu72/pgu, 
@@ -358,7 +360,7 @@ dfgu <- data_frame(
 )
 
 # ***** PICHINCHA *****
-ngu156 <- pichincha22 %>%
+npi156 <- pichincha22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 npi155 <- pichincha22 %>%
@@ -697,12 +699,14 @@ ppi <- pichincha22 %>%
 ppi <- (ppi$provincia_poblacion)/100000
 
 dfpi <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncpi = c(dpi155/ppi, dpi152/ppi, dpi140/ppi, dpi134/ppi, dpi128/ppi, dpi117/ppi, dpi109/ppi, dpi101/ppi, 
+  dncpi = c(dpi156/ppi, dpi155/ppi, dpi152/ppi, 
+            dpi140/ppi, dpi134/ppi, dpi128/ppi, dpi117/ppi, dpi109/ppi, dpi101/ppi, 
             dpi97/ppi, dpi96/ppi, dpi95/ppi, dpi94/ppi, dpi93/ppi, dpi92/ppi, dpi91/ppi, 
             dpi90/ppi, dpi89/ppi, dpi83/ppi, dpi82/ppi, dpi81/ppi, dpi80/ppi, dpi79/ppi, 
             dpi78/ppi, dpi77/ppi, dpi76/ppi, dpi75/ppi, dpi74/ppi, dpi73/ppi, dpi72/ppi, 
@@ -710,7 +714,7 @@ dfpi <- data_frame(
   )
 
 # ***** MANABI *****
-ngu156 <- guayas22 %>%
+nma156 <- manabi22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nma155 <- manabi22 %>%
@@ -1002,6 +1006,7 @@ nma60 <- manabi22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dma156 <- mean(c(nma156$tn, nma155$tn, nma154$tn, nma153$tn, nma152$tn, nma151$tn, nma150$tn))
 dma155 <- mean(c(nma155$tn, nma154$tn, nma153$tn, nma152$tn, nma151$tn, nma150$tn, nma149$tn))
 dma152 <- mean(c(nma152$tn, nma151$tn, nma150$tn, nma149$tn, nma148$tn, nma147$tn, nma146$tn))
 dma140 <- mean(c(nma140$tn, nma139$tn, nma138$tn, nma137$tn, nma136$tn, nma135$tn, nma134$tn))
@@ -1044,16 +1049,18 @@ dma67 <- mean(c(nma67$tn, nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn, nma6
 dma66 <- mean(c(nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn, nma61$tn, nma60$tn))
 
 pma <- manabi22 %>%
-  filter(canton == "Manta" & created_at == "2022-04-11")
+  filter(canton == "Manta" & created_at == "2022-06-01")
 pma <- (pma$provincia_poblacion)/100000
 
 dfma <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncma = c(dma155/pma, dma152/pma, dma140/pma, dma134/pma, dma128/pma, dma117/pma, dma109/pma, dma101/pma, 
+  dncma = c(dma156/pma, dma155/pma, dma152/pma, 
+            dma140/pma, dma134/pma, dma128/pma, dma117/pma, dma109/pma, dma101/pma, 
             dma97/pma, dma96/pma, dma95/pma, dma94/pma, dma93/pma, dma92/pma, dma91/pma, 
             dma90/pma, dma89/pma, dma83/pma, dma82/pma, dma81/pma, dma80/pma, dma79/pma, 
             dma78/pma, dma77/pma, dma76/pma, dma75/pma, dma74/pma, dma73/pma, dma72/pma, 
@@ -1061,7 +1068,7 @@ dfma <- data_frame(
 )
 
 # ***** LOS RIOS *****
-ngu156 <- guayas22 %>%
+nlr156 <- losrios22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nlr155 <- losrios22 %>%
@@ -1353,6 +1360,7 @@ nlr60 <- losrios22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dlr156 <- mean(c(nlr156$tn, nlr155$tn, nlr154$tn, nlr153$tn, nlr152$tn, nlr151$tn, nlr150$tn))
 dlr155 <- mean(c(nlr155$tn, nlr154$tn, nlr153$tn, nlr152$tn, nlr151$tn, nlr150$tn, nlr149$tn))
 dlr152 <- mean(c(nlr152$tn, nlr151$tn, nlr150$tn, nlr149$tn, nlr148$tn, nlr147$tn, nlr146$tn))
 dlr140 <- mean(c(nlr140$tn, nlr139$tn, nlr138$tn, nlr137$tn, nlr136$tn, nlr135$tn, nlr134$tn))
@@ -1399,12 +1407,14 @@ plr <- losrios22 %>%
 plr <- (plr$provincia_poblacion)/100000
 
 dflr <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dnclr = c(dlr155/plr, dlr152/plr, dlr140/plr, dlr134/plr, dlr128/plr, dlr117/plr, dlr109/plr, dlr101/plr, 
+  dnclr = c(dlr156/plr, dlr155/plr, dlr152/plr, 
+            dlr140/plr, dlr134/plr, dlr128/plr, dlr117/plr, dlr109/plr, dlr101/plr, 
             dlr97/plr, dlr96/plr, dlr95/plr, dlr94/plr, dlr93/plr, dlr92/plr, dlr91/plr, 
             dlr90/plr, dlr89/plr, dlr83/plr, dlr82/plr, dlr81/plr, dlr80/plr, dlr79/plr, 
             dlr78/plr, dlr77/plr, dlr76/plr, dlr75/plr, dlr74/plr, dlr73/plr, dlr72/plr, 
@@ -1412,7 +1422,7 @@ dflr <- data_frame(
 )
 
 # ***** AZUAY *****
-ngu156 <- guayas22 %>%
+naz156 <- azuay22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 naz155 <- azuay22 %>%
@@ -1704,6 +1714,7 @@ naz60 <- azuay22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+daz156 <- mean(c(naz156$tn, naz155$tn, naz154$tn, naz153$tn, naz152$tn, naz151$tn, naz150$tn))
 daz155 <- mean(c(naz155$tn, naz154$tn, naz153$tn, naz152$tn, naz151$tn, naz150$tn, naz149$tn))
 daz152 <- mean(c(naz152$tn, naz151$tn, naz150$tn, naz149$tn, naz148$tn, naz147$tn, naz146$tn))
 daz140 <- mean(c(naz140$tn, naz139$tn, naz138$tn, naz137$tn, naz136$tn, naz135$tn, naz134$tn))
@@ -1750,12 +1761,14 @@ paz <- azuay22 %>%
 paz <- (paz$provincia_poblacion)/100000
 
 dfaz <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncaz = c(daz155/paz, daz152/paz, daz140/paz, daz134/paz, daz128/paz, daz117/paz, daz109/paz, daz101/paz, 
+  dncaz = c(daz156/paz, daz155/paz, daz152/paz, 
+            daz140/paz, daz134/paz, daz128/paz, daz117/paz, daz109/paz, daz101/paz, 
             daz97/paz, daz96/paz, daz95/paz, daz94/paz, daz93/paz, daz92/paz, daz91/paz, 
             daz90/paz, daz89/paz, daz83/paz, daz82/paz, daz81/paz, daz80/paz, daz79/paz, 
             daz78/paz, daz77/paz, daz76/paz, daz75/paz, daz74/paz, daz73/paz, daz72/paz, 
@@ -1763,7 +1776,7 @@ dfaz <- data_frame(
 )
 
 # ***** EL ORO *****
-ngu156 <- guayas22 %>%
+nel156 <- eloro22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nel155 <- eloro22 %>%
@@ -2055,6 +2068,7 @@ nel60 <- eloro22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+del156 <- mean(c(nel156$tn, nel155$tn, nel154$tn, nel153$tn, nel152$tn, nel151$tn, nel150$tn))
 del155 <- mean(c(nel155$tn, nel154$tn, nel153$tn, nel152$tn, nel151$tn, nel150$tn, nel149$tn))
 del152 <- mean(c(nel152$tn, nel151$tn, nel150$tn, nel149$tn, nel148$tn, nel147$tn, nel146$tn))
 del140 <- mean(c(nel140$tn, nel139$tn, nel138$tn, nel137$tn, nel136$tn, nel135$tn, nel134$tn))
@@ -2101,12 +2115,14 @@ pel <- eloro22 %>%
 pel <- (pel$provincia_poblacion)/100000
 
 dfel <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncel = c(del155/pel, del152/pel, del140/pel, del134/pel, del128/pel, del117/pel, del109/pel, del101/pel, 
+  dncel = c(del156/pel, del155/pel, del152/pel, 
+            del140/pel, del134/pel, del128/pel, del117/pel, del109/pel, del101/pel, 
             del97/pel, del96/pel, del95/pel, del94/pel, del93/pel, del92/pel, del91/pel, 
             del90/pel, del89/pel, del83/pel, del82/pel, del81/pel, del80/pel, del79/pel, 
             del78/pel, del77/pel, del76/pel, del75/pel, del74/pel, del73/pel, del72/pel, 
@@ -2114,7 +2130,7 @@ dfel <- data_frame(
 )
 
 # ***** ESMERALDAS *****
-ngu156 <- guayas22 %>%
+nes156 <- esmeraldas22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nes155 <- esmeraldas22 %>%
@@ -2406,6 +2422,7 @@ nes60 <- esmeraldas22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+des156 <- mean(c(nes156$tn, nes155$tn, nes154$tn, nes153$tn, nes152$tn, nes151$tn, nes150$tn))
 des155 <- mean(c(nes155$tn, nes154$tn, nes153$tn, nes152$tn, nes151$tn, nes150$tn, nes149$tn))
 des152 <- mean(c(nes152$tn, nes151$tn, nes150$tn, nes149$tn, nes148$tn, nes147$tn, nes146$tn))
 des140 <- mean(c(nes140$tn, nes139$tn, nes138$tn, nes137$tn, nes136$tn, nes135$tn, nes134$tn))
@@ -2452,12 +2469,14 @@ pes <- esmeraldas22 %>%
 pes <- (pes$provincia_poblacion)/100000
 
 dfes <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dnces = c(des155/pes, des152/pes, des140/pes, des134/pes, des128/pes, des117/pes, des109/pes, des101/pes, 
+  dnces = c(des156/pes, des155/pes, des152/pes, 
+            des140/pes, des134/pes, des128/pes, des117/pes, des109/pes, des101/pes, 
             des97/pes, des96/pes, des95/pes, des94/pes, des93/pes, des92/pes, des91/pes, 
             des90/pes, des89/pes, des83/pes, des82/pes, des81/pes, des80/pes, des79/pes, 
             des78/pes, des77/pes, des76/pes, des75/pes, des74/pes, des73/pes, des72/pes, 
@@ -2465,7 +2484,7 @@ dfes <- data_frame(
 )
 
 # ***** TUNGURAHUA *****
-ngu156 <- guayas22 %>%
+ntu156 <- tungurahua22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 ntu155 <- tungurahua22 %>%
@@ -2757,6 +2776,7 @@ ntu60 <- tungurahua22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dtu156 <- mean(c(ntu156$tn, ntu155$tn, ntu154$tn, ntu153$tn, ntu152$tn, ntu151$tn, ntu150$tn))
 dtu155 <- mean(c(ntu155$tn, ntu154$tn, ntu153$tn, ntu152$tn, ntu151$tn, ntu150$tn, ntu149$tn))
 dtu152 <- mean(c(ntu152$tn, ntu151$tn, ntu150$tn, ntu149$tn, ntu148$tn, ntu147$tn, ntu146$tn))
 dtu140 <- mean(c(ntu140$tn, ntu139$tn, ntu138$tn, ntu137$tn, ntu136$tn, ntu135$tn, ntu134$tn))
@@ -2803,12 +2823,14 @@ ptu <- tungurahua22 %>%
 ptu <- (ptu$provincia_poblacion)/100000
 
 dftu <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dnctu = c(dtu155/ptu, dtu152/ptu, dtu140/ptu, dtu134/ptu, dtu128/ptu, dtu117/ptu, dtu109/ptu, dtu101/ptu, 
+  dnctu = c(dtu156/ptu, dtu155/ptu, dtu152/ptu, 
+            dtu140/ptu, dtu134/ptu, dtu128/ptu, dtu117/ptu, dtu109/ptu, dtu101/ptu, 
             dtu97/ptu, dtu96/ptu, dtu95/ptu, dtu94/ptu, dtu93/ptu, dtu92/ptu, dtu91/ptu, 
             dtu90/ptu, dtu89/ptu, dtu83/ptu, dtu82/ptu, dtu81/ptu, dtu80/ptu, dtu79/ptu, 
             dtu78/ptu, dtu77/ptu, dtu76/ptu, dtu75/ptu, dtu74/ptu, dtu73/ptu, dtu72/ptu, 
@@ -2816,7 +2838,7 @@ dftu <- data_frame(
 )
 
 # ***** CHIMBORAZO *****
-ngu156 <- guayas22 %>%
+nch156 <- chimborazo22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nch155 <- chimborazo22 %>%
@@ -3108,6 +3130,7 @@ nch60 <- chimborazo22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dch156 <- mean(c(nch156$tn, nch155$tn, nch154$tn, nch153$tn, nch152$tn, nch151$tn, nch150$tn))
 dch155 <- mean(c(nch155$tn, nch154$tn, nch153$tn, nch152$tn, nch151$tn, nch150$tn, nch149$tn))
 dch152 <- mean(c(nch152$tn, nch151$tn, nch150$tn, nch149$tn, nch148$tn, nch147$tn, nch146$tn))
 dch140 <- mean(c(nch140$tn, nch139$tn, nch138$tn, nch137$tn, nch136$tn, nch135$tn, nch134$tn))
@@ -3154,12 +3177,14 @@ pch <- chimborazo22 %>%
 pch <- (pch$provincia_poblacion)/100000
 
 dfch <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncch = c(dch155/pch, dch152/pch, dch140/pch, dch134/pch, dch128/pch, dch117/pch, dch109/pch, dch101/pch, 
+  dncch = c(dch156/pch, dch155/pch, dch152/pch, 
+            dch140/pch, dch134/pch, dch128/pch, dch117/pch, dch109/pch, dch101/pch, 
             dch97/pch, dch96/pch, dch95/pch, dch94/pch, dch93/pch, dch92/pch, dch91/pch, 
             dch90/pch, dch89/pch, dch83/pch, dch82/pch, dch81/pch, dch80/pch, dch79/pch, 
             dch78/pch, dch77/pch, dch76/pch, dch75/pch, dch74/pch, dch73/pch, dch72/pch, 
@@ -3167,7 +3192,7 @@ dfch <- data_frame(
 )
 
 # ***** LOJA *****
-ngu156 <- guayas22 %>%
+nlo156 <- loja22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nlo155 <- loja22 %>%
@@ -3459,6 +3484,7 @@ nlo60 <- loja22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dlo156 <- mean(c(nlo156$tn, nlo155$tn, nlo154$tn, nlo153$tn, nlo152$tn, nlo151$tn, nlo150$tn))
 dlo155 <- mean(c(nlo155$tn, nlo154$tn, nlo153$tn, nlo152$tn, nlo151$tn, nlo150$tn, nlo149$tn))
 dlo152 <- mean(c(nlo152$tn, nlo151$tn, nlo150$tn, nlo149$tn, nlo148$tn, nlo147$tn, nlo146$tn))
 dlo140 <- mean(c(nlo140$tn, nlo139$tn, nlo138$tn, nlo137$tn, nlo136$tn, nlo135$tn, nlo134$tn))
@@ -3505,12 +3531,14 @@ plo <- loja22 %>%
 plo <- (plo$provincia_poblacion)/100000
 
 dflo <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dnclo = c(dlo155/plo, dlo152/plo, dlo140/plo, dlo134/plo, dlo128/plo, dlo117/plo, dlo109/plo, dlo101/plo, 
+  dnclo = c(dlo156/plo, dlo155/plo, dlo152/plo, 
+            dlo140/plo, dlo134/plo, dlo128/plo, dlo117/plo, dlo109/plo, dlo101/plo, 
             dlo97/plo, dlo96/plo, dlo95/plo, dlo94/plo, dlo93/plo, dlo92/plo, dlo91/plo, 
             dlo90/plo, dlo89/plo, dlo83/plo, dlo82/plo, dlo81/plo, dlo80/plo, dlo79/plo, 
             dlo78/plo, dlo77/plo, dlo76/plo, dlo75/plo, dlo74/plo, dlo73/plo, dlo72/plo, 
@@ -3518,7 +3546,7 @@ dflo <- data_frame(
 )
 
 # ***** GALAPAGOS *****
-ngu156 <- guayas22 %>%
+nga156 <- galapagos22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nga155 <- galapagos22 %>%
@@ -3810,6 +3838,7 @@ nga60 <- galapagos22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dga156 <- mean(c(nga156$tn, nga155$tn, nga154$tn, nga153$tn, nga152$tn, nga151$tn, nga150$tn))
 dga155 <- mean(c(nga155$tn, nga154$tn, nga153$tn, nga152$tn, nga151$tn, nga150$tn, nga149$tn))
 dga152 <- mean(c(nga152$tn, nga151$tn, nga150$tn, nga149$tn, nga148$tn, nga147$tn, nga146$tn))
 dga140 <- mean(c(nga140$tn, nga139$tn, nga138$tn, nga137$tn, nga136$tn, nga135$tn, nga134$tn))
@@ -3856,12 +3885,14 @@ pga <- galapagos22 %>%
 pga <- (pga$provincia_poblacion)/100000
 
 dfga <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncga = c(dga155/pga, dga152/pga, dga140/pga, dga134/pga, dga128/pga, dga117/pga, dga109/pga, dga101/pga, 
+  dncga = c(dga156/pga, dga155/pga, dga152/pga, 
+            dga140/pga, dga134/pga, dga128/pga, dga117/pga, dga109/pga, dga101/pga, 
             dga97/pga, dga96/pga, dga95/pga, dga94/pga, dga93/pga, dga92/pga, dga91/pga, 
             dga90/pga, dga89/pga, dga83/pga, dga82/pga, dga81/pga, dga80/pga, dga79/pga, 
             dga78/pga, dga77/pga, dga76/pga, dga75/pga, dga74/pga, dga73/pga, dga72/pga, 
@@ -3869,7 +3900,7 @@ dfga <- data_frame(
 )
 
 # ***** ZAMORA *****
-ngu156 <- guayas22 %>%
+nza156 <- zamora22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nza155 <- zamora22 %>%
@@ -4161,6 +4192,7 @@ nza60 <- zamora22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dza156 <- mean(c(nza156$tn, nza155$tn, nza154$tn, nza153$tn, nza152$tn, nza151$tn, nza150$tn))
 dza155 <- mean(c(nza155$tn, nza154$tn, nza153$tn, nza152$tn, nza151$tn, nza150$tn, nza149$tn))
 dza152 <- mean(c(nza152$tn, nza151$tn, nza150$tn, nza149$tn, nza148$tn, nza147$tn, nza146$tn))
 dza140 <- mean(c(nza140$tn, nza139$tn, nza138$tn, nza137$tn, nza136$tn, nza135$tn, nza134$tn))
@@ -4207,12 +4239,14 @@ pza <- zamora22 %>%
 pza <- (pza$provincia_poblacion)/100000
 
 dfza <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncza = c(dza155/pza, dza152/pza, dza140/pza, dza134/pza, dza128/pza, dza117/pza, dza109/pza, dza101/pza, 
+  dncza = c(dza156/pza, dza155/pza, dza152/pza, 
+            dza140/pza, dza134/pza, dza128/pza, dza117/pza, dza109/pza, dza101/pza, 
             dza97/pza, dza96/pza, dza95/pza, dza94/pza, dza93/pza, dza92/pza, dza91/pza, 
             dza90/pza, dza89/pza, dza83/pza, dza82/pza, dza81/pza, dza80/pza, dza79/pza, 
             dza78/pza, dza77/pza, dza76/pza, dza75/pza, dza74/pza, dza73/pza, dza72/pza, 
@@ -4220,7 +4254,7 @@ dfza <- data_frame(
 )
 
 # ***** SUCUMBIOS *****
-ngu156 <- guayas22 %>%
+nsu156 <- sucumbios22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nsu155 <- sucumbios22 %>%
@@ -4512,6 +4546,7 @@ nsu60 <- sucumbios22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dsu156 <- mean(c(nsu156$tn, nsu155$tn, nsu154$tn, nsu153$tn, nsu152$tn, nsu151$tn, nsu150$tn))
 dsu155 <- mean(c(nsu155$tn, nsu154$tn, nsu153$tn, nsu152$tn, nsu151$tn, nsu150$tn, nsu149$tn))
 dsu152 <- mean(c(nsu152$tn, nsu151$tn, nsu150$tn, nsu149$tn, nsu148$tn, nsu147$tn, nsu146$tn))
 dsu140 <- mean(c(nsu140$tn, nsu139$tn, nsu138$tn, nsu137$tn, nsu136$tn, nsu135$tn, nsu134$tn))
@@ -4558,12 +4593,14 @@ psu <- sucumbios22 %>%
 psu <- (psu$provincia_poblacion)/100000
 
 dfsu <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncsu = c(dsu155/psu, dsu152/psu, dsu140/psu, dsu134/psu, dsu128/psu, dsu117/psu, dsu109/psu, dsu101/psu, 
+  dncsu = c(dsu156/psu, dsu155/psu, dsu152/psu, 
+            dsu140/psu, dsu134/psu, dsu128/psu, dsu117/psu, dsu109/psu, dsu101/psu, 
             dsu97/psu, dsu96/psu, dsu95/psu, dsu94/psu, dsu93/psu, dsu92/psu, dsu91/psu, 
             dsu90/psu, dsu89/psu, dsu83/psu, dsu82/psu, dsu81/psu, dsu80/psu, dsu79/psu, 
             dsu78/psu, dsu77/psu, dsu76/psu, dsu75/psu, dsu74/psu, dsu73/psu, dsu72/psu, 
@@ -4571,7 +4608,7 @@ dfsu <- data_frame(
 )
 
 # ***** PASTAZA *****
-ngu156 <- guayas22 %>%
+npa156 <- pastaza22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 npa155 <- pastaza22 %>%
@@ -4863,6 +4900,7 @@ npa60 <- pastaza22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dpa156 <- mean(c(npa156$tn, npa155$tn, npa154$tn, npa153$tn, npa152$tn, npa151$tn, npa150$tn))
 dpa155 <- mean(c(npa155$tn, npa154$tn, npa153$tn, npa152$tn, npa151$tn, npa150$tn, npa149$tn))
 dpa152 <- mean(c(npa152$tn, npa151$tn, npa150$tn, npa149$tn, npa148$tn, npa147$tn, npa146$tn))
 dpa140 <- mean(c(npa140$tn, npa139$tn, npa138$tn, npa137$tn, npa136$tn, npa135$tn, npa134$tn))
@@ -4909,12 +4947,14 @@ ppa <- pastaza22 %>%
 ppa <- (ppa$provincia_poblacion)/100000
 
 dfpa <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncpa = c(dpa155/ppa, dpa152/ppa, dpa140/ppa, dpa134/ppa, dpa128/ppa, dpa117/ppa, dpa109/ppa, dpa101/ppa, 
+  dncpa = c(dpa156/ppa, dpa155/ppa, dpa152/ppa, 
+            dpa140/ppa, dpa134/ppa, dpa128/ppa, dpa117/ppa, dpa109/ppa, dpa101/ppa, 
             dpa97/ppa, dpa96/ppa, dpa95/ppa, dpa94/ppa, dpa93/ppa, dpa92/ppa, dpa91/ppa, 
             dpa90/ppa, dpa89/ppa, dpa83/ppa, dpa82/ppa, dpa81/ppa, dpa80/ppa, dpa79/ppa, 
             dpa78/ppa, dpa77/ppa, dpa76/ppa, dpa75/ppa, dpa74/ppa, dpa73/ppa, dpa72/ppa, 
@@ -4922,7 +4962,7 @@ dfpa <- data_frame(
 )
 
 # ***** ORELLANA *****
-ngu156 <- guayas22 %>%
+nor156 <- orellana22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nor155 <- orellana22 %>%
@@ -5214,6 +5254,7 @@ nor60 <- orellana22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dor156 <- mean(c(nor156$tn, nor155$tn, nor154$tn, nor153$tn, nor152$tn, nor151$tn, nor150$tn))
 dor155 <- mean(c(nor155$tn, nor154$tn, nor153$tn, nor152$tn, nor151$tn, nor150$tn, nor149$tn))
 dor152 <- mean(c(nor152$tn, nor151$tn, nor150$tn, nor149$tn, nor148$tn, nor147$tn, nor146$tn))
 dor140 <- mean(c(nor140$tn, nor139$tn, nor138$tn, nor137$tn, nor136$tn, nor135$tn, nor134$tn))
@@ -5260,12 +5301,14 @@ por <- orellana22 %>%
 por <- (por$provincia_poblacion)/100000
 
 dfor <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncor = c(dor155/por, dor152/por, dor140/por, dor134/por, dor128/por, dor117/por, dor109/por, dor101/por, 
+  dncor = c(dor156/por, dor155/por, dor152/por, 
+            dor140/por, dor134/por, dor128/por, dor117/por, dor109/por, dor101/por, 
             dor97/por, dor96/por, dor95/por, dor94/por, dor93/por, dor92/por, dor91/por, 
             dor90/por, dor89/por, dor83/por, dor82/por, dor81/por, dor80/por, dor79/por, 
             dor78/por, dor77/por, dor76/por, dor75/por, dor74/por, dor73/por, dor72/por, 
@@ -5273,7 +5316,7 @@ dfor <- data_frame(
 )
 
 # ***** NAPO *****
-ngu156 <- guayas22 %>%
+nna156 <- napo22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nna155 <- napo22 %>%
@@ -5565,6 +5608,7 @@ nna60 <- napo22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dna156 <- mean(c(nna156$tn, nna155$tn, nna154$tn, nna153$tn, nna152$tn, nna151$tn, nna150$tn))
 dna155 <- mean(c(nna155$tn, nna154$tn, nna153$tn, nna152$tn, nna151$tn, nna150$tn, nna149$tn))
 dna152 <- mean(c(nna152$tn, nna151$tn, nna150$tn, nna149$tn, nna148$tn, nna147$tn, nna146$tn))
 dna140 <- mean(c(nna140$tn, nna139$tn, nna138$tn, nna137$tn, nna136$tn, nna135$tn, nna134$tn))
@@ -5611,12 +5655,14 @@ pna <- napo22 %>%
 pna <- (pna$provincia_poblacion)/100000
 
 dfna <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncna = c(dna155/pna, dna152/pna, dna140/pna, dna134/pna, dna128/pna, dna117/pna, dna109/pna, dna101/pna, 
+  dncna = c(dna156/pna, dna155/pna, dna152/pna, 
+            dna140/pna, dna134/pna, dna128/pna, dna117/pna, dna109/pna, dna101/pna, 
             dna97/pna, dna96/pna, dna95/pna, dna94/pna, dna93/pna, dna92/pna, dna91/pna, 
             dna90/pna, dna89/pna, dna83/pna, dna82/pna, dna81/pna, dna80/pna, dna79/pna, 
             dna78/pna, dna77/pna, dna76/pna, dna75/pna, dna74/pna, dna73/pna, dna72/pna, 
@@ -5624,7 +5670,7 @@ dfna <- data_frame(
 )
 
 # ***** MORONA *****
-ngu156 <- guayas22 %>%
+nmo156 <- morona22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nmo155 <- morona22 %>%
@@ -5916,6 +5962,7 @@ nmo60 <- morona22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dmo156 <- mean(c(nmo156$tn, nmo155$tn, nmo154$tn, nmo153$tn, nmo152$tn, nmo151$tn, nmo150$tn))
 dmo155 <- mean(c(nmo155$tn, nmo154$tn, nmo153$tn, nmo152$tn, nmo151$tn, nmo150$tn, nmo149$tn))
 dmo152 <- mean(c(nmo152$tn, nmo151$tn, nmo150$tn, nmo149$tn, nmo148$tn, nmo147$tn, nmo146$tn))
 dmo140 <- mean(c(nmo140$tn, nmo139$tn, nmo138$tn, nmo137$tn, nmo136$tn, nmo135$tn, nmo134$tn))
@@ -5962,12 +6009,14 @@ pmo <- morona22 %>%
 pmo <- (pmo$provincia_poblacion)/100000
 
 dfmo <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncmo = c(dmo155/pmo, dmo152/pmo, dmo140/pmo, dmo134/pmo, dmo128/pmo, dmo117/pmo, dmo109/pmo, dmo101/pmo, 
+  dncmo = c(dmo156/pmo, dmo155/pmo, dmo152/pmo, 
+            dmo140/pmo, dmo134/pmo, dmo128/pmo, dmo117/pmo, dmo109/pmo, dmo101/pmo, 
             dmo97/pmo, dmo96/pmo, dmo95/pmo, dmo94/pmo, dmo93/pmo, dmo92/pmo, dmo91/pmo, 
             dmo90/pmo, dmo89/pmo, dmo83/pmo, dmo82/pmo, dmo81/pmo, dmo80/pmo, dmo79/pmo, 
             dmo78/pmo, dmo77/pmo, dmo76/pmo, dmo75/pmo, dmo74/pmo, dmo73/pmo, dmo72/pmo, 
@@ -5975,7 +6024,7 @@ dfmo <- data_frame(
 )
 
 # ***** IMBABURA *****
-ngu156 <- guayas22 %>%
+nim156 <- imbabura22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nim155 <- imbabura22 %>%
@@ -6267,6 +6316,7 @@ nim60 <- imbabura22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dim156 <- mean(c(nim156$tn, nim155$tn, nim154$tn, nim153$tn, nim152$tn, nim151$tn, nim150$tn))
 dim155 <- mean(c(nim155$tn, nim154$tn, nim153$tn, nim152$tn, nim151$tn, nim150$tn, nim149$tn))
 dim152 <- mean(c(nim152$tn, nim151$tn, nim150$tn, nim149$tn, nim148$tn, nim147$tn, nim146$tn))
 dim140 <- mean(c(nim140$tn, nim139$tn, nim138$tn, nim137$tn, nim136$tn, nim135$tn, nim134$tn))
@@ -6313,12 +6363,14 @@ pim <- imbabura22 %>%
 pim <- (pim$provincia_poblacion)/100000
 
 dfim <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncim = c(dim155/pim, dim152/pim, dim140/pim, dim134/pim, dim128/pim, dim117/pim, dim109/pim, dim101/pim, 
+  dncim = c(dim156/pim, dim155/pim, dim152/pim, 
+            dim140/pim, dim134/pim, dim128/pim, dim117/pim, dim109/pim, dim101/pim, 
             dim97/pim, dim96/pim, dim95/pim, dim94/pim, dim93/pim, dim92/pim, dim91/pim, 
             dim90/pim, dim89/pim, dim83/pim, dim82/pim, dim81/pim, dim80/pim, dim79/pim, 
             dim78/pim, dim77/pim, dim76/pim, dim75/pim, dim74/pim, dim73/pim, dim72/pim, 
@@ -6326,7 +6378,7 @@ dfim <- data_frame(
 )
 
 # ***** COTOPAXI *****
-ngu156 <- guayas22 %>%
+nco156 <- cotopaxi22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nco155 <- cotopaxi22 %>%
@@ -6618,6 +6670,7 @@ nco60 <- cotopaxi22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dco156 <- mean(c(nco156$tn, nco155$tn, nco154$tn, nco153$tn, nco152$tn, nco151$tn, nco150$tn))
 dco155 <- mean(c(nco155$tn, nco154$tn, nco153$tn, nco152$tn, nco151$tn, nco150$tn, nco149$tn))
 dco152 <- mean(c(nco152$tn, nco151$tn, nco150$tn, nco149$tn, nco148$tn, nco147$tn, nco146$tn))
 dco140 <- mean(c(nco140$tn, nco139$tn, nco138$tn, nco137$tn, nco136$tn, nco135$tn, nco134$tn))
@@ -6664,12 +6717,14 @@ pco <- cotopaxi22 %>%
 pco <- (pco$provincia_poblacion)/100000
 
 dfco <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncco = c(dco155/pco, dco152/pco, dco140/pco, dco134/pco, dco128/pco, dco117/pco, dco109/pco, dco101/pco, 
+  dncco = c(dco156/pco, dco155/pco, dco152/pco, 
+            dco140/pco, dco134/pco, dco128/pco, dco117/pco, dco109/pco, dco101/pco, 
             dco97/pco, dco96/pco, dco95/pco, dco94/pco, dco93/pco, dco92/pco, dco91/pco, 
             dco90/pco, dco89/pco, dco83/pco, dco82/pco, dco81/pco, dco80/pco, dco79/pco, 
             dco78/pco, dco77/pco, dco76/pco, dco75/pco, dco74/pco, dco73/pco, dco72/pco, 
@@ -6677,7 +6732,7 @@ dfco <- data_frame(
 )
 
 # ***** CARCHI *****
-ngu156 <- guayas22 %>%
+nca156 <- carchi22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nca155 <- carchi22 %>%
@@ -6969,6 +7024,7 @@ nca60 <- carchi22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dca156 <- mean(c(nca156$tn, nca155$tn, nca154$tn, nca153$tn, nca152$tn, nca151$tn, nca150$tn))
 dca155 <- mean(c(nca155$tn, nca154$tn, nca153$tn, nca152$tn, nca151$tn, nca150$tn, nca149$tn))
 dca152 <- mean(c(nca152$tn, nca151$tn, nca150$tn, nca149$tn, nca148$tn, nca147$tn, nca146$tn))
 dca140 <- mean(c(nca140$tn, nca139$tn, nca138$tn, nca137$tn, nca136$tn, nca135$tn, nca134$tn))
@@ -7015,12 +7071,14 @@ pca <- carchi22 %>%
 pca <- (pca$provincia_poblacion)/100000
 
 dfca <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncca = c(dca155/pca, dca152/pca, dca140/pca, dca134/pca, dca128/pca, dca117/pca, dca109/pca, dca101/pca, 
+  dncca = c(dca156/pca, dca155/pca, dca152/pca, 
+            dca140/pca, dca134/pca, dca128/pca, dca117/pca, dca109/pca, dca101/pca, 
             dca97/pca, dca96/pca, dca95/pca, dca94/pca, dca93/pca, dca92/pca, dca91/pca, 
             dca90/pca, dca89/pca, dca83/pca, dca82/pca, dca81/pca, dca80/pca, dca79/pca, 
             dca78/pca, dca77/pca, dca76/pca, dca75/pca, dca74/pca, dca73/pca, dca72/pca, 
@@ -7028,7 +7086,7 @@ dfca <- data_frame(
 )
 
 # ***** CAÑAR *****
-ngu156 <- guayas22 %>%
+ncr156 <- canar22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 ncr155 <- canar22 %>%
@@ -7320,6 +7378,7 @@ ncr60 <- canar22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dcr156 <- mean(c(ncr156$tn, ncr155$tn, ncr154$tn, ncr153$tn, ncr152$tn, ncr151$tn, ncr150$tn))
 dcr155 <- mean(c(ncr155$tn, ncr154$tn, ncr153$tn, ncr152$tn, ncr151$tn, ncr150$tn, ncr149$tn))
 dcr152 <- mean(c(ncr152$tn, ncr151$tn, ncr150$tn, ncr149$tn, ncr148$tn, ncr147$tn, ncr146$tn))
 dcr140 <- mean(c(ncr140$tn, ncr139$tn, ncr138$tn, ncr137$tn, ncr136$tn, ncr135$tn, ncr134$tn))
@@ -7366,12 +7425,14 @@ pcr <- canar22 %>%
 pcr <- (pcr$provincia_poblacion)/100000
 
 dfcr <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dnccr = c(dcr155/pcr, dcr152/pcr, dcr140/pcr, dcr134/pcr, dcr128/pcr, dcr117/pcr, dcr109/pcr, dcr101/pcr, 
+  dnccr = c(dcr156/pcr, dcr155/pcr, dcr152/pcr, 
+            dcr140/pcr, dcr134/pcr, dcr128/pcr, dcr117/pcr, dcr109/pcr, dcr101/pcr, 
             dcr97/pcr, dcr96/pcr, dcr95/pcr, dcr94/pcr, dcr93/pcr, dcr92/pcr, dcr91/pcr, 
             dcr90/pcr, dcr89/pcr, dcr83/pcr, dcr82/pcr, dcr81/pcr, dcr80/pcr, dcr79/pcr, 
             dcr78/pcr, dcr77/pcr, dcr76/pcr, dcr75/pcr, dcr74/pcr, dcr73/pcr, dcr72/pcr, 
@@ -7379,7 +7440,7 @@ dfcr <- data_frame(
 )
 
 # ***** BOLIVAR *****
-ngu156 <- guayas22 %>%
+nbo156 <- bolivar22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nbo155 <- bolivar22 %>%
@@ -7671,6 +7732,7 @@ nbo60 <- bolivar22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dbo156 <- mean(c(nbo156$tn, nbo155$tn, nbo154$tn, nbo153$tn, nbo152$tn, nbo151$tn, nbo150$tn))
 dbo155 <- mean(c(nbo155$tn, nbo154$tn, nbo153$tn, nbo152$tn, nbo151$tn, nbo150$tn, nbo149$tn))
 dbo152 <- mean(c(nbo152$tn, nbo151$tn, nbo150$tn, nbo149$tn, nbo148$tn, nbo147$tn, nbo146$tn))
 dbo140 <- mean(c(nbo140$tn, nbo139$tn, nbo138$tn, nbo137$tn, nbo136$tn, nbo135$tn, nbo134$tn))
@@ -7717,12 +7779,14 @@ pbo <- bolivar22 %>%
 pbo <- (pbo$provincia_poblacion)/100000
 
 dfbo <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncbo = c(dbo155/pbo, dbo152/pbo, dbo140/pbo, dbo134/pbo, dbo128/pbo, dbo117/pbo, dbo109/pbo, dbo101/pbo, 
+  dncbo = c(dbo156/pbo, dbo155/pbo, dbo152/pbo, 
+            dbo140/pbo, dbo134/pbo, dbo128/pbo, dbo117/pbo, dbo109/pbo, dbo101/pbo, 
             dbo97/pbo, dbo96/pbo, dbo95/pbo, dbo94/pbo, dbo93/pbo, dbo92/pbo, dbo91/pbo, 
             dbo90/pbo, dbo89/pbo, dbo83/pbo, dbo82/pbo, dbo81/pbo, dbo80/pbo, dbo79/pbo, 
             dbo78/pbo, dbo77/pbo, dbo76/pbo, dbo75/pbo, dbo74/pbo, dbo73/pbo, dbo72/pbo, 
@@ -7730,7 +7794,7 @@ dfbo <- data_frame(
 )
 
 # ***** STO DOMINGO *****
-ngu156 <- guayas22 %>%
+nst156 <- stodomingo22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nst155 <- stodomingo22 %>%
@@ -8022,6 +8086,7 @@ nst60 <- stodomingo22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dst156 <- mean(c(nst156$tn, nst155$tn, nst154$tn, nst153$tn, nst152$tn, nst151$tn, nst150$tn))
 dst155 <- mean(c(nst155$tn, nst154$tn, nst153$tn, nst152$tn, nst151$tn, nst150$tn, nst149$tn))
 dst152 <- mean(c(nst152$tn, nst151$tn, nst150$tn, nst149$tn, nst148$tn, nst147$tn, nst146$tn))
 dst140 <- mean(c(nst140$tn, nst139$tn, nst138$tn, nst137$tn, nst136$tn, nst135$tn, nst134$tn))
@@ -8068,12 +8133,14 @@ pst <- stodomingo22 %>%
 pst <- (pst$provincia_poblacion)/100000
 
 dfst <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncst = c(dst155/pst, dst152/pst, dst140/pst, dst134/pst, dst128/pst, dst117/pst, dst109/pst, dst101/pst, 
+  dncst = c(dst156/pst, dst155/pst, dst152/pst, 
+            dst140/pst, dst134/pst, dst128/pst, dst117/pst, dst109/pst, dst101/pst, 
             dst97/pst, dst96/pst, dst95/pst, dst94/pst, dst93/pst, dst92/pst, dst91/pst, 
             dst90/pst, dst89/pst, dst83/pst, dst82/pst, dst81/pst, dst80/pst, dst79/pst, 
             dst78/pst, dst77/pst, dst76/pst, dst75/pst, dst74/pst, dst73/pst, dst72/pst, 
@@ -8081,7 +8148,7 @@ dfst <- data_frame(
 )
 
 # ***** STA ELENA *****
-ngu156 <- guayas22 %>%
+nea156 <- staelena22 %>%
   filter(created_at == "2022-06-05") %>%
   summarise(tn = sum(nuevas))
 nea155 <- staelena22 %>%
@@ -8373,6 +8440,7 @@ nea60 <- staelena22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
 
+dea156 <- mean(c(nea156$tn, nea155$tn, nea154$tn, nea153$tn, nea152$tn, nea151$tn, nea150$tn))
 dea155 <- mean(c(nea155$tn, nea154$tn, nea153$tn, nea152$tn, nea151$tn, nea150$tn, nea149$tn))
 dea152 <- mean(c(nea152$tn, nea151$tn, nea150$tn, nea149$tn, nea148$tn, nea147$tn, nea146$tn))
 dea140 <- mean(c(nea140$tn, nea139$tn, nea138$tn, nea137$tn, nea136$tn, nea135$tn, nea134$tn))
@@ -8419,12 +8487,14 @@ pea <- staelena22 %>%
 pea <- (pea$provincia_poblacion)/100000
 
 dfea <- data_frame(
-  fecha = c("04jun22", "01jun22", "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+  fecha = c("05jun22", "04jun22", "01jun22", 
+            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
             "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
             "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
             "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
             "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
-  dncea = c(dea155/pea, dea152/pea, dea140/pea, dea134/pea, dea128/pea, dea117/pea, dea109/pea, dea101/pea, 
+  dncea = c(dea156/pea, dea155/pea, dea152/pea, 
+            dea140/pea, dea134/pea, dea128/pea, dea117/pea, dea109/pea, dea101/pea, 
             dea97/pea, dea96/pea, dea95/pea, dea94/pea, dea93/pea, dea92/pea, dea91/pea, 
             dea90/pea, dea89/pea, dea83/pea, dea82/pea, dea81/pea, dea80/pea, dea79/pea, 
             dea78/pea, dea77/pea, dea76/pea, dea75/pea, dea74/pea, dea73/pea, dea72/pea, 
@@ -8447,8 +8517,8 @@ dftotal <- full_join(dfgu, dfpi, by = "fecha") %>%
   full_join(., dfst, by = "fecha") %>% full_join(., dfea, by = "fecha")
 
 # GRABAR ARCHIVO A ÚLTIMA FECHA
-dncprov040622 <- filter(dftotal, fecha == "04jun22")
-write.table(dncprov040622,"pdnc04jun.txt",sep="\t",row.names=FALSE)
+dncprov050622 <- filter(dftotal, fecha == "05jun22")
+write.table(dncprov050622,"pdnc05jun.txt",sep="\t",row.names=FALSE)
 
 
 
