@@ -4,6 +4,14 @@
 
 # DATASET A PARTIR DE "canpro.R"
 
+# VARIABLE FECHA PARA DNC DE PROVINCIAS
+fecha = c("05jun22", "04jun22", "01jun22", 
+          "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
+          "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
+          "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
+          "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
+          "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22")
+
 # ***** GUAYAS *****
 # npi"x" // ACORDE A DIAS DEL AÑO
 ngu156 <- guayas22 %>%
@@ -345,12 +353,7 @@ pgu <- guayas22 %>%
 pgu <- (pgu$provincia_poblacion)/100000
 # DATA FRAME GUAYAS
 dfgu <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncgu = c(dgu156/pgu, dgu155/pgu, dgu152/pgu, 
             dgu140/pgu, dgu134/pgu, dgu128/pgu, dgu117/pgu, dgu109/pgu, dgu101/pgu, 
             dgu97/pgu, dgu96/pgu, dgu95/pgu, dgu94/pgu, dgu93/pgu, dgu92/pgu, dgu91/pgu, 
@@ -699,12 +702,7 @@ ppi <- pichincha22 %>%
 ppi <- (ppi$provincia_poblacion)/100000
 
 dfpi <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncpi = c(dpi156/ppi, dpi155/ppi, dpi152/ppi, 
             dpi140/ppi, dpi134/ppi, dpi128/ppi, dpi117/ppi, dpi109/ppi, dpi101/ppi, 
             dpi97/ppi, dpi96/ppi, dpi95/ppi, dpi94/ppi, dpi93/ppi, dpi92/ppi, dpi91/ppi, 
@@ -1053,12 +1051,7 @@ pma <- manabi22 %>%
 pma <- (pma$provincia_poblacion)/100000
 
 dfma <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncma = c(dma156/pma, dma155/pma, dma152/pma, 
             dma140/pma, dma134/pma, dma128/pma, dma117/pma, dma109/pma, dma101/pma, 
             dma97/pma, dma96/pma, dma95/pma, dma94/pma, dma93/pma, dma92/pma, dma91/pma, 
@@ -1407,12 +1400,7 @@ plr <- losrios22 %>%
 plr <- (plr$provincia_poblacion)/100000
 
 dflr <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dnclr = c(dlr156/plr, dlr155/plr, dlr152/plr, 
             dlr140/plr, dlr134/plr, dlr128/plr, dlr117/plr, dlr109/plr, dlr101/plr, 
             dlr97/plr, dlr96/plr, dlr95/plr, dlr94/plr, dlr93/plr, dlr92/plr, dlr91/plr, 
@@ -1761,12 +1749,7 @@ paz <- azuay22 %>%
 paz <- (paz$provincia_poblacion)/100000
 
 dfaz <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncaz = c(daz156/paz, daz155/paz, daz152/paz, 
             daz140/paz, daz134/paz, daz128/paz, daz117/paz, daz109/paz, daz101/paz, 
             daz97/paz, daz96/paz, daz95/paz, daz94/paz, daz93/paz, daz92/paz, daz91/paz, 
@@ -2115,12 +2098,7 @@ pel <- eloro22 %>%
 pel <- (pel$provincia_poblacion)/100000
 
 dfel <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncel = c(del156/pel, del155/pel, del152/pel, 
             del140/pel, del134/pel, del128/pel, del117/pel, del109/pel, del101/pel, 
             del97/pel, del96/pel, del95/pel, del94/pel, del93/pel, del92/pel, del91/pel, 
@@ -2469,12 +2447,7 @@ pes <- esmeraldas22 %>%
 pes <- (pes$provincia_poblacion)/100000
 
 dfes <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dnces = c(des156/pes, des155/pes, des152/pes, 
             des140/pes, des134/pes, des128/pes, des117/pes, des109/pes, des101/pes, 
             des97/pes, des96/pes, des95/pes, des94/pes, des93/pes, des92/pes, des91/pes, 
@@ -2823,12 +2796,7 @@ ptu <- tungurahua22 %>%
 ptu <- (ptu$provincia_poblacion)/100000
 
 dftu <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dnctu = c(dtu156/ptu, dtu155/ptu, dtu152/ptu, 
             dtu140/ptu, dtu134/ptu, dtu128/ptu, dtu117/ptu, dtu109/ptu, dtu101/ptu, 
             dtu97/ptu, dtu96/ptu, dtu95/ptu, dtu94/ptu, dtu93/ptu, dtu92/ptu, dtu91/ptu, 
@@ -3177,12 +3145,7 @@ pch <- chimborazo22 %>%
 pch <- (pch$provincia_poblacion)/100000
 
 dfch <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncch = c(dch156/pch, dch155/pch, dch152/pch, 
             dch140/pch, dch134/pch, dch128/pch, dch117/pch, dch109/pch, dch101/pch, 
             dch97/pch, dch96/pch, dch95/pch, dch94/pch, dch93/pch, dch92/pch, dch91/pch, 
@@ -3531,12 +3494,7 @@ plo <- loja22 %>%
 plo <- (plo$provincia_poblacion)/100000
 
 dflo <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dnclo = c(dlo156/plo, dlo155/plo, dlo152/plo, 
             dlo140/plo, dlo134/plo, dlo128/plo, dlo117/plo, dlo109/plo, dlo101/plo, 
             dlo97/plo, dlo96/plo, dlo95/plo, dlo94/plo, dlo93/plo, dlo92/plo, dlo91/plo, 
@@ -3885,12 +3843,7 @@ pga <- galapagos22 %>%
 pga <- (pga$provincia_poblacion)/100000
 
 dfga <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncga = c(dga156/pga, dga155/pga, dga152/pga, 
             dga140/pga, dga134/pga, dga128/pga, dga117/pga, dga109/pga, dga101/pga, 
             dga97/pga, dga96/pga, dga95/pga, dga94/pga, dga93/pga, dga92/pga, dga91/pga, 
@@ -4239,12 +4192,7 @@ pza <- zamora22 %>%
 pza <- (pza$provincia_poblacion)/100000
 
 dfza <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncza = c(dza156/pza, dza155/pza, dza152/pza, 
             dza140/pza, dza134/pza, dza128/pza, dza117/pza, dza109/pza, dza101/pza, 
             dza97/pza, dza96/pza, dza95/pza, dza94/pza, dza93/pza, dza92/pza, dza91/pza, 
@@ -4593,12 +4541,7 @@ psu <- sucumbios22 %>%
 psu <- (psu$provincia_poblacion)/100000
 
 dfsu <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncsu = c(dsu156/psu, dsu155/psu, dsu152/psu, 
             dsu140/psu, dsu134/psu, dsu128/psu, dsu117/psu, dsu109/psu, dsu101/psu, 
             dsu97/psu, dsu96/psu, dsu95/psu, dsu94/psu, dsu93/psu, dsu92/psu, dsu91/psu, 
@@ -4947,12 +4890,7 @@ ppa <- pastaza22 %>%
 ppa <- (ppa$provincia_poblacion)/100000
 
 dfpa <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncpa = c(dpa156/ppa, dpa155/ppa, dpa152/ppa, 
             dpa140/ppa, dpa134/ppa, dpa128/ppa, dpa117/ppa, dpa109/ppa, dpa101/ppa, 
             dpa97/ppa, dpa96/ppa, dpa95/ppa, dpa94/ppa, dpa93/ppa, dpa92/ppa, dpa91/ppa, 
@@ -5301,12 +5239,7 @@ por <- orellana22 %>%
 por <- (por$provincia_poblacion)/100000
 
 dfor <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncor = c(dor156/por, dor155/por, dor152/por, 
             dor140/por, dor134/por, dor128/por, dor117/por, dor109/por, dor101/por, 
             dor97/por, dor96/por, dor95/por, dor94/por, dor93/por, dor92/por, dor91/por, 
@@ -5655,12 +5588,7 @@ pna <- napo22 %>%
 pna <- (pna$provincia_poblacion)/100000
 
 dfna <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncna = c(dna156/pna, dna155/pna, dna152/pna, 
             dna140/pna, dna134/pna, dna128/pna, dna117/pna, dna109/pna, dna101/pna, 
             dna97/pna, dna96/pna, dna95/pna, dna94/pna, dna93/pna, dna92/pna, dna91/pna, 
@@ -6009,12 +5937,7 @@ pmo <- morona22 %>%
 pmo <- (pmo$provincia_poblacion)/100000
 
 dfmo <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncmo = c(dmo156/pmo, dmo155/pmo, dmo152/pmo, 
             dmo140/pmo, dmo134/pmo, dmo128/pmo, dmo117/pmo, dmo109/pmo, dmo101/pmo, 
             dmo97/pmo, dmo96/pmo, dmo95/pmo, dmo94/pmo, dmo93/pmo, dmo92/pmo, dmo91/pmo, 
@@ -6363,12 +6286,7 @@ pim <- imbabura22 %>%
 pim <- (pim$provincia_poblacion)/100000
 
 dfim <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncim = c(dim156/pim, dim155/pim, dim152/pim, 
             dim140/pim, dim134/pim, dim128/pim, dim117/pim, dim109/pim, dim101/pim, 
             dim97/pim, dim96/pim, dim95/pim, dim94/pim, dim93/pim, dim92/pim, dim91/pim, 
@@ -6717,12 +6635,7 @@ pco <- cotopaxi22 %>%
 pco <- (pco$provincia_poblacion)/100000
 
 dfco <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncco = c(dco156/pco, dco155/pco, dco152/pco, 
             dco140/pco, dco134/pco, dco128/pco, dco117/pco, dco109/pco, dco101/pco, 
             dco97/pco, dco96/pco, dco95/pco, dco94/pco, dco93/pco, dco92/pco, dco91/pco, 
@@ -7071,12 +6984,7 @@ pca <- carchi22 %>%
 pca <- (pca$provincia_poblacion)/100000
 
 dfca <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncca = c(dca156/pca, dca155/pca, dca152/pca, 
             dca140/pca, dca134/pca, dca128/pca, dca117/pca, dca109/pca, dca101/pca, 
             dca97/pca, dca96/pca, dca95/pca, dca94/pca, dca93/pca, dca92/pca, dca91/pca, 
@@ -7425,12 +7333,7 @@ pcr <- canar22 %>%
 pcr <- (pcr$provincia_poblacion)/100000
 
 dfcr <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dnccr = c(dcr156/pcr, dcr155/pcr, dcr152/pcr, 
             dcr140/pcr, dcr134/pcr, dcr128/pcr, dcr117/pcr, dcr109/pcr, dcr101/pcr, 
             dcr97/pcr, dcr96/pcr, dcr95/pcr, dcr94/pcr, dcr93/pcr, dcr92/pcr, dcr91/pcr, 
@@ -7779,12 +7682,7 @@ pbo <- bolivar22 %>%
 pbo <- (pbo$provincia_poblacion)/100000
 
 dfbo <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncbo = c(dbo156/pbo, dbo155/pbo, dbo152/pbo, 
             dbo140/pbo, dbo134/pbo, dbo128/pbo, dbo117/pbo, dbo109/pbo, dbo101/pbo, 
             dbo97/pbo, dbo96/pbo, dbo95/pbo, dbo94/pbo, dbo93/pbo, dbo92/pbo, dbo91/pbo, 
@@ -8133,12 +8031,7 @@ pst <- stodomingo22 %>%
 pst <- (pst$provincia_poblacion)/100000
 
 dfst <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncst = c(dst156/pst, dst155/pst, dst152/pst, 
             dst140/pst, dst134/pst, dst128/pst, dst117/pst, dst109/pst, dst101/pst, 
             dst97/pst, dst96/pst, dst95/pst, dst94/pst, dst93/pst, dst92/pst, dst91/pst, 
@@ -8487,12 +8380,7 @@ pea <- staelena22 %>%
 pea <- (pea$provincia_poblacion)/100000
 
 dfea <- data_frame(
-  fecha = c("05jun22", "04jun22", "01jun22", 
-            "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-            "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-            "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-            "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-            "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22"),
+  fecha,
   dncea = c(dea156/pea, dea155/pea, dea152/pea, 
             dea140/pea, dea134/pea, dea128/pea, dea117/pea, dea109/pea, dea101/pea, 
             dea97/pea, dea96/pea, dea95/pea, dea94/pea, dea93/pea, dea92/pea, dea91/pea, 
