@@ -14,76 +14,76 @@ fecha = c("05jun22", "04jun22", "01jun22",
 
 # VARIABLE POBLACION PROVINCIAS POR CADA 100MIL HABITANTES
 pgu <- guayas22 %>%
-  filter(canton == "Guayaquil" & created_at == "2022-06-01")
+  filter(canton == "Guayaquil" & created_at == "2022-06-07")
 pgu <- (pgu$provincia_poblacion)/100000
 ppi <- pichincha22 %>%
-  filter(canton == "Quito" & created_at == "2022-06-01")
+  filter(canton == "Quito" & created_at == "2022-06-07")
 ppi <- (ppi$provincia_poblacion)/100000
 pma <- manabi22 %>%
-  filter(canton == "Manta" & created_at == "2022-06-01")
+  filter(canton == "Manta" & created_at == "2022-06-07")
 pma <- (pma$provincia_poblacion)/100000
 plr <- losrios22 %>%
-  filter(canton == "Babahoyo" & created_at == "2022-06-01")
+  filter(canton == "Babahoyo" & created_at == "2022-06-07")
 plr <- (plr$provincia_poblacion)/100000
 paz <- azuay22 %>%
-  filter(canton == "Cuenca" & created_at == "2022-06-01")
+  filter(canton == "Cuenca" & created_at == "2022-06-07")
 paz <- (paz$provincia_poblacion)/100000
 pel <- eloro22 %>%
-  filter(canton == "Machala" & created_at == "2022-06-01")
+  filter(canton == "Machala" & created_at == "2022-06-07")
 pel <- (pel$provincia_poblacion)/100000
 pes <- esmeraldas22 %>%
-  filter(canton == "Esmeraldas" & created_at == "2022-06-01")
+  filter(canton == "Esmeraldas" & created_at == "2022-06-07")
 pes <- (pes$provincia_poblacion)/100000
 ptu <- tungurahua22 %>%
-  filter(canton == "Ambato" & created_at == "2022-06-01")
+  filter(canton == "Ambato" & created_at == "2022-06-07")
 ptu <- (ptu$provincia_poblacion)/100000
 pch <- chimborazo22 %>%
-  filter(canton == "Riobamba" & created_at == "2022-06-01")
+  filter(canton == "Riobamba" & created_at == "2022-06-07")
 pch <- (pch$provincia_poblacion)/100000
 plo <- loja22 %>%
-  filter(canton == "Loja" & created_at == "2022-06-01")
+  filter(canton == "Loja" & created_at == "2022-06-07")
 plo <- (plo$provincia_poblacion)/100000
 pga <- galapagos22 %>%
-  filter(canton == "Isabela" & created_at == "2022-06-01")
+  filter(canton == "Isabela" & created_at == "2022-06-07")
 pga <- (pga$provincia_poblacion)/100000
 pza <- zamora22 %>%
-  filter(canton == "Zamora" & created_at == "2022-06-01")
+  filter(canton == "Zamora" & created_at == "2022-06-07")
 pza <- (pza$provincia_poblacion)/100000
 psu <- sucumbios22 %>%
-  filter(canton == "Cuyabeno" & created_at == "2022-06-01")
+  filter(canton == "Cuyabeno" & created_at == "2022-06-07")
 psu <- (psu$provincia_poblacion)/100000
 ppa <- pastaza22 %>%
-  filter(canton == "Mera" & created_at == "2022-06-01")
+  filter(canton == "Mera" & created_at == "2022-06-07")
 ppa <- (ppa$provincia_poblacion)/100000
 por <- orellana22 %>%
-  filter(canton == "Loreto" & created_at == "2022-06-01")
+  filter(canton == "Loreto" & created_at == "2022-06-07")
 por <- (por$provincia_poblacion)/100000
 pna <- napo22 %>%
-  filter(canton == "Tena" & created_at == "2022-06-01")
+  filter(canton == "Tena" & created_at == "2022-06-07")
 pna <- (pna$provincia_poblacion)/100000
 pmo <- morona22 %>%
-  filter(canton == "Palora" & created_at == "2022-06-01")
+  filter(canton == "Palora" & created_at == "2022-06-07")
 pmo <- (pmo$provincia_poblacion)/100000
 pim <- imbabura22 %>%
-  filter(canton == "Otavalo" & created_at == "2022-06-01")
+  filter(canton == "Otavalo" & created_at == "2022-06-07")
 pim <- (pim$provincia_poblacion)/100000
 pco <- cotopaxi22 %>%
-  filter(canton == "Salcedo" & created_at == "2022-06-01")
+  filter(canton == "Salcedo" & created_at == "2022-06-07")
 pco <- (pco$provincia_poblacion)/100000
 pca <- carchi22 %>%
-  filter(canton == "Mira" & created_at == "2022-06-01")
+  filter(canton == "Mira" & created_at == "2022-06-07")
 pca <- (pca$provincia_poblacion)/100000
 pcr <- canar22 %>%
-  filter(canton == "Azogues" & created_at == "2022-06-01")
+  filter(canton == "Azogues" & created_at == "2022-06-07")
 pcr <- (pcr$provincia_poblacion)/100000
 pbo <- bolivar22 %>%
-  filter(canton == "Chimbo" & created_at == "2022-06-01")
+  filter(canton == "Chimbo" & created_at == "2022-06-07")
 pbo <- (pbo$provincia_poblacion)/100000
 pst <- stodomingo22 %>%
-  filter(canton == "Santo Domingo" & created_at == "2022-06-01")
+  filter(canton == "Santo Domingo" & created_at == "2022-06-07")
 pst <- (pst$provincia_poblacion)/100000
 pea <- staelena22 %>%
-  filter(canton == "Salinas" & created_at == "2022-06-01")
+  filter(canton == "Salinas" & created_at == "2022-06-07")
 pea <- (pea$provincia_poblacion)/100000
 
 # ***** GUAYAS *****
