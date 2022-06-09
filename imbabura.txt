@@ -4889,3 +4889,15 @@
 "Imbabura"	"Otavalo"	5674	2022-06-05
 "Imbabura"	"Pimampiro"	695	2022-06-05
 "Imbabura"	"San Miguel de Urcuquí"	903	2022-06-05
+"Imbabura"	"Antonio Ante"	3278	2022-06-06
+"Imbabura"	"Cotacachi"	2532	2022-06-06
+"Imbabura"	"Ibarra"	16729	2022-06-06
+"Imbabura"	"Otavalo"	5674	2022-06-06
+"Imbabura"	"Pimampiro"	695	2022-06-06
+"Imbabura"	"San Miguel de Urcuquí"	903	2022-06-06
+"Imbabura"	"Antonio Ante"	3279	2022-06-07
+"Imbabura"	"Cotacachi"	2532	2022-06-07
+"Imbabura"	"Ibarra"	16734	2022-06-07
+"Imbabura"	"Otavalo"	5678	2022-06-07
+"Imbabura"	"Pimampiro"	695	2022-06-07
+"Imbabura"	"San Miguel de Urcuquí"	904	2022-06-07

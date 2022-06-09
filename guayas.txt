@@ -20374,3 +20374,53 @@
 "Guayas"	"San Jacinto De Yaguachi"	930	2022-06-05
 "Guayas"	"Santa Lucía"	294	2022-06-05
 "Guayas"	"Simón Bolivar"	268	2022-06-05
+"Guayas"	"Alfredo Baquerizo Moreno"	278	2022-06-06
+"Guayas"	"Balao"	452	2022-06-06
+"Guayas"	"Balzar"	1024	2022-06-06
+"Guayas"	"Colimes"	355	2022-06-06
+"Guayas"	"Coronel Marcelino Maridueña"	335	2022-06-06
+"Guayas"	"Daule"	3517	2022-06-06
+"Guayas"	"Durán"	6563	2022-06-06
+"Guayas"	"El Triunfo"	1252	2022-06-06
+"Guayas"	"Empalme"	1828	2022-06-06
+"Guayas"	"General Antonio Elizalde"	682	2022-06-06
+"Guayas"	"Guayaquil"	102713	2022-06-06
+"Guayas"	"Isidro Ayora"	194	2022-06-06
+"Guayas"	"Lomas de Sargentillo"	215	2022-06-06
+"Guayas"	"Milagro"	6612	2022-06-06
+"Guayas"	"Naranjal"	2041	2022-06-06
+"Guayas"	"Naranjito"	811	2022-06-06
+"Guayas"	"Nobol"	195	2022-06-06
+"Guayas"	"Palestina"	224	2022-06-06
+"Guayas"	"Pedro Carbo"	1231	2022-06-06
+"Guayas"	"Playas"	775	2022-06-06
+"Guayas"	"Salitre"	1488	2022-06-06
+"Guayas"	"Samborondón"	3446	2022-06-06
+"Guayas"	"San Jacinto De Yaguachi"	930	2022-06-06
+"Guayas"	"Santa Lucía"	294	2022-06-06
+"Guayas"	"Simón Bolivar"	268	2022-06-06
+"Guayas"	"Alfredo Baquerizo Moreno"	278	2022-06-07
+"Guayas"	"Balao"	452	2022-06-07
+"Guayas"	"Balzar"	1024	2022-06-07
+"Guayas"	"Colimes"	355	2022-06-07
+"Guayas"	"Coronel Marcelino Maridueña"	335	2022-06-07
+"Guayas"	"Daule"	3519	2022-06-07
+"Guayas"	"Durán"	6564	2022-06-07
+"Guayas"	"El Triunfo"	1252	2022-06-07
+"Guayas"	"Empalme"	1828	2022-06-07
+"Guayas"	"General Antonio Elizalde"	682	2022-06-07
+"Guayas"	"Guayaquil"	102895	2022-06-07
+"Guayas"	"Isidro Ayora"	194	2022-06-07
+"Guayas"	"Lomas de Sargentillo"	215	2022-06-07
+"Guayas"	"Milagro"	6613	2022-06-07
+"Guayas"	"Naranjal"	2041	2022-06-07
+"Guayas"	"Naranjito"	811	2022-06-07
+"Guayas"	"Nobol"	195	2022-06-07
+"Guayas"	"Palestina"	224	2022-06-07
+"Guayas"	"Pedro Carbo"	1231	2022-06-07
+"Guayas"	"Playas"	775	2022-06-07
+"Guayas"	"Salitre"	1488	2022-06-07
+"Guayas"	"Samborondón"	3453	2022-06-07
+"Guayas"	"San Jacinto De Yaguachi"	930	2022-06-07
+"Guayas"	"Santa Lucía"	294	2022-06-07
+"Guayas"	"Simón Bolivar"	268	2022-06-07

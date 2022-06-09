@@ -1629,3 +1629,7 @@
 "Sto. Domingo Tsáchilas"	"Santo Domingo"	14843	2022-06-04
 "Sto. Domingo Tsáchilas"	"La Concordia"	1963	2022-06-05
 "Sto. Domingo Tsáchilas"	"Santo Domingo"	14843	2022-06-05
+"Sto. Domingo Tsáchilas"	"La Concordia"	1963	2022-06-06
+"Sto. Domingo Tsáchilas"	"Santo Domingo"	14843	2022-06-06
+"Sto. Domingo Tsáchilas"	"La Concordia"	1963	2022-06-07
+"Sto. Domingo Tsáchilas"	"Santo Domingo"	14845	2022-06-07
