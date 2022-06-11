@@ -5,12 +5,16 @@
 # DATASET A PARTIR DE "canpro.R"
 
 # VARIABLE fecha PARA dnc DE PROVINCIAS
-fecha = c("07jun22", "05jun22", "04jun22", "01jun22", 
-          "20may22", "14may22", "08may22", "27abr22", "19abr22", "11abr22", 
-          "07abr22", "06abr22", "05abr22", "04abr22", "03abr22", "02abr22", "01abr22",
-          "31mar22", "30mar22", "24mar22", "23mar22", "22mar22", "21mar22", "20mar22", 
-          "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", 
-          "12mar22", "11mar22", "10mar22", "09mar22", "08mar22", "07mar22")
+fecha = c("7jun22", "6jun22", "5jun22", "4jun22", "3jun22", "2jun22", "1jun22", "31may22", "30may22",
+          "29may22", "28may22", "27may22", "26may22", "25may22", "24may22", "23may22", "22may22", "21may22", "20may22", 
+          "19may22", "18may22", "17may22", "16may22", "15may22", "14may22", "13may22", "12may22", "11may22", "10may22", 
+          "9may22", "8may22", "7may22", "6may22", "5may22", "4may22", "3may22", "2may22", "1may22", "30abr22", 
+          "29abr22", "28abr22", "27abr22", "26abr22", "25abr22", "24abr22", "23abr22", "22abr22", "21abr22", "20abr22", 
+          "19abr22", "18abr22", "17abr22", "16abr22", "15abr22", "14abr22", "13abr22", "12abr22", "11abr22", "10abr22", 
+          "9abr22", "8abr22", "7abr22", "6abr22", "5abr22", "4abr22", "3abr22", "2abr22", "1abr22", "31mar22", 
+          "30mar22", "29mar22", "28mar22", "27mar22", "26mar22", "25mar22", "24mar22", "23mar22", "22mar22", "21mar22", 
+          "20mar22", "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", "12mar22", "11mar22", 
+          "10mar22", "9mar22", "8mar22", "7mar22")
 
 # VARIABLE POBLACION PROVINCIAS POR CADA 100MIL HABITANTES
 pgu <- guayas22 %>%
@@ -482,12 +486,16 @@ dgu66 <- mean(c(ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn, ngu61$tn, ngu6
 # DATA FRAME GUAYAS
 dfgu <- data_frame(
   fecha,
-  dncgu = c(dgu158/pgu, dgu156/pgu, dgu155/pgu, dgu152/pgu, 
-            dgu140/pgu, dgu134/pgu, dgu128/pgu, dgu117/pgu, dgu109/pgu, dgu101/pgu, 
-            dgu97/pgu, dgu96/pgu, dgu95/pgu, dgu94/pgu, dgu93/pgu, dgu92/pgu, dgu91/pgu, 
-            dgu90/pgu, dgu89/pgu, dgu83/pgu, dgu82/pgu, dgu81/pgu, dgu80/pgu, dgu79/pgu, 
-            dgu78/pgu, dgu77/pgu, dgu76/pgu, dgu75/pgu, dgu74/pgu, dgu73/pgu, dgu72/pgu, 
-            dgu71/pgu, dgu70/pgu, dgu69/pgu, dgu68/pgu, dgu67/pgu, dgu66/pgu)
+  dncgu = c(dgu158/pgu, dgu157/pgu, dgu156/pgu, dgu155/pgu, dgu154/pgu, dgu153/pgu, dgu152/pgu, dgu151/pgu, dgu150/pgu,
+            dgu149/pgu, dgu148/pgu, dgu147/pgu, dgu146/pgu, dgu145/pgu, dgu144/pgu, dgu143/pgu, dgu142/pgu, dgu141/pgu, dgu140/pgu, 
+            dgu139/pgu, dgu138/pgu, dgu137/pgu, dgu136/pgu, dgu135/pgu, dgu134/pgu, dgu133/pgu, dgu132/pgu, dgu131/pgu, dgu130/pgu, 
+            dgu129/pgu, dgu128/pgu, dgu127/pgu, dgu126/pgu, dgu125/pgu, dgu124/pgu, dgu123/pgu, dgu122/pgu, dgu121/pgu, dgu120/pgu, 
+            dgu119/pgu, dgu118/pgu, dgu117/pgu, dgu116/pgu, dgu115/pgu, dgu114/pgu, dgu113/pgu, dgu112/pgu, dgu111/pgu, dgu110/pgu, 
+            dgu109/pgu, dgu108/pgu, dgu107/pgu, dgu106/pgu, dgu105/pgu, dgu104/pgu, dgu103/pgu, dgu102/pgu, dgu101/pgu, dgu100/pgu, 
+            dgu99/pgu, dgu98/pgu, dgu97/pgu, dgu96/pgu, dgu95/pgu, dgu94/pgu, dgu93/pgu, dgu92/pgu, dgu91/pgu, dgu90/pgu, 
+            dgu89/pgu, dgu88/pgu, dgu87/pgu, dgu86/pgu, dgu85/pgu, dgu84/pgu, dgu83/pgu, dgu82/pgu, dgu81/pgu, dgu80/pgu, 
+            dgu79/pgu, dgu78/pgu, dgu77/pgu, dgu76/pgu, dgu75/pgu, dgu74/pgu, dgu73/pgu, dgu72/pgu, dgu71/pgu, dgu70/pgu, 
+            dgu69/pgu, dgu68/pgu, dgu67/pgu, dgu66/pgu)
 )
 
 # ***** PICHINCHA *****
@@ -885,12 +893,16 @@ dpi66 <- mean(c(npi66$tn, npi65$tn, npi64$tn, npi63$tn, npi62$tn, npi61$tn, npi6
 
 dfpi <- data_frame(
   fecha,
-  dncpi = c(dpi158/ppi, dpi156/ppi, dpi155/ppi, dpi152/ppi, 
-            dpi140/ppi, dpi134/ppi, dpi128/ppi, dpi117/ppi, dpi109/ppi, dpi101/ppi, 
-            dpi97/ppi, dpi96/ppi, dpi95/ppi, dpi94/ppi, dpi93/ppi, dpi92/ppi, dpi91/ppi, 
-            dpi90/ppi, dpi89/ppi, dpi83/ppi, dpi82/ppi, dpi81/ppi, dpi80/ppi, dpi79/ppi, 
-            dpi78/ppi, dpi77/ppi, dpi76/ppi, dpi75/ppi, dpi74/ppi, dpi73/ppi, dpi72/ppi, 
-            dpi71/ppi, dpi70/ppi, dpi69/ppi, dpi68/ppi, dpi67/ppi, dpi66/ppi)
+  dncpi = c(dpi158/ppi, dpi157/ppi, dpi156/ppi, dpi155/ppi, dpi154/ppi, dpi153/ppi, dpi152/ppi, dpi151/ppi, dpi150/ppi,
+            dpi149/ppi, dpi148/ppi, dpi147/ppi, dpi146/ppi, dpi145/ppi, dpi144/ppi, dpi143/ppi, dpi142/ppi, dpi141/ppi, dpi140/ppi, 
+            dpi139/ppi, dpi138/ppi, dpi137/ppi, dpi136/ppi, dpi135/ppi, dpi134/ppi, dpi133/ppi, dpi132/ppi, dpi131/ppi, dpi130/ppi, 
+            dpi129/ppi, dpi128/ppi, dpi127/ppi, dpi126/ppi, dpi125/ppi, dpi124/ppi, dpi123/ppi, dpi122/ppi, dpi121/ppi, dpi120/ppi, 
+            dpi119/ppi, dpi118/ppi, dpi117/ppi, dpi116/ppi, dpi115/ppi, dpi114/ppi, dpi113/ppi, dpi112/ppi, dpi111/ppi, dpi110/ppi, 
+            dpi109/ppi, dpi108/ppi, dpi107/ppi, dpi106/ppi, dpi105/ppi, dpi104/ppi, dpi103/ppi, dpi102/ppi, dpi101/ppi, dpi100/ppi, 
+            dpi99/ppi, dpi98/ppi, dpi97/ppi, dpi96/ppi, dpi95/ppi, dpi94/ppi, dpi93/ppi, dpi92/ppi, dpi91/ppi, dpi90/ppi, 
+            dpi89/ppi, dpi88/ppi, dpi87/ppi, dpi86/ppi, dpi85/ppi, dpi84/ppi, dpi83/ppi, dpi82/ppi, dpi81/ppi, dpi80/ppi, 
+            dpi79/ppi, dpi78/ppi, dpi77/ppi, dpi76/ppi, dpi75/ppi, dpi74/ppi, dpi73/ppi, dpi72/ppi, dpi71/ppi, dpi70/ppi, 
+            dpi69/ppi, dpi68/ppi, dpi67/ppi, dpi66/ppi)
   )
 
 # ***** MANABI *****
@@ -1288,12 +1300,16 @@ dma66 <- mean(c(nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn, nma61$tn, nma6
 
 dfma <- data_frame(
   fecha,
-  dncma = c(dma158/pma, dma156/pma, dma155/pma, dma152/pma, 
-            dma140/pma, dma134/pma, dma128/pma, dma117/pma, dma109/pma, dma101/pma, 
-            dma97/pma, dma96/pma, dma95/pma, dma94/pma, dma93/pma, dma92/pma, dma91/pma, 
-            dma90/pma, dma89/pma, dma83/pma, dma82/pma, dma81/pma, dma80/pma, dma79/pma, 
-            dma78/pma, dma77/pma, dma76/pma, dma75/pma, dma74/pma, dma73/pma, dma72/pma, 
-            dma71/pma, dma70/pma, dma69/pma, dma68/pma, dma67/pma, dma66/pma)
+  dncma = c(dma158/pma, dma157/pma, dma156/pma, dma155/pma, dma154/pma, dma153/pma, dma152/pma, dma151/pma, dma150/pma,
+            dma149/pma, dma148/pma, dma147/pma, dma146/pma, dma145/pma, dma144/pma, dma143/pma, dma142/pma, dma141/pma, dma140/pma, 
+            dma139/pma, dma138/pma, dma137/pma, dma136/pma, dma135/pma, dma134/pma, dma133/pma, dma132/pma, dma131/pma, dma130/pma, 
+            dma129/pma, dma128/pma, dma127/pma, dma126/pma, dma125/pma, dma124/pma, dma123/pma, dma122/pma, dma121/pma, dma120/pma, 
+            dma119/pma, dma118/pma, dma117/pma, dma116/pma, dma115/pma, dma114/pma, dma113/pma, dma112/pma, dma111/pma, dma110/pma, 
+            dma109/pma, dma108/pma, dma107/pma, dma106/pma, dma105/pma, dma104/pma, dma103/pma, dma102/pma, dma101/pma, dma100/pma, 
+            dma99/pma, dma98/pma, dma97/pma, dma96/pma, dma95/pma, dma94/pma, dma93/pma, dma92/pma, dma91/pma, dma90/pma, 
+            dma89/pma, dma88/pma, dma87/pma, dma86/pma, dma85/pma, dma84/pma, dma83/pma, dma82/pma, dma81/pma, dma80/pma, 
+            dma79/pma, dma78/pma, dma77/pma, dma76/pma, dma75/pma, dma74/pma, dma73/pma, dma72/pma, dma71/pma, dma70/pma, 
+            dma69/pma, dma68/pma, dma67/pma, dma66/pma)
 )
 
 # ***** LOS RIOS *****
@@ -1691,12 +1707,16 @@ dlr66 <- mean(c(nlr66$tn, nlr65$tn, nlr64$tn, nlr63$tn, nlr62$tn, nlr61$tn, nlr6
 
 dflr <- data_frame(
   fecha,
-  dnclr = c(dlr158/plr, dlr156/plr, dlr155/plr, dlr152/plr, 
-            dlr140/plr, dlr134/plr, dlr128/plr, dlr117/plr, dlr109/plr, dlr101/plr, 
-            dlr97/plr, dlr96/plr, dlr95/plr, dlr94/plr, dlr93/plr, dlr92/plr, dlr91/plr, 
-            dlr90/plr, dlr89/plr, dlr83/plr, dlr82/plr, dlr81/plr, dlr80/plr, dlr79/plr, 
-            dlr78/plr, dlr77/plr, dlr76/plr, dlr75/plr, dlr74/plr, dlr73/plr, dlr72/plr, 
-            dlr71/plr, dlr70/plr, dlr69/plr, dlr68/plr, dlr67/plr, dlr66/plr)
+  dnclr = c(dlr158/plr, dlr157/plr, dlr156/plr, dlr155/plr, dlr154/plr, dlr153/plr, dlr152/plr, dlr151/plr, dlr150/plr,
+            dlr149/plr, dlr148/plr, dlr147/plr, dlr146/plr, dlr145/plr, dlr144/plr, dlr143/plr, dlr142/plr, dlr141/plr, dlr140/plr, 
+            dlr139/plr, dlr138/plr, dlr137/plr, dlr136/plr, dlr135/plr, dlr134/plr, dlr133/plr, dlr132/plr, dlr131/plr, dlr130/plr, 
+            dlr129/plr, dlr128/plr, dlr127/plr, dlr126/plr, dlr125/plr, dlr124/plr, dlr123/plr, dlr122/plr, dlr121/plr, dlr120/plr, 
+            dlr119/plr, dlr118/plr, dlr117/plr, dlr116/plr, dlr115/plr, dlr114/plr, dlr113/plr, dlr112/plr, dlr111/plr, dlr110/plr, 
+            dlr109/plr, dlr108/plr, dlr107/plr, dlr106/plr, dlr105/plr, dlr104/plr, dlr103/plr, dlr102/plr, dlr101/plr, dlr100/plr, 
+            dlr99/plr, dlr98/plr, dlr97/plr, dlr96/plr, dlr95/plr, dlr94/plr, dlr93/plr, dlr92/plr, dlr91/plr, dlr90/plr, 
+            dlr89/plr, dlr88/plr, dlr87/plr, dlr86/plr, dlr85/plr, dlr84/plr, dlr83/plr, dlr82/plr, dlr81/plr, dlr80/plr, 
+            dlr79/plr, dlr78/plr, dlr77/plr, dlr76/plr, dlr75/plr, dlr74/plr, dlr73/plr, dlr72/plr, dlr71/plr, dlr70/plr, 
+            dlr69/plr, dlr68/plr, dlr67/plr, dlr66/plr)
 )
 
 # ***** AZUAY *****
@@ -2094,12 +2114,16 @@ daz66 <- mean(c(naz66$tn, naz65$tn, naz64$tn, naz63$tn, naz62$tn, naz61$tn, naz6
 
 dfaz <- data_frame(
   fecha,
-  dncaz = c(daz158/paz, daz156/paz, daz155/paz, daz152/paz, 
-            daz140/paz, daz134/paz, daz128/paz, daz117/paz, daz109/paz, daz101/paz, 
-            daz97/paz, daz96/paz, daz95/paz, daz94/paz, daz93/paz, daz92/paz, daz91/paz, 
-            daz90/paz, daz89/paz, daz83/paz, daz82/paz, daz81/paz, daz80/paz, daz79/paz, 
-            daz78/paz, daz77/paz, daz76/paz, daz75/paz, daz74/paz, daz73/paz, daz72/paz, 
-            daz71/paz, daz70/paz, daz69/paz, daz68/paz, daz67/paz, daz66/paz)
+  dncaz = c(daz158/paz, daz157/paz, daz156/paz, daz155/paz, daz154/paz, daz153/paz, daz152/paz, daz151/paz, daz150/paz,
+            daz149/paz, daz148/paz, daz147/paz, daz146/paz, daz145/paz, daz144/paz, daz143/paz, daz142/paz, daz141/paz, daz140/paz, 
+            daz139/paz, daz138/paz, daz137/paz, daz136/paz, daz135/paz, daz134/paz, daz133/paz, daz132/paz, daz131/paz, daz130/paz, 
+            daz129/paz, daz128/paz, daz127/paz, daz126/paz, daz125/paz, daz124/paz, daz123/paz, daz122/paz, daz121/paz, daz120/paz, 
+            daz119/paz, daz118/paz, daz117/paz, daz116/paz, daz115/paz, daz114/paz, daz113/paz, daz112/paz, daz111/paz, daz110/paz, 
+            daz109/paz, daz108/paz, daz107/paz, daz106/paz, daz105/paz, daz104/paz, daz103/paz, daz102/paz, daz101/paz, daz100/paz, 
+            daz99/paz, daz98/paz, daz97/paz, daz96/paz, daz95/paz, daz94/paz, daz93/paz, daz92/paz, daz91/paz, daz90/paz, 
+            daz89/paz, daz88/paz, daz87/paz, daz86/paz, daz85/paz, daz84/paz, daz83/paz, daz82/paz, daz81/paz, daz80/paz, 
+            daz79/paz, daz78/paz, daz77/paz, daz76/paz, daz75/paz, daz74/paz, daz73/paz, daz72/paz, daz71/paz, daz70/paz, 
+            daz69/paz, daz68/paz, daz67/paz, daz66/paz)
 )
 
 # ***** EL ORO *****
@@ -2497,12 +2521,16 @@ del66 <- mean(c(nel66$tn, nel65$tn, nel64$tn, nel63$tn, nel62$tn, nel61$tn, nel6
 
 dfel <- data_frame(
   fecha,
-  dncel = c(del158/pel, del156/pel, del155/pel, del152/pel, 
-            del140/pel, del134/pel, del128/pel, del117/pel, del109/pel, del101/pel, 
-            del97/pel, del96/pel, del95/pel, del94/pel, del93/pel, del92/pel, del91/pel, 
-            del90/pel, del89/pel, del83/pel, del82/pel, del81/pel, del80/pel, del79/pel, 
-            del78/pel, del77/pel, del76/pel, del75/pel, del74/pel, del73/pel, del72/pel, 
-            del71/pel, del70/pel, del69/pel, del68/pel, del67/pel, del66/pel)
+  dncel = c(del158/pel, del157/pel, del156/pel, del155/pel, del154/pel, del153/pel, del152/pel, del151/pel, del150/pel,
+            del149/pel, del148/pel, del147/pel, del146/pel, del145/pel, del144/pel, del143/pel, del142/pel, del141/pel, del140/pel, 
+            del139/pel, del138/pel, del137/pel, del136/pel, del135/pel, del134/pel, del133/pel, del132/pel, del131/pel, del130/pel, 
+            del129/pel, del128/pel, del127/pel, del126/pel, del125/pel, del124/pel, del123/pel, del122/pel, del121/pel, del120/pel, 
+            del119/pel, del118/pel, del117/pel, del116/pel, del115/pel, del114/pel, del113/pel, del112/pel, del111/pel, del110/pel, 
+            del109/pel, del108/pel, del107/pel, del106/pel, del105/pel, del104/pel, del103/pel, del102/pel, del101/pel, del100/pel, 
+            del99/pel, del98/pel, del97/pel, del96/pel, del95/pel, del94/pel, del93/pel, del92/pel, del91/pel, del90/pel, 
+            del89/pel, del88/pel, del87/pel, del86/pel, del85/pel, del84/pel, del83/pel, del82/pel, del81/pel, del80/pel, 
+            del79/pel, del78/pel, del77/pel, del76/pel, del75/pel, del74/pel, del73/pel, del72/pel, del71/pel, del70/pel, 
+            del69/pel, del68/pel, del67/pel, del66/pel)
 )
 
 # ***** ESMERALDAS *****
@@ -2900,12 +2928,16 @@ des66 <- mean(c(nes66$tn, nes65$tn, nes64$tn, nes63$tn, nes62$tn, nes61$tn, nes6
 
 dfes <- data_frame(
   fecha,
-  dnces = c(des158/pes, des156/pes, des155/pes, des152/pes, 
-            des140/pes, des134/pes, des128/pes, des117/pes, des109/pes, des101/pes, 
-            des97/pes, des96/pes, des95/pes, des94/pes, des93/pes, des92/pes, des91/pes, 
-            des90/pes, des89/pes, des83/pes, des82/pes, des81/pes, des80/pes, des79/pes, 
-            des78/pes, des77/pes, des76/pes, des75/pes, des74/pes, des73/pes, des72/pes, 
-            des71/pes, des70/pes, des69/pes, des68/pes, des67/pes, des66/pes)
+  dnces = c(des158/pes, des157/pes, des156/pes, des155/pes, des154/pes, des153/pes, des152/pes, des151/pes, des150/pes,
+            des149/pes, des148/pes, des147/pes, des146/pes, des145/pes, des144/pes, des143/pes, des142/pes, des141/pes, des140/pes, 
+            des139/pes, des138/pes, des137/pes, des136/pes, des135/pes, des134/pes, des133/pes, des132/pes, des131/pes, des130/pes, 
+            des129/pes, des128/pes, des127/pes, des126/pes, des125/pes, des124/pes, des123/pes, des122/pes, des121/pes, des120/pes, 
+            des119/pes, des118/pes, des117/pes, des116/pes, des115/pes, des114/pes, des113/pes, des112/pes, des111/pes, des110/pes, 
+            des109/pes, des108/pes, des107/pes, des106/pes, des105/pes, des104/pes, des103/pes, des102/pes, des101/pes, des100/pes, 
+            des99/pes, des98/pes, des97/pes, des96/pes, des95/pes, des94/pes, des93/pes, des92/pes, des91/pes, des90/pes, 
+            des89/pes, des88/pes, des87/pes, des86/pes, des85/pes, des84/pes, des83/pes, des82/pes, des81/pes, des80/pes, 
+            des79/pes, des78/pes, des77/pes, des76/pes, des75/pes, des74/pes, des73/pes, des72/pes, des71/pes, des70/pes, 
+            des69/pes, des68/pes, des67/pes, des66/pes)
 )
 
 # ***** TUNGURAHUA *****
@@ -3303,12 +3335,16 @@ dtu66 <- mean(c(ntu66$tn, ntu65$tn, ntu64$tn, ntu63$tn, ntu62$tn, ntu61$tn, ntu6
 
 dftu <- data_frame(
   fecha,
-  dnctu = c(dtu158/ptu, dtu156/ptu, dtu155/ptu, dtu152/ptu, 
-            dtu140/ptu, dtu134/ptu, dtu128/ptu, dtu117/ptu, dtu109/ptu, dtu101/ptu, 
-            dtu97/ptu, dtu96/ptu, dtu95/ptu, dtu94/ptu, dtu93/ptu, dtu92/ptu, dtu91/ptu, 
-            dtu90/ptu, dtu89/ptu, dtu83/ptu, dtu82/ptu, dtu81/ptu, dtu80/ptu, dtu79/ptu, 
-            dtu78/ptu, dtu77/ptu, dtu76/ptu, dtu75/ptu, dtu74/ptu, dtu73/ptu, dtu72/ptu, 
-            dtu71/ptu, dtu70/ptu, dtu69/ptu, dtu68/ptu, dtu67/ptu, dtu66/ptu)
+  dnctu = c(dtu158/ptu, dtu157/ptu, dtu156/ptu, dtu155/ptu, dtu154/ptu, dtu153/ptu, dtu152/ptu, dtu151/ptu, dtu150/ptu,
+            dtu149/ptu, dtu148/ptu, dtu147/ptu, dtu146/ptu, dtu145/ptu, dtu144/ptu, dtu143/ptu, dtu142/ptu, dtu141/ptu, dtu140/ptu, 
+            dtu139/ptu, dtu138/ptu, dtu137/ptu, dtu136/ptu, dtu135/ptu, dtu134/ptu, dtu133/ptu, dtu132/ptu, dtu131/ptu, dtu130/ptu, 
+            dtu129/ptu, dtu128/ptu, dtu127/ptu, dtu126/ptu, dtu125/ptu, dtu124/ptu, dtu123/ptu, dtu122/ptu, dtu121/ptu, dtu120/ptu, 
+            dtu119/ptu, dtu118/ptu, dtu117/ptu, dtu116/ptu, dtu115/ptu, dtu114/ptu, dtu113/ptu, dtu112/ptu, dtu111/ptu, dtu110/ptu, 
+            dtu109/ptu, dtu108/ptu, dtu107/ptu, dtu106/ptu, dtu105/ptu, dtu104/ptu, dtu103/ptu, dtu102/ptu, dtu101/ptu, dtu100/ptu, 
+            dtu99/ptu, dtu98/ptu, dtu97/ptu, dtu96/ptu, dtu95/ptu, dtu94/ptu, dtu93/ptu, dtu92/ptu, dtu91/ptu, dtu90/ptu, 
+            dtu89/ptu, dtu88/ptu, dtu87/ptu, dtu86/ptu, dtu85/ptu, dtu84/ptu, dtu83/ptu, dtu82/ptu, dtu81/ptu, dtu80/ptu, 
+            dtu79/ptu, dtu78/ptu, dtu77/ptu, dtu76/ptu, dtu75/ptu, dtu74/ptu, dtu73/ptu, dtu72/ptu, dtu71/ptu, dtu70/ptu, 
+            dtu69/ptu, dtu68/ptu, dtu67/ptu, dtu66/ptu)
 )
 
 # ***** CHIMBORAZO *****
@@ -3706,12 +3742,16 @@ dch66 <- mean(c(nch66$tn, nch65$tn, nch64$tn, nch63$tn, nch62$tn, nch61$tn, nch6
 
 dfch <- data_frame(
   fecha,
-  dncch = c(dch158/pch, dch156/pch, dch155/pch, dch152/pch, 
-            dch140/pch, dch134/pch, dch128/pch, dch117/pch, dch109/pch, dch101/pch, 
-            dch97/pch, dch96/pch, dch95/pch, dch94/pch, dch93/pch, dch92/pch, dch91/pch, 
-            dch90/pch, dch89/pch, dch83/pch, dch82/pch, dch81/pch, dch80/pch, dch79/pch, 
-            dch78/pch, dch77/pch, dch76/pch, dch75/pch, dch74/pch, dch73/pch, dch72/pch, 
-            dch71/pch, dch70/pch, dch69/pch, dch68/pch, dch67/pch, dch66/pch)
+  dncch = c(dch158/pch, dch157/pch, dch156/pch, dch155/pch, dch154/pch, dch153/pch, dch152/pch, dch151/pch, dch150/pch,
+            dch149/pch, dch148/pch, dch147/pch, dch146/pch, dch145/pch, dch144/pch, dch143/pch, dch142/pch, dch141/pch, dch140/pch, 
+            dch139/pch, dch138/pch, dch137/pch, dch136/pch, dch135/pch, dch134/pch, dch133/pch, dch132/pch, dch131/pch, dch130/pch, 
+            dch129/pch, dch128/pch, dch127/pch, dch126/pch, dch125/pch, dch124/pch, dch123/pch, dch122/pch, dch121/pch, dch120/pch, 
+            dch119/pch, dch118/pch, dch117/pch, dch116/pch, dch115/pch, dch114/pch, dch113/pch, dch112/pch, dch111/pch, dch110/pch, 
+            dch109/pch, dch108/pch, dch107/pch, dch106/pch, dch105/pch, dch104/pch, dch103/pch, dch102/pch, dch101/pch, dch100/pch, 
+            dch99/pch, dch98/pch, dch97/pch, dch96/pch, dch95/pch, dch94/pch, dch93/pch, dch92/pch, dch91/pch, dch90/pch, 
+            dch89/pch, dch88/pch, dch87/pch, dch86/pch, dch85/pch, dch84/pch, dch83/pch, dch82/pch, dch81/pch, dch80/pch, 
+            dch79/pch, dch78/pch, dch77/pch, dch76/pch, dch75/pch, dch74/pch, dch73/pch, dch72/pch, dch71/pch, dch70/pch, 
+            dch69/pch, dch68/pch, dch67/pch, dch66/pch)
 )
 
 # ***** LOJA *****
@@ -4109,12 +4149,16 @@ dlo66 <- mean(c(nlo66$tn, nlo65$tn, nlo64$tn, nlo63$tn, nlo62$tn, nlo61$tn, nlo6
 
 dflo <- data_frame(
   fecha,
-  dnclo = c(dlo158/plo, dlo156/plo, dlo155/plo, dlo152/plo, 
-            dlo140/plo, dlo134/plo, dlo128/plo, dlo117/plo, dlo109/plo, dlo101/plo, 
-            dlo97/plo, dlo96/plo, dlo95/plo, dlo94/plo, dlo93/plo, dlo92/plo, dlo91/plo, 
-            dlo90/plo, dlo89/plo, dlo83/plo, dlo82/plo, dlo81/plo, dlo80/plo, dlo79/plo, 
-            dlo78/plo, dlo77/plo, dlo76/plo, dlo75/plo, dlo74/plo, dlo73/plo, dlo72/plo, 
-            dlo71/plo, dlo70/plo, dlo69/plo, dlo68/plo, dlo67/plo, dlo66/plo)
+  dnclo = c(dlo158/plo, dlo157/plo, dlo156/plo, dlo155/plo, dlo154/plo, dlo153/plo, dlo152/plo, dlo151/plo, dlo150/plo,
+            dlo149/plo, dlo148/plo, dlo147/plo, dlo146/plo, dlo145/plo, dlo144/plo, dlo143/plo, dlo142/plo, dlo141/plo, dlo140/plo, 
+            dlo139/plo, dlo138/plo, dlo137/plo, dlo136/plo, dlo135/plo, dlo134/plo, dlo133/plo, dlo132/plo, dlo131/plo, dlo130/plo, 
+            dlo129/plo, dlo128/plo, dlo127/plo, dlo126/plo, dlo125/plo, dlo124/plo, dlo123/plo, dlo122/plo, dlo121/plo, dlo120/plo, 
+            dlo119/plo, dlo118/plo, dlo117/plo, dlo116/plo, dlo115/plo, dlo114/plo, dlo113/plo, dlo112/plo, dlo111/plo, dlo110/plo, 
+            dlo109/plo, dlo108/plo, dlo107/plo, dlo106/plo, dlo105/plo, dlo104/plo, dlo103/plo, dlo102/plo, dlo101/plo, dlo100/plo, 
+            dlo99/plo, dlo98/plo, dlo97/plo, dlo96/plo, dlo95/plo, dlo94/plo, dlo93/plo, dlo92/plo, dlo91/plo, dlo90/plo, 
+            dlo89/plo, dlo88/plo, dlo87/plo, dlo86/plo, dlo85/plo, dlo84/plo, dlo83/plo, dlo82/plo, dlo81/plo, dlo80/plo, 
+            dlo79/plo, dlo78/plo, dlo77/plo, dlo76/plo, dlo75/plo, dlo74/plo, dlo73/plo, dlo72/plo, dlo71/plo, dlo70/plo, 
+            dlo69/plo, dlo68/plo, dlo67/plo, dlo66/plo)
 )
 
 # ***** GALAPAGOS *****
@@ -4512,12 +4556,16 @@ dga66 <- mean(c(nga66$tn, nga65$tn, nga64$tn, nga63$tn, nga62$tn, nga61$tn, nga6
 
 dfga <- data_frame(
   fecha,
-  dncga = c(dga158/pga, dga156/pga, dga155/pga, dga152/pga, 
-            dga140/pga, dga134/pga, dga128/pga, dga117/pga, dga109/pga, dga101/pga, 
-            dga97/pga, dga96/pga, dga95/pga, dga94/pga, dga93/pga, dga92/pga, dga91/pga, 
-            dga90/pga, dga89/pga, dga83/pga, dga82/pga, dga81/pga, dga80/pga, dga79/pga, 
-            dga78/pga, dga77/pga, dga76/pga, dga75/pga, dga74/pga, dga73/pga, dga72/pga, 
-            dga71/pga, dga70/pga, dga69/pga, dga68/pga, dga67/pga, dga66/pga)
+  dncga = c(dga158/pga, dga157/pga, dga156/pga, dga155/pga, dga154/pga, dga153/pga, dga152/pga, dga151/pga, dga150/pga,
+            dga149/pga, dga148/pga, dga147/pga, dga146/pga, dga145/pga, dga144/pga, dga143/pga, dga142/pga, dga141/pga, dga140/pga, 
+            dga139/pga, dga138/pga, dga137/pga, dga136/pga, dga135/pga, dga134/pga, dga133/pga, dga132/pga, dga131/pga, dga130/pga, 
+            dga129/pga, dga128/pga, dga127/pga, dga126/pga, dga125/pga, dga124/pga, dga123/pga, dga122/pga, dga121/pga, dga120/pga, 
+            dga119/pga, dga118/pga, dga117/pga, dga116/pga, dga115/pga, dga114/pga, dga113/pga, dga112/pga, dga111/pga, dga110/pga, 
+            dga109/pga, dga108/pga, dga107/pga, dga106/pga, dga105/pga, dga104/pga, dga103/pga, dga102/pga, dga101/pga, dga100/pga, 
+            dga99/pga, dga98/pga, dga97/pga, dga96/pga, dga95/pga, dga94/pga, dga93/pga, dga92/pga, dga91/pga, dga90/pga, 
+            dga89/pga, dga88/pga, dga87/pga, dga86/pga, dga85/pga, dga84/pga, dga83/pga, dga82/pga, dga81/pga, dga80/pga, 
+            dga79/pga, dga78/pga, dga77/pga, dga76/pga, dga75/pga, dga74/pga, dga73/pga, dga72/pga, dga71/pga, dga70/pga, 
+            dga69/pga, dga68/pga, dga67/pga, dga66/pga)
 )
 
 # ***** ZAMORA *****
@@ -4915,12 +4963,16 @@ dza66 <- mean(c(nza66$tn, nza65$tn, nza64$tn, nza63$tn, nza62$tn, nza61$tn, nza6
 
 dfza <- data_frame(
   fecha,
-  dncza = c(dza158/pza, dza156/pza, dza155/pza, dza152/pza, 
-            dza140/pza, dza134/pza, dza128/pza, dza117/pza, dza109/pza, dza101/pza, 
-            dza97/pza, dza96/pza, dza95/pza, dza94/pza, dza93/pza, dza92/pza, dza91/pza, 
-            dza90/pza, dza89/pza, dza83/pza, dza82/pza, dza81/pza, dza80/pza, dza79/pza, 
-            dza78/pza, dza77/pza, dza76/pza, dza75/pza, dza74/pza, dza73/pza, dza72/pza, 
-            dza71/pza, dza70/pza, dza69/pza, dza68/pza, dza67/pza, dza66/pza)
+  dncza = c(dza158/pza, dza157/pza, dza156/pza, dza155/pza, dza154/pza, dza153/pza, dza152/pza, dza151/pza, dza150/pza,
+            dza149/pza, dza148/pza, dza147/pza, dza146/pza, dza145/pza, dza144/pza, dza143/pza, dza142/pza, dza141/pza, dza140/pza, 
+            dza139/pza, dza138/pza, dza137/pza, dza136/pza, dza135/pza, dza134/pza, dza133/pza, dza132/pza, dza131/pza, dza130/pza, 
+            dza129/pza, dza128/pza, dza127/pza, dza126/pza, dza125/pza, dza124/pza, dza123/pza, dza122/pza, dza121/pza, dza120/pza, 
+            dza119/pza, dza118/pza, dza117/pza, dza116/pza, dza115/pza, dza114/pza, dza113/pza, dza112/pza, dza111/pza, dza110/pza, 
+            dza109/pza, dza108/pza, dza107/pza, dza106/pza, dza105/pza, dza104/pza, dza103/pza, dza102/pza, dza101/pza, dza100/pza, 
+            dza99/pza, dza98/pza, dza97/pza, dza96/pza, dza95/pza, dza94/pza, dza93/pza, dza92/pza, dza91/pza, dza90/pza, 
+            dza89/pza, dza88/pza, dza87/pza, dza86/pza, dza85/pza, dza84/pza, dza83/pza, dza82/pza, dza81/pza, dza80/pza, 
+            dza79/pza, dza78/pza, dza77/pza, dza76/pza, dza75/pza, dza74/pza, dza73/pza, dza72/pza, dza71/pza, dza70/pza, 
+            dza69/pza, dza68/pza, dza67/pza, dza66/pza)
 )
 
 # ***** SUCUMBIOS *****
@@ -5318,12 +5370,16 @@ dsu66 <- mean(c(nsu66$tn, nsu65$tn, nsu64$tn, nsu63$tn, nsu62$tn, nsu61$tn, nsu6
 
 dfsu <- data_frame(
   fecha,
-  dncsu = c(dsu158/psu, dsu156/psu, dsu155/psu, dsu152/psu, 
-            dsu140/psu, dsu134/psu, dsu128/psu, dsu117/psu, dsu109/psu, dsu101/psu, 
-            dsu97/psu, dsu96/psu, dsu95/psu, dsu94/psu, dsu93/psu, dsu92/psu, dsu91/psu, 
-            dsu90/psu, dsu89/psu, dsu83/psu, dsu82/psu, dsu81/psu, dsu80/psu, dsu79/psu, 
-            dsu78/psu, dsu77/psu, dsu76/psu, dsu75/psu, dsu74/psu, dsu73/psu, dsu72/psu, 
-            dsu71/psu, dsu70/psu, dsu69/psu, dsu68/psu, dsu67/psu, dsu66/psu)
+  dncsu = c(dsu158/psu, dsu157/psu, dsu156/psu, dsu155/psu, dsu154/psu, dsu153/psu, dsu152/psu, dsu151/psu, dsu150/psu,
+            dsu149/psu, dsu148/psu, dsu147/psu, dsu146/psu, dsu145/psu, dsu144/psu, dsu143/psu, dsu142/psu, dsu141/psu, dsu140/psu, 
+            dsu139/psu, dsu138/psu, dsu137/psu, dsu136/psu, dsu135/psu, dsu134/psu, dsu133/psu, dsu132/psu, dsu131/psu, dsu130/psu, 
+            dsu129/psu, dsu128/psu, dsu127/psu, dsu126/psu, dsu125/psu, dsu124/psu, dsu123/psu, dsu122/psu, dsu121/psu, dsu120/psu, 
+            dsu119/psu, dsu118/psu, dsu117/psu, dsu116/psu, dsu115/psu, dsu114/psu, dsu113/psu, dsu112/psu, dsu111/psu, dsu110/psu, 
+            dsu109/psu, dsu108/psu, dsu107/psu, dsu106/psu, dsu105/psu, dsu104/psu, dsu103/psu, dsu102/psu, dsu101/psu, dsu100/psu, 
+            dsu99/psu, dsu98/psu, dsu97/psu, dsu96/psu, dsu95/psu, dsu94/psu, dsu93/psu, dsu92/psu, dsu91/psu, dsu90/psu, 
+            dsu89/psu, dsu88/psu, dsu87/psu, dsu86/psu, dsu85/psu, dsu84/psu, dsu83/psu, dsu82/psu, dsu81/psu, dsu80/psu, 
+            dsu79/psu, dsu78/psu, dsu77/psu, dsu76/psu, dsu75/psu, dsu74/psu, dsu73/psu, dsu72/psu, dsu71/psu, dsu70/psu, 
+            dsu69/psu, dsu68/psu, dsu67/psu, dsu66/psu)
 )
 
 # ***** PASTAZA *****
@@ -5721,12 +5777,16 @@ dpa66 <- mean(c(npa66$tn, npa65$tn, npa64$tn, npa63$tn, npa62$tn, npa61$tn, npa6
 
 dfpa <- data_frame(
   fecha,
-  dncpa = c(dpa158/ppa, dpa156/ppa, dpa155/ppa, dpa152/ppa, 
-            dpa140/ppa, dpa134/ppa, dpa128/ppa, dpa117/ppa, dpa109/ppa, dpa101/ppa, 
-            dpa97/ppa, dpa96/ppa, dpa95/ppa, dpa94/ppa, dpa93/ppa, dpa92/ppa, dpa91/ppa, 
-            dpa90/ppa, dpa89/ppa, dpa83/ppa, dpa82/ppa, dpa81/ppa, dpa80/ppa, dpa79/ppa, 
-            dpa78/ppa, dpa77/ppa, dpa76/ppa, dpa75/ppa, dpa74/ppa, dpa73/ppa, dpa72/ppa, 
-            dpa71/ppa, dpa70/ppa, dpa69/ppa, dpa68/ppa, dpa67/ppa, dpa66/ppa)
+  dncpa = c(dpa158/ppa, dpa157/ppa, dpa156/ppa, dpa155/ppa, dpa154/ppa, dpa153/ppa, dpa152/ppa, dpa151/ppa, dpa150/ppa,
+            dpa149/ppa, dpa148/ppa, dpa147/ppa, dpa146/ppa, dpa145/ppa, dpa144/ppa, dpa143/ppa, dpa142/ppa, dpa141/ppa, dpa140/ppa, 
+            dpa139/ppa, dpa138/ppa, dpa137/ppa, dpa136/ppa, dpa135/ppa, dpa134/ppa, dpa133/ppa, dpa132/ppa, dpa131/ppa, dpa130/ppa, 
+            dpa129/ppa, dpa128/ppa, dpa127/ppa, dpa126/ppa, dpa125/ppa, dpa124/ppa, dpa123/ppa, dpa122/ppa, dpa121/ppa, dpa120/ppa, 
+            dpa119/ppa, dpa118/ppa, dpa117/ppa, dpa116/ppa, dpa115/ppa, dpa114/ppa, dpa113/ppa, dpa112/ppa, dpa111/ppa, dpa110/ppa, 
+            dpa109/ppa, dpa108/ppa, dpa107/ppa, dpa106/ppa, dpa105/ppa, dpa104/ppa, dpa103/ppa, dpa102/ppa, dpa101/ppa, dpa100/ppa, 
+            dpa99/ppa, dpa98/ppa, dpa97/ppa, dpa96/ppa, dpa95/ppa, dpa94/ppa, dpa93/ppa, dpa92/ppa, dpa91/ppa, dpa90/ppa, 
+            dpa89/ppa, dpa88/ppa, dpa87/ppa, dpa86/ppa, dpa85/ppa, dpa84/ppa, dpa83/ppa, dpa82/ppa, dpa81/ppa, dpa80/ppa, 
+            dpa79/ppa, dpa78/ppa, dpa77/ppa, dpa76/ppa, dpa75/ppa, dpa74/ppa, dpa73/ppa, dpa72/ppa, dpa71/ppa, dpa70/ppa, 
+            dpa69/ppa, dpa68/ppa, dpa67/ppa, dpa66/ppa)
 )
 
 # ***** ORELLANA *****
@@ -6124,12 +6184,16 @@ dor66 <- mean(c(nor66$tn, nor65$tn, nor64$tn, nor63$tn, nor62$tn, nor61$tn, nor6
 
 dfor <- data_frame(
   fecha,
-  dncor = c(dor158/por, dor156/por, dor155/por, dor152/por, 
-            dor140/por, dor134/por, dor128/por, dor117/por, dor109/por, dor101/por, 
-            dor97/por, dor96/por, dor95/por, dor94/por, dor93/por, dor92/por, dor91/por, 
-            dor90/por, dor89/por, dor83/por, dor82/por, dor81/por, dor80/por, dor79/por, 
-            dor78/por, dor77/por, dor76/por, dor75/por, dor74/por, dor73/por, dor72/por, 
-            dor71/por, dor70/por, dor69/por, dor68/por, dor67/por, dor66/por)
+  dncor = c(dor158/por, dor157/por, dor156/por, dor155/por, dor154/por, dor153/por, dor152/por, dor151/por, dor150/por,
+            dor149/por, dor148/por, dor147/por, dor146/por, dor145/por, dor144/por, dor143/por, dor142/por, dor141/por, dor140/por, 
+            dor139/por, dor138/por, dor137/por, dor136/por, dor135/por, dor134/por, dor133/por, dor132/por, dor131/por, dor130/por, 
+            dor129/por, dor128/por, dor127/por, dor126/por, dor125/por, dor124/por, dor123/por, dor122/por, dor121/por, dor120/por, 
+            dor119/por, dor118/por, dor117/por, dor116/por, dor115/por, dor114/por, dor113/por, dor112/por, dor111/por, dor110/por, 
+            dor109/por, dor108/por, dor107/por, dor106/por, dor105/por, dor104/por, dor103/por, dor102/por, dor101/por, dor100/por, 
+            dor99/por, dor98/por, dor97/por, dor96/por, dor95/por, dor94/por, dor93/por, dor92/por, dor91/por, dor90/por, 
+            dor89/por, dor88/por, dor87/por, dor86/por, dor85/por, dor84/por, dor83/por, dor82/por, dor81/por, dor80/por, 
+            dor79/por, dor78/por, dor77/por, dor76/por, dor75/por, dor74/por, dor73/por, dor72/por, dor71/por, dor70/por, 
+            dor69/por, dor68/por, dor67/por, dor66/por)
 )
 
 # ***** NAPO *****
@@ -6527,12 +6591,16 @@ dna66 <- mean(c(nna66$tn, nna65$tn, nna64$tn, nna63$tn, nna62$tn, nna61$tn, nna6
 
 dfna <- data_frame(
   fecha,
-  dncna = c(dna158/pna, dna156/pna, dna155/pna, dna152/pna, 
-            dna140/pna, dna134/pna, dna128/pna, dna117/pna, dna109/pna, dna101/pna, 
-            dna97/pna, dna96/pna, dna95/pna, dna94/pna, dna93/pna, dna92/pna, dna91/pna, 
-            dna90/pna, dna89/pna, dna83/pna, dna82/pna, dna81/pna, dna80/pna, dna79/pna, 
-            dna78/pna, dna77/pna, dna76/pna, dna75/pna, dna74/pna, dna73/pna, dna72/pna, 
-            dna71/pna, dna70/pna, dna69/pna, dna68/pna, dna67/pna, dna66/pna)
+  dncna = c(dna158/pna, dna157/pna, dna156/pna, dna155/pna, dna154/pna, dna153/pna, dna152/pna, dna151/pna, dna150/pna,
+            dna149/pna, dna148/pna, dna147/pna, dna146/pna, dna145/pna, dna144/pna, dna143/pna, dna142/pna, dna141/pna, dna140/pna, 
+            dna139/pna, dna138/pna, dna137/pna, dna136/pna, dna135/pna, dna134/pna, dna133/pna, dna132/pna, dna131/pna, dna130/pna, 
+            dna129/pna, dna128/pna, dna127/pna, dna126/pna, dna125/pna, dna124/pna, dna123/pna, dna122/pna, dna121/pna, dna120/pna, 
+            dna119/pna, dna118/pna, dna117/pna, dna116/pna, dna115/pna, dna114/pna, dna113/pna, dna112/pna, dna111/pna, dna110/pna, 
+            dna109/pna, dna108/pna, dna107/pna, dna106/pna, dna105/pna, dna104/pna, dna103/pna, dna102/pna, dna101/pna, dna100/pna, 
+            dna99/pna, dna98/pna, dna97/pna, dna96/pna, dna95/pna, dna94/pna, dna93/pna, dna92/pna, dna91/pna, dna90/pna, 
+            dna89/pna, dna88/pna, dna87/pna, dna86/pna, dna85/pna, dna84/pna, dna83/pna, dna82/pna, dna81/pna, dna80/pna, 
+            dna79/pna, dna78/pna, dna77/pna, dna76/pna, dna75/pna, dna74/pna, dna73/pna, dna72/pna, dna71/pna, dna70/pna, 
+            dna69/pna, dna68/pna, dna67/pna, dna66/pna)
 )
 
 # ***** MORONA *****
@@ -6930,12 +6998,16 @@ dmo66 <- mean(c(nmo66$tn, nmo65$tn, nmo64$tn, nmo63$tn, nmo62$tn, nmo61$tn, nmo6
 
 dfmo <- data_frame(
   fecha,
-  dncmo = c(dmo158/pmo, dmo156/pmo, dmo155/pmo, dmo152/pmo, 
-            dmo140/pmo, dmo134/pmo, dmo128/pmo, dmo117/pmo, dmo109/pmo, dmo101/pmo, 
-            dmo97/pmo, dmo96/pmo, dmo95/pmo, dmo94/pmo, dmo93/pmo, dmo92/pmo, dmo91/pmo, 
-            dmo90/pmo, dmo89/pmo, dmo83/pmo, dmo82/pmo, dmo81/pmo, dmo80/pmo, dmo79/pmo, 
-            dmo78/pmo, dmo77/pmo, dmo76/pmo, dmo75/pmo, dmo74/pmo, dmo73/pmo, dmo72/pmo, 
-            dmo71/pmo, dmo70/pmo, dmo69/pmo, dmo68/pmo, dmo67/pmo, dmo66/pmo)
+  dncmo = c(dmo158/pmo, dmo157/pmo, dmo156/pmo, dmo155/pmo, dmo154/pmo, dmo153/pmo, dmo152/pmo, dmo151/pmo, dmo150/pmo,
+            dmo149/pmo, dmo148/pmo, dmo147/pmo, dmo146/pmo, dmo145/pmo, dmo144/pmo, dmo143/pmo, dmo142/pmo, dmo141/pmo, dmo140/pmo, 
+            dmo139/pmo, dmo138/pmo, dmo137/pmo, dmo136/pmo, dmo135/pmo, dmo134/pmo, dmo133/pmo, dmo132/pmo, dmo131/pmo, dmo130/pmo, 
+            dmo129/pmo, dmo128/pmo, dmo127/pmo, dmo126/pmo, dmo125/pmo, dmo124/pmo, dmo123/pmo, dmo122/pmo, dmo121/pmo, dmo120/pmo, 
+            dmo119/pmo, dmo118/pmo, dmo117/pmo, dmo116/pmo, dmo115/pmo, dmo114/pmo, dmo113/pmo, dmo112/pmo, dmo111/pmo, dmo110/pmo, 
+            dmo109/pmo, dmo108/pmo, dmo107/pmo, dmo106/pmo, dmo105/pmo, dmo104/pmo, dmo103/pmo, dmo102/pmo, dmo101/pmo, dmo100/pmo, 
+            dmo99/pmo, dmo98/pmo, dmo97/pmo, dmo96/pmo, dmo95/pmo, dmo94/pmo, dmo93/pmo, dmo92/pmo, dmo91/pmo, dmo90/pmo, 
+            dmo89/pmo, dmo88/pmo, dmo87/pmo, dmo86/pmo, dmo85/pmo, dmo84/pmo, dmo83/pmo, dmo82/pmo, dmo81/pmo, dmo80/pmo, 
+            dmo79/pmo, dmo78/pmo, dmo77/pmo, dmo76/pmo, dmo75/pmo, dmo74/pmo, dmo73/pmo, dmo72/pmo, dmo71/pmo, dmo70/pmo, 
+            dmo69/pmo, dmo68/pmo, dmo67/pmo, dmo66/pmo)
 )
 
 # ***** IMBABURA *****
@@ -7333,12 +7405,16 @@ dim66 <- mean(c(nim66$tn, nim65$tn, nim64$tn, nim63$tn, nim62$tn, nim61$tn, nim6
 
 dfim <- data_frame(
   fecha,
-  dncim = c(dim158/pim, dim156/pim, dim155/pim, dim152/pim, 
-            dim140/pim, dim134/pim, dim128/pim, dim117/pim, dim109/pim, dim101/pim, 
-            dim97/pim, dim96/pim, dim95/pim, dim94/pim, dim93/pim, dim92/pim, dim91/pim, 
-            dim90/pim, dim89/pim, dim83/pim, dim82/pim, dim81/pim, dim80/pim, dim79/pim, 
-            dim78/pim, dim77/pim, dim76/pim, dim75/pim, dim74/pim, dim73/pim, dim72/pim, 
-            dim71/pim, dim70/pim, dim69/pim, dim68/pim, dim67/pim, dim66/pim)
+  dncim = c(dim158/pim, dim157/pim, dim156/pim, dim155/pim, dim154/pim, dim153/pim, dim152/pim, dim151/pim, dim150/pim,
+            dim149/pim, dim148/pim, dim147/pim, dim146/pim, dim145/pim, dim144/pim, dim143/pim, dim142/pim, dim141/pim, dim140/pim, 
+            dim139/pim, dim138/pim, dim137/pim, dim136/pim, dim135/pim, dim134/pim, dim133/pim, dim132/pim, dim131/pim, dim130/pim, 
+            dim129/pim, dim128/pim, dim127/pim, dim126/pim, dim125/pim, dim124/pim, dim123/pim, dim122/pim, dim121/pim, dim120/pim, 
+            dim119/pim, dim118/pim, dim117/pim, dim116/pim, dim115/pim, dim114/pim, dim113/pim, dim112/pim, dim111/pim, dim110/pim, 
+            dim109/pim, dim108/pim, dim107/pim, dim106/pim, dim105/pim, dim104/pim, dim103/pim, dim102/pim, dim101/pim, dim100/pim, 
+            dim99/pim, dim98/pim, dim97/pim, dim96/pim, dim95/pim, dim94/pim, dim93/pim, dim92/pim, dim91/pim, dim90/pim, 
+            dim89/pim, dim88/pim, dim87/pim, dim86/pim, dim85/pim, dim84/pim, dim83/pim, dim82/pim, dim81/pim, dim80/pim, 
+            dim79/pim, dim78/pim, dim77/pim, dim76/pim, dim75/pim, dim74/pim, dim73/pim, dim72/pim, dim71/pim, dim70/pim, 
+            dim69/pim, dim68/pim, dim67/pim, dim66/pim)
 )
 
 # ***** COTOPAXI *****
@@ -7736,12 +7812,16 @@ dco66 <- mean(c(nco66$tn, nco65$tn, nco64$tn, nco63$tn, nco62$tn, nco61$tn, nco6
 
 dfco <- data_frame(
   fecha,
-  dncco = c(dco158/pco, dco156/pco, dco155/pco, dco152/pco, 
-            dco140/pco, dco134/pco, dco128/pco, dco117/pco, dco109/pco, dco101/pco, 
-            dco97/pco, dco96/pco, dco95/pco, dco94/pco, dco93/pco, dco92/pco, dco91/pco, 
-            dco90/pco, dco89/pco, dco83/pco, dco82/pco, dco81/pco, dco80/pco, dco79/pco, 
-            dco78/pco, dco77/pco, dco76/pco, dco75/pco, dco74/pco, dco73/pco, dco72/pco, 
-            dco71/pco, dco70/pco, dco69/pco, dco68/pco, dco67/pco, dco66/pco)
+  dncco = c(dco158/pco, dco157/pco, dco156/pco, dco155/pco, dco154/pco, dco153/pco, dco152/pco, dco151/pco, dco150/pco,
+            dco149/pco, dco148/pco, dco147/pco, dco146/pco, dco145/pco, dco144/pco, dco143/pco, dco142/pco, dco141/pco, dco140/pco, 
+            dco139/pco, dco138/pco, dco137/pco, dco136/pco, dco135/pco, dco134/pco, dco133/pco, dco132/pco, dco131/pco, dco130/pco, 
+            dco129/pco, dco128/pco, dco127/pco, dco126/pco, dco125/pco, dco124/pco, dco123/pco, dco122/pco, dco121/pco, dco120/pco, 
+            dco119/pco, dco118/pco, dco117/pco, dco116/pco, dco115/pco, dco114/pco, dco113/pco, dco112/pco, dco111/pco, dco110/pco, 
+            dco109/pco, dco108/pco, dco107/pco, dco106/pco, dco105/pco, dco104/pco, dco103/pco, dco102/pco, dco101/pco, dco100/pco, 
+            dco99/pco, dco98/pco, dco97/pco, dco96/pco, dco95/pco, dco94/pco, dco93/pco, dco92/pco, dco91/pco, dco90/pco, 
+            dco89/pco, dco88/pco, dco87/pco, dco86/pco, dco85/pco, dco84/pco, dco83/pco, dco82/pco, dco81/pco, dco80/pco, 
+            dco79/pco, dco78/pco, dco77/pco, dco76/pco, dco75/pco, dco74/pco, dco73/pco, dco72/pco, dco71/pco, dco70/pco, 
+            dco69/pco, dco68/pco, dco67/pco, dco66/pco)
 )
 
 # ***** CARCHI *****
@@ -8139,12 +8219,16 @@ dca66 <- mean(c(nca66$tn, nca65$tn, nca64$tn, nca63$tn, nca62$tn, nca61$tn, nca6
 
 dfca <- data_frame(
   fecha,
-  dncca = c(dca158/pca, dca156/pca, dca155/pca, dca152/pca, 
-            dca140/pca, dca134/pca, dca128/pca, dca117/pca, dca109/pca, dca101/pca, 
-            dca97/pca, dca96/pca, dca95/pca, dca94/pca, dca93/pca, dca92/pca, dca91/pca, 
-            dca90/pca, dca89/pca, dca83/pca, dca82/pca, dca81/pca, dca80/pca, dca79/pca, 
-            dca78/pca, dca77/pca, dca76/pca, dca75/pca, dca74/pca, dca73/pca, dca72/pca, 
-            dca71/pca, dca70/pca, dca69/pca, dca68/pca, dca67/pca, dca66/pca)
+  dncca = c(dca158/pca, dca157/pca, dca156/pca, dca155/pca, dca154/pca, dca153/pca, dca152/pca, dca151/pca, dca150/pca,
+            dca149/pca, dca148/pca, dca147/pca, dca146/pca, dca145/pca, dca144/pca, dca143/pca, dca142/pca, dca141/pca, dca140/pca, 
+            dca139/pca, dca138/pca, dca137/pca, dca136/pca, dca135/pca, dca134/pca, dca133/pca, dca132/pca, dca131/pca, dca130/pca, 
+            dca129/pca, dca128/pca, dca127/pca, dca126/pca, dca125/pca, dca124/pca, dca123/pca, dca122/pca, dca121/pca, dca120/pca, 
+            dca119/pca, dca118/pca, dca117/pca, dca116/pca, dca115/pca, dca114/pca, dca113/pca, dca112/pca, dca111/pca, dca110/pca, 
+            dca109/pca, dca108/pca, dca107/pca, dca106/pca, dca105/pca, dca104/pca, dca103/pca, dca102/pca, dca101/pca, dca100/pca, 
+            dca99/pca, dca98/pca, dca97/pca, dca96/pca, dca95/pca, dca94/pca, dca93/pca, dca92/pca, dca91/pca, dca90/pca, 
+            dca89/pca, dca88/pca, dca87/pca, dca86/pca, dca85/pca, dca84/pca, dca83/pca, dca82/pca, dca81/pca, dca80/pca, 
+            dca79/pca, dca78/pca, dca77/pca, dca76/pca, dca75/pca, dca74/pca, dca73/pca, dca72/pca, dca71/pca, dca70/pca, 
+            dca69/pca, dca68/pca, dca67/pca, dca66/pca)
 )
 
 # ***** CAÑAR *****
@@ -8542,12 +8626,16 @@ dcr66 <- mean(c(ncr66$tn, ncr65$tn, ncr64$tn, ncr63$tn, ncr62$tn, ncr61$tn, ncr6
 
 dfcr <- data_frame(
   fecha,
-  dnccr = c(dcr158/pcr, dcr156/pcr, dcr155/pcr, dcr152/pcr, 
-            dcr140/pcr, dcr134/pcr, dcr128/pcr, dcr117/pcr, dcr109/pcr, dcr101/pcr, 
-            dcr97/pcr, dcr96/pcr, dcr95/pcr, dcr94/pcr, dcr93/pcr, dcr92/pcr, dcr91/pcr, 
-            dcr90/pcr, dcr89/pcr, dcr83/pcr, dcr82/pcr, dcr81/pcr, dcr80/pcr, dcr79/pcr, 
-            dcr78/pcr, dcr77/pcr, dcr76/pcr, dcr75/pcr, dcr74/pcr, dcr73/pcr, dcr72/pcr, 
-            dcr71/pcr, dcr70/pcr, dcr69/pcr, dcr68/pcr, dcr67/pcr, dcr66/pcr)
+  dnccr = c(dcr158/pcr, dcr157/pcr, dcr156/pcr, dcr155/pcr, dcr154/pcr, dcr153/pcr, dcr152/pcr, dcr151/pcr, dcr150/pcr,
+            dcr149/pcr, dcr148/pcr, dcr147/pcr, dcr146/pcr, dcr145/pcr, dcr144/pcr, dcr143/pcr, dcr142/pcr, dcr141/pcr, dcr140/pcr, 
+            dcr139/pcr, dcr138/pcr, dcr137/pcr, dcr136/pcr, dcr135/pcr, dcr134/pcr, dcr133/pcr, dcr132/pcr, dcr131/pcr, dcr130/pcr, 
+            dcr129/pcr, dcr128/pcr, dcr127/pcr, dcr126/pcr, dcr125/pcr, dcr124/pcr, dcr123/pcr, dcr122/pcr, dcr121/pcr, dcr120/pcr, 
+            dcr119/pcr, dcr118/pcr, dcr117/pcr, dcr116/pcr, dcr115/pcr, dcr114/pcr, dcr113/pcr, dcr112/pcr, dcr111/pcr, dcr110/pcr, 
+            dcr109/pcr, dcr108/pcr, dcr107/pcr, dcr106/pcr, dcr105/pcr, dcr104/pcr, dcr103/pcr, dcr102/pcr, dcr101/pcr, dcr100/pcr, 
+            dcr99/pcr, dcr98/pcr, dcr97/pcr, dcr96/pcr, dcr95/pcr, dcr94/pcr, dcr93/pcr, dcr92/pcr, dcr91/pcr, dcr90/pcr, 
+            dcr89/pcr, dcr88/pcr, dcr87/pcr, dcr86/pcr, dcr85/pcr, dcr84/pcr, dcr83/pcr, dcr82/pcr, dcr81/pcr, dcr80/pcr, 
+            dcr79/pcr, dcr78/pcr, dcr77/pcr, dcr76/pcr, dcr75/pcr, dcr74/pcr, dcr73/pcr, dcr72/pcr, dcr71/pcr, dcr70/pcr, 
+            dcr69/pcr, dcr68/pcr, dcr67/pcr, dcr66/pcr)
 )
 
 # ***** BOLIVAR *****
@@ -8945,12 +9033,16 @@ dbo66 <- mean(c(nbo66$tn, nbo65$tn, nbo64$tn, nbo63$tn, nbo62$tn, nbo61$tn, nbo6
 
 dfbo <- data_frame(
   fecha,
-  dncbo = c(dbo158/pbo, dbo156/pbo, dbo155/pbo, dbo152/pbo, 
-            dbo140/pbo, dbo134/pbo, dbo128/pbo, dbo117/pbo, dbo109/pbo, dbo101/pbo, 
-            dbo97/pbo, dbo96/pbo, dbo95/pbo, dbo94/pbo, dbo93/pbo, dbo92/pbo, dbo91/pbo, 
-            dbo90/pbo, dbo89/pbo, dbo83/pbo, dbo82/pbo, dbo81/pbo, dbo80/pbo, dbo79/pbo, 
-            dbo78/pbo, dbo77/pbo, dbo76/pbo, dbo75/pbo, dbo74/pbo, dbo73/pbo, dbo72/pbo, 
-            dbo71/pbo, dbo70/pbo, dbo69/pbo, dbo68/pbo, dbo67/pbo, dbo66/pbo)
+  dncbo = c(dbo158/pbo, dbo157/pbo, dbo156/pbo, dbo155/pbo, dbo154/pbo, dbo153/pbo, dbo152/pbo, dbo151/pbo, dbo150/pbo,
+            dbo149/pbo, dbo148/pbo, dbo147/pbo, dbo146/pbo, dbo145/pbo, dbo144/pbo, dbo143/pbo, dbo142/pbo, dbo141/pbo, dbo140/pbo, 
+            dbo139/pbo, dbo138/pbo, dbo137/pbo, dbo136/pbo, dbo135/pbo, dbo134/pbo, dbo133/pbo, dbo132/pbo, dbo131/pbo, dbo130/pbo, 
+            dbo129/pbo, dbo128/pbo, dbo127/pbo, dbo126/pbo, dbo125/pbo, dbo124/pbo, dbo123/pbo, dbo122/pbo, dbo121/pbo, dbo120/pbo, 
+            dbo119/pbo, dbo118/pbo, dbo117/pbo, dbo116/pbo, dbo115/pbo, dbo114/pbo, dbo113/pbo, dbo112/pbo, dbo111/pbo, dbo110/pbo, 
+            dbo109/pbo, dbo108/pbo, dbo107/pbo, dbo106/pbo, dbo105/pbo, dbo104/pbo, dbo103/pbo, dbo102/pbo, dbo101/pbo, dbo100/pbo, 
+            dbo99/pbo, dbo98/pbo, dbo97/pbo, dbo96/pbo, dbo95/pbo, dbo94/pbo, dbo93/pbo, dbo92/pbo, dbo91/pbo, dbo90/pbo, 
+            dbo89/pbo, dbo88/pbo, dbo87/pbo, dbo86/pbo, dbo85/pbo, dbo84/pbo, dbo83/pbo, dbo82/pbo, dbo81/pbo, dbo80/pbo, 
+            dbo79/pbo, dbo78/pbo, dbo77/pbo, dbo76/pbo, dbo75/pbo, dbo74/pbo, dbo73/pbo, dbo72/pbo, dbo71/pbo, dbo70/pbo, 
+            dbo69/pbo, dbo68/pbo, dbo67/pbo, dbo66/pbo)
 )
 
 # ***** STO DOMINGO *****
@@ -9348,12 +9440,16 @@ dst66 <- mean(c(nst66$tn, nst65$tn, nst64$tn, nst63$tn, nst62$tn, nst61$tn, nst6
 
 dfst <- data_frame(
   fecha,
-  dncst = c(dst158/pst, dst156/pst, dst155/pst, dst152/pst, 
-            dst140/pst, dst134/pst, dst128/pst, dst117/pst, dst109/pst, dst101/pst, 
-            dst97/pst, dst96/pst, dst95/pst, dst94/pst, dst93/pst, dst92/pst, dst91/pst, 
-            dst90/pst, dst89/pst, dst83/pst, dst82/pst, dst81/pst, dst80/pst, dst79/pst, 
-            dst78/pst, dst77/pst, dst76/pst, dst75/pst, dst74/pst, dst73/pst, dst72/pst, 
-            dst71/pst, dst70/pst, dst69/pst, dst68/pst, dst67/pst, dst66/pst)
+  dncst = c(dst158/pst, dst157/pst, dst156/pst, dst155/pst, dst154/pst, dst153/pst, dst152/pst, dst151/pst, dst150/pst,
+            dst149/pst, dst148/pst, dst147/pst, dst146/pst, dst145/pst, dst144/pst, dst143/pst, dst142/pst, dst141/pst, dst140/pst, 
+            dst139/pst, dst138/pst, dst137/pst, dst136/pst, dst135/pst, dst134/pst, dst133/pst, dst132/pst, dst131/pst, dst130/pst, 
+            dst129/pst, dst128/pst, dst127/pst, dst126/pst, dst125/pst, dst124/pst, dst123/pst, dst122/pst, dst121/pst, dst120/pst, 
+            dst119/pst, dst118/pst, dst117/pst, dst116/pst, dst115/pst, dst114/pst, dst113/pst, dst112/pst, dst111/pst, dst110/pst, 
+            dst109/pst, dst108/pst, dst107/pst, dst106/pst, dst105/pst, dst104/pst, dst103/pst, dst102/pst, dst101/pst, dst100/pst, 
+            dst99/pst, dst98/pst, dst97/pst, dst96/pst, dst95/pst, dst94/pst, dst93/pst, dst92/pst, dst91/pst, dst90/pst, 
+            dst89/pst, dst88/pst, dst87/pst, dst86/pst, dst85/pst, dst84/pst, dst83/pst, dst82/pst, dst81/pst, dst80/pst, 
+            dst79/pst, dst78/pst, dst77/pst, dst76/pst, dst75/pst, dst74/pst, dst73/pst, dst72/pst, dst71/pst, dst70/pst, 
+            dst69/pst, dst68/pst, dst67/pst, dst66/pst)
 )
 
 # ***** STA ELENA *****
@@ -9751,12 +9847,16 @@ dea66 <- mean(c(nea66$tn, nea65$tn, nea64$tn, nea63$tn, nea62$tn, nea61$tn, nea6
 
 dfea <- data_frame(
   fecha,
-  dncea = c(dea158/pea, dea156/pea, dea155/pea, dea152/pea, 
-            dea140/pea, dea134/pea, dea128/pea, dea117/pea, dea109/pea, dea101/pea, 
-            dea97/pea, dea96/pea, dea95/pea, dea94/pea, dea93/pea, dea92/pea, dea91/pea, 
-            dea90/pea, dea89/pea, dea83/pea, dea82/pea, dea81/pea, dea80/pea, dea79/pea, 
-            dea78/pea, dea77/pea, dea76/pea, dea75/pea, dea74/pea, dea73/pea, dea72/pea, 
-            dea71/pea, dea70/pea, dea69/pea, dea68/pea, dea67/pea, dea66/pea)
+  dncea = c(dea158/pea, dea157/pea, dea156/pea, dea155/pea, dea154/pea, dea153/pea, dea152/pea, dea151/pea, dea150/pea,
+            dea149/pea, dea148/pea, dea147/pea, dea146/pea, dea145/pea, dea144/pea, dea143/pea, dea142/pea, dea141/pea, dea140/pea, 
+            dea139/pea, dea138/pea, dea137/pea, dea136/pea, dea135/pea, dea134/pea, dea133/pea, dea132/pea, dea131/pea, dea130/pea, 
+            dea129/pea, dea128/pea, dea127/pea, dea126/pea, dea125/pea, dea124/pea, dea123/pea, dea122/pea, dea121/pea, dea120/pea, 
+            dea119/pea, dea118/pea, dea117/pea, dea116/pea, dea115/pea, dea114/pea, dea113/pea, dea112/pea, dea111/pea, dea110/pea, 
+            dea109/pea, dea108/pea, dea107/pea, dea106/pea, dea105/pea, dea104/pea, dea103/pea, dea102/pea, dea101/pea, dea100/pea, 
+            dea99/pea, dea98/pea, dea97/pea, dea96/pea, dea95/pea, dea94/pea, dea93/pea, dea92/pea, dea91/pea, dea90/pea, 
+            dea89/pea, dea88/pea, dea87/pea, dea86/pea, dea85/pea, dea84/pea, dea83/pea, dea82/pea, dea81/pea, dea80/pea, 
+            dea79/pea, dea78/pea, dea77/pea, dea76/pea, dea75/pea, dea74/pea, dea73/pea, dea72/pea, dea71/pea, dea70/pea, 
+            dea69/pea, dea68/pea, dea67/pea, dea66/pea)
 )
 
 # JOIN DATA FRAMES PROVINCIAS
@@ -9774,5 +9874,5 @@ dftotal <- full_join(dfgu, dfpi, by = "fecha") %>%
   full_join(., dfst, by = "fecha") %>% full_join(., dfea, by = "fecha")
 
 # GRABAR ARCHIVO A ÚLTIMA FECHA
-dncprov070622 <- filter(dftotal, fecha == "07jun22")
-write.table(dncprov070622,"pdnc07jun.txt",sep="\t",row.names=FALSE)
+dncprov070622 <- filter(dftotal, fecha == "7jun22")
+write.table(dncprov070622,"pdnc7jun.txt",sep="\t",row.names=FALSE)
