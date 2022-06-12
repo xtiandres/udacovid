@@ -1,0 +1,177 @@
+nea59 <- staelena22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nea58 <- staelena22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nea57 <- staelena22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nea56 <- staelena22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nea55 <- staelena22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nea54 <- staelena22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nea53 <- staelena22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nea52 <- staelena22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nea51 <- staelena22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nea50 <- staelena22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nea49 <- staelena22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nea48 <- staelena22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nea47 <- staelena22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nea46 <- staelena22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nea45 <- staelena22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nea44 <- staelena22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nea43 <- staelena22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nea42 <- staelena22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nea41 <- staelena22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nea40 <- staelena22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nea39 <- staelena22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nea38 <- staelena22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nea37 <- staelena22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nea36 <- staelena22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nea35 <- staelena22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nea34 <- staelena22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nea33 <- staelena22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nea32 <- staelena22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nea31 <- staelena22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nea30 <- staelena22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nea29 <- staelena22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nea28 <- staelena22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nea27 <- staelena22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nea26 <- staelena22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nea25 <- staelena22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nea24 <- staelena22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nea23 <- staelena22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nea22 <- staelena22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nea21 <- staelena22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nea20 <- staelena22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nea19 <- staelena22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nea18 <- staelena22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nea17 <- staelena22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nea16 <- staelena22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nea15 <- staelena22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nea14 <- staelena22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nea13 <- staelena22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nea12 <- staelena22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nea11 <- staelena22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nea10 <- staelena22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nea09 <- staelena22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nea08 <- staelena22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nea07 <- staelena22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nea06 <- staelena22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nea05 <- staelena22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nea04 <- staelena22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nea03 <- staelena22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nea02 <- staelena22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nea01 <- staelena22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
