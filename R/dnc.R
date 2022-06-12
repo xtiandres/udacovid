@@ -389,6 +389,183 @@ ngu61 <- guayas22 %>%
 ngu60 <- guayas22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+ngu59 <- guayas22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+ngu58 <- guayas22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+ngu57 <- guayas22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+ngu56 <- guayas22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+ngu55 <- guayas22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+ngu54 <- guayas22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+ngu53 <- guayas22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+ngu52 <- guayas22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+ngu51 <- guayas22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+ngu50 <- guayas22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+ngu49 <- guayas22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+ngu48 <- guayas22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+ngu47 <- guayas22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+ngu46 <- guayas22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+ngu45 <- guayas22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+ngu44 <- guayas22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+ngu43 <- guayas22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+ngu42 <- guayas22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+ngu41 <- guayas22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+ngu40 <- guayas22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+ngu39 <- guayas22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+ngu38 <- guayas22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+ngu37 <- guayas22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+ngu36 <- guayas22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+ngu35 <- guayas22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+ngu34 <- guayas22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+ngu33 <- guayas22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+ngu32 <- guayas22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+ngu31 <- guayas22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+ngu30 <- guayas22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+ngu29 <- guayas22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+ngu28 <- guayas22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+ngu27 <- guayas22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+ngu26 <- guayas22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+ngu25 <- guayas22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+ngu24 <- guayas22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+ngu23 <- guayas22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+ngu22 <- guayas22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+ngu21 <- guayas22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+ngu20 <- guayas22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+ngu19 <- guayas22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+ngu18 <- guayas22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+ngu17 <- guayas22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+ngu16 <- guayas22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+ngu15 <- guayas22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+ngu14 <- guayas22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+ngu13 <- guayas22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+ngu12 <- guayas22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+ngu11 <- guayas22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+ngu10 <- guayas22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+ngu09 <- guayas22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+ngu08 <- guayas22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+ngu07 <- guayas22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+ngu06 <- guayas22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+ngu05 <- guayas22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+ngu04 <- guayas22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+ngu03 <- guayas22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+ngu02 <- guayas22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+ngu01 <- guayas22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 # PROMEDIO POR DÍA, CONSIDERANDO ÚLTIMOS 7 DÍAS
 dgu158 <- mean(c(ngu158$tn, ngu157$tn, ngu156$tn, ngu155$tn, ngu154$tn, ngu153$tn, ngu152$tn))
 dgu157 <- mean(c(ngu157$tn, ngu156$tn, ngu155$tn, ngu154$tn, ngu153$tn, ngu152$tn, ngu151$tn))
@@ -795,6 +972,183 @@ npi61 <- pichincha22 %>%
   summarise(tn = sum(nuevas))
 npi60 <- pichincha22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+npi59 <- pichincha22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+npi58 <- pichincha22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+npi57 <- pichincha22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+npi56 <- pichincha22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+npi55 <- pichincha22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+npi54 <- pichincha22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+npi53 <- pichincha22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+npi52 <- pichincha22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+npi51 <- pichincha22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+npi50 <- pichincha22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+npi49 <- pichincha22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+npi48 <- pichincha22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+npi47 <- pichincha22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+npi46 <- pichincha22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+npi45 <- pichincha22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+npi44 <- pichincha22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+npi43 <- pichincha22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+npi42 <- pichincha22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+npi41 <- pichincha22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+npi40 <- pichincha22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+npi39 <- pichincha22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+npi38 <- pichincha22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+npi37 <- pichincha22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+npi36 <- pichincha22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+npi35 <- pichincha22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+npi34 <- pichincha22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+npi33 <- pichincha22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+npi32 <- pichincha22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+npi31 <- pichincha22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+npi30 <- pichincha22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+npi29 <- pichincha22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+npi28 <- pichincha22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+npi27 <- pichincha22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+npi26 <- pichincha22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+npi25 <- pichincha22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+npi24 <- pichincha22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+npi23 <- pichincha22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+npi22 <- pichincha22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+npi21 <- pichincha22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+npi20 <- pichincha22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+npi19 <- pichincha22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+npi18 <- pichincha22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+npi17 <- pichincha22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+npi16 <- pichincha22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+npi15 <- pichincha22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+npi14 <- pichincha22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+npi13 <- pichincha22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+npi12 <- pichincha22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+npi11 <- pichincha22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+npi10 <- pichincha22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+npi09 <- pichincha22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+npi08 <- pichincha22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+npi07 <- pichincha22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+npi06 <- pichincha22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+npi05 <- pichincha22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+npi04 <- pichincha22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+npi03 <- pichincha22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+npi02 <- pichincha22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+npi01 <- pichincha22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dpi158 <- mean(c(npi158$tn, npi157$tn, npi156$tn, npi155$tn, npi154$tn, npi153$tn, npi152$tn))
@@ -1203,6 +1557,183 @@ nma61 <- manabi22 %>%
 nma60 <- manabi22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+nma59 <- manabi22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nma58 <- manabi22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nma57 <- manabi22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nma56 <- manabi22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nma55 <- manabi22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nma54 <- manabi22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nma53 <- manabi22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nma52 <- manabi22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nma51 <- manabi22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nma50 <- manabi22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nma49 <- manabi22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nma48 <- manabi22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nma47 <- manabi22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nma46 <- manabi22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nma45 <- manabi22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nma44 <- manabi22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nma43 <- manabi22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nma42 <- manabi22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nma41 <- manabi22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nma40 <- manabi22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nma39 <- manabi22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nma38 <- manabi22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nma37 <- manabi22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nma36 <- manabi22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nma35 <- manabi22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nma34 <- manabi22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nma33 <- manabi22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nma32 <- manabi22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nma31 <- manabi22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nma30 <- manabi22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nma29 <- manabi22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nma28 <- manabi22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nma27 <- manabi22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nma26 <- manabi22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nma25 <- manabi22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nma24 <- manabi22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nma23 <- manabi22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nma22 <- manabi22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nma21 <- manabi22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nma20 <- manabi22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nma19 <- manabi22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nma18 <- manabi22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nma17 <- manabi22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nma16 <- manabi22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nma15 <- manabi22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nma14 <- manabi22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nma13 <- manabi22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nma12 <- manabi22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nma11 <- manabi22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nma10 <- manabi22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nma09 <- manabi22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nma08 <- manabi22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nma07 <- manabi22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nma06 <- manabi22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nma05 <- manabi22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nma04 <- manabi22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nma03 <- manabi22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nma02 <- manabi22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nma01 <- manabi22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 dma158 <- mean(c(nma158$tn, nma157$tn, nma156$tn, nma155$tn, nma154$tn, nma153$tn, nma152$tn))
 dma157 <- mean(c(nma157$tn, nma156$tn, nma155$tn, nma154$tn, nma153$tn, nma152$tn, nma151$tn))
@@ -1609,6 +2140,183 @@ nlr61 <- losrios22 %>%
   summarise(tn = sum(nuevas))
 nlr60 <- losrios22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+nlr59 <- losrios22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nlr58 <- losrios22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nlr57 <- losrios22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nlr56 <- losrios22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nlr55 <- losrios22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nlr54 <- losrios22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nlr53 <- losrios22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nlr52 <- losrios22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nlr51 <- losrios22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nlr50 <- losrios22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nlr49 <- losrios22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nlr48 <- losrios22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nlr47 <- losrios22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nlr46 <- losrios22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nlr45 <- losrios22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nlr44 <- losrios22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nlr43 <- losrios22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nlr42 <- losrios22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nlr41 <- losrios22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nlr40 <- losrios22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nlr39 <- losrios22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nlr38 <- losrios22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nlr37 <- losrios22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nlr36 <- losrios22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nlr35 <- losrios22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nlr34 <- losrios22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nlr33 <- losrios22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nlr32 <- losrios22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nlr31 <- losrios22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nlr30 <- losrios22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nlr29 <- losrios22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nlr28 <- losrios22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nlr27 <- losrios22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nlr26 <- losrios22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nlr25 <- losrios22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nlr24 <- losrios22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nlr23 <- losrios22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nlr22 <- losrios22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nlr21 <- losrios22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nlr20 <- losrios22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nlr19 <- losrios22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nlr18 <- losrios22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nlr17 <- losrios22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nlr16 <- losrios22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nlr15 <- losrios22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nlr14 <- losrios22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nlr13 <- losrios22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nlr12 <- losrios22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nlr11 <- losrios22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nlr10 <- losrios22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nlr09 <- losrios22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nlr08 <- losrios22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nlr07 <- losrios22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nlr06 <- losrios22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nlr05 <- losrios22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nlr04 <- losrios22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nlr03 <- losrios22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nlr02 <- losrios22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nlr01 <- losrios22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dlr158 <- mean(c(nlr158$tn, nlr157$tn, nlr156$tn, nlr155$tn, nlr154$tn, nlr153$tn, nlr152$tn))
@@ -2017,6 +2725,183 @@ naz61 <- azuay22 %>%
 naz60 <- azuay22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+naz59 <- azuay22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+naz58 <- azuay22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+naz57 <- azuay22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+naz56 <- azuay22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+naz55 <- azuay22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+naz54 <- azuay22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+naz53 <- azuay22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+naz52 <- azuay22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+naz51 <- azuay22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+naz50 <- azuay22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+naz49 <- azuay22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+naz48 <- azuay22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+naz47 <- azuay22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+naz46 <- azuay22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+naz45 <- azuay22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+naz44 <- azuay22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+naz43 <- azuay22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+naz42 <- azuay22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+naz41 <- azuay22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+naz40 <- azuay22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+naz39 <- azuay22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+naz38 <- azuay22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+naz37 <- azuay22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+naz36 <- azuay22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+naz35 <- azuay22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+naz34 <- azuay22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+naz33 <- azuay22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+naz32 <- azuay22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+naz31 <- azuay22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+naz30 <- azuay22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+naz29 <- azuay22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+naz28 <- azuay22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+naz27 <- azuay22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+naz26 <- azuay22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+naz25 <- azuay22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+naz24 <- azuay22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+naz23 <- azuay22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+naz22 <- azuay22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+naz21 <- azuay22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+naz20 <- azuay22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+naz19 <- azuay22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+naz18 <- azuay22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+naz17 <- azuay22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+naz16 <- azuay22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+naz15 <- azuay22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+naz14 <- azuay22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+naz13 <- azuay22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+naz12 <- azuay22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+naz11 <- azuay22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+naz10 <- azuay22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+naz09 <- azuay22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+naz08 <- azuay22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+naz07 <- azuay22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+naz06 <- azuay22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+naz05 <- azuay22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+naz04 <- azuay22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+naz03 <- azuay22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+naz02 <- azuay22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+naz01 <- azuay22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 daz158 <- mean(c(naz158$tn, naz157$tn, naz156$tn, naz155$tn, naz154$tn, naz153$tn, naz152$tn))
 daz157 <- mean(c(naz157$tn, naz156$tn, naz155$tn, naz154$tn, naz153$tn, naz152$tn, naz151$tn))
@@ -2423,6 +3308,183 @@ nel61 <- eloro22 %>%
   summarise(tn = sum(nuevas))
 nel60 <- eloro22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+nel59 <- eloro22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nel58 <- eloro22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nel57 <- eloro22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nel56 <- eloro22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nel55 <- eloro22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nel54 <- eloro22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nel53 <- eloro22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nel52 <- eloro22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nel51 <- eloro22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nel50 <- eloro22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nel49 <- eloro22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nel48 <- eloro22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nel47 <- eloro22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nel46 <- eloro22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nel45 <- eloro22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nel44 <- eloro22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nel43 <- eloro22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nel42 <- eloro22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nel41 <- eloro22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nel40 <- eloro22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nel39 <- eloro22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nel38 <- eloro22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nel37 <- eloro22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nel36 <- eloro22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nel35 <- eloro22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nel34 <- eloro22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nel33 <- eloro22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nel32 <- eloro22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nel31 <- eloro22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nel30 <- eloro22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nel29 <- eloro22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nel28 <- eloro22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nel27 <- eloro22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nel26 <- eloro22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nel25 <- eloro22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nel24 <- eloro22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nel23 <- eloro22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nel22 <- eloro22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nel21 <- eloro22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nel20 <- eloro22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nel19 <- eloro22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nel18 <- eloro22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nel17 <- eloro22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nel16 <- eloro22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nel15 <- eloro22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nel14 <- eloro22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nel13 <- eloro22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nel12 <- eloro22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nel11 <- eloro22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nel10 <- eloro22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nel09 <- eloro22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nel08 <- eloro22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nel07 <- eloro22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nel06 <- eloro22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nel05 <- eloro22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nel04 <- eloro22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nel03 <- eloro22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nel02 <- eloro22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nel01 <- eloro22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 del158 <- mean(c(nel158$tn, nel157$tn, nel156$tn, nel155$tn, nel154$tn, nel153$tn, nel152$tn))
@@ -2831,6 +3893,183 @@ nes61 <- esmeraldas22 %>%
 nes60 <- esmeraldas22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+nes59 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nes58 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nes57 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nes56 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nes55 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nes54 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nes53 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nes52 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nes51 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nes50 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nes49 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nes48 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nes47 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nes46 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nes45 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nes44 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nes43 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nes42 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nes41 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nes40 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nes39 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nes38 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nes37 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nes36 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nes35 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nes34 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nes33 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nes32 <- esmeraldas22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nes31 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nes30 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nes29 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nes28 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nes27 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nes26 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nes25 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nes24 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nes23 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nes22 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nes21 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nes20 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nes19 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nes18 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nes17 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nes16 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nes15 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nes14 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nes13 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nes12 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nes11 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nes10 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nes09 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nes08 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nes07 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nes06 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nes05 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nes04 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nes03 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nes02 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nes01 <- esmeraldas22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 des158 <- mean(c(nes158$tn, nes157$tn, nes156$tn, nes155$tn, nes154$tn, nes153$tn, nes152$tn))
 des157 <- mean(c(nes157$tn, nes156$tn, nes155$tn, nes154$tn, nes153$tn, nes152$tn, nes151$tn))
@@ -3237,6 +4476,183 @@ ntu61 <- tungurahua22 %>%
   summarise(tn = sum(nuevas))
 ntu60 <- tungurahua22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+ntu59 <- tungurahua22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+ntu58 <- tungurahua22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+ntu57 <- tungurahua22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+ntu56 <- tungurahua22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+ntu55 <- tungurahua22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+ntu54 <- tungurahua22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+ntu53 <- tungurahua22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+ntu52 <- tungurahua22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+ntu51 <- tungurahua22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+ntu50 <- tungurahua22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+ntu49 <- tungurahua22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+ntu48 <- tungurahua22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+ntu47 <- tungurahua22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+ntu46 <- tungurahua22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+ntu45 <- tungurahua22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+ntu44 <- tungurahua22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+ntu43 <- tungurahua22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+ntu42 <- tungurahua22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+ntu41 <- tungurahua22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+ntu40 <- tungurahua22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+ntu39 <- tungurahua22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+ntu38 <- tungurahua22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+ntu37 <- tungurahua22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+ntu36 <- tungurahua22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+ntu35 <- tungurahua22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+ntu34 <- tungurahua22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+ntu33 <- tungurahua22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+ntu32 <- tungurahua22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+ntu31 <- tungurahua22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+ntu30 <- tungurahua22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+ntu29 <- tungurahua22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+ntu28 <- tungurahua22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+ntu27 <- tungurahua22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+ntu26 <- tungurahua22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+ntu25 <- tungurahua22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+ntu24 <- tungurahua22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+ntu23 <- tungurahua22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+ntu22 <- tungurahua22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+ntu21 <- tungurahua22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+ntu20 <- tungurahua22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+ntu19 <- tungurahua22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+ntu18 <- tungurahua22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+ntu17 <- tungurahua22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+ntu16 <- tungurahua22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+ntu15 <- tungurahua22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+ntu14 <- tungurahua22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+ntu13 <- tungurahua22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+ntu12 <- tungurahua22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+ntu11 <- tungurahua22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+ntu10 <- tungurahua22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+ntu09 <- tungurahua22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+ntu08 <- tungurahua22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+ntu07 <- tungurahua22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+ntu06 <- tungurahua22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+ntu05 <- tungurahua22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+ntu04 <- tungurahua22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+ntu03 <- tungurahua22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+ntu02 <- tungurahua22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+ntu01 <- tungurahua22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dtu158 <- mean(c(ntu158$tn, ntu157$tn, ntu156$tn, ntu155$tn, ntu154$tn, ntu153$tn, ntu152$tn))
@@ -3645,6 +5061,183 @@ nch61 <- chimborazo22 %>%
 nch60 <- chimborazo22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+nch59 <- chimborazo22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nch58 <- chimborazo22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nch57 <- chimborazo22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nch56 <- chimborazo22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nch55 <- chimborazo22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nch54 <- chimborazo22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nch53 <- chimborazo22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nch52 <- chimborazo22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nch51 <- chimborazo22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nch50 <- chimborazo22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nch49 <- chimborazo22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nch48 <- chimborazo22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nch47 <- chimborazo22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nch46 <- chimborazo22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nch45 <- chimborazo22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nch44 <- chimborazo22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nch43 <- chimborazo22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nch42 <- chimborazo22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nch41 <- chimborazo22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nch40 <- chimborazo22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nch39 <- chimborazo22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nch38 <- chimborazo22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nch37 <- chimborazo22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nch36 <- chimborazo22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nch35 <- chimborazo22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nch34 <- chimborazo22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nch33 <- chimborazo22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nch32 <- chimborazo22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nch31 <- chimborazo22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nch30 <- chimborazo22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nch29 <- chimborazo22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nch28 <- chimborazo22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nch27 <- chimborazo22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nch26 <- chimborazo22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nch25 <- chimborazo22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nch24 <- chimborazo22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nch23 <- chimborazo22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nch22 <- chimborazo22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nch21 <- chimborazo22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nch20 <- chimborazo22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nch19 <- chimborazo22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nch18 <- chimborazo22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nch17 <- chimborazo22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nch16 <- chimborazo22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nch15 <- chimborazo22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nch14 <- chimborazo22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nch13 <- chimborazo22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nch12 <- chimborazo22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nch11 <- chimborazo22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nch10 <- chimborazo22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nch09 <- chimborazo22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nch08 <- chimborazo22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nch07 <- chimborazo22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nch06 <- chimborazo22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nch05 <- chimborazo22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nch04 <- chimborazo22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nch03 <- chimborazo22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nch02 <- chimborazo22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nch01 <- chimborazo22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 dch158 <- mean(c(nch158$tn, nch157$tn, nch156$tn, nch155$tn, nch154$tn, nch153$tn, nch152$tn))
 dch157 <- mean(c(nch157$tn, nch156$tn, nch155$tn, nch154$tn, nch153$tn, nch152$tn, nch151$tn))
@@ -4051,6 +5644,183 @@ nlo61 <- loja22 %>%
   summarise(tn = sum(nuevas))
 nlo60 <- loja22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+nlo59 <- loja22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nlo58 <- loja22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nlo57 <- loja22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nlo56 <- loja22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nlo55 <- loja22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nlo54 <- loja22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nlo53 <- loja22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nlo52 <- loja22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nlo51 <- loja22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nlo50 <- loja22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nlo49 <- loja22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nlo48 <- loja22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nlo47 <- loja22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nlo46 <- loja22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nlo45 <- loja22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nlo44 <- loja22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nlo43 <- loja22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nlo42 <- loja22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nlo41 <- loja22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nlo40 <- loja22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nlo39 <- loja22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nlo38 <- loja22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nlo37 <- loja22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nlo36 <- loja22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nlo35 <- loja22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nlo34 <- loja22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nlo33 <- loja22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nlo32 <- loja22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nlo31 <- loja22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nlo30 <- loja22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nlo29 <- loja22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nlo28 <- loja22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nlo27 <- loja22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nlo26 <- loja22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nlo25 <- loja22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nlo24 <- loja22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nlo23 <- loja22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nlo22 <- loja22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nlo21 <- loja22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nlo20 <- loja22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nlo19 <- loja22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nlo18 <- loja22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nlo17 <- loja22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nlo16 <- loja22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nlo15 <- loja22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nlo14 <- loja22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nlo13 <- loja22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nlo12 <- loja22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nlo11 <- loja22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nlo10 <- loja22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nlo09 <- loja22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nlo08 <- loja22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nlo07 <- loja22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nlo06 <- loja22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nlo05 <- loja22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nlo04 <- loja22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nlo03 <- loja22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nlo02 <- loja22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nlo01 <- loja22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dlo158 <- mean(c(nlo158$tn, nlo157$tn, nlo156$tn, nlo155$tn, nlo154$tn, nlo153$tn, nlo152$tn))
@@ -4459,6 +6229,183 @@ nga61 <- galapagos22 %>%
 nga60 <- galapagos22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+nga59 <- galapagos22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nga58 <- galapagos22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nga57 <- galapagos22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nga56 <- galapagos22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nga55 <- galapagos22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nga54 <- galapagos22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nga53 <- galapagos22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nga52 <- galapagos22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nga51 <- galapagos22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nga50 <- galapagos22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nga49 <- galapagos22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nga48 <- galapagos22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nga47 <- galapagos22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nga46 <- galapagos22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nga45 <- galapagos22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nga44 <- galapagos22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nga43 <- galapagos22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nga42 <- galapagos22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nga41 <- galapagos22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nga40 <- galapagos22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nga39 <- galapagos22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nga38 <- galapagos22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nga37 <- galapagos22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nga36 <- galapagos22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nga35 <- galapagos22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nga34 <- galapagos22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nga33 <- galapagos22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nga32 <- galapagos22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nga31 <- galapagos22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nga30 <- galapagos22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nga29 <- galapagos22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nga28 <- galapagos22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nga27 <- galapagos22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nga26 <- galapagos22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nga25 <- galapagos22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nga24 <- galapagos22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nga23 <- galapagos22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nga22 <- galapagos22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nga21 <- galapagos22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nga20 <- galapagos22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nga19 <- galapagos22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nga18 <- galapagos22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nga17 <- galapagos22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nga16 <- galapagos22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nga15 <- galapagos22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nga14 <- galapagos22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nga13 <- galapagos22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nga12 <- galapagos22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nga11 <- galapagos22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nga10 <- galapagos22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nga09 <- galapagos22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nga08 <- galapagos22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nga07 <- galapagos22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nga06 <- galapagos22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nga05 <- galapagos22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nga04 <- galapagos22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nga03 <- galapagos22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nga02 <- galapagos22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nga01 <- galapagos22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 dga158 <- mean(c(nga158$tn, nga157$tn, nga156$tn, nga155$tn, nga154$tn, nga153$tn, nga152$tn))
 dga157 <- mean(c(nga157$tn, nga156$tn, nga155$tn, nga154$tn, nga153$tn, nga152$tn, nga151$tn))
@@ -4865,6 +6812,183 @@ nza61 <- zamora22 %>%
   summarise(tn = sum(nuevas))
 nza60 <- zamora22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+nza59 <- zamora22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nza58 <- zamora22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nza57 <- zamora22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nza56 <- zamora22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nza55 <- zamora22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nza54 <- zamora22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nza53 <- zamora22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nza52 <- zamora22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nza51 <- zamora22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nza50 <- zamora22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nza49 <- zamora22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nza48 <- zamora22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nza47 <- zamora22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nza46 <- zamora22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nza45 <- zamora22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nza44 <- zamora22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nza43 <- zamora22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nza42 <- zamora22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nza41 <- zamora22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nza40 <- zamora22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nza39 <- zamora22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nza38 <- zamora22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nza37 <- zamora22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nza36 <- zamora22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nza35 <- zamora22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nza34 <- zamora22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nza33 <- zamora22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nza32 <- zamora22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nza31 <- zamora22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nza30 <- zamora22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nza29 <- zamora22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nza28 <- zamora22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nza27 <- zamora22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nza26 <- zamora22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nza25 <- zamora22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nza24 <- zamora22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nza23 <- zamora22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nza22 <- zamora22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nza21 <- zamora22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nza20 <- zamora22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nza19 <- zamora22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nza18 <- zamora22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nza17 <- zamora22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nza16 <- zamora22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nza15 <- zamora22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nza14 <- zamora22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nza13 <- zamora22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nza12 <- zamora22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nza11 <- zamora22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nza10 <- zamora22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nza09 <- zamora22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nza08 <- zamora22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nza07 <- zamora22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nza06 <- zamora22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nza05 <- zamora22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nza04 <- zamora22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nza03 <- zamora22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nza02 <- zamora22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nza01 <- zamora22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dza158 <- mean(c(nza158$tn, nza157$tn, nza156$tn, nza155$tn, nza154$tn, nza153$tn, nza152$tn))
@@ -5273,6 +7397,183 @@ nsu61 <- sucumbios22 %>%
 nsu60 <- sucumbios22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+nsu59 <- sucumbios22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nsu58 <- sucumbios22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nsu57 <- sucumbios22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nsu56 <- sucumbios22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nsu55 <- sucumbios22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nsu54 <- sucumbios22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nsu53 <- sucumbios22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nsu52 <- sucumbios22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nsu51 <- sucumbios22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nsu50 <- sucumbios22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nsu49 <- sucumbios22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nsu48 <- sucumbios22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nsu47 <- sucumbios22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nsu46 <- sucumbios22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nsu45 <- sucumbios22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nsu44 <- sucumbios22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nsu43 <- sucumbios22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nsu42 <- sucumbios22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nsu41 <- sucumbios22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nsu40 <- sucumbios22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nsu39 <- sucumbios22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nsu38 <- sucumbios22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nsu37 <- sucumbios22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nsu36 <- sucumbios22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nsu35 <- sucumbios22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nsu34 <- sucumbios22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nsu33 <- sucumbios22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nsu32 <- sucumbios22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nsu31 <- sucumbios22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nsu30 <- sucumbios22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nsu29 <- sucumbios22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nsu28 <- sucumbios22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nsu27 <- sucumbios22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nsu26 <- sucumbios22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nsu25 <- sucumbios22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nsu24 <- sucumbios22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nsu23 <- sucumbios22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nsu22 <- sucumbios22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nsu21 <- sucumbios22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nsu20 <- sucumbios22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nsu19 <- sucumbios22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nsu18 <- sucumbios22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nsu17 <- sucumbios22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nsu16 <- sucumbios22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nsu15 <- sucumbios22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nsu14 <- sucumbios22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nsu13 <- sucumbios22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nsu12 <- sucumbios22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nsu11 <- sucumbios22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nsu10 <- sucumbios22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nsu09 <- sucumbios22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nsu08 <- sucumbios22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nsu07 <- sucumbios22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nsu06 <- sucumbios22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nsu05 <- sucumbios22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nsu04 <- sucumbios22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nsu03 <- sucumbios22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nsu02 <- sucumbios22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nsu01 <- sucumbios22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 dsu158 <- mean(c(nsu158$tn, nsu157$tn, nsu156$tn, nsu155$tn, nsu154$tn, nsu153$tn, nsu152$tn))
 dsu157 <- mean(c(nsu157$tn, nsu156$tn, nsu155$tn, nsu154$tn, nsu153$tn, nsu152$tn, nsu151$tn))
@@ -5679,6 +7980,183 @@ npa61 <- pastaza22 %>%
   summarise(tn = sum(nuevas))
 npa60 <- pastaza22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+npa59 <- pastaza22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+npa58 <- pastaza22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+npa57 <- pastaza22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+npa56 <- pastaza22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+npa55 <- pastaza22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+npa54 <- pastaza22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+npa53 <- pastaza22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+npa52 <- pastaza22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+npa51 <- pastaza22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+npa50 <- pastaza22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+npa49 <- pastaza22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+npa48 <- pastaza22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+npa47 <- pastaza22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+npa46 <- pastaza22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+npa45 <- pastaza22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+npa44 <- pastaza22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+npa43 <- pastaza22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+npa42 <- pastaza22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+npa41 <- pastaza22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+npa40 <- pastaza22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+npa39 <- pastaza22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+npa38 <- pastaza22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+npa37 <- pastaza22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+npa36 <- pastaza22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+npa35 <- pastaza22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+npa34 <- pastaza22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+npa33 <- pastaza22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+npa32 <- pastaza22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+npa31 <- pastaza22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+npa30 <- pastaza22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+npa29 <- pastaza22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+npa28 <- pastaza22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+npa27 <- pastaza22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+npa26 <- pastaza22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+npa25 <- pastaza22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+npa24 <- pastaza22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+npa23 <- pastaza22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+npa22 <- pastaza22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+npa21 <- pastaza22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+npa20 <- pastaza22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+npa19 <- pastaza22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+npa18 <- pastaza22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+npa17 <- pastaza22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+npa16 <- pastaza22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+npa15 <- pastaza22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+npa14 <- pastaza22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+npa13 <- pastaza22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+npa12 <- pastaza22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+npa11 <- pastaza22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+npa10 <- pastaza22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+npa09 <- pastaza22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+npa08 <- pastaza22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+npa07 <- pastaza22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+npa06 <- pastaza22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+npa05 <- pastaza22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+npa04 <- pastaza22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+npa03 <- pastaza22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+npa02 <- pastaza22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+npa01 <- pastaza22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dpa158 <- mean(c(npa158$tn, npa157$tn, npa156$tn, npa155$tn, npa154$tn, npa153$tn, npa152$tn))
@@ -6087,6 +8565,183 @@ nor61 <- orellana22 %>%
 nor60 <- orellana22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+nor59 <- orellana22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nor58 <- orellana22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nor57 <- orellana22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nor56 <- orellana22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nor55 <- orellana22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nor54 <- orellana22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nor53 <- orellana22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nor52 <- orellana22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nor51 <- orellana22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nor50 <- orellana22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nor49 <- orellana22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nor48 <- orellana22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nor47 <- orellana22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nor46 <- orellana22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nor45 <- orellana22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nor44 <- orellana22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nor43 <- orellana22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nor42 <- orellana22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nor41 <- orellana22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nor40 <- orellana22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nor39 <- orellana22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nor38 <- orellana22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nor37 <- orellana22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nor36 <- orellana22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nor35 <- orellana22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nor34 <- orellana22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nor33 <- orellana22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nor32 <- orellana22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nor31 <- orellana22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nor30 <- orellana22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nor29 <- orellana22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nor28 <- orellana22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nor27 <- orellana22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nor26 <- orellana22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nor25 <- orellana22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nor24 <- orellana22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nor23 <- orellana22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nor22 <- orellana22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nor21 <- orellana22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nor20 <- orellana22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nor19 <- orellana22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nor18 <- orellana22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nor17 <- orellana22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nor16 <- orellana22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nor15 <- orellana22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nor14 <- orellana22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nor13 <- orellana22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nor12 <- orellana22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nor11 <- orellana22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nor10 <- orellana22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nor09 <- orellana22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nor08 <- orellana22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nor07 <- orellana22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nor06 <- orellana22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nor05 <- orellana22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nor04 <- orellana22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nor03 <- orellana22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nor02 <- orellana22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nor01 <- orellana22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 dor158 <- mean(c(nor158$tn, nor157$tn, nor156$tn, nor155$tn, nor154$tn, nor153$tn, nor152$tn))
 dor157 <- mean(c(nor157$tn, nor156$tn, nor155$tn, nor154$tn, nor153$tn, nor152$tn, nor151$tn))
@@ -6493,6 +9148,183 @@ nna61 <- napo22 %>%
   summarise(tn = sum(nuevas))
 nna60 <- napo22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+nna59 <- napo22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nna58 <- napo22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nna57 <- napo22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nna56 <- napo22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nna55 <- napo22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nna54 <- napo22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nna53 <- napo22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nna52 <- napo22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nna51 <- napo22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nna50 <- napo22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nna49 <- napo22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nna48 <- napo22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nna47 <- napo22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nna46 <- napo22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nna45 <- napo22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nna44 <- napo22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nna43 <- napo22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nna42 <- napo22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nna41 <- napo22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nna40 <- napo22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nna39 <- napo22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nna38 <- napo22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nna37 <- napo22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nna36 <- napo22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nna35 <- napo22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nna34 <- napo22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nna33 <- napo22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nna32 <- napo22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nna31 <- napo22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nna30 <- napo22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nna29 <- napo22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nna28 <- napo22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nna27 <- napo22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nna26 <- napo22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nna25 <- napo22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nna24 <- napo22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nna23 <- napo22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nna22 <- napo22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nna21 <- napo22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nna20 <- napo22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nna19 <- napo22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nna18 <- napo22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nna17 <- napo22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nna16 <- napo22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nna15 <- napo22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nna14 <- napo22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nna13 <- napo22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nna12 <- napo22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nna11 <- napo22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nna10 <- napo22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nna09 <- napo22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nna08 <- napo22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nna07 <- napo22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nna06 <- napo22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nna05 <- napo22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nna04 <- napo22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nna03 <- napo22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nna02 <- napo22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nna01 <- napo22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dna158 <- mean(c(nna158$tn, nna157$tn, nna156$tn, nna155$tn, nna154$tn, nna153$tn, nna152$tn))
@@ -6901,6 +9733,183 @@ nmo61 <- morona22 %>%
 nmo60 <- morona22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+nmo59 <- morona22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nmo58 <- morona22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nmo57 <- morona22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nmo56 <- morona22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nmo55 <- morona22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nmo54 <- morona22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nmo53 <- morona22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nmo52 <- morona22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nmo51 <- morona22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nmo50 <- morona22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nmo49 <- morona22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nmo48 <- morona22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nmo47 <- morona22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nmo46 <- morona22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nmo45 <- morona22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nmo44 <- morona22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nmo43 <- morona22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nmo42 <- morona22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nmo41 <- morona22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nmo40 <- morona22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nmo39 <- morona22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nmo38 <- morona22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nmo37 <- morona22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nmo36 <- morona22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nmo35 <- morona22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nmo34 <- morona22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nmo33 <- morona22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nmo32 <- morona22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nmo31 <- morona22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nmo30 <- morona22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nmo29 <- morona22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nmo28 <- morona22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nmo27 <- morona22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nmo26 <- morona22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nmo25 <- morona22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nmo24 <- morona22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nmo23 <- morona22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nmo22 <- morona22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nmo21 <- morona22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nmo20 <- morona22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nmo19 <- morona22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nmo18 <- morona22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nmo17 <- morona22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nmo16 <- morona22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nmo15 <- morona22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nmo14 <- morona22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nmo13 <- morona22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nmo12 <- morona22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nmo11 <- morona22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nmo10 <- morona22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nmo09 <- morona22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nmo08 <- morona22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nmo07 <- morona22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nmo06 <- morona22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nmo05 <- morona22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nmo04 <- morona22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nmo03 <- morona22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nmo02 <- morona22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nmo01 <- morona22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 dmo158 <- mean(c(nmo158$tn, nmo157$tn, nmo156$tn, nmo155$tn, nmo154$tn, nmo153$tn, nmo152$tn))
 dmo157 <- mean(c(nmo157$tn, nmo156$tn, nmo155$tn, nmo154$tn, nmo153$tn, nmo152$tn, nmo151$tn))
@@ -7307,6 +10316,183 @@ nim61 <- imbabura22 %>%
   summarise(tn = sum(nuevas))
 nim60 <- imbabura22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+nim59 <- imbabura22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nim58 <- imbabura22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nim57 <- imbabura22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nim56 <- imbabura22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nim55 <- imbabura22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nim54 <- imbabura22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nim53 <- imbabura22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nim52 <- imbabura22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nim51 <- imbabura22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nim50 <- imbabura22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nim49 <- imbabura22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nim48 <- imbabura22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nim47 <- imbabura22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nim46 <- imbabura22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nim45 <- imbabura22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nim44 <- imbabura22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nim43 <- imbabura22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nim42 <- imbabura22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nim41 <- imbabura22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nim40 <- imbabura22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nim39 <- imbabura22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nim38 <- imbabura22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nim37 <- imbabura22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nim36 <- imbabura22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nim35 <- imbabura22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nim34 <- imbabura22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nim33 <- imbabura22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nim32 <- imbabura22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nim31 <- imbabura22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nim30 <- imbabura22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nim29 <- imbabura22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nim28 <- imbabura22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nim27 <- imbabura22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nim26 <- imbabura22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nim25 <- imbabura22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nim24 <- imbabura22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nim23 <- imbabura22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nim22 <- imbabura22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nim21 <- imbabura22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nim20 <- imbabura22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nim19 <- imbabura22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nim18 <- imbabura22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nim17 <- imbabura22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nim16 <- imbabura22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nim15 <- imbabura22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nim14 <- imbabura22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nim13 <- imbabura22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nim12 <- imbabura22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nim11 <- imbabura22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nim10 <- imbabura22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nim09 <- imbabura22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nim08 <- imbabura22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nim07 <- imbabura22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nim06 <- imbabura22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nim05 <- imbabura22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nim04 <- imbabura22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nim03 <- imbabura22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nim02 <- imbabura22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nim01 <- imbabura22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dim158 <- mean(c(nim158$tn, nim157$tn, nim156$tn, nim155$tn, nim154$tn, nim153$tn, nim152$tn))
@@ -7715,6 +10901,183 @@ nco61 <- cotopaxi22 %>%
 nco60 <- cotopaxi22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+nco59 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nco58 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nco57 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nco56 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nco55 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nco54 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nco53 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nco52 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nco51 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nco50 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nco49 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nco48 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nco47 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nco46 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nco45 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nco44 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nco43 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nco42 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nco41 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nco40 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nco39 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nco38 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nco37 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nco36 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nco35 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nco34 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nco33 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nco32 <- cotopaxi22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nco31 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nco30 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nco29 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nco28 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nco27 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nco26 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nco25 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nco24 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nco23 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nco22 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nco21 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nco20 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nco19 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nco18 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nco17 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nco16 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nco15 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nco14 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nco13 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nco12 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nco11 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nco10 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nco09 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nco08 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nco07 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nco06 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nco05 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nco04 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nco03 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nco02 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nco01 <- cotopaxi22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 dco158 <- mean(c(nco158$tn, nco157$tn, nco156$tn, nco155$tn, nco154$tn, nco153$tn, nco152$tn))
 dco157 <- mean(c(nco157$tn, nco156$tn, nco155$tn, nco154$tn, nco153$tn, nco152$tn, nco151$tn))
@@ -8121,6 +11484,183 @@ nca61 <- carchi22 %>%
   summarise(tn = sum(nuevas))
 nca60 <- carchi22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+nca59 <- carchi22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nca58 <- carchi22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nca57 <- carchi22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nca56 <- carchi22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nca55 <- carchi22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nca54 <- carchi22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nca53 <- carchi22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nca52 <- carchi22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nca51 <- carchi22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nca50 <- carchi22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nca49 <- carchi22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nca48 <- carchi22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nca47 <- carchi22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nca46 <- carchi22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nca45 <- carchi22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nca44 <- carchi22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nca43 <- carchi22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nca42 <- carchi22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nca41 <- carchi22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nca40 <- carchi22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nca39 <- carchi22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nca38 <- carchi22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nca37 <- carchi22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nca36 <- carchi22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nca35 <- carchi22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nca34 <- carchi22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nca33 <- carchi22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nca32 <- carchi22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nca31 <- carchi22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nca30 <- carchi22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nca29 <- carchi22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nca28 <- carchi22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nca27 <- carchi22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nca26 <- carchi22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nca25 <- carchi22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nca24 <- carchi22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nca23 <- carchi22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nca22 <- carchi22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nca21 <- carchi22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nca20 <- carchi22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nca19 <- carchi22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nca18 <- carchi22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nca17 <- carchi22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nca16 <- carchi22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nca15 <- carchi22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nca14 <- carchi22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nca13 <- carchi22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nca12 <- carchi22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nca11 <- carchi22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nca10 <- carchi22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nca09 <- carchi22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nca08 <- carchi22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nca07 <- carchi22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nca06 <- carchi22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nca05 <- carchi22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nca04 <- carchi22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nca03 <- carchi22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nca02 <- carchi22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nca01 <- carchi22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dca158 <- mean(c(nca158$tn, nca157$tn, nca156$tn, nca155$tn, nca154$tn, nca153$tn, nca152$tn))
@@ -8529,6 +12069,183 @@ ncr61 <- canar22 %>%
 ncr60 <- canar22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+ncr59 <- canar22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+ncr58 <- canar22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+ncr57 <- canar22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+ncr56 <- canar22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+ncr55 <- canar22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+ncr54 <- canar22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+ncr53 <- canar22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+ncr52 <- canar22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+ncr51 <- canar22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+ncr50 <- canar22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+ncr49 <- canar22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+ncr48 <- canar22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+ncr47 <- canar22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+ncr46 <- canar22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+ncr45 <- canar22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+ncr44 <- canar22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+ncr43 <- canar22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+ncr42 <- canar22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+ncr41 <- canar22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+ncr40 <- canar22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+ncr39 <- canar22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+ncr38 <- canar22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+ncr37 <- canar22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+ncr36 <- canar22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+ncr35 <- canar22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+ncr34 <- canar22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+ncr33 <- canar22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+ncr32 <- canar22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+ncr31 <- canar22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+ncr30 <- canar22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+ncr29 <- canar22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+ncr28 <- canar22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+ncr27 <- canar22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+ncr26 <- canar22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+ncr25 <- canar22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+ncr24 <- canar22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+ncr23 <- canar22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+ncr22 <- canar22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+ncr21 <- canar22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+ncr20 <- canar22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+ncr19 <- canar22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+ncr18 <- canar22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+ncr17 <- canar22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+ncr16 <- canar22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+ncr15 <- canar22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+ncr14 <- canar22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+ncr13 <- canar22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+ncr12 <- canar22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+ncr11 <- canar22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+ncr10 <- canar22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+ncr09 <- canar22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+ncr08 <- canar22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+ncr07 <- canar22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+ncr06 <- canar22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+ncr05 <- canar22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+ncr04 <- canar22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+ncr03 <- canar22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+ncr02 <- canar22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+ncr01 <- canar22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 dcr158 <- mean(c(ncr158$tn, ncr157$tn, ncr156$tn, ncr155$tn, ncr154$tn, ncr153$tn, ncr152$tn))
 dcr157 <- mean(c(ncr157$tn, ncr156$tn, ncr155$tn, ncr154$tn, ncr153$tn, ncr152$tn, ncr151$tn))
@@ -8935,6 +12652,183 @@ nbo61 <- bolivar22 %>%
   summarise(tn = sum(nuevas))
 nbo60 <- bolivar22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+nbo59 <- bolivar22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nbo58 <- bolivar22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nbo57 <- bolivar22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nbo56 <- bolivar22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nbo55 <- bolivar22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nbo54 <- bolivar22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nbo53 <- bolivar22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nbo52 <- bolivar22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nbo51 <- bolivar22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nbo50 <- bolivar22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nbo49 <- bolivar22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nbo48 <- bolivar22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nbo47 <- bolivar22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nbo46 <- bolivar22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nbo45 <- bolivar22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nbo44 <- bolivar22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nbo43 <- bolivar22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nbo42 <- bolivar22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nbo41 <- bolivar22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nbo40 <- bolivar22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nbo39 <- bolivar22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nbo38 <- bolivar22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nbo37 <- bolivar22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nbo36 <- bolivar22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nbo35 <- bolivar22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nbo34 <- bolivar22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nbo33 <- bolivar22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nbo32 <- bolivar22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nbo31 <- bolivar22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nbo30 <- bolivar22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nbo29 <- bolivar22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nbo28 <- bolivar22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nbo27 <- bolivar22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nbo26 <- bolivar22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nbo25 <- bolivar22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nbo24 <- bolivar22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nbo23 <- bolivar22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nbo22 <- bolivar22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nbo21 <- bolivar22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nbo20 <- bolivar22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nbo19 <- bolivar22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nbo18 <- bolivar22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nbo17 <- bolivar22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nbo16 <- bolivar22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nbo15 <- bolivar22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nbo14 <- bolivar22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nbo13 <- bolivar22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nbo12 <- bolivar22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nbo11 <- bolivar22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nbo10 <- bolivar22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nbo09 <- bolivar22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nbo08 <- bolivar22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nbo07 <- bolivar22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nbo06 <- bolivar22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nbo05 <- bolivar22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nbo04 <- bolivar22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nbo03 <- bolivar22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nbo02 <- bolivar22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nbo01 <- bolivar22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dbo158 <- mean(c(nbo158$tn, nbo157$tn, nbo156$tn, nbo155$tn, nbo154$tn, nbo153$tn, nbo152$tn))
@@ -9343,6 +13237,183 @@ nst61 <- stodomingo22 %>%
 nst60 <- stodomingo22 %>%
   filter(created_at == "2022-03-01") %>%
   summarise(tn = sum(nuevas))
+nst59 <- stodomingo22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nst58 <- stodomingo22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nst57 <- stodomingo22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nst56 <- stodomingo22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nst55 <- stodomingo22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nst54 <- stodomingo22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nst53 <- stodomingo22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nst52 <- stodomingo22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nst51 <- stodomingo22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nst50 <- stodomingo22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nst49 <- stodomingo22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nst48 <- stodomingo22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nst47 <- stodomingo22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nst46 <- stodomingo22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nst45 <- stodomingo22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nst44 <- stodomingo22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nst43 <- stodomingo22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nst42 <- stodomingo22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nst41 <- stodomingo22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nst40 <- stodomingo22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nst39 <- stodomingo22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nst38 <- stodomingo22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nst37 <- stodomingo22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nst36 <- stodomingo22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nst35 <- stodomingo22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nst34 <- stodomingo22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nst33 <- stodomingo22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nst32 <- stodomingo22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nst31 <- stodomingo22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nst30 <- stodomingo22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nst29 <- stodomingo22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nst28 <- stodomingo22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nst27 <- stodomingo22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nst26 <- stodomingo22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nst25 <- stodomingo22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nst24 <- stodomingo22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nst23 <- stodomingo22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nst22 <- stodomingo22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nst21 <- stodomingo22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nst20 <- stodomingo22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nst19 <- stodomingo22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nst18 <- stodomingo22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nst17 <- stodomingo22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nst16 <- stodomingo22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nst15 <- stodomingo22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nst14 <- stodomingo22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nst13 <- stodomingo22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nst12 <- stodomingo22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nst11 <- stodomingo22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nst10 <- stodomingo22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nst09 <- stodomingo22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nst08 <- stodomingo22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nst07 <- stodomingo22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nst06 <- stodomingo22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nst05 <- stodomingo22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nst04 <- stodomingo22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nst03 <- stodomingo22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nst02 <- stodomingo22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nst01 <- stodomingo22 %>%
+  filter(created_at == "2022-01-01") %>%
+  summarise(tn = sum(nuevas))
 
 dst158 <- mean(c(nst158$tn, nst157$tn, nst156$tn, nst155$tn, nst154$tn, nst153$tn, nst152$tn))
 dst157 <- mean(c(nst157$tn, nst156$tn, nst155$tn, nst154$tn, nst153$tn, nst152$tn, nst151$tn))
@@ -9749,6 +13820,183 @@ nea61 <- staelena22 %>%
   summarise(tn = sum(nuevas))
 nea60 <- staelena22 %>%
   filter(created_at == "2022-03-01") %>%
+  summarise(tn = sum(nuevas))
+nea59 <- staelena22 %>%
+  filter(created_at == "2022-02-28") %>%
+  summarise(tn = sum(nuevas))
+nea58 <- staelena22 %>%
+  filter(created_at == "2022-02-27") %>%
+  summarise(tn = sum(nuevas))
+nea57 <- staelena22 %>%
+  filter(created_at == "2022-02-26") %>%
+  summarise(tn = sum(nuevas))
+nea56 <- staelena22 %>%
+  filter(created_at == "2022-02-25") %>%
+  summarise(tn = sum(nuevas))
+nea55 <- staelena22 %>%
+  filter(created_at == "2022-02-24") %>%
+  summarise(tn = sum(nuevas))
+nea54 <- staelena22 %>%
+  filter(created_at == "2022-02-23") %>%
+  summarise(tn = sum(nuevas))
+nea53 <- staelena22 %>%
+  filter(created_at == "2022-02-22") %>%
+  summarise(tn = sum(nuevas))
+nea52 <- staelena22 %>%
+  filter(created_at == "2022-02-21") %>%
+  summarise(tn = sum(nuevas))
+nea51 <- staelena22 %>%
+  filter(created_at == "2022-02-20") %>%
+  summarise(tn = sum(nuevas))
+nea50 <- staelena22 %>%
+  filter(created_at == "2022-02-19") %>%
+  summarise(tn = sum(nuevas))
+nea49 <- staelena22 %>%
+  filter(created_at == "2022-02-18") %>%
+  summarise(tn = sum(nuevas))
+nea48 <- staelena22 %>%
+  filter(created_at == "2022-02-17") %>%
+  summarise(tn = sum(nuevas))
+nea47 <- staelena22 %>%
+  filter(created_at == "2022-02-16") %>%
+  summarise(tn = sum(nuevas))
+nea46 <- staelena22 %>%
+  filter(created_at == "2022-02-15") %>%
+  summarise(tn = sum(nuevas))
+nea45 <- staelena22 %>%
+  filter(created_at == "2022-02-14") %>%
+  summarise(tn = sum(nuevas))
+nea44 <- staelena22 %>%
+  filter(created_at == "2022-02-13") %>%
+  summarise(tn = sum(nuevas))
+nea43 <- staelena22 %>%
+  filter(created_at == "2022-02-12") %>%
+  summarise(tn = sum(nuevas))
+nea42 <- staelena22 %>%
+  filter(created_at == "2022-02-11") %>%
+  summarise(tn = sum(nuevas))
+nea41 <- staelena22 %>%
+  filter(created_at == "2022-02-10") %>%
+  summarise(tn = sum(nuevas))
+nea40 <- staelena22 %>%
+  filter(created_at == "2022-02-09") %>%
+  summarise(tn = sum(nuevas))
+nea39 <- staelena22 %>%
+  filter(created_at == "2022-02-08") %>%
+  summarise(tn = sum(nuevas))
+nea38 <- staelena22 %>%
+  filter(created_at == "2022-02-07") %>%
+  summarise(tn = sum(nuevas))
+nea37 <- staelena22 %>%
+  filter(created_at == "2022-02-06") %>%
+  summarise(tn = sum(nuevas))
+nea36 <- staelena22 %>%
+  filter(created_at == "2022-02-05") %>%
+  summarise(tn = sum(nuevas))
+nea35 <- staelena22 %>%
+  filter(created_at == "2022-02-04") %>%
+  summarise(tn = sum(nuevas))
+nea34 <- staelena22 %>%
+  filter(created_at == "2022-02-03") %>%
+  summarise(tn = sum(nuevas))
+nea33 <- staelena22 %>%
+  filter(created_at == "2022-02-02") %>%
+  summarise(tn = sum(nuevas))
+nea32 <- staelena22 %>%
+  filter(created_at == "2022-02-01") %>%
+  summarise(tn = sum(nuevas))
+nea31 <- staelena22 %>%
+  filter(created_at == "2022-01-31") %>%
+  summarise(tn = sum(nuevas))
+nea30 <- staelena22 %>%
+  filter(created_at == "2022-01-30") %>%
+  summarise(tn = sum(nuevas))
+nea29 <- staelena22 %>%
+  filter(created_at == "2022-01-29") %>%
+  summarise(tn = sum(nuevas))
+nea28 <- staelena22 %>%
+  filter(created_at == "2022-01-28") %>%
+  summarise(tn = sum(nuevas))
+nea27 <- staelena22 %>%
+  filter(created_at == "2022-01-27") %>%
+  summarise(tn = sum(nuevas))
+nea26 <- staelena22 %>%
+  filter(created_at == "2022-01-26") %>%
+  summarise(tn = sum(nuevas))
+nea25 <- staelena22 %>%
+  filter(created_at == "2022-01-25") %>%
+  summarise(tn = sum(nuevas))
+nea24 <- staelena22 %>%
+  filter(created_at == "2022-01-24") %>%
+  summarise(tn = sum(nuevas))
+nea23 <- staelena22 %>%
+  filter(created_at == "2022-01-23") %>%
+  summarise(tn = sum(nuevas))
+nea22 <- staelena22 %>%
+  filter(created_at == "2022-01-22") %>%
+  summarise(tn = sum(nuevas))
+nea21 <- staelena22 %>%
+  filter(created_at == "2022-01-21") %>%
+  summarise(tn = sum(nuevas))
+nea20 <- staelena22 %>%
+  filter(created_at == "2022-01-20") %>%
+  summarise(tn = sum(nuevas))
+nea19 <- staelena22 %>%
+  filter(created_at == "2022-01-19") %>%
+  summarise(tn = sum(nuevas))
+nea18 <- staelena22 %>%
+  filter(created_at == "2022-01-18") %>%
+  summarise(tn = sum(nuevas))
+nea17 <- staelena22 %>%
+  filter(created_at == "2022-01-17") %>%
+  summarise(tn = sum(nuevas))
+nea16 <- staelena22 %>%
+  filter(created_at == "2022-01-16") %>%
+  summarise(tn = sum(nuevas))
+nea15 <- staelena22 %>%
+  filter(created_at == "2022-01-15") %>%
+  summarise(tn = sum(nuevas))
+nea14 <- staelena22 %>%
+  filter(created_at == "2022-01-14") %>%
+  summarise(tn = sum(nuevas))
+nea13 <- staelena22 %>%
+  filter(created_at == "2022-01-13") %>%
+  summarise(tn = sum(nuevas))
+nea12 <- staelena22 %>%
+  filter(created_at == "2022-01-12") %>%
+  summarise(tn = sum(nuevas))
+nea11 <- staelena22 %>%
+  filter(created_at == "2022-01-11") %>%
+  summarise(tn = sum(nuevas))
+nea10 <- staelena22 %>%
+  filter(created_at == "2022-01-10") %>%
+  summarise(tn = sum(nuevas))
+nea09 <- staelena22 %>%
+  filter(created_at == "2022-01-09") %>%
+  summarise(tn = sum(nuevas))
+nea08 <- staelena22 %>%
+  filter(created_at == "2022-01-08") %>%
+  summarise(tn = sum(nuevas))
+nea07 <- staelena22 %>%
+  filter(created_at == "2022-01-07") %>%
+  summarise(tn = sum(nuevas))
+nea06 <- staelena22 %>%
+  filter(created_at == "2022-01-06") %>%
+  summarise(tn = sum(nuevas))
+nea05 <- staelena22 %>%
+  filter(created_at == "2022-01-05") %>%
+  summarise(tn = sum(nuevas))
+nea04 <- staelena22 %>%
+  filter(created_at == "2022-01-04") %>%
+  summarise(tn = sum(nuevas))
+nea03 <- staelena22 %>%
+  filter(created_at == "2022-01-03") %>%
+  summarise(tn = sum(nuevas))
+nea02 <- staelena22 %>%
+  filter(created_at == "2022-01-02") %>%
+  summarise(tn = sum(nuevas))
+nea01 <- staelena22 %>%
+  filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
 dea158 <- mean(c(nea158$tn, nea157$tn, nea156$tn, nea155$tn, nea154$tn, nea153$tn, nea152$tn))
