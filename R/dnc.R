@@ -5,7 +5,8 @@
 # DATASET A PARTIR DE "canpro.R"
 
 # VARIABLE fecha PARA dnc DE PROVINCIAS
-fecha = c("7jun22", "6jun22", "5jun22", "4jun22", "3jun22", "2jun22", "1jun22", "31may22", "30may22",
+fecha = c("11jun22", "10jun22", "9jun22", 
+          "8jun22", "7jun22", "6jun22", "5jun22", "4jun22", "3jun22", "2jun22", "1jun22", "31may22", "30may22",
           "29may22", "28may22", "27may22", "26may22", "25may22", "24may22", "23may22", "22may22", "21may22", "20may22", 
           "19may22", "18may22", "17may22", "16may22", "15may22", "14may22", "13may22", "12may22", "11may22", "10may22", 
           "9may22", "8may22", "7may22", "6may22", "5may22", "4may22", "3may22", "2may22", "1may22", "30abr22", 
@@ -14,7 +15,13 @@ fecha = c("7jun22", "6jun22", "5jun22", "4jun22", "3jun22", "2jun22", "1jun22", 
           "9abr22", "8abr22", "7abr22", "6abr22", "5abr22", "4abr22", "3abr22", "2abr22", "1abr22", "31mar22", 
           "30mar22", "29mar22", "28mar22", "27mar22", "26mar22", "25mar22", "24mar22", "23mar22", "22mar22", "21mar22", 
           "20mar22", "19mar22", "18mar22", "17mar22", "16mar22", "15mar22", "14mar22", "13mar22", "12mar22", "11mar22", 
-          "10mar22", "9mar22", "8mar22", "7mar22")
+          "10mar22", "9mar22", "8mar22", "7mar22", "6mar22", "5mar22", "4mar22", "3mar22", "2mar22", "1mar22",
+          "28feb22", "27feb22", "26feb22", "25feb22", "24feb22", "23feb22", "22feb22", "21feb22", "20feb22", "19feb22",
+          "18feb22", "17feb22", "16feb22", "15feb22", "14feb22", "13feb22", "12feb22", "11feb22", "10feb22", "9feb22",
+          "8feb22", "7feb22", "6feb22", "5feb22", "4feb22", "3feb22", "2feb22", "1feb22", "31ene22", "30ene22", 
+          "29ene22", "28ene22", "27ene22", "26ene22", "25ene22", "24ene22", "23ene22", "22ene22", "21ene22", "20ene22",
+          "19ene22", "18ene22", "17ene22", "16ene22", "15ene22", "14ene22", "13ene22", "12ene22", "11ene22", "10ene22",
+          "9ene22", "8ene22", "7ene22")
 
 # VARIABLE POBLACION PROVINCIAS POR CADA 100MIL HABITANTES
 pgu <- guayas22 %>%
@@ -92,6 +99,18 @@ pea <- (pea$provincia_poblacion)/100000
 
 # ***** GUAYAS *****
 # npi"x" // ACORDE A DIAS DEL AÑO
+ngu162 <- guayas22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+ngu161 <- guayas22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+ngu160 <- guayas22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+ngu159 <- guayas22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 ngu158 <- guayas22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -567,6 +586,10 @@ ngu01 <- guayas22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 # PROMEDIO POR DÍA, CONSIDERANDO ÚLTIMOS 7 DÍAS
+dgu162 <- mean(c(ngu162$tn, ngu161$tn, ngu160$tn, ngu159$tn, ngu158$tn, ngu157$tn, ngu156$tn))
+dgu161 <- mean(c(ngu161$tn, ngu160$tn, ngu159$tn, ngu158$tn, ngu157$tn, ngu156$tn, ngu155$tn))
+dgu160 <- mean(c(ngu160$tn, ngu159$tn, ngu158$tn, ngu157$tn, ngu156$tn, ngu155$tn, ngu154$tn))
+dgu159 <- mean(c(ngu159$tn, ngu158$tn, ngu157$tn, ngu156$tn, ngu155$tn, ngu154$tn, ngu153$tn))
 dgu158 <- mean(c(ngu158$tn, ngu157$tn, ngu156$tn, ngu155$tn, ngu154$tn, ngu153$tn, ngu152$tn))
 dgu157 <- mean(c(ngu157$tn, ngu156$tn, ngu155$tn, ngu154$tn, ngu153$tn, ngu152$tn, ngu151$tn))
 dgu156 <- mean(c(ngu156$tn, ngu155$tn, ngu154$tn, ngu153$tn, ngu152$tn, ngu151$tn, ngu150$tn))
@@ -660,10 +683,70 @@ dgu69 <- mean(c(ngu69$tn, ngu68$tn, ngu67$tn, ngu66$tn, ngu65$tn, ngu64$tn, ngu6
 dgu68 <- mean(c(ngu68$tn, ngu67$tn, ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn))
 dgu67 <- mean(c(ngu67$tn, ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn, ngu61$tn))
 dgu66 <- mean(c(ngu66$tn, ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn, ngu61$tn, ngu60$tn))
+dgu65 <- mean(c(ngu65$tn, ngu64$tn, ngu63$tn, ngu62$tn, ngu61$tn, ngu60$tn, ngu59$tn))
+dgu64 <- mean(c(ngu64$tn, ngu63$tn, ngu62$tn, ngu61$tn, ngu60$tn, ngu59$tn, ngu58$tn))
+dgu63 <- mean(c(ngu63$tn, ngu62$tn, ngu61$tn, ngu60$tn, ngu59$tn, ngu58$tn, ngu57$tn))
+dgu62 <- mean(c(ngu62$tn, ngu61$tn, ngu60$tn, ngu59$tn, ngu58$tn, ngu57$tn, ngu56$tn))
+dgu61 <- mean(c(ngu61$tn, ngu60$tn, ngu59$tn, ngu58$tn, ngu57$tn, ngu56$tn, ngu55$tn))
+dgu60 <- mean(c(ngu60$tn, ngu59$tn, ngu58$tn, ngu57$tn, ngu56$tn, ngu55$tn, ngu54$tn))
+dgu59 <- mean(c(ngu59$tn, ngu58$tn, ngu57$tn, ngu56$tn, ngu55$tn, ngu54$tn, ngu53$tn))
+dgu58 <- mean(c(ngu58$tn, ngu57$tn, ngu56$tn, ngu55$tn, ngu54$tn, ngu53$tn, ngu52$tn))
+dgu57 <- mean(c(ngu57$tn, ngu56$tn, ngu55$tn, ngu54$tn, ngu53$tn, ngu52$tn, ngu51$tn))
+dgu56 <- mean(c(ngu56$tn, ngu55$tn, ngu54$tn, ngu53$tn, ngu52$tn, ngu51$tn, ngu50$tn))
+dgu55 <- mean(c(ngu55$tn, ngu54$tn, ngu53$tn, ngu52$tn, ngu51$tn, ngu50$tn, ngu49$tn))
+dgu54 <- mean(c(ngu54$tn, ngu53$tn, ngu52$tn, ngu51$tn, ngu50$tn, ngu49$tn, ngu48$tn))
+dgu53 <- mean(c(ngu53$tn, ngu52$tn, ngu51$tn, ngu50$tn, ngu49$tn, ngu48$tn, ngu47$tn))
+dgu52 <- mean(c(ngu52$tn, ngu51$tn, ngu50$tn, ngu49$tn, ngu48$tn, ngu47$tn, ngu46$tn))
+dgu51 <- mean(c(ngu51$tn, ngu50$tn, ngu49$tn, ngu48$tn, ngu47$tn, ngu46$tn, ngu45$tn))
+dgu50 <- mean(c(ngu50$tn, ngu49$tn, ngu48$tn, ngu47$tn, ngu46$tn, ngu45$tn, ngu44$tn))
+dgu49 <- mean(c(ngu49$tn, ngu48$tn, ngu47$tn, ngu46$tn, ngu45$tn, ngu44$tn, ngu43$tn))
+dgu48 <- mean(c(ngu48$tn, ngu47$tn, ngu46$tn, ngu45$tn, ngu44$tn, ngu43$tn, ngu42$tn))
+dgu47 <- mean(c(ngu47$tn, ngu46$tn, ngu45$tn, ngu44$tn, ngu43$tn, ngu42$tn, ngu41$tn))
+dgu46 <- mean(c(ngu46$tn, ngu45$tn, ngu44$tn, ngu43$tn, ngu42$tn, ngu41$tn, ngu40$tn))
+dgu45 <- mean(c(ngu45$tn, ngu44$tn, ngu43$tn, ngu42$tn, ngu41$tn, ngu40$tn, ngu39$tn))
+dgu44 <- mean(c(ngu44$tn, ngu43$tn, ngu42$tn, ngu41$tn, ngu40$tn, ngu39$tn, ngu38$tn))
+dgu43 <- mean(c(ngu43$tn, ngu42$tn, ngu41$tn, ngu40$tn, ngu39$tn, ngu38$tn, ngu37$tn))
+dgu42 <- mean(c(ngu42$tn, ngu41$tn, ngu40$tn, ngu39$tn, ngu38$tn, ngu37$tn, ngu36$tn))
+dgu41 <- mean(c(ngu41$tn, ngu40$tn, ngu39$tn, ngu38$tn, ngu37$tn, ngu36$tn, ngu35$tn))
+dgu40 <- mean(c(ngu40$tn, ngu39$tn, ngu38$tn, ngu37$tn, ngu36$tn, ngu35$tn, ngu34$tn))
+dgu39 <- mean(c(ngu39$tn, ngu38$tn, ngu37$tn, ngu36$tn, ngu35$tn, ngu34$tn, ngu33$tn))
+dgu38 <- mean(c(ngu38$tn, ngu37$tn, ngu36$tn, ngu35$tn, ngu34$tn, ngu33$tn, ngu32$tn))
+dgu37 <- mean(c(ngu37$tn, ngu36$tn, ngu35$tn, ngu34$tn, ngu33$tn, ngu32$tn, ngu31$tn))
+dgu36 <- mean(c(ngu36$tn, ngu35$tn, ngu34$tn, ngu33$tn, ngu32$tn, ngu31$tn, ngu30$tn))
+dgu35 <- mean(c(ngu35$tn, ngu34$tn, ngu33$tn, ngu32$tn, ngu31$tn, ngu30$tn, ngu29$tn))
+dgu34 <- mean(c(ngu34$tn, ngu33$tn, ngu32$tn, ngu31$tn, ngu30$tn, ngu29$tn, ngu28$tn))
+dgu33 <- mean(c(ngu33$tn, ngu32$tn, ngu31$tn, ngu30$tn, ngu29$tn, ngu28$tn, ngu27$tn))
+dgu32 <- mean(c(ngu32$tn, ngu31$tn, ngu30$tn, ngu29$tn, ngu28$tn, ngu27$tn, ngu26$tn))
+dgu31 <- mean(c(ngu31$tn, ngu30$tn, ngu29$tn, ngu28$tn, ngu27$tn, ngu26$tn, ngu25$tn))
+dgu30 <- mean(c(ngu30$tn, ngu29$tn, ngu28$tn, ngu27$tn, ngu26$tn, ngu25$tn, ngu24$tn))
+dgu29 <- mean(c(ngu29$tn, ngu28$tn, ngu27$tn, ngu26$tn, ngu25$tn, ngu24$tn, ngu23$tn))
+dgu28 <- mean(c(ngu28$tn, ngu27$tn, ngu26$tn, ngu25$tn, ngu24$tn, ngu23$tn, ngu22$tn))
+dgu27 <- mean(c(ngu27$tn, ngu26$tn, ngu25$tn, ngu24$tn, ngu23$tn, ngu22$tn, ngu21$tn))
+dgu26 <- mean(c(ngu26$tn, ngu25$tn, ngu24$tn, ngu23$tn, ngu22$tn, ngu21$tn, ngu20$tn))
+dgu25 <- mean(c(ngu25$tn, ngu24$tn, ngu23$tn, ngu22$tn, ngu21$tn, ngu20$tn, ngu19$tn))
+dgu24 <- mean(c(ngu24$tn, ngu23$tn, ngu22$tn, ngu21$tn, ngu20$tn, ngu19$tn, ngu18$tn))
+dgu23 <- mean(c(ngu23$tn, ngu22$tn, ngu21$tn, ngu20$tn, ngu19$tn, ngu18$tn, ngu17$tn))
+dgu22 <- mean(c(ngu22$tn, ngu21$tn, ngu20$tn, ngu19$tn, ngu18$tn, ngu17$tn, ngu16$tn))
+dgu21 <- mean(c(ngu21$tn, ngu20$tn, ngu19$tn, ngu18$tn, ngu17$tn, ngu16$tn, ngu15$tn))
+dgu20 <- mean(c(ngu20$tn, ngu19$tn, ngu18$tn, ngu17$tn, ngu16$tn, ngu15$tn, ngu14$tn))
+dgu19 <- mean(c(ngu19$tn, ngu18$tn, ngu17$tn, ngu16$tn, ngu15$tn, ngu14$tn, ngu13$tn))
+dgu18 <- mean(c(ngu18$tn, ngu17$tn, ngu16$tn, ngu15$tn, ngu14$tn, ngu13$tn, ngu12$tn))
+dgu17 <- mean(c(ngu17$tn, ngu16$tn, ngu15$tn, ngu14$tn, ngu13$tn, ngu12$tn, ngu11$tn))
+dgu16 <- mean(c(ngu16$tn, ngu15$tn, ngu14$tn, ngu13$tn, ngu12$tn, ngu11$tn, ngu10$tn))
+dgu15 <- mean(c(ngu15$tn, ngu14$tn, ngu13$tn, ngu12$tn, ngu11$tn, ngu10$tn, ngu09$tn))
+dgu14 <- mean(c(ngu14$tn, ngu13$tn, ngu12$tn, ngu11$tn, ngu10$tn, ngu09$tn, ngu08$tn))
+dgu13 <- mean(c(ngu13$tn, ngu12$tn, ngu11$tn, ngu10$tn, ngu09$tn, ngu08$tn, ngu07$tn))
+dgu12 <- mean(c(ngu12$tn, ngu11$tn, ngu10$tn, ngu09$tn, ngu08$tn, ngu07$tn, ngu06$tn))
+dgu11 <- mean(c(ngu11$tn, ngu10$tn, ngu09$tn, ngu08$tn, ngu07$tn, ngu06$tn, ngu05$tn))
+dgu10 <- mean(c(ngu10$tn, ngu09$tn, ngu08$tn, ngu07$tn, ngu06$tn, ngu05$tn, ngu04$tn))
+dgu09 <- mean(c(ngu09$tn, ngu08$tn, ngu07$tn, ngu06$tn, ngu05$tn, ngu04$tn, ngu03$tn))
+dgu08 <- mean(c(ngu08$tn, ngu07$tn, ngu06$tn, ngu05$tn, ngu04$tn, ngu03$tn, ngu02$tn))
+dgu07 <- mean(c(ngu07$tn, ngu06$tn, ngu05$tn, ngu04$tn, ngu03$tn, ngu02$tn, ngu01$tn))
 # DATA FRAME GUAYAS
 dfgu <- data_frame(
   fecha,
-  dncgu = c(dgu158/pgu, dgu157/pgu, dgu156/pgu, dgu155/pgu, dgu154/pgu, dgu153/pgu, dgu152/pgu, dgu151/pgu, dgu150/pgu,
+  dncgu = c(dgu162/pgu, dgu161/pgu, dgu160/pgu, 
+            dgu159/pgu, dgu158/pgu, dgu157/pgu, dgu156/pgu, dgu155/pgu, dgu154/pgu, dgu153/pgu, dgu152/pgu, dgu151/pgu, dgu150/pgu,
             dgu149/pgu, dgu148/pgu, dgu147/pgu, dgu146/pgu, dgu145/pgu, dgu144/pgu, dgu143/pgu, dgu142/pgu, dgu141/pgu, dgu140/pgu, 
             dgu139/pgu, dgu138/pgu, dgu137/pgu, dgu136/pgu, dgu135/pgu, dgu134/pgu, dgu133/pgu, dgu132/pgu, dgu131/pgu, dgu130/pgu, 
             dgu129/pgu, dgu128/pgu, dgu127/pgu, dgu126/pgu, dgu125/pgu, dgu124/pgu, dgu123/pgu, dgu122/pgu, dgu121/pgu, dgu120/pgu, 
@@ -672,10 +755,28 @@ dfgu <- data_frame(
             dgu99/pgu, dgu98/pgu, dgu97/pgu, dgu96/pgu, dgu95/pgu, dgu94/pgu, dgu93/pgu, dgu92/pgu, dgu91/pgu, dgu90/pgu, 
             dgu89/pgu, dgu88/pgu, dgu87/pgu, dgu86/pgu, dgu85/pgu, dgu84/pgu, dgu83/pgu, dgu82/pgu, dgu81/pgu, dgu80/pgu, 
             dgu79/pgu, dgu78/pgu, dgu77/pgu, dgu76/pgu, dgu75/pgu, dgu74/pgu, dgu73/pgu, dgu72/pgu, dgu71/pgu, dgu70/pgu, 
-            dgu69/pgu, dgu68/pgu, dgu67/pgu, dgu66/pgu)
+            dgu69/pgu, dgu68/pgu, dgu67/pgu, dgu66/pgu, dgu65/pgu, dgu64/pgu, dgu63/pgu, dgu62/pgu, dgu61/pgu, dgu60/pgu,
+            dgu59/pgu, dgu58/pgu, dgu57/pgu, dgu56/pgu, dgu55/pgu, dgu54/pgu, dgu53/pgu, dgu52/pgu, dgu51/pgu, dgu50/pgu,
+            dgu49/pgu, dgu48/pgu, dgu47/pgu, dgu46/pgu, dgu45/pgu, dgu44/pgu, dgu43/pgu, dgu42/pgu, dgu41/pgu, dgu40/pgu,
+            dgu39/pgu, dgu38/pgu, dgu37/pgu, dgu36/pgu, dgu35/pgu, dgu34/pgu, dgu33/pgu, dgu32/pgu, dgu31/pgu, dgu30/pgu,
+            dgu29/pgu, dgu28/pgu, dgu27/pgu, dgu26/pgu, dgu25/pgu, dgu24/pgu, dgu23/pgu, dgu22/pgu, dgu21/pgu, dgu20/pgu,
+            dgu19/pgu, dgu18/pgu, dgu17/pgu, dgu16/pgu, dgu15/pgu, dgu14/pgu, dgu13/pgu, dgu12/pgu, dgu11/pgu, dgu10/pgu,
+            dgu09/pgu, dgu08/pgu, dgu07/pgu)
 )
 
 # ***** PICHINCHA *****
+npi162 <- pichincha22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+npi161 <- pichincha22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+npi160 <- pichincha22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+npi159 <- pichincha22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 npi158 <- pichincha22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -1151,6 +1252,10 @@ npi01 <- pichincha22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dpi162 <- mean(c(npi162$tn, npi161$tn, npi160$tn, npi159$tn, npi158$tn, npi157$tn, npi156$tn))
+dpi161 <- mean(c(npi161$tn, npi160$tn, npi159$tn, npi158$tn, npi157$tn, npi156$tn, npi155$tn))
+dpi160 <- mean(c(npi160$tn, npi159$tn, npi158$tn, npi157$tn, npi156$tn, npi155$tn, npi154$tn))
+dpi159 <- mean(c(npi159$tn, npi158$tn, npi157$tn, npi156$tn, npi155$tn, npi154$tn, npi153$tn))
 dpi158 <- mean(c(npi158$tn, npi157$tn, npi156$tn, npi155$tn, npi154$tn, npi153$tn, npi152$tn))
 dpi157 <- mean(c(npi157$tn, npi156$tn, npi155$tn, npi154$tn, npi153$tn, npi152$tn, npi151$tn))
 dpi156 <- mean(c(npi156$tn, npi155$tn, npi154$tn, npi153$tn, npi152$tn, npi151$tn, npi150$tn))
@@ -1244,10 +1349,70 @@ dpi69 <- mean(c(npi69$tn, npi68$tn, npi67$tn, npi66$tn, npi65$tn, npi64$tn, npi6
 dpi68 <- mean(c(npi68$tn, npi67$tn, npi66$tn, npi65$tn, npi64$tn, npi63$tn, npi62$tn))
 dpi67 <- mean(c(npi67$tn, npi66$tn, npi65$tn, npi64$tn, npi63$tn, npi62$tn, npi61$tn))
 dpi66 <- mean(c(npi66$tn, npi65$tn, npi64$tn, npi63$tn, npi62$tn, npi61$tn, npi60$tn))
+dpi65 <- mean(c(npi65$tn, npi64$tn, npi63$tn, npi62$tn, npi61$tn, npi60$tn, npi59$tn))
+dpi64 <- mean(c(npi64$tn, npi63$tn, npi62$tn, npi61$tn, npi60$tn, npi59$tn, npi58$tn))
+dpi63 <- mean(c(npi63$tn, npi62$tn, npi61$tn, npi60$tn, npi59$tn, npi58$tn, npi57$tn))
+dpi62 <- mean(c(npi62$tn, npi61$tn, npi60$tn, npi59$tn, npi58$tn, npi57$tn, npi56$tn))
+dpi61 <- mean(c(npi61$tn, npi60$tn, npi59$tn, npi58$tn, npi57$tn, npi56$tn, npi55$tn))
+dpi60 <- mean(c(npi60$tn, npi59$tn, npi58$tn, npi57$tn, npi56$tn, npi55$tn, npi54$tn))
+dpi59 <- mean(c(npi59$tn, npi58$tn, npi57$tn, npi56$tn, npi55$tn, npi54$tn, npi53$tn))
+dpi58 <- mean(c(npi58$tn, npi57$tn, npi56$tn, npi55$tn, npi54$tn, npi53$tn, npi52$tn))
+dpi57 <- mean(c(npi57$tn, npi56$tn, npi55$tn, npi54$tn, npi53$tn, npi52$tn, npi51$tn))
+dpi56 <- mean(c(npi56$tn, npi55$tn, npi54$tn, npi53$tn, npi52$tn, npi51$tn, npi50$tn))
+dpi55 <- mean(c(npi55$tn, npi54$tn, npi53$tn, npi52$tn, npi51$tn, npi50$tn, npi49$tn))
+dpi54 <- mean(c(npi54$tn, npi53$tn, npi52$tn, npi51$tn, npi50$tn, npi49$tn, npi48$tn))
+dpi53 <- mean(c(npi53$tn, npi52$tn, npi51$tn, npi50$tn, npi49$tn, npi48$tn, npi47$tn))
+dpi52 <- mean(c(npi52$tn, npi51$tn, npi50$tn, npi49$tn, npi48$tn, npi47$tn, npi46$tn))
+dpi51 <- mean(c(npi51$tn, npi50$tn, npi49$tn, npi48$tn, npi47$tn, npi46$tn, npi45$tn))
+dpi50 <- mean(c(npi50$tn, npi49$tn, npi48$tn, npi47$tn, npi46$tn, npi45$tn, npi44$tn))
+dpi49 <- mean(c(npi49$tn, npi48$tn, npi47$tn, npi46$tn, npi45$tn, npi44$tn, npi43$tn))
+dpi48 <- mean(c(npi48$tn, npi47$tn, npi46$tn, npi45$tn, npi44$tn, npi43$tn, npi42$tn))
+dpi47 <- mean(c(npi47$tn, npi46$tn, npi45$tn, npi44$tn, npi43$tn, npi42$tn, npi41$tn))
+dpi46 <- mean(c(npi46$tn, npi45$tn, npi44$tn, npi43$tn, npi42$tn, npi41$tn, npi40$tn))
+dpi45 <- mean(c(npi45$tn, npi44$tn, npi43$tn, npi42$tn, npi41$tn, npi40$tn, npi39$tn))
+dpi44 <- mean(c(npi44$tn, npi43$tn, npi42$tn, npi41$tn, npi40$tn, npi39$tn, npi38$tn))
+dpi43 <- mean(c(npi43$tn, npi42$tn, npi41$tn, npi40$tn, npi39$tn, npi38$tn, npi37$tn))
+dpi42 <- mean(c(npi42$tn, npi41$tn, npi40$tn, npi39$tn, npi38$tn, npi37$tn, npi36$tn))
+dpi41 <- mean(c(npi41$tn, npi40$tn, npi39$tn, npi38$tn, npi37$tn, npi36$tn, npi35$tn))
+dpi40 <- mean(c(npi40$tn, npi39$tn, npi38$tn, npi37$tn, npi36$tn, npi35$tn, npi34$tn))
+dpi39 <- mean(c(npi39$tn, npi38$tn, npi37$tn, npi36$tn, npi35$tn, npi34$tn, npi33$tn))
+dpi38 <- mean(c(npi38$tn, npi37$tn, npi36$tn, npi35$tn, npi34$tn, npi33$tn, npi32$tn))
+dpi37 <- mean(c(npi37$tn, npi36$tn, npi35$tn, npi34$tn, npi33$tn, npi32$tn, npi31$tn))
+dpi36 <- mean(c(npi36$tn, npi35$tn, npi34$tn, npi33$tn, npi32$tn, npi31$tn, npi30$tn))
+dpi35 <- mean(c(npi35$tn, npi34$tn, npi33$tn, npi32$tn, npi31$tn, npi30$tn, npi29$tn))
+dpi34 <- mean(c(npi34$tn, npi33$tn, npi32$tn, npi31$tn, npi30$tn, npi29$tn, npi28$tn))
+dpi33 <- mean(c(npi33$tn, npi32$tn, npi31$tn, npi30$tn, npi29$tn, npi28$tn, npi27$tn))
+dpi32 <- mean(c(npi32$tn, npi31$tn, npi30$tn, npi29$tn, npi28$tn, npi27$tn, npi26$tn))
+dpi31 <- mean(c(npi31$tn, npi30$tn, npi29$tn, npi28$tn, npi27$tn, npi26$tn, npi25$tn))
+dpi30 <- mean(c(npi30$tn, npi29$tn, npi28$tn, npi27$tn, npi26$tn, npi25$tn, npi24$tn))
+dpi29 <- mean(c(npi29$tn, npi28$tn, npi27$tn, npi26$tn, npi25$tn, npi24$tn, npi23$tn))
+dpi28 <- mean(c(npi28$tn, npi27$tn, npi26$tn, npi25$tn, npi24$tn, npi23$tn, npi22$tn))
+dpi27 <- mean(c(npi27$tn, npi26$tn, npi25$tn, npi24$tn, npi23$tn, npi22$tn, npi21$tn))
+dpi26 <- mean(c(npi26$tn, npi25$tn, npi24$tn, npi23$tn, npi22$tn, npi21$tn, npi20$tn))
+dpi25 <- mean(c(npi25$tn, npi24$tn, npi23$tn, npi22$tn, npi21$tn, npi20$tn, npi19$tn))
+dpi24 <- mean(c(npi24$tn, npi23$tn, npi22$tn, npi21$tn, npi20$tn, npi19$tn, npi18$tn))
+dpi23 <- mean(c(npi23$tn, npi22$tn, npi21$tn, npi20$tn, npi19$tn, npi18$tn, npi17$tn))
+dpi22 <- mean(c(npi22$tn, npi21$tn, npi20$tn, npi19$tn, npi18$tn, npi17$tn, npi16$tn))
+dpi21 <- mean(c(npi21$tn, npi20$tn, npi19$tn, npi18$tn, npi17$tn, npi16$tn, npi15$tn))
+dpi20 <- mean(c(npi20$tn, npi19$tn, npi18$tn, npi17$tn, npi16$tn, npi15$tn, npi14$tn))
+dpi19 <- mean(c(npi19$tn, npi18$tn, npi17$tn, npi16$tn, npi15$tn, npi14$tn, npi13$tn))
+dpi18 <- mean(c(npi18$tn, npi17$tn, npi16$tn, npi15$tn, npi14$tn, npi13$tn, npi12$tn))
+dpi17 <- mean(c(npi17$tn, npi16$tn, npi15$tn, npi14$tn, npi13$tn, npi12$tn, npi11$tn))
+dpi16 <- mean(c(npi16$tn, npi15$tn, npi14$tn, npi13$tn, npi12$tn, npi11$tn, npi10$tn))
+dpi15 <- mean(c(npi15$tn, npi14$tn, npi13$tn, npi12$tn, npi11$tn, npi10$tn, npi09$tn))
+dpi14 <- mean(c(npi14$tn, npi13$tn, npi12$tn, npi11$tn, npi10$tn, npi09$tn, npi08$tn))
+dpi13 <- mean(c(npi13$tn, npi12$tn, npi11$tn, npi10$tn, npi09$tn, npi08$tn, npi07$tn))
+dpi12 <- mean(c(npi12$tn, npi11$tn, npi10$tn, npi09$tn, npi08$tn, npi07$tn, npi06$tn))
+dpi11 <- mean(c(npi11$tn, npi10$tn, npi09$tn, npi08$tn, npi07$tn, npi06$tn, npi05$tn))
+dpi10 <- mean(c(npi10$tn, npi09$tn, npi08$tn, npi07$tn, npi06$tn, npi05$tn, npi04$tn))
+dpi09 <- mean(c(npi09$tn, npi08$tn, npi07$tn, npi06$tn, npi05$tn, npi04$tn, npi03$tn))
+dpi08 <- mean(c(npi08$tn, npi07$tn, npi06$tn, npi05$tn, npi04$tn, npi03$tn, npi02$tn))
+dpi07 <- mean(c(npi07$tn, npi06$tn, npi05$tn, npi04$tn, npi03$tn, npi02$tn, npi01$tn))
 
 dfpi <- data_frame(
   fecha,
-  dncpi = c(dpi158/ppi, dpi157/ppi, dpi156/ppi, dpi155/ppi, dpi154/ppi, dpi153/ppi, dpi152/ppi, dpi151/ppi, dpi150/ppi,
+  dncpi = c(dpi162/ppi, dpi161/ppi, dpi160/ppi, 
+            dpi159/ppi, dpi158/ppi, dpi157/ppi, dpi156/ppi, dpi155/ppi, dpi154/ppi, dpi153/ppi, dpi152/ppi, dpi151/ppi, dpi150/ppi,
             dpi149/ppi, dpi148/ppi, dpi147/ppi, dpi146/ppi, dpi145/ppi, dpi144/ppi, dpi143/ppi, dpi142/ppi, dpi141/ppi, dpi140/ppi, 
             dpi139/ppi, dpi138/ppi, dpi137/ppi, dpi136/ppi, dpi135/ppi, dpi134/ppi, dpi133/ppi, dpi132/ppi, dpi131/ppi, dpi130/ppi, 
             dpi129/ppi, dpi128/ppi, dpi127/ppi, dpi126/ppi, dpi125/ppi, dpi124/ppi, dpi123/ppi, dpi122/ppi, dpi121/ppi, dpi120/ppi, 
@@ -1256,10 +1421,28 @@ dfpi <- data_frame(
             dpi99/ppi, dpi98/ppi, dpi97/ppi, dpi96/ppi, dpi95/ppi, dpi94/ppi, dpi93/ppi, dpi92/ppi, dpi91/ppi, dpi90/ppi, 
             dpi89/ppi, dpi88/ppi, dpi87/ppi, dpi86/ppi, dpi85/ppi, dpi84/ppi, dpi83/ppi, dpi82/ppi, dpi81/ppi, dpi80/ppi, 
             dpi79/ppi, dpi78/ppi, dpi77/ppi, dpi76/ppi, dpi75/ppi, dpi74/ppi, dpi73/ppi, dpi72/ppi, dpi71/ppi, dpi70/ppi, 
-            dpi69/ppi, dpi68/ppi, dpi67/ppi, dpi66/ppi)
+            dpi69/ppi, dpi68/ppi, dpi67/ppi, dpi66/ppi, dpi65/ppi, dpi64/ppi, dpi63/ppi, dpi62/ppi, dpi61/ppi, dpi60/ppi,
+            dpi59/ppi, dpi58/ppi, dpi57/ppi, dpi56/ppi, dpi55/ppi, dpi54/ppi, dpi53/ppi, dpi52/ppi, dpi51/ppi, dpi50/ppi,
+            dpi49/ppi, dpi48/ppi, dpi47/ppi, dpi46/ppi, dpi45/ppi, dpi44/ppi, dpi43/ppi, dpi42/ppi, dpi41/ppi, dpi40/ppi,
+            dpi39/ppi, dpi38/ppi, dpi37/ppi, dpi36/ppi, dpi35/ppi, dpi34/ppi, dpi33/ppi, dpi32/ppi, dpi31/ppi, dpi30/ppi,
+            dpi29/ppi, dpi28/ppi, dpi27/ppi, dpi26/ppi, dpi25/ppi, dpi24/ppi, dpi23/ppi, dpi22/ppi, dpi21/ppi, dpi20/ppi,
+            dpi19/ppi, dpi18/ppi, dpi17/ppi, dpi16/ppi, dpi15/ppi, dpi14/ppi, dpi13/ppi, dpi12/ppi, dpi11/ppi, dpi10/ppi,
+            dpi09/ppi, dpi08/ppi, dpi07/ppi)
   )
 
 # ***** MANABI *****
+nma162 <- manabi22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nma161 <- manabi22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nma160 <- manabi22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nma159 <- manabi22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nma158 <- manabi22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -1735,6 +1918,10 @@ nma01 <- manabi22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dma162 <- mean(c(nma162$tn, nma161$tn, nma160$tn, nma159$tn, nma158$tn, nma157$tn, nma156$tn))
+dma161 <- mean(c(nma161$tn, nma160$tn, nma159$tn, nma158$tn, nma157$tn, nma156$tn, nma155$tn))
+dma160 <- mean(c(nma160$tn, nma159$tn, nma158$tn, nma157$tn, nma156$tn, nma155$tn, nma154$tn))
+dma159 <- mean(c(nma159$tn, nma158$tn, nma157$tn, nma156$tn, nma155$tn, nma154$tn, nma153$tn))
 dma158 <- mean(c(nma158$tn, nma157$tn, nma156$tn, nma155$tn, nma154$tn, nma153$tn, nma152$tn))
 dma157 <- mean(c(nma157$tn, nma156$tn, nma155$tn, nma154$tn, nma153$tn, nma152$tn, nma151$tn))
 dma156 <- mean(c(nma156$tn, nma155$tn, nma154$tn, nma153$tn, nma152$tn, nma151$tn, nma150$tn))
@@ -1828,10 +2015,70 @@ dma69 <- mean(c(nma69$tn, nma68$tn, nma67$tn, nma66$tn, nma65$tn, nma64$tn, nma6
 dma68 <- mean(c(nma68$tn, nma67$tn, nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn))
 dma67 <- mean(c(nma67$tn, nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn, nma61$tn))
 dma66 <- mean(c(nma66$tn, nma65$tn, nma64$tn, nma63$tn, nma62$tn, nma61$tn, nma60$tn))
+dma65 <- mean(c(nma65$tn, nma64$tn, nma63$tn, nma62$tn, nma61$tn, nma60$tn, nma59$tn))
+dma64 <- mean(c(nma64$tn, nma63$tn, nma62$tn, nma61$tn, nma60$tn, nma59$tn, nma58$tn))
+dma63 <- mean(c(nma63$tn, nma62$tn, nma61$tn, nma60$tn, nma59$tn, nma58$tn, nma57$tn))
+dma62 <- mean(c(nma62$tn, nma61$tn, nma60$tn, nma59$tn, nma58$tn, nma57$tn, nma56$tn))
+dma61 <- mean(c(nma61$tn, nma60$tn, nma59$tn, nma58$tn, nma57$tn, nma56$tn, nma55$tn))
+dma60 <- mean(c(nma60$tn, nma59$tn, nma58$tn, nma57$tn, nma56$tn, nma55$tn, nma54$tn))
+dma59 <- mean(c(nma59$tn, nma58$tn, nma57$tn, nma56$tn, nma55$tn, nma54$tn, nma53$tn))
+dma58 <- mean(c(nma58$tn, nma57$tn, nma56$tn, nma55$tn, nma54$tn, nma53$tn, nma52$tn))
+dma57 <- mean(c(nma57$tn, nma56$tn, nma55$tn, nma54$tn, nma53$tn, nma52$tn, nma51$tn))
+dma56 <- mean(c(nma56$tn, nma55$tn, nma54$tn, nma53$tn, nma52$tn, nma51$tn, nma50$tn))
+dma55 <- mean(c(nma55$tn, nma54$tn, nma53$tn, nma52$tn, nma51$tn, nma50$tn, nma49$tn))
+dma54 <- mean(c(nma54$tn, nma53$tn, nma52$tn, nma51$tn, nma50$tn, nma49$tn, nma48$tn))
+dma53 <- mean(c(nma53$tn, nma52$tn, nma51$tn, nma50$tn, nma49$tn, nma48$tn, nma47$tn))
+dma52 <- mean(c(nma52$tn, nma51$tn, nma50$tn, nma49$tn, nma48$tn, nma47$tn, nma46$tn))
+dma51 <- mean(c(nma51$tn, nma50$tn, nma49$tn, nma48$tn, nma47$tn, nma46$tn, nma45$tn))
+dma50 <- mean(c(nma50$tn, nma49$tn, nma48$tn, nma47$tn, nma46$tn, nma45$tn, nma44$tn))
+dma49 <- mean(c(nma49$tn, nma48$tn, nma47$tn, nma46$tn, nma45$tn, nma44$tn, nma43$tn))
+dma48 <- mean(c(nma48$tn, nma47$tn, nma46$tn, nma45$tn, nma44$tn, nma43$tn, nma42$tn))
+dma47 <- mean(c(nma47$tn, nma46$tn, nma45$tn, nma44$tn, nma43$tn, nma42$tn, nma41$tn))
+dma46 <- mean(c(nma46$tn, nma45$tn, nma44$tn, nma43$tn, nma42$tn, nma41$tn, nma40$tn))
+dma45 <- mean(c(nma45$tn, nma44$tn, nma43$tn, nma42$tn, nma41$tn, nma40$tn, nma39$tn))
+dma44 <- mean(c(nma44$tn, nma43$tn, nma42$tn, nma41$tn, nma40$tn, nma39$tn, nma38$tn))
+dma43 <- mean(c(nma43$tn, nma42$tn, nma41$tn, nma40$tn, nma39$tn, nma38$tn, nma37$tn))
+dma42 <- mean(c(nma42$tn, nma41$tn, nma40$tn, nma39$tn, nma38$tn, nma37$tn, nma36$tn))
+dma41 <- mean(c(nma41$tn, nma40$tn, nma39$tn, nma38$tn, nma37$tn, nma36$tn, nma35$tn))
+dma40 <- mean(c(nma40$tn, nma39$tn, nma38$tn, nma37$tn, nma36$tn, nma35$tn, nma34$tn))
+dma39 <- mean(c(nma39$tn, nma38$tn, nma37$tn, nma36$tn, nma35$tn, nma34$tn, nma33$tn))
+dma38 <- mean(c(nma38$tn, nma37$tn, nma36$tn, nma35$tn, nma34$tn, nma33$tn, nma32$tn))
+dma37 <- mean(c(nma37$tn, nma36$tn, nma35$tn, nma34$tn, nma33$tn, nma32$tn, nma31$tn))
+dma36 <- mean(c(nma36$tn, nma35$tn, nma34$tn, nma33$tn, nma32$tn, nma31$tn, nma30$tn))
+dma35 <- mean(c(nma35$tn, nma34$tn, nma33$tn, nma32$tn, nma31$tn, nma30$tn, nma29$tn))
+dma34 <- mean(c(nma34$tn, nma33$tn, nma32$tn, nma31$tn, nma30$tn, nma29$tn, nma28$tn))
+dma33 <- mean(c(nma33$tn, nma32$tn, nma31$tn, nma30$tn, nma29$tn, nma28$tn, nma27$tn))
+dma32 <- mean(c(nma32$tn, nma31$tn, nma30$tn, nma29$tn, nma28$tn, nma27$tn, nma26$tn))
+dma31 <- mean(c(nma31$tn, nma30$tn, nma29$tn, nma28$tn, nma27$tn, nma26$tn, nma25$tn))
+dma30 <- mean(c(nma30$tn, nma29$tn, nma28$tn, nma27$tn, nma26$tn, nma25$tn, nma24$tn))
+dma29 <- mean(c(nma29$tn, nma28$tn, nma27$tn, nma26$tn, nma25$tn, nma24$tn, nma23$tn))
+dma28 <- mean(c(nma28$tn, nma27$tn, nma26$tn, nma25$tn, nma24$tn, nma23$tn, nma22$tn))
+dma27 <- mean(c(nma27$tn, nma26$tn, nma25$tn, nma24$tn, nma23$tn, nma22$tn, nma21$tn))
+dma26 <- mean(c(nma26$tn, nma25$tn, nma24$tn, nma23$tn, nma22$tn, nma21$tn, nma20$tn))
+dma25 <- mean(c(nma25$tn, nma24$tn, nma23$tn, nma22$tn, nma21$tn, nma20$tn, nma19$tn))
+dma24 <- mean(c(nma24$tn, nma23$tn, nma22$tn, nma21$tn, nma20$tn, nma19$tn, nma18$tn))
+dma23 <- mean(c(nma23$tn, nma22$tn, nma21$tn, nma20$tn, nma19$tn, nma18$tn, nma17$tn))
+dma22 <- mean(c(nma22$tn, nma21$tn, nma20$tn, nma19$tn, nma18$tn, nma17$tn, nma16$tn))
+dma21 <- mean(c(nma21$tn, nma20$tn, nma19$tn, nma18$tn, nma17$tn, nma16$tn, nma15$tn))
+dma20 <- mean(c(nma20$tn, nma19$tn, nma18$tn, nma17$tn, nma16$tn, nma15$tn, nma14$tn))
+dma19 <- mean(c(nma19$tn, nma18$tn, nma17$tn, nma16$tn, nma15$tn, nma14$tn, nma13$tn))
+dma18 <- mean(c(nma18$tn, nma17$tn, nma16$tn, nma15$tn, nma14$tn, nma13$tn, nma12$tn))
+dma17 <- mean(c(nma17$tn, nma16$tn, nma15$tn, nma14$tn, nma13$tn, nma12$tn, nma11$tn))
+dma16 <- mean(c(nma16$tn, nma15$tn, nma14$tn, nma13$tn, nma12$tn, nma11$tn, nma10$tn))
+dma15 <- mean(c(nma15$tn, nma14$tn, nma13$tn, nma12$tn, nma11$tn, nma10$tn, nma09$tn))
+dma14 <- mean(c(nma14$tn, nma13$tn, nma12$tn, nma11$tn, nma10$tn, nma09$tn, nma08$tn))
+dma13 <- mean(c(nma13$tn, nma12$tn, nma11$tn, nma10$tn, nma09$tn, nma08$tn, nma07$tn))
+dma12 <- mean(c(nma12$tn, nma11$tn, nma10$tn, nma09$tn, nma08$tn, nma07$tn, nma06$tn))
+dma11 <- mean(c(nma11$tn, nma10$tn, nma09$tn, nma08$tn, nma07$tn, nma06$tn, nma05$tn))
+dma10 <- mean(c(nma10$tn, nma09$tn, nma08$tn, nma07$tn, nma06$tn, nma05$tn, nma04$tn))
+dma09 <- mean(c(nma09$tn, nma08$tn, nma07$tn, nma06$tn, nma05$tn, nma04$tn, nma03$tn))
+dma08 <- mean(c(nma08$tn, nma07$tn, nma06$tn, nma05$tn, nma04$tn, nma03$tn, nma02$tn))
+dma07 <- mean(c(nma07$tn, nma06$tn, nma05$tn, nma04$tn, nma03$tn, nma02$tn, nma01$tn))
 
 dfma <- data_frame(
   fecha,
-  dncma = c(dma158/pma, dma157/pma, dma156/pma, dma155/pma, dma154/pma, dma153/pma, dma152/pma, dma151/pma, dma150/pma,
+  dncma = c(dma162/pma, dma161/pma, dma160/pma, 
+            dma159/pma, dma158/pma, dma157/pma, dma156/pma, dma155/pma, dma154/pma, dma153/pma, dma152/pma, dma151/pma, dma150/pma,
             dma149/pma, dma148/pma, dma147/pma, dma146/pma, dma145/pma, dma144/pma, dma143/pma, dma142/pma, dma141/pma, dma140/pma, 
             dma139/pma, dma138/pma, dma137/pma, dma136/pma, dma135/pma, dma134/pma, dma133/pma, dma132/pma, dma131/pma, dma130/pma, 
             dma129/pma, dma128/pma, dma127/pma, dma126/pma, dma125/pma, dma124/pma, dma123/pma, dma122/pma, dma121/pma, dma120/pma, 
@@ -1840,10 +2087,28 @@ dfma <- data_frame(
             dma99/pma, dma98/pma, dma97/pma, dma96/pma, dma95/pma, dma94/pma, dma93/pma, dma92/pma, dma91/pma, dma90/pma, 
             dma89/pma, dma88/pma, dma87/pma, dma86/pma, dma85/pma, dma84/pma, dma83/pma, dma82/pma, dma81/pma, dma80/pma, 
             dma79/pma, dma78/pma, dma77/pma, dma76/pma, dma75/pma, dma74/pma, dma73/pma, dma72/pma, dma71/pma, dma70/pma, 
-            dma69/pma, dma68/pma, dma67/pma, dma66/pma)
+            dma69/pma, dma68/pma, dma67/pma, dma66/pma, dma65/pma, dma64/pma, dma63/pma, dma62/pma, dma61/pma, dma60/pma,
+            dma59/pma, dma58/pma, dma57/pma, dma56/pma, dma55/pma, dma54/pma, dma53/pma, dma52/pma, dma51/pma, dma50/pma,
+            dma49/pma, dma48/pma, dma47/pma, dma46/pma, dma45/pma, dma44/pma, dma43/pma, dma42/pma, dma41/pma, dma40/pma,
+            dma39/pma, dma38/pma, dma37/pma, dma36/pma, dma35/pma, dma34/pma, dma33/pma, dma32/pma, dma31/pma, dma30/pma,
+            dma29/pma, dma28/pma, dma27/pma, dma26/pma, dma25/pma, dma24/pma, dma23/pma, dma22/pma, dma21/pma, dma20/pma,
+            dma19/pma, dma18/pma, dma17/pma, dma16/pma, dma15/pma, dma14/pma, dma13/pma, dma12/pma, dma11/pma, dma10/pma,
+            dma09/pma, dma08/pma, dma07/pma)
 )
 
 # ***** LOS RIOS *****
+nlr162 <- losrios22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nlr161 <- losrios22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nlr160 <- losrios22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nlr159 <- losrios22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nlr158 <- losrios22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -2319,6 +2584,10 @@ nlr01 <- losrios22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dlr162 <- mean(c(nlr162$tn, nlr161$tn, nlr160$tn, nlr159$tn, nlr158$tn, nlr157$tn, nlr156$tn))
+dlr161 <- mean(c(nlr161$tn, nlr160$tn, nlr159$tn, nlr158$tn, nlr157$tn, nlr156$tn, nlr155$tn))
+dlr160 <- mean(c(nlr160$tn, nlr159$tn, nlr158$tn, nlr157$tn, nlr156$tn, nlr155$tn, nlr154$tn))
+dlr159 <- mean(c(nlr159$tn, nlr158$tn, nlr157$tn, nlr156$tn, nlr155$tn, nlr154$tn, nlr153$tn))
 dlr158 <- mean(c(nlr158$tn, nlr157$tn, nlr156$tn, nlr155$tn, nlr154$tn, nlr153$tn, nlr152$tn))
 dlr157 <- mean(c(nlr157$tn, nlr156$tn, nlr155$tn, nlr154$tn, nlr153$tn, nlr152$tn, nlr151$tn))
 dlr156 <- mean(c(nlr156$tn, nlr155$tn, nlr154$tn, nlr153$tn, nlr152$tn, nlr151$tn, nlr150$tn))
@@ -2412,10 +2681,70 @@ dlr69 <- mean(c(nlr69$tn, nlr68$tn, nlr67$tn, nlr66$tn, nlr65$tn, nlr64$tn, nlr6
 dlr68 <- mean(c(nlr68$tn, nlr67$tn, nlr66$tn, nlr65$tn, nlr64$tn, nlr63$tn, nlr62$tn))
 dlr67 <- mean(c(nlr67$tn, nlr66$tn, nlr65$tn, nlr64$tn, nlr63$tn, nlr62$tn, nlr61$tn))
 dlr66 <- mean(c(nlr66$tn, nlr65$tn, nlr64$tn, nlr63$tn, nlr62$tn, nlr61$tn, nlr60$tn))
+dlr65 <- mean(c(nlr65$tn, nlr64$tn, nlr63$tn, nlr62$tn, nlr61$tn, nlr60$tn, nlr59$tn))
+dlr64 <- mean(c(nlr64$tn, nlr63$tn, nlr62$tn, nlr61$tn, nlr60$tn, nlr59$tn, nlr58$tn))
+dlr63 <- mean(c(nlr63$tn, nlr62$tn, nlr61$tn, nlr60$tn, nlr59$tn, nlr58$tn, nlr57$tn))
+dlr62 <- mean(c(nlr62$tn, nlr61$tn, nlr60$tn, nlr59$tn, nlr58$tn, nlr57$tn, nlr56$tn))
+dlr61 <- mean(c(nlr61$tn, nlr60$tn, nlr59$tn, nlr58$tn, nlr57$tn, nlr56$tn, nlr55$tn))
+dlr60 <- mean(c(nlr60$tn, nlr59$tn, nlr58$tn, nlr57$tn, nlr56$tn, nlr55$tn, nlr54$tn))
+dlr59 <- mean(c(nlr59$tn, nlr58$tn, nlr57$tn, nlr56$tn, nlr55$tn, nlr54$tn, nlr53$tn))
+dlr58 <- mean(c(nlr58$tn, nlr57$tn, nlr56$tn, nlr55$tn, nlr54$tn, nlr53$tn, nlr52$tn))
+dlr57 <- mean(c(nlr57$tn, nlr56$tn, nlr55$tn, nlr54$tn, nlr53$tn, nlr52$tn, nlr51$tn))
+dlr56 <- mean(c(nlr56$tn, nlr55$tn, nlr54$tn, nlr53$tn, nlr52$tn, nlr51$tn, nlr50$tn))
+dlr55 <- mean(c(nlr55$tn, nlr54$tn, nlr53$tn, nlr52$tn, nlr51$tn, nlr50$tn, nlr49$tn))
+dlr54 <- mean(c(nlr54$tn, nlr53$tn, nlr52$tn, nlr51$tn, nlr50$tn, nlr49$tn, nlr48$tn))
+dlr53 <- mean(c(nlr53$tn, nlr52$tn, nlr51$tn, nlr50$tn, nlr49$tn, nlr48$tn, nlr47$tn))
+dlr52 <- mean(c(nlr52$tn, nlr51$tn, nlr50$tn, nlr49$tn, nlr48$tn, nlr47$tn, nlr46$tn))
+dlr51 <- mean(c(nlr51$tn, nlr50$tn, nlr49$tn, nlr48$tn, nlr47$tn, nlr46$tn, nlr45$tn))
+dlr50 <- mean(c(nlr50$tn, nlr49$tn, nlr48$tn, nlr47$tn, nlr46$tn, nlr45$tn, nlr44$tn))
+dlr49 <- mean(c(nlr49$tn, nlr48$tn, nlr47$tn, nlr46$tn, nlr45$tn, nlr44$tn, nlr43$tn))
+dlr48 <- mean(c(nlr48$tn, nlr47$tn, nlr46$tn, nlr45$tn, nlr44$tn, nlr43$tn, nlr42$tn))
+dlr47 <- mean(c(nlr47$tn, nlr46$tn, nlr45$tn, nlr44$tn, nlr43$tn, nlr42$tn, nlr41$tn))
+dlr46 <- mean(c(nlr46$tn, nlr45$tn, nlr44$tn, nlr43$tn, nlr42$tn, nlr41$tn, nlr40$tn))
+dlr45 <- mean(c(nlr45$tn, nlr44$tn, nlr43$tn, nlr42$tn, nlr41$tn, nlr40$tn, nlr39$tn))
+dlr44 <- mean(c(nlr44$tn, nlr43$tn, nlr42$tn, nlr41$tn, nlr40$tn, nlr39$tn, nlr38$tn))
+dlr43 <- mean(c(nlr43$tn, nlr42$tn, nlr41$tn, nlr40$tn, nlr39$tn, nlr38$tn, nlr37$tn))
+dlr42 <- mean(c(nlr42$tn, nlr41$tn, nlr40$tn, nlr39$tn, nlr38$tn, nlr37$tn, nlr36$tn))
+dlr41 <- mean(c(nlr41$tn, nlr40$tn, nlr39$tn, nlr38$tn, nlr37$tn, nlr36$tn, nlr35$tn))
+dlr40 <- mean(c(nlr40$tn, nlr39$tn, nlr38$tn, nlr37$tn, nlr36$tn, nlr35$tn, nlr34$tn))
+dlr39 <- mean(c(nlr39$tn, nlr38$tn, nlr37$tn, nlr36$tn, nlr35$tn, nlr34$tn, nlr33$tn))
+dlr38 <- mean(c(nlr38$tn, nlr37$tn, nlr36$tn, nlr35$tn, nlr34$tn, nlr33$tn, nlr32$tn))
+dlr37 <- mean(c(nlr37$tn, nlr36$tn, nlr35$tn, nlr34$tn, nlr33$tn, nlr32$tn, nlr31$tn))
+dlr36 <- mean(c(nlr36$tn, nlr35$tn, nlr34$tn, nlr33$tn, nlr32$tn, nlr31$tn, nlr30$tn))
+dlr35 <- mean(c(nlr35$tn, nlr34$tn, nlr33$tn, nlr32$tn, nlr31$tn, nlr30$tn, nlr29$tn))
+dlr34 <- mean(c(nlr34$tn, nlr33$tn, nlr32$tn, nlr31$tn, nlr30$tn, nlr29$tn, nlr28$tn))
+dlr33 <- mean(c(nlr33$tn, nlr32$tn, nlr31$tn, nlr30$tn, nlr29$tn, nlr28$tn, nlr27$tn))
+dlr32 <- mean(c(nlr32$tn, nlr31$tn, nlr30$tn, nlr29$tn, nlr28$tn, nlr27$tn, nlr26$tn))
+dlr31 <- mean(c(nlr31$tn, nlr30$tn, nlr29$tn, nlr28$tn, nlr27$tn, nlr26$tn, nlr25$tn))
+dlr30 <- mean(c(nlr30$tn, nlr29$tn, nlr28$tn, nlr27$tn, nlr26$tn, nlr25$tn, nlr24$tn))
+dlr29 <- mean(c(nlr29$tn, nlr28$tn, nlr27$tn, nlr26$tn, nlr25$tn, nlr24$tn, nlr23$tn))
+dlr28 <- mean(c(nlr28$tn, nlr27$tn, nlr26$tn, nlr25$tn, nlr24$tn, nlr23$tn, nlr22$tn))
+dlr27 <- mean(c(nlr27$tn, nlr26$tn, nlr25$tn, nlr24$tn, nlr23$tn, nlr22$tn, nlr21$tn))
+dlr26 <- mean(c(nlr26$tn, nlr25$tn, nlr24$tn, nlr23$tn, nlr22$tn, nlr21$tn, nlr20$tn))
+dlr25 <- mean(c(nlr25$tn, nlr24$tn, nlr23$tn, nlr22$tn, nlr21$tn, nlr20$tn, nlr19$tn))
+dlr24 <- mean(c(nlr24$tn, nlr23$tn, nlr22$tn, nlr21$tn, nlr20$tn, nlr19$tn, nlr18$tn))
+dlr23 <- mean(c(nlr23$tn, nlr22$tn, nlr21$tn, nlr20$tn, nlr19$tn, nlr18$tn, nlr17$tn))
+dlr22 <- mean(c(nlr22$tn, nlr21$tn, nlr20$tn, nlr19$tn, nlr18$tn, nlr17$tn, nlr16$tn))
+dlr21 <- mean(c(nlr21$tn, nlr20$tn, nlr19$tn, nlr18$tn, nlr17$tn, nlr16$tn, nlr15$tn))
+dlr20 <- mean(c(nlr20$tn, nlr19$tn, nlr18$tn, nlr17$tn, nlr16$tn, nlr15$tn, nlr14$tn))
+dlr19 <- mean(c(nlr19$tn, nlr18$tn, nlr17$tn, nlr16$tn, nlr15$tn, nlr14$tn, nlr13$tn))
+dlr18 <- mean(c(nlr18$tn, nlr17$tn, nlr16$tn, nlr15$tn, nlr14$tn, nlr13$tn, nlr12$tn))
+dlr17 <- mean(c(nlr17$tn, nlr16$tn, nlr15$tn, nlr14$tn, nlr13$tn, nlr12$tn, nlr11$tn))
+dlr16 <- mean(c(nlr16$tn, nlr15$tn, nlr14$tn, nlr13$tn, nlr12$tn, nlr11$tn, nlr10$tn))
+dlr15 <- mean(c(nlr15$tn, nlr14$tn, nlr13$tn, nlr12$tn, nlr11$tn, nlr10$tn, nlr09$tn))
+dlr14 <- mean(c(nlr14$tn, nlr13$tn, nlr12$tn, nlr11$tn, nlr10$tn, nlr09$tn, nlr08$tn))
+dlr13 <- mean(c(nlr13$tn, nlr12$tn, nlr11$tn, nlr10$tn, nlr09$tn, nlr08$tn, nlr07$tn))
+dlr12 <- mean(c(nlr12$tn, nlr11$tn, nlr10$tn, nlr09$tn, nlr08$tn, nlr07$tn, nlr06$tn))
+dlr11 <- mean(c(nlr11$tn, nlr10$tn, nlr09$tn, nlr08$tn, nlr07$tn, nlr06$tn, nlr05$tn))
+dlr10 <- mean(c(nlr10$tn, nlr09$tn, nlr08$tn, nlr07$tn, nlr06$tn, nlr05$tn, nlr04$tn))
+dlr09 <- mean(c(nlr09$tn, nlr08$tn, nlr07$tn, nlr06$tn, nlr05$tn, nlr04$tn, nlr03$tn))
+dlr08 <- mean(c(nlr08$tn, nlr07$tn, nlr06$tn, nlr05$tn, nlr04$tn, nlr03$tn, nlr02$tn))
+dlr07 <- mean(c(nlr07$tn, nlr06$tn, nlr05$tn, nlr04$tn, nlr03$tn, nlr02$tn, nlr01$tn))
 
 dflr <- data_frame(
   fecha,
-  dnclr = c(dlr158/plr, dlr157/plr, dlr156/plr, dlr155/plr, dlr154/plr, dlr153/plr, dlr152/plr, dlr151/plr, dlr150/plr,
+  dnclr = c(dlr162/plr, dlr161/plr, dlr160/plr, 
+            dlr159/plr, dlr158/plr, dlr157/plr, dlr156/plr, dlr155/plr, dlr154/plr, dlr153/plr, dlr152/plr, dlr151/plr, dlr150/plr,
             dlr149/plr, dlr148/plr, dlr147/plr, dlr146/plr, dlr145/plr, dlr144/plr, dlr143/plr, dlr142/plr, dlr141/plr, dlr140/plr, 
             dlr139/plr, dlr138/plr, dlr137/plr, dlr136/plr, dlr135/plr, dlr134/plr, dlr133/plr, dlr132/plr, dlr131/plr, dlr130/plr, 
             dlr129/plr, dlr128/plr, dlr127/plr, dlr126/plr, dlr125/plr, dlr124/plr, dlr123/plr, dlr122/plr, dlr121/plr, dlr120/plr, 
@@ -2424,10 +2753,28 @@ dflr <- data_frame(
             dlr99/plr, dlr98/plr, dlr97/plr, dlr96/plr, dlr95/plr, dlr94/plr, dlr93/plr, dlr92/plr, dlr91/plr, dlr90/plr, 
             dlr89/plr, dlr88/plr, dlr87/plr, dlr86/plr, dlr85/plr, dlr84/plr, dlr83/plr, dlr82/plr, dlr81/plr, dlr80/plr, 
             dlr79/plr, dlr78/plr, dlr77/plr, dlr76/plr, dlr75/plr, dlr74/plr, dlr73/plr, dlr72/plr, dlr71/plr, dlr70/plr, 
-            dlr69/plr, dlr68/plr, dlr67/plr, dlr66/plr)
+            dlr69/plr, dlr68/plr, dlr67/plr, dlr66/plr, dlr65/plr, dlr64/plr, dlr63/plr, dlr62/plr, dlr61/plr, dlr60/plr,
+            dlr59/plr, dlr58/plr, dlr57/plr, dlr56/plr, dlr55/plr, dlr54/plr, dlr53/plr, dlr52/plr, dlr51/plr, dlr50/plr,
+            dlr49/plr, dlr48/plr, dlr47/plr, dlr46/plr, dlr45/plr, dlr44/plr, dlr43/plr, dlr42/plr, dlr41/plr, dlr40/plr,
+            dlr39/plr, dlr38/plr, dlr37/plr, dlr36/plr, dlr35/plr, dlr34/plr, dlr33/plr, dlr32/plr, dlr31/plr, dlr30/plr,
+            dlr29/plr, dlr28/plr, dlr27/plr, dlr26/plr, dlr25/plr, dlr24/plr, dlr23/plr, dlr22/plr, dlr21/plr, dlr20/plr,
+            dlr19/plr, dlr18/plr, dlr17/plr, dlr16/plr, dlr15/plr, dlr14/plr, dlr13/plr, dlr12/plr, dlr11/plr, dlr10/plr,
+            dlr09/plr, dlr08/plr, dlr07/plr)
 )
 
 # ***** AZUAY *****
+naz162 <- azuay22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+naz161 <- azuay22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+naz160 <- azuay22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+naz159 <- azuay22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 naz158 <- azuay22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -2903,6 +3250,10 @@ naz01 <- azuay22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+daz162 <- mean(c(naz162$tn, naz161$tn, naz160$tn, naz159$tn, naz158$tn, naz157$tn, naz156$tn))
+daz161 <- mean(c(naz161$tn, naz160$tn, naz159$tn, naz158$tn, naz157$tn, naz156$tn, naz155$tn))
+daz160 <- mean(c(naz160$tn, naz159$tn, naz158$tn, naz157$tn, naz156$tn, naz155$tn, naz154$tn))
+daz159 <- mean(c(naz159$tn, naz158$tn, naz157$tn, naz156$tn, naz155$tn, naz154$tn, naz153$tn))
 daz158 <- mean(c(naz158$tn, naz157$tn, naz156$tn, naz155$tn, naz154$tn, naz153$tn, naz152$tn))
 daz157 <- mean(c(naz157$tn, naz156$tn, naz155$tn, naz154$tn, naz153$tn, naz152$tn, naz151$tn))
 daz156 <- mean(c(naz156$tn, naz155$tn, naz154$tn, naz153$tn, naz152$tn, naz151$tn, naz150$tn))
@@ -2996,10 +3347,70 @@ daz69 <- mean(c(naz69$tn, naz68$tn, naz67$tn, naz66$tn, naz65$tn, naz64$tn, naz6
 daz68 <- mean(c(naz68$tn, naz67$tn, naz66$tn, naz65$tn, naz64$tn, naz63$tn, naz62$tn))
 daz67 <- mean(c(naz67$tn, naz66$tn, naz65$tn, naz64$tn, naz63$tn, naz62$tn, naz61$tn))
 daz66 <- mean(c(naz66$tn, naz65$tn, naz64$tn, naz63$tn, naz62$tn, naz61$tn, naz60$tn))
+daz65 <- mean(c(naz65$tn, naz64$tn, naz63$tn, naz62$tn, naz61$tn, naz60$tn, naz59$tn))
+daz64 <- mean(c(naz64$tn, naz63$tn, naz62$tn, naz61$tn, naz60$tn, naz59$tn, naz58$tn))
+daz63 <- mean(c(naz63$tn, naz62$tn, naz61$tn, naz60$tn, naz59$tn, naz58$tn, naz57$tn))
+daz62 <- mean(c(naz62$tn, naz61$tn, naz60$tn, naz59$tn, naz58$tn, naz57$tn, naz56$tn))
+daz61 <- mean(c(naz61$tn, naz60$tn, naz59$tn, naz58$tn, naz57$tn, naz56$tn, naz55$tn))
+daz60 <- mean(c(naz60$tn, naz59$tn, naz58$tn, naz57$tn, naz56$tn, naz55$tn, naz54$tn))
+daz59 <- mean(c(naz59$tn, naz58$tn, naz57$tn, naz56$tn, naz55$tn, naz54$tn, naz53$tn))
+daz58 <- mean(c(naz58$tn, naz57$tn, naz56$tn, naz55$tn, naz54$tn, naz53$tn, naz52$tn))
+daz57 <- mean(c(naz57$tn, naz56$tn, naz55$tn, naz54$tn, naz53$tn, naz52$tn, naz51$tn))
+daz56 <- mean(c(naz56$tn, naz55$tn, naz54$tn, naz53$tn, naz52$tn, naz51$tn, naz50$tn))
+daz55 <- mean(c(naz55$tn, naz54$tn, naz53$tn, naz52$tn, naz51$tn, naz50$tn, naz49$tn))
+daz54 <- mean(c(naz54$tn, naz53$tn, naz52$tn, naz51$tn, naz50$tn, naz49$tn, naz48$tn))
+daz53 <- mean(c(naz53$tn, naz52$tn, naz51$tn, naz50$tn, naz49$tn, naz48$tn, naz47$tn))
+daz52 <- mean(c(naz52$tn, naz51$tn, naz50$tn, naz49$tn, naz48$tn, naz47$tn, naz46$tn))
+daz51 <- mean(c(naz51$tn, naz50$tn, naz49$tn, naz48$tn, naz47$tn, naz46$tn, naz45$tn))
+daz50 <- mean(c(naz50$tn, naz49$tn, naz48$tn, naz47$tn, naz46$tn, naz45$tn, naz44$tn))
+daz49 <- mean(c(naz49$tn, naz48$tn, naz47$tn, naz46$tn, naz45$tn, naz44$tn, naz43$tn))
+daz48 <- mean(c(naz48$tn, naz47$tn, naz46$tn, naz45$tn, naz44$tn, naz43$tn, naz42$tn))
+daz47 <- mean(c(naz47$tn, naz46$tn, naz45$tn, naz44$tn, naz43$tn, naz42$tn, naz41$tn))
+daz46 <- mean(c(naz46$tn, naz45$tn, naz44$tn, naz43$tn, naz42$tn, naz41$tn, naz40$tn))
+daz45 <- mean(c(naz45$tn, naz44$tn, naz43$tn, naz42$tn, naz41$tn, naz40$tn, naz39$tn))
+daz44 <- mean(c(naz44$tn, naz43$tn, naz42$tn, naz41$tn, naz40$tn, naz39$tn, naz38$tn))
+daz43 <- mean(c(naz43$tn, naz42$tn, naz41$tn, naz40$tn, naz39$tn, naz38$tn, naz37$tn))
+daz42 <- mean(c(naz42$tn, naz41$tn, naz40$tn, naz39$tn, naz38$tn, naz37$tn, naz36$tn))
+daz41 <- mean(c(naz41$tn, naz40$tn, naz39$tn, naz38$tn, naz37$tn, naz36$tn, naz35$tn))
+daz40 <- mean(c(naz40$tn, naz39$tn, naz38$tn, naz37$tn, naz36$tn, naz35$tn, naz34$tn))
+daz39 <- mean(c(naz39$tn, naz38$tn, naz37$tn, naz36$tn, naz35$tn, naz34$tn, naz33$tn))
+daz38 <- mean(c(naz38$tn, naz37$tn, naz36$tn, naz35$tn, naz34$tn, naz33$tn, naz32$tn))
+daz37 <- mean(c(naz37$tn, naz36$tn, naz35$tn, naz34$tn, naz33$tn, naz32$tn, naz31$tn))
+daz36 <- mean(c(naz36$tn, naz35$tn, naz34$tn, naz33$tn, naz32$tn, naz31$tn, naz30$tn))
+daz35 <- mean(c(naz35$tn, naz34$tn, naz33$tn, naz32$tn, naz31$tn, naz30$tn, naz29$tn))
+daz34 <- mean(c(naz34$tn, naz33$tn, naz32$tn, naz31$tn, naz30$tn, naz29$tn, naz28$tn))
+daz33 <- mean(c(naz33$tn, naz32$tn, naz31$tn, naz30$tn, naz29$tn, naz28$tn, naz27$tn))
+daz32 <- mean(c(naz32$tn, naz31$tn, naz30$tn, naz29$tn, naz28$tn, naz27$tn, naz26$tn))
+daz31 <- mean(c(naz31$tn, naz30$tn, naz29$tn, naz28$tn, naz27$tn, naz26$tn, naz25$tn))
+daz30 <- mean(c(naz30$tn, naz29$tn, naz28$tn, naz27$tn, naz26$tn, naz25$tn, naz24$tn))
+daz29 <- mean(c(naz29$tn, naz28$tn, naz27$tn, naz26$tn, naz25$tn, naz24$tn, naz23$tn))
+daz28 <- mean(c(naz28$tn, naz27$tn, naz26$tn, naz25$tn, naz24$tn, naz23$tn, naz22$tn))
+daz27 <- mean(c(naz27$tn, naz26$tn, naz25$tn, naz24$tn, naz23$tn, naz22$tn, naz21$tn))
+daz26 <- mean(c(naz26$tn, naz25$tn, naz24$tn, naz23$tn, naz22$tn, naz21$tn, naz20$tn))
+daz25 <- mean(c(naz25$tn, naz24$tn, naz23$tn, naz22$tn, naz21$tn, naz20$tn, naz19$tn))
+daz24 <- mean(c(naz24$tn, naz23$tn, naz22$tn, naz21$tn, naz20$tn, naz19$tn, naz18$tn))
+daz23 <- mean(c(naz23$tn, naz22$tn, naz21$tn, naz20$tn, naz19$tn, naz18$tn, naz17$tn))
+daz22 <- mean(c(naz22$tn, naz21$tn, naz20$tn, naz19$tn, naz18$tn, naz17$tn, naz16$tn))
+daz21 <- mean(c(naz21$tn, naz20$tn, naz19$tn, naz18$tn, naz17$tn, naz16$tn, naz15$tn))
+daz20 <- mean(c(naz20$tn, naz19$tn, naz18$tn, naz17$tn, naz16$tn, naz15$tn, naz14$tn))
+daz19 <- mean(c(naz19$tn, naz18$tn, naz17$tn, naz16$tn, naz15$tn, naz14$tn, naz13$tn))
+daz18 <- mean(c(naz18$tn, naz17$tn, naz16$tn, naz15$tn, naz14$tn, naz13$tn, naz12$tn))
+daz17 <- mean(c(naz17$tn, naz16$tn, naz15$tn, naz14$tn, naz13$tn, naz12$tn, naz11$tn))
+daz16 <- mean(c(naz16$tn, naz15$tn, naz14$tn, naz13$tn, naz12$tn, naz11$tn, naz10$tn))
+daz15 <- mean(c(naz15$tn, naz14$tn, naz13$tn, naz12$tn, naz11$tn, naz10$tn, naz09$tn))
+daz14 <- mean(c(naz14$tn, naz13$tn, naz12$tn, naz11$tn, naz10$tn, naz09$tn, naz08$tn))
+daz13 <- mean(c(naz13$tn, naz12$tn, naz11$tn, naz10$tn, naz09$tn, naz08$tn, naz07$tn))
+daz12 <- mean(c(naz12$tn, naz11$tn, naz10$tn, naz09$tn, naz08$tn, naz07$tn, naz06$tn))
+daz11 <- mean(c(naz11$tn, naz10$tn, naz09$tn, naz08$tn, naz07$tn, naz06$tn, naz05$tn))
+daz10 <- mean(c(naz10$tn, naz09$tn, naz08$tn, naz07$tn, naz06$tn, naz05$tn, naz04$tn))
+daz09 <- mean(c(naz09$tn, naz08$tn, naz07$tn, naz06$tn, naz05$tn, naz04$tn, naz03$tn))
+daz08 <- mean(c(naz08$tn, naz07$tn, naz06$tn, naz05$tn, naz04$tn, naz03$tn, naz02$tn))
+daz07 <- mean(c(naz07$tn, naz06$tn, naz05$tn, naz04$tn, naz03$tn, naz02$tn, naz01$tn))
 
 dfaz <- data_frame(
   fecha,
-  dncaz = c(daz158/paz, daz157/paz, daz156/paz, daz155/paz, daz154/paz, daz153/paz, daz152/paz, daz151/paz, daz150/paz,
+  dncaz = c(daz162/paz, daz161/paz, daz160/paz, 
+            daz159/paz, daz158/paz, daz157/paz, daz156/paz, daz155/paz, daz154/paz, daz153/paz, daz152/paz, daz151/paz, daz150/paz,
             daz149/paz, daz148/paz, daz147/paz, daz146/paz, daz145/paz, daz144/paz, daz143/paz, daz142/paz, daz141/paz, daz140/paz, 
             daz139/paz, daz138/paz, daz137/paz, daz136/paz, daz135/paz, daz134/paz, daz133/paz, daz132/paz, daz131/paz, daz130/paz, 
             daz129/paz, daz128/paz, daz127/paz, daz126/paz, daz125/paz, daz124/paz, daz123/paz, daz122/paz, daz121/paz, daz120/paz, 
@@ -3008,10 +3419,28 @@ dfaz <- data_frame(
             daz99/paz, daz98/paz, daz97/paz, daz96/paz, daz95/paz, daz94/paz, daz93/paz, daz92/paz, daz91/paz, daz90/paz, 
             daz89/paz, daz88/paz, daz87/paz, daz86/paz, daz85/paz, daz84/paz, daz83/paz, daz82/paz, daz81/paz, daz80/paz, 
             daz79/paz, daz78/paz, daz77/paz, daz76/paz, daz75/paz, daz74/paz, daz73/paz, daz72/paz, daz71/paz, daz70/paz, 
-            daz69/paz, daz68/paz, daz67/paz, daz66/paz)
+            daz69/paz, daz68/paz, daz67/paz, daz66/paz, daz65/paz, daz64/paz, daz63/paz, daz62/paz, daz61/paz, daz60/paz,
+            daz59/paz, daz58/paz, daz57/paz, daz56/paz, daz55/paz, daz54/paz, daz53/paz, daz52/paz, daz51/paz, daz50/paz,
+            daz49/paz, daz48/paz, daz47/paz, daz46/paz, daz45/paz, daz44/paz, daz43/paz, daz42/paz, daz41/paz, daz40/paz,
+            daz39/paz, daz38/paz, daz37/paz, daz36/paz, daz35/paz, daz34/paz, daz33/paz, daz32/paz, daz31/paz, daz30/paz,
+            daz29/paz, daz28/paz, daz27/paz, daz26/paz, daz25/paz, daz24/paz, daz23/paz, daz22/paz, daz21/paz, daz20/paz,
+            daz19/paz, daz18/paz, daz17/paz, daz16/paz, daz15/paz, daz14/paz, daz13/paz, daz12/paz, daz11/paz, daz10/paz,
+            daz09/paz, daz08/paz, daz07/paz)
 )
 
 # ***** EL ORO *****
+nel162 <- eloro22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nel161 <- eloro22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nel160 <- eloro22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nel159 <- eloro22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nel158 <- eloro22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -3487,6 +3916,10 @@ nel01 <- eloro22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+del162 <- mean(c(nel162$tn, nel161$tn, nel160$tn, nel159$tn, nel158$tn, nel157$tn, nel156$tn))
+del161 <- mean(c(nel161$tn, nel160$tn, nel159$tn, nel158$tn, nel157$tn, nel156$tn, nel155$tn))
+del160 <- mean(c(nel160$tn, nel159$tn, nel158$tn, nel157$tn, nel156$tn, nel155$tn, nel154$tn))
+del159 <- mean(c(nel159$tn, nel158$tn, nel157$tn, nel156$tn, nel155$tn, nel154$tn, nel153$tn))
 del158 <- mean(c(nel158$tn, nel157$tn, nel156$tn, nel155$tn, nel154$tn, nel153$tn, nel152$tn))
 del157 <- mean(c(nel157$tn, nel156$tn, nel155$tn, nel154$tn, nel153$tn, nel152$tn, nel151$tn))
 del156 <- mean(c(nel156$tn, nel155$tn, nel154$tn, nel153$tn, nel152$tn, nel151$tn, nel150$tn))
@@ -3580,10 +4013,70 @@ del69 <- mean(c(nel69$tn, nel68$tn, nel67$tn, nel66$tn, nel65$tn, nel64$tn, nel6
 del68 <- mean(c(nel68$tn, nel67$tn, nel66$tn, nel65$tn, nel64$tn, nel63$tn, nel62$tn))
 del67 <- mean(c(nel67$tn, nel66$tn, nel65$tn, nel64$tn, nel63$tn, nel62$tn, nel61$tn))
 del66 <- mean(c(nel66$tn, nel65$tn, nel64$tn, nel63$tn, nel62$tn, nel61$tn, nel60$tn))
+del65 <- mean(c(nel65$tn, nel64$tn, nel63$tn, nel62$tn, nel61$tn, nel60$tn, nel59$tn))
+del64 <- mean(c(nel64$tn, nel63$tn, nel62$tn, nel61$tn, nel60$tn, nel59$tn, nel58$tn))
+del63 <- mean(c(nel63$tn, nel62$tn, nel61$tn, nel60$tn, nel59$tn, nel58$tn, nel57$tn))
+del62 <- mean(c(nel62$tn, nel61$tn, nel60$tn, nel59$tn, nel58$tn, nel57$tn, nel56$tn))
+del61 <- mean(c(nel61$tn, nel60$tn, nel59$tn, nel58$tn, nel57$tn, nel56$tn, nel55$tn))
+del60 <- mean(c(nel60$tn, nel59$tn, nel58$tn, nel57$tn, nel56$tn, nel55$tn, nel54$tn))
+del59 <- mean(c(nel59$tn, nel58$tn, nel57$tn, nel56$tn, nel55$tn, nel54$tn, nel53$tn))
+del58 <- mean(c(nel58$tn, nel57$tn, nel56$tn, nel55$tn, nel54$tn, nel53$tn, nel52$tn))
+del57 <- mean(c(nel57$tn, nel56$tn, nel55$tn, nel54$tn, nel53$tn, nel52$tn, nel51$tn))
+del56 <- mean(c(nel56$tn, nel55$tn, nel54$tn, nel53$tn, nel52$tn, nel51$tn, nel50$tn))
+del55 <- mean(c(nel55$tn, nel54$tn, nel53$tn, nel52$tn, nel51$tn, nel50$tn, nel49$tn))
+del54 <- mean(c(nel54$tn, nel53$tn, nel52$tn, nel51$tn, nel50$tn, nel49$tn, nel48$tn))
+del53 <- mean(c(nel53$tn, nel52$tn, nel51$tn, nel50$tn, nel49$tn, nel48$tn, nel47$tn))
+del52 <- mean(c(nel52$tn, nel51$tn, nel50$tn, nel49$tn, nel48$tn, nel47$tn, nel46$tn))
+del51 <- mean(c(nel51$tn, nel50$tn, nel49$tn, nel48$tn, nel47$tn, nel46$tn, nel45$tn))
+del50 <- mean(c(nel50$tn, nel49$tn, nel48$tn, nel47$tn, nel46$tn, nel45$tn, nel44$tn))
+del49 <- mean(c(nel49$tn, nel48$tn, nel47$tn, nel46$tn, nel45$tn, nel44$tn, nel43$tn))
+del48 <- mean(c(nel48$tn, nel47$tn, nel46$tn, nel45$tn, nel44$tn, nel43$tn, nel42$tn))
+del47 <- mean(c(nel47$tn, nel46$tn, nel45$tn, nel44$tn, nel43$tn, nel42$tn, nel41$tn))
+del46 <- mean(c(nel46$tn, nel45$tn, nel44$tn, nel43$tn, nel42$tn, nel41$tn, nel40$tn))
+del45 <- mean(c(nel45$tn, nel44$tn, nel43$tn, nel42$tn, nel41$tn, nel40$tn, nel39$tn))
+del44 <- mean(c(nel44$tn, nel43$tn, nel42$tn, nel41$tn, nel40$tn, nel39$tn, nel38$tn))
+del43 <- mean(c(nel43$tn, nel42$tn, nel41$tn, nel40$tn, nel39$tn, nel38$tn, nel37$tn))
+del42 <- mean(c(nel42$tn, nel41$tn, nel40$tn, nel39$tn, nel38$tn, nel37$tn, nel36$tn))
+del41 <- mean(c(nel41$tn, nel40$tn, nel39$tn, nel38$tn, nel37$tn, nel36$tn, nel35$tn))
+del40 <- mean(c(nel40$tn, nel39$tn, nel38$tn, nel37$tn, nel36$tn, nel35$tn, nel34$tn))
+del39 <- mean(c(nel39$tn, nel38$tn, nel37$tn, nel36$tn, nel35$tn, nel34$tn, nel33$tn))
+del38 <- mean(c(nel38$tn, nel37$tn, nel36$tn, nel35$tn, nel34$tn, nel33$tn, nel32$tn))
+del37 <- mean(c(nel37$tn, nel36$tn, nel35$tn, nel34$tn, nel33$tn, nel32$tn, nel31$tn))
+del36 <- mean(c(nel36$tn, nel35$tn, nel34$tn, nel33$tn, nel32$tn, nel31$tn, nel30$tn))
+del35 <- mean(c(nel35$tn, nel34$tn, nel33$tn, nel32$tn, nel31$tn, nel30$tn, nel29$tn))
+del34 <- mean(c(nel34$tn, nel33$tn, nel32$tn, nel31$tn, nel30$tn, nel29$tn, nel28$tn))
+del33 <- mean(c(nel33$tn, nel32$tn, nel31$tn, nel30$tn, nel29$tn, nel28$tn, nel27$tn))
+del32 <- mean(c(nel32$tn, nel31$tn, nel30$tn, nel29$tn, nel28$tn, nel27$tn, nel26$tn))
+del31 <- mean(c(nel31$tn, nel30$tn, nel29$tn, nel28$tn, nel27$tn, nel26$tn, nel25$tn))
+del30 <- mean(c(nel30$tn, nel29$tn, nel28$tn, nel27$tn, nel26$tn, nel25$tn, nel24$tn))
+del29 <- mean(c(nel29$tn, nel28$tn, nel27$tn, nel26$tn, nel25$tn, nel24$tn, nel23$tn))
+del28 <- mean(c(nel28$tn, nel27$tn, nel26$tn, nel25$tn, nel24$tn, nel23$tn, nel22$tn))
+del27 <- mean(c(nel27$tn, nel26$tn, nel25$tn, nel24$tn, nel23$tn, nel22$tn, nel21$tn))
+del26 <- mean(c(nel26$tn, nel25$tn, nel24$tn, nel23$tn, nel22$tn, nel21$tn, nel20$tn))
+del25 <- mean(c(nel25$tn, nel24$tn, nel23$tn, nel22$tn, nel21$tn, nel20$tn, nel19$tn))
+del24 <- mean(c(nel24$tn, nel23$tn, nel22$tn, nel21$tn, nel20$tn, nel19$tn, nel18$tn))
+del23 <- mean(c(nel23$tn, nel22$tn, nel21$tn, nel20$tn, nel19$tn, nel18$tn, nel17$tn))
+del22 <- mean(c(nel22$tn, nel21$tn, nel20$tn, nel19$tn, nel18$tn, nel17$tn, nel16$tn))
+del21 <- mean(c(nel21$tn, nel20$tn, nel19$tn, nel18$tn, nel17$tn, nel16$tn, nel15$tn))
+del20 <- mean(c(nel20$tn, nel19$tn, nel18$tn, nel17$tn, nel16$tn, nel15$tn, nel14$tn))
+del19 <- mean(c(nel19$tn, nel18$tn, nel17$tn, nel16$tn, nel15$tn, nel14$tn, nel13$tn))
+del18 <- mean(c(nel18$tn, nel17$tn, nel16$tn, nel15$tn, nel14$tn, nel13$tn, nel12$tn))
+del17 <- mean(c(nel17$tn, nel16$tn, nel15$tn, nel14$tn, nel13$tn, nel12$tn, nel11$tn))
+del16 <- mean(c(nel16$tn, nel15$tn, nel14$tn, nel13$tn, nel12$tn, nel11$tn, nel10$tn))
+del15 <- mean(c(nel15$tn, nel14$tn, nel13$tn, nel12$tn, nel11$tn, nel10$tn, nel09$tn))
+del14 <- mean(c(nel14$tn, nel13$tn, nel12$tn, nel11$tn, nel10$tn, nel09$tn, nel08$tn))
+del13 <- mean(c(nel13$tn, nel12$tn, nel11$tn, nel10$tn, nel09$tn, nel08$tn, nel07$tn))
+del12 <- mean(c(nel12$tn, nel11$tn, nel10$tn, nel09$tn, nel08$tn, nel07$tn, nel06$tn))
+del11 <- mean(c(nel11$tn, nel10$tn, nel09$tn, nel08$tn, nel07$tn, nel06$tn, nel05$tn))
+del10 <- mean(c(nel10$tn, nel09$tn, nel08$tn, nel07$tn, nel06$tn, nel05$tn, nel04$tn))
+del09 <- mean(c(nel09$tn, nel08$tn, nel07$tn, nel06$tn, nel05$tn, nel04$tn, nel03$tn))
+del08 <- mean(c(nel08$tn, nel07$tn, nel06$tn, nel05$tn, nel04$tn, nel03$tn, nel02$tn))
+del07 <- mean(c(nel07$tn, nel06$tn, nel05$tn, nel04$tn, nel03$tn, nel02$tn, nel01$tn))
 
 dfel <- data_frame(
   fecha,
-  dncel = c(del158/pel, del157/pel, del156/pel, del155/pel, del154/pel, del153/pel, del152/pel, del151/pel, del150/pel,
+  dncel = c(del162/pel, del161/pel, del160/pel, 
+            del159/pel, del158/pel, del157/pel, del156/pel, del155/pel, del154/pel, del153/pel, del152/pel, del151/pel, del150/pel,
             del149/pel, del148/pel, del147/pel, del146/pel, del145/pel, del144/pel, del143/pel, del142/pel, del141/pel, del140/pel, 
             del139/pel, del138/pel, del137/pel, del136/pel, del135/pel, del134/pel, del133/pel, del132/pel, del131/pel, del130/pel, 
             del129/pel, del128/pel, del127/pel, del126/pel, del125/pel, del124/pel, del123/pel, del122/pel, del121/pel, del120/pel, 
@@ -3592,10 +4085,28 @@ dfel <- data_frame(
             del99/pel, del98/pel, del97/pel, del96/pel, del95/pel, del94/pel, del93/pel, del92/pel, del91/pel, del90/pel, 
             del89/pel, del88/pel, del87/pel, del86/pel, del85/pel, del84/pel, del83/pel, del82/pel, del81/pel, del80/pel, 
             del79/pel, del78/pel, del77/pel, del76/pel, del75/pel, del74/pel, del73/pel, del72/pel, del71/pel, del70/pel, 
-            del69/pel, del68/pel, del67/pel, del66/pel)
+            del69/pel, del68/pel, del67/pel, del66/pel, del65/pel, del64/pel, del63/pel, del62/pel, del61/pel, del60/pel,
+            del59/pel, del58/pel, del57/pel, del56/pel, del55/pel, del54/pel, del53/pel, del52/pel, del51/pel, del50/pel,
+            del49/pel, del48/pel, del47/pel, del46/pel, del45/pel, del44/pel, del43/pel, del42/pel, del41/pel, del40/pel,
+            del39/pel, del38/pel, del37/pel, del36/pel, del35/pel, del34/pel, del33/pel, del32/pel, del31/pel, del30/pel,
+            del29/pel, del28/pel, del27/pel, del26/pel, del25/pel, del24/pel, del23/pel, del22/pel, del21/pel, del20/pel,
+            del19/pel, del18/pel, del17/pel, del16/pel, del15/pel, del14/pel, del13/pel, del12/pel, del11/pel, del10/pel,
+            del09/pel, del08/pel, del07/pel)
 )
 
 # ***** ESMERALDAS *****
+nes162 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nes161 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nes160 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nes159 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nes158 <- esmeraldas22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -4071,6 +4582,10 @@ nes01 <- esmeraldas22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+des162 <- mean(c(nes162$tn, nes161$tn, nes160$tn, nes159$tn, nes158$tn, nes157$tn, nes156$tn))
+des161 <- mean(c(nes161$tn, nes160$tn, nes159$tn, nes158$tn, nes157$tn, nes156$tn, nes155$tn))
+des160 <- mean(c(nes160$tn, nes159$tn, nes158$tn, nes157$tn, nes156$tn, nes155$tn, nes154$tn))
+des159 <- mean(c(nes159$tn, nes158$tn, nes157$tn, nes156$tn, nes155$tn, nes154$tn, nes153$tn))
 des158 <- mean(c(nes158$tn, nes157$tn, nes156$tn, nes155$tn, nes154$tn, nes153$tn, nes152$tn))
 des157 <- mean(c(nes157$tn, nes156$tn, nes155$tn, nes154$tn, nes153$tn, nes152$tn, nes151$tn))
 des156 <- mean(c(nes156$tn, nes155$tn, nes154$tn, nes153$tn, nes152$tn, nes151$tn, nes150$tn))
@@ -4164,10 +4679,70 @@ des69 <- mean(c(nes69$tn, nes68$tn, nes67$tn, nes66$tn, nes65$tn, nes64$tn, nes6
 des68 <- mean(c(nes68$tn, nes67$tn, nes66$tn, nes65$tn, nes64$tn, nes63$tn, nes62$tn))
 des67 <- mean(c(nes67$tn, nes66$tn, nes65$tn, nes64$tn, nes63$tn, nes62$tn, nes61$tn))
 des66 <- mean(c(nes66$tn, nes65$tn, nes64$tn, nes63$tn, nes62$tn, nes61$tn, nes60$tn))
+des65 <- mean(c(nes65$tn, nes64$tn, nes63$tn, nes62$tn, nes61$tn, nes60$tn, nes59$tn))
+des64 <- mean(c(nes64$tn, nes63$tn, nes62$tn, nes61$tn, nes60$tn, nes59$tn, nes58$tn))
+des63 <- mean(c(nes63$tn, nes62$tn, nes61$tn, nes60$tn, nes59$tn, nes58$tn, nes57$tn))
+des62 <- mean(c(nes62$tn, nes61$tn, nes60$tn, nes59$tn, nes58$tn, nes57$tn, nes56$tn))
+des61 <- mean(c(nes61$tn, nes60$tn, nes59$tn, nes58$tn, nes57$tn, nes56$tn, nes55$tn))
+des60 <- mean(c(nes60$tn, nes59$tn, nes58$tn, nes57$tn, nes56$tn, nes55$tn, nes54$tn))
+des59 <- mean(c(nes59$tn, nes58$tn, nes57$tn, nes56$tn, nes55$tn, nes54$tn, nes53$tn))
+des58 <- mean(c(nes58$tn, nes57$tn, nes56$tn, nes55$tn, nes54$tn, nes53$tn, nes52$tn))
+des57 <- mean(c(nes57$tn, nes56$tn, nes55$tn, nes54$tn, nes53$tn, nes52$tn, nes51$tn))
+des56 <- mean(c(nes56$tn, nes55$tn, nes54$tn, nes53$tn, nes52$tn, nes51$tn, nes50$tn))
+des55 <- mean(c(nes55$tn, nes54$tn, nes53$tn, nes52$tn, nes51$tn, nes50$tn, nes49$tn))
+des54 <- mean(c(nes54$tn, nes53$tn, nes52$tn, nes51$tn, nes50$tn, nes49$tn, nes48$tn))
+des53 <- mean(c(nes53$tn, nes52$tn, nes51$tn, nes50$tn, nes49$tn, nes48$tn, nes47$tn))
+des52 <- mean(c(nes52$tn, nes51$tn, nes50$tn, nes49$tn, nes48$tn, nes47$tn, nes46$tn))
+des51 <- mean(c(nes51$tn, nes50$tn, nes49$tn, nes48$tn, nes47$tn, nes46$tn, nes45$tn))
+des50 <- mean(c(nes50$tn, nes49$tn, nes48$tn, nes47$tn, nes46$tn, nes45$tn, nes44$tn))
+des49 <- mean(c(nes49$tn, nes48$tn, nes47$tn, nes46$tn, nes45$tn, nes44$tn, nes43$tn))
+des48 <- mean(c(nes48$tn, nes47$tn, nes46$tn, nes45$tn, nes44$tn, nes43$tn, nes42$tn))
+des47 <- mean(c(nes47$tn, nes46$tn, nes45$tn, nes44$tn, nes43$tn, nes42$tn, nes41$tn))
+des46 <- mean(c(nes46$tn, nes45$tn, nes44$tn, nes43$tn, nes42$tn, nes41$tn, nes40$tn))
+des45 <- mean(c(nes45$tn, nes44$tn, nes43$tn, nes42$tn, nes41$tn, nes40$tn, nes39$tn))
+des44 <- mean(c(nes44$tn, nes43$tn, nes42$tn, nes41$tn, nes40$tn, nes39$tn, nes38$tn))
+des43 <- mean(c(nes43$tn, nes42$tn, nes41$tn, nes40$tn, nes39$tn, nes38$tn, nes37$tn))
+des42 <- mean(c(nes42$tn, nes41$tn, nes40$tn, nes39$tn, nes38$tn, nes37$tn, nes36$tn))
+des41 <- mean(c(nes41$tn, nes40$tn, nes39$tn, nes38$tn, nes37$tn, nes36$tn, nes35$tn))
+des40 <- mean(c(nes40$tn, nes39$tn, nes38$tn, nes37$tn, nes36$tn, nes35$tn, nes34$tn))
+des39 <- mean(c(nes39$tn, nes38$tn, nes37$tn, nes36$tn, nes35$tn, nes34$tn, nes33$tn))
+des38 <- mean(c(nes38$tn, nes37$tn, nes36$tn, nes35$tn, nes34$tn, nes33$tn, nes32$tn))
+des37 <- mean(c(nes37$tn, nes36$tn, nes35$tn, nes34$tn, nes33$tn, nes32$tn, nes31$tn))
+des36 <- mean(c(nes36$tn, nes35$tn, nes34$tn, nes33$tn, nes32$tn, nes31$tn, nes30$tn))
+des35 <- mean(c(nes35$tn, nes34$tn, nes33$tn, nes32$tn, nes31$tn, nes30$tn, nes29$tn))
+des34 <- mean(c(nes34$tn, nes33$tn, nes32$tn, nes31$tn, nes30$tn, nes29$tn, nes28$tn))
+des33 <- mean(c(nes33$tn, nes32$tn, nes31$tn, nes30$tn, nes29$tn, nes28$tn, nes27$tn))
+des32 <- mean(c(nes32$tn, nes31$tn, nes30$tn, nes29$tn, nes28$tn, nes27$tn, nes26$tn))
+des31 <- mean(c(nes31$tn, nes30$tn, nes29$tn, nes28$tn, nes27$tn, nes26$tn, nes25$tn))
+des30 <- mean(c(nes30$tn, nes29$tn, nes28$tn, nes27$tn, nes26$tn, nes25$tn, nes24$tn))
+des29 <- mean(c(nes29$tn, nes28$tn, nes27$tn, nes26$tn, nes25$tn, nes24$tn, nes23$tn))
+des28 <- mean(c(nes28$tn, nes27$tn, nes26$tn, nes25$tn, nes24$tn, nes23$tn, nes22$tn))
+des27 <- mean(c(nes27$tn, nes26$tn, nes25$tn, nes24$tn, nes23$tn, nes22$tn, nes21$tn))
+des26 <- mean(c(nes26$tn, nes25$tn, nes24$tn, nes23$tn, nes22$tn, nes21$tn, nes20$tn))
+des25 <- mean(c(nes25$tn, nes24$tn, nes23$tn, nes22$tn, nes21$tn, nes20$tn, nes19$tn))
+des24 <- mean(c(nes24$tn, nes23$tn, nes22$tn, nes21$tn, nes20$tn, nes19$tn, nes18$tn))
+des23 <- mean(c(nes23$tn, nes22$tn, nes21$tn, nes20$tn, nes19$tn, nes18$tn, nes17$tn))
+des22 <- mean(c(nes22$tn, nes21$tn, nes20$tn, nes19$tn, nes18$tn, nes17$tn, nes16$tn))
+des21 <- mean(c(nes21$tn, nes20$tn, nes19$tn, nes18$tn, nes17$tn, nes16$tn, nes15$tn))
+des20 <- mean(c(nes20$tn, nes19$tn, nes18$tn, nes17$tn, nes16$tn, nes15$tn, nes14$tn))
+des19 <- mean(c(nes19$tn, nes18$tn, nes17$tn, nes16$tn, nes15$tn, nes14$tn, nes13$tn))
+des18 <- mean(c(nes18$tn, nes17$tn, nes16$tn, nes15$tn, nes14$tn, nes13$tn, nes12$tn))
+des17 <- mean(c(nes17$tn, nes16$tn, nes15$tn, nes14$tn, nes13$tn, nes12$tn, nes11$tn))
+des16 <- mean(c(nes16$tn, nes15$tn, nes14$tn, nes13$tn, nes12$tn, nes11$tn, nes10$tn))
+des15 <- mean(c(nes15$tn, nes14$tn, nes13$tn, nes12$tn, nes11$tn, nes10$tn, nes09$tn))
+des14 <- mean(c(nes14$tn, nes13$tn, nes12$tn, nes11$tn, nes10$tn, nes09$tn, nes08$tn))
+des13 <- mean(c(nes13$tn, nes12$tn, nes11$tn, nes10$tn, nes09$tn, nes08$tn, nes07$tn))
+des12 <- mean(c(nes12$tn, nes11$tn, nes10$tn, nes09$tn, nes08$tn, nes07$tn, nes06$tn))
+des11 <- mean(c(nes11$tn, nes10$tn, nes09$tn, nes08$tn, nes07$tn, nes06$tn, nes05$tn))
+des10 <- mean(c(nes10$tn, nes09$tn, nes08$tn, nes07$tn, nes06$tn, nes05$tn, nes04$tn))
+des09 <- mean(c(nes09$tn, nes08$tn, nes07$tn, nes06$tn, nes05$tn, nes04$tn, nes03$tn))
+des08 <- mean(c(nes08$tn, nes07$tn, nes06$tn, nes05$tn, nes04$tn, nes03$tn, nes02$tn))
+des07 <- mean(c(nes07$tn, nes06$tn, nes05$tn, nes04$tn, nes03$tn, nes02$tn, nes01$tn))
 
 dfes <- data_frame(
   fecha,
-  dnces = c(des158/pes, des157/pes, des156/pes, des155/pes, des154/pes, des153/pes, des152/pes, des151/pes, des150/pes,
+  dnces = c(des162/pes, des161/pes, des160/pes, 
+            des159/pes, des158/pes, des157/pes, des156/pes, des155/pes, des154/pes, des153/pes, des152/pes, des151/pes, des150/pes,
             des149/pes, des148/pes, des147/pes, des146/pes, des145/pes, des144/pes, des143/pes, des142/pes, des141/pes, des140/pes, 
             des139/pes, des138/pes, des137/pes, des136/pes, des135/pes, des134/pes, des133/pes, des132/pes, des131/pes, des130/pes, 
             des129/pes, des128/pes, des127/pes, des126/pes, des125/pes, des124/pes, des123/pes, des122/pes, des121/pes, des120/pes, 
@@ -4176,10 +4751,28 @@ dfes <- data_frame(
             des99/pes, des98/pes, des97/pes, des96/pes, des95/pes, des94/pes, des93/pes, des92/pes, des91/pes, des90/pes, 
             des89/pes, des88/pes, des87/pes, des86/pes, des85/pes, des84/pes, des83/pes, des82/pes, des81/pes, des80/pes, 
             des79/pes, des78/pes, des77/pes, des76/pes, des75/pes, des74/pes, des73/pes, des72/pes, des71/pes, des70/pes, 
-            des69/pes, des68/pes, des67/pes, des66/pes)
+            des69/pes, des68/pes, des67/pes, des66/pes, des65/pes, des64/pes, des63/pes, des62/pes, des61/pes, des60/pes,
+            des59/pes, des58/pes, des57/pes, des56/pes, des55/pes, des54/pes, des53/pes, des52/pes, des51/pes, des50/pes,
+            des49/pes, des48/pes, des47/pes, des46/pes, des45/pes, des44/pes, des43/pes, des42/pes, des41/pes, des40/pes,
+            des39/pes, des38/pes, des37/pes, des36/pes, des35/pes, des34/pes, des33/pes, des32/pes, des31/pes, des30/pes,
+            des29/pes, des28/pes, des27/pes, des26/pes, des25/pes, des24/pes, des23/pes, des22/pes, des21/pes, des20/pes,
+            des19/pes, des18/pes, des17/pes, des16/pes, des15/pes, des14/pes, des13/pes, des12/pes, des11/pes, des10/pes,
+            des09/pes, des08/pes, des07/pes)
 )
 
 # ***** TUNGURAHUA *****
+ntu162 <- tungurahua22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+ntu161 <- tungurahua22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+ntu160 <- tungurahua22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+ntu159 <- tungurahua22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 ntu158 <- tungurahua22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -4655,6 +5248,10 @@ ntu01 <- tungurahua22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dtu162 <- mean(c(ntu162$tn, ntu161$tn, ntu160$tn, ntu159$tn, ntu158$tn, ntu157$tn, ntu156$tn))
+dtu161 <- mean(c(ntu161$tn, ntu160$tn, ntu159$tn, ntu158$tn, ntu157$tn, ntu156$tn, ntu155$tn))
+dtu160 <- mean(c(ntu160$tn, ntu159$tn, ntu158$tn, ntu157$tn, ntu156$tn, ntu155$tn, ntu154$tn))
+dtu159 <- mean(c(ntu159$tn, ntu158$tn, ntu157$tn, ntu156$tn, ntu155$tn, ntu154$tn, ntu153$tn))
 dtu158 <- mean(c(ntu158$tn, ntu157$tn, ntu156$tn, ntu155$tn, ntu154$tn, ntu153$tn, ntu152$tn))
 dtu157 <- mean(c(ntu157$tn, ntu156$tn, ntu155$tn, ntu154$tn, ntu153$tn, ntu152$tn, ntu151$tn))
 dtu156 <- mean(c(ntu156$tn, ntu155$tn, ntu154$tn, ntu153$tn, ntu152$tn, ntu151$tn, ntu150$tn))
@@ -4748,10 +5345,70 @@ dtu69 <- mean(c(ntu69$tn, ntu68$tn, ntu67$tn, ntu66$tn, ntu65$tn, ntu64$tn, ntu6
 dtu68 <- mean(c(ntu68$tn, ntu67$tn, ntu66$tn, ntu65$tn, ntu64$tn, ntu63$tn, ntu62$tn))
 dtu67 <- mean(c(ntu67$tn, ntu66$tn, ntu65$tn, ntu64$tn, ntu63$tn, ntu62$tn, ntu61$tn))
 dtu66 <- mean(c(ntu66$tn, ntu65$tn, ntu64$tn, ntu63$tn, ntu62$tn, ntu61$tn, ntu60$tn))
+dtu65 <- mean(c(ntu65$tn, ntu64$tn, ntu63$tn, ntu62$tn, ntu61$tn, ntu60$tn, ntu59$tn))
+dtu64 <- mean(c(ntu64$tn, ntu63$tn, ntu62$tn, ntu61$tn, ntu60$tn, ntu59$tn, ntu58$tn))
+dtu63 <- mean(c(ntu63$tn, ntu62$tn, ntu61$tn, ntu60$tn, ntu59$tn, ntu58$tn, ntu57$tn))
+dtu62 <- mean(c(ntu62$tn, ntu61$tn, ntu60$tn, ntu59$tn, ntu58$tn, ntu57$tn, ntu56$tn))
+dtu61 <- mean(c(ntu61$tn, ntu60$tn, ntu59$tn, ntu58$tn, ntu57$tn, ntu56$tn, ntu55$tn))
+dtu60 <- mean(c(ntu60$tn, ntu59$tn, ntu58$tn, ntu57$tn, ntu56$tn, ntu55$tn, ntu54$tn))
+dtu59 <- mean(c(ntu59$tn, ntu58$tn, ntu57$tn, ntu56$tn, ntu55$tn, ntu54$tn, ntu53$tn))
+dtu58 <- mean(c(ntu58$tn, ntu57$tn, ntu56$tn, ntu55$tn, ntu54$tn, ntu53$tn, ntu52$tn))
+dtu57 <- mean(c(ntu57$tn, ntu56$tn, ntu55$tn, ntu54$tn, ntu53$tn, ntu52$tn, ntu51$tn))
+dtu56 <- mean(c(ntu56$tn, ntu55$tn, ntu54$tn, ntu53$tn, ntu52$tn, ntu51$tn, ntu50$tn))
+dtu55 <- mean(c(ntu55$tn, ntu54$tn, ntu53$tn, ntu52$tn, ntu51$tn, ntu50$tn, ntu49$tn))
+dtu54 <- mean(c(ntu54$tn, ntu53$tn, ntu52$tn, ntu51$tn, ntu50$tn, ntu49$tn, ntu48$tn))
+dtu53 <- mean(c(ntu53$tn, ntu52$tn, ntu51$tn, ntu50$tn, ntu49$tn, ntu48$tn, ntu47$tn))
+dtu52 <- mean(c(ntu52$tn, ntu51$tn, ntu50$tn, ntu49$tn, ntu48$tn, ntu47$tn, ntu46$tn))
+dtu51 <- mean(c(ntu51$tn, ntu50$tn, ntu49$tn, ntu48$tn, ntu47$tn, ntu46$tn, ntu45$tn))
+dtu50 <- mean(c(ntu50$tn, ntu49$tn, ntu48$tn, ntu47$tn, ntu46$tn, ntu45$tn, ntu44$tn))
+dtu49 <- mean(c(ntu49$tn, ntu48$tn, ntu47$tn, ntu46$tn, ntu45$tn, ntu44$tn, ntu43$tn))
+dtu48 <- mean(c(ntu48$tn, ntu47$tn, ntu46$tn, ntu45$tn, ntu44$tn, ntu43$tn, ntu42$tn))
+dtu47 <- mean(c(ntu47$tn, ntu46$tn, ntu45$tn, ntu44$tn, ntu43$tn, ntu42$tn, ntu41$tn))
+dtu46 <- mean(c(ntu46$tn, ntu45$tn, ntu44$tn, ntu43$tn, ntu42$tn, ntu41$tn, ntu40$tn))
+dtu45 <- mean(c(ntu45$tn, ntu44$tn, ntu43$tn, ntu42$tn, ntu41$tn, ntu40$tn, ntu39$tn))
+dtu44 <- mean(c(ntu44$tn, ntu43$tn, ntu42$tn, ntu41$tn, ntu40$tn, ntu39$tn, ntu38$tn))
+dtu43 <- mean(c(ntu43$tn, ntu42$tn, ntu41$tn, ntu40$tn, ntu39$tn, ntu38$tn, ntu37$tn))
+dtu42 <- mean(c(ntu42$tn, ntu41$tn, ntu40$tn, ntu39$tn, ntu38$tn, ntu37$tn, ntu36$tn))
+dtu41 <- mean(c(ntu41$tn, ntu40$tn, ntu39$tn, ntu38$tn, ntu37$tn, ntu36$tn, ntu35$tn))
+dtu40 <- mean(c(ntu40$tn, ntu39$tn, ntu38$tn, ntu37$tn, ntu36$tn, ntu35$tn, ntu34$tn))
+dtu39 <- mean(c(ntu39$tn, ntu38$tn, ntu37$tn, ntu36$tn, ntu35$tn, ntu34$tn, ntu33$tn))
+dtu38 <- mean(c(ntu38$tn, ntu37$tn, ntu36$tn, ntu35$tn, ntu34$tn, ntu33$tn, ntu32$tn))
+dtu37 <- mean(c(ntu37$tn, ntu36$tn, ntu35$tn, ntu34$tn, ntu33$tn, ntu32$tn, ntu31$tn))
+dtu36 <- mean(c(ntu36$tn, ntu35$tn, ntu34$tn, ntu33$tn, ntu32$tn, ntu31$tn, ntu30$tn))
+dtu35 <- mean(c(ntu35$tn, ntu34$tn, ntu33$tn, ntu32$tn, ntu31$tn, ntu30$tn, ntu29$tn))
+dtu34 <- mean(c(ntu34$tn, ntu33$tn, ntu32$tn, ntu31$tn, ntu30$tn, ntu29$tn, ntu28$tn))
+dtu33 <- mean(c(ntu33$tn, ntu32$tn, ntu31$tn, ntu30$tn, ntu29$tn, ntu28$tn, ntu27$tn))
+dtu32 <- mean(c(ntu32$tn, ntu31$tn, ntu30$tn, ntu29$tn, ntu28$tn, ntu27$tn, ntu26$tn))
+dtu31 <- mean(c(ntu31$tn, ntu30$tn, ntu29$tn, ntu28$tn, ntu27$tn, ntu26$tn, ntu25$tn))
+dtu30 <- mean(c(ntu30$tn, ntu29$tn, ntu28$tn, ntu27$tn, ntu26$tn, ntu25$tn, ntu24$tn))
+dtu29 <- mean(c(ntu29$tn, ntu28$tn, ntu27$tn, ntu26$tn, ntu25$tn, ntu24$tn, ntu23$tn))
+dtu28 <- mean(c(ntu28$tn, ntu27$tn, ntu26$tn, ntu25$tn, ntu24$tn, ntu23$tn, ntu22$tn))
+dtu27 <- mean(c(ntu27$tn, ntu26$tn, ntu25$tn, ntu24$tn, ntu23$tn, ntu22$tn, ntu21$tn))
+dtu26 <- mean(c(ntu26$tn, ntu25$tn, ntu24$tn, ntu23$tn, ntu22$tn, ntu21$tn, ntu20$tn))
+dtu25 <- mean(c(ntu25$tn, ntu24$tn, ntu23$tn, ntu22$tn, ntu21$tn, ntu20$tn, ntu19$tn))
+dtu24 <- mean(c(ntu24$tn, ntu23$tn, ntu22$tn, ntu21$tn, ntu20$tn, ntu19$tn, ntu18$tn))
+dtu23 <- mean(c(ntu23$tn, ntu22$tn, ntu21$tn, ntu20$tn, ntu19$tn, ntu18$tn, ntu17$tn))
+dtu22 <- mean(c(ntu22$tn, ntu21$tn, ntu20$tn, ntu19$tn, ntu18$tn, ntu17$tn, ntu16$tn))
+dtu21 <- mean(c(ntu21$tn, ntu20$tn, ntu19$tn, ntu18$tn, ntu17$tn, ntu16$tn, ntu15$tn))
+dtu20 <- mean(c(ntu20$tn, ntu19$tn, ntu18$tn, ntu17$tn, ntu16$tn, ntu15$tn, ntu14$tn))
+dtu19 <- mean(c(ntu19$tn, ntu18$tn, ntu17$tn, ntu16$tn, ntu15$tn, ntu14$tn, ntu13$tn))
+dtu18 <- mean(c(ntu18$tn, ntu17$tn, ntu16$tn, ntu15$tn, ntu14$tn, ntu13$tn, ntu12$tn))
+dtu17 <- mean(c(ntu17$tn, ntu16$tn, ntu15$tn, ntu14$tn, ntu13$tn, ntu12$tn, ntu11$tn))
+dtu16 <- mean(c(ntu16$tn, ntu15$tn, ntu14$tn, ntu13$tn, ntu12$tn, ntu11$tn, ntu10$tn))
+dtu15 <- mean(c(ntu15$tn, ntu14$tn, ntu13$tn, ntu12$tn, ntu11$tn, ntu10$tn, ntu09$tn))
+dtu14 <- mean(c(ntu14$tn, ntu13$tn, ntu12$tn, ntu11$tn, ntu10$tn, ntu09$tn, ntu08$tn))
+dtu13 <- mean(c(ntu13$tn, ntu12$tn, ntu11$tn, ntu10$tn, ntu09$tn, ntu08$tn, ntu07$tn))
+dtu12 <- mean(c(ntu12$tn, ntu11$tn, ntu10$tn, ntu09$tn, ntu08$tn, ntu07$tn, ntu06$tn))
+dtu11 <- mean(c(ntu11$tn, ntu10$tn, ntu09$tn, ntu08$tn, ntu07$tn, ntu06$tn, ntu05$tn))
+dtu10 <- mean(c(ntu10$tn, ntu09$tn, ntu08$tn, ntu07$tn, ntu06$tn, ntu05$tn, ntu04$tn))
+dtu09 <- mean(c(ntu09$tn, ntu08$tn, ntu07$tn, ntu06$tn, ntu05$tn, ntu04$tn, ntu03$tn))
+dtu08 <- mean(c(ntu08$tn, ntu07$tn, ntu06$tn, ntu05$tn, ntu04$tn, ntu03$tn, ntu02$tn))
+dtu07 <- mean(c(ntu07$tn, ntu06$tn, ntu05$tn, ntu04$tn, ntu03$tn, ntu02$tn, ntu01$tn))
 
 dftu <- data_frame(
   fecha,
-  dnctu = c(dtu158/ptu, dtu157/ptu, dtu156/ptu, dtu155/ptu, dtu154/ptu, dtu153/ptu, dtu152/ptu, dtu151/ptu, dtu150/ptu,
+  dnctu = c(dtu162/ptu, dtu161/ptu, dtu160/ptu, 
+            dtu159/ptu, dtu158/ptu, dtu157/ptu, dtu156/ptu, dtu155/ptu, dtu154/ptu, dtu153/ptu, dtu152/ptu, dtu151/ptu, dtu150/ptu,
             dtu149/ptu, dtu148/ptu, dtu147/ptu, dtu146/ptu, dtu145/ptu, dtu144/ptu, dtu143/ptu, dtu142/ptu, dtu141/ptu, dtu140/ptu, 
             dtu139/ptu, dtu138/ptu, dtu137/ptu, dtu136/ptu, dtu135/ptu, dtu134/ptu, dtu133/ptu, dtu132/ptu, dtu131/ptu, dtu130/ptu, 
             dtu129/ptu, dtu128/ptu, dtu127/ptu, dtu126/ptu, dtu125/ptu, dtu124/ptu, dtu123/ptu, dtu122/ptu, dtu121/ptu, dtu120/ptu, 
@@ -4760,10 +5417,28 @@ dftu <- data_frame(
             dtu99/ptu, dtu98/ptu, dtu97/ptu, dtu96/ptu, dtu95/ptu, dtu94/ptu, dtu93/ptu, dtu92/ptu, dtu91/ptu, dtu90/ptu, 
             dtu89/ptu, dtu88/ptu, dtu87/ptu, dtu86/ptu, dtu85/ptu, dtu84/ptu, dtu83/ptu, dtu82/ptu, dtu81/ptu, dtu80/ptu, 
             dtu79/ptu, dtu78/ptu, dtu77/ptu, dtu76/ptu, dtu75/ptu, dtu74/ptu, dtu73/ptu, dtu72/ptu, dtu71/ptu, dtu70/ptu, 
-            dtu69/ptu, dtu68/ptu, dtu67/ptu, dtu66/ptu)
+            dtu69/ptu, dtu68/ptu, dtu67/ptu, dtu66/ptu, dtu65/ptu, dtu64/ptu, dtu63/ptu, dtu62/ptu, dtu61/ptu, dtu60/ptu,
+            dtu59/ptu, dtu58/ptu, dtu57/ptu, dtu56/ptu, dtu55/ptu, dtu54/ptu, dtu53/ptu, dtu52/ptu, dtu51/ptu, dtu50/ptu,
+            dtu49/ptu, dtu48/ptu, dtu47/ptu, dtu46/ptu, dtu45/ptu, dtu44/ptu, dtu43/ptu, dtu42/ptu, dtu41/ptu, dtu40/ptu,
+            dtu39/ptu, dtu38/ptu, dtu37/ptu, dtu36/ptu, dtu35/ptu, dtu34/ptu, dtu33/ptu, dtu32/ptu, dtu31/ptu, dtu30/ptu,
+            dtu29/ptu, dtu28/ptu, dtu27/ptu, dtu26/ptu, dtu25/ptu, dtu24/ptu, dtu23/ptu, dtu22/ptu, dtu21/ptu, dtu20/ptu,
+            dtu19/ptu, dtu18/ptu, dtu17/ptu, dtu16/ptu, dtu15/ptu, dtu14/ptu, dtu13/ptu, dtu12/ptu, dtu11/ptu, dtu10/ptu,
+            dtu09/ptu, dtu08/ptu, dtu07/ptu)
 )
 
 # ***** CHIMBORAZO *****
+nch162 <- chimborazo22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nch161 <- chimborazo22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nch160 <- chimborazo22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nch159 <- chimborazo22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nch158 <- chimborazo22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -5239,6 +5914,10 @@ nch01 <- chimborazo22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dch162 <- mean(c(nch162$tn, nch161$tn, nch160$tn, nch159$tn, nch158$tn, nch157$tn, nch156$tn))
+dch161 <- mean(c(nch161$tn, nch160$tn, nch159$tn, nch158$tn, nch157$tn, nch156$tn, nch155$tn))
+dch160 <- mean(c(nch160$tn, nch159$tn, nch158$tn, nch157$tn, nch156$tn, nch155$tn, nch154$tn))
+dch159 <- mean(c(nch159$tn, nch158$tn, nch157$tn, nch156$tn, nch155$tn, nch154$tn, nch153$tn))
 dch158 <- mean(c(nch158$tn, nch157$tn, nch156$tn, nch155$tn, nch154$tn, nch153$tn, nch152$tn))
 dch157 <- mean(c(nch157$tn, nch156$tn, nch155$tn, nch154$tn, nch153$tn, nch152$tn, nch151$tn))
 dch156 <- mean(c(nch156$tn, nch155$tn, nch154$tn, nch153$tn, nch152$tn, nch151$tn, nch150$tn))
@@ -5332,10 +6011,70 @@ dch69 <- mean(c(nch69$tn, nch68$tn, nch67$tn, nch66$tn, nch65$tn, nch64$tn, nch6
 dch68 <- mean(c(nch68$tn, nch67$tn, nch66$tn, nch65$tn, nch64$tn, nch63$tn, nch62$tn))
 dch67 <- mean(c(nch67$tn, nch66$tn, nch65$tn, nch64$tn, nch63$tn, nch62$tn, nch61$tn))
 dch66 <- mean(c(nch66$tn, nch65$tn, nch64$tn, nch63$tn, nch62$tn, nch61$tn, nch60$tn))
+dch65 <- mean(c(nch65$tn, nch64$tn, nch63$tn, nch62$tn, nch61$tn, nch60$tn, nch59$tn))
+dch64 <- mean(c(nch64$tn, nch63$tn, nch62$tn, nch61$tn, nch60$tn, nch59$tn, nch58$tn))
+dch63 <- mean(c(nch63$tn, nch62$tn, nch61$tn, nch60$tn, nch59$tn, nch58$tn, nch57$tn))
+dch62 <- mean(c(nch62$tn, nch61$tn, nch60$tn, nch59$tn, nch58$tn, nch57$tn, nch56$tn))
+dch61 <- mean(c(nch61$tn, nch60$tn, nch59$tn, nch58$tn, nch57$tn, nch56$tn, nch55$tn))
+dch60 <- mean(c(nch60$tn, nch59$tn, nch58$tn, nch57$tn, nch56$tn, nch55$tn, nch54$tn))
+dch59 <- mean(c(nch59$tn, nch58$tn, nch57$tn, nch56$tn, nch55$tn, nch54$tn, nch53$tn))
+dch58 <- mean(c(nch58$tn, nch57$tn, nch56$tn, nch55$tn, nch54$tn, nch53$tn, nch52$tn))
+dch57 <- mean(c(nch57$tn, nch56$tn, nch55$tn, nch54$tn, nch53$tn, nch52$tn, nch51$tn))
+dch56 <- mean(c(nch56$tn, nch55$tn, nch54$tn, nch53$tn, nch52$tn, nch51$tn, nch50$tn))
+dch55 <- mean(c(nch55$tn, nch54$tn, nch53$tn, nch52$tn, nch51$tn, nch50$tn, nch49$tn))
+dch54 <- mean(c(nch54$tn, nch53$tn, nch52$tn, nch51$tn, nch50$tn, nch49$tn, nch48$tn))
+dch53 <- mean(c(nch53$tn, nch52$tn, nch51$tn, nch50$tn, nch49$tn, nch48$tn, nch47$tn))
+dch52 <- mean(c(nch52$tn, nch51$tn, nch50$tn, nch49$tn, nch48$tn, nch47$tn, nch46$tn))
+dch51 <- mean(c(nch51$tn, nch50$tn, nch49$tn, nch48$tn, nch47$tn, nch46$tn, nch45$tn))
+dch50 <- mean(c(nch50$tn, nch49$tn, nch48$tn, nch47$tn, nch46$tn, nch45$tn, nch44$tn))
+dch49 <- mean(c(nch49$tn, nch48$tn, nch47$tn, nch46$tn, nch45$tn, nch44$tn, nch43$tn))
+dch48 <- mean(c(nch48$tn, nch47$tn, nch46$tn, nch45$tn, nch44$tn, nch43$tn, nch42$tn))
+dch47 <- mean(c(nch47$tn, nch46$tn, nch45$tn, nch44$tn, nch43$tn, nch42$tn, nch41$tn))
+dch46 <- mean(c(nch46$tn, nch45$tn, nch44$tn, nch43$tn, nch42$tn, nch41$tn, nch40$tn))
+dch45 <- mean(c(nch45$tn, nch44$tn, nch43$tn, nch42$tn, nch41$tn, nch40$tn, nch39$tn))
+dch44 <- mean(c(nch44$tn, nch43$tn, nch42$tn, nch41$tn, nch40$tn, nch39$tn, nch38$tn))
+dch43 <- mean(c(nch43$tn, nch42$tn, nch41$tn, nch40$tn, nch39$tn, nch38$tn, nch37$tn))
+dch42 <- mean(c(nch42$tn, nch41$tn, nch40$tn, nch39$tn, nch38$tn, nch37$tn, nch36$tn))
+dch41 <- mean(c(nch41$tn, nch40$tn, nch39$tn, nch38$tn, nch37$tn, nch36$tn, nch35$tn))
+dch40 <- mean(c(nch40$tn, nch39$tn, nch38$tn, nch37$tn, nch36$tn, nch35$tn, nch34$tn))
+dch39 <- mean(c(nch39$tn, nch38$tn, nch37$tn, nch36$tn, nch35$tn, nch34$tn, nch33$tn))
+dch38 <- mean(c(nch38$tn, nch37$tn, nch36$tn, nch35$tn, nch34$tn, nch33$tn, nch32$tn))
+dch37 <- mean(c(nch37$tn, nch36$tn, nch35$tn, nch34$tn, nch33$tn, nch32$tn, nch31$tn))
+dch36 <- mean(c(nch36$tn, nch35$tn, nch34$tn, nch33$tn, nch32$tn, nch31$tn, nch30$tn))
+dch35 <- mean(c(nch35$tn, nch34$tn, nch33$tn, nch32$tn, nch31$tn, nch30$tn, nch29$tn))
+dch34 <- mean(c(nch34$tn, nch33$tn, nch32$tn, nch31$tn, nch30$tn, nch29$tn, nch28$tn))
+dch33 <- mean(c(nch33$tn, nch32$tn, nch31$tn, nch30$tn, nch29$tn, nch28$tn, nch27$tn))
+dch32 <- mean(c(nch32$tn, nch31$tn, nch30$tn, nch29$tn, nch28$tn, nch27$tn, nch26$tn))
+dch31 <- mean(c(nch31$tn, nch30$tn, nch29$tn, nch28$tn, nch27$tn, nch26$tn, nch25$tn))
+dch30 <- mean(c(nch30$tn, nch29$tn, nch28$tn, nch27$tn, nch26$tn, nch25$tn, nch24$tn))
+dch29 <- mean(c(nch29$tn, nch28$tn, nch27$tn, nch26$tn, nch25$tn, nch24$tn, nch23$tn))
+dch28 <- mean(c(nch28$tn, nch27$tn, nch26$tn, nch25$tn, nch24$tn, nch23$tn, nch22$tn))
+dch27 <- mean(c(nch27$tn, nch26$tn, nch25$tn, nch24$tn, nch23$tn, nch22$tn, nch21$tn))
+dch26 <- mean(c(nch26$tn, nch25$tn, nch24$tn, nch23$tn, nch22$tn, nch21$tn, nch20$tn))
+dch25 <- mean(c(nch25$tn, nch24$tn, nch23$tn, nch22$tn, nch21$tn, nch20$tn, nch19$tn))
+dch24 <- mean(c(nch24$tn, nch23$tn, nch22$tn, nch21$tn, nch20$tn, nch19$tn, nch18$tn))
+dch23 <- mean(c(nch23$tn, nch22$tn, nch21$tn, nch20$tn, nch19$tn, nch18$tn, nch17$tn))
+dch22 <- mean(c(nch22$tn, nch21$tn, nch20$tn, nch19$tn, nch18$tn, nch17$tn, nch16$tn))
+dch21 <- mean(c(nch21$tn, nch20$tn, nch19$tn, nch18$tn, nch17$tn, nch16$tn, nch15$tn))
+dch20 <- mean(c(nch20$tn, nch19$tn, nch18$tn, nch17$tn, nch16$tn, nch15$tn, nch14$tn))
+dch19 <- mean(c(nch19$tn, nch18$tn, nch17$tn, nch16$tn, nch15$tn, nch14$tn, nch13$tn))
+dch18 <- mean(c(nch18$tn, nch17$tn, nch16$tn, nch15$tn, nch14$tn, nch13$tn, nch12$tn))
+dch17 <- mean(c(nch17$tn, nch16$tn, nch15$tn, nch14$tn, nch13$tn, nch12$tn, nch11$tn))
+dch16 <- mean(c(nch16$tn, nch15$tn, nch14$tn, nch13$tn, nch12$tn, nch11$tn, nch10$tn))
+dch15 <- mean(c(nch15$tn, nch14$tn, nch13$tn, nch12$tn, nch11$tn, nch10$tn, nch09$tn))
+dch14 <- mean(c(nch14$tn, nch13$tn, nch12$tn, nch11$tn, nch10$tn, nch09$tn, nch08$tn))
+dch13 <- mean(c(nch13$tn, nch12$tn, nch11$tn, nch10$tn, nch09$tn, nch08$tn, nch07$tn))
+dch12 <- mean(c(nch12$tn, nch11$tn, nch10$tn, nch09$tn, nch08$tn, nch07$tn, nch06$tn))
+dch11 <- mean(c(nch11$tn, nch10$tn, nch09$tn, nch08$tn, nch07$tn, nch06$tn, nch05$tn))
+dch10 <- mean(c(nch10$tn, nch09$tn, nch08$tn, nch07$tn, nch06$tn, nch05$tn, nch04$tn))
+dch09 <- mean(c(nch09$tn, nch08$tn, nch07$tn, nch06$tn, nch05$tn, nch04$tn, nch03$tn))
+dch08 <- mean(c(nch08$tn, nch07$tn, nch06$tn, nch05$tn, nch04$tn, nch03$tn, nch02$tn))
+dch07 <- mean(c(nch07$tn, nch06$tn, nch05$tn, nch04$tn, nch03$tn, nch02$tn, nch01$tn))
 
 dfch <- data_frame(
   fecha,
-  dncch = c(dch158/pch, dch157/pch, dch156/pch, dch155/pch, dch154/pch, dch153/pch, dch152/pch, dch151/pch, dch150/pch,
+  dncch = c(dch162/pch, dch161/pch, dch160/pch, 
+            dch159/pch, dch158/pch, dch157/pch, dch156/pch, dch155/pch, dch154/pch, dch153/pch, dch152/pch, dch151/pch, dch150/pch,
             dch149/pch, dch148/pch, dch147/pch, dch146/pch, dch145/pch, dch144/pch, dch143/pch, dch142/pch, dch141/pch, dch140/pch, 
             dch139/pch, dch138/pch, dch137/pch, dch136/pch, dch135/pch, dch134/pch, dch133/pch, dch132/pch, dch131/pch, dch130/pch, 
             dch129/pch, dch128/pch, dch127/pch, dch126/pch, dch125/pch, dch124/pch, dch123/pch, dch122/pch, dch121/pch, dch120/pch, 
@@ -5344,10 +6083,28 @@ dfch <- data_frame(
             dch99/pch, dch98/pch, dch97/pch, dch96/pch, dch95/pch, dch94/pch, dch93/pch, dch92/pch, dch91/pch, dch90/pch, 
             dch89/pch, dch88/pch, dch87/pch, dch86/pch, dch85/pch, dch84/pch, dch83/pch, dch82/pch, dch81/pch, dch80/pch, 
             dch79/pch, dch78/pch, dch77/pch, dch76/pch, dch75/pch, dch74/pch, dch73/pch, dch72/pch, dch71/pch, dch70/pch, 
-            dch69/pch, dch68/pch, dch67/pch, dch66/pch)
+            dch69/pch, dch68/pch, dch67/pch, dch66/pch, dch65/pch, dch64/pch, dch63/pch, dch62/pch, dch61/pch, dch60/pch,
+            dch59/pch, dch58/pch, dch57/pch, dch56/pch, dch55/pch, dch54/pch, dch53/pch, dch52/pch, dch51/pch, dch50/pch,
+            dch49/pch, dch48/pch, dch47/pch, dch46/pch, dch45/pch, dch44/pch, dch43/pch, dch42/pch, dch41/pch, dch40/pch,
+            dch39/pch, dch38/pch, dch37/pch, dch36/pch, dch35/pch, dch34/pch, dch33/pch, dch32/pch, dch31/pch, dch30/pch,
+            dch29/pch, dch28/pch, dch27/pch, dch26/pch, dch25/pch, dch24/pch, dch23/pch, dch22/pch, dch21/pch, dch20/pch,
+            dch19/pch, dch18/pch, dch17/pch, dch16/pch, dch15/pch, dch14/pch, dch13/pch, dch12/pch, dch11/pch, dch10/pch,
+            dch09/pch, dch08/pch, dch07/pch)
 )
 
 # ***** LOJA *****
+nlo162 <- loja22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nlo161 <- loja22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nlo160 <- loja22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nlo159 <- loja22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nlo158 <- loja22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -5823,6 +6580,10 @@ nlo01 <- loja22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dlo162 <- mean(c(nlo162$tn, nlo161$tn, nlo160$tn, nlo159$tn, nlo158$tn, nlo157$tn, nlo156$tn))
+dlo161 <- mean(c(nlo161$tn, nlo160$tn, nlo159$tn, nlo158$tn, nlo157$tn, nlo156$tn, nlo155$tn))
+dlo160 <- mean(c(nlo160$tn, nlo159$tn, nlo158$tn, nlo157$tn, nlo156$tn, nlo155$tn, nlo154$tn))
+dlo159 <- mean(c(nlo159$tn, nlo158$tn, nlo157$tn, nlo156$tn, nlo155$tn, nlo154$tn, nlo153$tn))
 dlo158 <- mean(c(nlo158$tn, nlo157$tn, nlo156$tn, nlo155$tn, nlo154$tn, nlo153$tn, nlo152$tn))
 dlo157 <- mean(c(nlo157$tn, nlo156$tn, nlo155$tn, nlo154$tn, nlo153$tn, nlo152$tn, nlo151$tn))
 dlo156 <- mean(c(nlo156$tn, nlo155$tn, nlo154$tn, nlo153$tn, nlo152$tn, nlo151$tn, nlo150$tn))
@@ -5916,10 +6677,70 @@ dlo69 <- mean(c(nlo69$tn, nlo68$tn, nlo67$tn, nlo66$tn, nlo65$tn, nlo64$tn, nlo6
 dlo68 <- mean(c(nlo68$tn, nlo67$tn, nlo66$tn, nlo65$tn, nlo64$tn, nlo63$tn, nlo62$tn))
 dlo67 <- mean(c(nlo67$tn, nlo66$tn, nlo65$tn, nlo64$tn, nlo63$tn, nlo62$tn, nlo61$tn))
 dlo66 <- mean(c(nlo66$tn, nlo65$tn, nlo64$tn, nlo63$tn, nlo62$tn, nlo61$tn, nlo60$tn))
+dlo65 <- mean(c(nlo65$tn, nlo64$tn, nlo63$tn, nlo62$tn, nlo61$tn, nlo60$tn, nlo59$tn))
+dlo64 <- mean(c(nlo64$tn, nlo63$tn, nlo62$tn, nlo61$tn, nlo60$tn, nlo59$tn, nlo58$tn))
+dlo63 <- mean(c(nlo63$tn, nlo62$tn, nlo61$tn, nlo60$tn, nlo59$tn, nlo58$tn, nlo57$tn))
+dlo62 <- mean(c(nlo62$tn, nlo61$tn, nlo60$tn, nlo59$tn, nlo58$tn, nlo57$tn, nlo56$tn))
+dlo61 <- mean(c(nlo61$tn, nlo60$tn, nlo59$tn, nlo58$tn, nlo57$tn, nlo56$tn, nlo55$tn))
+dlo60 <- mean(c(nlo60$tn, nlo59$tn, nlo58$tn, nlo57$tn, nlo56$tn, nlo55$tn, nlo54$tn))
+dlo59 <- mean(c(nlo59$tn, nlo58$tn, nlo57$tn, nlo56$tn, nlo55$tn, nlo54$tn, nlo53$tn))
+dlo58 <- mean(c(nlo58$tn, nlo57$tn, nlo56$tn, nlo55$tn, nlo54$tn, nlo53$tn, nlo52$tn))
+dlo57 <- mean(c(nlo57$tn, nlo56$tn, nlo55$tn, nlo54$tn, nlo53$tn, nlo52$tn, nlo51$tn))
+dlo56 <- mean(c(nlo56$tn, nlo55$tn, nlo54$tn, nlo53$tn, nlo52$tn, nlo51$tn, nlo50$tn))
+dlo55 <- mean(c(nlo55$tn, nlo54$tn, nlo53$tn, nlo52$tn, nlo51$tn, nlo50$tn, nlo49$tn))
+dlo54 <- mean(c(nlo54$tn, nlo53$tn, nlo52$tn, nlo51$tn, nlo50$tn, nlo49$tn, nlo48$tn))
+dlo53 <- mean(c(nlo53$tn, nlo52$tn, nlo51$tn, nlo50$tn, nlo49$tn, nlo48$tn, nlo47$tn))
+dlo52 <- mean(c(nlo52$tn, nlo51$tn, nlo50$tn, nlo49$tn, nlo48$tn, nlo47$tn, nlo46$tn))
+dlo51 <- mean(c(nlo51$tn, nlo50$tn, nlo49$tn, nlo48$tn, nlo47$tn, nlo46$tn, nlo45$tn))
+dlo50 <- mean(c(nlo50$tn, nlo49$tn, nlo48$tn, nlo47$tn, nlo46$tn, nlo45$tn, nlo44$tn))
+dlo49 <- mean(c(nlo49$tn, nlo48$tn, nlo47$tn, nlo46$tn, nlo45$tn, nlo44$tn, nlo43$tn))
+dlo48 <- mean(c(nlo48$tn, nlo47$tn, nlo46$tn, nlo45$tn, nlo44$tn, nlo43$tn, nlo42$tn))
+dlo47 <- mean(c(nlo47$tn, nlo46$tn, nlo45$tn, nlo44$tn, nlo43$tn, nlo42$tn, nlo41$tn))
+dlo46 <- mean(c(nlo46$tn, nlo45$tn, nlo44$tn, nlo43$tn, nlo42$tn, nlo41$tn, nlo40$tn))
+dlo45 <- mean(c(nlo45$tn, nlo44$tn, nlo43$tn, nlo42$tn, nlo41$tn, nlo40$tn, nlo39$tn))
+dlo44 <- mean(c(nlo44$tn, nlo43$tn, nlo42$tn, nlo41$tn, nlo40$tn, nlo39$tn, nlo38$tn))
+dlo43 <- mean(c(nlo43$tn, nlo42$tn, nlo41$tn, nlo40$tn, nlo39$tn, nlo38$tn, nlo37$tn))
+dlo42 <- mean(c(nlo42$tn, nlo41$tn, nlo40$tn, nlo39$tn, nlo38$tn, nlo37$tn, nlo36$tn))
+dlo41 <- mean(c(nlo41$tn, nlo40$tn, nlo39$tn, nlo38$tn, nlo37$tn, nlo36$tn, nlo35$tn))
+dlo40 <- mean(c(nlo40$tn, nlo39$tn, nlo38$tn, nlo37$tn, nlo36$tn, nlo35$tn, nlo34$tn))
+dlo39 <- mean(c(nlo39$tn, nlo38$tn, nlo37$tn, nlo36$tn, nlo35$tn, nlo34$tn, nlo33$tn))
+dlo38 <- mean(c(nlo38$tn, nlo37$tn, nlo36$tn, nlo35$tn, nlo34$tn, nlo33$tn, nlo32$tn))
+dlo37 <- mean(c(nlo37$tn, nlo36$tn, nlo35$tn, nlo34$tn, nlo33$tn, nlo32$tn, nlo31$tn))
+dlo36 <- mean(c(nlo36$tn, nlo35$tn, nlo34$tn, nlo33$tn, nlo32$tn, nlo31$tn, nlo30$tn))
+dlo35 <- mean(c(nlo35$tn, nlo34$tn, nlo33$tn, nlo32$tn, nlo31$tn, nlo30$tn, nlo29$tn))
+dlo34 <- mean(c(nlo34$tn, nlo33$tn, nlo32$tn, nlo31$tn, nlo30$tn, nlo29$tn, nlo28$tn))
+dlo33 <- mean(c(nlo33$tn, nlo32$tn, nlo31$tn, nlo30$tn, nlo29$tn, nlo28$tn, nlo27$tn))
+dlo32 <- mean(c(nlo32$tn, nlo31$tn, nlo30$tn, nlo29$tn, nlo28$tn, nlo27$tn, nlo26$tn))
+dlo31 <- mean(c(nlo31$tn, nlo30$tn, nlo29$tn, nlo28$tn, nlo27$tn, nlo26$tn, nlo25$tn))
+dlo30 <- mean(c(nlo30$tn, nlo29$tn, nlo28$tn, nlo27$tn, nlo26$tn, nlo25$tn, nlo24$tn))
+dlo29 <- mean(c(nlo29$tn, nlo28$tn, nlo27$tn, nlo26$tn, nlo25$tn, nlo24$tn, nlo23$tn))
+dlo28 <- mean(c(nlo28$tn, nlo27$tn, nlo26$tn, nlo25$tn, nlo24$tn, nlo23$tn, nlo22$tn))
+dlo27 <- mean(c(nlo27$tn, nlo26$tn, nlo25$tn, nlo24$tn, nlo23$tn, nlo22$tn, nlo21$tn))
+dlo26 <- mean(c(nlo26$tn, nlo25$tn, nlo24$tn, nlo23$tn, nlo22$tn, nlo21$tn, nlo20$tn))
+dlo25 <- mean(c(nlo25$tn, nlo24$tn, nlo23$tn, nlo22$tn, nlo21$tn, nlo20$tn, nlo19$tn))
+dlo24 <- mean(c(nlo24$tn, nlo23$tn, nlo22$tn, nlo21$tn, nlo20$tn, nlo19$tn, nlo18$tn))
+dlo23 <- mean(c(nlo23$tn, nlo22$tn, nlo21$tn, nlo20$tn, nlo19$tn, nlo18$tn, nlo17$tn))
+dlo22 <- mean(c(nlo22$tn, nlo21$tn, nlo20$tn, nlo19$tn, nlo18$tn, nlo17$tn, nlo16$tn))
+dlo21 <- mean(c(nlo21$tn, nlo20$tn, nlo19$tn, nlo18$tn, nlo17$tn, nlo16$tn, nlo15$tn))
+dlo20 <- mean(c(nlo20$tn, nlo19$tn, nlo18$tn, nlo17$tn, nlo16$tn, nlo15$tn, nlo14$tn))
+dlo19 <- mean(c(nlo19$tn, nlo18$tn, nlo17$tn, nlo16$tn, nlo15$tn, nlo14$tn, nlo13$tn))
+dlo18 <- mean(c(nlo18$tn, nlo17$tn, nlo16$tn, nlo15$tn, nlo14$tn, nlo13$tn, nlo12$tn))
+dlo17 <- mean(c(nlo17$tn, nlo16$tn, nlo15$tn, nlo14$tn, nlo13$tn, nlo12$tn, nlo11$tn))
+dlo16 <- mean(c(nlo16$tn, nlo15$tn, nlo14$tn, nlo13$tn, nlo12$tn, nlo11$tn, nlo10$tn))
+dlo15 <- mean(c(nlo15$tn, nlo14$tn, nlo13$tn, nlo12$tn, nlo11$tn, nlo10$tn, nlo09$tn))
+dlo14 <- mean(c(nlo14$tn, nlo13$tn, nlo12$tn, nlo11$tn, nlo10$tn, nlo09$tn, nlo08$tn))
+dlo13 <- mean(c(nlo13$tn, nlo12$tn, nlo11$tn, nlo10$tn, nlo09$tn, nlo08$tn, nlo07$tn))
+dlo12 <- mean(c(nlo12$tn, nlo11$tn, nlo10$tn, nlo09$tn, nlo08$tn, nlo07$tn, nlo06$tn))
+dlo11 <- mean(c(nlo11$tn, nlo10$tn, nlo09$tn, nlo08$tn, nlo07$tn, nlo06$tn, nlo05$tn))
+dlo10 <- mean(c(nlo10$tn, nlo09$tn, nlo08$tn, nlo07$tn, nlo06$tn, nlo05$tn, nlo04$tn))
+dlo09 <- mean(c(nlo09$tn, nlo08$tn, nlo07$tn, nlo06$tn, nlo05$tn, nlo04$tn, nlo03$tn))
+dlo08 <- mean(c(nlo08$tn, nlo07$tn, nlo06$tn, nlo05$tn, nlo04$tn, nlo03$tn, nlo02$tn))
+dlo07 <- mean(c(nlo07$tn, nlo06$tn, nlo05$tn, nlo04$tn, nlo03$tn, nlo02$tn, nlo01$tn))
 
 dflo <- data_frame(
   fecha,
-  dnclo = c(dlo158/plo, dlo157/plo, dlo156/plo, dlo155/plo, dlo154/plo, dlo153/plo, dlo152/plo, dlo151/plo, dlo150/plo,
+  dnclo = c(dlo162/plo, dlo161/plo, dlo160/plo, 
+            dlo159/plo, dlo158/plo, dlo157/plo, dlo156/plo, dlo155/plo, dlo154/plo, dlo153/plo, dlo152/plo, dlo151/plo, dlo150/plo,
             dlo149/plo, dlo148/plo, dlo147/plo, dlo146/plo, dlo145/plo, dlo144/plo, dlo143/plo, dlo142/plo, dlo141/plo, dlo140/plo, 
             dlo139/plo, dlo138/plo, dlo137/plo, dlo136/plo, dlo135/plo, dlo134/plo, dlo133/plo, dlo132/plo, dlo131/plo, dlo130/plo, 
             dlo129/plo, dlo128/plo, dlo127/plo, dlo126/plo, dlo125/plo, dlo124/plo, dlo123/plo, dlo122/plo, dlo121/plo, dlo120/plo, 
@@ -5928,10 +6749,28 @@ dflo <- data_frame(
             dlo99/plo, dlo98/plo, dlo97/plo, dlo96/plo, dlo95/plo, dlo94/plo, dlo93/plo, dlo92/plo, dlo91/plo, dlo90/plo, 
             dlo89/plo, dlo88/plo, dlo87/plo, dlo86/plo, dlo85/plo, dlo84/plo, dlo83/plo, dlo82/plo, dlo81/plo, dlo80/plo, 
             dlo79/plo, dlo78/plo, dlo77/plo, dlo76/plo, dlo75/plo, dlo74/plo, dlo73/plo, dlo72/plo, dlo71/plo, dlo70/plo, 
-            dlo69/plo, dlo68/plo, dlo67/plo, dlo66/plo)
+            dlo69/plo, dlo68/plo, dlo67/plo, dlo66/plo, dlo65/plo, dlo64/plo, dlo63/plo, dlo62/plo, dlo61/plo, dlo60/plo,
+            dlo59/plo, dlo58/plo, dlo57/plo, dlo56/plo, dlo55/plo, dlo54/plo, dlo53/plo, dlo52/plo, dlo51/plo, dlo50/plo,
+            dlo49/plo, dlo48/plo, dlo47/plo, dlo46/plo, dlo45/plo, dlo44/plo, dlo43/plo, dlo42/plo, dlo41/plo, dlo40/plo,
+            dlo39/plo, dlo38/plo, dlo37/plo, dlo36/plo, dlo35/plo, dlo34/plo, dlo33/plo, dlo32/plo, dlo31/plo, dlo30/plo,
+            dlo29/plo, dlo28/plo, dlo27/plo, dlo26/plo, dlo25/plo, dlo24/plo, dlo23/plo, dlo22/plo, dlo21/plo, dlo20/plo,
+            dlo19/plo, dlo18/plo, dlo17/plo, dlo16/plo, dlo15/plo, dlo14/plo, dlo13/plo, dlo12/plo, dlo11/plo, dlo10/plo,
+            dlo09/plo, dlo08/plo, dlo07/plo)
 )
 
 # ***** GALAPAGOS *****
+nga162 <- galapagos22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nga161 <- galapagos22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nga160 <- galapagos22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nga159 <- galapagos22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nga158 <- galapagos22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -6407,6 +7246,10 @@ nga01 <- galapagos22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dga162 <- mean(c(nga162$tn, nga161$tn, nga160$tn, nga159$tn, nga158$tn, nga157$tn, nga156$tn))
+dga161 <- mean(c(nga161$tn, nga160$tn, nga159$tn, nga158$tn, nga157$tn, nga156$tn, nga155$tn))
+dga160 <- mean(c(nga160$tn, nga159$tn, nga158$tn, nga157$tn, nga156$tn, nga155$tn, nga154$tn))
+dga159 <- mean(c(nga159$tn, nga158$tn, nga157$tn, nga156$tn, nga155$tn, nga154$tn, nga153$tn))
 dga158 <- mean(c(nga158$tn, nga157$tn, nga156$tn, nga155$tn, nga154$tn, nga153$tn, nga152$tn))
 dga157 <- mean(c(nga157$tn, nga156$tn, nga155$tn, nga154$tn, nga153$tn, nga152$tn, nga151$tn))
 dga156 <- mean(c(nga156$tn, nga155$tn, nga154$tn, nga153$tn, nga152$tn, nga151$tn, nga150$tn))
@@ -6500,10 +7343,70 @@ dga69 <- mean(c(nga69$tn, nga68$tn, nga67$tn, nga66$tn, nga65$tn, nga64$tn, nga6
 dga68 <- mean(c(nga68$tn, nga67$tn, nga66$tn, nga65$tn, nga64$tn, nga63$tn, nga62$tn))
 dga67 <- mean(c(nga67$tn, nga66$tn, nga65$tn, nga64$tn, nga63$tn, nga62$tn, nga61$tn))
 dga66 <- mean(c(nga66$tn, nga65$tn, nga64$tn, nga63$tn, nga62$tn, nga61$tn, nga60$tn))
+dga65 <- mean(c(nga65$tn, nga64$tn, nga63$tn, nga62$tn, nga61$tn, nga60$tn, nga59$tn))
+dga64 <- mean(c(nga64$tn, nga63$tn, nga62$tn, nga61$tn, nga60$tn, nga59$tn, nga58$tn))
+dga63 <- mean(c(nga63$tn, nga62$tn, nga61$tn, nga60$tn, nga59$tn, nga58$tn, nga57$tn))
+dga62 <- mean(c(nga62$tn, nga61$tn, nga60$tn, nga59$tn, nga58$tn, nga57$tn, nga56$tn))
+dga61 <- mean(c(nga61$tn, nga60$tn, nga59$tn, nga58$tn, nga57$tn, nga56$tn, nga55$tn))
+dga60 <- mean(c(nga60$tn, nga59$tn, nga58$tn, nga57$tn, nga56$tn, nga55$tn, nga54$tn))
+dga59 <- mean(c(nga59$tn, nga58$tn, nga57$tn, nga56$tn, nga55$tn, nga54$tn, nga53$tn))
+dga58 <- mean(c(nga58$tn, nga57$tn, nga56$tn, nga55$tn, nga54$tn, nga53$tn, nga52$tn))
+dga57 <- mean(c(nga57$tn, nga56$tn, nga55$tn, nga54$tn, nga53$tn, nga52$tn, nga51$tn))
+dga56 <- mean(c(nga56$tn, nga55$tn, nga54$tn, nga53$tn, nga52$tn, nga51$tn, nga50$tn))
+dga55 <- mean(c(nga55$tn, nga54$tn, nga53$tn, nga52$tn, nga51$tn, nga50$tn, nga49$tn))
+dga54 <- mean(c(nga54$tn, nga53$tn, nga52$tn, nga51$tn, nga50$tn, nga49$tn, nga48$tn))
+dga53 <- mean(c(nga53$tn, nga52$tn, nga51$tn, nga50$tn, nga49$tn, nga48$tn, nga47$tn))
+dga52 <- mean(c(nga52$tn, nga51$tn, nga50$tn, nga49$tn, nga48$tn, nga47$tn, nga46$tn))
+dga51 <- mean(c(nga51$tn, nga50$tn, nga49$tn, nga48$tn, nga47$tn, nga46$tn, nga45$tn))
+dga50 <- mean(c(nga50$tn, nga49$tn, nga48$tn, nga47$tn, nga46$tn, nga45$tn, nga44$tn))
+dga49 <- mean(c(nga49$tn, nga48$tn, nga47$tn, nga46$tn, nga45$tn, nga44$tn, nga43$tn))
+dga48 <- mean(c(nga48$tn, nga47$tn, nga46$tn, nga45$tn, nga44$tn, nga43$tn, nga42$tn))
+dga47 <- mean(c(nga47$tn, nga46$tn, nga45$tn, nga44$tn, nga43$tn, nga42$tn, nga41$tn))
+dga46 <- mean(c(nga46$tn, nga45$tn, nga44$tn, nga43$tn, nga42$tn, nga41$tn, nga40$tn))
+dga45 <- mean(c(nga45$tn, nga44$tn, nga43$tn, nga42$tn, nga41$tn, nga40$tn, nga39$tn))
+dga44 <- mean(c(nga44$tn, nga43$tn, nga42$tn, nga41$tn, nga40$tn, nga39$tn, nga38$tn))
+dga43 <- mean(c(nga43$tn, nga42$tn, nga41$tn, nga40$tn, nga39$tn, nga38$tn, nga37$tn))
+dga42 <- mean(c(nga42$tn, nga41$tn, nga40$tn, nga39$tn, nga38$tn, nga37$tn, nga36$tn))
+dga41 <- mean(c(nga41$tn, nga40$tn, nga39$tn, nga38$tn, nga37$tn, nga36$tn, nga35$tn))
+dga40 <- mean(c(nga40$tn, nga39$tn, nga38$tn, nga37$tn, nga36$tn, nga35$tn, nga34$tn))
+dga39 <- mean(c(nga39$tn, nga38$tn, nga37$tn, nga36$tn, nga35$tn, nga34$tn, nga33$tn))
+dga38 <- mean(c(nga38$tn, nga37$tn, nga36$tn, nga35$tn, nga34$tn, nga33$tn, nga32$tn))
+dga37 <- mean(c(nga37$tn, nga36$tn, nga35$tn, nga34$tn, nga33$tn, nga32$tn, nga31$tn))
+dga36 <- mean(c(nga36$tn, nga35$tn, nga34$tn, nga33$tn, nga32$tn, nga31$tn, nga30$tn))
+dga35 <- mean(c(nga35$tn, nga34$tn, nga33$tn, nga32$tn, nga31$tn, nga30$tn, nga29$tn))
+dga34 <- mean(c(nga34$tn, nga33$tn, nga32$tn, nga31$tn, nga30$tn, nga29$tn, nga28$tn))
+dga33 <- mean(c(nga33$tn, nga32$tn, nga31$tn, nga30$tn, nga29$tn, nga28$tn, nga27$tn))
+dga32 <- mean(c(nga32$tn, nga31$tn, nga30$tn, nga29$tn, nga28$tn, nga27$tn, nga26$tn))
+dga31 <- mean(c(nga31$tn, nga30$tn, nga29$tn, nga28$tn, nga27$tn, nga26$tn, nga25$tn))
+dga30 <- mean(c(nga30$tn, nga29$tn, nga28$tn, nga27$tn, nga26$tn, nga25$tn, nga24$tn))
+dga29 <- mean(c(nga29$tn, nga28$tn, nga27$tn, nga26$tn, nga25$tn, nga24$tn, nga23$tn))
+dga28 <- mean(c(nga28$tn, nga27$tn, nga26$tn, nga25$tn, nga24$tn, nga23$tn, nga22$tn))
+dga27 <- mean(c(nga27$tn, nga26$tn, nga25$tn, nga24$tn, nga23$tn, nga22$tn, nga21$tn))
+dga26 <- mean(c(nga26$tn, nga25$tn, nga24$tn, nga23$tn, nga22$tn, nga21$tn, nga20$tn))
+dga25 <- mean(c(nga25$tn, nga24$tn, nga23$tn, nga22$tn, nga21$tn, nga20$tn, nga19$tn))
+dga24 <- mean(c(nga24$tn, nga23$tn, nga22$tn, nga21$tn, nga20$tn, nga19$tn, nga18$tn))
+dga23 <- mean(c(nga23$tn, nga22$tn, nga21$tn, nga20$tn, nga19$tn, nga18$tn, nga17$tn))
+dga22 <- mean(c(nga22$tn, nga21$tn, nga20$tn, nga19$tn, nga18$tn, nga17$tn, nga16$tn))
+dga21 <- mean(c(nga21$tn, nga20$tn, nga19$tn, nga18$tn, nga17$tn, nga16$tn, nga15$tn))
+dga20 <- mean(c(nga20$tn, nga19$tn, nga18$tn, nga17$tn, nga16$tn, nga15$tn, nga14$tn))
+dga19 <- mean(c(nga19$tn, nga18$tn, nga17$tn, nga16$tn, nga15$tn, nga14$tn, nga13$tn))
+dga18 <- mean(c(nga18$tn, nga17$tn, nga16$tn, nga15$tn, nga14$tn, nga13$tn, nga12$tn))
+dga17 <- mean(c(nga17$tn, nga16$tn, nga15$tn, nga14$tn, nga13$tn, nga12$tn, nga11$tn))
+dga16 <- mean(c(nga16$tn, nga15$tn, nga14$tn, nga13$tn, nga12$tn, nga11$tn, nga10$tn))
+dga15 <- mean(c(nga15$tn, nga14$tn, nga13$tn, nga12$tn, nga11$tn, nga10$tn, nga09$tn))
+dga14 <- mean(c(nga14$tn, nga13$tn, nga12$tn, nga11$tn, nga10$tn, nga09$tn, nga08$tn))
+dga13 <- mean(c(nga13$tn, nga12$tn, nga11$tn, nga10$tn, nga09$tn, nga08$tn, nga07$tn))
+dga12 <- mean(c(nga12$tn, nga11$tn, nga10$tn, nga09$tn, nga08$tn, nga07$tn, nga06$tn))
+dga11 <- mean(c(nga11$tn, nga10$tn, nga09$tn, nga08$tn, nga07$tn, nga06$tn, nga05$tn))
+dga10 <- mean(c(nga10$tn, nga09$tn, nga08$tn, nga07$tn, nga06$tn, nga05$tn, nga04$tn))
+dga09 <- mean(c(nga09$tn, nga08$tn, nga07$tn, nga06$tn, nga05$tn, nga04$tn, nga03$tn))
+dga08 <- mean(c(nga08$tn, nga07$tn, nga06$tn, nga05$tn, nga04$tn, nga03$tn, nga02$tn))
+dga07 <- mean(c(nga07$tn, nga06$tn, nga05$tn, nga04$tn, nga03$tn, nga02$tn, nga01$tn))
 
 dfga <- data_frame(
   fecha,
-  dncga = c(dga158/pga, dga157/pga, dga156/pga, dga155/pga, dga154/pga, dga153/pga, dga152/pga, dga151/pga, dga150/pga,
+  dncga = c(dga162/pga, dga161/pga, dga160/pga, 
+            dga159/pga, dga158/pga, dga157/pga, dga156/pga, dga155/pga, dga154/pga, dga153/pga, dga152/pga, dga151/pga, dga150/pga,
             dga149/pga, dga148/pga, dga147/pga, dga146/pga, dga145/pga, dga144/pga, dga143/pga, dga142/pga, dga141/pga, dga140/pga, 
             dga139/pga, dga138/pga, dga137/pga, dga136/pga, dga135/pga, dga134/pga, dga133/pga, dga132/pga, dga131/pga, dga130/pga, 
             dga129/pga, dga128/pga, dga127/pga, dga126/pga, dga125/pga, dga124/pga, dga123/pga, dga122/pga, dga121/pga, dga120/pga, 
@@ -6512,10 +7415,28 @@ dfga <- data_frame(
             dga99/pga, dga98/pga, dga97/pga, dga96/pga, dga95/pga, dga94/pga, dga93/pga, dga92/pga, dga91/pga, dga90/pga, 
             dga89/pga, dga88/pga, dga87/pga, dga86/pga, dga85/pga, dga84/pga, dga83/pga, dga82/pga, dga81/pga, dga80/pga, 
             dga79/pga, dga78/pga, dga77/pga, dga76/pga, dga75/pga, dga74/pga, dga73/pga, dga72/pga, dga71/pga, dga70/pga, 
-            dga69/pga, dga68/pga, dga67/pga, dga66/pga)
+            dga69/pga, dga68/pga, dga67/pga, dga66/pga, dga65/pga, dga64/pga, dga63/pga, dga62/pga, dga61/pga, dga60/pga,
+            dga59/pga, dga58/pga, dga57/pga, dga56/pga, dga55/pga, dga54/pga, dga53/pga, dga52/pga, dga51/pga, dga50/pga,
+            dga49/pga, dga48/pga, dga47/pga, dga46/pga, dga45/pga, dga44/pga, dga43/pga, dga42/pga, dga41/pga, dga40/pga,
+            dga39/pga, dga38/pga, dga37/pga, dga36/pga, dga35/pga, dga34/pga, dga33/pga, dga32/pga, dga31/pga, dga30/pga,
+            dga29/pga, dga28/pga, dga27/pga, dga26/pga, dga25/pga, dga24/pga, dga23/pga, dga22/pga, dga21/pga, dga20/pga,
+            dga19/pga, dga18/pga, dga17/pga, dga16/pga, dga15/pga, dga14/pga, dga13/pga, dga12/pga, dga11/pga, dga10/pga,
+            dga09/pga, dga08/pga, dga07/pga)
 )
 
 # ***** ZAMORA *****
+nza162 <- zamora22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nza161 <- zamora22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nza160 <- zamora22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nza159 <- zamora22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nza158 <- zamora22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -6991,6 +7912,10 @@ nza01 <- zamora22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dza162 <- mean(c(nza162$tn, nza161$tn, nza160$tn, nza159$tn, nza158$tn, nza157$tn, nza156$tn))
+dza161 <- mean(c(nza161$tn, nza160$tn, nza159$tn, nza158$tn, nza157$tn, nza156$tn, nza155$tn))
+dza160 <- mean(c(nza160$tn, nza159$tn, nza158$tn, nza157$tn, nza156$tn, nza155$tn, nza154$tn))
+dza159 <- mean(c(nza159$tn, nza158$tn, nza157$tn, nza156$tn, nza155$tn, nza154$tn, nza153$tn))
 dza158 <- mean(c(nza158$tn, nza157$tn, nza156$tn, nza155$tn, nza154$tn, nza153$tn, nza152$tn))
 dza157 <- mean(c(nza157$tn, nza156$tn, nza155$tn, nza154$tn, nza153$tn, nza152$tn, nza151$tn))
 dza156 <- mean(c(nza156$tn, nza155$tn, nza154$tn, nza153$tn, nza152$tn, nza151$tn, nza150$tn))
@@ -7084,10 +8009,70 @@ dza69 <- mean(c(nza69$tn, nza68$tn, nza67$tn, nza66$tn, nza65$tn, nza64$tn, nza6
 dza68 <- mean(c(nza68$tn, nza67$tn, nza66$tn, nza65$tn, nza64$tn, nza63$tn, nza62$tn))
 dza67 <- mean(c(nza67$tn, nza66$tn, nza65$tn, nza64$tn, nza63$tn, nza62$tn, nza61$tn))
 dza66 <- mean(c(nza66$tn, nza65$tn, nza64$tn, nza63$tn, nza62$tn, nza61$tn, nza60$tn))
+dza65 <- mean(c(nza65$tn, nza64$tn, nza63$tn, nza62$tn, nza61$tn, nza60$tn, nza59$tn))
+dza64 <- mean(c(nza64$tn, nza63$tn, nza62$tn, nza61$tn, nza60$tn, nza59$tn, nza58$tn))
+dza63 <- mean(c(nza63$tn, nza62$tn, nza61$tn, nza60$tn, nza59$tn, nza58$tn, nza57$tn))
+dza62 <- mean(c(nza62$tn, nza61$tn, nza60$tn, nza59$tn, nza58$tn, nza57$tn, nza56$tn))
+dza61 <- mean(c(nza61$tn, nza60$tn, nza59$tn, nza58$tn, nza57$tn, nza56$tn, nza55$tn))
+dza60 <- mean(c(nza60$tn, nza59$tn, nza58$tn, nza57$tn, nza56$tn, nza55$tn, nza54$tn))
+dza59 <- mean(c(nza59$tn, nza58$tn, nza57$tn, nza56$tn, nza55$tn, nza54$tn, nza53$tn))
+dza58 <- mean(c(nza58$tn, nza57$tn, nza56$tn, nza55$tn, nza54$tn, nza53$tn, nza52$tn))
+dza57 <- mean(c(nza57$tn, nza56$tn, nza55$tn, nza54$tn, nza53$tn, nza52$tn, nza51$tn))
+dza56 <- mean(c(nza56$tn, nza55$tn, nza54$tn, nza53$tn, nza52$tn, nza51$tn, nza50$tn))
+dza55 <- mean(c(nza55$tn, nza54$tn, nza53$tn, nza52$tn, nza51$tn, nza50$tn, nza49$tn))
+dza54 <- mean(c(nza54$tn, nza53$tn, nza52$tn, nza51$tn, nza50$tn, nza49$tn, nza48$tn))
+dza53 <- mean(c(nza53$tn, nza52$tn, nza51$tn, nza50$tn, nza49$tn, nza48$tn, nza47$tn))
+dza52 <- mean(c(nza52$tn, nza51$tn, nza50$tn, nza49$tn, nza48$tn, nza47$tn, nza46$tn))
+dza51 <- mean(c(nza51$tn, nza50$tn, nza49$tn, nza48$tn, nza47$tn, nza46$tn, nza45$tn))
+dza50 <- mean(c(nza50$tn, nza49$tn, nza48$tn, nza47$tn, nza46$tn, nza45$tn, nza44$tn))
+dza49 <- mean(c(nza49$tn, nza48$tn, nza47$tn, nza46$tn, nza45$tn, nza44$tn, nza43$tn))
+dza48 <- mean(c(nza48$tn, nza47$tn, nza46$tn, nza45$tn, nza44$tn, nza43$tn, nza42$tn))
+dza47 <- mean(c(nza47$tn, nza46$tn, nza45$tn, nza44$tn, nza43$tn, nza42$tn, nza41$tn))
+dza46 <- mean(c(nza46$tn, nza45$tn, nza44$tn, nza43$tn, nza42$tn, nza41$tn, nza40$tn))
+dza45 <- mean(c(nza45$tn, nza44$tn, nza43$tn, nza42$tn, nza41$tn, nza40$tn, nza39$tn))
+dza44 <- mean(c(nza44$tn, nza43$tn, nza42$tn, nza41$tn, nza40$tn, nza39$tn, nza38$tn))
+dza43 <- mean(c(nza43$tn, nza42$tn, nza41$tn, nza40$tn, nza39$tn, nza38$tn, nza37$tn))
+dza42 <- mean(c(nza42$tn, nza41$tn, nza40$tn, nza39$tn, nza38$tn, nza37$tn, nza36$tn))
+dza41 <- mean(c(nza41$tn, nza40$tn, nza39$tn, nza38$tn, nza37$tn, nza36$tn, nza35$tn))
+dza40 <- mean(c(nza40$tn, nza39$tn, nza38$tn, nza37$tn, nza36$tn, nza35$tn, nza34$tn))
+dza39 <- mean(c(nza39$tn, nza38$tn, nza37$tn, nza36$tn, nza35$tn, nza34$tn, nza33$tn))
+dza38 <- mean(c(nza38$tn, nza37$tn, nza36$tn, nza35$tn, nza34$tn, nza33$tn, nza32$tn))
+dza37 <- mean(c(nza37$tn, nza36$tn, nza35$tn, nza34$tn, nza33$tn, nza32$tn, nza31$tn))
+dza36 <- mean(c(nza36$tn, nza35$tn, nza34$tn, nza33$tn, nza32$tn, nza31$tn, nza30$tn))
+dza35 <- mean(c(nza35$tn, nza34$tn, nza33$tn, nza32$tn, nza31$tn, nza30$tn, nza29$tn))
+dza34 <- mean(c(nza34$tn, nza33$tn, nza32$tn, nza31$tn, nza30$tn, nza29$tn, nza28$tn))
+dza33 <- mean(c(nza33$tn, nza32$tn, nza31$tn, nza30$tn, nza29$tn, nza28$tn, nza27$tn))
+dza32 <- mean(c(nza32$tn, nza31$tn, nza30$tn, nza29$tn, nza28$tn, nza27$tn, nza26$tn))
+dza31 <- mean(c(nza31$tn, nza30$tn, nza29$tn, nza28$tn, nza27$tn, nza26$tn, nza25$tn))
+dza30 <- mean(c(nza30$tn, nza29$tn, nza28$tn, nza27$tn, nza26$tn, nza25$tn, nza24$tn))
+dza29 <- mean(c(nza29$tn, nza28$tn, nza27$tn, nza26$tn, nza25$tn, nza24$tn, nza23$tn))
+dza28 <- mean(c(nza28$tn, nza27$tn, nza26$tn, nza25$tn, nza24$tn, nza23$tn, nza22$tn))
+dza27 <- mean(c(nza27$tn, nza26$tn, nza25$tn, nza24$tn, nza23$tn, nza22$tn, nza21$tn))
+dza26 <- mean(c(nza26$tn, nza25$tn, nza24$tn, nza23$tn, nza22$tn, nza21$tn, nza20$tn))
+dza25 <- mean(c(nza25$tn, nza24$tn, nza23$tn, nza22$tn, nza21$tn, nza20$tn, nza19$tn))
+dza24 <- mean(c(nza24$tn, nza23$tn, nza22$tn, nza21$tn, nza20$tn, nza19$tn, nza18$tn))
+dza23 <- mean(c(nza23$tn, nza22$tn, nza21$tn, nza20$tn, nza19$tn, nza18$tn, nza17$tn))
+dza22 <- mean(c(nza22$tn, nza21$tn, nza20$tn, nza19$tn, nza18$tn, nza17$tn, nza16$tn))
+dza21 <- mean(c(nza21$tn, nza20$tn, nza19$tn, nza18$tn, nza17$tn, nza16$tn, nza15$tn))
+dza20 <- mean(c(nza20$tn, nza19$tn, nza18$tn, nza17$tn, nza16$tn, nza15$tn, nza14$tn))
+dza19 <- mean(c(nza19$tn, nza18$tn, nza17$tn, nza16$tn, nza15$tn, nza14$tn, nza13$tn))
+dza18 <- mean(c(nza18$tn, nza17$tn, nza16$tn, nza15$tn, nza14$tn, nza13$tn, nza12$tn))
+dza17 <- mean(c(nza17$tn, nza16$tn, nza15$tn, nza14$tn, nza13$tn, nza12$tn, nza11$tn))
+dza16 <- mean(c(nza16$tn, nza15$tn, nza14$tn, nza13$tn, nza12$tn, nza11$tn, nza10$tn))
+dza15 <- mean(c(nza15$tn, nza14$tn, nza13$tn, nza12$tn, nza11$tn, nza10$tn, nza09$tn))
+dza14 <- mean(c(nza14$tn, nza13$tn, nza12$tn, nza11$tn, nza10$tn, nza09$tn, nza08$tn))
+dza13 <- mean(c(nza13$tn, nza12$tn, nza11$tn, nza10$tn, nza09$tn, nza08$tn, nza07$tn))
+dza12 <- mean(c(nza12$tn, nza11$tn, nza10$tn, nza09$tn, nza08$tn, nza07$tn, nza06$tn))
+dza11 <- mean(c(nza11$tn, nza10$tn, nza09$tn, nza08$tn, nza07$tn, nza06$tn, nza05$tn))
+dza10 <- mean(c(nza10$tn, nza09$tn, nza08$tn, nza07$tn, nza06$tn, nza05$tn, nza04$tn))
+dza09 <- mean(c(nza09$tn, nza08$tn, nza07$tn, nza06$tn, nza05$tn, nza04$tn, nza03$tn))
+dza08 <- mean(c(nza08$tn, nza07$tn, nza06$tn, nza05$tn, nza04$tn, nza03$tn, nza02$tn))
+dza07 <- mean(c(nza07$tn, nza06$tn, nza05$tn, nza04$tn, nza03$tn, nza02$tn, nza01$tn))
 
 dfza <- data_frame(
   fecha,
-  dncza = c(dza158/pza, dza157/pza, dza156/pza, dza155/pza, dza154/pza, dza153/pza, dza152/pza, dza151/pza, dza150/pza,
+  dncza = c(dza162/pza, dza161/pza, dza160/pza, 
+            dza159/pza, dza158/pza, dza157/pza, dza156/pza, dza155/pza, dza154/pza, dza153/pza, dza152/pza, dza151/pza, dza150/pza,
             dza149/pza, dza148/pza, dza147/pza, dza146/pza, dza145/pza, dza144/pza, dza143/pza, dza142/pza, dza141/pza, dza140/pza, 
             dza139/pza, dza138/pza, dza137/pza, dza136/pza, dza135/pza, dza134/pza, dza133/pza, dza132/pza, dza131/pza, dza130/pza, 
             dza129/pza, dza128/pza, dza127/pza, dza126/pza, dza125/pza, dza124/pza, dza123/pza, dza122/pza, dza121/pza, dza120/pza, 
@@ -7096,10 +8081,28 @@ dfza <- data_frame(
             dza99/pza, dza98/pza, dza97/pza, dza96/pza, dza95/pza, dza94/pza, dza93/pza, dza92/pza, dza91/pza, dza90/pza, 
             dza89/pza, dza88/pza, dza87/pza, dza86/pza, dza85/pza, dza84/pza, dza83/pza, dza82/pza, dza81/pza, dza80/pza, 
             dza79/pza, dza78/pza, dza77/pza, dza76/pza, dza75/pza, dza74/pza, dza73/pza, dza72/pza, dza71/pza, dza70/pza, 
-            dza69/pza, dza68/pza, dza67/pza, dza66/pza)
+            dza69/pza, dza68/pza, dza67/pza, dza66/pza, dza65/pza, dza64/pza, dza63/pza, dza62/pza, dza61/pza, dza60/pza,
+            dza59/pza, dza58/pza, dza57/pza, dza56/pza, dza55/pza, dza54/pza, dza53/pza, dza52/pza, dza51/pza, dza50/pza,
+            dza49/pza, dza48/pza, dza47/pza, dza46/pza, dza45/pza, dza44/pza, dza43/pza, dza42/pza, dza41/pza, dza40/pza,
+            dza39/pza, dza38/pza, dza37/pza, dza36/pza, dza35/pza, dza34/pza, dza33/pza, dza32/pza, dza31/pza, dza30/pza,
+            dza29/pza, dza28/pza, dza27/pza, dza26/pza, dza25/pza, dza24/pza, dza23/pza, dza22/pza, dza21/pza, dza20/pza,
+            dza19/pza, dza18/pza, dza17/pza, dza16/pza, dza15/pza, dza14/pza, dza13/pza, dza12/pza, dza11/pza, dza10/pza,
+            dza09/pza, dza08/pza, dza07/pza)
 )
 
 # ***** SUCUMBIOS *****
+nsu162 <- sucumbios22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nsu161 <- sucumbios22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nsu160 <- sucumbios22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nsu159 <- sucumbios22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nsu158 <- sucumbios22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -7575,6 +8578,10 @@ nsu01 <- sucumbios22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dsu162 <- mean(c(nsu162$tn, nsu161$tn, nsu160$tn, nsu159$tn, nsu158$tn, nsu157$tn, nsu156$tn))
+dsu161 <- mean(c(nsu161$tn, nsu160$tn, nsu159$tn, nsu158$tn, nsu157$tn, nsu156$tn, nsu155$tn))
+dsu160 <- mean(c(nsu160$tn, nsu159$tn, nsu158$tn, nsu157$tn, nsu156$tn, nsu155$tn, nsu154$tn))
+dsu159 <- mean(c(nsu159$tn, nsu158$tn, nsu157$tn, nsu156$tn, nsu155$tn, nsu154$tn, nsu153$tn))
 dsu158 <- mean(c(nsu158$tn, nsu157$tn, nsu156$tn, nsu155$tn, nsu154$tn, nsu153$tn, nsu152$tn))
 dsu157 <- mean(c(nsu157$tn, nsu156$tn, nsu155$tn, nsu154$tn, nsu153$tn, nsu152$tn, nsu151$tn))
 dsu156 <- mean(c(nsu156$tn, nsu155$tn, nsu154$tn, nsu153$tn, nsu152$tn, nsu151$tn, nsu150$tn))
@@ -7668,10 +8675,70 @@ dsu69 <- mean(c(nsu69$tn, nsu68$tn, nsu67$tn, nsu66$tn, nsu65$tn, nsu64$tn, nsu6
 dsu68 <- mean(c(nsu68$tn, nsu67$tn, nsu66$tn, nsu65$tn, nsu64$tn, nsu63$tn, nsu62$tn))
 dsu67 <- mean(c(nsu67$tn, nsu66$tn, nsu65$tn, nsu64$tn, nsu63$tn, nsu62$tn, nsu61$tn))
 dsu66 <- mean(c(nsu66$tn, nsu65$tn, nsu64$tn, nsu63$tn, nsu62$tn, nsu61$tn, nsu60$tn))
+dsu65 <- mean(c(nsu65$tn, nsu64$tn, nsu63$tn, nsu62$tn, nsu61$tn, nsu60$tn, nsu59$tn))
+dsu64 <- mean(c(nsu64$tn, nsu63$tn, nsu62$tn, nsu61$tn, nsu60$tn, nsu59$tn, nsu58$tn))
+dsu63 <- mean(c(nsu63$tn, nsu62$tn, nsu61$tn, nsu60$tn, nsu59$tn, nsu58$tn, nsu57$tn))
+dsu62 <- mean(c(nsu62$tn, nsu61$tn, nsu60$tn, nsu59$tn, nsu58$tn, nsu57$tn, nsu56$tn))
+dsu61 <- mean(c(nsu61$tn, nsu60$tn, nsu59$tn, nsu58$tn, nsu57$tn, nsu56$tn, nsu55$tn))
+dsu60 <- mean(c(nsu60$tn, nsu59$tn, nsu58$tn, nsu57$tn, nsu56$tn, nsu55$tn, nsu54$tn))
+dsu59 <- mean(c(nsu59$tn, nsu58$tn, nsu57$tn, nsu56$tn, nsu55$tn, nsu54$tn, nsu53$tn))
+dsu58 <- mean(c(nsu58$tn, nsu57$tn, nsu56$tn, nsu55$tn, nsu54$tn, nsu53$tn, nsu52$tn))
+dsu57 <- mean(c(nsu57$tn, nsu56$tn, nsu55$tn, nsu54$tn, nsu53$tn, nsu52$tn, nsu51$tn))
+dsu56 <- mean(c(nsu56$tn, nsu55$tn, nsu54$tn, nsu53$tn, nsu52$tn, nsu51$tn, nsu50$tn))
+dsu55 <- mean(c(nsu55$tn, nsu54$tn, nsu53$tn, nsu52$tn, nsu51$tn, nsu50$tn, nsu49$tn))
+dsu54 <- mean(c(nsu54$tn, nsu53$tn, nsu52$tn, nsu51$tn, nsu50$tn, nsu49$tn, nsu48$tn))
+dsu53 <- mean(c(nsu53$tn, nsu52$tn, nsu51$tn, nsu50$tn, nsu49$tn, nsu48$tn, nsu47$tn))
+dsu52 <- mean(c(nsu52$tn, nsu51$tn, nsu50$tn, nsu49$tn, nsu48$tn, nsu47$tn, nsu46$tn))
+dsu51 <- mean(c(nsu51$tn, nsu50$tn, nsu49$tn, nsu48$tn, nsu47$tn, nsu46$tn, nsu45$tn))
+dsu50 <- mean(c(nsu50$tn, nsu49$tn, nsu48$tn, nsu47$tn, nsu46$tn, nsu45$tn, nsu44$tn))
+dsu49 <- mean(c(nsu49$tn, nsu48$tn, nsu47$tn, nsu46$tn, nsu45$tn, nsu44$tn, nsu43$tn))
+dsu48 <- mean(c(nsu48$tn, nsu47$tn, nsu46$tn, nsu45$tn, nsu44$tn, nsu43$tn, nsu42$tn))
+dsu47 <- mean(c(nsu47$tn, nsu46$tn, nsu45$tn, nsu44$tn, nsu43$tn, nsu42$tn, nsu41$tn))
+dsu46 <- mean(c(nsu46$tn, nsu45$tn, nsu44$tn, nsu43$tn, nsu42$tn, nsu41$tn, nsu40$tn))
+dsu45 <- mean(c(nsu45$tn, nsu44$tn, nsu43$tn, nsu42$tn, nsu41$tn, nsu40$tn, nsu39$tn))
+dsu44 <- mean(c(nsu44$tn, nsu43$tn, nsu42$tn, nsu41$tn, nsu40$tn, nsu39$tn, nsu38$tn))
+dsu43 <- mean(c(nsu43$tn, nsu42$tn, nsu41$tn, nsu40$tn, nsu39$tn, nsu38$tn, nsu37$tn))
+dsu42 <- mean(c(nsu42$tn, nsu41$tn, nsu40$tn, nsu39$tn, nsu38$tn, nsu37$tn, nsu36$tn))
+dsu41 <- mean(c(nsu41$tn, nsu40$tn, nsu39$tn, nsu38$tn, nsu37$tn, nsu36$tn, nsu35$tn))
+dsu40 <- mean(c(nsu40$tn, nsu39$tn, nsu38$tn, nsu37$tn, nsu36$tn, nsu35$tn, nsu34$tn))
+dsu39 <- mean(c(nsu39$tn, nsu38$tn, nsu37$tn, nsu36$tn, nsu35$tn, nsu34$tn, nsu33$tn))
+dsu38 <- mean(c(nsu38$tn, nsu37$tn, nsu36$tn, nsu35$tn, nsu34$tn, nsu33$tn, nsu32$tn))
+dsu37 <- mean(c(nsu37$tn, nsu36$tn, nsu35$tn, nsu34$tn, nsu33$tn, nsu32$tn, nsu31$tn))
+dsu36 <- mean(c(nsu36$tn, nsu35$tn, nsu34$tn, nsu33$tn, nsu32$tn, nsu31$tn, nsu30$tn))
+dsu35 <- mean(c(nsu35$tn, nsu34$tn, nsu33$tn, nsu32$tn, nsu31$tn, nsu30$tn, nsu29$tn))
+dsu34 <- mean(c(nsu34$tn, nsu33$tn, nsu32$tn, nsu31$tn, nsu30$tn, nsu29$tn, nsu28$tn))
+dsu33 <- mean(c(nsu33$tn, nsu32$tn, nsu31$tn, nsu30$tn, nsu29$tn, nsu28$tn, nsu27$tn))
+dsu32 <- mean(c(nsu32$tn, nsu31$tn, nsu30$tn, nsu29$tn, nsu28$tn, nsu27$tn, nsu26$tn))
+dsu31 <- mean(c(nsu31$tn, nsu30$tn, nsu29$tn, nsu28$tn, nsu27$tn, nsu26$tn, nsu25$tn))
+dsu30 <- mean(c(nsu30$tn, nsu29$tn, nsu28$tn, nsu27$tn, nsu26$tn, nsu25$tn, nsu24$tn))
+dsu29 <- mean(c(nsu29$tn, nsu28$tn, nsu27$tn, nsu26$tn, nsu25$tn, nsu24$tn, nsu23$tn))
+dsu28 <- mean(c(nsu28$tn, nsu27$tn, nsu26$tn, nsu25$tn, nsu24$tn, nsu23$tn, nsu22$tn))
+dsu27 <- mean(c(nsu27$tn, nsu26$tn, nsu25$tn, nsu24$tn, nsu23$tn, nsu22$tn, nsu21$tn))
+dsu26 <- mean(c(nsu26$tn, nsu25$tn, nsu24$tn, nsu23$tn, nsu22$tn, nsu21$tn, nsu20$tn))
+dsu25 <- mean(c(nsu25$tn, nsu24$tn, nsu23$tn, nsu22$tn, nsu21$tn, nsu20$tn, nsu19$tn))
+dsu24 <- mean(c(nsu24$tn, nsu23$tn, nsu22$tn, nsu21$tn, nsu20$tn, nsu19$tn, nsu18$tn))
+dsu23 <- mean(c(nsu23$tn, nsu22$tn, nsu21$tn, nsu20$tn, nsu19$tn, nsu18$tn, nsu17$tn))
+dsu22 <- mean(c(nsu22$tn, nsu21$tn, nsu20$tn, nsu19$tn, nsu18$tn, nsu17$tn, nsu16$tn))
+dsu21 <- mean(c(nsu21$tn, nsu20$tn, nsu19$tn, nsu18$tn, nsu17$tn, nsu16$tn, nsu15$tn))
+dsu20 <- mean(c(nsu20$tn, nsu19$tn, nsu18$tn, nsu17$tn, nsu16$tn, nsu15$tn, nsu14$tn))
+dsu19 <- mean(c(nsu19$tn, nsu18$tn, nsu17$tn, nsu16$tn, nsu15$tn, nsu14$tn, nsu13$tn))
+dsu18 <- mean(c(nsu18$tn, nsu17$tn, nsu16$tn, nsu15$tn, nsu14$tn, nsu13$tn, nsu12$tn))
+dsu17 <- mean(c(nsu17$tn, nsu16$tn, nsu15$tn, nsu14$tn, nsu13$tn, nsu12$tn, nsu11$tn))
+dsu16 <- mean(c(nsu16$tn, nsu15$tn, nsu14$tn, nsu13$tn, nsu12$tn, nsu11$tn, nsu10$tn))
+dsu15 <- mean(c(nsu15$tn, nsu14$tn, nsu13$tn, nsu12$tn, nsu11$tn, nsu10$tn, nsu09$tn))
+dsu14 <- mean(c(nsu14$tn, nsu13$tn, nsu12$tn, nsu11$tn, nsu10$tn, nsu09$tn, nsu08$tn))
+dsu13 <- mean(c(nsu13$tn, nsu12$tn, nsu11$tn, nsu10$tn, nsu09$tn, nsu08$tn, nsu07$tn))
+dsu12 <- mean(c(nsu12$tn, nsu11$tn, nsu10$tn, nsu09$tn, nsu08$tn, nsu07$tn, nsu06$tn))
+dsu11 <- mean(c(nsu11$tn, nsu10$tn, nsu09$tn, nsu08$tn, nsu07$tn, nsu06$tn, nsu05$tn))
+dsu10 <- mean(c(nsu10$tn, nsu09$tn, nsu08$tn, nsu07$tn, nsu06$tn, nsu05$tn, nsu04$tn))
+dsu09 <- mean(c(nsu09$tn, nsu08$tn, nsu07$tn, nsu06$tn, nsu05$tn, nsu04$tn, nsu03$tn))
+dsu08 <- mean(c(nsu08$tn, nsu07$tn, nsu06$tn, nsu05$tn, nsu04$tn, nsu03$tn, nsu02$tn))
+dsu07 <- mean(c(nsu07$tn, nsu06$tn, nsu05$tn, nsu04$tn, nsu03$tn, nsu02$tn, nsu01$tn))
 
 dfsu <- data_frame(
   fecha,
-  dncsu = c(dsu158/psu, dsu157/psu, dsu156/psu, dsu155/psu, dsu154/psu, dsu153/psu, dsu152/psu, dsu151/psu, dsu150/psu,
+  dncsu = c(dsu162/psu, dsu161/psu, dsu160/psu, 
+            dsu159/psu, dsu158/psu, dsu157/psu, dsu156/psu, dsu155/psu, dsu154/psu, dsu153/psu, dsu152/psu, dsu151/psu, dsu150/psu,
             dsu149/psu, dsu148/psu, dsu147/psu, dsu146/psu, dsu145/psu, dsu144/psu, dsu143/psu, dsu142/psu, dsu141/psu, dsu140/psu, 
             dsu139/psu, dsu138/psu, dsu137/psu, dsu136/psu, dsu135/psu, dsu134/psu, dsu133/psu, dsu132/psu, dsu131/psu, dsu130/psu, 
             dsu129/psu, dsu128/psu, dsu127/psu, dsu126/psu, dsu125/psu, dsu124/psu, dsu123/psu, dsu122/psu, dsu121/psu, dsu120/psu, 
@@ -7680,10 +8747,28 @@ dfsu <- data_frame(
             dsu99/psu, dsu98/psu, dsu97/psu, dsu96/psu, dsu95/psu, dsu94/psu, dsu93/psu, dsu92/psu, dsu91/psu, dsu90/psu, 
             dsu89/psu, dsu88/psu, dsu87/psu, dsu86/psu, dsu85/psu, dsu84/psu, dsu83/psu, dsu82/psu, dsu81/psu, dsu80/psu, 
             dsu79/psu, dsu78/psu, dsu77/psu, dsu76/psu, dsu75/psu, dsu74/psu, dsu73/psu, dsu72/psu, dsu71/psu, dsu70/psu, 
-            dsu69/psu, dsu68/psu, dsu67/psu, dsu66/psu)
+            dsu69/psu, dsu68/psu, dsu67/psu, dsu66/psu, dsu65/psu, dsu64/psu, dsu63/psu, dsu62/psu, dsu61/psu, dsu60/psu,
+            dsu59/psu, dsu58/psu, dsu57/psu, dsu56/psu, dsu55/psu, dsu54/psu, dsu53/psu, dsu52/psu, dsu51/psu, dsu50/psu,
+            dsu49/psu, dsu48/psu, dsu47/psu, dsu46/psu, dsu45/psu, dsu44/psu, dsu43/psu, dsu42/psu, dsu41/psu, dsu40/psu,
+            dsu39/psu, dsu38/psu, dsu37/psu, dsu36/psu, dsu35/psu, dsu34/psu, dsu33/psu, dsu32/psu, dsu31/psu, dsu30/psu,
+            dsu29/psu, dsu28/psu, dsu27/psu, dsu26/psu, dsu25/psu, dsu24/psu, dsu23/psu, dsu22/psu, dsu21/psu, dsu20/psu,
+            dsu19/psu, dsu18/psu, dsu17/psu, dsu16/psu, dsu15/psu, dsu14/psu, dsu13/psu, dsu12/psu, dsu11/psu, dsu10/psu,
+            dsu09/psu, dsu08/psu, dsu07/psu)
 )
 
 # ***** PASTAZA *****
+npa162 <- pastaza22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+npa161 <- pastaza22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+npa160 <- pastaza22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+npa159 <- pastaza22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 npa158 <- pastaza22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -8159,6 +9244,10 @@ npa01 <- pastaza22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dpa162 <- mean(c(npa162$tn, npa161$tn, npa160$tn, npa159$tn, npa158$tn, npa157$tn, npa156$tn))
+dpa161 <- mean(c(npa161$tn, npa160$tn, npa159$tn, npa158$tn, npa157$tn, npa156$tn, npa155$tn))
+dpa160 <- mean(c(npa160$tn, npa159$tn, npa158$tn, npa157$tn, npa156$tn, npa155$tn, npa154$tn))
+dpa159 <- mean(c(npa159$tn, npa158$tn, npa157$tn, npa156$tn, npa155$tn, npa154$tn, npa153$tn))
 dpa158 <- mean(c(npa158$tn, npa157$tn, npa156$tn, npa155$tn, npa154$tn, npa153$tn, npa152$tn))
 dpa157 <- mean(c(npa157$tn, npa156$tn, npa155$tn, npa154$tn, npa153$tn, npa152$tn, npa151$tn))
 dpa156 <- mean(c(npa156$tn, npa155$tn, npa154$tn, npa153$tn, npa152$tn, npa151$tn, npa150$tn))
@@ -8252,10 +9341,70 @@ dpa69 <- mean(c(npa69$tn, npa68$tn, npa67$tn, npa66$tn, npa65$tn, npa64$tn, npa6
 dpa68 <- mean(c(npa68$tn, npa67$tn, npa66$tn, npa65$tn, npa64$tn, npa63$tn, npa62$tn))
 dpa67 <- mean(c(npa67$tn, npa66$tn, npa65$tn, npa64$tn, npa63$tn, npa62$tn, npa61$tn))
 dpa66 <- mean(c(npa66$tn, npa65$tn, npa64$tn, npa63$tn, npa62$tn, npa61$tn, npa60$tn))
+dpa65 <- mean(c(npa65$tn, npa64$tn, npa63$tn, npa62$tn, npa61$tn, npa60$tn, npa59$tn))
+dpa64 <- mean(c(npa64$tn, npa63$tn, npa62$tn, npa61$tn, npa60$tn, npa59$tn, npa58$tn))
+dpa63 <- mean(c(npa63$tn, npa62$tn, npa61$tn, npa60$tn, npa59$tn, npa58$tn, npa57$tn))
+dpa62 <- mean(c(npa62$tn, npa61$tn, npa60$tn, npa59$tn, npa58$tn, npa57$tn, npa56$tn))
+dpa61 <- mean(c(npa61$tn, npa60$tn, npa59$tn, npa58$tn, npa57$tn, npa56$tn, npa55$tn))
+dpa60 <- mean(c(npa60$tn, npa59$tn, npa58$tn, npa57$tn, npa56$tn, npa55$tn, npa54$tn))
+dpa59 <- mean(c(npa59$tn, npa58$tn, npa57$tn, npa56$tn, npa55$tn, npa54$tn, npa53$tn))
+dpa58 <- mean(c(npa58$tn, npa57$tn, npa56$tn, npa55$tn, npa54$tn, npa53$tn, npa52$tn))
+dpa57 <- mean(c(npa57$tn, npa56$tn, npa55$tn, npa54$tn, npa53$tn, npa52$tn, npa51$tn))
+dpa56 <- mean(c(npa56$tn, npa55$tn, npa54$tn, npa53$tn, npa52$tn, npa51$tn, npa50$tn))
+dpa55 <- mean(c(npa55$tn, npa54$tn, npa53$tn, npa52$tn, npa51$tn, npa50$tn, npa49$tn))
+dpa54 <- mean(c(npa54$tn, npa53$tn, npa52$tn, npa51$tn, npa50$tn, npa49$tn, npa48$tn))
+dpa53 <- mean(c(npa53$tn, npa52$tn, npa51$tn, npa50$tn, npa49$tn, npa48$tn, npa47$tn))
+dpa52 <- mean(c(npa52$tn, npa51$tn, npa50$tn, npa49$tn, npa48$tn, npa47$tn, npa46$tn))
+dpa51 <- mean(c(npa51$tn, npa50$tn, npa49$tn, npa48$tn, npa47$tn, npa46$tn, npa45$tn))
+dpa50 <- mean(c(npa50$tn, npa49$tn, npa48$tn, npa47$tn, npa46$tn, npa45$tn, npa44$tn))
+dpa49 <- mean(c(npa49$tn, npa48$tn, npa47$tn, npa46$tn, npa45$tn, npa44$tn, npa43$tn))
+dpa48 <- mean(c(npa48$tn, npa47$tn, npa46$tn, npa45$tn, npa44$tn, npa43$tn, npa42$tn))
+dpa47 <- mean(c(npa47$tn, npa46$tn, npa45$tn, npa44$tn, npa43$tn, npa42$tn, npa41$tn))
+dpa46 <- mean(c(npa46$tn, npa45$tn, npa44$tn, npa43$tn, npa42$tn, npa41$tn, npa40$tn))
+dpa45 <- mean(c(npa45$tn, npa44$tn, npa43$tn, npa42$tn, npa41$tn, npa40$tn, npa39$tn))
+dpa44 <- mean(c(npa44$tn, npa43$tn, npa42$tn, npa41$tn, npa40$tn, npa39$tn, npa38$tn))
+dpa43 <- mean(c(npa43$tn, npa42$tn, npa41$tn, npa40$tn, npa39$tn, npa38$tn, npa37$tn))
+dpa42 <- mean(c(npa42$tn, npa41$tn, npa40$tn, npa39$tn, npa38$tn, npa37$tn, npa36$tn))
+dpa41 <- mean(c(npa41$tn, npa40$tn, npa39$tn, npa38$tn, npa37$tn, npa36$tn, npa35$tn))
+dpa40 <- mean(c(npa40$tn, npa39$tn, npa38$tn, npa37$tn, npa36$tn, npa35$tn, npa34$tn))
+dpa39 <- mean(c(npa39$tn, npa38$tn, npa37$tn, npa36$tn, npa35$tn, npa34$tn, npa33$tn))
+dpa38 <- mean(c(npa38$tn, npa37$tn, npa36$tn, npa35$tn, npa34$tn, npa33$tn, npa32$tn))
+dpa37 <- mean(c(npa37$tn, npa36$tn, npa35$tn, npa34$tn, npa33$tn, npa32$tn, npa31$tn))
+dpa36 <- mean(c(npa36$tn, npa35$tn, npa34$tn, npa33$tn, npa32$tn, npa31$tn, npa30$tn))
+dpa35 <- mean(c(npa35$tn, npa34$tn, npa33$tn, npa32$tn, npa31$tn, npa30$tn, npa29$tn))
+dpa34 <- mean(c(npa34$tn, npa33$tn, npa32$tn, npa31$tn, npa30$tn, npa29$tn, npa28$tn))
+dpa33 <- mean(c(npa33$tn, npa32$tn, npa31$tn, npa30$tn, npa29$tn, npa28$tn, npa27$tn))
+dpa32 <- mean(c(npa32$tn, npa31$tn, npa30$tn, npa29$tn, npa28$tn, npa27$tn, npa26$tn))
+dpa31 <- mean(c(npa31$tn, npa30$tn, npa29$tn, npa28$tn, npa27$tn, npa26$tn, npa25$tn))
+dpa30 <- mean(c(npa30$tn, npa29$tn, npa28$tn, npa27$tn, npa26$tn, npa25$tn, npa24$tn))
+dpa29 <- mean(c(npa29$tn, npa28$tn, npa27$tn, npa26$tn, npa25$tn, npa24$tn, npa23$tn))
+dpa28 <- mean(c(npa28$tn, npa27$tn, npa26$tn, npa25$tn, npa24$tn, npa23$tn, npa22$tn))
+dpa27 <- mean(c(npa27$tn, npa26$tn, npa25$tn, npa24$tn, npa23$tn, npa22$tn, npa21$tn))
+dpa26 <- mean(c(npa26$tn, npa25$tn, npa24$tn, npa23$tn, npa22$tn, npa21$tn, npa20$tn))
+dpa25 <- mean(c(npa25$tn, npa24$tn, npa23$tn, npa22$tn, npa21$tn, npa20$tn, npa19$tn))
+dpa24 <- mean(c(npa24$tn, npa23$tn, npa22$tn, npa21$tn, npa20$tn, npa19$tn, npa18$tn))
+dpa23 <- mean(c(npa23$tn, npa22$tn, npa21$tn, npa20$tn, npa19$tn, npa18$tn, npa17$tn))
+dpa22 <- mean(c(npa22$tn, npa21$tn, npa20$tn, npa19$tn, npa18$tn, npa17$tn, npa16$tn))
+dpa21 <- mean(c(npa21$tn, npa20$tn, npa19$tn, npa18$tn, npa17$tn, npa16$tn, npa15$tn))
+dpa20 <- mean(c(npa20$tn, npa19$tn, npa18$tn, npa17$tn, npa16$tn, npa15$tn, npa14$tn))
+dpa19 <- mean(c(npa19$tn, npa18$tn, npa17$tn, npa16$tn, npa15$tn, npa14$tn, npa13$tn))
+dpa18 <- mean(c(npa18$tn, npa17$tn, npa16$tn, npa15$tn, npa14$tn, npa13$tn, npa12$tn))
+dpa17 <- mean(c(npa17$tn, npa16$tn, npa15$tn, npa14$tn, npa13$tn, npa12$tn, npa11$tn))
+dpa16 <- mean(c(npa16$tn, npa15$tn, npa14$tn, npa13$tn, npa12$tn, npa11$tn, npa10$tn))
+dpa15 <- mean(c(npa15$tn, npa14$tn, npa13$tn, npa12$tn, npa11$tn, npa10$tn, npa09$tn))
+dpa14 <- mean(c(npa14$tn, npa13$tn, npa12$tn, npa11$tn, npa10$tn, npa09$tn, npa08$tn))
+dpa13 <- mean(c(npa13$tn, npa12$tn, npa11$tn, npa10$tn, npa09$tn, npa08$tn, npa07$tn))
+dpa12 <- mean(c(npa12$tn, npa11$tn, npa10$tn, npa09$tn, npa08$tn, npa07$tn, npa06$tn))
+dpa11 <- mean(c(npa11$tn, npa10$tn, npa09$tn, npa08$tn, npa07$tn, npa06$tn, npa05$tn))
+dpa10 <- mean(c(npa10$tn, npa09$tn, npa08$tn, npa07$tn, npa06$tn, npa05$tn, npa04$tn))
+dpa09 <- mean(c(npa09$tn, npa08$tn, npa07$tn, npa06$tn, npa05$tn, npa04$tn, npa03$tn))
+dpa08 <- mean(c(npa08$tn, npa07$tn, npa06$tn, npa05$tn, npa04$tn, npa03$tn, npa02$tn))
+dpa07 <- mean(c(npa07$tn, npa06$tn, npa05$tn, npa04$tn, npa03$tn, npa02$tn, npa01$tn))
 
 dfpa <- data_frame(
   fecha,
-  dncpa = c(dpa158/ppa, dpa157/ppa, dpa156/ppa, dpa155/ppa, dpa154/ppa, dpa153/ppa, dpa152/ppa, dpa151/ppa, dpa150/ppa,
+  dncpa = c(dpa162/ppa, dpa161/ppa, dpa160/ppa, 
+            dpa159/ppa, dpa158/ppa, dpa157/ppa, dpa156/ppa, dpa155/ppa, dpa154/ppa, dpa153/ppa, dpa152/ppa, dpa151/ppa, dpa150/ppa,
             dpa149/ppa, dpa148/ppa, dpa147/ppa, dpa146/ppa, dpa145/ppa, dpa144/ppa, dpa143/ppa, dpa142/ppa, dpa141/ppa, dpa140/ppa, 
             dpa139/ppa, dpa138/ppa, dpa137/ppa, dpa136/ppa, dpa135/ppa, dpa134/ppa, dpa133/ppa, dpa132/ppa, dpa131/ppa, dpa130/ppa, 
             dpa129/ppa, dpa128/ppa, dpa127/ppa, dpa126/ppa, dpa125/ppa, dpa124/ppa, dpa123/ppa, dpa122/ppa, dpa121/ppa, dpa120/ppa, 
@@ -8264,10 +9413,28 @@ dfpa <- data_frame(
             dpa99/ppa, dpa98/ppa, dpa97/ppa, dpa96/ppa, dpa95/ppa, dpa94/ppa, dpa93/ppa, dpa92/ppa, dpa91/ppa, dpa90/ppa, 
             dpa89/ppa, dpa88/ppa, dpa87/ppa, dpa86/ppa, dpa85/ppa, dpa84/ppa, dpa83/ppa, dpa82/ppa, dpa81/ppa, dpa80/ppa, 
             dpa79/ppa, dpa78/ppa, dpa77/ppa, dpa76/ppa, dpa75/ppa, dpa74/ppa, dpa73/ppa, dpa72/ppa, dpa71/ppa, dpa70/ppa, 
-            dpa69/ppa, dpa68/ppa, dpa67/ppa, dpa66/ppa)
+            dpa69/ppa, dpa68/ppa, dpa67/ppa, dpa66/ppa, dpa65/ppa, dpa64/ppa, dpa63/ppa, dpa62/ppa, dpa61/ppa, dpa60/ppa,
+            dpa59/ppa, dpa58/ppa, dpa57/ppa, dpa56/ppa, dpa55/ppa, dpa54/ppa, dpa53/ppa, dpa52/ppa, dpa51/ppa, dpa50/ppa,
+            dpa49/ppa, dpa48/ppa, dpa47/ppa, dpa46/ppa, dpa45/ppa, dpa44/ppa, dpa43/ppa, dpa42/ppa, dpa41/ppa, dpa40/ppa,
+            dpa39/ppa, dpa38/ppa, dpa37/ppa, dpa36/ppa, dpa35/ppa, dpa34/ppa, dpa33/ppa, dpa32/ppa, dpa31/ppa, dpa30/ppa,
+            dpa29/ppa, dpa28/ppa, dpa27/ppa, dpa26/ppa, dpa25/ppa, dpa24/ppa, dpa23/ppa, dpa22/ppa, dpa21/ppa, dpa20/ppa,
+            dpa19/ppa, dpa18/ppa, dpa17/ppa, dpa16/ppa, dpa15/ppa, dpa14/ppa, dpa13/ppa, dpa12/ppa, dpa11/ppa, dpa10/ppa,
+            dpa09/ppa, dpa08/ppa, dpa07/ppa)
 )
 
 # ***** ORELLANA *****
+nor162 <- orellana22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nor161 <- orellana22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nor160 <- orellana22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nor159 <- orellana22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nor158 <- orellana22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -8743,6 +9910,10 @@ nor01 <- orellana22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dor162 <- mean(c(nor162$tn, nor161$tn, nor160$tn, nor159$tn, nor158$tn, nor157$tn, nor156$tn))
+dor161 <- mean(c(nor161$tn, nor160$tn, nor159$tn, nor158$tn, nor157$tn, nor156$tn, nor155$tn))
+dor160 <- mean(c(nor160$tn, nor159$tn, nor158$tn, nor157$tn, nor156$tn, nor155$tn, nor154$tn))
+dor159 <- mean(c(nor159$tn, nor158$tn, nor157$tn, nor156$tn, nor155$tn, nor154$tn, nor153$tn))
 dor158 <- mean(c(nor158$tn, nor157$tn, nor156$tn, nor155$tn, nor154$tn, nor153$tn, nor152$tn))
 dor157 <- mean(c(nor157$tn, nor156$tn, nor155$tn, nor154$tn, nor153$tn, nor152$tn, nor151$tn))
 dor156 <- mean(c(nor156$tn, nor155$tn, nor154$tn, nor153$tn, nor152$tn, nor151$tn, nor150$tn))
@@ -8836,10 +10007,70 @@ dor69 <- mean(c(nor69$tn, nor68$tn, nor67$tn, nor66$tn, nor65$tn, nor64$tn, nor6
 dor68 <- mean(c(nor68$tn, nor67$tn, nor66$tn, nor65$tn, nor64$tn, nor63$tn, nor62$tn))
 dor67 <- mean(c(nor67$tn, nor66$tn, nor65$tn, nor64$tn, nor63$tn, nor62$tn, nor61$tn))
 dor66 <- mean(c(nor66$tn, nor65$tn, nor64$tn, nor63$tn, nor62$tn, nor61$tn, nor60$tn))
+dor65 <- mean(c(nor65$tn, nor64$tn, nor63$tn, nor62$tn, nor61$tn, nor60$tn, nor59$tn))
+dor64 <- mean(c(nor64$tn, nor63$tn, nor62$tn, nor61$tn, nor60$tn, nor59$tn, nor58$tn))
+dor63 <- mean(c(nor63$tn, nor62$tn, nor61$tn, nor60$tn, nor59$tn, nor58$tn, nor57$tn))
+dor62 <- mean(c(nor62$tn, nor61$tn, nor60$tn, nor59$tn, nor58$tn, nor57$tn, nor56$tn))
+dor61 <- mean(c(nor61$tn, nor60$tn, nor59$tn, nor58$tn, nor57$tn, nor56$tn, nor55$tn))
+dor60 <- mean(c(nor60$tn, nor59$tn, nor58$tn, nor57$tn, nor56$tn, nor55$tn, nor54$tn))
+dor59 <- mean(c(nor59$tn, nor58$tn, nor57$tn, nor56$tn, nor55$tn, nor54$tn, nor53$tn))
+dor58 <- mean(c(nor58$tn, nor57$tn, nor56$tn, nor55$tn, nor54$tn, nor53$tn, nor52$tn))
+dor57 <- mean(c(nor57$tn, nor56$tn, nor55$tn, nor54$tn, nor53$tn, nor52$tn, nor51$tn))
+dor56 <- mean(c(nor56$tn, nor55$tn, nor54$tn, nor53$tn, nor52$tn, nor51$tn, nor50$tn))
+dor55 <- mean(c(nor55$tn, nor54$tn, nor53$tn, nor52$tn, nor51$tn, nor50$tn, nor49$tn))
+dor54 <- mean(c(nor54$tn, nor53$tn, nor52$tn, nor51$tn, nor50$tn, nor49$tn, nor48$tn))
+dor53 <- mean(c(nor53$tn, nor52$tn, nor51$tn, nor50$tn, nor49$tn, nor48$tn, nor47$tn))
+dor52 <- mean(c(nor52$tn, nor51$tn, nor50$tn, nor49$tn, nor48$tn, nor47$tn, nor46$tn))
+dor51 <- mean(c(nor51$tn, nor50$tn, nor49$tn, nor48$tn, nor47$tn, nor46$tn, nor45$tn))
+dor50 <- mean(c(nor50$tn, nor49$tn, nor48$tn, nor47$tn, nor46$tn, nor45$tn, nor44$tn))
+dor49 <- mean(c(nor49$tn, nor48$tn, nor47$tn, nor46$tn, nor45$tn, nor44$tn, nor43$tn))
+dor48 <- mean(c(nor48$tn, nor47$tn, nor46$tn, nor45$tn, nor44$tn, nor43$tn, nor42$tn))
+dor47 <- mean(c(nor47$tn, nor46$tn, nor45$tn, nor44$tn, nor43$tn, nor42$tn, nor41$tn))
+dor46 <- mean(c(nor46$tn, nor45$tn, nor44$tn, nor43$tn, nor42$tn, nor41$tn, nor40$tn))
+dor45 <- mean(c(nor45$tn, nor44$tn, nor43$tn, nor42$tn, nor41$tn, nor40$tn, nor39$tn))
+dor44 <- mean(c(nor44$tn, nor43$tn, nor42$tn, nor41$tn, nor40$tn, nor39$tn, nor38$tn))
+dor43 <- mean(c(nor43$tn, nor42$tn, nor41$tn, nor40$tn, nor39$tn, nor38$tn, nor37$tn))
+dor42 <- mean(c(nor42$tn, nor41$tn, nor40$tn, nor39$tn, nor38$tn, nor37$tn, nor36$tn))
+dor41 <- mean(c(nor41$tn, nor40$tn, nor39$tn, nor38$tn, nor37$tn, nor36$tn, nor35$tn))
+dor40 <- mean(c(nor40$tn, nor39$tn, nor38$tn, nor37$tn, nor36$tn, nor35$tn, nor34$tn))
+dor39 <- mean(c(nor39$tn, nor38$tn, nor37$tn, nor36$tn, nor35$tn, nor34$tn, nor33$tn))
+dor38 <- mean(c(nor38$tn, nor37$tn, nor36$tn, nor35$tn, nor34$tn, nor33$tn, nor32$tn))
+dor37 <- mean(c(nor37$tn, nor36$tn, nor35$tn, nor34$tn, nor33$tn, nor32$tn, nor31$tn))
+dor36 <- mean(c(nor36$tn, nor35$tn, nor34$tn, nor33$tn, nor32$tn, nor31$tn, nor30$tn))
+dor35 <- mean(c(nor35$tn, nor34$tn, nor33$tn, nor32$tn, nor31$tn, nor30$tn, nor29$tn))
+dor34 <- mean(c(nor34$tn, nor33$tn, nor32$tn, nor31$tn, nor30$tn, nor29$tn, nor28$tn))
+dor33 <- mean(c(nor33$tn, nor32$tn, nor31$tn, nor30$tn, nor29$tn, nor28$tn, nor27$tn))
+dor32 <- mean(c(nor32$tn, nor31$tn, nor30$tn, nor29$tn, nor28$tn, nor27$tn, nor26$tn))
+dor31 <- mean(c(nor31$tn, nor30$tn, nor29$tn, nor28$tn, nor27$tn, nor26$tn, nor25$tn))
+dor30 <- mean(c(nor30$tn, nor29$tn, nor28$tn, nor27$tn, nor26$tn, nor25$tn, nor24$tn))
+dor29 <- mean(c(nor29$tn, nor28$tn, nor27$tn, nor26$tn, nor25$tn, nor24$tn, nor23$tn))
+dor28 <- mean(c(nor28$tn, nor27$tn, nor26$tn, nor25$tn, nor24$tn, nor23$tn, nor22$tn))
+dor27 <- mean(c(nor27$tn, nor26$tn, nor25$tn, nor24$tn, nor23$tn, nor22$tn, nor21$tn))
+dor26 <- mean(c(nor26$tn, nor25$tn, nor24$tn, nor23$tn, nor22$tn, nor21$tn, nor20$tn))
+dor25 <- mean(c(nor25$tn, nor24$tn, nor23$tn, nor22$tn, nor21$tn, nor20$tn, nor19$tn))
+dor24 <- mean(c(nor24$tn, nor23$tn, nor22$tn, nor21$tn, nor20$tn, nor19$tn, nor18$tn))
+dor23 <- mean(c(nor23$tn, nor22$tn, nor21$tn, nor20$tn, nor19$tn, nor18$tn, nor17$tn))
+dor22 <- mean(c(nor22$tn, nor21$tn, nor20$tn, nor19$tn, nor18$tn, nor17$tn, nor16$tn))
+dor21 <- mean(c(nor21$tn, nor20$tn, nor19$tn, nor18$tn, nor17$tn, nor16$tn, nor15$tn))
+dor20 <- mean(c(nor20$tn, nor19$tn, nor18$tn, nor17$tn, nor16$tn, nor15$tn, nor14$tn))
+dor19 <- mean(c(nor19$tn, nor18$tn, nor17$tn, nor16$tn, nor15$tn, nor14$tn, nor13$tn))
+dor18 <- mean(c(nor18$tn, nor17$tn, nor16$tn, nor15$tn, nor14$tn, nor13$tn, nor12$tn))
+dor17 <- mean(c(nor17$tn, nor16$tn, nor15$tn, nor14$tn, nor13$tn, nor12$tn, nor11$tn))
+dor16 <- mean(c(nor16$tn, nor15$tn, nor14$tn, nor13$tn, nor12$tn, nor11$tn, nor10$tn))
+dor15 <- mean(c(nor15$tn, nor14$tn, nor13$tn, nor12$tn, nor11$tn, nor10$tn, nor09$tn))
+dor14 <- mean(c(nor14$tn, nor13$tn, nor12$tn, nor11$tn, nor10$tn, nor09$tn, nor08$tn))
+dor13 <- mean(c(nor13$tn, nor12$tn, nor11$tn, nor10$tn, nor09$tn, nor08$tn, nor07$tn))
+dor12 <- mean(c(nor12$tn, nor11$tn, nor10$tn, nor09$tn, nor08$tn, nor07$tn, nor06$tn))
+dor11 <- mean(c(nor11$tn, nor10$tn, nor09$tn, nor08$tn, nor07$tn, nor06$tn, nor05$tn))
+dor10 <- mean(c(nor10$tn, nor09$tn, nor08$tn, nor07$tn, nor06$tn, nor05$tn, nor04$tn))
+dor09 <- mean(c(nor09$tn, nor08$tn, nor07$tn, nor06$tn, nor05$tn, nor04$tn, nor03$tn))
+dor08 <- mean(c(nor08$tn, nor07$tn, nor06$tn, nor05$tn, nor04$tn, nor03$tn, nor02$tn))
+dor07 <- mean(c(nor07$tn, nor06$tn, nor05$tn, nor04$tn, nor03$tn, nor02$tn, nor01$tn))
 
 dfor <- data_frame(
   fecha,
-  dncor = c(dor158/por, dor157/por, dor156/por, dor155/por, dor154/por, dor153/por, dor152/por, dor151/por, dor150/por,
+  dncor = c(dor162/por, dor161/por, dor160/por, 
+            dor159/por, dor158/por, dor157/por, dor156/por, dor155/por, dor154/por, dor153/por, dor152/por, dor151/por, dor150/por,
             dor149/por, dor148/por, dor147/por, dor146/por, dor145/por, dor144/por, dor143/por, dor142/por, dor141/por, dor140/por, 
             dor139/por, dor138/por, dor137/por, dor136/por, dor135/por, dor134/por, dor133/por, dor132/por, dor131/por, dor130/por, 
             dor129/por, dor128/por, dor127/por, dor126/por, dor125/por, dor124/por, dor123/por, dor122/por, dor121/por, dor120/por, 
@@ -8848,10 +10079,28 @@ dfor <- data_frame(
             dor99/por, dor98/por, dor97/por, dor96/por, dor95/por, dor94/por, dor93/por, dor92/por, dor91/por, dor90/por, 
             dor89/por, dor88/por, dor87/por, dor86/por, dor85/por, dor84/por, dor83/por, dor82/por, dor81/por, dor80/por, 
             dor79/por, dor78/por, dor77/por, dor76/por, dor75/por, dor74/por, dor73/por, dor72/por, dor71/por, dor70/por, 
-            dor69/por, dor68/por, dor67/por, dor66/por)
+            dor69/por, dor68/por, dor67/por, dor66/por, dor65/por, dor64/por, dor63/por, dor62/por, dor61/por, dor60/por,
+            dor59/por, dor58/por, dor57/por, dor56/por, dor55/por, dor54/por, dor53/por, dor52/por, dor51/por, dor50/por,
+            dor49/por, dor48/por, dor47/por, dor46/por, dor45/por, dor44/por, dor43/por, dor42/por, dor41/por, dor40/por,
+            dor39/por, dor38/por, dor37/por, dor36/por, dor35/por, dor34/por, dor33/por, dor32/por, dor31/por, dor30/por,
+            dor29/por, dor28/por, dor27/por, dor26/por, dor25/por, dor24/por, dor23/por, dor22/por, dor21/por, dor20/por,
+            dor19/por, dor18/por, dor17/por, dor16/por, dor15/por, dor14/por, dor13/por, dor12/por, dor11/por, dor10/por,
+            dor09/por, dor08/por, dor07/por)
 )
 
 # ***** NAPO *****
+nna162 <- napo22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nna161 <- napo22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nna160 <- napo22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nna159 <- napo22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nna158 <- napo22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -9327,6 +10576,10 @@ nna01 <- napo22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dna162 <- mean(c(nna162$tn, nna161$tn, nna160$tn, nna159$tn, nna158$tn, nna157$tn, nna156$tn))
+dna161 <- mean(c(nna161$tn, nna160$tn, nna159$tn, nna158$tn, nna157$tn, nna156$tn, nna155$tn))
+dna160 <- mean(c(nna160$tn, nna159$tn, nna158$tn, nna157$tn, nna156$tn, nna155$tn, nna154$tn))
+dna159 <- mean(c(nna159$tn, nna158$tn, nna157$tn, nna156$tn, nna155$tn, nna154$tn, nna153$tn))
 dna158 <- mean(c(nna158$tn, nna157$tn, nna156$tn, nna155$tn, nna154$tn, nna153$tn, nna152$tn))
 dna157 <- mean(c(nna157$tn, nna156$tn, nna155$tn, nna154$tn, nna153$tn, nna152$tn, nna151$tn))
 dna156 <- mean(c(nna156$tn, nna155$tn, nna154$tn, nna153$tn, nna152$tn, nna151$tn, nna150$tn))
@@ -9420,10 +10673,70 @@ dna69 <- mean(c(nna69$tn, nna68$tn, nna67$tn, nna66$tn, nna65$tn, nna64$tn, nna6
 dna68 <- mean(c(nna68$tn, nna67$tn, nna66$tn, nna65$tn, nna64$tn, nna63$tn, nna62$tn))
 dna67 <- mean(c(nna67$tn, nna66$tn, nna65$tn, nna64$tn, nna63$tn, nna62$tn, nna61$tn))
 dna66 <- mean(c(nna66$tn, nna65$tn, nna64$tn, nna63$tn, nna62$tn, nna61$tn, nna60$tn))
+dna65 <- mean(c(nna65$tn, nna64$tn, nna63$tn, nna62$tn, nna61$tn, nna60$tn, nna59$tn))
+dna64 <- mean(c(nna64$tn, nna63$tn, nna62$tn, nna61$tn, nna60$tn, nna59$tn, nna58$tn))
+dna63 <- mean(c(nna63$tn, nna62$tn, nna61$tn, nna60$tn, nna59$tn, nna58$tn, nna57$tn))
+dna62 <- mean(c(nna62$tn, nna61$tn, nna60$tn, nna59$tn, nna58$tn, nna57$tn, nna56$tn))
+dna61 <- mean(c(nna61$tn, nna60$tn, nna59$tn, nna58$tn, nna57$tn, nna56$tn, nna55$tn))
+dna60 <- mean(c(nna60$tn, nna59$tn, nna58$tn, nna57$tn, nna56$tn, nna55$tn, nna54$tn))
+dna59 <- mean(c(nna59$tn, nna58$tn, nna57$tn, nna56$tn, nna55$tn, nna54$tn, nna53$tn))
+dna58 <- mean(c(nna58$tn, nna57$tn, nna56$tn, nna55$tn, nna54$tn, nna53$tn, nna52$tn))
+dna57 <- mean(c(nna57$tn, nna56$tn, nna55$tn, nna54$tn, nna53$tn, nna52$tn, nna51$tn))
+dna56 <- mean(c(nna56$tn, nna55$tn, nna54$tn, nna53$tn, nna52$tn, nna51$tn, nna50$tn))
+dna55 <- mean(c(nna55$tn, nna54$tn, nna53$tn, nna52$tn, nna51$tn, nna50$tn, nna49$tn))
+dna54 <- mean(c(nna54$tn, nna53$tn, nna52$tn, nna51$tn, nna50$tn, nna49$tn, nna48$tn))
+dna53 <- mean(c(nna53$tn, nna52$tn, nna51$tn, nna50$tn, nna49$tn, nna48$tn, nna47$tn))
+dna52 <- mean(c(nna52$tn, nna51$tn, nna50$tn, nna49$tn, nna48$tn, nna47$tn, nna46$tn))
+dna51 <- mean(c(nna51$tn, nna50$tn, nna49$tn, nna48$tn, nna47$tn, nna46$tn, nna45$tn))
+dna50 <- mean(c(nna50$tn, nna49$tn, nna48$tn, nna47$tn, nna46$tn, nna45$tn, nna44$tn))
+dna49 <- mean(c(nna49$tn, nna48$tn, nna47$tn, nna46$tn, nna45$tn, nna44$tn, nna43$tn))
+dna48 <- mean(c(nna48$tn, nna47$tn, nna46$tn, nna45$tn, nna44$tn, nna43$tn, nna42$tn))
+dna47 <- mean(c(nna47$tn, nna46$tn, nna45$tn, nna44$tn, nna43$tn, nna42$tn, nna41$tn))
+dna46 <- mean(c(nna46$tn, nna45$tn, nna44$tn, nna43$tn, nna42$tn, nna41$tn, nna40$tn))
+dna45 <- mean(c(nna45$tn, nna44$tn, nna43$tn, nna42$tn, nna41$tn, nna40$tn, nna39$tn))
+dna44 <- mean(c(nna44$tn, nna43$tn, nna42$tn, nna41$tn, nna40$tn, nna39$tn, nna38$tn))
+dna43 <- mean(c(nna43$tn, nna42$tn, nna41$tn, nna40$tn, nna39$tn, nna38$tn, nna37$tn))
+dna42 <- mean(c(nna42$tn, nna41$tn, nna40$tn, nna39$tn, nna38$tn, nna37$tn, nna36$tn))
+dna41 <- mean(c(nna41$tn, nna40$tn, nna39$tn, nna38$tn, nna37$tn, nna36$tn, nna35$tn))
+dna40 <- mean(c(nna40$tn, nna39$tn, nna38$tn, nna37$tn, nna36$tn, nna35$tn, nna34$tn))
+dna39 <- mean(c(nna39$tn, nna38$tn, nna37$tn, nna36$tn, nna35$tn, nna34$tn, nna33$tn))
+dna38 <- mean(c(nna38$tn, nna37$tn, nna36$tn, nna35$tn, nna34$tn, nna33$tn, nna32$tn))
+dna37 <- mean(c(nna37$tn, nna36$tn, nna35$tn, nna34$tn, nna33$tn, nna32$tn, nna31$tn))
+dna36 <- mean(c(nna36$tn, nna35$tn, nna34$tn, nna33$tn, nna32$tn, nna31$tn, nna30$tn))
+dna35 <- mean(c(nna35$tn, nna34$tn, nna33$tn, nna32$tn, nna31$tn, nna30$tn, nna29$tn))
+dna34 <- mean(c(nna34$tn, nna33$tn, nna32$tn, nna31$tn, nna30$tn, nna29$tn, nna28$tn))
+dna33 <- mean(c(nna33$tn, nna32$tn, nna31$tn, nna30$tn, nna29$tn, nna28$tn, nna27$tn))
+dna32 <- mean(c(nna32$tn, nna31$tn, nna30$tn, nna29$tn, nna28$tn, nna27$tn, nna26$tn))
+dna31 <- mean(c(nna31$tn, nna30$tn, nna29$tn, nna28$tn, nna27$tn, nna26$tn, nna25$tn))
+dna30 <- mean(c(nna30$tn, nna29$tn, nna28$tn, nna27$tn, nna26$tn, nna25$tn, nna24$tn))
+dna29 <- mean(c(nna29$tn, nna28$tn, nna27$tn, nna26$tn, nna25$tn, nna24$tn, nna23$tn))
+dna28 <- mean(c(nna28$tn, nna27$tn, nna26$tn, nna25$tn, nna24$tn, nna23$tn, nna22$tn))
+dna27 <- mean(c(nna27$tn, nna26$tn, nna25$tn, nna24$tn, nna23$tn, nna22$tn, nna21$tn))
+dna26 <- mean(c(nna26$tn, nna25$tn, nna24$tn, nna23$tn, nna22$tn, nna21$tn, nna20$tn))
+dna25 <- mean(c(nna25$tn, nna24$tn, nna23$tn, nna22$tn, nna21$tn, nna20$tn, nna19$tn))
+dna24 <- mean(c(nna24$tn, nna23$tn, nna22$tn, nna21$tn, nna20$tn, nna19$tn, nna18$tn))
+dna23 <- mean(c(nna23$tn, nna22$tn, nna21$tn, nna20$tn, nna19$tn, nna18$tn, nna17$tn))
+dna22 <- mean(c(nna22$tn, nna21$tn, nna20$tn, nna19$tn, nna18$tn, nna17$tn, nna16$tn))
+dna21 <- mean(c(nna21$tn, nna20$tn, nna19$tn, nna18$tn, nna17$tn, nna16$tn, nna15$tn))
+dna20 <- mean(c(nna20$tn, nna19$tn, nna18$tn, nna17$tn, nna16$tn, nna15$tn, nna14$tn))
+dna19 <- mean(c(nna19$tn, nna18$tn, nna17$tn, nna16$tn, nna15$tn, nna14$tn, nna13$tn))
+dna18 <- mean(c(nna18$tn, nna17$tn, nna16$tn, nna15$tn, nna14$tn, nna13$tn, nna12$tn))
+dna17 <- mean(c(nna17$tn, nna16$tn, nna15$tn, nna14$tn, nna13$tn, nna12$tn, nna11$tn))
+dna16 <- mean(c(nna16$tn, nna15$tn, nna14$tn, nna13$tn, nna12$tn, nna11$tn, nna10$tn))
+dna15 <- mean(c(nna15$tn, nna14$tn, nna13$tn, nna12$tn, nna11$tn, nna10$tn, nna09$tn))
+dna14 <- mean(c(nna14$tn, nna13$tn, nna12$tn, nna11$tn, nna10$tn, nna09$tn, nna08$tn))
+dna13 <- mean(c(nna13$tn, nna12$tn, nna11$tn, nna10$tn, nna09$tn, nna08$tn, nna07$tn))
+dna12 <- mean(c(nna12$tn, nna11$tn, nna10$tn, nna09$tn, nna08$tn, nna07$tn, nna06$tn))
+dna11 <- mean(c(nna11$tn, nna10$tn, nna09$tn, nna08$tn, nna07$tn, nna06$tn, nna05$tn))
+dna10 <- mean(c(nna10$tn, nna09$tn, nna08$tn, nna07$tn, nna06$tn, nna05$tn, nna04$tn))
+dna09 <- mean(c(nna09$tn, nna08$tn, nna07$tn, nna06$tn, nna05$tn, nna04$tn, nna03$tn))
+dna08 <- mean(c(nna08$tn, nna07$tn, nna06$tn, nna05$tn, nna04$tn, nna03$tn, nna02$tn))
+dna07 <- mean(c(nna07$tn, nna06$tn, nna05$tn, nna04$tn, nna03$tn, nna02$tn, nna01$tn))
 
 dfna <- data_frame(
   fecha,
-  dncna = c(dna158/pna, dna157/pna, dna156/pna, dna155/pna, dna154/pna, dna153/pna, dna152/pna, dna151/pna, dna150/pna,
+  dncna = c(dna162/pna, dna161/pna, dna160/pna, 
+            dna159/pna, dna158/pna, dna157/pna, dna156/pna, dna155/pna, dna154/pna, dna153/pna, dna152/pna, dna151/pna, dna150/pna,
             dna149/pna, dna148/pna, dna147/pna, dna146/pna, dna145/pna, dna144/pna, dna143/pna, dna142/pna, dna141/pna, dna140/pna, 
             dna139/pna, dna138/pna, dna137/pna, dna136/pna, dna135/pna, dna134/pna, dna133/pna, dna132/pna, dna131/pna, dna130/pna, 
             dna129/pna, dna128/pna, dna127/pna, dna126/pna, dna125/pna, dna124/pna, dna123/pna, dna122/pna, dna121/pna, dna120/pna, 
@@ -9432,10 +10745,28 @@ dfna <- data_frame(
             dna99/pna, dna98/pna, dna97/pna, dna96/pna, dna95/pna, dna94/pna, dna93/pna, dna92/pna, dna91/pna, dna90/pna, 
             dna89/pna, dna88/pna, dna87/pna, dna86/pna, dna85/pna, dna84/pna, dna83/pna, dna82/pna, dna81/pna, dna80/pna, 
             dna79/pna, dna78/pna, dna77/pna, dna76/pna, dna75/pna, dna74/pna, dna73/pna, dna72/pna, dna71/pna, dna70/pna, 
-            dna69/pna, dna68/pna, dna67/pna, dna66/pna)
+            dna69/pna, dna68/pna, dna67/pna, dna66/pna, dna65/pna, dna64/pna, dna63/pna, dna62/pna, dna61/pna, dna60/pna,
+            dna59/pna, dna58/pna, dna57/pna, dna56/pna, dna55/pna, dna54/pna, dna53/pna, dna52/pna, dna51/pna, dna50/pna,
+            dna49/pna, dna48/pna, dna47/pna, dna46/pna, dna45/pna, dna44/pna, dna43/pna, dna42/pna, dna41/pna, dna40/pna,
+            dna39/pna, dna38/pna, dna37/pna, dna36/pna, dna35/pna, dna34/pna, dna33/pna, dna32/pna, dna31/pna, dna30/pna,
+            dna29/pna, dna28/pna, dna27/pna, dna26/pna, dna25/pna, dna24/pna, dna23/pna, dna22/pna, dna21/pna, dna20/pna,
+            dna19/pna, dna18/pna, dna17/pna, dna16/pna, dna15/pna, dna14/pna, dna13/pna, dna12/pna, dna11/pna, dna10/pna,
+            dna09/pna, dna08/pna, dna07/pna)
 )
 
 # ***** MORONA *****
+nmo162 <- morona22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nmo161 <- morona22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nmo160 <- morona22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nmo159 <- morona22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nmo158 <- morona22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -9911,6 +11242,10 @@ nmo01 <- morona22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dmo162 <- mean(c(nmo162$tn, nmo161$tn, nmo160$tn, nmo159$tn, nmo158$tn, nmo157$tn, nmo156$tn))
+dmo161 <- mean(c(nmo161$tn, nmo160$tn, nmo159$tn, nmo158$tn, nmo157$tn, nmo156$tn, nmo155$tn))
+dmo160 <- mean(c(nmo160$tn, nmo159$tn, nmo158$tn, nmo157$tn, nmo156$tn, nmo155$tn, nmo154$tn))
+dmo159 <- mean(c(nmo159$tn, nmo158$tn, nmo157$tn, nmo156$tn, nmo155$tn, nmo154$tn, nmo153$tn))
 dmo158 <- mean(c(nmo158$tn, nmo157$tn, nmo156$tn, nmo155$tn, nmo154$tn, nmo153$tn, nmo152$tn))
 dmo157 <- mean(c(nmo157$tn, nmo156$tn, nmo155$tn, nmo154$tn, nmo153$tn, nmo152$tn, nmo151$tn))
 dmo156 <- mean(c(nmo156$tn, nmo155$tn, nmo154$tn, nmo153$tn, nmo152$tn, nmo151$tn, nmo150$tn))
@@ -10004,10 +11339,70 @@ dmo69 <- mean(c(nmo69$tn, nmo68$tn, nmo67$tn, nmo66$tn, nmo65$tn, nmo64$tn, nmo6
 dmo68 <- mean(c(nmo68$tn, nmo67$tn, nmo66$tn, nmo65$tn, nmo64$tn, nmo63$tn, nmo62$tn))
 dmo67 <- mean(c(nmo67$tn, nmo66$tn, nmo65$tn, nmo64$tn, nmo63$tn, nmo62$tn, nmo61$tn))
 dmo66 <- mean(c(nmo66$tn, nmo65$tn, nmo64$tn, nmo63$tn, nmo62$tn, nmo61$tn, nmo60$tn))
+dmo65 <- mean(c(nmo65$tn, nmo64$tn, nmo63$tn, nmo62$tn, nmo61$tn, nmo60$tn, nmo59$tn))
+dmo64 <- mean(c(nmo64$tn, nmo63$tn, nmo62$tn, nmo61$tn, nmo60$tn, nmo59$tn, nmo58$tn))
+dmo63 <- mean(c(nmo63$tn, nmo62$tn, nmo61$tn, nmo60$tn, nmo59$tn, nmo58$tn, nmo57$tn))
+dmo62 <- mean(c(nmo62$tn, nmo61$tn, nmo60$tn, nmo59$tn, nmo58$tn, nmo57$tn, nmo56$tn))
+dmo61 <- mean(c(nmo61$tn, nmo60$tn, nmo59$tn, nmo58$tn, nmo57$tn, nmo56$tn, nmo55$tn))
+dmo60 <- mean(c(nmo60$tn, nmo59$tn, nmo58$tn, nmo57$tn, nmo56$tn, nmo55$tn, nmo54$tn))
+dmo59 <- mean(c(nmo59$tn, nmo58$tn, nmo57$tn, nmo56$tn, nmo55$tn, nmo54$tn, nmo53$tn))
+dmo58 <- mean(c(nmo58$tn, nmo57$tn, nmo56$tn, nmo55$tn, nmo54$tn, nmo53$tn, nmo52$tn))
+dmo57 <- mean(c(nmo57$tn, nmo56$tn, nmo55$tn, nmo54$tn, nmo53$tn, nmo52$tn, nmo51$tn))
+dmo56 <- mean(c(nmo56$tn, nmo55$tn, nmo54$tn, nmo53$tn, nmo52$tn, nmo51$tn, nmo50$tn))
+dmo55 <- mean(c(nmo55$tn, nmo54$tn, nmo53$tn, nmo52$tn, nmo51$tn, nmo50$tn, nmo49$tn))
+dmo54 <- mean(c(nmo54$tn, nmo53$tn, nmo52$tn, nmo51$tn, nmo50$tn, nmo49$tn, nmo48$tn))
+dmo53 <- mean(c(nmo53$tn, nmo52$tn, nmo51$tn, nmo50$tn, nmo49$tn, nmo48$tn, nmo47$tn))
+dmo52 <- mean(c(nmo52$tn, nmo51$tn, nmo50$tn, nmo49$tn, nmo48$tn, nmo47$tn, nmo46$tn))
+dmo51 <- mean(c(nmo51$tn, nmo50$tn, nmo49$tn, nmo48$tn, nmo47$tn, nmo46$tn, nmo45$tn))
+dmo50 <- mean(c(nmo50$tn, nmo49$tn, nmo48$tn, nmo47$tn, nmo46$tn, nmo45$tn, nmo44$tn))
+dmo49 <- mean(c(nmo49$tn, nmo48$tn, nmo47$tn, nmo46$tn, nmo45$tn, nmo44$tn, nmo43$tn))
+dmo48 <- mean(c(nmo48$tn, nmo47$tn, nmo46$tn, nmo45$tn, nmo44$tn, nmo43$tn, nmo42$tn))
+dmo47 <- mean(c(nmo47$tn, nmo46$tn, nmo45$tn, nmo44$tn, nmo43$tn, nmo42$tn, nmo41$tn))
+dmo46 <- mean(c(nmo46$tn, nmo45$tn, nmo44$tn, nmo43$tn, nmo42$tn, nmo41$tn, nmo40$tn))
+dmo45 <- mean(c(nmo45$tn, nmo44$tn, nmo43$tn, nmo42$tn, nmo41$tn, nmo40$tn, nmo39$tn))
+dmo44 <- mean(c(nmo44$tn, nmo43$tn, nmo42$tn, nmo41$tn, nmo40$tn, nmo39$tn, nmo38$tn))
+dmo43 <- mean(c(nmo43$tn, nmo42$tn, nmo41$tn, nmo40$tn, nmo39$tn, nmo38$tn, nmo37$tn))
+dmo42 <- mean(c(nmo42$tn, nmo41$tn, nmo40$tn, nmo39$tn, nmo38$tn, nmo37$tn, nmo36$tn))
+dmo41 <- mean(c(nmo41$tn, nmo40$tn, nmo39$tn, nmo38$tn, nmo37$tn, nmo36$tn, nmo35$tn))
+dmo40 <- mean(c(nmo40$tn, nmo39$tn, nmo38$tn, nmo37$tn, nmo36$tn, nmo35$tn, nmo34$tn))
+dmo39 <- mean(c(nmo39$tn, nmo38$tn, nmo37$tn, nmo36$tn, nmo35$tn, nmo34$tn, nmo33$tn))
+dmo38 <- mean(c(nmo38$tn, nmo37$tn, nmo36$tn, nmo35$tn, nmo34$tn, nmo33$tn, nmo32$tn))
+dmo37 <- mean(c(nmo37$tn, nmo36$tn, nmo35$tn, nmo34$tn, nmo33$tn, nmo32$tn, nmo31$tn))
+dmo36 <- mean(c(nmo36$tn, nmo35$tn, nmo34$tn, nmo33$tn, nmo32$tn, nmo31$tn, nmo30$tn))
+dmo35 <- mean(c(nmo35$tn, nmo34$tn, nmo33$tn, nmo32$tn, nmo31$tn, nmo30$tn, nmo29$tn))
+dmo34 <- mean(c(nmo34$tn, nmo33$tn, nmo32$tn, nmo31$tn, nmo30$tn, nmo29$tn, nmo28$tn))
+dmo33 <- mean(c(nmo33$tn, nmo32$tn, nmo31$tn, nmo30$tn, nmo29$tn, nmo28$tn, nmo27$tn))
+dmo32 <- mean(c(nmo32$tn, nmo31$tn, nmo30$tn, nmo29$tn, nmo28$tn, nmo27$tn, nmo26$tn))
+dmo31 <- mean(c(nmo31$tn, nmo30$tn, nmo29$tn, nmo28$tn, nmo27$tn, nmo26$tn, nmo25$tn))
+dmo30 <- mean(c(nmo30$tn, nmo29$tn, nmo28$tn, nmo27$tn, nmo26$tn, nmo25$tn, nmo24$tn))
+dmo29 <- mean(c(nmo29$tn, nmo28$tn, nmo27$tn, nmo26$tn, nmo25$tn, nmo24$tn, nmo23$tn))
+dmo28 <- mean(c(nmo28$tn, nmo27$tn, nmo26$tn, nmo25$tn, nmo24$tn, nmo23$tn, nmo22$tn))
+dmo27 <- mean(c(nmo27$tn, nmo26$tn, nmo25$tn, nmo24$tn, nmo23$tn, nmo22$tn, nmo21$tn))
+dmo26 <- mean(c(nmo26$tn, nmo25$tn, nmo24$tn, nmo23$tn, nmo22$tn, nmo21$tn, nmo20$tn))
+dmo25 <- mean(c(nmo25$tn, nmo24$tn, nmo23$tn, nmo22$tn, nmo21$tn, nmo20$tn, nmo19$tn))
+dmo24 <- mean(c(nmo24$tn, nmo23$tn, nmo22$tn, nmo21$tn, nmo20$tn, nmo19$tn, nmo18$tn))
+dmo23 <- mean(c(nmo23$tn, nmo22$tn, nmo21$tn, nmo20$tn, nmo19$tn, nmo18$tn, nmo17$tn))
+dmo22 <- mean(c(nmo22$tn, nmo21$tn, nmo20$tn, nmo19$tn, nmo18$tn, nmo17$tn, nmo16$tn))
+dmo21 <- mean(c(nmo21$tn, nmo20$tn, nmo19$tn, nmo18$tn, nmo17$tn, nmo16$tn, nmo15$tn))
+dmo20 <- mean(c(nmo20$tn, nmo19$tn, nmo18$tn, nmo17$tn, nmo16$tn, nmo15$tn, nmo14$tn))
+dmo19 <- mean(c(nmo19$tn, nmo18$tn, nmo17$tn, nmo16$tn, nmo15$tn, nmo14$tn, nmo13$tn))
+dmo18 <- mean(c(nmo18$tn, nmo17$tn, nmo16$tn, nmo15$tn, nmo14$tn, nmo13$tn, nmo12$tn))
+dmo17 <- mean(c(nmo17$tn, nmo16$tn, nmo15$tn, nmo14$tn, nmo13$tn, nmo12$tn, nmo11$tn))
+dmo16 <- mean(c(nmo16$tn, nmo15$tn, nmo14$tn, nmo13$tn, nmo12$tn, nmo11$tn, nmo10$tn))
+dmo15 <- mean(c(nmo15$tn, nmo14$tn, nmo13$tn, nmo12$tn, nmo11$tn, nmo10$tn, nmo09$tn))
+dmo14 <- mean(c(nmo14$tn, nmo13$tn, nmo12$tn, nmo11$tn, nmo10$tn, nmo09$tn, nmo08$tn))
+dmo13 <- mean(c(nmo13$tn, nmo12$tn, nmo11$tn, nmo10$tn, nmo09$tn, nmo08$tn, nmo07$tn))
+dmo12 <- mean(c(nmo12$tn, nmo11$tn, nmo10$tn, nmo09$tn, nmo08$tn, nmo07$tn, nmo06$tn))
+dmo11 <- mean(c(nmo11$tn, nmo10$tn, nmo09$tn, nmo08$tn, nmo07$tn, nmo06$tn, nmo05$tn))
+dmo10 <- mean(c(nmo10$tn, nmo09$tn, nmo08$tn, nmo07$tn, nmo06$tn, nmo05$tn, nmo04$tn))
+dmo09 <- mean(c(nmo09$tn, nmo08$tn, nmo07$tn, nmo06$tn, nmo05$tn, nmo04$tn, nmo03$tn))
+dmo08 <- mean(c(nmo08$tn, nmo07$tn, nmo06$tn, nmo05$tn, nmo04$tn, nmo03$tn, nmo02$tn))
+dmo07 <- mean(c(nmo07$tn, nmo06$tn, nmo05$tn, nmo04$tn, nmo03$tn, nmo02$tn, nmo01$tn))
 
 dfmo <- data_frame(
   fecha,
-  dncmo = c(dmo158/pmo, dmo157/pmo, dmo156/pmo, dmo155/pmo, dmo154/pmo, dmo153/pmo, dmo152/pmo, dmo151/pmo, dmo150/pmo,
+  dncmo = c(dmo162/pmo, dmo161/pmo, dmo160/pmo, 
+            dmo159/pmo, dmo158/pmo, dmo157/pmo, dmo156/pmo, dmo155/pmo, dmo154/pmo, dmo153/pmo, dmo152/pmo, dmo151/pmo, dmo150/pmo,
             dmo149/pmo, dmo148/pmo, dmo147/pmo, dmo146/pmo, dmo145/pmo, dmo144/pmo, dmo143/pmo, dmo142/pmo, dmo141/pmo, dmo140/pmo, 
             dmo139/pmo, dmo138/pmo, dmo137/pmo, dmo136/pmo, dmo135/pmo, dmo134/pmo, dmo133/pmo, dmo132/pmo, dmo131/pmo, dmo130/pmo, 
             dmo129/pmo, dmo128/pmo, dmo127/pmo, dmo126/pmo, dmo125/pmo, dmo124/pmo, dmo123/pmo, dmo122/pmo, dmo121/pmo, dmo120/pmo, 
@@ -10016,10 +11411,28 @@ dfmo <- data_frame(
             dmo99/pmo, dmo98/pmo, dmo97/pmo, dmo96/pmo, dmo95/pmo, dmo94/pmo, dmo93/pmo, dmo92/pmo, dmo91/pmo, dmo90/pmo, 
             dmo89/pmo, dmo88/pmo, dmo87/pmo, dmo86/pmo, dmo85/pmo, dmo84/pmo, dmo83/pmo, dmo82/pmo, dmo81/pmo, dmo80/pmo, 
             dmo79/pmo, dmo78/pmo, dmo77/pmo, dmo76/pmo, dmo75/pmo, dmo74/pmo, dmo73/pmo, dmo72/pmo, dmo71/pmo, dmo70/pmo, 
-            dmo69/pmo, dmo68/pmo, dmo67/pmo, dmo66/pmo)
+            dmo69/pmo, dmo68/pmo, dmo67/pmo, dmo66/pmo, dmo65/pmo, dmo64/pmo, dmo63/pmo, dmo62/pmo, dmo61/pmo, dmo60/pmo,
+            dmo59/pmo, dmo58/pmo, dmo57/pmo, dmo56/pmo, dmo55/pmo, dmo54/pmo, dmo53/pmo, dmo52/pmo, dmo51/pmo, dmo50/pmo,
+            dmo49/pmo, dmo48/pmo, dmo47/pmo, dmo46/pmo, dmo45/pmo, dmo44/pmo, dmo43/pmo, dmo42/pmo, dmo41/pmo, dmo40/pmo,
+            dmo39/pmo, dmo38/pmo, dmo37/pmo, dmo36/pmo, dmo35/pmo, dmo34/pmo, dmo33/pmo, dmo32/pmo, dmo31/pmo, dmo30/pmo,
+            dmo29/pmo, dmo28/pmo, dmo27/pmo, dmo26/pmo, dmo25/pmo, dmo24/pmo, dmo23/pmo, dmo22/pmo, dmo21/pmo, dmo20/pmo,
+            dmo19/pmo, dmo18/pmo, dmo17/pmo, dmo16/pmo, dmo15/pmo, dmo14/pmo, dmo13/pmo, dmo12/pmo, dmo11/pmo, dmo10/pmo,
+            dmo09/pmo, dmo08/pmo, dmo07/pmo)
 )
 
 # ***** IMBABURA *****
+nim162 <- imbabura22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nim161 <- imbabura22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nim160 <- imbabura22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nim159 <- imbabura22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nim158 <- imbabura22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -10495,6 +11908,10 @@ nim01 <- imbabura22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dim162 <- mean(c(nim162$tn, nim161$tn, nim160$tn, nim159$tn, nim158$tn, nim157$tn, nim156$tn))
+dim161 <- mean(c(nim161$tn, nim160$tn, nim159$tn, nim158$tn, nim157$tn, nim156$tn, nim155$tn))
+dim160 <- mean(c(nim160$tn, nim159$tn, nim158$tn, nim157$tn, nim156$tn, nim155$tn, nim154$tn))
+dim159 <- mean(c(nim159$tn, nim158$tn, nim157$tn, nim156$tn, nim155$tn, nim154$tn, nim153$tn))
 dim158 <- mean(c(nim158$tn, nim157$tn, nim156$tn, nim155$tn, nim154$tn, nim153$tn, nim152$tn))
 dim157 <- mean(c(nim157$tn, nim156$tn, nim155$tn, nim154$tn, nim153$tn, nim152$tn, nim151$tn))
 dim156 <- mean(c(nim156$tn, nim155$tn, nim154$tn, nim153$tn, nim152$tn, nim151$tn, nim150$tn))
@@ -10588,10 +12005,70 @@ dim69 <- mean(c(nim69$tn, nim68$tn, nim67$tn, nim66$tn, nim65$tn, nim64$tn, nim6
 dim68 <- mean(c(nim68$tn, nim67$tn, nim66$tn, nim65$tn, nim64$tn, nim63$tn, nim62$tn))
 dim67 <- mean(c(nim67$tn, nim66$tn, nim65$tn, nim64$tn, nim63$tn, nim62$tn, nim61$tn))
 dim66 <- mean(c(nim66$tn, nim65$tn, nim64$tn, nim63$tn, nim62$tn, nim61$tn, nim60$tn))
+dim65 <- mean(c(nim65$tn, nim64$tn, nim63$tn, nim62$tn, nim61$tn, nim60$tn, nim59$tn))
+dim64 <- mean(c(nim64$tn, nim63$tn, nim62$tn, nim61$tn, nim60$tn, nim59$tn, nim58$tn))
+dim63 <- mean(c(nim63$tn, nim62$tn, nim61$tn, nim60$tn, nim59$tn, nim58$tn, nim57$tn))
+dim62 <- mean(c(nim62$tn, nim61$tn, nim60$tn, nim59$tn, nim58$tn, nim57$tn, nim56$tn))
+dim61 <- mean(c(nim61$tn, nim60$tn, nim59$tn, nim58$tn, nim57$tn, nim56$tn, nim55$tn))
+dim60 <- mean(c(nim60$tn, nim59$tn, nim58$tn, nim57$tn, nim56$tn, nim55$tn, nim54$tn))
+dim59 <- mean(c(nim59$tn, nim58$tn, nim57$tn, nim56$tn, nim55$tn, nim54$tn, nim53$tn))
+dim58 <- mean(c(nim58$tn, nim57$tn, nim56$tn, nim55$tn, nim54$tn, nim53$tn, nim52$tn))
+dim57 <- mean(c(nim57$tn, nim56$tn, nim55$tn, nim54$tn, nim53$tn, nim52$tn, nim51$tn))
+dim56 <- mean(c(nim56$tn, nim55$tn, nim54$tn, nim53$tn, nim52$tn, nim51$tn, nim50$tn))
+dim55 <- mean(c(nim55$tn, nim54$tn, nim53$tn, nim52$tn, nim51$tn, nim50$tn, nim49$tn))
+dim54 <- mean(c(nim54$tn, nim53$tn, nim52$tn, nim51$tn, nim50$tn, nim49$tn, nim48$tn))
+dim53 <- mean(c(nim53$tn, nim52$tn, nim51$tn, nim50$tn, nim49$tn, nim48$tn, nim47$tn))
+dim52 <- mean(c(nim52$tn, nim51$tn, nim50$tn, nim49$tn, nim48$tn, nim47$tn, nim46$tn))
+dim51 <- mean(c(nim51$tn, nim50$tn, nim49$tn, nim48$tn, nim47$tn, nim46$tn, nim45$tn))
+dim50 <- mean(c(nim50$tn, nim49$tn, nim48$tn, nim47$tn, nim46$tn, nim45$tn, nim44$tn))
+dim49 <- mean(c(nim49$tn, nim48$tn, nim47$tn, nim46$tn, nim45$tn, nim44$tn, nim43$tn))
+dim48 <- mean(c(nim48$tn, nim47$tn, nim46$tn, nim45$tn, nim44$tn, nim43$tn, nim42$tn))
+dim47 <- mean(c(nim47$tn, nim46$tn, nim45$tn, nim44$tn, nim43$tn, nim42$tn, nim41$tn))
+dim46 <- mean(c(nim46$tn, nim45$tn, nim44$tn, nim43$tn, nim42$tn, nim41$tn, nim40$tn))
+dim45 <- mean(c(nim45$tn, nim44$tn, nim43$tn, nim42$tn, nim41$tn, nim40$tn, nim39$tn))
+dim44 <- mean(c(nim44$tn, nim43$tn, nim42$tn, nim41$tn, nim40$tn, nim39$tn, nim38$tn))
+dim43 <- mean(c(nim43$tn, nim42$tn, nim41$tn, nim40$tn, nim39$tn, nim38$tn, nim37$tn))
+dim42 <- mean(c(nim42$tn, nim41$tn, nim40$tn, nim39$tn, nim38$tn, nim37$tn, nim36$tn))
+dim41 <- mean(c(nim41$tn, nim40$tn, nim39$tn, nim38$tn, nim37$tn, nim36$tn, nim35$tn))
+dim40 <- mean(c(nim40$tn, nim39$tn, nim38$tn, nim37$tn, nim36$tn, nim35$tn, nim34$tn))
+dim39 <- mean(c(nim39$tn, nim38$tn, nim37$tn, nim36$tn, nim35$tn, nim34$tn, nim33$tn))
+dim38 <- mean(c(nim38$tn, nim37$tn, nim36$tn, nim35$tn, nim34$tn, nim33$tn, nim32$tn))
+dim37 <- mean(c(nim37$tn, nim36$tn, nim35$tn, nim34$tn, nim33$tn, nim32$tn, nim31$tn))
+dim36 <- mean(c(nim36$tn, nim35$tn, nim34$tn, nim33$tn, nim32$tn, nim31$tn, nim30$tn))
+dim35 <- mean(c(nim35$tn, nim34$tn, nim33$tn, nim32$tn, nim31$tn, nim30$tn, nim29$tn))
+dim34 <- mean(c(nim34$tn, nim33$tn, nim32$tn, nim31$tn, nim30$tn, nim29$tn, nim28$tn))
+dim33 <- mean(c(nim33$tn, nim32$tn, nim31$tn, nim30$tn, nim29$tn, nim28$tn, nim27$tn))
+dim32 <- mean(c(nim32$tn, nim31$tn, nim30$tn, nim29$tn, nim28$tn, nim27$tn, nim26$tn))
+dim31 <- mean(c(nim31$tn, nim30$tn, nim29$tn, nim28$tn, nim27$tn, nim26$tn, nim25$tn))
+dim30 <- mean(c(nim30$tn, nim29$tn, nim28$tn, nim27$tn, nim26$tn, nim25$tn, nim24$tn))
+dim29 <- mean(c(nim29$tn, nim28$tn, nim27$tn, nim26$tn, nim25$tn, nim24$tn, nim23$tn))
+dim28 <- mean(c(nim28$tn, nim27$tn, nim26$tn, nim25$tn, nim24$tn, nim23$tn, nim22$tn))
+dim27 <- mean(c(nim27$tn, nim26$tn, nim25$tn, nim24$tn, nim23$tn, nim22$tn, nim21$tn))
+dim26 <- mean(c(nim26$tn, nim25$tn, nim24$tn, nim23$tn, nim22$tn, nim21$tn, nim20$tn))
+dim25 <- mean(c(nim25$tn, nim24$tn, nim23$tn, nim22$tn, nim21$tn, nim20$tn, nim19$tn))
+dim24 <- mean(c(nim24$tn, nim23$tn, nim22$tn, nim21$tn, nim20$tn, nim19$tn, nim18$tn))
+dim23 <- mean(c(nim23$tn, nim22$tn, nim21$tn, nim20$tn, nim19$tn, nim18$tn, nim17$tn))
+dim22 <- mean(c(nim22$tn, nim21$tn, nim20$tn, nim19$tn, nim18$tn, nim17$tn, nim16$tn))
+dim21 <- mean(c(nim21$tn, nim20$tn, nim19$tn, nim18$tn, nim17$tn, nim16$tn, nim15$tn))
+dim20 <- mean(c(nim20$tn, nim19$tn, nim18$tn, nim17$tn, nim16$tn, nim15$tn, nim14$tn))
+dim19 <- mean(c(nim19$tn, nim18$tn, nim17$tn, nim16$tn, nim15$tn, nim14$tn, nim13$tn))
+dim18 <- mean(c(nim18$tn, nim17$tn, nim16$tn, nim15$tn, nim14$tn, nim13$tn, nim12$tn))
+dim17 <- mean(c(nim17$tn, nim16$tn, nim15$tn, nim14$tn, nim13$tn, nim12$tn, nim11$tn))
+dim16 <- mean(c(nim16$tn, nim15$tn, nim14$tn, nim13$tn, nim12$tn, nim11$tn, nim10$tn))
+dim15 <- mean(c(nim15$tn, nim14$tn, nim13$tn, nim12$tn, nim11$tn, nim10$tn, nim09$tn))
+dim14 <- mean(c(nim14$tn, nim13$tn, nim12$tn, nim11$tn, nim10$tn, nim09$tn, nim08$tn))
+dim13 <- mean(c(nim13$tn, nim12$tn, nim11$tn, nim10$tn, nim09$tn, nim08$tn, nim07$tn))
+dim12 <- mean(c(nim12$tn, nim11$tn, nim10$tn, nim09$tn, nim08$tn, nim07$tn, nim06$tn))
+dim11 <- mean(c(nim11$tn, nim10$tn, nim09$tn, nim08$tn, nim07$tn, nim06$tn, nim05$tn))
+dim10 <- mean(c(nim10$tn, nim09$tn, nim08$tn, nim07$tn, nim06$tn, nim05$tn, nim04$tn))
+dim09 <- mean(c(nim09$tn, nim08$tn, nim07$tn, nim06$tn, nim05$tn, nim04$tn, nim03$tn))
+dim08 <- mean(c(nim08$tn, nim07$tn, nim06$tn, nim05$tn, nim04$tn, nim03$tn, nim02$tn))
+dim07 <- mean(c(nim07$tn, nim06$tn, nim05$tn, nim04$tn, nim03$tn, nim02$tn, nim01$tn))
 
 dfim <- data_frame(
   fecha,
-  dncim = c(dim158/pim, dim157/pim, dim156/pim, dim155/pim, dim154/pim, dim153/pim, dim152/pim, dim151/pim, dim150/pim,
+  dncim = c(dim162/pim, dim161/pim, dim160/pim, 
+            dim159/pim, dim158/pim, dim157/pim, dim156/pim, dim155/pim, dim154/pim, dim153/pim, dim152/pim, dim151/pim, dim150/pim,
             dim149/pim, dim148/pim, dim147/pim, dim146/pim, dim145/pim, dim144/pim, dim143/pim, dim142/pim, dim141/pim, dim140/pim, 
             dim139/pim, dim138/pim, dim137/pim, dim136/pim, dim135/pim, dim134/pim, dim133/pim, dim132/pim, dim131/pim, dim130/pim, 
             dim129/pim, dim128/pim, dim127/pim, dim126/pim, dim125/pim, dim124/pim, dim123/pim, dim122/pim, dim121/pim, dim120/pim, 
@@ -10600,10 +12077,28 @@ dfim <- data_frame(
             dim99/pim, dim98/pim, dim97/pim, dim96/pim, dim95/pim, dim94/pim, dim93/pim, dim92/pim, dim91/pim, dim90/pim, 
             dim89/pim, dim88/pim, dim87/pim, dim86/pim, dim85/pim, dim84/pim, dim83/pim, dim82/pim, dim81/pim, dim80/pim, 
             dim79/pim, dim78/pim, dim77/pim, dim76/pim, dim75/pim, dim74/pim, dim73/pim, dim72/pim, dim71/pim, dim70/pim, 
-            dim69/pim, dim68/pim, dim67/pim, dim66/pim)
+            dim69/pim, dim68/pim, dim67/pim, dim66/pim, dim65/pim, dim64/pim, dim63/pim, dim62/pim, dim61/pim, dim60/pim,
+            dim59/pim, dim58/pim, dim57/pim, dim56/pim, dim55/pim, dim54/pim, dim53/pim, dim52/pim, dim51/pim, dim50/pim,
+            dim49/pim, dim48/pim, dim47/pim, dim46/pim, dim45/pim, dim44/pim, dim43/pim, dim42/pim, dim41/pim, dim40/pim,
+            dim39/pim, dim38/pim, dim37/pim, dim36/pim, dim35/pim, dim34/pim, dim33/pim, dim32/pim, dim31/pim, dim30/pim,
+            dim29/pim, dim28/pim, dim27/pim, dim26/pim, dim25/pim, dim24/pim, dim23/pim, dim22/pim, dim21/pim, dim20/pim,
+            dim19/pim, dim18/pim, dim17/pim, dim16/pim, dim15/pim, dim14/pim, dim13/pim, dim12/pim, dim11/pim, dim10/pim,
+            dim09/pim, dim08/pim, dim07/pim)
 )
 
 # ***** COTOPAXI *****
+nco162 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nco161 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nco160 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nco159 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nco158 <- cotopaxi22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -11079,6 +12574,10 @@ nco01 <- cotopaxi22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dco162 <- mean(c(nco162$tn, nco161$tn, nco160$tn, nco159$tn, nco158$tn, nco157$tn, nco156$tn))
+dco161 <- mean(c(nco161$tn, nco160$tn, nco159$tn, nco158$tn, nco157$tn, nco156$tn, nco155$tn))
+dco160 <- mean(c(nco160$tn, nco159$tn, nco158$tn, nco157$tn, nco156$tn, nco155$tn, nco154$tn))
+dco159 <- mean(c(nco159$tn, nco158$tn, nco157$tn, nco156$tn, nco155$tn, nco154$tn, nco153$tn))
 dco158 <- mean(c(nco158$tn, nco157$tn, nco156$tn, nco155$tn, nco154$tn, nco153$tn, nco152$tn))
 dco157 <- mean(c(nco157$tn, nco156$tn, nco155$tn, nco154$tn, nco153$tn, nco152$tn, nco151$tn))
 dco156 <- mean(c(nco156$tn, nco155$tn, nco154$tn, nco153$tn, nco152$tn, nco151$tn, nco150$tn))
@@ -11172,10 +12671,70 @@ dco69 <- mean(c(nco69$tn, nco68$tn, nco67$tn, nco66$tn, nco65$tn, nco64$tn, nco6
 dco68 <- mean(c(nco68$tn, nco67$tn, nco66$tn, nco65$tn, nco64$tn, nco63$tn, nco62$tn))
 dco67 <- mean(c(nco67$tn, nco66$tn, nco65$tn, nco64$tn, nco63$tn, nco62$tn, nco61$tn))
 dco66 <- mean(c(nco66$tn, nco65$tn, nco64$tn, nco63$tn, nco62$tn, nco61$tn, nco60$tn))
+dco65 <- mean(c(nco65$tn, nco64$tn, nco63$tn, nco62$tn, nco61$tn, nco60$tn, nco59$tn))
+dco64 <- mean(c(nco64$tn, nco63$tn, nco62$tn, nco61$tn, nco60$tn, nco59$tn, nco58$tn))
+dco63 <- mean(c(nco63$tn, nco62$tn, nco61$tn, nco60$tn, nco59$tn, nco58$tn, nco57$tn))
+dco62 <- mean(c(nco62$tn, nco61$tn, nco60$tn, nco59$tn, nco58$tn, nco57$tn, nco56$tn))
+dco61 <- mean(c(nco61$tn, nco60$tn, nco59$tn, nco58$tn, nco57$tn, nco56$tn, nco55$tn))
+dco60 <- mean(c(nco60$tn, nco59$tn, nco58$tn, nco57$tn, nco56$tn, nco55$tn, nco54$tn))
+dco59 <- mean(c(nco59$tn, nco58$tn, nco57$tn, nco56$tn, nco55$tn, nco54$tn, nco53$tn))
+dco58 <- mean(c(nco58$tn, nco57$tn, nco56$tn, nco55$tn, nco54$tn, nco53$tn, nco52$tn))
+dco57 <- mean(c(nco57$tn, nco56$tn, nco55$tn, nco54$tn, nco53$tn, nco52$tn, nco51$tn))
+dco56 <- mean(c(nco56$tn, nco55$tn, nco54$tn, nco53$tn, nco52$tn, nco51$tn, nco50$tn))
+dco55 <- mean(c(nco55$tn, nco54$tn, nco53$tn, nco52$tn, nco51$tn, nco50$tn, nco49$tn))
+dco54 <- mean(c(nco54$tn, nco53$tn, nco52$tn, nco51$tn, nco50$tn, nco49$tn, nco48$tn))
+dco53 <- mean(c(nco53$tn, nco52$tn, nco51$tn, nco50$tn, nco49$tn, nco48$tn, nco47$tn))
+dco52 <- mean(c(nco52$tn, nco51$tn, nco50$tn, nco49$tn, nco48$tn, nco47$tn, nco46$tn))
+dco51 <- mean(c(nco51$tn, nco50$tn, nco49$tn, nco48$tn, nco47$tn, nco46$tn, nco45$tn))
+dco50 <- mean(c(nco50$tn, nco49$tn, nco48$tn, nco47$tn, nco46$tn, nco45$tn, nco44$tn))
+dco49 <- mean(c(nco49$tn, nco48$tn, nco47$tn, nco46$tn, nco45$tn, nco44$tn, nco43$tn))
+dco48 <- mean(c(nco48$tn, nco47$tn, nco46$tn, nco45$tn, nco44$tn, nco43$tn, nco42$tn))
+dco47 <- mean(c(nco47$tn, nco46$tn, nco45$tn, nco44$tn, nco43$tn, nco42$tn, nco41$tn))
+dco46 <- mean(c(nco46$tn, nco45$tn, nco44$tn, nco43$tn, nco42$tn, nco41$tn, nco40$tn))
+dco45 <- mean(c(nco45$tn, nco44$tn, nco43$tn, nco42$tn, nco41$tn, nco40$tn, nco39$tn))
+dco44 <- mean(c(nco44$tn, nco43$tn, nco42$tn, nco41$tn, nco40$tn, nco39$tn, nco38$tn))
+dco43 <- mean(c(nco43$tn, nco42$tn, nco41$tn, nco40$tn, nco39$tn, nco38$tn, nco37$tn))
+dco42 <- mean(c(nco42$tn, nco41$tn, nco40$tn, nco39$tn, nco38$tn, nco37$tn, nco36$tn))
+dco41 <- mean(c(nco41$tn, nco40$tn, nco39$tn, nco38$tn, nco37$tn, nco36$tn, nco35$tn))
+dco40 <- mean(c(nco40$tn, nco39$tn, nco38$tn, nco37$tn, nco36$tn, nco35$tn, nco34$tn))
+dco39 <- mean(c(nco39$tn, nco38$tn, nco37$tn, nco36$tn, nco35$tn, nco34$tn, nco33$tn))
+dco38 <- mean(c(nco38$tn, nco37$tn, nco36$tn, nco35$tn, nco34$tn, nco33$tn, nco32$tn))
+dco37 <- mean(c(nco37$tn, nco36$tn, nco35$tn, nco34$tn, nco33$tn, nco32$tn, nco31$tn))
+dco36 <- mean(c(nco36$tn, nco35$tn, nco34$tn, nco33$tn, nco32$tn, nco31$tn, nco30$tn))
+dco35 <- mean(c(nco35$tn, nco34$tn, nco33$tn, nco32$tn, nco31$tn, nco30$tn, nco29$tn))
+dco34 <- mean(c(nco34$tn, nco33$tn, nco32$tn, nco31$tn, nco30$tn, nco29$tn, nco28$tn))
+dco33 <- mean(c(nco33$tn, nco32$tn, nco31$tn, nco30$tn, nco29$tn, nco28$tn, nco27$tn))
+dco32 <- mean(c(nco32$tn, nco31$tn, nco30$tn, nco29$tn, nco28$tn, nco27$tn, nco26$tn))
+dco31 <- mean(c(nco31$tn, nco30$tn, nco29$tn, nco28$tn, nco27$tn, nco26$tn, nco25$tn))
+dco30 <- mean(c(nco30$tn, nco29$tn, nco28$tn, nco27$tn, nco26$tn, nco25$tn, nco24$tn))
+dco29 <- mean(c(nco29$tn, nco28$tn, nco27$tn, nco26$tn, nco25$tn, nco24$tn, nco23$tn))
+dco28 <- mean(c(nco28$tn, nco27$tn, nco26$tn, nco25$tn, nco24$tn, nco23$tn, nco22$tn))
+dco27 <- mean(c(nco27$tn, nco26$tn, nco25$tn, nco24$tn, nco23$tn, nco22$tn, nco21$tn))
+dco26 <- mean(c(nco26$tn, nco25$tn, nco24$tn, nco23$tn, nco22$tn, nco21$tn, nco20$tn))
+dco25 <- mean(c(nco25$tn, nco24$tn, nco23$tn, nco22$tn, nco21$tn, nco20$tn, nco19$tn))
+dco24 <- mean(c(nco24$tn, nco23$tn, nco22$tn, nco21$tn, nco20$tn, nco19$tn, nco18$tn))
+dco23 <- mean(c(nco23$tn, nco22$tn, nco21$tn, nco20$tn, nco19$tn, nco18$tn, nco17$tn))
+dco22 <- mean(c(nco22$tn, nco21$tn, nco20$tn, nco19$tn, nco18$tn, nco17$tn, nco16$tn))
+dco21 <- mean(c(nco21$tn, nco20$tn, nco19$tn, nco18$tn, nco17$tn, nco16$tn, nco15$tn))
+dco20 <- mean(c(nco20$tn, nco19$tn, nco18$tn, nco17$tn, nco16$tn, nco15$tn, nco14$tn))
+dco19 <- mean(c(nco19$tn, nco18$tn, nco17$tn, nco16$tn, nco15$tn, nco14$tn, nco13$tn))
+dco18 <- mean(c(nco18$tn, nco17$tn, nco16$tn, nco15$tn, nco14$tn, nco13$tn, nco12$tn))
+dco17 <- mean(c(nco17$tn, nco16$tn, nco15$tn, nco14$tn, nco13$tn, nco12$tn, nco11$tn))
+dco16 <- mean(c(nco16$tn, nco15$tn, nco14$tn, nco13$tn, nco12$tn, nco11$tn, nco10$tn))
+dco15 <- mean(c(nco15$tn, nco14$tn, nco13$tn, nco12$tn, nco11$tn, nco10$tn, nco09$tn))
+dco14 <- mean(c(nco14$tn, nco13$tn, nco12$tn, nco11$tn, nco10$tn, nco09$tn, nco08$tn))
+dco13 <- mean(c(nco13$tn, nco12$tn, nco11$tn, nco10$tn, nco09$tn, nco08$tn, nco07$tn))
+dco12 <- mean(c(nco12$tn, nco11$tn, nco10$tn, nco09$tn, nco08$tn, nco07$tn, nco06$tn))
+dco11 <- mean(c(nco11$tn, nco10$tn, nco09$tn, nco08$tn, nco07$tn, nco06$tn, nco05$tn))
+dco10 <- mean(c(nco10$tn, nco09$tn, nco08$tn, nco07$tn, nco06$tn, nco05$tn, nco04$tn))
+dco09 <- mean(c(nco09$tn, nco08$tn, nco07$tn, nco06$tn, nco05$tn, nco04$tn, nco03$tn))
+dco08 <- mean(c(nco08$tn, nco07$tn, nco06$tn, nco05$tn, nco04$tn, nco03$tn, nco02$tn))
+dco07 <- mean(c(nco07$tn, nco06$tn, nco05$tn, nco04$tn, nco03$tn, nco02$tn, nco01$tn))
 
 dfco <- data_frame(
   fecha,
-  dncco = c(dco158/pco, dco157/pco, dco156/pco, dco155/pco, dco154/pco, dco153/pco, dco152/pco, dco151/pco, dco150/pco,
+  dncco = c(dco162/pco, dco161/pco, dco160/pco, 
+            dco159/pco, dco158/pco, dco157/pco, dco156/pco, dco155/pco, dco154/pco, dco153/pco, dco152/pco, dco151/pco, dco150/pco,
             dco149/pco, dco148/pco, dco147/pco, dco146/pco, dco145/pco, dco144/pco, dco143/pco, dco142/pco, dco141/pco, dco140/pco, 
             dco139/pco, dco138/pco, dco137/pco, dco136/pco, dco135/pco, dco134/pco, dco133/pco, dco132/pco, dco131/pco, dco130/pco, 
             dco129/pco, dco128/pco, dco127/pco, dco126/pco, dco125/pco, dco124/pco, dco123/pco, dco122/pco, dco121/pco, dco120/pco, 
@@ -11184,10 +12743,28 @@ dfco <- data_frame(
             dco99/pco, dco98/pco, dco97/pco, dco96/pco, dco95/pco, dco94/pco, dco93/pco, dco92/pco, dco91/pco, dco90/pco, 
             dco89/pco, dco88/pco, dco87/pco, dco86/pco, dco85/pco, dco84/pco, dco83/pco, dco82/pco, dco81/pco, dco80/pco, 
             dco79/pco, dco78/pco, dco77/pco, dco76/pco, dco75/pco, dco74/pco, dco73/pco, dco72/pco, dco71/pco, dco70/pco, 
-            dco69/pco, dco68/pco, dco67/pco, dco66/pco)
+            dco69/pco, dco68/pco, dco67/pco, dco66/pco, dco65/pco, dco64/pco, dco63/pco, dco62/pco, dco61/pco, dco60/pco,
+            dco59/pco, dco58/pco, dco57/pco, dco56/pco, dco55/pco, dco54/pco, dco53/pco, dco52/pco, dco51/pco, dco50/pco,
+            dco49/pco, dco48/pco, dco47/pco, dco46/pco, dco45/pco, dco44/pco, dco43/pco, dco42/pco, dco41/pco, dco40/pco,
+            dco39/pco, dco38/pco, dco37/pco, dco36/pco, dco35/pco, dco34/pco, dco33/pco, dco32/pco, dco31/pco, dco30/pco,
+            dco29/pco, dco28/pco, dco27/pco, dco26/pco, dco25/pco, dco24/pco, dco23/pco, dco22/pco, dco21/pco, dco20/pco,
+            dco19/pco, dco18/pco, dco17/pco, dco16/pco, dco15/pco, dco14/pco, dco13/pco, dco12/pco, dco11/pco, dco10/pco,
+            dco09/pco, dco08/pco, dco07/pco)
 )
 
 # ***** CARCHI *****
+nca162 <- carchi22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nca161 <- carchi22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nca160 <- carchi22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nca159 <- carchi22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nca158 <- carchi22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -11663,6 +13240,10 @@ nca01 <- carchi22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dca162 <- mean(c(nca162$tn, nca161$tn, nca160$tn, nca159$tn, nca158$tn, nca157$tn, nca156$tn))
+dca161 <- mean(c(nca161$tn, nca160$tn, nca159$tn, nca158$tn, nca157$tn, nca156$tn, nca155$tn))
+dca160 <- mean(c(nca160$tn, nca159$tn, nca158$tn, nca157$tn, nca156$tn, nca155$tn, nca154$tn))
+dca159 <- mean(c(nca159$tn, nca158$tn, nca157$tn, nca156$tn, nca155$tn, nca154$tn, nca153$tn))
 dca158 <- mean(c(nca158$tn, nca157$tn, nca156$tn, nca155$tn, nca154$tn, nca153$tn, nca152$tn))
 dca157 <- mean(c(nca157$tn, nca156$tn, nca155$tn, nca154$tn, nca153$tn, nca152$tn, nca151$tn))
 dca156 <- mean(c(nca156$tn, nca155$tn, nca154$tn, nca153$tn, nca152$tn, nca151$tn, nca150$tn))
@@ -11756,10 +13337,70 @@ dca69 <- mean(c(nca69$tn, nca68$tn, nca67$tn, nca66$tn, nca65$tn, nca64$tn, nca6
 dca68 <- mean(c(nca68$tn, nca67$tn, nca66$tn, nca65$tn, nca64$tn, nca63$tn, nca62$tn))
 dca67 <- mean(c(nca67$tn, nca66$tn, nca65$tn, nca64$tn, nca63$tn, nca62$tn, nca61$tn))
 dca66 <- mean(c(nca66$tn, nca65$tn, nca64$tn, nca63$tn, nca62$tn, nca61$tn, nca60$tn))
+dca65 <- mean(c(nca65$tn, nca64$tn, nca63$tn, nca62$tn, nca61$tn, nca60$tn, nca59$tn))
+dca64 <- mean(c(nca64$tn, nca63$tn, nca62$tn, nca61$tn, nca60$tn, nca59$tn, nca58$tn))
+dca63 <- mean(c(nca63$tn, nca62$tn, nca61$tn, nca60$tn, nca59$tn, nca58$tn, nca57$tn))
+dca62 <- mean(c(nca62$tn, nca61$tn, nca60$tn, nca59$tn, nca58$tn, nca57$tn, nca56$tn))
+dca61 <- mean(c(nca61$tn, nca60$tn, nca59$tn, nca58$tn, nca57$tn, nca56$tn, nca55$tn))
+dca60 <- mean(c(nca60$tn, nca59$tn, nca58$tn, nca57$tn, nca56$tn, nca55$tn, nca54$tn))
+dca59 <- mean(c(nca59$tn, nca58$tn, nca57$tn, nca56$tn, nca55$tn, nca54$tn, nca53$tn))
+dca58 <- mean(c(nca58$tn, nca57$tn, nca56$tn, nca55$tn, nca54$tn, nca53$tn, nca52$tn))
+dca57 <- mean(c(nca57$tn, nca56$tn, nca55$tn, nca54$tn, nca53$tn, nca52$tn, nca51$tn))
+dca56 <- mean(c(nca56$tn, nca55$tn, nca54$tn, nca53$tn, nca52$tn, nca51$tn, nca50$tn))
+dca55 <- mean(c(nca55$tn, nca54$tn, nca53$tn, nca52$tn, nca51$tn, nca50$tn, nca49$tn))
+dca54 <- mean(c(nca54$tn, nca53$tn, nca52$tn, nca51$tn, nca50$tn, nca49$tn, nca48$tn))
+dca53 <- mean(c(nca53$tn, nca52$tn, nca51$tn, nca50$tn, nca49$tn, nca48$tn, nca47$tn))
+dca52 <- mean(c(nca52$tn, nca51$tn, nca50$tn, nca49$tn, nca48$tn, nca47$tn, nca46$tn))
+dca51 <- mean(c(nca51$tn, nca50$tn, nca49$tn, nca48$tn, nca47$tn, nca46$tn, nca45$tn))
+dca50 <- mean(c(nca50$tn, nca49$tn, nca48$tn, nca47$tn, nca46$tn, nca45$tn, nca44$tn))
+dca49 <- mean(c(nca49$tn, nca48$tn, nca47$tn, nca46$tn, nca45$tn, nca44$tn, nca43$tn))
+dca48 <- mean(c(nca48$tn, nca47$tn, nca46$tn, nca45$tn, nca44$tn, nca43$tn, nca42$tn))
+dca47 <- mean(c(nca47$tn, nca46$tn, nca45$tn, nca44$tn, nca43$tn, nca42$tn, nca41$tn))
+dca46 <- mean(c(nca46$tn, nca45$tn, nca44$tn, nca43$tn, nca42$tn, nca41$tn, nca40$tn))
+dca45 <- mean(c(nca45$tn, nca44$tn, nca43$tn, nca42$tn, nca41$tn, nca40$tn, nca39$tn))
+dca44 <- mean(c(nca44$tn, nca43$tn, nca42$tn, nca41$tn, nca40$tn, nca39$tn, nca38$tn))
+dca43 <- mean(c(nca43$tn, nca42$tn, nca41$tn, nca40$tn, nca39$tn, nca38$tn, nca37$tn))
+dca42 <- mean(c(nca42$tn, nca41$tn, nca40$tn, nca39$tn, nca38$tn, nca37$tn, nca36$tn))
+dca41 <- mean(c(nca41$tn, nca40$tn, nca39$tn, nca38$tn, nca37$tn, nca36$tn, nca35$tn))
+dca40 <- mean(c(nca40$tn, nca39$tn, nca38$tn, nca37$tn, nca36$tn, nca35$tn, nca34$tn))
+dca39 <- mean(c(nca39$tn, nca38$tn, nca37$tn, nca36$tn, nca35$tn, nca34$tn, nca33$tn))
+dca38 <- mean(c(nca38$tn, nca37$tn, nca36$tn, nca35$tn, nca34$tn, nca33$tn, nca32$tn))
+dca37 <- mean(c(nca37$tn, nca36$tn, nca35$tn, nca34$tn, nca33$tn, nca32$tn, nca31$tn))
+dca36 <- mean(c(nca36$tn, nca35$tn, nca34$tn, nca33$tn, nca32$tn, nca31$tn, nca30$tn))
+dca35 <- mean(c(nca35$tn, nca34$tn, nca33$tn, nca32$tn, nca31$tn, nca30$tn, nca29$tn))
+dca34 <- mean(c(nca34$tn, nca33$tn, nca32$tn, nca31$tn, nca30$tn, nca29$tn, nca28$tn))
+dca33 <- mean(c(nca33$tn, nca32$tn, nca31$tn, nca30$tn, nca29$tn, nca28$tn, nca27$tn))
+dca32 <- mean(c(nca32$tn, nca31$tn, nca30$tn, nca29$tn, nca28$tn, nca27$tn, nca26$tn))
+dca31 <- mean(c(nca31$tn, nca30$tn, nca29$tn, nca28$tn, nca27$tn, nca26$tn, nca25$tn))
+dca30 <- mean(c(nca30$tn, nca29$tn, nca28$tn, nca27$tn, nca26$tn, nca25$tn, nca24$tn))
+dca29 <- mean(c(nca29$tn, nca28$tn, nca27$tn, nca26$tn, nca25$tn, nca24$tn, nca23$tn))
+dca28 <- mean(c(nca28$tn, nca27$tn, nca26$tn, nca25$tn, nca24$tn, nca23$tn, nca22$tn))
+dca27 <- mean(c(nca27$tn, nca26$tn, nca25$tn, nca24$tn, nca23$tn, nca22$tn, nca21$tn))
+dca26 <- mean(c(nca26$tn, nca25$tn, nca24$tn, nca23$tn, nca22$tn, nca21$tn, nca20$tn))
+dca25 <- mean(c(nca25$tn, nca24$tn, nca23$tn, nca22$tn, nca21$tn, nca20$tn, nca19$tn))
+dca24 <- mean(c(nca24$tn, nca23$tn, nca22$tn, nca21$tn, nca20$tn, nca19$tn, nca18$tn))
+dca23 <- mean(c(nca23$tn, nca22$tn, nca21$tn, nca20$tn, nca19$tn, nca18$tn, nca17$tn))
+dca22 <- mean(c(nca22$tn, nca21$tn, nca20$tn, nca19$tn, nca18$tn, nca17$tn, nca16$tn))
+dca21 <- mean(c(nca21$tn, nca20$tn, nca19$tn, nca18$tn, nca17$tn, nca16$tn, nca15$tn))
+dca20 <- mean(c(nca20$tn, nca19$tn, nca18$tn, nca17$tn, nca16$tn, nca15$tn, nca14$tn))
+dca19 <- mean(c(nca19$tn, nca18$tn, nca17$tn, nca16$tn, nca15$tn, nca14$tn, nca13$tn))
+dca18 <- mean(c(nca18$tn, nca17$tn, nca16$tn, nca15$tn, nca14$tn, nca13$tn, nca12$tn))
+dca17 <- mean(c(nca17$tn, nca16$tn, nca15$tn, nca14$tn, nca13$tn, nca12$tn, nca11$tn))
+dca16 <- mean(c(nca16$tn, nca15$tn, nca14$tn, nca13$tn, nca12$tn, nca11$tn, nca10$tn))
+dca15 <- mean(c(nca15$tn, nca14$tn, nca13$tn, nca12$tn, nca11$tn, nca10$tn, nca09$tn))
+dca14 <- mean(c(nca14$tn, nca13$tn, nca12$tn, nca11$tn, nca10$tn, nca09$tn, nca08$tn))
+dca13 <- mean(c(nca13$tn, nca12$tn, nca11$tn, nca10$tn, nca09$tn, nca08$tn, nca07$tn))
+dca12 <- mean(c(nca12$tn, nca11$tn, nca10$tn, nca09$tn, nca08$tn, nca07$tn, nca06$tn))
+dca11 <- mean(c(nca11$tn, nca10$tn, nca09$tn, nca08$tn, nca07$tn, nca06$tn, nca05$tn))
+dca10 <- mean(c(nca10$tn, nca09$tn, nca08$tn, nca07$tn, nca06$tn, nca05$tn, nca04$tn))
+dca09 <- mean(c(nca09$tn, nca08$tn, nca07$tn, nca06$tn, nca05$tn, nca04$tn, nca03$tn))
+dca08 <- mean(c(nca08$tn, nca07$tn, nca06$tn, nca05$tn, nca04$tn, nca03$tn, nca02$tn))
+dca07 <- mean(c(nca07$tn, nca06$tn, nca05$tn, nca04$tn, nca03$tn, nca02$tn, nca01$tn))
 
 dfca <- data_frame(
   fecha,
-  dncca = c(dca158/pca, dca157/pca, dca156/pca, dca155/pca, dca154/pca, dca153/pca, dca152/pca, dca151/pca, dca150/pca,
+  dncca = c(dca162/pca, dca161/pca, dca160/pca, 
+            dca159/pca, dca158/pca, dca157/pca, dca156/pca, dca155/pca, dca154/pca, dca153/pca, dca152/pca, dca151/pca, dca150/pca,
             dca149/pca, dca148/pca, dca147/pca, dca146/pca, dca145/pca, dca144/pca, dca143/pca, dca142/pca, dca141/pca, dca140/pca, 
             dca139/pca, dca138/pca, dca137/pca, dca136/pca, dca135/pca, dca134/pca, dca133/pca, dca132/pca, dca131/pca, dca130/pca, 
             dca129/pca, dca128/pca, dca127/pca, dca126/pca, dca125/pca, dca124/pca, dca123/pca, dca122/pca, dca121/pca, dca120/pca, 
@@ -11768,10 +13409,28 @@ dfca <- data_frame(
             dca99/pca, dca98/pca, dca97/pca, dca96/pca, dca95/pca, dca94/pca, dca93/pca, dca92/pca, dca91/pca, dca90/pca, 
             dca89/pca, dca88/pca, dca87/pca, dca86/pca, dca85/pca, dca84/pca, dca83/pca, dca82/pca, dca81/pca, dca80/pca, 
             dca79/pca, dca78/pca, dca77/pca, dca76/pca, dca75/pca, dca74/pca, dca73/pca, dca72/pca, dca71/pca, dca70/pca, 
-            dca69/pca, dca68/pca, dca67/pca, dca66/pca)
+            dca69/pca, dca68/pca, dca67/pca, dca66/pca, dca65/pca, dca64/pca, dca63/pca, dca62/pca, dca61/pca, dca60/pca,
+            dca59/pca, dca58/pca, dca57/pca, dca56/pca, dca55/pca, dca54/pca, dca53/pca, dca52/pca, dca51/pca, dca50/pca,
+            dca49/pca, dca48/pca, dca47/pca, dca46/pca, dca45/pca, dca44/pca, dca43/pca, dca42/pca, dca41/pca, dca40/pca,
+            dca39/pca, dca38/pca, dca37/pca, dca36/pca, dca35/pca, dca34/pca, dca33/pca, dca32/pca, dca31/pca, dca30/pca,
+            dca29/pca, dca28/pca, dca27/pca, dca26/pca, dca25/pca, dca24/pca, dca23/pca, dca22/pca, dca21/pca, dca20/pca,
+            dca19/pca, dca18/pca, dca17/pca, dca16/pca, dca15/pca, dca14/pca, dca13/pca, dca12/pca, dca11/pca, dca10/pca,
+            dca09/pca, dca08/pca, dca07/pca)
 )
 
 # ***** CAÑAR *****
+ncr162 <- canar22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+ncr161 <- canar22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+ncr160 <- canar22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+ncr159 <- canar22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 ncr158 <- canar22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -12247,6 +13906,10 @@ ncr01 <- canar22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dcr162 <- mean(c(ncr162$tn, ncr161$tn, ncr160$tn, ncr159$tn, ncr158$tn, ncr157$tn, ncr156$tn))
+dcr161 <- mean(c(ncr161$tn, ncr160$tn, ncr159$tn, ncr158$tn, ncr157$tn, ncr156$tn, ncr155$tn))
+dcr160 <- mean(c(ncr160$tn, ncr159$tn, ncr158$tn, ncr157$tn, ncr156$tn, ncr155$tn, ncr154$tn))
+dcr159 <- mean(c(ncr159$tn, ncr158$tn, ncr157$tn, ncr156$tn, ncr155$tn, ncr154$tn, ncr153$tn))
 dcr158 <- mean(c(ncr158$tn, ncr157$tn, ncr156$tn, ncr155$tn, ncr154$tn, ncr153$tn, ncr152$tn))
 dcr157 <- mean(c(ncr157$tn, ncr156$tn, ncr155$tn, ncr154$tn, ncr153$tn, ncr152$tn, ncr151$tn))
 dcr156 <- mean(c(ncr156$tn, ncr155$tn, ncr154$tn, ncr153$tn, ncr152$tn, ncr151$tn, ncr150$tn))
@@ -12340,10 +14003,70 @@ dcr69 <- mean(c(ncr69$tn, ncr68$tn, ncr67$tn, ncr66$tn, ncr65$tn, ncr64$tn, ncr6
 dcr68 <- mean(c(ncr68$tn, ncr67$tn, ncr66$tn, ncr65$tn, ncr64$tn, ncr63$tn, ncr62$tn))
 dcr67 <- mean(c(ncr67$tn, ncr66$tn, ncr65$tn, ncr64$tn, ncr63$tn, ncr62$tn, ncr61$tn))
 dcr66 <- mean(c(ncr66$tn, ncr65$tn, ncr64$tn, ncr63$tn, ncr62$tn, ncr61$tn, ncr60$tn))
+dcr65 <- mean(c(ncr65$tn, ncr64$tn, ncr63$tn, ncr62$tn, ncr61$tn, ncr60$tn, ncr59$tn))
+dcr64 <- mean(c(ncr64$tn, ncr63$tn, ncr62$tn, ncr61$tn, ncr60$tn, ncr59$tn, ncr58$tn))
+dcr63 <- mean(c(ncr63$tn, ncr62$tn, ncr61$tn, ncr60$tn, ncr59$tn, ncr58$tn, ncr57$tn))
+dcr62 <- mean(c(ncr62$tn, ncr61$tn, ncr60$tn, ncr59$tn, ncr58$tn, ncr57$tn, ncr56$tn))
+dcr61 <- mean(c(ncr61$tn, ncr60$tn, ncr59$tn, ncr58$tn, ncr57$tn, ncr56$tn, ncr55$tn))
+dcr60 <- mean(c(ncr60$tn, ncr59$tn, ncr58$tn, ncr57$tn, ncr56$tn, ncr55$tn, ncr54$tn))
+dcr59 <- mean(c(ncr59$tn, ncr58$tn, ncr57$tn, ncr56$tn, ncr55$tn, ncr54$tn, ncr53$tn))
+dcr58 <- mean(c(ncr58$tn, ncr57$tn, ncr56$tn, ncr55$tn, ncr54$tn, ncr53$tn, ncr52$tn))
+dcr57 <- mean(c(ncr57$tn, ncr56$tn, ncr55$tn, ncr54$tn, ncr53$tn, ncr52$tn, ncr51$tn))
+dcr56 <- mean(c(ncr56$tn, ncr55$tn, ncr54$tn, ncr53$tn, ncr52$tn, ncr51$tn, ncr50$tn))
+dcr55 <- mean(c(ncr55$tn, ncr54$tn, ncr53$tn, ncr52$tn, ncr51$tn, ncr50$tn, ncr49$tn))
+dcr54 <- mean(c(ncr54$tn, ncr53$tn, ncr52$tn, ncr51$tn, ncr50$tn, ncr49$tn, ncr48$tn))
+dcr53 <- mean(c(ncr53$tn, ncr52$tn, ncr51$tn, ncr50$tn, ncr49$tn, ncr48$tn, ncr47$tn))
+dcr52 <- mean(c(ncr52$tn, ncr51$tn, ncr50$tn, ncr49$tn, ncr48$tn, ncr47$tn, ncr46$tn))
+dcr51 <- mean(c(ncr51$tn, ncr50$tn, ncr49$tn, ncr48$tn, ncr47$tn, ncr46$tn, ncr45$tn))
+dcr50 <- mean(c(ncr50$tn, ncr49$tn, ncr48$tn, ncr47$tn, ncr46$tn, ncr45$tn, ncr44$tn))
+dcr49 <- mean(c(ncr49$tn, ncr48$tn, ncr47$tn, ncr46$tn, ncr45$tn, ncr44$tn, ncr43$tn))
+dcr48 <- mean(c(ncr48$tn, ncr47$tn, ncr46$tn, ncr45$tn, ncr44$tn, ncr43$tn, ncr42$tn))
+dcr47 <- mean(c(ncr47$tn, ncr46$tn, ncr45$tn, ncr44$tn, ncr43$tn, ncr42$tn, ncr41$tn))
+dcr46 <- mean(c(ncr46$tn, ncr45$tn, ncr44$tn, ncr43$tn, ncr42$tn, ncr41$tn, ncr40$tn))
+dcr45 <- mean(c(ncr45$tn, ncr44$tn, ncr43$tn, ncr42$tn, ncr41$tn, ncr40$tn, ncr39$tn))
+dcr44 <- mean(c(ncr44$tn, ncr43$tn, ncr42$tn, ncr41$tn, ncr40$tn, ncr39$tn, ncr38$tn))
+dcr43 <- mean(c(ncr43$tn, ncr42$tn, ncr41$tn, ncr40$tn, ncr39$tn, ncr38$tn, ncr37$tn))
+dcr42 <- mean(c(ncr42$tn, ncr41$tn, ncr40$tn, ncr39$tn, ncr38$tn, ncr37$tn, ncr36$tn))
+dcr41 <- mean(c(ncr41$tn, ncr40$tn, ncr39$tn, ncr38$tn, ncr37$tn, ncr36$tn, ncr35$tn))
+dcr40 <- mean(c(ncr40$tn, ncr39$tn, ncr38$tn, ncr37$tn, ncr36$tn, ncr35$tn, ncr34$tn))
+dcr39 <- mean(c(ncr39$tn, ncr38$tn, ncr37$tn, ncr36$tn, ncr35$tn, ncr34$tn, ncr33$tn))
+dcr38 <- mean(c(ncr38$tn, ncr37$tn, ncr36$tn, ncr35$tn, ncr34$tn, ncr33$tn, ncr32$tn))
+dcr37 <- mean(c(ncr37$tn, ncr36$tn, ncr35$tn, ncr34$tn, ncr33$tn, ncr32$tn, ncr31$tn))
+dcr36 <- mean(c(ncr36$tn, ncr35$tn, ncr34$tn, ncr33$tn, ncr32$tn, ncr31$tn, ncr30$tn))
+dcr35 <- mean(c(ncr35$tn, ncr34$tn, ncr33$tn, ncr32$tn, ncr31$tn, ncr30$tn, ncr29$tn))
+dcr34 <- mean(c(ncr34$tn, ncr33$tn, ncr32$tn, ncr31$tn, ncr30$tn, ncr29$tn, ncr28$tn))
+dcr33 <- mean(c(ncr33$tn, ncr32$tn, ncr31$tn, ncr30$tn, ncr29$tn, ncr28$tn, ncr27$tn))
+dcr32 <- mean(c(ncr32$tn, ncr31$tn, ncr30$tn, ncr29$tn, ncr28$tn, ncr27$tn, ncr26$tn))
+dcr31 <- mean(c(ncr31$tn, ncr30$tn, ncr29$tn, ncr28$tn, ncr27$tn, ncr26$tn, ncr25$tn))
+dcr30 <- mean(c(ncr30$tn, ncr29$tn, ncr28$tn, ncr27$tn, ncr26$tn, ncr25$tn, ncr24$tn))
+dcr29 <- mean(c(ncr29$tn, ncr28$tn, ncr27$tn, ncr26$tn, ncr25$tn, ncr24$tn, ncr23$tn))
+dcr28 <- mean(c(ncr28$tn, ncr27$tn, ncr26$tn, ncr25$tn, ncr24$tn, ncr23$tn, ncr22$tn))
+dcr27 <- mean(c(ncr27$tn, ncr26$tn, ncr25$tn, ncr24$tn, ncr23$tn, ncr22$tn, ncr21$tn))
+dcr26 <- mean(c(ncr26$tn, ncr25$tn, ncr24$tn, ncr23$tn, ncr22$tn, ncr21$tn, ncr20$tn))
+dcr25 <- mean(c(ncr25$tn, ncr24$tn, ncr23$tn, ncr22$tn, ncr21$tn, ncr20$tn, ncr19$tn))
+dcr24 <- mean(c(ncr24$tn, ncr23$tn, ncr22$tn, ncr21$tn, ncr20$tn, ncr19$tn, ncr18$tn))
+dcr23 <- mean(c(ncr23$tn, ncr22$tn, ncr21$tn, ncr20$tn, ncr19$tn, ncr18$tn, ncr17$tn))
+dcr22 <- mean(c(ncr22$tn, ncr21$tn, ncr20$tn, ncr19$tn, ncr18$tn, ncr17$tn, ncr16$tn))
+dcr21 <- mean(c(ncr21$tn, ncr20$tn, ncr19$tn, ncr18$tn, ncr17$tn, ncr16$tn, ncr15$tn))
+dcr20 <- mean(c(ncr20$tn, ncr19$tn, ncr18$tn, ncr17$tn, ncr16$tn, ncr15$tn, ncr14$tn))
+dcr19 <- mean(c(ncr19$tn, ncr18$tn, ncr17$tn, ncr16$tn, ncr15$tn, ncr14$tn, ncr13$tn))
+dcr18 <- mean(c(ncr18$tn, ncr17$tn, ncr16$tn, ncr15$tn, ncr14$tn, ncr13$tn, ncr12$tn))
+dcr17 <- mean(c(ncr17$tn, ncr16$tn, ncr15$tn, ncr14$tn, ncr13$tn, ncr12$tn, ncr11$tn))
+dcr16 <- mean(c(ncr16$tn, ncr15$tn, ncr14$tn, ncr13$tn, ncr12$tn, ncr11$tn, ncr10$tn))
+dcr15 <- mean(c(ncr15$tn, ncr14$tn, ncr13$tn, ncr12$tn, ncr11$tn, ncr10$tn, ncr09$tn))
+dcr14 <- mean(c(ncr14$tn, ncr13$tn, ncr12$tn, ncr11$tn, ncr10$tn, ncr09$tn, ncr08$tn))
+dcr13 <- mean(c(ncr13$tn, ncr12$tn, ncr11$tn, ncr10$tn, ncr09$tn, ncr08$tn, ncr07$tn))
+dcr12 <- mean(c(ncr12$tn, ncr11$tn, ncr10$tn, ncr09$tn, ncr08$tn, ncr07$tn, ncr06$tn))
+dcr11 <- mean(c(ncr11$tn, ncr10$tn, ncr09$tn, ncr08$tn, ncr07$tn, ncr06$tn, ncr05$tn))
+dcr10 <- mean(c(ncr10$tn, ncr09$tn, ncr08$tn, ncr07$tn, ncr06$tn, ncr05$tn, ncr04$tn))
+dcr09 <- mean(c(ncr09$tn, ncr08$tn, ncr07$tn, ncr06$tn, ncr05$tn, ncr04$tn, ncr03$tn))
+dcr08 <- mean(c(ncr08$tn, ncr07$tn, ncr06$tn, ncr05$tn, ncr04$tn, ncr03$tn, ncr02$tn))
+dcr07 <- mean(c(ncr07$tn, ncr06$tn, ncr05$tn, ncr04$tn, ncr03$tn, ncr02$tn, ncr01$tn))
 
 dfcr <- data_frame(
   fecha,
-  dnccr = c(dcr158/pcr, dcr157/pcr, dcr156/pcr, dcr155/pcr, dcr154/pcr, dcr153/pcr, dcr152/pcr, dcr151/pcr, dcr150/pcr,
+  dnccr = c(dcr162/pcr, dcr161/pcr, dcr160/pcr, 
+            dcr159/pcr, dcr158/pcr, dcr157/pcr, dcr156/pcr, dcr155/pcr, dcr154/pcr, dcr153/pcr, dcr152/pcr, dcr151/pcr, dcr150/pcr,
             dcr149/pcr, dcr148/pcr, dcr147/pcr, dcr146/pcr, dcr145/pcr, dcr144/pcr, dcr143/pcr, dcr142/pcr, dcr141/pcr, dcr140/pcr, 
             dcr139/pcr, dcr138/pcr, dcr137/pcr, dcr136/pcr, dcr135/pcr, dcr134/pcr, dcr133/pcr, dcr132/pcr, dcr131/pcr, dcr130/pcr, 
             dcr129/pcr, dcr128/pcr, dcr127/pcr, dcr126/pcr, dcr125/pcr, dcr124/pcr, dcr123/pcr, dcr122/pcr, dcr121/pcr, dcr120/pcr, 
@@ -12352,10 +14075,28 @@ dfcr <- data_frame(
             dcr99/pcr, dcr98/pcr, dcr97/pcr, dcr96/pcr, dcr95/pcr, dcr94/pcr, dcr93/pcr, dcr92/pcr, dcr91/pcr, dcr90/pcr, 
             dcr89/pcr, dcr88/pcr, dcr87/pcr, dcr86/pcr, dcr85/pcr, dcr84/pcr, dcr83/pcr, dcr82/pcr, dcr81/pcr, dcr80/pcr, 
             dcr79/pcr, dcr78/pcr, dcr77/pcr, dcr76/pcr, dcr75/pcr, dcr74/pcr, dcr73/pcr, dcr72/pcr, dcr71/pcr, dcr70/pcr, 
-            dcr69/pcr, dcr68/pcr, dcr67/pcr, dcr66/pcr)
+            dcr69/pcr, dcr68/pcr, dcr67/pcr, dcr66/pcr, dcr65/pcr, dcr64/pcr, dcr63/pcr, dcr62/pcr, dcr61/pcr, dcr60/pcr,
+            dcr59/pcr, dcr58/pcr, dcr57/pcr, dcr56/pcr, dcr55/pcr, dcr54/pcr, dcr53/pcr, dcr52/pcr, dcr51/pcr, dcr50/pcr,
+            dcr49/pcr, dcr48/pcr, dcr47/pcr, dcr46/pcr, dcr45/pcr, dcr44/pcr, dcr43/pcr, dcr42/pcr, dcr41/pcr, dcr40/pcr,
+            dcr39/pcr, dcr38/pcr, dcr37/pcr, dcr36/pcr, dcr35/pcr, dcr34/pcr, dcr33/pcr, dcr32/pcr, dcr31/pcr, dcr30/pcr,
+            dcr29/pcr, dcr28/pcr, dcr27/pcr, dcr26/pcr, dcr25/pcr, dcr24/pcr, dcr23/pcr, dcr22/pcr, dcr21/pcr, dcr20/pcr,
+            dcr19/pcr, dcr18/pcr, dcr17/pcr, dcr16/pcr, dcr15/pcr, dcr14/pcr, dcr13/pcr, dcr12/pcr, dcr11/pcr, dcr10/pcr,
+            dcr09/pcr, dcr08/pcr, dcr07/pcr)
 )
 
 # ***** BOLIVAR *****
+nbo162 <- bolivar22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nbo161 <- bolivar22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nbo160 <- bolivar22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nbo159 <- bolivar22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nbo158 <- bolivar22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -12831,6 +14572,10 @@ nbo01 <- bolivar22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dbo162 <- mean(c(nbo162$tn, nbo161$tn, nbo160$tn, nbo159$tn, nbo158$tn, nbo157$tn, nbo156$tn))
+dbo161 <- mean(c(nbo161$tn, nbo160$tn, nbo159$tn, nbo158$tn, nbo157$tn, nbo156$tn, nbo155$tn))
+dbo160 <- mean(c(nbo160$tn, nbo159$tn, nbo158$tn, nbo157$tn, nbo156$tn, nbo155$tn, nbo154$tn))
+dbo159 <- mean(c(nbo159$tn, nbo158$tn, nbo157$tn, nbo156$tn, nbo155$tn, nbo154$tn, nbo153$tn))
 dbo158 <- mean(c(nbo158$tn, nbo157$tn, nbo156$tn, nbo155$tn, nbo154$tn, nbo153$tn, nbo152$tn))
 dbo157 <- mean(c(nbo157$tn, nbo156$tn, nbo155$tn, nbo154$tn, nbo153$tn, nbo152$tn, nbo151$tn))
 dbo156 <- mean(c(nbo156$tn, nbo155$tn, nbo154$tn, nbo153$tn, nbo152$tn, nbo151$tn, nbo150$tn))
@@ -12924,10 +14669,70 @@ dbo69 <- mean(c(nbo69$tn, nbo68$tn, nbo67$tn, nbo66$tn, nbo65$tn, nbo64$tn, nbo6
 dbo68 <- mean(c(nbo68$tn, nbo67$tn, nbo66$tn, nbo65$tn, nbo64$tn, nbo63$tn, nbo62$tn))
 dbo67 <- mean(c(nbo67$tn, nbo66$tn, nbo65$tn, nbo64$tn, nbo63$tn, nbo62$tn, nbo61$tn))
 dbo66 <- mean(c(nbo66$tn, nbo65$tn, nbo64$tn, nbo63$tn, nbo62$tn, nbo61$tn, nbo60$tn))
+dbo65 <- mean(c(nbo65$tn, nbo64$tn, nbo63$tn, nbo62$tn, nbo61$tn, nbo60$tn, nbo59$tn))
+dbo64 <- mean(c(nbo64$tn, nbo63$tn, nbo62$tn, nbo61$tn, nbo60$tn, nbo59$tn, nbo58$tn))
+dbo63 <- mean(c(nbo63$tn, nbo62$tn, nbo61$tn, nbo60$tn, nbo59$tn, nbo58$tn, nbo57$tn))
+dbo62 <- mean(c(nbo62$tn, nbo61$tn, nbo60$tn, nbo59$tn, nbo58$tn, nbo57$tn, nbo56$tn))
+dbo61 <- mean(c(nbo61$tn, nbo60$tn, nbo59$tn, nbo58$tn, nbo57$tn, nbo56$tn, nbo55$tn))
+dbo60 <- mean(c(nbo60$tn, nbo59$tn, nbo58$tn, nbo57$tn, nbo56$tn, nbo55$tn, nbo54$tn))
+dbo59 <- mean(c(nbo59$tn, nbo58$tn, nbo57$tn, nbo56$tn, nbo55$tn, nbo54$tn, nbo53$tn))
+dbo58 <- mean(c(nbo58$tn, nbo57$tn, nbo56$tn, nbo55$tn, nbo54$tn, nbo53$tn, nbo52$tn))
+dbo57 <- mean(c(nbo57$tn, nbo56$tn, nbo55$tn, nbo54$tn, nbo53$tn, nbo52$tn, nbo51$tn))
+dbo56 <- mean(c(nbo56$tn, nbo55$tn, nbo54$tn, nbo53$tn, nbo52$tn, nbo51$tn, nbo50$tn))
+dbo55 <- mean(c(nbo55$tn, nbo54$tn, nbo53$tn, nbo52$tn, nbo51$tn, nbo50$tn, nbo49$tn))
+dbo54 <- mean(c(nbo54$tn, nbo53$tn, nbo52$tn, nbo51$tn, nbo50$tn, nbo49$tn, nbo48$tn))
+dbo53 <- mean(c(nbo53$tn, nbo52$tn, nbo51$tn, nbo50$tn, nbo49$tn, nbo48$tn, nbo47$tn))
+dbo52 <- mean(c(nbo52$tn, nbo51$tn, nbo50$tn, nbo49$tn, nbo48$tn, nbo47$tn, nbo46$tn))
+dbo51 <- mean(c(nbo51$tn, nbo50$tn, nbo49$tn, nbo48$tn, nbo47$tn, nbo46$tn, nbo45$tn))
+dbo50 <- mean(c(nbo50$tn, nbo49$tn, nbo48$tn, nbo47$tn, nbo46$tn, nbo45$tn, nbo44$tn))
+dbo49 <- mean(c(nbo49$tn, nbo48$tn, nbo47$tn, nbo46$tn, nbo45$tn, nbo44$tn, nbo43$tn))
+dbo48 <- mean(c(nbo48$tn, nbo47$tn, nbo46$tn, nbo45$tn, nbo44$tn, nbo43$tn, nbo42$tn))
+dbo47 <- mean(c(nbo47$tn, nbo46$tn, nbo45$tn, nbo44$tn, nbo43$tn, nbo42$tn, nbo41$tn))
+dbo46 <- mean(c(nbo46$tn, nbo45$tn, nbo44$tn, nbo43$tn, nbo42$tn, nbo41$tn, nbo40$tn))
+dbo45 <- mean(c(nbo45$tn, nbo44$tn, nbo43$tn, nbo42$tn, nbo41$tn, nbo40$tn, nbo39$tn))
+dbo44 <- mean(c(nbo44$tn, nbo43$tn, nbo42$tn, nbo41$tn, nbo40$tn, nbo39$tn, nbo38$tn))
+dbo43 <- mean(c(nbo43$tn, nbo42$tn, nbo41$tn, nbo40$tn, nbo39$tn, nbo38$tn, nbo37$tn))
+dbo42 <- mean(c(nbo42$tn, nbo41$tn, nbo40$tn, nbo39$tn, nbo38$tn, nbo37$tn, nbo36$tn))
+dbo41 <- mean(c(nbo41$tn, nbo40$tn, nbo39$tn, nbo38$tn, nbo37$tn, nbo36$tn, nbo35$tn))
+dbo40 <- mean(c(nbo40$tn, nbo39$tn, nbo38$tn, nbo37$tn, nbo36$tn, nbo35$tn, nbo34$tn))
+dbo39 <- mean(c(nbo39$tn, nbo38$tn, nbo37$tn, nbo36$tn, nbo35$tn, nbo34$tn, nbo33$tn))
+dbo38 <- mean(c(nbo38$tn, nbo37$tn, nbo36$tn, nbo35$tn, nbo34$tn, nbo33$tn, nbo32$tn))
+dbo37 <- mean(c(nbo37$tn, nbo36$tn, nbo35$tn, nbo34$tn, nbo33$tn, nbo32$tn, nbo31$tn))
+dbo36 <- mean(c(nbo36$tn, nbo35$tn, nbo34$tn, nbo33$tn, nbo32$tn, nbo31$tn, nbo30$tn))
+dbo35 <- mean(c(nbo35$tn, nbo34$tn, nbo33$tn, nbo32$tn, nbo31$tn, nbo30$tn, nbo29$tn))
+dbo34 <- mean(c(nbo34$tn, nbo33$tn, nbo32$tn, nbo31$tn, nbo30$tn, nbo29$tn, nbo28$tn))
+dbo33 <- mean(c(nbo33$tn, nbo32$tn, nbo31$tn, nbo30$tn, nbo29$tn, nbo28$tn, nbo27$tn))
+dbo32 <- mean(c(nbo32$tn, nbo31$tn, nbo30$tn, nbo29$tn, nbo28$tn, nbo27$tn, nbo26$tn))
+dbo31 <- mean(c(nbo31$tn, nbo30$tn, nbo29$tn, nbo28$tn, nbo27$tn, nbo26$tn, nbo25$tn))
+dbo30 <- mean(c(nbo30$tn, nbo29$tn, nbo28$tn, nbo27$tn, nbo26$tn, nbo25$tn, nbo24$tn))
+dbo29 <- mean(c(nbo29$tn, nbo28$tn, nbo27$tn, nbo26$tn, nbo25$tn, nbo24$tn, nbo23$tn))
+dbo28 <- mean(c(nbo28$tn, nbo27$tn, nbo26$tn, nbo25$tn, nbo24$tn, nbo23$tn, nbo22$tn))
+dbo27 <- mean(c(nbo27$tn, nbo26$tn, nbo25$tn, nbo24$tn, nbo23$tn, nbo22$tn, nbo21$tn))
+dbo26 <- mean(c(nbo26$tn, nbo25$tn, nbo24$tn, nbo23$tn, nbo22$tn, nbo21$tn, nbo20$tn))
+dbo25 <- mean(c(nbo25$tn, nbo24$tn, nbo23$tn, nbo22$tn, nbo21$tn, nbo20$tn, nbo19$tn))
+dbo24 <- mean(c(nbo24$tn, nbo23$tn, nbo22$tn, nbo21$tn, nbo20$tn, nbo19$tn, nbo18$tn))
+dbo23 <- mean(c(nbo23$tn, nbo22$tn, nbo21$tn, nbo20$tn, nbo19$tn, nbo18$tn, nbo17$tn))
+dbo22 <- mean(c(nbo22$tn, nbo21$tn, nbo20$tn, nbo19$tn, nbo18$tn, nbo17$tn, nbo16$tn))
+dbo21 <- mean(c(nbo21$tn, nbo20$tn, nbo19$tn, nbo18$tn, nbo17$tn, nbo16$tn, nbo15$tn))
+dbo20 <- mean(c(nbo20$tn, nbo19$tn, nbo18$tn, nbo17$tn, nbo16$tn, nbo15$tn, nbo14$tn))
+dbo19 <- mean(c(nbo19$tn, nbo18$tn, nbo17$tn, nbo16$tn, nbo15$tn, nbo14$tn, nbo13$tn))
+dbo18 <- mean(c(nbo18$tn, nbo17$tn, nbo16$tn, nbo15$tn, nbo14$tn, nbo13$tn, nbo12$tn))
+dbo17 <- mean(c(nbo17$tn, nbo16$tn, nbo15$tn, nbo14$tn, nbo13$tn, nbo12$tn, nbo11$tn))
+dbo16 <- mean(c(nbo16$tn, nbo15$tn, nbo14$tn, nbo13$tn, nbo12$tn, nbo11$tn, nbo10$tn))
+dbo15 <- mean(c(nbo15$tn, nbo14$tn, nbo13$tn, nbo12$tn, nbo11$tn, nbo10$tn, nbo09$tn))
+dbo14 <- mean(c(nbo14$tn, nbo13$tn, nbo12$tn, nbo11$tn, nbo10$tn, nbo09$tn, nbo08$tn))
+dbo13 <- mean(c(nbo13$tn, nbo12$tn, nbo11$tn, nbo10$tn, nbo09$tn, nbo08$tn, nbo07$tn))
+dbo12 <- mean(c(nbo12$tn, nbo11$tn, nbo10$tn, nbo09$tn, nbo08$tn, nbo07$tn, nbo06$tn))
+dbo11 <- mean(c(nbo11$tn, nbo10$tn, nbo09$tn, nbo08$tn, nbo07$tn, nbo06$tn, nbo05$tn))
+dbo10 <- mean(c(nbo10$tn, nbo09$tn, nbo08$tn, nbo07$tn, nbo06$tn, nbo05$tn, nbo04$tn))
+dbo09 <- mean(c(nbo09$tn, nbo08$tn, nbo07$tn, nbo06$tn, nbo05$tn, nbo04$tn, nbo03$tn))
+dbo08 <- mean(c(nbo08$tn, nbo07$tn, nbo06$tn, nbo05$tn, nbo04$tn, nbo03$tn, nbo02$tn))
+dbo07 <- mean(c(nbo07$tn, nbo06$tn, nbo05$tn, nbo04$tn, nbo03$tn, nbo02$tn, nbo01$tn))
 
 dfbo <- data_frame(
   fecha,
-  dncbo = c(dbo158/pbo, dbo157/pbo, dbo156/pbo, dbo155/pbo, dbo154/pbo, dbo153/pbo, dbo152/pbo, dbo151/pbo, dbo150/pbo,
+  dncbo = c(dbo162/pbo, dbo161/pbo, dbo160/pbo, 
+            dbo159/pbo, dbo158/pbo, dbo157/pbo, dbo156/pbo, dbo155/pbo, dbo154/pbo, dbo153/pbo, dbo152/pbo, dbo151/pbo, dbo150/pbo,
             dbo149/pbo, dbo148/pbo, dbo147/pbo, dbo146/pbo, dbo145/pbo, dbo144/pbo, dbo143/pbo, dbo142/pbo, dbo141/pbo, dbo140/pbo, 
             dbo139/pbo, dbo138/pbo, dbo137/pbo, dbo136/pbo, dbo135/pbo, dbo134/pbo, dbo133/pbo, dbo132/pbo, dbo131/pbo, dbo130/pbo, 
             dbo129/pbo, dbo128/pbo, dbo127/pbo, dbo126/pbo, dbo125/pbo, dbo124/pbo, dbo123/pbo, dbo122/pbo, dbo121/pbo, dbo120/pbo, 
@@ -12936,10 +14741,28 @@ dfbo <- data_frame(
             dbo99/pbo, dbo98/pbo, dbo97/pbo, dbo96/pbo, dbo95/pbo, dbo94/pbo, dbo93/pbo, dbo92/pbo, dbo91/pbo, dbo90/pbo, 
             dbo89/pbo, dbo88/pbo, dbo87/pbo, dbo86/pbo, dbo85/pbo, dbo84/pbo, dbo83/pbo, dbo82/pbo, dbo81/pbo, dbo80/pbo, 
             dbo79/pbo, dbo78/pbo, dbo77/pbo, dbo76/pbo, dbo75/pbo, dbo74/pbo, dbo73/pbo, dbo72/pbo, dbo71/pbo, dbo70/pbo, 
-            dbo69/pbo, dbo68/pbo, dbo67/pbo, dbo66/pbo)
+            dbo69/pbo, dbo68/pbo, dbo67/pbo, dbo66/pbo, dbo65/pbo, dbo64/pbo, dbo63/pbo, dbo62/pbo, dbo61/pbo, dbo60/pbo,
+            dbo59/pbo, dbo58/pbo, dbo57/pbo, dbo56/pbo, dbo55/pbo, dbo54/pbo, dbo53/pbo, dbo52/pbo, dbo51/pbo, dbo50/pbo,
+            dbo49/pbo, dbo48/pbo, dbo47/pbo, dbo46/pbo, dbo45/pbo, dbo44/pbo, dbo43/pbo, dbo42/pbo, dbo41/pbo, dbo40/pbo,
+            dbo39/pbo, dbo38/pbo, dbo37/pbo, dbo36/pbo, dbo35/pbo, dbo34/pbo, dbo33/pbo, dbo32/pbo, dbo31/pbo, dbo30/pbo,
+            dbo29/pbo, dbo28/pbo, dbo27/pbo, dbo26/pbo, dbo25/pbo, dbo24/pbo, dbo23/pbo, dbo22/pbo, dbo21/pbo, dbo20/pbo,
+            dbo19/pbo, dbo18/pbo, dbo17/pbo, dbo16/pbo, dbo15/pbo, dbo14/pbo, dbo13/pbo, dbo12/pbo, dbo11/pbo, dbo10/pbo,
+            dbo09/pbo, dbo08/pbo, dbo07/pbo)
 )
 
 # ***** STO DOMINGO *****
+nst162 <- stodomingo22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nst161 <- stodomingo22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nst160 <- stodomingo22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nst159 <- stodomingo22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nst158 <- stodomingo22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -13415,6 +15238,10 @@ nst01 <- stodomingo22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dst162 <- mean(c(nst162$tn, nst161$tn, nst160$tn, nst159$tn, nst158$tn, nst157$tn, nst156$tn))
+dst161 <- mean(c(nst161$tn, nst160$tn, nst159$tn, nst158$tn, nst157$tn, nst156$tn, nst155$tn))
+dst160 <- mean(c(nst160$tn, nst159$tn, nst158$tn, nst157$tn, nst156$tn, nst155$tn, nst154$tn))
+dst159 <- mean(c(nst159$tn, nst158$tn, nst157$tn, nst156$tn, nst155$tn, nst154$tn, nst153$tn))
 dst158 <- mean(c(nst158$tn, nst157$tn, nst156$tn, nst155$tn, nst154$tn, nst153$tn, nst152$tn))
 dst157 <- mean(c(nst157$tn, nst156$tn, nst155$tn, nst154$tn, nst153$tn, nst152$tn, nst151$tn))
 dst156 <- mean(c(nst156$tn, nst155$tn, nst154$tn, nst153$tn, nst152$tn, nst151$tn, nst150$tn))
@@ -13508,10 +15335,70 @@ dst69 <- mean(c(nst69$tn, nst68$tn, nst67$tn, nst66$tn, nst65$tn, nst64$tn, nst6
 dst68 <- mean(c(nst68$tn, nst67$tn, nst66$tn, nst65$tn, nst64$tn, nst63$tn, nst62$tn))
 dst67 <- mean(c(nst67$tn, nst66$tn, nst65$tn, nst64$tn, nst63$tn, nst62$tn, nst61$tn))
 dst66 <- mean(c(nst66$tn, nst65$tn, nst64$tn, nst63$tn, nst62$tn, nst61$tn, nst60$tn))
+dst65 <- mean(c(nst65$tn, nst64$tn, nst63$tn, nst62$tn, nst61$tn, nst60$tn, nst59$tn))
+dst64 <- mean(c(nst64$tn, nst63$tn, nst62$tn, nst61$tn, nst60$tn, nst59$tn, nst58$tn))
+dst63 <- mean(c(nst63$tn, nst62$tn, nst61$tn, nst60$tn, nst59$tn, nst58$tn, nst57$tn))
+dst62 <- mean(c(nst62$tn, nst61$tn, nst60$tn, nst59$tn, nst58$tn, nst57$tn, nst56$tn))
+dst61 <- mean(c(nst61$tn, nst60$tn, nst59$tn, nst58$tn, nst57$tn, nst56$tn, nst55$tn))
+dst60 <- mean(c(nst60$tn, nst59$tn, nst58$tn, nst57$tn, nst56$tn, nst55$tn, nst54$tn))
+dst59 <- mean(c(nst59$tn, nst58$tn, nst57$tn, nst56$tn, nst55$tn, nst54$tn, nst53$tn))
+dst58 <- mean(c(nst58$tn, nst57$tn, nst56$tn, nst55$tn, nst54$tn, nst53$tn, nst52$tn))
+dst57 <- mean(c(nst57$tn, nst56$tn, nst55$tn, nst54$tn, nst53$tn, nst52$tn, nst51$tn))
+dst56 <- mean(c(nst56$tn, nst55$tn, nst54$tn, nst53$tn, nst52$tn, nst51$tn, nst50$tn))
+dst55 <- mean(c(nst55$tn, nst54$tn, nst53$tn, nst52$tn, nst51$tn, nst50$tn, nst49$tn))
+dst54 <- mean(c(nst54$tn, nst53$tn, nst52$tn, nst51$tn, nst50$tn, nst49$tn, nst48$tn))
+dst53 <- mean(c(nst53$tn, nst52$tn, nst51$tn, nst50$tn, nst49$tn, nst48$tn, nst47$tn))
+dst52 <- mean(c(nst52$tn, nst51$tn, nst50$tn, nst49$tn, nst48$tn, nst47$tn, nst46$tn))
+dst51 <- mean(c(nst51$tn, nst50$tn, nst49$tn, nst48$tn, nst47$tn, nst46$tn, nst45$tn))
+dst50 <- mean(c(nst50$tn, nst49$tn, nst48$tn, nst47$tn, nst46$tn, nst45$tn, nst44$tn))
+dst49 <- mean(c(nst49$tn, nst48$tn, nst47$tn, nst46$tn, nst45$tn, nst44$tn, nst43$tn))
+dst48 <- mean(c(nst48$tn, nst47$tn, nst46$tn, nst45$tn, nst44$tn, nst43$tn, nst42$tn))
+dst47 <- mean(c(nst47$tn, nst46$tn, nst45$tn, nst44$tn, nst43$tn, nst42$tn, nst41$tn))
+dst46 <- mean(c(nst46$tn, nst45$tn, nst44$tn, nst43$tn, nst42$tn, nst41$tn, nst40$tn))
+dst45 <- mean(c(nst45$tn, nst44$tn, nst43$tn, nst42$tn, nst41$tn, nst40$tn, nst39$tn))
+dst44 <- mean(c(nst44$tn, nst43$tn, nst42$tn, nst41$tn, nst40$tn, nst39$tn, nst38$tn))
+dst43 <- mean(c(nst43$tn, nst42$tn, nst41$tn, nst40$tn, nst39$tn, nst38$tn, nst37$tn))
+dst42 <- mean(c(nst42$tn, nst41$tn, nst40$tn, nst39$tn, nst38$tn, nst37$tn, nst36$tn))
+dst41 <- mean(c(nst41$tn, nst40$tn, nst39$tn, nst38$tn, nst37$tn, nst36$tn, nst35$tn))
+dst40 <- mean(c(nst40$tn, nst39$tn, nst38$tn, nst37$tn, nst36$tn, nst35$tn, nst34$tn))
+dst39 <- mean(c(nst39$tn, nst38$tn, nst37$tn, nst36$tn, nst35$tn, nst34$tn, nst33$tn))
+dst38 <- mean(c(nst38$tn, nst37$tn, nst36$tn, nst35$tn, nst34$tn, nst33$tn, nst32$tn))
+dst37 <- mean(c(nst37$tn, nst36$tn, nst35$tn, nst34$tn, nst33$tn, nst32$tn, nst31$tn))
+dst36 <- mean(c(nst36$tn, nst35$tn, nst34$tn, nst33$tn, nst32$tn, nst31$tn, nst30$tn))
+dst35 <- mean(c(nst35$tn, nst34$tn, nst33$tn, nst32$tn, nst31$tn, nst30$tn, nst29$tn))
+dst34 <- mean(c(nst34$tn, nst33$tn, nst32$tn, nst31$tn, nst30$tn, nst29$tn, nst28$tn))
+dst33 <- mean(c(nst33$tn, nst32$tn, nst31$tn, nst30$tn, nst29$tn, nst28$tn, nst27$tn))
+dst32 <- mean(c(nst32$tn, nst31$tn, nst30$tn, nst29$tn, nst28$tn, nst27$tn, nst26$tn))
+dst31 <- mean(c(nst31$tn, nst30$tn, nst29$tn, nst28$tn, nst27$tn, nst26$tn, nst25$tn))
+dst30 <- mean(c(nst30$tn, nst29$tn, nst28$tn, nst27$tn, nst26$tn, nst25$tn, nst24$tn))
+dst29 <- mean(c(nst29$tn, nst28$tn, nst27$tn, nst26$tn, nst25$tn, nst24$tn, nst23$tn))
+dst28 <- mean(c(nst28$tn, nst27$tn, nst26$tn, nst25$tn, nst24$tn, nst23$tn, nst22$tn))
+dst27 <- mean(c(nst27$tn, nst26$tn, nst25$tn, nst24$tn, nst23$tn, nst22$tn, nst21$tn))
+dst26 <- mean(c(nst26$tn, nst25$tn, nst24$tn, nst23$tn, nst22$tn, nst21$tn, nst20$tn))
+dst25 <- mean(c(nst25$tn, nst24$tn, nst23$tn, nst22$tn, nst21$tn, nst20$tn, nst19$tn))
+dst24 <- mean(c(nst24$tn, nst23$tn, nst22$tn, nst21$tn, nst20$tn, nst19$tn, nst18$tn))
+dst23 <- mean(c(nst23$tn, nst22$tn, nst21$tn, nst20$tn, nst19$tn, nst18$tn, nst17$tn))
+dst22 <- mean(c(nst22$tn, nst21$tn, nst20$tn, nst19$tn, nst18$tn, nst17$tn, nst16$tn))
+dst21 <- mean(c(nst21$tn, nst20$tn, nst19$tn, nst18$tn, nst17$tn, nst16$tn, nst15$tn))
+dst20 <- mean(c(nst20$tn, nst19$tn, nst18$tn, nst17$tn, nst16$tn, nst15$tn, nst14$tn))
+dst19 <- mean(c(nst19$tn, nst18$tn, nst17$tn, nst16$tn, nst15$tn, nst14$tn, nst13$tn))
+dst18 <- mean(c(nst18$tn, nst17$tn, nst16$tn, nst15$tn, nst14$tn, nst13$tn, nst12$tn))
+dst17 <- mean(c(nst17$tn, nst16$tn, nst15$tn, nst14$tn, nst13$tn, nst12$tn, nst11$tn))
+dst16 <- mean(c(nst16$tn, nst15$tn, nst14$tn, nst13$tn, nst12$tn, nst11$tn, nst10$tn))
+dst15 <- mean(c(nst15$tn, nst14$tn, nst13$tn, nst12$tn, nst11$tn, nst10$tn, nst09$tn))
+dst14 <- mean(c(nst14$tn, nst13$tn, nst12$tn, nst11$tn, nst10$tn, nst09$tn, nst08$tn))
+dst13 <- mean(c(nst13$tn, nst12$tn, nst11$tn, nst10$tn, nst09$tn, nst08$tn, nst07$tn))
+dst12 <- mean(c(nst12$tn, nst11$tn, nst10$tn, nst09$tn, nst08$tn, nst07$tn, nst06$tn))
+dst11 <- mean(c(nst11$tn, nst10$tn, nst09$tn, nst08$tn, nst07$tn, nst06$tn, nst05$tn))
+dst10 <- mean(c(nst10$tn, nst09$tn, nst08$tn, nst07$tn, nst06$tn, nst05$tn, nst04$tn))
+dst09 <- mean(c(nst09$tn, nst08$tn, nst07$tn, nst06$tn, nst05$tn, nst04$tn, nst03$tn))
+dst08 <- mean(c(nst08$tn, nst07$tn, nst06$tn, nst05$tn, nst04$tn, nst03$tn, nst02$tn))
+dst07 <- mean(c(nst07$tn, nst06$tn, nst05$tn, nst04$tn, nst03$tn, nst02$tn, nst01$tn))
 
 dfst <- data_frame(
   fecha,
-  dncst = c(dst158/pst, dst157/pst, dst156/pst, dst155/pst, dst154/pst, dst153/pst, dst152/pst, dst151/pst, dst150/pst,
+  dncst = c(dst162/pst, dst161/pst, dst160/pst, 
+            dst159/pst, dst158/pst, dst157/pst, dst156/pst, dst155/pst, dst154/pst, dst153/pst, dst152/pst, dst151/pst, dst150/pst,
             dst149/pst, dst148/pst, dst147/pst, dst146/pst, dst145/pst, dst144/pst, dst143/pst, dst142/pst, dst141/pst, dst140/pst, 
             dst139/pst, dst138/pst, dst137/pst, dst136/pst, dst135/pst, dst134/pst, dst133/pst, dst132/pst, dst131/pst, dst130/pst, 
             dst129/pst, dst128/pst, dst127/pst, dst126/pst, dst125/pst, dst124/pst, dst123/pst, dst122/pst, dst121/pst, dst120/pst, 
@@ -13520,10 +15407,28 @@ dfst <- data_frame(
             dst99/pst, dst98/pst, dst97/pst, dst96/pst, dst95/pst, dst94/pst, dst93/pst, dst92/pst, dst91/pst, dst90/pst, 
             dst89/pst, dst88/pst, dst87/pst, dst86/pst, dst85/pst, dst84/pst, dst83/pst, dst82/pst, dst81/pst, dst80/pst, 
             dst79/pst, dst78/pst, dst77/pst, dst76/pst, dst75/pst, dst74/pst, dst73/pst, dst72/pst, dst71/pst, dst70/pst, 
-            dst69/pst, dst68/pst, dst67/pst, dst66/pst)
+            dst69/pst, dst68/pst, dst67/pst, dst66/pst, dst65/pst, dst64/pst, dst63/pst, dst62/pst, dst61/pst, dst60/pst,
+            dst59/pst, dst58/pst, dst57/pst, dst56/pst, dst55/pst, dst54/pst, dst53/pst, dst52/pst, dst51/pst, dst50/pst,
+            dst49/pst, dst48/pst, dst47/pst, dst46/pst, dst45/pst, dst44/pst, dst43/pst, dst42/pst, dst41/pst, dst40/pst,
+            dst39/pst, dst38/pst, dst37/pst, dst36/pst, dst35/pst, dst34/pst, dst33/pst, dst32/pst, dst31/pst, dst30/pst,
+            dst29/pst, dst28/pst, dst27/pst, dst26/pst, dst25/pst, dst24/pst, dst23/pst, dst22/pst, dst21/pst, dst20/pst,
+            dst19/pst, dst18/pst, dst17/pst, dst16/pst, dst15/pst, dst14/pst, dst13/pst, dst12/pst, dst11/pst, dst10/pst,
+            dst09/pst, dst08/pst, dst07/pst)
 )
 
 # ***** STA ELENA *****
+nea162 <- staelena22 %>%
+  filter(created_at == "2022-06-11") %>%
+  summarise(tn = sum(nuevas))
+nea161 <- staelena22 %>%
+  filter(created_at == "2022-06-10") %>%
+  summarise(tn = sum(nuevas))
+nea160 <- staelena22 %>%
+  filter(created_at == "2022-06-09") %>%
+  summarise(tn = sum(nuevas))
+nea159 <- staelena22 %>%
+  filter(created_at == "2022-06-08") %>%
+  summarise(tn = sum(nuevas))
 nea158 <- staelena22 %>%
   filter(created_at == "2022-06-07") %>%
   summarise(tn = sum(nuevas))
@@ -13999,6 +15904,10 @@ nea01 <- staelena22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dea162 <- mean(c(nea162$tn, nea161$tn, nea160$tn, nea159$tn, nea158$tn, nea157$tn, nea156$tn))
+dea161 <- mean(c(nea161$tn, nea160$tn, nea159$tn, nea158$tn, nea157$tn, nea156$tn, nea155$tn))
+dea160 <- mean(c(nea160$tn, nea159$tn, nea158$tn, nea157$tn, nea156$tn, nea155$tn, nea154$tn))
+dea159 <- mean(c(nea159$tn, nea158$tn, nea157$tn, nea156$tn, nea155$tn, nea154$tn, nea153$tn))
 dea158 <- mean(c(nea158$tn, nea157$tn, nea156$tn, nea155$tn, nea154$tn, nea153$tn, nea152$tn))
 dea157 <- mean(c(nea157$tn, nea156$tn, nea155$tn, nea154$tn, nea153$tn, nea152$tn, nea151$tn))
 dea156 <- mean(c(nea156$tn, nea155$tn, nea154$tn, nea153$tn, nea152$tn, nea151$tn, nea150$tn))
@@ -14092,10 +16001,70 @@ dea69 <- mean(c(nea69$tn, nea68$tn, nea67$tn, nea66$tn, nea65$tn, nea64$tn, nea6
 dea68 <- mean(c(nea68$tn, nea67$tn, nea66$tn, nea65$tn, nea64$tn, nea63$tn, nea62$tn))
 dea67 <- mean(c(nea67$tn, nea66$tn, nea65$tn, nea64$tn, nea63$tn, nea62$tn, nea61$tn))
 dea66 <- mean(c(nea66$tn, nea65$tn, nea64$tn, nea63$tn, nea62$tn, nea61$tn, nea60$tn))
+dea65 <- mean(c(nea65$tn, nea64$tn, nea63$tn, nea62$tn, nea61$tn, nea60$tn, nea59$tn))
+dea64 <- mean(c(nea64$tn, nea63$tn, nea62$tn, nea61$tn, nea60$tn, nea59$tn, nea58$tn))
+dea63 <- mean(c(nea63$tn, nea62$tn, nea61$tn, nea60$tn, nea59$tn, nea58$tn, nea57$tn))
+dea62 <- mean(c(nea62$tn, nea61$tn, nea60$tn, nea59$tn, nea58$tn, nea57$tn, nea56$tn))
+dea61 <- mean(c(nea61$tn, nea60$tn, nea59$tn, nea58$tn, nea57$tn, nea56$tn, nea55$tn))
+dea60 <- mean(c(nea60$tn, nea59$tn, nea58$tn, nea57$tn, nea56$tn, nea55$tn, nea54$tn))
+dea59 <- mean(c(nea59$tn, nea58$tn, nea57$tn, nea56$tn, nea55$tn, nea54$tn, nea53$tn))
+dea58 <- mean(c(nea58$tn, nea57$tn, nea56$tn, nea55$tn, nea54$tn, nea53$tn, nea52$tn))
+dea57 <- mean(c(nea57$tn, nea56$tn, nea55$tn, nea54$tn, nea53$tn, nea52$tn, nea51$tn))
+dea56 <- mean(c(nea56$tn, nea55$tn, nea54$tn, nea53$tn, nea52$tn, nea51$tn, nea50$tn))
+dea55 <- mean(c(nea55$tn, nea54$tn, nea53$tn, nea52$tn, nea51$tn, nea50$tn, nea49$tn))
+dea54 <- mean(c(nea54$tn, nea53$tn, nea52$tn, nea51$tn, nea50$tn, nea49$tn, nea48$tn))
+dea53 <- mean(c(nea53$tn, nea52$tn, nea51$tn, nea50$tn, nea49$tn, nea48$tn, nea47$tn))
+dea52 <- mean(c(nea52$tn, nea51$tn, nea50$tn, nea49$tn, nea48$tn, nea47$tn, nea46$tn))
+dea51 <- mean(c(nea51$tn, nea50$tn, nea49$tn, nea48$tn, nea47$tn, nea46$tn, nea45$tn))
+dea50 <- mean(c(nea50$tn, nea49$tn, nea48$tn, nea47$tn, nea46$tn, nea45$tn, nea44$tn))
+dea49 <- mean(c(nea49$tn, nea48$tn, nea47$tn, nea46$tn, nea45$tn, nea44$tn, nea43$tn))
+dea48 <- mean(c(nea48$tn, nea47$tn, nea46$tn, nea45$tn, nea44$tn, nea43$tn, nea42$tn))
+dea47 <- mean(c(nea47$tn, nea46$tn, nea45$tn, nea44$tn, nea43$tn, nea42$tn, nea41$tn))
+dea46 <- mean(c(nea46$tn, nea45$tn, nea44$tn, nea43$tn, nea42$tn, nea41$tn, nea40$tn))
+dea45 <- mean(c(nea45$tn, nea44$tn, nea43$tn, nea42$tn, nea41$tn, nea40$tn, nea39$tn))
+dea44 <- mean(c(nea44$tn, nea43$tn, nea42$tn, nea41$tn, nea40$tn, nea39$tn, nea38$tn))
+dea43 <- mean(c(nea43$tn, nea42$tn, nea41$tn, nea40$tn, nea39$tn, nea38$tn, nea37$tn))
+dea42 <- mean(c(nea42$tn, nea41$tn, nea40$tn, nea39$tn, nea38$tn, nea37$tn, nea36$tn))
+dea41 <- mean(c(nea41$tn, nea40$tn, nea39$tn, nea38$tn, nea37$tn, nea36$tn, nea35$tn))
+dea40 <- mean(c(nea40$tn, nea39$tn, nea38$tn, nea37$tn, nea36$tn, nea35$tn, nea34$tn))
+dea39 <- mean(c(nea39$tn, nea38$tn, nea37$tn, nea36$tn, nea35$tn, nea34$tn, nea33$tn))
+dea38 <- mean(c(nea38$tn, nea37$tn, nea36$tn, nea35$tn, nea34$tn, nea33$tn, nea32$tn))
+dea37 <- mean(c(nea37$tn, nea36$tn, nea35$tn, nea34$tn, nea33$tn, nea32$tn, nea31$tn))
+dea36 <- mean(c(nea36$tn, nea35$tn, nea34$tn, nea33$tn, nea32$tn, nea31$tn, nea30$tn))
+dea35 <- mean(c(nea35$tn, nea34$tn, nea33$tn, nea32$tn, nea31$tn, nea30$tn, nea29$tn))
+dea34 <- mean(c(nea34$tn, nea33$tn, nea32$tn, nea31$tn, nea30$tn, nea29$tn, nea28$tn))
+dea33 <- mean(c(nea33$tn, nea32$tn, nea31$tn, nea30$tn, nea29$tn, nea28$tn, nea27$tn))
+dea32 <- mean(c(nea32$tn, nea31$tn, nea30$tn, nea29$tn, nea28$tn, nea27$tn, nea26$tn))
+dea31 <- mean(c(nea31$tn, nea30$tn, nea29$tn, nea28$tn, nea27$tn, nea26$tn, nea25$tn))
+dea30 <- mean(c(nea30$tn, nea29$tn, nea28$tn, nea27$tn, nea26$tn, nea25$tn, nea24$tn))
+dea29 <- mean(c(nea29$tn, nea28$tn, nea27$tn, nea26$tn, nea25$tn, nea24$tn, nea23$tn))
+dea28 <- mean(c(nea28$tn, nea27$tn, nea26$tn, nea25$tn, nea24$tn, nea23$tn, nea22$tn))
+dea27 <- mean(c(nea27$tn, nea26$tn, nea25$tn, nea24$tn, nea23$tn, nea22$tn, nea21$tn))
+dea26 <- mean(c(nea26$tn, nea25$tn, nea24$tn, nea23$tn, nea22$tn, nea21$tn, nea20$tn))
+dea25 <- mean(c(nea25$tn, nea24$tn, nea23$tn, nea22$tn, nea21$tn, nea20$tn, nea19$tn))
+dea24 <- mean(c(nea24$tn, nea23$tn, nea22$tn, nea21$tn, nea20$tn, nea19$tn, nea18$tn))
+dea23 <- mean(c(nea23$tn, nea22$tn, nea21$tn, nea20$tn, nea19$tn, nea18$tn, nea17$tn))
+dea22 <- mean(c(nea22$tn, nea21$tn, nea20$tn, nea19$tn, nea18$tn, nea17$tn, nea16$tn))
+dea21 <- mean(c(nea21$tn, nea20$tn, nea19$tn, nea18$tn, nea17$tn, nea16$tn, nea15$tn))
+dea20 <- mean(c(nea20$tn, nea19$tn, nea18$tn, nea17$tn, nea16$tn, nea15$tn, nea14$tn))
+dea19 <- mean(c(nea19$tn, nea18$tn, nea17$tn, nea16$tn, nea15$tn, nea14$tn, nea13$tn))
+dea18 <- mean(c(nea18$tn, nea17$tn, nea16$tn, nea15$tn, nea14$tn, nea13$tn, nea12$tn))
+dea17 <- mean(c(nea17$tn, nea16$tn, nea15$tn, nea14$tn, nea13$tn, nea12$tn, nea11$tn))
+dea16 <- mean(c(nea16$tn, nea15$tn, nea14$tn, nea13$tn, nea12$tn, nea11$tn, nea10$tn))
+dea15 <- mean(c(nea15$tn, nea14$tn, nea13$tn, nea12$tn, nea11$tn, nea10$tn, nea09$tn))
+dea14 <- mean(c(nea14$tn, nea13$tn, nea12$tn, nea11$tn, nea10$tn, nea09$tn, nea08$tn))
+dea13 <- mean(c(nea13$tn, nea12$tn, nea11$tn, nea10$tn, nea09$tn, nea08$tn, nea07$tn))
+dea12 <- mean(c(nea12$tn, nea11$tn, nea10$tn, nea09$tn, nea08$tn, nea07$tn, nea06$tn))
+dea11 <- mean(c(nea11$tn, nea10$tn, nea09$tn, nea08$tn, nea07$tn, nea06$tn, nea05$tn))
+dea10 <- mean(c(nea10$tn, nea09$tn, nea08$tn, nea07$tn, nea06$tn, nea05$tn, nea04$tn))
+dea09 <- mean(c(nea09$tn, nea08$tn, nea07$tn, nea06$tn, nea05$tn, nea04$tn, nea03$tn))
+dea08 <- mean(c(nea08$tn, nea07$tn, nea06$tn, nea05$tn, nea04$tn, nea03$tn, nea02$tn))
+dea07 <- mean(c(nea07$tn, nea06$tn, nea05$tn, nea04$tn, nea03$tn, nea02$tn, nea01$tn))
 
 dfea <- data_frame(
   fecha,
-  dncea = c(dea158/pea, dea157/pea, dea156/pea, dea155/pea, dea154/pea, dea153/pea, dea152/pea, dea151/pea, dea150/pea,
+  dncea = c(dea162/pea, dea161/pea, dea160/pea, 
+            dea159/pea, dea158/pea, dea157/pea, dea156/pea, dea155/pea, dea154/pea, dea153/pea, dea152/pea, dea151/pea, dea150/pea,
             dea149/pea, dea148/pea, dea147/pea, dea146/pea, dea145/pea, dea144/pea, dea143/pea, dea142/pea, dea141/pea, dea140/pea, 
             dea139/pea, dea138/pea, dea137/pea, dea136/pea, dea135/pea, dea134/pea, dea133/pea, dea132/pea, dea131/pea, dea130/pea, 
             dea129/pea, dea128/pea, dea127/pea, dea126/pea, dea125/pea, dea124/pea, dea123/pea, dea122/pea, dea121/pea, dea120/pea, 
@@ -14104,7 +16073,13 @@ dfea <- data_frame(
             dea99/pea, dea98/pea, dea97/pea, dea96/pea, dea95/pea, dea94/pea, dea93/pea, dea92/pea, dea91/pea, dea90/pea, 
             dea89/pea, dea88/pea, dea87/pea, dea86/pea, dea85/pea, dea84/pea, dea83/pea, dea82/pea, dea81/pea, dea80/pea, 
             dea79/pea, dea78/pea, dea77/pea, dea76/pea, dea75/pea, dea74/pea, dea73/pea, dea72/pea, dea71/pea, dea70/pea, 
-            dea69/pea, dea68/pea, dea67/pea, dea66/pea)
+            dea69/pea, dea68/pea, dea67/pea, dea66/pea, dea65/pea, dea64/pea, dea63/pea, dea62/pea, dea61/pea, dea60/pea,
+            dea59/pea, dea58/pea, dea57/pea, dea56/pea, dea55/pea, dea54/pea, dea53/pea, dea52/pea, dea51/pea, dea50/pea,
+            dea49/pea, dea48/pea, dea47/pea, dea46/pea, dea45/pea, dea44/pea, dea43/pea, dea42/pea, dea41/pea, dea40/pea,
+            dea39/pea, dea38/pea, dea37/pea, dea36/pea, dea35/pea, dea34/pea, dea33/pea, dea32/pea, dea31/pea, dea30/pea,
+            dea29/pea, dea28/pea, dea27/pea, dea26/pea, dea25/pea, dea24/pea, dea23/pea, dea22/pea, dea21/pea, dea20/pea,
+            dea19/pea, dea18/pea, dea17/pea, dea16/pea, dea15/pea, dea14/pea, dea13/pea, dea12/pea, dea11/pea, dea10/pea,
+            dea09/pea, dea08/pea, dea07/pea)
 )
 
 # JOIN DATA FRAMES PROVINCIAS
@@ -14122,5 +16097,5 @@ dftotal <- full_join(dfgu, dfpi, by = "fecha") %>%
   full_join(., dfst, by = "fecha") %>% full_join(., dfea, by = "fecha")
 
 # GRABAR ARCHIVO A ÚLTIMA FECHA
-dncprov070622 <- filter(dftotal, fecha == "7jun22")
-write.table(dncprov070622,"pdnc7jun.txt",sep="\t",row.names=FALSE)
+dncprov110622 <- filter(dftotal, fecha == "11jun22")
+write.table(dncprov110622,"dnc11jun.txt",sep="\t",row.names=FALSE)
