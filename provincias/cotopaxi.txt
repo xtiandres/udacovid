@@ -5431,3 +5431,318 @@
 "Cotopaxi"	"Salcedo"	4382	2022-04-27
 "Cotopaxi"	"Saquisilí"	1127	2022-04-27
 "Cotopaxi"	"Sigchos"	652	2022-04-27
+"Cotopaxi"	"La Maná"	942	2022-04-28
+"Cotopaxi"	"Latacunga"	7984	2022-04-28
+"Cotopaxi"	"Pangua"	496	2022-04-28
+"Cotopaxi"	"Pujilí"	2436	2022-04-28
+"Cotopaxi"	"Salcedo"	4382	2022-04-28
+"Cotopaxi"	"Saquisilí"	1128	2022-04-28
+"Cotopaxi"	"Sigchos"	652	2022-04-28
+"Cotopaxi"	"La Maná"	942	2022-04-29
+"Cotopaxi"	"Latacunga"	7985	2022-04-29
+"Cotopaxi"	"Pangua"	496	2022-04-29
+"Cotopaxi"	"Pujilí"	2436	2022-04-29
+"Cotopaxi"	"Salcedo"	4382	2022-04-29
+"Cotopaxi"	"Saquisilí"	1128	2022-04-29
+"Cotopaxi"	"Sigchos"	653	2022-04-29
+"Cotopaxi"	"La Maná"	943	2022-04-30
+"Cotopaxi"	"Latacunga"	7990	2022-04-30
+"Cotopaxi"	"Pangua"	496	2022-04-30
+"Cotopaxi"	"Pujilí"	2436	2022-04-30
+"Cotopaxi"	"Salcedo"	4383	2022-04-30
+"Cotopaxi"	"Saquisilí"	1128	2022-04-30
+"Cotopaxi"	"Sigchos"	653	2022-04-30
+"Cotopaxi"	"La Maná"	943	2022-05-01
+"Cotopaxi"	"Latacunga"	7990	2022-05-01
+"Cotopaxi"	"Pangua"	496	2022-05-01
+"Cotopaxi"	"Pujilí"	2436	2022-05-01
+"Cotopaxi"	"Salcedo"	4383	2022-05-01
+"Cotopaxi"	"Saquisilí"	1128	2022-05-01
+"Cotopaxi"	"Sigchos"	653	2022-05-01
+"Cotopaxi"	"La Maná"	943	2022-05-02
+"Cotopaxi"	"Latacunga"	7990	2022-05-02
+"Cotopaxi"	"Pangua"	496	2022-05-02
+"Cotopaxi"	"Pujilí"	2436	2022-05-02
+"Cotopaxi"	"Salcedo"	4383	2022-05-02
+"Cotopaxi"	"Saquisilí"	1128	2022-05-02
+"Cotopaxi"	"Sigchos"	653	2022-05-02
+"Cotopaxi"	"La Maná"	943	2022-05-03
+"Cotopaxi"	"Latacunga"	7990	2022-05-03
+"Cotopaxi"	"Pangua"	496	2022-05-03
+"Cotopaxi"	"Pujilí"	2436	2022-05-03
+"Cotopaxi"	"Salcedo"	4383	2022-05-03
+"Cotopaxi"	"Saquisilí"	1129	2022-05-03
+"Cotopaxi"	"Sigchos"	653	2022-05-03
+"Cotopaxi"	"La Maná"	943	2022-05-04
+"Cotopaxi"	"Latacunga"	7990	2022-05-04
+"Cotopaxi"	"Pangua"	496	2022-05-04
+"Cotopaxi"	"Pujilí"	2437	2022-05-04
+"Cotopaxi"	"Salcedo"	4383	2022-05-04
+"Cotopaxi"	"Saquisilí"	1129	2022-05-04
+"Cotopaxi"	"Sigchos"	654	2022-05-04
+"Cotopaxi"	"La Maná"	943	2022-05-05
+"Cotopaxi"	"Latacunga"	7991	2022-05-05
+"Cotopaxi"	"Pangua"	496	2022-05-05
+"Cotopaxi"	"Pujilí"	2437	2022-05-05
+"Cotopaxi"	"Salcedo"	4383	2022-05-05
+"Cotopaxi"	"Saquisilí"	1129	2022-05-05
+"Cotopaxi"	"Sigchos"	654	2022-05-05
+"Cotopaxi"	"La Maná"	943	2022-05-06
+"Cotopaxi"	"Latacunga"	7991	2022-05-06
+"Cotopaxi"	"Pangua"	496	2022-05-06
+"Cotopaxi"	"Pujilí"	2437	2022-05-06
+"Cotopaxi"	"Salcedo"	4384	2022-05-06
+"Cotopaxi"	"Saquisilí"	1129	2022-05-06
+"Cotopaxi"	"Sigchos"	654	2022-05-06
+"Cotopaxi"	"La Maná"	943	2022-05-07
+"Cotopaxi"	"Latacunga"	7991	2022-05-07
+"Cotopaxi"	"Pangua"	496	2022-05-07
+"Cotopaxi"	"Pujilí"	2437	2022-05-07
+"Cotopaxi"	"Salcedo"	4384	2022-05-07
+"Cotopaxi"	"Saquisilí"	1129	2022-05-07
+"Cotopaxi"	"Sigchos"	654	2022-05-07
+"Cotopaxi"	"La Maná"	943	2022-05-08
+"Cotopaxi"	"Latacunga"	7991	2022-05-08
+"Cotopaxi"	"Pangua"	496	2022-05-08
+"Cotopaxi"	"Pujilí"	2438	2022-05-08
+"Cotopaxi"	"Salcedo"	4384	2022-05-08
+"Cotopaxi"	"Saquisilí"	1129	2022-05-08
+"Cotopaxi"	"Sigchos"	654	2022-05-08
+"Cotopaxi"	"La Maná"	943	2022-05-09
+"Cotopaxi"	"Latacunga"	7991	2022-05-09
+"Cotopaxi"	"Pangua"	496	2022-05-09
+"Cotopaxi"	"Pujilí"	2438	2022-05-09
+"Cotopaxi"	"Salcedo"	4384	2022-05-09
+"Cotopaxi"	"Saquisilí"	1129	2022-05-09
+"Cotopaxi"	"Sigchos"	654	2022-05-09
+"Cotopaxi"	"La Maná"	943	2022-05-10
+"Cotopaxi"	"Latacunga"	7991	2022-05-10
+"Cotopaxi"	"Pangua"	496	2022-05-10
+"Cotopaxi"	"Pujilí"	2438	2022-05-10
+"Cotopaxi"	"Salcedo"	4386	2022-05-10
+"Cotopaxi"	"Saquisilí"	1130	2022-05-10
+"Cotopaxi"	"Sigchos"	654	2022-05-10
+"Cotopaxi"	"La Maná"	943	2022-05-11
+"Cotopaxi"	"Latacunga"	7992	2022-05-11
+"Cotopaxi"	"Pangua"	496	2022-05-11
+"Cotopaxi"	"Pujilí"	2438	2022-05-11
+"Cotopaxi"	"Salcedo"	4386	2022-05-11
+"Cotopaxi"	"Saquisilí"	1130	2022-05-11
+"Cotopaxi"	"Sigchos"	654	2022-05-11
+"Cotopaxi"	"La Maná"	943	2022-05-12
+"Cotopaxi"	"Latacunga"	7995	2022-05-12
+"Cotopaxi"	"Pangua"	496	2022-05-12
+"Cotopaxi"	"Pujilí"	2439	2022-05-12
+"Cotopaxi"	"Salcedo"	4386	2022-05-12
+"Cotopaxi"	"Saquisilí"	1130	2022-05-12
+"Cotopaxi"	"Sigchos"	654	2022-05-12
+"Cotopaxi"	"La Maná"	943	2022-05-13
+"Cotopaxi"	"Latacunga"	7995	2022-05-13
+"Cotopaxi"	"Pangua"	496	2022-05-13
+"Cotopaxi"	"Pujilí"	2439	2022-05-13
+"Cotopaxi"	"Salcedo"	4387	2022-05-13
+"Cotopaxi"	"Saquisilí"	1131	2022-05-13
+"Cotopaxi"	"Sigchos"	654	2022-05-13
+"Cotopaxi"	"La Maná"	943	2022-05-14
+"Cotopaxi"	"Latacunga"	7996	2022-05-14
+"Cotopaxi"	"Pangua"	496	2022-05-14
+"Cotopaxi"	"Pujilí"	2439	2022-05-14
+"Cotopaxi"	"Salcedo"	4389	2022-05-14
+"Cotopaxi"	"Saquisilí"	1131	2022-05-14
+"Cotopaxi"	"Sigchos"	654	2022-05-14
+"Cotopaxi"	"La Maná"	943	2022-05-15
+"Cotopaxi"	"Latacunga"	7996	2022-05-15
+"Cotopaxi"	"Pangua"	496	2022-05-15
+"Cotopaxi"	"Pujilí"	2439	2022-05-15
+"Cotopaxi"	"Salcedo"	4389	2022-05-15
+"Cotopaxi"	"Saquisilí"	1131	2022-05-15
+"Cotopaxi"	"Sigchos"	654	2022-05-15
+"Cotopaxi"	"La Maná"	943	2022-05-16
+"Cotopaxi"	"Latacunga"	7996	2022-05-16
+"Cotopaxi"	"Pangua"	496	2022-05-16
+"Cotopaxi"	"Pujilí"	2439	2022-05-16
+"Cotopaxi"	"Salcedo"	4389	2022-05-16
+"Cotopaxi"	"Saquisilí"	1131	2022-05-16
+"Cotopaxi"	"Sigchos"	654	2022-05-16
+"Cotopaxi"	"La Maná"	943	2022-05-17
+"Cotopaxi"	"Latacunga"	7997	2022-05-17
+"Cotopaxi"	"Pangua"	496	2022-05-17
+"Cotopaxi"	"Pujilí"	2439	2022-05-17
+"Cotopaxi"	"Salcedo"	4390	2022-05-17
+"Cotopaxi"	"Saquisilí"	1131	2022-05-17
+"Cotopaxi"	"Sigchos"	654	2022-05-17
+"Cotopaxi"	"La Maná"	943	2022-05-18
+"Cotopaxi"	"Latacunga"	7999	2022-05-18
+"Cotopaxi"	"Pangua"	497	2022-05-18
+"Cotopaxi"	"Pujilí"	2439	2022-05-18
+"Cotopaxi"	"Salcedo"	4390	2022-05-18
+"Cotopaxi"	"Saquisilí"	1131	2022-05-18
+"Cotopaxi"	"Sigchos"	655	2022-05-18
+"Cotopaxi"	"La Maná"	943	2022-05-19
+"Cotopaxi"	"Latacunga"	8001	2022-05-19
+"Cotopaxi"	"Pangua"	497	2022-05-19
+"Cotopaxi"	"Pujilí"	2439	2022-05-19
+"Cotopaxi"	"Salcedo"	4391	2022-05-19
+"Cotopaxi"	"Saquisilí"	1131	2022-05-19
+"Cotopaxi"	"Sigchos"	655	2022-05-19
+"Cotopaxi"	"La Maná"	943	2022-05-20
+"Cotopaxi"	"Latacunga"	8002	2022-05-20
+"Cotopaxi"	"Pangua"	497	2022-05-20
+"Cotopaxi"	"Pujilí"	2444	2022-05-20
+"Cotopaxi"	"Salcedo"	4393	2022-05-20
+"Cotopaxi"	"Saquisilí"	1131	2022-05-20
+"Cotopaxi"	"Sigchos"	655	2022-05-20
+"Cotopaxi"	"La Maná"	943	2022-05-21
+"Cotopaxi"	"Latacunga"	8004	2022-05-21
+"Cotopaxi"	"Pangua"	497	2022-05-21
+"Cotopaxi"	"Pujilí"	2444	2022-05-21
+"Cotopaxi"	"Salcedo"	4396	2022-05-21
+"Cotopaxi"	"Saquisilí"	1131	2022-05-21
+"Cotopaxi"	"Sigchos"	655	2022-05-21
+"Cotopaxi"	"La Maná"	943	2022-05-22
+"Cotopaxi"	"Latacunga"	8008	2022-05-22
+"Cotopaxi"	"Pangua"	497	2022-05-22
+"Cotopaxi"	"Pujilí"	2444	2022-05-22
+"Cotopaxi"	"Salcedo"	4397	2022-05-22
+"Cotopaxi"	"Saquisilí"	1131	2022-05-22
+"Cotopaxi"	"Sigchos"	655	2022-05-22
+"Cotopaxi"	"La Maná"	943	2022-05-23
+"Cotopaxi"	"Latacunga"	8008	2022-05-23
+"Cotopaxi"	"Pangua"	497	2022-05-23
+"Cotopaxi"	"Pujilí"	2444	2022-05-23
+"Cotopaxi"	"Salcedo"	4397	2022-05-23
+"Cotopaxi"	"Saquisilí"	1131	2022-05-23
+"Cotopaxi"	"Sigchos"	655	2022-05-23
+"Cotopaxi"	"La Maná"	943	2022-05-24
+"Cotopaxi"	"Latacunga"	8008	2022-05-24
+"Cotopaxi"	"Pangua"	497	2022-05-24
+"Cotopaxi"	"Pujilí"	2444	2022-05-24
+"Cotopaxi"	"Salcedo"	4397	2022-05-24
+"Cotopaxi"	"Saquisilí"	1131	2022-05-24
+"Cotopaxi"	"Sigchos"	655	2022-05-24
+"Cotopaxi"	"La Maná"	943	2022-05-25
+"Cotopaxi"	"Latacunga"	8016	2022-05-25
+"Cotopaxi"	"Pangua"	497	2022-05-25
+"Cotopaxi"	"Pujilí"	2444	2022-05-25
+"Cotopaxi"	"Salcedo"	4400	2022-05-25
+"Cotopaxi"	"Saquisilí"	1132	2022-05-25
+"Cotopaxi"	"Sigchos"	655	2022-05-25
+"Cotopaxi"	"La Maná"	944	2022-05-26
+"Cotopaxi"	"Latacunga"	8017	2022-05-26
+"Cotopaxi"	"Pangua"	498	2022-05-26
+"Cotopaxi"	"Pujilí"	2444	2022-05-26
+"Cotopaxi"	"Salcedo"	4400	2022-05-26
+"Cotopaxi"	"Saquisilí"	1132	2022-05-26
+"Cotopaxi"	"Sigchos"	655	2022-05-26
+"Cotopaxi"	"La Maná"	945	2022-05-27
+"Cotopaxi"	"Latacunga"	8019	2022-05-27
+"Cotopaxi"	"Pangua"	498	2022-05-27
+"Cotopaxi"	"Pujilí"	2444	2022-05-27
+"Cotopaxi"	"Salcedo"	4401	2022-05-27
+"Cotopaxi"	"Saquisilí"	1132	2022-05-27
+"Cotopaxi"	"Sigchos"	655	2022-05-27
+"Cotopaxi"	"La Maná"	945	2022-05-28
+"Cotopaxi"	"Latacunga"	8028	2022-05-28
+"Cotopaxi"	"Pangua"	498	2022-05-28
+"Cotopaxi"	"Pujilí"	2444	2022-05-28
+"Cotopaxi"	"Salcedo"	4401	2022-05-28
+"Cotopaxi"	"Saquisilí"	1132	2022-05-28
+"Cotopaxi"	"Sigchos"	655	2022-05-28
+"Cotopaxi"	"La Maná"	945	2022-05-29
+"Cotopaxi"	"Latacunga"	8029	2022-05-29
+"Cotopaxi"	"Pangua"	498	2022-05-29
+"Cotopaxi"	"Pujilí"	2444	2022-05-29
+"Cotopaxi"	"Salcedo"	4401	2022-05-29
+"Cotopaxi"	"Saquisilí"	1132	2022-05-29
+"Cotopaxi"	"Sigchos"	655	2022-05-29
+"Cotopaxi"	"La Maná"	945	2022-05-30
+"Cotopaxi"	"Latacunga"	8029	2022-05-30
+"Cotopaxi"	"Pangua"	498	2022-05-30
+"Cotopaxi"	"Pujilí"	2444	2022-05-30
+"Cotopaxi"	"Salcedo"	4401	2022-05-30
+"Cotopaxi"	"Saquisilí"	1132	2022-05-30
+"Cotopaxi"	"Sigchos"	655	2022-05-30
+"Cotopaxi"	"La Maná"	945	2022-05-31
+"Cotopaxi"	"Latacunga"	8035	2022-05-31
+"Cotopaxi"	"Pangua"	498	2022-05-31
+"Cotopaxi"	"Pujilí"	2446	2022-05-31
+"Cotopaxi"	"Salcedo"	4403	2022-05-31
+"Cotopaxi"	"Saquisilí"	1132	2022-05-31
+"Cotopaxi"	"Sigchos"	655	2022-05-31
+"Cotopaxi"	"La Maná"	945	2022-06-01
+"Cotopaxi"	"Latacunga"	8055	2022-06-01
+"Cotopaxi"	"Pangua"	498	2022-06-01
+"Cotopaxi"	"Pujilí"	2449	2022-06-01
+"Cotopaxi"	"Salcedo"	4414	2022-06-01
+"Cotopaxi"	"Saquisilí"	1133	2022-06-01
+"Cotopaxi"	"Sigchos"	656	2022-06-01
+"Cotopaxi"	"La Maná"	945	2022-06-02
+"Cotopaxi"	"Latacunga"	8066	2022-06-02
+"Cotopaxi"	"Pangua"	498	2022-06-02
+"Cotopaxi"	"Pujilí"	2449	2022-06-02
+"Cotopaxi"	"Salcedo"	4416	2022-06-02
+"Cotopaxi"	"Saquisilí"	1134	2022-06-02
+"Cotopaxi"	"Sigchos"	656	2022-06-02
+"Cotopaxi"	"La Maná"	945	2022-06-03
+"Cotopaxi"	"Latacunga"	8075	2022-06-03
+"Cotopaxi"	"Pangua"	498	2022-06-03
+"Cotopaxi"	"Pujilí"	2452	2022-06-03
+"Cotopaxi"	"Salcedo"	4419	2022-06-03
+"Cotopaxi"	"Saquisilí"	1134	2022-06-03
+"Cotopaxi"	"Sigchos"	656	2022-06-03
+"Cotopaxi"	"La Maná"	945	2022-06-04
+"Cotopaxi"	"Latacunga"	8080	2022-06-04
+"Cotopaxi"	"Pangua"	498	2022-06-04
+"Cotopaxi"	"Pujilí"	2452	2022-06-04
+"Cotopaxi"	"Salcedo"	4424	2022-06-04
+"Cotopaxi"	"Saquisilí"	1134	2022-06-04
+"Cotopaxi"	"Sigchos"	656	2022-06-04
+"Cotopaxi"	"La Maná"	945	2022-06-05
+"Cotopaxi"	"Latacunga"	8085	2022-06-05
+"Cotopaxi"	"Pangua"	498	2022-06-05
+"Cotopaxi"	"Pujilí"	2452	2022-06-05
+"Cotopaxi"	"Salcedo"	4424	2022-06-05
+"Cotopaxi"	"Saquisilí"	1134	2022-06-05
+"Cotopaxi"	"Sigchos"	656	2022-06-05
+"Cotopaxi"	"La Maná"	945	2022-06-06
+"Cotopaxi"	"Latacunga"	8086	2022-06-06
+"Cotopaxi"	"Pangua"	498	2022-06-06
+"Cotopaxi"	"Pujilí"	2452	2022-06-06
+"Cotopaxi"	"Salcedo"	4425	2022-06-06
+"Cotopaxi"	"Saquisilí"	1134	2022-06-06
+"Cotopaxi"	"Sigchos"	656	2022-06-06
+"Cotopaxi"	"La Maná"	945	2022-06-07
+"Cotopaxi"	"Latacunga"	8102	2022-06-07
+"Cotopaxi"	"Pangua"	498	2022-06-07
+"Cotopaxi"	"Pujilí"	2452	2022-06-07
+"Cotopaxi"	"Salcedo"	4433	2022-06-07
+"Cotopaxi"	"Saquisilí"	1135	2022-06-07
+"Cotopaxi"	"Sigchos"	656	2022-06-07
+"Cotopaxi"	"La Maná"	945	2022-06-08
+"Cotopaxi"	"Latacunga"	8117	2022-06-08
+"Cotopaxi"	"Pangua"	498	2022-06-08
+"Cotopaxi"	"Pujilí"	2457	2022-06-08
+"Cotopaxi"	"Salcedo"	4433	2022-06-08
+"Cotopaxi"	"Saquisilí"	1135	2022-06-08
+"Cotopaxi"	"Sigchos"	656	2022-06-08
+"Cotopaxi"	"La Maná"	945	2022-06-09
+"Cotopaxi"	"Latacunga"	8130	2022-06-09
+"Cotopaxi"	"Pangua"	498	2022-06-09
+"Cotopaxi"	"Pujilí"	2458	2022-06-09
+"Cotopaxi"	"Salcedo"	4448	2022-06-09
+"Cotopaxi"	"Saquisilí"	1137	2022-06-09
+"Cotopaxi"	"Sigchos"	657	2022-06-09
+"Cotopaxi"	"La Maná"	945	2022-06-10
+"Cotopaxi"	"Latacunga"	8144	2022-06-10
+"Cotopaxi"	"Pangua"	498	2022-06-10
+"Cotopaxi"	"Pujilí"	2461	2022-06-10
+"Cotopaxi"	"Salcedo"	4450	2022-06-10
+"Cotopaxi"	"Saquisilí"	1137	2022-06-10
+"Cotopaxi"	"Sigchos"	657	2022-06-10
+"Cotopaxi"	"La Maná"	945	2022-06-11
+"Cotopaxi"	"Latacunga"	8161	2022-06-11
+"Cotopaxi"	"Pangua"	498	2022-06-11
+"Cotopaxi"	"Pujilí"	2461	2022-06-11
+"Cotopaxi"	"Salcedo"	4451	2022-06-11
+"Cotopaxi"	"Saquisilí"	1138	2022-06-11
+"Cotopaxi"	"Sigchos"	657	2022-06-11

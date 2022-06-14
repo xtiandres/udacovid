@@ -5431,3 +5431,318 @@
 "Cañar"	"El Tambo"	590	2022-04-27
 "Cañar"	"La Troncal"	2047	2022-04-27
 "Cañar"	"Suscal"	122	2022-04-27
+"Cañar"	"Azogues"	7662	2022-04-28
+"Cañar"	"Biblían"	1305	2022-04-28
+"Cañar"	"Cañar"	2591	2022-04-28
+"Cañar"	"Déleg"	215	2022-04-28
+"Cañar"	"El Tambo"	590	2022-04-28
+"Cañar"	"La Troncal"	2048	2022-04-28
+"Cañar"	"Suscal"	122	2022-04-28
+"Cañar"	"Azogues"	7663	2022-04-29
+"Cañar"	"Biblían"	1305	2022-04-29
+"Cañar"	"Cañar"	2591	2022-04-29
+"Cañar"	"Déleg"	215	2022-04-29
+"Cañar"	"El Tambo"	590	2022-04-29
+"Cañar"	"La Troncal"	2048	2022-04-29
+"Cañar"	"Suscal"	122	2022-04-29
+"Cañar"	"Azogues"	7663	2022-04-30
+"Cañar"	"Biblían"	1305	2022-04-30
+"Cañar"	"Cañar"	2591	2022-04-30
+"Cañar"	"Déleg"	215	2022-04-30
+"Cañar"	"El Tambo"	590	2022-04-30
+"Cañar"	"La Troncal"	2049	2022-04-30
+"Cañar"	"Suscal"	122	2022-04-30
+"Cañar"	"Azogues"	7664	2022-05-01
+"Cañar"	"Biblían"	1306	2022-05-01
+"Cañar"	"Cañar"	2592	2022-05-01
+"Cañar"	"Déleg"	215	2022-05-01
+"Cañar"	"El Tambo"	591	2022-05-01
+"Cañar"	"La Troncal"	2049	2022-05-01
+"Cañar"	"Suscal"	123	2022-05-01
+"Cañar"	"Azogues"	7665	2022-05-02
+"Cañar"	"Biblían"	1306	2022-05-02
+"Cañar"	"Cañar"	2592	2022-05-02
+"Cañar"	"Déleg"	215	2022-05-02
+"Cañar"	"El Tambo"	591	2022-05-02
+"Cañar"	"La Troncal"	2049	2022-05-02
+"Cañar"	"Suscal"	123	2022-05-02
+"Cañar"	"Azogues"	7666	2022-05-03
+"Cañar"	"Biblían"	1307	2022-05-03
+"Cañar"	"Cañar"	2592	2022-05-03
+"Cañar"	"Déleg"	215	2022-05-03
+"Cañar"	"El Tambo"	591	2022-05-03
+"Cañar"	"La Troncal"	2049	2022-05-03
+"Cañar"	"Suscal"	123	2022-05-03
+"Cañar"	"Azogues"	7672	2022-05-04
+"Cañar"	"Biblían"	1308	2022-05-04
+"Cañar"	"Cañar"	2592	2022-05-04
+"Cañar"	"Déleg"	215	2022-05-04
+"Cañar"	"El Tambo"	591	2022-05-04
+"Cañar"	"La Troncal"	2049	2022-05-04
+"Cañar"	"Suscal"	124	2022-05-04
+"Cañar"	"Azogues"	7675	2022-05-05
+"Cañar"	"Biblían"	1308	2022-05-05
+"Cañar"	"Cañar"	2592	2022-05-05
+"Cañar"	"Déleg"	215	2022-05-05
+"Cañar"	"El Tambo"	591	2022-05-05
+"Cañar"	"La Troncal"	2049	2022-05-05
+"Cañar"	"Suscal"	124	2022-05-05
+"Cañar"	"Azogues"	7675	2022-05-06
+"Cañar"	"Biblían"	1308	2022-05-06
+"Cañar"	"Cañar"	2592	2022-05-06
+"Cañar"	"Déleg"	215	2022-05-06
+"Cañar"	"El Tambo"	591	2022-05-06
+"Cañar"	"La Troncal"	2049	2022-05-06
+"Cañar"	"Suscal"	124	2022-05-06
+"Cañar"	"Azogues"	7675	2022-05-07
+"Cañar"	"Biblían"	1308	2022-05-07
+"Cañar"	"Cañar"	2594	2022-05-07
+"Cañar"	"Déleg"	215	2022-05-07
+"Cañar"	"El Tambo"	591	2022-05-07
+"Cañar"	"La Troncal"	2050	2022-05-07
+"Cañar"	"Suscal"	124	2022-05-07
+"Cañar"	"Azogues"	7675	2022-05-08
+"Cañar"	"Biblían"	1308	2022-05-08
+"Cañar"	"Cañar"	2594	2022-05-08
+"Cañar"	"Déleg"	215	2022-05-08
+"Cañar"	"El Tambo"	592	2022-05-08
+"Cañar"	"La Troncal"	2050	2022-05-08
+"Cañar"	"Suscal"	124	2022-05-08
+"Cañar"	"Azogues"	7675	2022-05-09
+"Cañar"	"Biblían"	1308	2022-05-09
+"Cañar"	"Cañar"	2594	2022-05-09
+"Cañar"	"Déleg"	215	2022-05-09
+"Cañar"	"El Tambo"	592	2022-05-09
+"Cañar"	"La Troncal"	2050	2022-05-09
+"Cañar"	"Suscal"	124	2022-05-09
+"Cañar"	"Azogues"	7675	2022-05-10
+"Cañar"	"Biblían"	1308	2022-05-10
+"Cañar"	"Cañar"	2597	2022-05-10
+"Cañar"	"Déleg"	215	2022-05-10
+"Cañar"	"El Tambo"	592	2022-05-10
+"Cañar"	"La Troncal"	2050	2022-05-10
+"Cañar"	"Suscal"	124	2022-05-10
+"Cañar"	"Azogues"	7680	2022-05-11
+"Cañar"	"Biblían"	1309	2022-05-11
+"Cañar"	"Cañar"	2597	2022-05-11
+"Cañar"	"Déleg"	215	2022-05-11
+"Cañar"	"El Tambo"	592	2022-05-11
+"Cañar"	"La Troncal"	2050	2022-05-11
+"Cañar"	"Suscal"	124	2022-05-11
+"Cañar"	"Azogues"	7682	2022-05-12
+"Cañar"	"Biblían"	1309	2022-05-12
+"Cañar"	"Cañar"	2597	2022-05-12
+"Cañar"	"Déleg"	215	2022-05-12
+"Cañar"	"El Tambo"	592	2022-05-12
+"Cañar"	"La Troncal"	2051	2022-05-12
+"Cañar"	"Suscal"	124	2022-05-12
+"Cañar"	"Azogues"	7686	2022-05-13
+"Cañar"	"Biblían"	1309	2022-05-13
+"Cañar"	"Cañar"	2597	2022-05-13
+"Cañar"	"Déleg"	215	2022-05-13
+"Cañar"	"El Tambo"	592	2022-05-13
+"Cañar"	"La Troncal"	2052	2022-05-13
+"Cañar"	"Suscal"	124	2022-05-13
+"Cañar"	"Azogues"	7690	2022-05-14
+"Cañar"	"Biblían"	1309	2022-05-14
+"Cañar"	"Cañar"	2597	2022-05-14
+"Cañar"	"Déleg"	215	2022-05-14
+"Cañar"	"El Tambo"	592	2022-05-14
+"Cañar"	"La Troncal"	2052	2022-05-14
+"Cañar"	"Suscal"	124	2022-05-14
+"Cañar"	"Azogues"	7690	2022-05-15
+"Cañar"	"Biblían"	1309	2022-05-15
+"Cañar"	"Cañar"	2597	2022-05-15
+"Cañar"	"Déleg"	215	2022-05-15
+"Cañar"	"El Tambo"	592	2022-05-15
+"Cañar"	"La Troncal"	2052	2022-05-15
+"Cañar"	"Suscal"	124	2022-05-15
+"Cañar"	"Azogues"	7690	2022-05-16
+"Cañar"	"Biblían"	1309	2022-05-16
+"Cañar"	"Cañar"	2598	2022-05-16
+"Cañar"	"Déleg"	215	2022-05-16
+"Cañar"	"El Tambo"	592	2022-05-16
+"Cañar"	"La Troncal"	2052	2022-05-16
+"Cañar"	"Suscal"	124	2022-05-16
+"Cañar"	"Azogues"	7691	2022-05-17
+"Cañar"	"Biblían"	1309	2022-05-17
+"Cañar"	"Cañar"	2598	2022-05-17
+"Cañar"	"Déleg"	215	2022-05-17
+"Cañar"	"El Tambo"	592	2022-05-17
+"Cañar"	"La Troncal"	2052	2022-05-17
+"Cañar"	"Suscal"	124	2022-05-17
+"Cañar"	"Azogues"	7692	2022-05-18
+"Cañar"	"Biblían"	1310	2022-05-18
+"Cañar"	"Cañar"	2600	2022-05-18
+"Cañar"	"Déleg"	215	2022-05-18
+"Cañar"	"El Tambo"	592	2022-05-18
+"Cañar"	"La Troncal"	2052	2022-05-18
+"Cañar"	"Suscal"	124	2022-05-18
+"Cañar"	"Azogues"	7697	2022-05-19
+"Cañar"	"Biblían"	1310	2022-05-19
+"Cañar"	"Cañar"	2600	2022-05-19
+"Cañar"	"Déleg"	215	2022-05-19
+"Cañar"	"El Tambo"	592	2022-05-19
+"Cañar"	"La Troncal"	2053	2022-05-19
+"Cañar"	"Suscal"	124	2022-05-19
+"Cañar"	"Azogues"	7701	2022-05-20
+"Cañar"	"Biblían"	1311	2022-05-20
+"Cañar"	"Cañar"	2602	2022-05-20
+"Cañar"	"Déleg"	215	2022-05-20
+"Cañar"	"El Tambo"	592	2022-05-20
+"Cañar"	"La Troncal"	2054	2022-05-20
+"Cañar"	"Suscal"	124	2022-05-20
+"Cañar"	"Azogues"	7703	2022-05-21
+"Cañar"	"Biblían"	1312	2022-05-21
+"Cañar"	"Cañar"	2603	2022-05-21
+"Cañar"	"Déleg"	215	2022-05-21
+"Cañar"	"El Tambo"	594	2022-05-21
+"Cañar"	"La Troncal"	2056	2022-05-21
+"Cañar"	"Suscal"	124	2022-05-21
+"Cañar"	"Azogues"	7709	2022-05-22
+"Cañar"	"Biblían"	1313	2022-05-22
+"Cañar"	"Cañar"	2603	2022-05-22
+"Cañar"	"Déleg"	215	2022-05-22
+"Cañar"	"El Tambo"	594	2022-05-22
+"Cañar"	"La Troncal"	2056	2022-05-22
+"Cañar"	"Suscal"	124	2022-05-22
+"Cañar"	"Azogues"	7709	2022-05-23
+"Cañar"	"Biblían"	1313	2022-05-23
+"Cañar"	"Cañar"	2603	2022-05-23
+"Cañar"	"Déleg"	215	2022-05-23
+"Cañar"	"El Tambo"	594	2022-05-23
+"Cañar"	"La Troncal"	2056	2022-05-23
+"Cañar"	"Suscal"	124	2022-05-23
+"Cañar"	"Azogues"	7712	2022-05-24
+"Cañar"	"Biblían"	1316	2022-05-24
+"Cañar"	"Cañar"	2605	2022-05-24
+"Cañar"	"Déleg"	217	2022-05-24
+"Cañar"	"El Tambo"	594	2022-05-24
+"Cañar"	"La Troncal"	2056	2022-05-24
+"Cañar"	"Suscal"	124	2022-05-24
+"Cañar"	"Azogues"	7713	2022-05-25
+"Cañar"	"Biblían"	1317	2022-05-25
+"Cañar"	"Cañar"	2608	2022-05-25
+"Cañar"	"Déleg"	217	2022-05-25
+"Cañar"	"El Tambo"	594	2022-05-25
+"Cañar"	"La Troncal"	2056	2022-05-25
+"Cañar"	"Suscal"	124	2022-05-25
+"Cañar"	"Azogues"	7715	2022-05-26
+"Cañar"	"Biblían"	1317	2022-05-26
+"Cañar"	"Cañar"	2609	2022-05-26
+"Cañar"	"Déleg"	217	2022-05-26
+"Cañar"	"El Tambo"	594	2022-05-26
+"Cañar"	"La Troncal"	2056	2022-05-26
+"Cañar"	"Suscal"	124	2022-05-26
+"Cañar"	"Azogues"	7716	2022-05-27
+"Cañar"	"Biblían"	1319	2022-05-27
+"Cañar"	"Cañar"	2609	2022-05-27
+"Cañar"	"Déleg"	217	2022-05-27
+"Cañar"	"El Tambo"	594	2022-05-27
+"Cañar"	"La Troncal"	2056	2022-05-27
+"Cañar"	"Suscal"	124	2022-05-27
+"Cañar"	"Azogues"	7721	2022-05-28
+"Cañar"	"Biblían"	1319	2022-05-28
+"Cañar"	"Cañar"	2611	2022-05-28
+"Cañar"	"Déleg"	217	2022-05-28
+"Cañar"	"El Tambo"	594	2022-05-28
+"Cañar"	"La Troncal"	2056	2022-05-28
+"Cañar"	"Suscal"	124	2022-05-28
+"Cañar"	"Azogues"	7723	2022-05-29
+"Cañar"	"Biblían"	1319	2022-05-29
+"Cañar"	"Cañar"	2612	2022-05-29
+"Cañar"	"Déleg"	217	2022-05-29
+"Cañar"	"El Tambo"	594	2022-05-29
+"Cañar"	"La Troncal"	2056	2022-05-29
+"Cañar"	"Suscal"	124	2022-05-29
+"Cañar"	"Azogues"	7725	2022-05-30
+"Cañar"	"Biblían"	1319	2022-05-30
+"Cañar"	"Cañar"	2612	2022-05-30
+"Cañar"	"Déleg"	217	2022-05-30
+"Cañar"	"El Tambo"	594	2022-05-30
+"Cañar"	"La Troncal"	2056	2022-05-30
+"Cañar"	"Suscal"	124	2022-05-30
+"Cañar"	"Azogues"	7733	2022-05-31
+"Cañar"	"Biblían"	1320	2022-05-31
+"Cañar"	"Cañar"	2614	2022-05-31
+"Cañar"	"Déleg"	217	2022-05-31
+"Cañar"	"El Tambo"	594	2022-05-31
+"Cañar"	"La Troncal"	2056	2022-05-31
+"Cañar"	"Suscal"	124	2022-05-31
+"Cañar"	"Azogues"	7826	2022-06-01
+"Cañar"	"Biblían"	1329	2022-06-01
+"Cañar"	"Cañar"	2790	2022-06-01
+"Cañar"	"Déleg"	219	2022-06-01
+"Cañar"	"El Tambo"	619	2022-06-01
+"Cañar"	"La Troncal"	2127	2022-06-01
+"Cañar"	"Suscal"	127	2022-06-01
+"Cañar"	"Azogues"	7830	2022-06-02
+"Cañar"	"Biblían"	1329	2022-06-02
+"Cañar"	"Cañar"	2791	2022-06-02
+"Cañar"	"Déleg"	219	2022-06-02
+"Cañar"	"El Tambo"	619	2022-06-02
+"Cañar"	"La Troncal"	2129	2022-06-02
+"Cañar"	"Suscal"	127	2022-06-02
+"Cañar"	"Azogues"	7835	2022-06-03
+"Cañar"	"Biblían"	1329	2022-06-03
+"Cañar"	"Cañar"	2791	2022-06-03
+"Cañar"	"Déleg"	219	2022-06-03
+"Cañar"	"El Tambo"	620	2022-06-03
+"Cañar"	"La Troncal"	2129	2022-06-03
+"Cañar"	"Suscal"	127	2022-06-03
+"Cañar"	"Azogues"	7839	2022-06-04
+"Cañar"	"Biblían"	1329	2022-06-04
+"Cañar"	"Cañar"	2792	2022-06-04
+"Cañar"	"Déleg"	219	2022-06-04
+"Cañar"	"El Tambo"	620	2022-06-04
+"Cañar"	"La Troncal"	2129	2022-06-04
+"Cañar"	"Suscal"	127	2022-06-04
+"Cañar"	"Azogues"	7841	2022-06-05
+"Cañar"	"Biblían"	1329	2022-06-05
+"Cañar"	"Cañar"	2792	2022-06-05
+"Cañar"	"Déleg"	219	2022-06-05
+"Cañar"	"El Tambo"	620	2022-06-05
+"Cañar"	"La Troncal"	2129	2022-06-05
+"Cañar"	"Suscal"	127	2022-06-05
+"Cañar"	"Azogues"	7843	2022-06-06
+"Cañar"	"Biblían"	1329	2022-06-06
+"Cañar"	"Cañar"	2793	2022-06-06
+"Cañar"	"Déleg"	219	2022-06-06
+"Cañar"	"El Tambo"	620	2022-06-06
+"Cañar"	"La Troncal"	2129	2022-06-06
+"Cañar"	"Suscal"	127	2022-06-06
+"Cañar"	"Azogues"	7846	2022-06-07
+"Cañar"	"Biblían"	1331	2022-06-07
+"Cañar"	"Cañar"	2793	2022-06-07
+"Cañar"	"Déleg"	219	2022-06-07
+"Cañar"	"El Tambo"	620	2022-06-07
+"Cañar"	"La Troncal"	2130	2022-06-07
+"Cañar"	"Suscal"	127	2022-06-07
+"Cañar"	"Azogues"	7860	2022-06-08
+"Cañar"	"Biblían"	1331	2022-06-08
+"Cañar"	"Cañar"	2796	2022-06-08
+"Cañar"	"Déleg"	219	2022-06-08
+"Cañar"	"El Tambo"	620	2022-06-08
+"Cañar"	"La Troncal"	2132	2022-06-08
+"Cañar"	"Suscal"	127	2022-06-08
+"Cañar"	"Azogues"	7868	2022-06-09
+"Cañar"	"Biblían"	1333	2022-06-09
+"Cañar"	"Cañar"	2796	2022-06-09
+"Cañar"	"Déleg"	219	2022-06-09
+"Cañar"	"El Tambo"	621	2022-06-09
+"Cañar"	"La Troncal"	2134	2022-06-09
+"Cañar"	"Suscal"	127	2022-06-09
+"Cañar"	"Azogues"	7881	2022-06-10
+"Cañar"	"Biblían"	1335	2022-06-10
+"Cañar"	"Cañar"	2799	2022-06-10
+"Cañar"	"Déleg"	219	2022-06-10
+"Cañar"	"El Tambo"	621	2022-06-10
+"Cañar"	"La Troncal"	2134	2022-06-10
+"Cañar"	"Suscal"	127	2022-06-10
+"Cañar"	"Azogues"	7901	2022-06-11
+"Cañar"	"Biblían"	1336	2022-06-11
+"Cañar"	"Cañar"	2802	2022-06-11
+"Cañar"	"Déleg"	220	2022-06-11
+"Cañar"	"El Tambo"	621	2022-06-11
+"Cañar"	"La Troncal"	2137	2022-06-11
+"Cañar"	"Suscal"	127	2022-06-11

@@ -3879,3 +3879,228 @@
 "Napo"	"El Chaco"	800	2022-04-27
 "Napo"	"Quijos"	764	2022-04-27
 "Napo"	"Tena"	4232	2022-04-27
+"Napo"	"Archidona"	842	2022-04-28
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-28
+"Napo"	"El Chaco"	800	2022-04-28
+"Napo"	"Quijos"	764	2022-04-28
+"Napo"	"Tena"	4232	2022-04-28
+"Napo"	"Archidona"	842	2022-04-29
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-29
+"Napo"	"El Chaco"	800	2022-04-29
+"Napo"	"Quijos"	764	2022-04-29
+"Napo"	"Tena"	4232	2022-04-29
+"Napo"	"Archidona"	842	2022-04-30
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-04-30
+"Napo"	"El Chaco"	800	2022-04-30
+"Napo"	"Quijos"	764	2022-04-30
+"Napo"	"Tena"	4233	2022-04-30
+"Napo"	"Archidona"	842	2022-05-01
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-01
+"Napo"	"El Chaco"	800	2022-05-01
+"Napo"	"Quijos"	764	2022-05-01
+"Napo"	"Tena"	4233	2022-05-01
+"Napo"	"Archidona"	842	2022-05-02
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-02
+"Napo"	"El Chaco"	800	2022-05-02
+"Napo"	"Quijos"	764	2022-05-02
+"Napo"	"Tena"	4233	2022-05-02
+"Napo"	"Archidona"	842	2022-05-03
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-03
+"Napo"	"El Chaco"	800	2022-05-03
+"Napo"	"Quijos"	764	2022-05-03
+"Napo"	"Tena"	4233	2022-05-03
+"Napo"	"Archidona"	842	2022-05-04
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-04
+"Napo"	"El Chaco"	800	2022-05-04
+"Napo"	"Quijos"	764	2022-05-04
+"Napo"	"Tena"	4233	2022-05-04
+"Napo"	"Archidona"	842	2022-05-05
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-05
+"Napo"	"El Chaco"	801	2022-05-05
+"Napo"	"Quijos"	764	2022-05-05
+"Napo"	"Tena"	4233	2022-05-05
+"Napo"	"Archidona"	842	2022-05-06
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-06
+"Napo"	"El Chaco"	801	2022-05-06
+"Napo"	"Quijos"	764	2022-05-06
+"Napo"	"Tena"	4233	2022-05-06
+"Napo"	"Archidona"	842	2022-05-07
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-07
+"Napo"	"El Chaco"	801	2022-05-07
+"Napo"	"Quijos"	765	2022-05-07
+"Napo"	"Tena"	4233	2022-05-07
+"Napo"	"Archidona"	842	2022-05-08
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-08
+"Napo"	"El Chaco"	801	2022-05-08
+"Napo"	"Quijos"	765	2022-05-08
+"Napo"	"Tena"	4233	2022-05-08
+"Napo"	"Archidona"	842	2022-05-09
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-09
+"Napo"	"El Chaco"	801	2022-05-09
+"Napo"	"Quijos"	765	2022-05-09
+"Napo"	"Tena"	4233	2022-05-09
+"Napo"	"Archidona"	842	2022-05-10
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-10
+"Napo"	"El Chaco"	801	2022-05-10
+"Napo"	"Quijos"	765	2022-05-10
+"Napo"	"Tena"	4233	2022-05-10
+"Napo"	"Archidona"	842	2022-05-11
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-11
+"Napo"	"El Chaco"	801	2022-05-11
+"Napo"	"Quijos"	765	2022-05-11
+"Napo"	"Tena"	4233	2022-05-11
+"Napo"	"Archidona"	842	2022-05-12
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-12
+"Napo"	"El Chaco"	801	2022-05-12
+"Napo"	"Quijos"	765	2022-05-12
+"Napo"	"Tena"	4233	2022-05-12
+"Napo"	"Archidona"	842	2022-05-13
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-13
+"Napo"	"El Chaco"	801	2022-05-13
+"Napo"	"Quijos"	765	2022-05-13
+"Napo"	"Tena"	4233	2022-05-13
+"Napo"	"Archidona"	842	2022-05-14
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-14
+"Napo"	"El Chaco"	801	2022-05-14
+"Napo"	"Quijos"	765	2022-05-14
+"Napo"	"Tena"	4233	2022-05-14
+"Napo"	"Archidona"	842	2022-05-15
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-15
+"Napo"	"El Chaco"	801	2022-05-15
+"Napo"	"Quijos"	765	2022-05-15
+"Napo"	"Tena"	4233	2022-05-15
+"Napo"	"Archidona"	842	2022-05-16
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-16
+"Napo"	"El Chaco"	801	2022-05-16
+"Napo"	"Quijos"	765	2022-05-16
+"Napo"	"Tena"	4233	2022-05-16
+"Napo"	"Archidona"	842	2022-05-17
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-17
+"Napo"	"El Chaco"	801	2022-05-17
+"Napo"	"Quijos"	765	2022-05-17
+"Napo"	"Tena"	4233	2022-05-17
+"Napo"	"Archidona"	843	2022-05-18
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-18
+"Napo"	"El Chaco"	801	2022-05-18
+"Napo"	"Quijos"	765	2022-05-18
+"Napo"	"Tena"	4234	2022-05-18
+"Napo"	"Archidona"	844	2022-05-19
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-19
+"Napo"	"El Chaco"	803	2022-05-19
+"Napo"	"Quijos"	765	2022-05-19
+"Napo"	"Tena"	4234	2022-05-19
+"Napo"	"Archidona"	844	2022-05-20
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-20
+"Napo"	"El Chaco"	803	2022-05-20
+"Napo"	"Quijos"	765	2022-05-20
+"Napo"	"Tena"	4235	2022-05-20
+"Napo"	"Archidona"	844	2022-05-21
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-21
+"Napo"	"El Chaco"	803	2022-05-21
+"Napo"	"Quijos"	765	2022-05-21
+"Napo"	"Tena"	4235	2022-05-21
+"Napo"	"Archidona"	844	2022-05-22
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-22
+"Napo"	"El Chaco"	803	2022-05-22
+"Napo"	"Quijos"	765	2022-05-22
+"Napo"	"Tena"	4235	2022-05-22
+"Napo"	"Archidona"	844	2022-05-23
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-23
+"Napo"	"El Chaco"	803	2022-05-23
+"Napo"	"Quijos"	765	2022-05-23
+"Napo"	"Tena"	4235	2022-05-23
+"Napo"	"Archidona"	844	2022-05-24
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-24
+"Napo"	"El Chaco"	803	2022-05-24
+"Napo"	"Quijos"	765	2022-05-24
+"Napo"	"Tena"	4235	2022-05-24
+"Napo"	"Archidona"	844	2022-05-25
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-25
+"Napo"	"El Chaco"	803	2022-05-25
+"Napo"	"Quijos"	765	2022-05-25
+"Napo"	"Tena"	4235	2022-05-25
+"Napo"	"Archidona"	844	2022-05-26
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-26
+"Napo"	"El Chaco"	803	2022-05-26
+"Napo"	"Quijos"	765	2022-05-26
+"Napo"	"Tena"	4235	2022-05-26
+"Napo"	"Archidona"	844	2022-05-27
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-27
+"Napo"	"El Chaco"	803	2022-05-27
+"Napo"	"Quijos"	765	2022-05-27
+"Napo"	"Tena"	4235	2022-05-27
+"Napo"	"Archidona"	844	2022-05-28
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-28
+"Napo"	"El Chaco"	803	2022-05-28
+"Napo"	"Quijos"	765	2022-05-28
+"Napo"	"Tena"	4236	2022-05-28
+"Napo"	"Archidona"	844	2022-05-29
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-29
+"Napo"	"El Chaco"	803	2022-05-29
+"Napo"	"Quijos"	766	2022-05-29
+"Napo"	"Tena"	4236	2022-05-29
+"Napo"	"Archidona"	844	2022-05-30
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-30
+"Napo"	"El Chaco"	803	2022-05-30
+"Napo"	"Quijos"	766	2022-05-30
+"Napo"	"Tena"	4236	2022-05-30
+"Napo"	"Archidona"	844	2022-05-31
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-05-31
+"Napo"	"El Chaco"	805	2022-05-31
+"Napo"	"Quijos"	766	2022-05-31
+"Napo"	"Tena"	4236	2022-05-31
+"Napo"	"Archidona"	844	2022-06-01
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-01
+"Napo"	"El Chaco"	806	2022-06-01
+"Napo"	"Quijos"	766	2022-06-01
+"Napo"	"Tena"	4236	2022-06-01
+"Napo"	"Archidona"	845	2022-06-02
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-02
+"Napo"	"El Chaco"	806	2022-06-02
+"Napo"	"Quijos"	766	2022-06-02
+"Napo"	"Tena"	4239	2022-06-02
+"Napo"	"Archidona"	845	2022-06-03
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-03
+"Napo"	"El Chaco"	806	2022-06-03
+"Napo"	"Quijos"	767	2022-06-03
+"Napo"	"Tena"	4240	2022-06-03
+"Napo"	"Archidona"	845	2022-06-04
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-04
+"Napo"	"El Chaco"	806	2022-06-04
+"Napo"	"Quijos"	767	2022-06-04
+"Napo"	"Tena"	4241	2022-06-04
+"Napo"	"Archidona"	845	2022-06-05
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-05
+"Napo"	"El Chaco"	806	2022-06-05
+"Napo"	"Quijos"	767	2022-06-05
+"Napo"	"Tena"	4242	2022-06-05
+"Napo"	"Archidona"	845	2022-06-06
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-06
+"Napo"	"El Chaco"	806	2022-06-06
+"Napo"	"Quijos"	767	2022-06-06
+"Napo"	"Tena"	4242	2022-06-06
+"Napo"	"Archidona"	845	2022-06-07
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-07
+"Napo"	"El Chaco"	807	2022-06-07
+"Napo"	"Quijos"	767	2022-06-07
+"Napo"	"Tena"	4242	2022-06-07
+"Napo"	"Archidona"	845	2022-06-08
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-08
+"Napo"	"El Chaco"	807	2022-06-08
+"Napo"	"Quijos"	768	2022-06-08
+"Napo"	"Tena"	4242	2022-06-08
+"Napo"	"Archidona"	845	2022-06-09
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-09
+"Napo"	"El Chaco"	808	2022-06-09
+"Napo"	"Quijos"	768	2022-06-09
+"Napo"	"Tena"	4242	2022-06-09
+"Napo"	"Archidona"	846	2022-06-10
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-10
+"Napo"	"El Chaco"	808	2022-06-10
+"Napo"	"Quijos"	768	2022-06-10
+"Napo"	"Tena"	4243	2022-06-10
+"Napo"	"Archidona"	846	2022-06-11
+"Napo"	"Carlos Julio Arosemena Tola"	145	2022-06-11
+"Napo"	"El Chaco"	808	2022-06-11
+"Napo"	"Quijos"	768	2022-06-11
+"Napo"	"Tena"	4243	2022-06-11
