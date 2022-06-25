@@ -5746,3 +5746,66 @@
 "Cotopaxi"	"Salcedo"	4451	2022-06-11
 "Cotopaxi"	"Saquisilí"	1138	2022-06-11
 "Cotopaxi"	"Sigchos"	657	2022-06-11
+"Cotopaxi"	"La Maná"	945	2022-06-12
+"Cotopaxi"	"Latacunga"	8164	2022-06-12
+"Cotopaxi"	"Pangua"	498	2022-06-12
+"Cotopaxi"	"Pujilí"	2461	2022-06-12
+"Cotopaxi"	"Salcedo"	4453	2022-06-12
+"Cotopaxi"	"Saquisilí"	1138	2022-06-12
+"Cotopaxi"	"Sigchos"	657	2022-06-12
+"Cotopaxi"	"La Maná"	945	2022-06-13
+"Cotopaxi"	"Latacunga"	8164	2022-06-13
+"Cotopaxi"	"Pangua"	498	2022-06-13
+"Cotopaxi"	"Pujilí"	2461	2022-06-13
+"Cotopaxi"	"Salcedo"	4453	2022-06-13
+"Cotopaxi"	"Saquisilí"	1139	2022-06-13
+"Cotopaxi"	"Sigchos"	657	2022-06-13
+"Cotopaxi"	"La Maná"	946	2022-06-14
+"Cotopaxi"	"Latacunga"	8179	2022-06-14
+"Cotopaxi"	"Pangua"	498	2022-06-14
+"Cotopaxi"	"Pujilí"	2467	2022-06-14
+"Cotopaxi"	"Salcedo"	4457	2022-06-14
+"Cotopaxi"	"Saquisilí"	1139	2022-06-14
+"Cotopaxi"	"Sigchos"	657	2022-06-14
+"Cotopaxi"	"La Maná"	946	2022-06-15
+"Cotopaxi"	"Latacunga"	8189	2022-06-15
+"Cotopaxi"	"Pangua"	499	2022-06-15
+"Cotopaxi"	"Pujilí"	2472	2022-06-15
+"Cotopaxi"	"Salcedo"	4463	2022-06-15
+"Cotopaxi"	"Saquisilí"	1139	2022-06-15
+"Cotopaxi"	"Sigchos"	657	2022-06-15
+"Cotopaxi"	"La Maná"	946	2022-06-16
+"Cotopaxi"	"Latacunga"	8198	2022-06-16
+"Cotopaxi"	"Pangua"	499	2022-06-16
+"Cotopaxi"	"Pujilí"	2473	2022-06-16
+"Cotopaxi"	"Salcedo"	4467	2022-06-16
+"Cotopaxi"	"Saquisilí"	1139	2022-06-16
+"Cotopaxi"	"Sigchos"	657	2022-06-16
+"Cotopaxi"	"La Maná"	946	2022-06-17
+"Cotopaxi"	"Latacunga"	8213	2022-06-17
+"Cotopaxi"	"Pangua"	499	2022-06-17
+"Cotopaxi"	"Pujilí"	2474	2022-06-17
+"Cotopaxi"	"Salcedo"	4470	2022-06-17
+"Cotopaxi"	"Saquisilí"	1139	2022-06-17
+"Cotopaxi"	"Sigchos"	657	2022-06-17
+"Cotopaxi"	"La Maná"	946	2022-06-18
+"Cotopaxi"	"Latacunga"	8219	2022-06-18
+"Cotopaxi"	"Pangua"	499	2022-06-18
+"Cotopaxi"	"Pujilí"	2475	2022-06-18
+"Cotopaxi"	"Salcedo"	4474	2022-06-18
+"Cotopaxi"	"Saquisilí"	1140	2022-06-18
+"Cotopaxi"	"Sigchos"	657	2022-06-18
+"Cotopaxi"	"La Maná"	946	2022-06-19
+"Cotopaxi"	"Latacunga"	8221	2022-06-19
+"Cotopaxi"	"Pangua"	499	2022-06-19
+"Cotopaxi"	"Pujilí"	2477	2022-06-19
+"Cotopaxi"	"Salcedo"	4474	2022-06-19
+"Cotopaxi"	"Saquisilí"	1140	2022-06-19
+"Cotopaxi"	"Sigchos"	657	2022-06-19
+"Cotopaxi"	"La Maná"	946	2022-06-20
+"Cotopaxi"	"Latacunga"	8224	2022-06-20
+"Cotopaxi"	"Pangua"	499	2022-06-20
+"Cotopaxi"	"Pujilí"	2477	2022-06-20
+"Cotopaxi"	"Salcedo"	4476	2022-06-20
+"Cotopaxi"	"Saquisilí"	1140	2022-06-20
+"Cotopaxi"	"Sigchos"	657	2022-06-20

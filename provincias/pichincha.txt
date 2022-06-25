@@ -6567,3 +6567,75 @@
 "Pichincha"	"Quito"	309156	2022-06-11
 "Pichincha"	"Rumiñahui"	11185	2022-06-11
 "Pichincha"	"San Miguel de Los Bancos"	1033	2022-06-11
+"Pichincha"	"Cayambe"	4345	2022-06-12
+"Pichincha"	"Mejía"	6160	2022-06-12
+"Pichincha"	"Pedro Moncayo"	1180	2022-06-12
+"Pichincha"	"Pedro Vicente Maldonado"	608	2022-06-12
+"Pichincha"	"Puerto Quito"	832	2022-06-12
+"Pichincha"	"Quito"	309332	2022-06-12
+"Pichincha"	"Rumiñahui"	11191	2022-06-12
+"Pichincha"	"San Miguel de Los Bancos"	1035	2022-06-12
+"Pichincha"	"Cayambe"	4345	2022-06-13
+"Pichincha"	"Mejía"	6160	2022-06-13
+"Pichincha"	"Pedro Moncayo"	1180	2022-06-13
+"Pichincha"	"Pedro Vicente Maldonado"	608	2022-06-13
+"Pichincha"	"Puerto Quito"	832	2022-06-13
+"Pichincha"	"Quito"	309455	2022-06-13
+"Pichincha"	"Rumiñahui"	11217	2022-06-13
+"Pichincha"	"San Miguel de Los Bancos"	1037	2022-06-13
+"Pichincha"	"Cayambe"	4357	2022-06-14
+"Pichincha"	"Mejía"	6163	2022-06-14
+"Pichincha"	"Pedro Moncayo"	1186	2022-06-14
+"Pichincha"	"Pedro Vicente Maldonado"	608	2022-06-14
+"Pichincha"	"Puerto Quito"	833	2022-06-14
+"Pichincha"	"Quito"	309919	2022-06-14
+"Pichincha"	"Rumiñahui"	11242	2022-06-14
+"Pichincha"	"San Miguel de Los Bancos"	1039	2022-06-14
+"Pichincha"	"Cayambe"	4371	2022-06-15
+"Pichincha"	"Mejía"	6170	2022-06-15
+"Pichincha"	"Pedro Moncayo"	1186	2022-06-15
+"Pichincha"	"Pedro Vicente Maldonado"	608	2022-06-15
+"Pichincha"	"Puerto Quito"	833	2022-06-15
+"Pichincha"	"Quito"	310738	2022-06-15
+"Pichincha"	"Rumiñahui"	11271	2022-06-15
+"Pichincha"	"San Miguel de Los Bancos"	1040	2022-06-15
+"Pichincha"	"Cayambe"	4374	2022-06-16
+"Pichincha"	"Mejía"	6175	2022-06-16
+"Pichincha"	"Pedro Moncayo"	1188	2022-06-16
+"Pichincha"	"Pedro Vicente Maldonado"	608	2022-06-16
+"Pichincha"	"Puerto Quito"	833	2022-06-16
+"Pichincha"	"Quito"	311558	2022-06-16
+"Pichincha"	"Rumiñahui"	11309	2022-06-16
+"Pichincha"	"San Miguel de Los Bancos"	1041	2022-06-16
+"Pichincha"	"Cayambe"	4380	2022-06-17
+"Pichincha"	"Mejía"	6179	2022-06-17
+"Pichincha"	"Pedro Moncayo"	1188	2022-06-17
+"Pichincha"	"Pedro Vicente Maldonado"	608	2022-06-17
+"Pichincha"	"Puerto Quito"	833	2022-06-17
+"Pichincha"	"Quito"	312263	2022-06-17
+"Pichincha"	"Rumiñahui"	11334	2022-06-17
+"Pichincha"	"San Miguel de Los Bancos"	1041	2022-06-17
+"Pichincha"	"Cayambe"	4382	2022-06-18
+"Pichincha"	"Mejía"	6181	2022-06-18
+"Pichincha"	"Pedro Moncayo"	1189	2022-06-18
+"Pichincha"	"Pedro Vicente Maldonado"	608	2022-06-18
+"Pichincha"	"Puerto Quito"	833	2022-06-18
+"Pichincha"	"Quito"	312997	2022-06-18
+"Pichincha"	"Rumiñahui"	11365	2022-06-18
+"Pichincha"	"San Miguel de Los Bancos"	1041	2022-06-18
+"Pichincha"	"Cayambe"	4382	2022-06-19
+"Pichincha"	"Mejía"	6182	2022-06-19
+"Pichincha"	"Pedro Moncayo"	1189	2022-06-19
+"Pichincha"	"Pedro Vicente Maldonado"	608	2022-06-19
+"Pichincha"	"Puerto Quito"	834	2022-06-19
+"Pichincha"	"Quito"	313367	2022-06-19
+"Pichincha"	"Rumiñahui"	11386	2022-06-19
+"Pichincha"	"San Miguel de Los Bancos"	1041	2022-06-19
+"Pichincha"	"Cayambe"	4382	2022-06-20
+"Pichincha"	"Mejía"	6182	2022-06-20
+"Pichincha"	"Pedro Moncayo"	1189	2022-06-20
+"Pichincha"	"Pedro Vicente Maldonado"	608	2022-06-20
+"Pichincha"	"Puerto Quito"	834	2022-06-20
+"Pichincha"	"Quito"	313473	2022-06-20
+"Pichincha"	"Rumiñahui"	11395	2022-06-20
+"Pichincha"	"San Miguel de Los Bancos"	1041	2022-06-20

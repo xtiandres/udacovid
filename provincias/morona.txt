@@ -9851,3 +9851,111 @@
 "Morona Santiago"	"Sucúa"	1374	2022-06-11
 "Morona Santiago"	"Taisha"	444	2022-06-11
 "Morona Santiago"	"Tiwintza"	183	2022-06-11
+"Morona Santiago"	"Gualaquiza"	1656	2022-06-12
+"Morona Santiago"	"Huamboya"	258	2022-06-12
+"Morona Santiago"	"Limón Indanza"	754	2022-06-12
+"Morona Santiago"	"Logroño"	225	2022-06-12
+"Morona Santiago"	"Morona"	4062	2022-06-12
+"Morona Santiago"	"Pablo Sexto"	151	2022-06-12
+"Morona Santiago"	"Palora"	678	2022-06-12
+"Morona Santiago"	"San Juan Bosco"	226	2022-06-12
+"Morona Santiago"	"Santiago"	547	2022-06-12
+"Morona Santiago"	"Sucúa"	1374	2022-06-12
+"Morona Santiago"	"Taisha"	444	2022-06-12
+"Morona Santiago"	"Tiwintza"	183	2022-06-12
+"Morona Santiago"	"Gualaquiza"	1656	2022-06-13
+"Morona Santiago"	"Huamboya"	258	2022-06-13
+"Morona Santiago"	"Limón Indanza"	754	2022-06-13
+"Morona Santiago"	"Logroño"	225	2022-06-13
+"Morona Santiago"	"Morona"	4062	2022-06-13
+"Morona Santiago"	"Pablo Sexto"	151	2022-06-13
+"Morona Santiago"	"Palora"	678	2022-06-13
+"Morona Santiago"	"San Juan Bosco"	226	2022-06-13
+"Morona Santiago"	"Santiago"	547	2022-06-13
+"Morona Santiago"	"Sucúa"	1375	2022-06-13
+"Morona Santiago"	"Taisha"	444	2022-06-13
+"Morona Santiago"	"Tiwintza"	183	2022-06-13
+"Morona Santiago"	"Gualaquiza"	1656	2022-06-14
+"Morona Santiago"	"Huamboya"	258	2022-06-14
+"Morona Santiago"	"Limón Indanza"	754	2022-06-14
+"Morona Santiago"	"Logroño"	226	2022-06-14
+"Morona Santiago"	"Morona"	4066	2022-06-14
+"Morona Santiago"	"Pablo Sexto"	151	2022-06-14
+"Morona Santiago"	"Palora"	679	2022-06-14
+"Morona Santiago"	"San Juan Bosco"	226	2022-06-14
+"Morona Santiago"	"Santiago"	547	2022-06-14
+"Morona Santiago"	"Sucúa"	1375	2022-06-14
+"Morona Santiago"	"Taisha"	444	2022-06-14
+"Morona Santiago"	"Tiwintza"	183	2022-06-14
+"Morona Santiago"	"Gualaquiza"	1657	2022-06-15
+"Morona Santiago"	"Huamboya"	258	2022-06-15
+"Morona Santiago"	"Limón Indanza"	755	2022-06-15
+"Morona Santiago"	"Logroño"	226	2022-06-15
+"Morona Santiago"	"Morona"	4067	2022-06-15
+"Morona Santiago"	"Pablo Sexto"	151	2022-06-15
+"Morona Santiago"	"Palora"	679	2022-06-15
+"Morona Santiago"	"San Juan Bosco"	226	2022-06-15
+"Morona Santiago"	"Santiago"	547	2022-06-15
+"Morona Santiago"	"Sucúa"	1375	2022-06-15
+"Morona Santiago"	"Taisha"	444	2022-06-15
+"Morona Santiago"	"Tiwintza"	183	2022-06-15
+"Morona Santiago"	"Gualaquiza"	1658	2022-06-16
+"Morona Santiago"	"Huamboya"	258	2022-06-16
+"Morona Santiago"	"Limón Indanza"	756	2022-06-16
+"Morona Santiago"	"Logroño"	228	2022-06-16
+"Morona Santiago"	"Morona"	4070	2022-06-16
+"Morona Santiago"	"Pablo Sexto"	151	2022-06-16
+"Morona Santiago"	"Palora"	679	2022-06-16
+"Morona Santiago"	"San Juan Bosco"	226	2022-06-16
+"Morona Santiago"	"Santiago"	547	2022-06-16
+"Morona Santiago"	"Sucúa"	1377	2022-06-16
+"Morona Santiago"	"Taisha"	444	2022-06-16
+"Morona Santiago"	"Tiwintza"	183	2022-06-16
+"Morona Santiago"	"Gualaquiza"	1658	2022-06-17
+"Morona Santiago"	"Huamboya"	258	2022-06-17
+"Morona Santiago"	"Limón Indanza"	756	2022-06-17
+"Morona Santiago"	"Logroño"	228	2022-06-17
+"Morona Santiago"	"Morona"	4084	2022-06-17
+"Morona Santiago"	"Pablo Sexto"	151	2022-06-17
+"Morona Santiago"	"Palora"	679	2022-06-17
+"Morona Santiago"	"San Juan Bosco"	226	2022-06-17
+"Morona Santiago"	"Santiago"	548	2022-06-17
+"Morona Santiago"	"Sucúa"	1381	2022-06-17
+"Morona Santiago"	"Taisha"	444	2022-06-17
+"Morona Santiago"	"Tiwintza"	183	2022-06-17
+"Morona Santiago"	"Gualaquiza"	1659	2022-06-18
+"Morona Santiago"	"Huamboya"	258	2022-06-18
+"Morona Santiago"	"Limón Indanza"	757	2022-06-18
+"Morona Santiago"	"Logroño"	228	2022-06-18
+"Morona Santiago"	"Morona"	4088	2022-06-18
+"Morona Santiago"	"Pablo Sexto"	151	2022-06-18
+"Morona Santiago"	"Palora"	680	2022-06-18
+"Morona Santiago"	"San Juan Bosco"	226	2022-06-18
+"Morona Santiago"	"Santiago"	548	2022-06-18
+"Morona Santiago"	"Sucúa"	1386	2022-06-18
+"Morona Santiago"	"Taisha"	444	2022-06-18
+"Morona Santiago"	"Tiwintza"	183	2022-06-18
+"Morona Santiago"	"Gualaquiza"	1659	2022-06-19
+"Morona Santiago"	"Huamboya"	258	2022-06-19
+"Morona Santiago"	"Limón Indanza"	757	2022-06-19
+"Morona Santiago"	"Logroño"	228	2022-06-19
+"Morona Santiago"	"Morona"	4088	2022-06-19
+"Morona Santiago"	"Pablo Sexto"	151	2022-06-19
+"Morona Santiago"	"Palora"	680	2022-06-19
+"Morona Santiago"	"San Juan Bosco"	226	2022-06-19
+"Morona Santiago"	"Santiago"	548	2022-06-19
+"Morona Santiago"	"Sucúa"	1386	2022-06-19
+"Morona Santiago"	"Taisha"	444	2022-06-19
+"Morona Santiago"	"Tiwintza"	183	2022-06-19
+"Morona Santiago"	"Gualaquiza"	1659	2022-06-20
+"Morona Santiago"	"Huamboya"	258	2022-06-20
+"Morona Santiago"	"Limón Indanza"	757	2022-06-20
+"Morona Santiago"	"Logroño"	228	2022-06-20
+"Morona Santiago"	"Morona"	4088	2022-06-20
+"Morona Santiago"	"Pablo Sexto"	151	2022-06-20
+"Morona Santiago"	"Palora"	680	2022-06-20
+"Morona Santiago"	"San Juan Bosco"	226	2022-06-20
+"Morona Santiago"	"Santiago"	548	2022-06-20
+"Morona Santiago"	"Sucúa"	1387	2022-06-20
+"Morona Santiago"	"Taisha"	444	2022-06-20
+"Morona Santiago"	"Tiwintza"	183	2022-06-20

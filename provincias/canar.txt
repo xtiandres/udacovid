@@ -5746,3 +5746,66 @@
 "Cañar"	"El Tambo"	621	2022-06-11
 "Cañar"	"La Troncal"	2137	2022-06-11
 "Cañar"	"Suscal"	127	2022-06-11
+"Cañar"	"Azogues"	7904	2022-06-12
+"Cañar"	"Biblían"	1336	2022-06-12
+"Cañar"	"Cañar"	2802	2022-06-12
+"Cañar"	"Déleg"	221	2022-06-12
+"Cañar"	"El Tambo"	621	2022-06-12
+"Cañar"	"La Troncal"	2137	2022-06-12
+"Cañar"	"Suscal"	127	2022-06-12
+"Cañar"	"Azogues"	7906	2022-06-13
+"Cañar"	"Biblían"	1336	2022-06-13
+"Cañar"	"Cañar"	2802	2022-06-13
+"Cañar"	"Déleg"	221	2022-06-13
+"Cañar"	"El Tambo"	621	2022-06-13
+"Cañar"	"La Troncal"	2137	2022-06-13
+"Cañar"	"Suscal"	127	2022-06-13
+"Cañar"	"Azogues"	7914	2022-06-14
+"Cañar"	"Biblían"	1338	2022-06-14
+"Cañar"	"Cañar"	2806	2022-06-14
+"Cañar"	"Déleg"	221	2022-06-14
+"Cañar"	"El Tambo"	621	2022-06-14
+"Cañar"	"La Troncal"	2137	2022-06-14
+"Cañar"	"Suscal"	127	2022-06-14
+"Cañar"	"Azogues"	7937	2022-06-15
+"Cañar"	"Biblían"	1338	2022-06-15
+"Cañar"	"Cañar"	2822	2022-06-15
+"Cañar"	"Déleg"	222	2022-06-15
+"Cañar"	"El Tambo"	622	2022-06-15
+"Cañar"	"La Troncal"	2137	2022-06-15
+"Cañar"	"Suscal"	127	2022-06-15
+"Cañar"	"Azogues"	7950	2022-06-16
+"Cañar"	"Biblían"	1342	2022-06-16
+"Cañar"	"Cañar"	2827	2022-06-16
+"Cañar"	"Déleg"	222	2022-06-16
+"Cañar"	"El Tambo"	622	2022-06-16
+"Cañar"	"La Troncal"	2137	2022-06-16
+"Cañar"	"Suscal"	127	2022-06-16
+"Cañar"	"Azogues"	7959	2022-06-17
+"Cañar"	"Biblían"	1342	2022-06-17
+"Cañar"	"Cañar"	2838	2022-06-17
+"Cañar"	"Déleg"	223	2022-06-17
+"Cañar"	"El Tambo"	622	2022-06-17
+"Cañar"	"La Troncal"	2139	2022-06-17
+"Cañar"	"Suscal"	127	2022-06-17
+"Cañar"	"Azogues"	7977	2022-06-18
+"Cañar"	"Biblían"	1345	2022-06-18
+"Cañar"	"Cañar"	2855	2022-06-18
+"Cañar"	"Déleg"	224	2022-06-18
+"Cañar"	"El Tambo"	623	2022-06-18
+"Cañar"	"La Troncal"	2141	2022-06-18
+"Cañar"	"Suscal"	127	2022-06-18
+"Cañar"	"Azogues"	7981	2022-06-19
+"Cañar"	"Biblían"	1345	2022-06-19
+"Cañar"	"Cañar"	2861	2022-06-19
+"Cañar"	"Déleg"	224	2022-06-19
+"Cañar"	"El Tambo"	624	2022-06-19
+"Cañar"	"La Troncal"	2142	2022-06-19
+"Cañar"	"Suscal"	127	2022-06-19
+"Cañar"	"Azogues"	7982	2022-06-20
+"Cañar"	"Biblían"	1345	2022-06-20
+"Cañar"	"Cañar"	2861	2022-06-20
+"Cañar"	"Déleg"	224	2022-06-20
+"Cañar"	"El Tambo"	626	2022-06-20
+"Cañar"	"La Troncal"	2143	2022-06-20
+"Cañar"	"Suscal"	127	2022-06-20

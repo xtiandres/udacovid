@@ -3283,3 +3283,39 @@
 "Pastaza"	"Mera"	1011	2022-06-11
 "Pastaza"	"Pastaza"	3923	2022-06-11
 "Pastaza"	"Santa Clara"	193	2022-06-11
+"Pastaza"	"Arajuno"	215	2022-06-12
+"Pastaza"	"Mera"	1011	2022-06-12
+"Pastaza"	"Pastaza"	3923	2022-06-12
+"Pastaza"	"Santa Clara"	193	2022-06-12
+"Pastaza"	"Arajuno"	215	2022-06-13
+"Pastaza"	"Mera"	1011	2022-06-13
+"Pastaza"	"Pastaza"	3923	2022-06-13
+"Pastaza"	"Santa Clara"	193	2022-06-13
+"Pastaza"	"Arajuno"	215	2022-06-14
+"Pastaza"	"Mera"	1012	2022-06-14
+"Pastaza"	"Pastaza"	3934	2022-06-14
+"Pastaza"	"Santa Clara"	193	2022-06-14
+"Pastaza"	"Arajuno"	215	2022-06-15
+"Pastaza"	"Mera"	1014	2022-06-15
+"Pastaza"	"Pastaza"	3942	2022-06-15
+"Pastaza"	"Santa Clara"	193	2022-06-15
+"Pastaza"	"Arajuno"	215	2022-06-16
+"Pastaza"	"Mera"	1015	2022-06-16
+"Pastaza"	"Pastaza"	3949	2022-06-16
+"Pastaza"	"Santa Clara"	193	2022-06-16
+"Pastaza"	"Arajuno"	215	2022-06-17
+"Pastaza"	"Mera"	1018	2022-06-17
+"Pastaza"	"Pastaza"	3970	2022-06-17
+"Pastaza"	"Santa Clara"	193	2022-06-17
+"Pastaza"	"Arajuno"	215	2022-06-18
+"Pastaza"	"Mera"	1018	2022-06-18
+"Pastaza"	"Pastaza"	3972	2022-06-18
+"Pastaza"	"Santa Clara"	193	2022-06-18
+"Pastaza"	"Arajuno"	215	2022-06-19
+"Pastaza"	"Mera"	1018	2022-06-19
+"Pastaza"	"Pastaza"	3972	2022-06-19
+"Pastaza"	"Santa Clara"	193	2022-06-19
+"Pastaza"	"Arajuno"	215	2022-06-20
+"Pastaza"	"Mera"	1018	2022-06-20
+"Pastaza"	"Pastaza"	3972	2022-06-20
+"Pastaza"	"Santa Clara"	193	2022-06-20

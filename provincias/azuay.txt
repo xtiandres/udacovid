@@ -12314,3 +12314,138 @@
 "Azuay"	"Santa Isabel"	1256	2022-06-11
 "Azuay"	"Sevilla de Oro"	605	2022-06-11
 "Azuay"	"Sígsig"	936	2022-06-11
+"Azuay"	"Camilo Ponce Enríquez"	803	2022-06-12
+"Azuay"	"Chordeleg"	335	2022-06-12
+"Azuay"	"Cuenca"	34910	2022-06-12
+"Azuay"	"El Pan"	234	2022-06-12
+"Azuay"	"Girón"	489	2022-06-12
+"Azuay"	"Guachapala"	364	2022-06-12
+"Azuay"	"Gualaceo"	1731	2022-06-12
+"Azuay"	"Nabón"	335	2022-06-12
+"Azuay"	"Oña"	108	2022-06-12
+"Azuay"	"Paute"	1780	2022-06-12
+"Azuay"	"Pucará"	208	2022-06-12
+"Azuay"	"San Fernando"	181	2022-06-12
+"Azuay"	"Santa Isabel"	1258	2022-06-12
+"Azuay"	"Sevilla de Oro"	606	2022-06-12
+"Azuay"	"Sígsig"	937	2022-06-12
+"Azuay"	"Camilo Ponce Enríquez"	803	2022-06-13
+"Azuay"	"Chordeleg"	335	2022-06-13
+"Azuay"	"Cuenca"	34927	2022-06-13
+"Azuay"	"El Pan"	234	2022-06-13
+"Azuay"	"Girón"	489	2022-06-13
+"Azuay"	"Guachapala"	365	2022-06-13
+"Azuay"	"Gualaceo"	1731	2022-06-13
+"Azuay"	"Nabón"	335	2022-06-13
+"Azuay"	"Oña"	108	2022-06-13
+"Azuay"	"Paute"	1780	2022-06-13
+"Azuay"	"Pucará"	208	2022-06-13
+"Azuay"	"San Fernando"	183	2022-06-13
+"Azuay"	"Santa Isabel"	1259	2022-06-13
+"Azuay"	"Sevilla de Oro"	606	2022-06-13
+"Azuay"	"Sígsig"	938	2022-06-13
+"Azuay"	"Camilo Ponce Enríquez"	804	2022-06-14
+"Azuay"	"Chordeleg"	335	2022-06-14
+"Azuay"	"Cuenca"	35014	2022-06-14
+"Azuay"	"El Pan"	234	2022-06-14
+"Azuay"	"Girón"	491	2022-06-14
+"Azuay"	"Guachapala"	365	2022-06-14
+"Azuay"	"Gualaceo"	1736	2022-06-14
+"Azuay"	"Nabón"	335	2022-06-14
+"Azuay"	"Oña"	108	2022-06-14
+"Azuay"	"Paute"	1781	2022-06-14
+"Azuay"	"Pucará"	211	2022-06-14
+"Azuay"	"San Fernando"	184	2022-06-14
+"Azuay"	"Santa Isabel"	1268	2022-06-14
+"Azuay"	"Sevilla de Oro"	609	2022-06-14
+"Azuay"	"Sígsig"	938	2022-06-14
+"Azuay"	"Camilo Ponce Enríquez"	804	2022-06-15
+"Azuay"	"Chordeleg"	335	2022-06-15
+"Azuay"	"Cuenca"	35117	2022-06-15
+"Azuay"	"El Pan"	234	2022-06-15
+"Azuay"	"Girón"	493	2022-06-15
+"Azuay"	"Guachapala"	365	2022-06-15
+"Azuay"	"Gualaceo"	1737	2022-06-15
+"Azuay"	"Nabón"	335	2022-06-15
+"Azuay"	"Oña"	108	2022-06-15
+"Azuay"	"Paute"	1784	2022-06-15
+"Azuay"	"Pucará"	213	2022-06-15
+"Azuay"	"San Fernando"	184	2022-06-15
+"Azuay"	"Santa Isabel"	1274	2022-06-15
+"Azuay"	"Sevilla de Oro"	609	2022-06-15
+"Azuay"	"Sígsig"	941	2022-06-15
+"Azuay"	"Camilo Ponce Enríquez"	805	2022-06-16
+"Azuay"	"Chordeleg"	335	2022-06-16
+"Azuay"	"Cuenca"	35200	2022-06-16
+"Azuay"	"El Pan"	234	2022-06-16
+"Azuay"	"Girón"	493	2022-06-16
+"Azuay"	"Guachapala"	367	2022-06-16
+"Azuay"	"Gualaceo"	1741	2022-06-16
+"Azuay"	"Nabón"	335	2022-06-16
+"Azuay"	"Oña"	108	2022-06-16
+"Azuay"	"Paute"	1786	2022-06-16
+"Azuay"	"Pucará"	216	2022-06-16
+"Azuay"	"San Fernando"	184	2022-06-16
+"Azuay"	"Santa Isabel"	1276	2022-06-16
+"Azuay"	"Sevilla de Oro"	609	2022-06-16
+"Azuay"	"Sígsig"	942	2022-06-16
+"Azuay"	"Camilo Ponce Enríquez"	806	2022-06-17
+"Azuay"	"Chordeleg"	335	2022-06-17
+"Azuay"	"Cuenca"	35313	2022-06-17
+"Azuay"	"El Pan"	234	2022-06-17
+"Azuay"	"Girón"	493	2022-06-17
+"Azuay"	"Guachapala"	367	2022-06-17
+"Azuay"	"Gualaceo"	1744	2022-06-17
+"Azuay"	"Nabón"	336	2022-06-17
+"Azuay"	"Oña"	108	2022-06-17
+"Azuay"	"Paute"	1787	2022-06-17
+"Azuay"	"Pucará"	216	2022-06-17
+"Azuay"	"San Fernando"	185	2022-06-17
+"Azuay"	"Santa Isabel"	1278	2022-06-17
+"Azuay"	"Sevilla de Oro"	609	2022-06-17
+"Azuay"	"Sígsig"	943	2022-06-17
+"Azuay"	"Camilo Ponce Enríquez"	806	2022-06-18
+"Azuay"	"Chordeleg"	335	2022-06-18
+"Azuay"	"Cuenca"	35478	2022-06-18
+"Azuay"	"El Pan"	234	2022-06-18
+"Azuay"	"Girón"	494	2022-06-18
+"Azuay"	"Guachapala"	367	2022-06-18
+"Azuay"	"Gualaceo"	1747	2022-06-18
+"Azuay"	"Nabón"	337	2022-06-18
+"Azuay"	"Oña"	108	2022-06-18
+"Azuay"	"Paute"	1787	2022-06-18
+"Azuay"	"Pucará"	217	2022-06-18
+"Azuay"	"San Fernando"	185	2022-06-18
+"Azuay"	"Santa Isabel"	1285	2022-06-18
+"Azuay"	"Sevilla de Oro"	609	2022-06-18
+"Azuay"	"Sígsig"	944	2022-06-18
+"Azuay"	"Camilo Ponce Enríquez"	806	2022-06-19
+"Azuay"	"Chordeleg"	335	2022-06-19
+"Azuay"	"Cuenca"	35514	2022-06-19
+"Azuay"	"El Pan"	234	2022-06-19
+"Azuay"	"Girón"	494	2022-06-19
+"Azuay"	"Guachapala"	367	2022-06-19
+"Azuay"	"Gualaceo"	1748	2022-06-19
+"Azuay"	"Nabón"	337	2022-06-19
+"Azuay"	"Oña"	108	2022-06-19
+"Azuay"	"Paute"	1787	2022-06-19
+"Azuay"	"Pucará"	219	2022-06-19
+"Azuay"	"San Fernando"	185	2022-06-19
+"Azuay"	"Santa Isabel"	1285	2022-06-19
+"Azuay"	"Sevilla de Oro"	609	2022-06-19
+"Azuay"	"Sígsig"	948	2022-06-19
+"Azuay"	"Camilo Ponce Enríquez"	806	2022-06-20
+"Azuay"	"Chordeleg"	335	2022-06-20
+"Azuay"	"Cuenca"	35524	2022-06-20
+"Azuay"	"El Pan"	234	2022-06-20
+"Azuay"	"Girón"	494	2022-06-20
+"Azuay"	"Guachapala"	367	2022-06-20
+"Azuay"	"Gualaceo"	1748	2022-06-20
+"Azuay"	"Nabón"	338	2022-06-20
+"Azuay"	"Oña"	108	2022-06-20
+"Azuay"	"Paute"	1787	2022-06-20
+"Azuay"	"Pucará"	219	2022-06-20
+"Azuay"	"San Fernando"	185	2022-06-20
+"Azuay"	"Santa Isabel"	1286	2022-06-20
+"Azuay"	"Sevilla de Oro"	609	2022-06-20
+"Azuay"	"Sígsig"	951	2022-06-20

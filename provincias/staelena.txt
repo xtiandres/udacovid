@@ -2462,3 +2462,30 @@
 "Santa Elena"	"La Libertad"	2289	2022-06-11
 "Santa Elena"	"Salinas"	1618	2022-06-11
 "Santa Elena"	"Santa Elena"	2731	2022-06-11
+"Santa Elena"	"La Libertad"	2289	2022-06-12
+"Santa Elena"	"Salinas"	1618	2022-06-12
+"Santa Elena"	"Santa Elena"	2731	2022-06-12
+"Santa Elena"	"La Libertad"	2289	2022-06-13
+"Santa Elena"	"Salinas"	1618	2022-06-13
+"Santa Elena"	"Santa Elena"	2731	2022-06-13
+"Santa Elena"	"La Libertad"	2289	2022-06-14
+"Santa Elena"	"Salinas"	1619	2022-06-14
+"Santa Elena"	"Santa Elena"	2731	2022-06-14
+"Santa Elena"	"La Libertad"	2289	2022-06-15
+"Santa Elena"	"Salinas"	1619	2022-06-15
+"Santa Elena"	"Santa Elena"	2731	2022-06-15
+"Santa Elena"	"La Libertad"	2290	2022-06-16
+"Santa Elena"	"Salinas"	1620	2022-06-16
+"Santa Elena"	"Santa Elena"	2731	2022-06-16
+"Santa Elena"	"La Libertad"	2290	2022-06-17
+"Santa Elena"	"Salinas"	1620	2022-06-17
+"Santa Elena"	"Santa Elena"	2731	2022-06-17
+"Santa Elena"	"La Libertad"	2291	2022-06-18
+"Santa Elena"	"Salinas"	1620	2022-06-18
+"Santa Elena"	"Santa Elena"	2731	2022-06-18
+"Santa Elena"	"La Libertad"	2291	2022-06-19
+"Santa Elena"	"Salinas"	1620	2022-06-19
+"Santa Elena"	"Santa Elena"	2731	2022-06-19
+"Santa Elena"	"La Libertad"	2291	2022-06-20
+"Santa Elena"	"Salinas"	1620	2022-06-20
+"Santa Elena"	"Santa Elena"	2731	2022-06-20
