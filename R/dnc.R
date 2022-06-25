@@ -5,7 +5,8 @@
 # DATASET A PARTIR DE "canpro.R"
 
 # VARIABLE fecha PARA dnc DE PROVINCIAS
-fecha = c("11jun22", "10jun22", "9jun22", 
+fecha = c("20jun22", "19jun22", 
+          "18jun22", "17jun22", "16jun22", "15jun22", "14jun22", "13jun22", "12jun22", "11jun22", "10jun22", "9jun22", 
           "8jun22", "7jun22", "6jun22", "5jun22", "4jun22", "3jun22", "2jun22", "1jun22", "31may22", "30may22",
           "29may22", "28may22", "27may22", "26may22", "25may22", "24may22", "23may22", "22may22", "21may22", "20may22", 
           "19may22", "18may22", "17may22", "16may22", "15may22", "14may22", "13may22", "12may22", "11may22", "10may22", 
@@ -25,80 +26,107 @@ fecha = c("11jun22", "10jun22", "9jun22",
 
 # VARIABLE POBLACION PROVINCIAS POR CADA 100MIL HABITANTES
 pgu <- guayas22 %>%
-  filter(canton == "Guayaquil" & created_at == "2022-06-07")
+  filter(canton == "Guayaquil" & created_at == "2022-06-20")
 pgu <- (pgu$provincia_poblacion)/100000
 ppi <- pichincha22 %>%
-  filter(canton == "Quito" & created_at == "2022-06-07")
+  filter(canton == "Quito" & created_at == "2022-06-20")
 ppi <- (ppi$provincia_poblacion)/100000
 pma <- manabi22 %>%
-  filter(canton == "Manta" & created_at == "2022-06-07")
+  filter(canton == "Manta" & created_at == "2022-06-20")
 pma <- (pma$provincia_poblacion)/100000
 plr <- losrios22 %>%
-  filter(canton == "Babahoyo" & created_at == "2022-06-07")
+  filter(canton == "Babahoyo" & created_at == "2022-06-20")
 plr <- (plr$provincia_poblacion)/100000
 paz <- azuay22 %>%
-  filter(canton == "Cuenca" & created_at == "2022-06-07")
+  filter(canton == "Cuenca" & created_at == "2022-06-20")
 paz <- (paz$provincia_poblacion)/100000
 pel <- eloro22 %>%
-  filter(canton == "Machala" & created_at == "2022-06-07")
+  filter(canton == "Machala" & created_at == "2022-06-20")
 pel <- (pel$provincia_poblacion)/100000
 pes <- esmeraldas22 %>%
-  filter(canton == "Esmeraldas" & created_at == "2022-06-07")
+  filter(canton == "Esmeraldas" & created_at == "2022-06-20")
 pes <- (pes$provincia_poblacion)/100000
 ptu <- tungurahua22 %>%
-  filter(canton == "Ambato" & created_at == "2022-06-07")
+  filter(canton == "Ambato" & created_at == "2022-06-20")
 ptu <- (ptu$provincia_poblacion)/100000
 pch <- chimborazo22 %>%
-  filter(canton == "Riobamba" & created_at == "2022-06-07")
+  filter(canton == "Riobamba" & created_at == "2022-06-20")
 pch <- (pch$provincia_poblacion)/100000
 plo <- loja22 %>%
-  filter(canton == "Loja" & created_at == "2022-06-07")
+  filter(canton == "Loja" & created_at == "2022-06-20")
 plo <- (plo$provincia_poblacion)/100000
 pga <- galapagos22 %>%
-  filter(canton == "Isabela" & created_at == "2022-06-07")
+  filter(canton == "Isabela" & created_at == "2022-06-20")
 pga <- (pga$provincia_poblacion)/100000
 pza <- zamora22 %>%
-  filter(canton == "Zamora" & created_at == "2022-06-07")
+  filter(canton == "Zamora" & created_at == "2022-06-20")
 pza <- (pza$provincia_poblacion)/100000
 psu <- sucumbios22 %>%
-  filter(canton == "Cuyabeno" & created_at == "2022-06-07")
+  filter(canton == "Cuyabeno" & created_at == "2022-06-20")
 psu <- (psu$provincia_poblacion)/100000
 ppa <- pastaza22 %>%
-  filter(canton == "Mera" & created_at == "2022-06-07")
+  filter(canton == "Mera" & created_at == "2022-06-20")
 ppa <- (ppa$provincia_poblacion)/100000
 por <- orellana22 %>%
-  filter(canton == "Loreto" & created_at == "2022-06-07")
+  filter(canton == "Loreto" & created_at == "2022-06-20")
 por <- (por$provincia_poblacion)/100000
 pna <- napo22 %>%
-  filter(canton == "Tena" & created_at == "2022-06-07")
+  filter(canton == "Tena" & created_at == "2022-06-20")
 pna <- (pna$provincia_poblacion)/100000
 pmo <- morona22 %>%
-  filter(canton == "Palora" & created_at == "2022-06-07")
+  filter(canton == "Palora" & created_at == "2022-06-20")
 pmo <- (pmo$provincia_poblacion)/100000
 pim <- imbabura22 %>%
-  filter(canton == "Otavalo" & created_at == "2022-06-07")
+  filter(canton == "Otavalo" & created_at == "2022-06-20")
 pim <- (pim$provincia_poblacion)/100000
 pco <- cotopaxi22 %>%
-  filter(canton == "Salcedo" & created_at == "2022-06-07")
+  filter(canton == "Salcedo" & created_at == "2022-06-20")
 pco <- (pco$provincia_poblacion)/100000
 pca <- carchi22 %>%
-  filter(canton == "Mira" & created_at == "2022-06-07")
+  filter(canton == "Mira" & created_at == "2022-06-20")
 pca <- (pca$provincia_poblacion)/100000
 pcr <- canar22 %>%
-  filter(canton == "Azogues" & created_at == "2022-06-07")
+  filter(canton == "Azogues" & created_at == "2022-06-20")
 pcr <- (pcr$provincia_poblacion)/100000
 pbo <- bolivar22 %>%
-  filter(canton == "Chimbo" & created_at == "2022-06-07")
+  filter(canton == "Chimbo" & created_at == "2022-06-20")
 pbo <- (pbo$provincia_poblacion)/100000
 pst <- stodomingo22 %>%
-  filter(canton == "Santo Domingo" & created_at == "2022-06-07")
+  filter(canton == "Santo Domingo" & created_at == "2022-06-20")
 pst <- (pst$provincia_poblacion)/100000
 pea <- staelena22 %>%
-  filter(canton == "Salinas" & created_at == "2022-06-07")
+  filter(canton == "Salinas" & created_at == "2022-06-20")
 pea <- (pea$provincia_poblacion)/100000
 
 # ***** GUAYAS *****
 # npi"x" // ACORDE A DIAS DEL AÑO
+ngu171 <- guayas22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+ngu170 <- guayas22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+ngu169 <- guayas22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+ngu168 <- guayas22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+ngu167 <- guayas22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+ngu166 <- guayas22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+ngu165 <- guayas22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+ngu164 <- guayas22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+ngu163 <- guayas22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 ngu162 <- guayas22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -586,6 +614,15 @@ ngu01 <- guayas22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 # PROMEDIO POR DÍA, CONSIDERANDO ÚLTIMOS 7 DÍAS
+dgu171 <- mean(c(ngu171$tn, ngu170$tn, ngu169$tn, ngu168$tn, ngu167$tn, ngu166$tn, ngu165$tn))
+dgu170 <- mean(c(ngu170$tn, ngu169$tn, ngu168$tn, ngu167$tn, ngu166$tn, ngu165$tn, ngu164$tn))
+dgu169 <- mean(c(ngu169$tn, ngu168$tn, ngu167$tn, ngu166$tn, ngu165$tn, ngu164$tn, ngu163$tn))
+dgu168 <- mean(c(ngu168$tn, ngu167$tn, ngu166$tn, ngu165$tn, ngu164$tn, ngu163$tn, ngu162$tn))
+dgu167 <- mean(c(ngu167$tn, ngu166$tn, ngu165$tn, ngu164$tn, ngu163$tn, ngu162$tn, ngu161$tn))
+dgu166 <- mean(c(ngu166$tn, ngu165$tn, ngu164$tn, ngu163$tn, ngu162$tn, ngu161$tn, ngu160$tn))
+dgu165 <- mean(c(ngu165$tn, ngu164$tn, ngu163$tn, ngu162$tn, ngu161$tn, ngu160$tn, ngu159$tn))
+dgu164 <- mean(c(ngu164$tn, ngu163$tn, ngu162$tn, ngu161$tn, ngu160$tn, ngu159$tn, ngu158$tn))
+dgu163 <- mean(c(ngu163$tn, ngu162$tn, ngu161$tn, ngu160$tn, ngu159$tn, ngu158$tn, ngu157$tn))
 dgu162 <- mean(c(ngu162$tn, ngu161$tn, ngu160$tn, ngu159$tn, ngu158$tn, ngu157$tn, ngu156$tn))
 dgu161 <- mean(c(ngu161$tn, ngu160$tn, ngu159$tn, ngu158$tn, ngu157$tn, ngu156$tn, ngu155$tn))
 dgu160 <- mean(c(ngu160$tn, ngu159$tn, ngu158$tn, ngu157$tn, ngu156$tn, ngu155$tn, ngu154$tn))
@@ -745,7 +782,8 @@ dgu07 <- mean(c(ngu07$tn, ngu06$tn, ngu05$tn, ngu04$tn, ngu03$tn, ngu02$tn, ngu0
 # DATA FRAME GUAYAS
 dfgu <- data_frame(
   fecha,
-  dncgu = c(dgu162/pgu, dgu161/pgu, dgu160/pgu, 
+  dncgu = c(dgu171/pgu, dgu170/pgu, 
+            dgu169/pgu, dgu168/pgu, dgu167/pgu, dgu166/pgu, dgu165/pgu, dgu164/pgu, dgu163/pgu, dgu162/pgu, dgu161/pgu, dgu160/pgu, 
             dgu159/pgu, dgu158/pgu, dgu157/pgu, dgu156/pgu, dgu155/pgu, dgu154/pgu, dgu153/pgu, dgu152/pgu, dgu151/pgu, dgu150/pgu,
             dgu149/pgu, dgu148/pgu, dgu147/pgu, dgu146/pgu, dgu145/pgu, dgu144/pgu, dgu143/pgu, dgu142/pgu, dgu141/pgu, dgu140/pgu, 
             dgu139/pgu, dgu138/pgu, dgu137/pgu, dgu136/pgu, dgu135/pgu, dgu134/pgu, dgu133/pgu, dgu132/pgu, dgu131/pgu, dgu130/pgu, 
@@ -765,6 +803,33 @@ dfgu <- data_frame(
 )
 
 # ***** PICHINCHA *****
+npi171 <- pichincha22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+npi170 <- pichincha22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+npi169 <- pichincha22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+npi168 <- pichincha22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+npi167 <- pichincha22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+npi166 <- pichincha22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+npi165 <- pichincha22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+npi164 <- pichincha22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+npi163 <- pichincha22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 npi162 <- pichincha22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -1252,6 +1317,15 @@ npi01 <- pichincha22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dpi171 <- mean(c(npi171$tn, npi170$tn, npi169$tn, npi168$tn, npi167$tn, npi166$tn, npi165$tn))
+dpi170 <- mean(c(npi170$tn, npi169$tn, npi168$tn, npi167$tn, npi166$tn, npi165$tn, npi164$tn))
+dpi169 <- mean(c(npi169$tn, npi168$tn, npi167$tn, npi166$tn, npi165$tn, npi164$tn, npi163$tn))
+dpi168 <- mean(c(npi168$tn, npi167$tn, npi166$tn, npi165$tn, npi164$tn, npi163$tn, npi162$tn))
+dpi167 <- mean(c(npi167$tn, npi166$tn, npi165$tn, npi164$tn, npi163$tn, npi162$tn, npi161$tn))
+dpi166 <- mean(c(npi166$tn, npi165$tn, npi164$tn, npi163$tn, npi162$tn, npi161$tn, npi160$tn))
+dpi165 <- mean(c(npi165$tn, npi164$tn, npi163$tn, npi162$tn, npi161$tn, npi160$tn, npi159$tn))
+dpi164 <- mean(c(npi164$tn, npi163$tn, npi162$tn, npi161$tn, npi160$tn, npi159$tn, npi158$tn))
+dpi163 <- mean(c(npi163$tn, npi162$tn, npi161$tn, npi160$tn, npi159$tn, npi158$tn, npi157$tn))
 dpi162 <- mean(c(npi162$tn, npi161$tn, npi160$tn, npi159$tn, npi158$tn, npi157$tn, npi156$tn))
 dpi161 <- mean(c(npi161$tn, npi160$tn, npi159$tn, npi158$tn, npi157$tn, npi156$tn, npi155$tn))
 dpi160 <- mean(c(npi160$tn, npi159$tn, npi158$tn, npi157$tn, npi156$tn, npi155$tn, npi154$tn))
@@ -1411,7 +1485,8 @@ dpi07 <- mean(c(npi07$tn, npi06$tn, npi05$tn, npi04$tn, npi03$tn, npi02$tn, npi0
 
 dfpi <- data_frame(
   fecha,
-  dncpi = c(dpi162/ppi, dpi161/ppi, dpi160/ppi, 
+  dncpi = c(dpi171/ppi, dpi170/ppi, 
+            dpi169/ppi, dpi168/ppi, dpi167/ppi, dpi166/ppi, dpi165/ppi, dpi164/ppi, dpi163/ppi, dpi162/ppi, dpi161/ppi, dpi160/ppi, 
             dpi159/ppi, dpi158/ppi, dpi157/ppi, dpi156/ppi, dpi155/ppi, dpi154/ppi, dpi153/ppi, dpi152/ppi, dpi151/ppi, dpi150/ppi,
             dpi149/ppi, dpi148/ppi, dpi147/ppi, dpi146/ppi, dpi145/ppi, dpi144/ppi, dpi143/ppi, dpi142/ppi, dpi141/ppi, dpi140/ppi, 
             dpi139/ppi, dpi138/ppi, dpi137/ppi, dpi136/ppi, dpi135/ppi, dpi134/ppi, dpi133/ppi, dpi132/ppi, dpi131/ppi, dpi130/ppi, 
@@ -1431,6 +1506,33 @@ dfpi <- data_frame(
   )
 
 # ***** MANABI *****
+nma171 <- manabi22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nma170 <- manabi22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nma169 <- manabi22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nma168 <- manabi22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nma167 <- manabi22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nma166 <- manabi22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nma165 <- manabi22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nma164 <- manabi22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nma163 <- manabi22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nma162 <- manabi22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -1918,6 +2020,15 @@ nma01 <- manabi22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dma171 <- mean(c(nma171$tn, nma170$tn, nma169$tn, nma168$tn, nma167$tn, nma166$tn, nma165$tn))
+dma170 <- mean(c(nma170$tn, nma169$tn, nma168$tn, nma167$tn, nma166$tn, nma165$tn, nma164$tn))
+dma169 <- mean(c(nma169$tn, nma168$tn, nma167$tn, nma166$tn, nma165$tn, nma164$tn, nma163$tn))
+dma168 <- mean(c(nma168$tn, nma167$tn, nma166$tn, nma165$tn, nma164$tn, nma163$tn, nma162$tn))
+dma167 <- mean(c(nma167$tn, nma166$tn, nma165$tn, nma164$tn, nma163$tn, nma162$tn, nma161$tn))
+dma166 <- mean(c(nma166$tn, nma165$tn, nma164$tn, nma163$tn, nma162$tn, nma161$tn, nma160$tn))
+dma165 <- mean(c(nma165$tn, nma164$tn, nma163$tn, nma162$tn, nma161$tn, nma160$tn, nma159$tn))
+dma164 <- mean(c(nma164$tn, nma163$tn, nma162$tn, nma161$tn, nma160$tn, nma159$tn, nma158$tn))
+dma163 <- mean(c(nma163$tn, nma162$tn, nma161$tn, nma160$tn, nma159$tn, nma158$tn, nma157$tn))
 dma162 <- mean(c(nma162$tn, nma161$tn, nma160$tn, nma159$tn, nma158$tn, nma157$tn, nma156$tn))
 dma161 <- mean(c(nma161$tn, nma160$tn, nma159$tn, nma158$tn, nma157$tn, nma156$tn, nma155$tn))
 dma160 <- mean(c(nma160$tn, nma159$tn, nma158$tn, nma157$tn, nma156$tn, nma155$tn, nma154$tn))
@@ -2077,7 +2188,8 @@ dma07 <- mean(c(nma07$tn, nma06$tn, nma05$tn, nma04$tn, nma03$tn, nma02$tn, nma0
 
 dfma <- data_frame(
   fecha,
-  dncma = c(dma162/pma, dma161/pma, dma160/pma, 
+  dncma = c(dma171/pma, dma170/pma, 
+            dma169/pma, dma168/pma, dma167/pma, dma166/pma, dma165/pma, dma164/pma, dma163/pma, dma162/pma, dma161/pma, dma160/pma, 
             dma159/pma, dma158/pma, dma157/pma, dma156/pma, dma155/pma, dma154/pma, dma153/pma, dma152/pma, dma151/pma, dma150/pma,
             dma149/pma, dma148/pma, dma147/pma, dma146/pma, dma145/pma, dma144/pma, dma143/pma, dma142/pma, dma141/pma, dma140/pma, 
             dma139/pma, dma138/pma, dma137/pma, dma136/pma, dma135/pma, dma134/pma, dma133/pma, dma132/pma, dma131/pma, dma130/pma, 
@@ -2097,6 +2209,33 @@ dfma <- data_frame(
 )
 
 # ***** LOS RIOS *****
+nlr171 <- losrios22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nlr170 <- losrios22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nlr169 <- losrios22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nlr168 <- losrios22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nlr167 <- losrios22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nlr166 <- losrios22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nlr165 <- losrios22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nlr164 <- losrios22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nlr163 <- losrios22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nlr162 <- losrios22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -2584,6 +2723,15 @@ nlr01 <- losrios22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dlr171 <- mean(c(nlr171$tn, nlr170$tn, nlr169$tn, nlr168$tn, nlr167$tn, nlr166$tn, nlr165$tn))
+dlr170 <- mean(c(nlr170$tn, nlr169$tn, nlr168$tn, nlr167$tn, nlr166$tn, nlr165$tn, nlr164$tn))
+dlr169 <- mean(c(nlr169$tn, nlr168$tn, nlr167$tn, nlr166$tn, nlr165$tn, nlr164$tn, nlr163$tn))
+dlr168 <- mean(c(nlr168$tn, nlr167$tn, nlr166$tn, nlr165$tn, nlr164$tn, nlr163$tn, nlr162$tn))
+dlr167 <- mean(c(nlr167$tn, nlr166$tn, nlr165$tn, nlr164$tn, nlr163$tn, nlr162$tn, nlr161$tn))
+dlr166 <- mean(c(nlr166$tn, nlr165$tn, nlr164$tn, nlr163$tn, nlr162$tn, nlr161$tn, nlr160$tn))
+dlr165 <- mean(c(nlr165$tn, nlr164$tn, nlr163$tn, nlr162$tn, nlr161$tn, nlr160$tn, nlr159$tn))
+dlr164 <- mean(c(nlr164$tn, nlr163$tn, nlr162$tn, nlr161$tn, nlr160$tn, nlr159$tn, nlr158$tn))
+dlr163 <- mean(c(nlr163$tn, nlr162$tn, nlr161$tn, nlr160$tn, nlr159$tn, nlr158$tn, nlr157$tn))
 dlr162 <- mean(c(nlr162$tn, nlr161$tn, nlr160$tn, nlr159$tn, nlr158$tn, nlr157$tn, nlr156$tn))
 dlr161 <- mean(c(nlr161$tn, nlr160$tn, nlr159$tn, nlr158$tn, nlr157$tn, nlr156$tn, nlr155$tn))
 dlr160 <- mean(c(nlr160$tn, nlr159$tn, nlr158$tn, nlr157$tn, nlr156$tn, nlr155$tn, nlr154$tn))
@@ -2743,7 +2891,8 @@ dlr07 <- mean(c(nlr07$tn, nlr06$tn, nlr05$tn, nlr04$tn, nlr03$tn, nlr02$tn, nlr0
 
 dflr <- data_frame(
   fecha,
-  dnclr = c(dlr162/plr, dlr161/plr, dlr160/plr, 
+  dnclr = c(dlr171/plr, dlr170/plr, 
+            dlr169/plr, dlr168/plr, dlr167/plr, dlr166/plr, dlr165/plr, dlr164/plr, dlr163/plr, dlr162/plr, dlr161/plr, dlr160/plr, 
             dlr159/plr, dlr158/plr, dlr157/plr, dlr156/plr, dlr155/plr, dlr154/plr, dlr153/plr, dlr152/plr, dlr151/plr, dlr150/plr,
             dlr149/plr, dlr148/plr, dlr147/plr, dlr146/plr, dlr145/plr, dlr144/plr, dlr143/plr, dlr142/plr, dlr141/plr, dlr140/plr, 
             dlr139/plr, dlr138/plr, dlr137/plr, dlr136/plr, dlr135/plr, dlr134/plr, dlr133/plr, dlr132/plr, dlr131/plr, dlr130/plr, 
@@ -2763,6 +2912,33 @@ dflr <- data_frame(
 )
 
 # ***** AZUAY *****
+naz171 <- azuay22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+naz170 <- azuay22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+naz169 <- azuay22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+naz168 <- azuay22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+naz167 <- azuay22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+naz166 <- azuay22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+naz165 <- azuay22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+naz164 <- azuay22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+naz163 <- azuay22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 naz162 <- azuay22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -3250,6 +3426,15 @@ naz01 <- azuay22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+daz171 <- mean(c(naz171$tn, naz170$tn, naz169$tn, naz168$tn, naz167$tn, naz166$tn, naz165$tn))
+daz170 <- mean(c(naz170$tn, naz169$tn, naz168$tn, naz167$tn, naz166$tn, naz165$tn, naz164$tn))
+daz169 <- mean(c(naz169$tn, naz168$tn, naz167$tn, naz166$tn, naz165$tn, naz164$tn, naz163$tn))
+daz168 <- mean(c(naz168$tn, naz167$tn, naz166$tn, naz165$tn, naz164$tn, naz163$tn, naz162$tn))
+daz167 <- mean(c(naz167$tn, naz166$tn, naz165$tn, naz164$tn, naz163$tn, naz162$tn, naz161$tn))
+daz166 <- mean(c(naz166$tn, naz165$tn, naz164$tn, naz163$tn, naz162$tn, naz161$tn, naz160$tn))
+daz165 <- mean(c(naz165$tn, naz164$tn, naz163$tn, naz162$tn, naz161$tn, naz160$tn, naz159$tn))
+daz164 <- mean(c(naz164$tn, naz163$tn, naz162$tn, naz161$tn, naz160$tn, naz159$tn, naz158$tn))
+daz163 <- mean(c(naz163$tn, naz162$tn, naz161$tn, naz160$tn, naz159$tn, naz158$tn, naz157$tn))
 daz162 <- mean(c(naz162$tn, naz161$tn, naz160$tn, naz159$tn, naz158$tn, naz157$tn, naz156$tn))
 daz161 <- mean(c(naz161$tn, naz160$tn, naz159$tn, naz158$tn, naz157$tn, naz156$tn, naz155$tn))
 daz160 <- mean(c(naz160$tn, naz159$tn, naz158$tn, naz157$tn, naz156$tn, naz155$tn, naz154$tn))
@@ -3409,7 +3594,8 @@ daz07 <- mean(c(naz07$tn, naz06$tn, naz05$tn, naz04$tn, naz03$tn, naz02$tn, naz0
 
 dfaz <- data_frame(
   fecha,
-  dncaz = c(daz162/paz, daz161/paz, daz160/paz, 
+  dncaz = c(daz171/paz, daz170/paz, 
+            daz169/paz, daz168/paz, daz167/paz, daz166/paz, daz165/paz, daz164/paz, daz163/paz, daz162/paz, daz161/paz, daz160/paz, 
             daz159/paz, daz158/paz, daz157/paz, daz156/paz, daz155/paz, daz154/paz, daz153/paz, daz152/paz, daz151/paz, daz150/paz,
             daz149/paz, daz148/paz, daz147/paz, daz146/paz, daz145/paz, daz144/paz, daz143/paz, daz142/paz, daz141/paz, daz140/paz, 
             daz139/paz, daz138/paz, daz137/paz, daz136/paz, daz135/paz, daz134/paz, daz133/paz, daz132/paz, daz131/paz, daz130/paz, 
@@ -3429,6 +3615,33 @@ dfaz <- data_frame(
 )
 
 # ***** EL ORO *****
+nel171 <- eloro22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nel170 <- eloro22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nel169 <- eloro22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nel168 <- eloro22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nel167 <- eloro22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nel166 <- eloro22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nel165 <- eloro22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nel164 <- eloro22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nel163 <- eloro22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nel162 <- eloro22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -3916,6 +4129,15 @@ nel01 <- eloro22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+del171 <- mean(c(nel171$tn, nel170$tn, nel169$tn, nel168$tn, nel167$tn, nel166$tn, nel165$tn))
+del170 <- mean(c(nel170$tn, nel169$tn, nel168$tn, nel167$tn, nel166$tn, nel165$tn, nel164$tn))
+del169 <- mean(c(nel169$tn, nel168$tn, nel167$tn, nel166$tn, nel165$tn, nel164$tn, nel163$tn))
+del168 <- mean(c(nel168$tn, nel167$tn, nel166$tn, nel165$tn, nel164$tn, nel163$tn, nel162$tn))
+del167 <- mean(c(nel167$tn, nel166$tn, nel165$tn, nel164$tn, nel163$tn, nel162$tn, nel161$tn))
+del166 <- mean(c(nel166$tn, nel165$tn, nel164$tn, nel163$tn, nel162$tn, nel161$tn, nel160$tn))
+del165 <- mean(c(nel165$tn, nel164$tn, nel163$tn, nel162$tn, nel161$tn, nel160$tn, nel159$tn))
+del164 <- mean(c(nel164$tn, nel163$tn, nel162$tn, nel161$tn, nel160$tn, nel159$tn, nel158$tn))
+del163 <- mean(c(nel163$tn, nel162$tn, nel161$tn, nel160$tn, nel159$tn, nel158$tn, nel157$tn))
 del162 <- mean(c(nel162$tn, nel161$tn, nel160$tn, nel159$tn, nel158$tn, nel157$tn, nel156$tn))
 del161 <- mean(c(nel161$tn, nel160$tn, nel159$tn, nel158$tn, nel157$tn, nel156$tn, nel155$tn))
 del160 <- mean(c(nel160$tn, nel159$tn, nel158$tn, nel157$tn, nel156$tn, nel155$tn, nel154$tn))
@@ -4075,7 +4297,8 @@ del07 <- mean(c(nel07$tn, nel06$tn, nel05$tn, nel04$tn, nel03$tn, nel02$tn, nel0
 
 dfel <- data_frame(
   fecha,
-  dncel = c(del162/pel, del161/pel, del160/pel, 
+  dncel = c(del171/pel, del170/pel, 
+            del169/pel, del168/pel, del167/pel, del166/pel, del165/pel, del164/pel, del163/pel, del162/pel, del161/pel, del160/pel, 
             del159/pel, del158/pel, del157/pel, del156/pel, del155/pel, del154/pel, del153/pel, del152/pel, del151/pel, del150/pel,
             del149/pel, del148/pel, del147/pel, del146/pel, del145/pel, del144/pel, del143/pel, del142/pel, del141/pel, del140/pel, 
             del139/pel, del138/pel, del137/pel, del136/pel, del135/pel, del134/pel, del133/pel, del132/pel, del131/pel, del130/pel, 
@@ -4095,6 +4318,33 @@ dfel <- data_frame(
 )
 
 # ***** ESMERALDAS *****
+nes171 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nes170 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nes169 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nes168 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nes167 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nes166 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nes165 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nes164 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nes163 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nes162 <- esmeraldas22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -4582,6 +4832,15 @@ nes01 <- esmeraldas22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+des171 <- mean(c(nes171$tn, nes170$tn, nes169$tn, nes168$tn, nes167$tn, nes166$tn, nes165$tn))
+des170 <- mean(c(nes170$tn, nes169$tn, nes168$tn, nes167$tn, nes166$tn, nes165$tn, nes164$tn))
+des169 <- mean(c(nes169$tn, nes168$tn, nes167$tn, nes166$tn, nes165$tn, nes164$tn, nes163$tn))
+des168 <- mean(c(nes168$tn, nes167$tn, nes166$tn, nes165$tn, nes164$tn, nes163$tn, nes162$tn))
+des167 <- mean(c(nes167$tn, nes166$tn, nes165$tn, nes164$tn, nes163$tn, nes162$tn, nes161$tn))
+des166 <- mean(c(nes166$tn, nes165$tn, nes164$tn, nes163$tn, nes162$tn, nes161$tn, nes160$tn))
+des165 <- mean(c(nes165$tn, nes164$tn, nes163$tn, nes162$tn, nes161$tn, nes160$tn, nes159$tn))
+des164 <- mean(c(nes164$tn, nes163$tn, nes162$tn, nes161$tn, nes160$tn, nes159$tn, nes158$tn))
+des163 <- mean(c(nes163$tn, nes162$tn, nes161$tn, nes160$tn, nes159$tn, nes158$tn, nes157$tn))
 des162 <- mean(c(nes162$tn, nes161$tn, nes160$tn, nes159$tn, nes158$tn, nes157$tn, nes156$tn))
 des161 <- mean(c(nes161$tn, nes160$tn, nes159$tn, nes158$tn, nes157$tn, nes156$tn, nes155$tn))
 des160 <- mean(c(nes160$tn, nes159$tn, nes158$tn, nes157$tn, nes156$tn, nes155$tn, nes154$tn))
@@ -4741,7 +5000,8 @@ des07 <- mean(c(nes07$tn, nes06$tn, nes05$tn, nes04$tn, nes03$tn, nes02$tn, nes0
 
 dfes <- data_frame(
   fecha,
-  dnces = c(des162/pes, des161/pes, des160/pes, 
+  dnces = c(des171/pes, des170/pes, 
+            des169/pes, des168/pes, des167/pes, des166/pes, des165/pes, des164/pes, des163/pes, des162/pes, des161/pes, des160/pes, 
             des159/pes, des158/pes, des157/pes, des156/pes, des155/pes, des154/pes, des153/pes, des152/pes, des151/pes, des150/pes,
             des149/pes, des148/pes, des147/pes, des146/pes, des145/pes, des144/pes, des143/pes, des142/pes, des141/pes, des140/pes, 
             des139/pes, des138/pes, des137/pes, des136/pes, des135/pes, des134/pes, des133/pes, des132/pes, des131/pes, des130/pes, 
@@ -4761,6 +5021,33 @@ dfes <- data_frame(
 )
 
 # ***** TUNGURAHUA *****
+ntu171 <- tungurahua22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+ntu170 <- tungurahua22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+ntu169 <- tungurahua22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+ntu168 <- tungurahua22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+ntu167 <- tungurahua22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+ntu166 <- tungurahua22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+ntu165 <- tungurahua22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+ntu164 <- tungurahua22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+ntu163 <- tungurahua22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 ntu162 <- tungurahua22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -5248,6 +5535,15 @@ ntu01 <- tungurahua22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dtu171 <- mean(c(ntu171$tn, ntu170$tn, ntu169$tn, ntu168$tn, ntu167$tn, ntu166$tn, ntu165$tn))
+dtu170 <- mean(c(ntu170$tn, ntu169$tn, ntu168$tn, ntu167$tn, ntu166$tn, ntu165$tn, ntu164$tn))
+dtu169 <- mean(c(ntu169$tn, ntu168$tn, ntu167$tn, ntu166$tn, ntu165$tn, ntu164$tn, ntu163$tn))
+dtu168 <- mean(c(ntu168$tn, ntu167$tn, ntu166$tn, ntu165$tn, ntu164$tn, ntu163$tn, ntu162$tn))
+dtu167 <- mean(c(ntu167$tn, ntu166$tn, ntu165$tn, ntu164$tn, ntu163$tn, ntu162$tn, ntu161$tn))
+dtu166 <- mean(c(ntu166$tn, ntu165$tn, ntu164$tn, ntu163$tn, ntu162$tn, ntu161$tn, ntu160$tn))
+dtu165 <- mean(c(ntu165$tn, ntu164$tn, ntu163$tn, ntu162$tn, ntu161$tn, ntu160$tn, ntu159$tn))
+dtu164 <- mean(c(ntu164$tn, ntu163$tn, ntu162$tn, ntu161$tn, ntu160$tn, ntu159$tn, ntu158$tn))
+dtu163 <- mean(c(ntu163$tn, ntu162$tn, ntu161$tn, ntu160$tn, ntu159$tn, ntu158$tn, ntu157$tn))
 dtu162 <- mean(c(ntu162$tn, ntu161$tn, ntu160$tn, ntu159$tn, ntu158$tn, ntu157$tn, ntu156$tn))
 dtu161 <- mean(c(ntu161$tn, ntu160$tn, ntu159$tn, ntu158$tn, ntu157$tn, ntu156$tn, ntu155$tn))
 dtu160 <- mean(c(ntu160$tn, ntu159$tn, ntu158$tn, ntu157$tn, ntu156$tn, ntu155$tn, ntu154$tn))
@@ -5407,7 +5703,8 @@ dtu07 <- mean(c(ntu07$tn, ntu06$tn, ntu05$tn, ntu04$tn, ntu03$tn, ntu02$tn, ntu0
 
 dftu <- data_frame(
   fecha,
-  dnctu = c(dtu162/ptu, dtu161/ptu, dtu160/ptu, 
+  dnctu = c(dtu171/ptu, dtu170/ptu, 
+            dtu169/ptu, dtu168/ptu, dtu167/ptu, dtu166/ptu, dtu165/ptu, dtu164/ptu, dtu163/ptu, dtu162/ptu, dtu161/ptu, dtu160/ptu, 
             dtu159/ptu, dtu158/ptu, dtu157/ptu, dtu156/ptu, dtu155/ptu, dtu154/ptu, dtu153/ptu, dtu152/ptu, dtu151/ptu, dtu150/ptu,
             dtu149/ptu, dtu148/ptu, dtu147/ptu, dtu146/ptu, dtu145/ptu, dtu144/ptu, dtu143/ptu, dtu142/ptu, dtu141/ptu, dtu140/ptu, 
             dtu139/ptu, dtu138/ptu, dtu137/ptu, dtu136/ptu, dtu135/ptu, dtu134/ptu, dtu133/ptu, dtu132/ptu, dtu131/ptu, dtu130/ptu, 
@@ -5427,6 +5724,33 @@ dftu <- data_frame(
 )
 
 # ***** CHIMBORAZO *****
+nch171 <- chimborazo22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nch170 <- chimborazo22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nch169 <- chimborazo22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nch168 <- chimborazo22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nch167 <- chimborazo22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nch166 <- chimborazo22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nch165 <- chimborazo22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nch164 <- chimborazo22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nch163 <- chimborazo22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nch162 <- chimborazo22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -5914,6 +6238,15 @@ nch01 <- chimborazo22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dch171 <- mean(c(nch171$tn, nch170$tn, nch169$tn, nch168$tn, nch167$tn, nch166$tn, nch165$tn))
+dch170 <- mean(c(nch170$tn, nch169$tn, nch168$tn, nch167$tn, nch166$tn, nch165$tn, nch164$tn))
+dch169 <- mean(c(nch169$tn, nch168$tn, nch167$tn, nch166$tn, nch165$tn, nch164$tn, nch163$tn))
+dch168 <- mean(c(nch168$tn, nch167$tn, nch166$tn, nch165$tn, nch164$tn, nch163$tn, nch162$tn))
+dch167 <- mean(c(nch167$tn, nch166$tn, nch165$tn, nch164$tn, nch163$tn, nch162$tn, nch161$tn))
+dch166 <- mean(c(nch166$tn, nch165$tn, nch164$tn, nch163$tn, nch162$tn, nch161$tn, nch160$tn))
+dch165 <- mean(c(nch165$tn, nch164$tn, nch163$tn, nch162$tn, nch161$tn, nch160$tn, nch159$tn))
+dch164 <- mean(c(nch164$tn, nch163$tn, nch162$tn, nch161$tn, nch160$tn, nch159$tn, nch158$tn))
+dch163 <- mean(c(nch163$tn, nch162$tn, nch161$tn, nch160$tn, nch159$tn, nch158$tn, nch157$tn))
 dch162 <- mean(c(nch162$tn, nch161$tn, nch160$tn, nch159$tn, nch158$tn, nch157$tn, nch156$tn))
 dch161 <- mean(c(nch161$tn, nch160$tn, nch159$tn, nch158$tn, nch157$tn, nch156$tn, nch155$tn))
 dch160 <- mean(c(nch160$tn, nch159$tn, nch158$tn, nch157$tn, nch156$tn, nch155$tn, nch154$tn))
@@ -6073,7 +6406,8 @@ dch07 <- mean(c(nch07$tn, nch06$tn, nch05$tn, nch04$tn, nch03$tn, nch02$tn, nch0
 
 dfch <- data_frame(
   fecha,
-  dncch = c(dch162/pch, dch161/pch, dch160/pch, 
+  dncch = c(dch171/pch, dch170/pch, 
+            dch169/pch, dch168/pch, dch167/pch, dch166/pch, dch165/pch, dch164/pch, dch163/pch, dch162/pch, dch161/pch, dch160/pch, 
             dch159/pch, dch158/pch, dch157/pch, dch156/pch, dch155/pch, dch154/pch, dch153/pch, dch152/pch, dch151/pch, dch150/pch,
             dch149/pch, dch148/pch, dch147/pch, dch146/pch, dch145/pch, dch144/pch, dch143/pch, dch142/pch, dch141/pch, dch140/pch, 
             dch139/pch, dch138/pch, dch137/pch, dch136/pch, dch135/pch, dch134/pch, dch133/pch, dch132/pch, dch131/pch, dch130/pch, 
@@ -6093,6 +6427,33 @@ dfch <- data_frame(
 )
 
 # ***** LOJA *****
+nlo171 <- loja22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nlo170 <- loja22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nlo169 <- loja22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nlo168 <- loja22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nlo167 <- loja22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nlo166 <- loja22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nlo165 <- loja22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nlo164 <- loja22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nlo163 <- loja22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nlo162 <- loja22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -6580,6 +6941,15 @@ nlo01 <- loja22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dlo171 <- mean(c(nlo171$tn, nlo170$tn, nlo169$tn, nlo168$tn, nlo167$tn, nlo166$tn, nlo165$tn))
+dlo170 <- mean(c(nlo170$tn, nlo169$tn, nlo168$tn, nlo167$tn, nlo166$tn, nlo165$tn, nlo164$tn))
+dlo169 <- mean(c(nlo169$tn, nlo168$tn, nlo167$tn, nlo166$tn, nlo165$tn, nlo164$tn, nlo163$tn))
+dlo168 <- mean(c(nlo168$tn, nlo167$tn, nlo166$tn, nlo165$tn, nlo164$tn, nlo163$tn, nlo162$tn))
+dlo167 <- mean(c(nlo167$tn, nlo166$tn, nlo165$tn, nlo164$tn, nlo163$tn, nlo162$tn, nlo161$tn))
+dlo166 <- mean(c(nlo166$tn, nlo165$tn, nlo164$tn, nlo163$tn, nlo162$tn, nlo161$tn, nlo160$tn))
+dlo165 <- mean(c(nlo165$tn, nlo164$tn, nlo163$tn, nlo162$tn, nlo161$tn, nlo160$tn, nlo159$tn))
+dlo164 <- mean(c(nlo164$tn, nlo163$tn, nlo162$tn, nlo161$tn, nlo160$tn, nlo159$tn, nlo158$tn))
+dlo163 <- mean(c(nlo163$tn, nlo162$tn, nlo161$tn, nlo160$tn, nlo159$tn, nlo158$tn, nlo157$tn))
 dlo162 <- mean(c(nlo162$tn, nlo161$tn, nlo160$tn, nlo159$tn, nlo158$tn, nlo157$tn, nlo156$tn))
 dlo161 <- mean(c(nlo161$tn, nlo160$tn, nlo159$tn, nlo158$tn, nlo157$tn, nlo156$tn, nlo155$tn))
 dlo160 <- mean(c(nlo160$tn, nlo159$tn, nlo158$tn, nlo157$tn, nlo156$tn, nlo155$tn, nlo154$tn))
@@ -6739,7 +7109,8 @@ dlo07 <- mean(c(nlo07$tn, nlo06$tn, nlo05$tn, nlo04$tn, nlo03$tn, nlo02$tn, nlo0
 
 dflo <- data_frame(
   fecha,
-  dnclo = c(dlo162/plo, dlo161/plo, dlo160/plo, 
+  dnclo = c(dlo171/plo, dlo170/plo, 
+            dlo169/plo, dlo168/plo, dlo167/plo, dlo166/plo, dlo165/plo, dlo164/plo, dlo163/plo, dlo162/plo, dlo161/plo, dlo160/plo, 
             dlo159/plo, dlo158/plo, dlo157/plo, dlo156/plo, dlo155/plo, dlo154/plo, dlo153/plo, dlo152/plo, dlo151/plo, dlo150/plo,
             dlo149/plo, dlo148/plo, dlo147/plo, dlo146/plo, dlo145/plo, dlo144/plo, dlo143/plo, dlo142/plo, dlo141/plo, dlo140/plo, 
             dlo139/plo, dlo138/plo, dlo137/plo, dlo136/plo, dlo135/plo, dlo134/plo, dlo133/plo, dlo132/plo, dlo131/plo, dlo130/plo, 
@@ -6759,6 +7130,33 @@ dflo <- data_frame(
 )
 
 # ***** GALAPAGOS *****
+nga171 <- galapagos22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nga170 <- galapagos22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nga169 <- galapagos22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nga168 <- galapagos22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nga167 <- galapagos22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nga166 <- galapagos22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nga165 <- galapagos22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nga164 <- galapagos22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nga163 <- galapagos22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nga162 <- galapagos22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -7246,6 +7644,15 @@ nga01 <- galapagos22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dga171 <- mean(c(nga171$tn, nga170$tn, nga169$tn, nga168$tn, nga167$tn, nga166$tn, nga165$tn))
+dga170 <- mean(c(nga170$tn, nga169$tn, nga168$tn, nga167$tn, nga166$tn, nga165$tn, nga164$tn))
+dga169 <- mean(c(nga169$tn, nga168$tn, nga167$tn, nga166$tn, nga165$tn, nga164$tn, nga163$tn))
+dga168 <- mean(c(nga168$tn, nga167$tn, nga166$tn, nga165$tn, nga164$tn, nga163$tn, nga162$tn))
+dga167 <- mean(c(nga167$tn, nga166$tn, nga165$tn, nga164$tn, nga163$tn, nga162$tn, nga161$tn))
+dga166 <- mean(c(nga166$tn, nga165$tn, nga164$tn, nga163$tn, nga162$tn, nga161$tn, nga160$tn))
+dga165 <- mean(c(nga165$tn, nga164$tn, nga163$tn, nga162$tn, nga161$tn, nga160$tn, nga159$tn))
+dga164 <- mean(c(nga164$tn, nga163$tn, nga162$tn, nga161$tn, nga160$tn, nga159$tn, nga158$tn))
+dga163 <- mean(c(nga163$tn, nga162$tn, nga161$tn, nga160$tn, nga159$tn, nga158$tn, nga157$tn))
 dga162 <- mean(c(nga162$tn, nga161$tn, nga160$tn, nga159$tn, nga158$tn, nga157$tn, nga156$tn))
 dga161 <- mean(c(nga161$tn, nga160$tn, nga159$tn, nga158$tn, nga157$tn, nga156$tn, nga155$tn))
 dga160 <- mean(c(nga160$tn, nga159$tn, nga158$tn, nga157$tn, nga156$tn, nga155$tn, nga154$tn))
@@ -7405,7 +7812,8 @@ dga07 <- mean(c(nga07$tn, nga06$tn, nga05$tn, nga04$tn, nga03$tn, nga02$tn, nga0
 
 dfga <- data_frame(
   fecha,
-  dncga = c(dga162/pga, dga161/pga, dga160/pga, 
+  dncga = c(dga171/pga, dga170/pga, 
+            dga169/pga, dga168/pga, dga167/pga, dga166/pga, dga165/pga, dga164/pga, dga163/pga, dga162/pga, dga161/pga, dga160/pga, 
             dga159/pga, dga158/pga, dga157/pga, dga156/pga, dga155/pga, dga154/pga, dga153/pga, dga152/pga, dga151/pga, dga150/pga,
             dga149/pga, dga148/pga, dga147/pga, dga146/pga, dga145/pga, dga144/pga, dga143/pga, dga142/pga, dga141/pga, dga140/pga, 
             dga139/pga, dga138/pga, dga137/pga, dga136/pga, dga135/pga, dga134/pga, dga133/pga, dga132/pga, dga131/pga, dga130/pga, 
@@ -7425,6 +7833,33 @@ dfga <- data_frame(
 )
 
 # ***** ZAMORA *****
+nza171 <- zamora22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nza170 <- zamora22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nza169 <- zamora22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nza168 <- zamora22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nza167 <- zamora22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nza166 <- zamora22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nza165 <- zamora22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nza164 <- zamora22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nza163 <- zamora22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nza162 <- zamora22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -7912,6 +8347,15 @@ nza01 <- zamora22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dza171 <- mean(c(nza171$tn, nza170$tn, nza169$tn, nza168$tn, nza167$tn, nza166$tn, nza165$tn))
+dza170 <- mean(c(nza170$tn, nza169$tn, nza168$tn, nza167$tn, nza166$tn, nza165$tn, nza164$tn))
+dza169 <- mean(c(nza169$tn, nza168$tn, nza167$tn, nza166$tn, nza165$tn, nza164$tn, nza163$tn))
+dza168 <- mean(c(nza168$tn, nza167$tn, nza166$tn, nza165$tn, nza164$tn, nza163$tn, nza162$tn))
+dza167 <- mean(c(nza167$tn, nza166$tn, nza165$tn, nza164$tn, nza163$tn, nza162$tn, nza161$tn))
+dza166 <- mean(c(nza166$tn, nza165$tn, nza164$tn, nza163$tn, nza162$tn, nza161$tn, nza160$tn))
+dza165 <- mean(c(nza165$tn, nza164$tn, nza163$tn, nza162$tn, nza161$tn, nza160$tn, nza159$tn))
+dza164 <- mean(c(nza164$tn, nza163$tn, nza162$tn, nza161$tn, nza160$tn, nza159$tn, nza158$tn))
+dza163 <- mean(c(nza163$tn, nza162$tn, nza161$tn, nza160$tn, nza159$tn, nza158$tn, nza157$tn))
 dza162 <- mean(c(nza162$tn, nza161$tn, nza160$tn, nza159$tn, nza158$tn, nza157$tn, nza156$tn))
 dza161 <- mean(c(nza161$tn, nza160$tn, nza159$tn, nza158$tn, nza157$tn, nza156$tn, nza155$tn))
 dza160 <- mean(c(nza160$tn, nza159$tn, nza158$tn, nza157$tn, nza156$tn, nza155$tn, nza154$tn))
@@ -8071,7 +8515,8 @@ dza07 <- mean(c(nza07$tn, nza06$tn, nza05$tn, nza04$tn, nza03$tn, nza02$tn, nza0
 
 dfza <- data_frame(
   fecha,
-  dncza = c(dza162/pza, dza161/pza, dza160/pza, 
+  dncza = c(dza171/pza, dza170/pza, 
+            dza169/pza, dza168/pza, dza167/pza, dza166/pza, dza165/pza, dza164/pza, dza163/pza, dza162/pza, dza161/pza, dza160/pza, 
             dza159/pza, dza158/pza, dza157/pza, dza156/pza, dza155/pza, dza154/pza, dza153/pza, dza152/pza, dza151/pza, dza150/pza,
             dza149/pza, dza148/pza, dza147/pza, dza146/pza, dza145/pza, dza144/pza, dza143/pza, dza142/pza, dza141/pza, dza140/pza, 
             dza139/pza, dza138/pza, dza137/pza, dza136/pza, dza135/pza, dza134/pza, dza133/pza, dza132/pza, dza131/pza, dza130/pza, 
@@ -8091,6 +8536,33 @@ dfza <- data_frame(
 )
 
 # ***** SUCUMBIOS *****
+nsu171 <- sucumbios22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nsu170 <- sucumbios22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nsu169 <- sucumbios22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nsu168 <- sucumbios22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nsu167 <- sucumbios22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nsu166 <- sucumbios22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nsu165 <- sucumbios22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nsu164 <- sucumbios22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nsu163 <- sucumbios22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nsu162 <- sucumbios22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -8578,6 +9050,15 @@ nsu01 <- sucumbios22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dsu171 <- mean(c(nsu171$tn, nsu170$tn, nsu169$tn, nsu168$tn, nsu167$tn, nsu166$tn, nsu165$tn))
+dsu170 <- mean(c(nsu170$tn, nsu169$tn, nsu168$tn, nsu167$tn, nsu166$tn, nsu165$tn, nsu164$tn))
+dsu169 <- mean(c(nsu169$tn, nsu168$tn, nsu167$tn, nsu166$tn, nsu165$tn, nsu164$tn, nsu163$tn))
+dsu168 <- mean(c(nsu168$tn, nsu167$tn, nsu166$tn, nsu165$tn, nsu164$tn, nsu163$tn, nsu162$tn))
+dsu167 <- mean(c(nsu167$tn, nsu166$tn, nsu165$tn, nsu164$tn, nsu163$tn, nsu162$tn, nsu161$tn))
+dsu166 <- mean(c(nsu166$tn, nsu165$tn, nsu164$tn, nsu163$tn, nsu162$tn, nsu161$tn, nsu160$tn))
+dsu165 <- mean(c(nsu165$tn, nsu164$tn, nsu163$tn, nsu162$tn, nsu161$tn, nsu160$tn, nsu159$tn))
+dsu164 <- mean(c(nsu164$tn, nsu163$tn, nsu162$tn, nsu161$tn, nsu160$tn, nsu159$tn, nsu158$tn))
+dsu163 <- mean(c(nsu163$tn, nsu162$tn, nsu161$tn, nsu160$tn, nsu159$tn, nsu158$tn, nsu157$tn))
 dsu162 <- mean(c(nsu162$tn, nsu161$tn, nsu160$tn, nsu159$tn, nsu158$tn, nsu157$tn, nsu156$tn))
 dsu161 <- mean(c(nsu161$tn, nsu160$tn, nsu159$tn, nsu158$tn, nsu157$tn, nsu156$tn, nsu155$tn))
 dsu160 <- mean(c(nsu160$tn, nsu159$tn, nsu158$tn, nsu157$tn, nsu156$tn, nsu155$tn, nsu154$tn))
@@ -8737,7 +9218,8 @@ dsu07 <- mean(c(nsu07$tn, nsu06$tn, nsu05$tn, nsu04$tn, nsu03$tn, nsu02$tn, nsu0
 
 dfsu <- data_frame(
   fecha,
-  dncsu = c(dsu162/psu, dsu161/psu, dsu160/psu, 
+  dncsu = c(dsu171/psu, dsu170/psu, 
+            dsu169/psu, dsu168/psu, dsu167/psu, dsu166/psu, dsu165/psu, dsu164/psu, dsu163/psu, dsu162/psu, dsu161/psu, dsu160/psu, 
             dsu159/psu, dsu158/psu, dsu157/psu, dsu156/psu, dsu155/psu, dsu154/psu, dsu153/psu, dsu152/psu, dsu151/psu, dsu150/psu,
             dsu149/psu, dsu148/psu, dsu147/psu, dsu146/psu, dsu145/psu, dsu144/psu, dsu143/psu, dsu142/psu, dsu141/psu, dsu140/psu, 
             dsu139/psu, dsu138/psu, dsu137/psu, dsu136/psu, dsu135/psu, dsu134/psu, dsu133/psu, dsu132/psu, dsu131/psu, dsu130/psu, 
@@ -8757,6 +9239,33 @@ dfsu <- data_frame(
 )
 
 # ***** PASTAZA *****
+npa171 <- pastaza22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+npa170 <- pastaza22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+npa169 <- pastaza22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+npa168 <- pastaza22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+npa167 <- pastaza22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+npa166 <- pastaza22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+npa165 <- pastaza22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+npa164 <- pastaza22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+npa163 <- pastaza22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 npa162 <- pastaza22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -9244,6 +9753,15 @@ npa01 <- pastaza22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dpa171 <- mean(c(npa171$tn, npa170$tn, npa169$tn, npa168$tn, npa167$tn, npa166$tn, npa165$tn))
+dpa170 <- mean(c(npa170$tn, npa169$tn, npa168$tn, npa167$tn, npa166$tn, npa165$tn, npa164$tn))
+dpa169 <- mean(c(npa169$tn, npa168$tn, npa167$tn, npa166$tn, npa165$tn, npa164$tn, npa163$tn))
+dpa168 <- mean(c(npa168$tn, npa167$tn, npa166$tn, npa165$tn, npa164$tn, npa163$tn, npa162$tn))
+dpa167 <- mean(c(npa167$tn, npa166$tn, npa165$tn, npa164$tn, npa163$tn, npa162$tn, npa161$tn))
+dpa166 <- mean(c(npa166$tn, npa165$tn, npa164$tn, npa163$tn, npa162$tn, npa161$tn, npa160$tn))
+dpa165 <- mean(c(npa165$tn, npa164$tn, npa163$tn, npa162$tn, npa161$tn, npa160$tn, npa159$tn))
+dpa164 <- mean(c(npa164$tn, npa163$tn, npa162$tn, npa161$tn, npa160$tn, npa159$tn, npa158$tn))
+dpa163 <- mean(c(npa163$tn, npa162$tn, npa161$tn, npa160$tn, npa159$tn, npa158$tn, npa157$tn))
 dpa162 <- mean(c(npa162$tn, npa161$tn, npa160$tn, npa159$tn, npa158$tn, npa157$tn, npa156$tn))
 dpa161 <- mean(c(npa161$tn, npa160$tn, npa159$tn, npa158$tn, npa157$tn, npa156$tn, npa155$tn))
 dpa160 <- mean(c(npa160$tn, npa159$tn, npa158$tn, npa157$tn, npa156$tn, npa155$tn, npa154$tn))
@@ -9403,7 +9921,8 @@ dpa07 <- mean(c(npa07$tn, npa06$tn, npa05$tn, npa04$tn, npa03$tn, npa02$tn, npa0
 
 dfpa <- data_frame(
   fecha,
-  dncpa = c(dpa162/ppa, dpa161/ppa, dpa160/ppa, 
+  dncpa = c(dpa171/ppa, dpa170/ppa, 
+            dpa169/ppa, dpa168/ppa, dpa167/ppa, dpa166/ppa, dpa165/ppa, dpa164/ppa, dpa163/ppa, dpa162/ppa, dpa161/ppa, dpa160/ppa, 
             dpa159/ppa, dpa158/ppa, dpa157/ppa, dpa156/ppa, dpa155/ppa, dpa154/ppa, dpa153/ppa, dpa152/ppa, dpa151/ppa, dpa150/ppa,
             dpa149/ppa, dpa148/ppa, dpa147/ppa, dpa146/ppa, dpa145/ppa, dpa144/ppa, dpa143/ppa, dpa142/ppa, dpa141/ppa, dpa140/ppa, 
             dpa139/ppa, dpa138/ppa, dpa137/ppa, dpa136/ppa, dpa135/ppa, dpa134/ppa, dpa133/ppa, dpa132/ppa, dpa131/ppa, dpa130/ppa, 
@@ -9423,6 +9942,33 @@ dfpa <- data_frame(
 )
 
 # ***** ORELLANA *****
+nor171 <- orellana22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nor170 <- orellana22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nor169 <- orellana22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nor168 <- orellana22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nor167 <- orellana22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nor166 <- orellana22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nor165 <- orellana22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nor164 <- orellana22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nor163 <- orellana22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nor162 <- orellana22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -9910,6 +10456,15 @@ nor01 <- orellana22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dor171 <- mean(c(nor171$tn, nor170$tn, nor169$tn, nor168$tn, nor167$tn, nor166$tn, nor165$tn))
+dor170 <- mean(c(nor170$tn, nor169$tn, nor168$tn, nor167$tn, nor166$tn, nor165$tn, nor164$tn))
+dor169 <- mean(c(nor169$tn, nor168$tn, nor167$tn, nor166$tn, nor165$tn, nor164$tn, nor163$tn))
+dor168 <- mean(c(nor168$tn, nor167$tn, nor166$tn, nor165$tn, nor164$tn, nor163$tn, nor162$tn))
+dor167 <- mean(c(nor167$tn, nor166$tn, nor165$tn, nor164$tn, nor163$tn, nor162$tn, nor161$tn))
+dor166 <- mean(c(nor166$tn, nor165$tn, nor164$tn, nor163$tn, nor162$tn, nor161$tn, nor160$tn))
+dor165 <- mean(c(nor165$tn, nor164$tn, nor163$tn, nor162$tn, nor161$tn, nor160$tn, nor159$tn))
+dor164 <- mean(c(nor164$tn, nor163$tn, nor162$tn, nor161$tn, nor160$tn, nor159$tn, nor158$tn))
+dor163 <- mean(c(nor163$tn, nor162$tn, nor161$tn, nor160$tn, nor159$tn, nor158$tn, nor157$tn))
 dor162 <- mean(c(nor162$tn, nor161$tn, nor160$tn, nor159$tn, nor158$tn, nor157$tn, nor156$tn))
 dor161 <- mean(c(nor161$tn, nor160$tn, nor159$tn, nor158$tn, nor157$tn, nor156$tn, nor155$tn))
 dor160 <- mean(c(nor160$tn, nor159$tn, nor158$tn, nor157$tn, nor156$tn, nor155$tn, nor154$tn))
@@ -10069,7 +10624,8 @@ dor07 <- mean(c(nor07$tn, nor06$tn, nor05$tn, nor04$tn, nor03$tn, nor02$tn, nor0
 
 dfor <- data_frame(
   fecha,
-  dncor = c(dor162/por, dor161/por, dor160/por, 
+  dncor = c(dor171/por, dor170/por, 
+            dor169/por, dor168/por, dor167/por, dor166/por, dor165/por, dor164/por, dor163/por, dor162/por, dor161/por, dor160/por, 
             dor159/por, dor158/por, dor157/por, dor156/por, dor155/por, dor154/por, dor153/por, dor152/por, dor151/por, dor150/por,
             dor149/por, dor148/por, dor147/por, dor146/por, dor145/por, dor144/por, dor143/por, dor142/por, dor141/por, dor140/por, 
             dor139/por, dor138/por, dor137/por, dor136/por, dor135/por, dor134/por, dor133/por, dor132/por, dor131/por, dor130/por, 
@@ -10089,6 +10645,33 @@ dfor <- data_frame(
 )
 
 # ***** NAPO *****
+nna171 <- napo22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nna170 <- napo22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nna169 <- napo22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nna168 <- napo22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nna167 <- napo22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nna166 <- napo22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nna165 <- napo22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nna164 <- napo22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nna163 <- napo22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nna162 <- napo22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -10576,6 +11159,15 @@ nna01 <- napo22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dna171 <- mean(c(nna171$tn, nna170$tn, nna169$tn, nna168$tn, nna167$tn, nna166$tn, nna165$tn))
+dna170 <- mean(c(nna170$tn, nna169$tn, nna168$tn, nna167$tn, nna166$tn, nna165$tn, nna164$tn))
+dna169 <- mean(c(nna169$tn, nna168$tn, nna167$tn, nna166$tn, nna165$tn, nna164$tn, nna163$tn))
+dna168 <- mean(c(nna168$tn, nna167$tn, nna166$tn, nna165$tn, nna164$tn, nna163$tn, nna162$tn))
+dna167 <- mean(c(nna167$tn, nna166$tn, nna165$tn, nna164$tn, nna163$tn, nna162$tn, nna161$tn))
+dna166 <- mean(c(nna166$tn, nna165$tn, nna164$tn, nna163$tn, nna162$tn, nna161$tn, nna160$tn))
+dna165 <- mean(c(nna165$tn, nna164$tn, nna163$tn, nna162$tn, nna161$tn, nna160$tn, nna159$tn))
+dna164 <- mean(c(nna164$tn, nna163$tn, nna162$tn, nna161$tn, nna160$tn, nna159$tn, nna158$tn))
+dna163 <- mean(c(nna163$tn, nna162$tn, nna161$tn, nna160$tn, nna159$tn, nna158$tn, nna157$tn))
 dna162 <- mean(c(nna162$tn, nna161$tn, nna160$tn, nna159$tn, nna158$tn, nna157$tn, nna156$tn))
 dna161 <- mean(c(nna161$tn, nna160$tn, nna159$tn, nna158$tn, nna157$tn, nna156$tn, nna155$tn))
 dna160 <- mean(c(nna160$tn, nna159$tn, nna158$tn, nna157$tn, nna156$tn, nna155$tn, nna154$tn))
@@ -10735,7 +11327,8 @@ dna07 <- mean(c(nna07$tn, nna06$tn, nna05$tn, nna04$tn, nna03$tn, nna02$tn, nna0
 
 dfna <- data_frame(
   fecha,
-  dncna = c(dna162/pna, dna161/pna, dna160/pna, 
+  dncna = c(dna171/pna, dna170/pna, 
+            dna169/pna, dna168/pna, dna167/pna, dna166/pna, dna165/pna, dna164/pna, dna163/pna, dna162/pna, dna161/pna, dna160/pna, 
             dna159/pna, dna158/pna, dna157/pna, dna156/pna, dna155/pna, dna154/pna, dna153/pna, dna152/pna, dna151/pna, dna150/pna,
             dna149/pna, dna148/pna, dna147/pna, dna146/pna, dna145/pna, dna144/pna, dna143/pna, dna142/pna, dna141/pna, dna140/pna, 
             dna139/pna, dna138/pna, dna137/pna, dna136/pna, dna135/pna, dna134/pna, dna133/pna, dna132/pna, dna131/pna, dna130/pna, 
@@ -10755,6 +11348,33 @@ dfna <- data_frame(
 )
 
 # ***** MORONA *****
+nmo171 <- morona22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nmo170 <- morona22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nmo169 <- morona22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nmo168 <- morona22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nmo167 <- morona22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nmo166 <- morona22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nmo165 <- morona22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nmo164 <- morona22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nmo163 <- morona22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nmo162 <- morona22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -11242,6 +11862,15 @@ nmo01 <- morona22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dmo171 <- mean(c(nmo171$tn, nmo170$tn, nmo169$tn, nmo168$tn, nmo167$tn, nmo166$tn, nmo165$tn))
+dmo170 <- mean(c(nmo170$tn, nmo169$tn, nmo168$tn, nmo167$tn, nmo166$tn, nmo165$tn, nmo164$tn))
+dmo169 <- mean(c(nmo169$tn, nmo168$tn, nmo167$tn, nmo166$tn, nmo165$tn, nmo164$tn, nmo163$tn))
+dmo168 <- mean(c(nmo168$tn, nmo167$tn, nmo166$tn, nmo165$tn, nmo164$tn, nmo163$tn, nmo162$tn))
+dmo167 <- mean(c(nmo167$tn, nmo166$tn, nmo165$tn, nmo164$tn, nmo163$tn, nmo162$tn, nmo161$tn))
+dmo166 <- mean(c(nmo166$tn, nmo165$tn, nmo164$tn, nmo163$tn, nmo162$tn, nmo161$tn, nmo160$tn))
+dmo165 <- mean(c(nmo165$tn, nmo164$tn, nmo163$tn, nmo162$tn, nmo161$tn, nmo160$tn, nmo159$tn))
+dmo164 <- mean(c(nmo164$tn, nmo163$tn, nmo162$tn, nmo161$tn, nmo160$tn, nmo159$tn, nmo158$tn))
+dmo163 <- mean(c(nmo163$tn, nmo162$tn, nmo161$tn, nmo160$tn, nmo159$tn, nmo158$tn, nmo157$tn))
 dmo162 <- mean(c(nmo162$tn, nmo161$tn, nmo160$tn, nmo159$tn, nmo158$tn, nmo157$tn, nmo156$tn))
 dmo161 <- mean(c(nmo161$tn, nmo160$tn, nmo159$tn, nmo158$tn, nmo157$tn, nmo156$tn, nmo155$tn))
 dmo160 <- mean(c(nmo160$tn, nmo159$tn, nmo158$tn, nmo157$tn, nmo156$tn, nmo155$tn, nmo154$tn))
@@ -11401,7 +12030,8 @@ dmo07 <- mean(c(nmo07$tn, nmo06$tn, nmo05$tn, nmo04$tn, nmo03$tn, nmo02$tn, nmo0
 
 dfmo <- data_frame(
   fecha,
-  dncmo = c(dmo162/pmo, dmo161/pmo, dmo160/pmo, 
+  dncmo = c(dmo171/pmo, dmo170/pmo, 
+            dmo169/pmo, dmo168/pmo, dmo167/pmo, dmo166/pmo, dmo165/pmo, dmo164/pmo, dmo163/pmo, dmo162/pmo, dmo161/pmo, dmo160/pmo, 
             dmo159/pmo, dmo158/pmo, dmo157/pmo, dmo156/pmo, dmo155/pmo, dmo154/pmo, dmo153/pmo, dmo152/pmo, dmo151/pmo, dmo150/pmo,
             dmo149/pmo, dmo148/pmo, dmo147/pmo, dmo146/pmo, dmo145/pmo, dmo144/pmo, dmo143/pmo, dmo142/pmo, dmo141/pmo, dmo140/pmo, 
             dmo139/pmo, dmo138/pmo, dmo137/pmo, dmo136/pmo, dmo135/pmo, dmo134/pmo, dmo133/pmo, dmo132/pmo, dmo131/pmo, dmo130/pmo, 
@@ -11421,6 +12051,33 @@ dfmo <- data_frame(
 )
 
 # ***** IMBABURA *****
+nim171 <- imbabura22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nim170 <- imbabura22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nim169 <- imbabura22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nim168 <- imbabura22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nim167 <- imbabura22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nim166 <- imbabura22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nim165 <- imbabura22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nim164 <- imbabura22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nim163 <- imbabura22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nim162 <- imbabura22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -11908,6 +12565,15 @@ nim01 <- imbabura22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dim171 <- mean(c(nim171$tn, nim170$tn, nim169$tn, nim168$tn, nim167$tn, nim166$tn, nim165$tn))
+dim170 <- mean(c(nim170$tn, nim169$tn, nim168$tn, nim167$tn, nim166$tn, nim165$tn, nim164$tn))
+dim169 <- mean(c(nim169$tn, nim168$tn, nim167$tn, nim166$tn, nim165$tn, nim164$tn, nim163$tn))
+dim168 <- mean(c(nim168$tn, nim167$tn, nim166$tn, nim165$tn, nim164$tn, nim163$tn, nim162$tn))
+dim167 <- mean(c(nim167$tn, nim166$tn, nim165$tn, nim164$tn, nim163$tn, nim162$tn, nim161$tn))
+dim166 <- mean(c(nim166$tn, nim165$tn, nim164$tn, nim163$tn, nim162$tn, nim161$tn, nim160$tn))
+dim165 <- mean(c(nim165$tn, nim164$tn, nim163$tn, nim162$tn, nim161$tn, nim160$tn, nim159$tn))
+dim164 <- mean(c(nim164$tn, nim163$tn, nim162$tn, nim161$tn, nim160$tn, nim159$tn, nim158$tn))
+dim163 <- mean(c(nim163$tn, nim162$tn, nim161$tn, nim160$tn, nim159$tn, nim158$tn, nim157$tn))
 dim162 <- mean(c(nim162$tn, nim161$tn, nim160$tn, nim159$tn, nim158$tn, nim157$tn, nim156$tn))
 dim161 <- mean(c(nim161$tn, nim160$tn, nim159$tn, nim158$tn, nim157$tn, nim156$tn, nim155$tn))
 dim160 <- mean(c(nim160$tn, nim159$tn, nim158$tn, nim157$tn, nim156$tn, nim155$tn, nim154$tn))
@@ -12067,7 +12733,8 @@ dim07 <- mean(c(nim07$tn, nim06$tn, nim05$tn, nim04$tn, nim03$tn, nim02$tn, nim0
 
 dfim <- data_frame(
   fecha,
-  dncim = c(dim162/pim, dim161/pim, dim160/pim, 
+  dncim = c(dim171/pim, dim170/pim, 
+            dim169/pim, dim168/pim, dim167/pim, dim166/pim, dim165/pim, dim164/pim, dim163/pim, dim162/pim, dim161/pim, dim160/pim, 
             dim159/pim, dim158/pim, dim157/pim, dim156/pim, dim155/pim, dim154/pim, dim153/pim, dim152/pim, dim151/pim, dim150/pim,
             dim149/pim, dim148/pim, dim147/pim, dim146/pim, dim145/pim, dim144/pim, dim143/pim, dim142/pim, dim141/pim, dim140/pim, 
             dim139/pim, dim138/pim, dim137/pim, dim136/pim, dim135/pim, dim134/pim, dim133/pim, dim132/pim, dim131/pim, dim130/pim, 
@@ -12087,6 +12754,33 @@ dfim <- data_frame(
 )
 
 # ***** COTOPAXI *****
+nco171 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nco170 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nco169 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nco168 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nco167 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nco166 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nco165 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nco164 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nco163 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nco162 <- cotopaxi22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -12574,6 +13268,15 @@ nco01 <- cotopaxi22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dco171 <- mean(c(nco171$tn, nco170$tn, nco169$tn, nco168$tn, nco167$tn, nco166$tn, nco165$tn))
+dco170 <- mean(c(nco170$tn, nco169$tn, nco168$tn, nco167$tn, nco166$tn, nco165$tn, nco164$tn))
+dco169 <- mean(c(nco169$tn, nco168$tn, nco167$tn, nco166$tn, nco165$tn, nco164$tn, nco163$tn))
+dco168 <- mean(c(nco168$tn, nco167$tn, nco166$tn, nco165$tn, nco164$tn, nco163$tn, nco162$tn))
+dco167 <- mean(c(nco167$tn, nco166$tn, nco165$tn, nco164$tn, nco163$tn, nco162$tn, nco161$tn))
+dco166 <- mean(c(nco166$tn, nco165$tn, nco164$tn, nco163$tn, nco162$tn, nco161$tn, nco160$tn))
+dco165 <- mean(c(nco165$tn, nco164$tn, nco163$tn, nco162$tn, nco161$tn, nco160$tn, nco159$tn))
+dco164 <- mean(c(nco164$tn, nco163$tn, nco162$tn, nco161$tn, nco160$tn, nco159$tn, nco158$tn))
+dco163 <- mean(c(nco163$tn, nco162$tn, nco161$tn, nco160$tn, nco159$tn, nco158$tn, nco157$tn))
 dco162 <- mean(c(nco162$tn, nco161$tn, nco160$tn, nco159$tn, nco158$tn, nco157$tn, nco156$tn))
 dco161 <- mean(c(nco161$tn, nco160$tn, nco159$tn, nco158$tn, nco157$tn, nco156$tn, nco155$tn))
 dco160 <- mean(c(nco160$tn, nco159$tn, nco158$tn, nco157$tn, nco156$tn, nco155$tn, nco154$tn))
@@ -12733,7 +13436,8 @@ dco07 <- mean(c(nco07$tn, nco06$tn, nco05$tn, nco04$tn, nco03$tn, nco02$tn, nco0
 
 dfco <- data_frame(
   fecha,
-  dncco = c(dco162/pco, dco161/pco, dco160/pco, 
+  dncco = c(dco171/pco, dco170/pco, 
+            dco169/pco, dco168/pco, dco167/pco, dco166/pco, dco165/pco, dco164/pco, dco163/pco, dco162/pco, dco161/pco, dco160/pco, 
             dco159/pco, dco158/pco, dco157/pco, dco156/pco, dco155/pco, dco154/pco, dco153/pco, dco152/pco, dco151/pco, dco150/pco,
             dco149/pco, dco148/pco, dco147/pco, dco146/pco, dco145/pco, dco144/pco, dco143/pco, dco142/pco, dco141/pco, dco140/pco, 
             dco139/pco, dco138/pco, dco137/pco, dco136/pco, dco135/pco, dco134/pco, dco133/pco, dco132/pco, dco131/pco, dco130/pco, 
@@ -12753,6 +13457,33 @@ dfco <- data_frame(
 )
 
 # ***** CARCHI *****
+nca171 <- carchi22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nca170 <- carchi22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nca169 <- carchi22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nca168 <- carchi22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nca167 <- carchi22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nca166 <- carchi22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nca165 <- carchi22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nca164 <- carchi22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nca163 <- carchi22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nca162 <- carchi22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -13240,6 +13971,15 @@ nca01 <- carchi22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dca171 <- mean(c(nca171$tn, nca170$tn, nca169$tn, nca168$tn, nca167$tn, nca166$tn, nca165$tn))
+dca170 <- mean(c(nca170$tn, nca169$tn, nca168$tn, nca167$tn, nca166$tn, nca165$tn, nca164$tn))
+dca169 <- mean(c(nca169$tn, nca168$tn, nca167$tn, nca166$tn, nca165$tn, nca164$tn, nca163$tn))
+dca168 <- mean(c(nca168$tn, nca167$tn, nca166$tn, nca165$tn, nca164$tn, nca163$tn, nca162$tn))
+dca167 <- mean(c(nca167$tn, nca166$tn, nca165$tn, nca164$tn, nca163$tn, nca162$tn, nca161$tn))
+dca166 <- mean(c(nca166$tn, nca165$tn, nca164$tn, nca163$tn, nca162$tn, nca161$tn, nca160$tn))
+dca165 <- mean(c(nca165$tn, nca164$tn, nca163$tn, nca162$tn, nca161$tn, nca160$tn, nca159$tn))
+dca164 <- mean(c(nca164$tn, nca163$tn, nca162$tn, nca161$tn, nca160$tn, nca159$tn, nca158$tn))
+dca163 <- mean(c(nca163$tn, nca162$tn, nca161$tn, nca160$tn, nca159$tn, nca158$tn, nca157$tn))
 dca162 <- mean(c(nca162$tn, nca161$tn, nca160$tn, nca159$tn, nca158$tn, nca157$tn, nca156$tn))
 dca161 <- mean(c(nca161$tn, nca160$tn, nca159$tn, nca158$tn, nca157$tn, nca156$tn, nca155$tn))
 dca160 <- mean(c(nca160$tn, nca159$tn, nca158$tn, nca157$tn, nca156$tn, nca155$tn, nca154$tn))
@@ -13399,7 +14139,8 @@ dca07 <- mean(c(nca07$tn, nca06$tn, nca05$tn, nca04$tn, nca03$tn, nca02$tn, nca0
 
 dfca <- data_frame(
   fecha,
-  dncca = c(dca162/pca, dca161/pca, dca160/pca, 
+  dncca = c(dca171/pca, dca170/pca, 
+            dca169/pca, dca168/pca, dca167/pca, dca166/pca, dca165/pca, dca164/pca, dca163/pca, dca162/pca, dca161/pca, dca160/pca, 
             dca159/pca, dca158/pca, dca157/pca, dca156/pca, dca155/pca, dca154/pca, dca153/pca, dca152/pca, dca151/pca, dca150/pca,
             dca149/pca, dca148/pca, dca147/pca, dca146/pca, dca145/pca, dca144/pca, dca143/pca, dca142/pca, dca141/pca, dca140/pca, 
             dca139/pca, dca138/pca, dca137/pca, dca136/pca, dca135/pca, dca134/pca, dca133/pca, dca132/pca, dca131/pca, dca130/pca, 
@@ -13419,6 +14160,33 @@ dfca <- data_frame(
 )
 
 # ***** CAÑAR *****
+ncr171 <- canar22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+ncr170 <- canar22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+ncr169 <- canar22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+ncr168 <- canar22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+ncr167 <- canar22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+ncr166 <- canar22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+ncr165 <- canar22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+ncr164 <- canar22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+ncr163 <- canar22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 ncr162 <- canar22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -13906,6 +14674,15 @@ ncr01 <- canar22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dcr171 <- mean(c(ncr171$tn, ncr170$tn, ncr169$tn, ncr168$tn, ncr167$tn, ncr166$tn, ncr165$tn))
+dcr170 <- mean(c(ncr170$tn, ncr169$tn, ncr168$tn, ncr167$tn, ncr166$tn, ncr165$tn, ncr164$tn))
+dcr169 <- mean(c(ncr169$tn, ncr168$tn, ncr167$tn, ncr166$tn, ncr165$tn, ncr164$tn, ncr163$tn))
+dcr168 <- mean(c(ncr168$tn, ncr167$tn, ncr166$tn, ncr165$tn, ncr164$tn, ncr163$tn, ncr162$tn))
+dcr167 <- mean(c(ncr167$tn, ncr166$tn, ncr165$tn, ncr164$tn, ncr163$tn, ncr162$tn, ncr161$tn))
+dcr166 <- mean(c(ncr166$tn, ncr165$tn, ncr164$tn, ncr163$tn, ncr162$tn, ncr161$tn, ncr160$tn))
+dcr165 <- mean(c(ncr165$tn, ncr164$tn, ncr163$tn, ncr162$tn, ncr161$tn, ncr160$tn, ncr159$tn))
+dcr164 <- mean(c(ncr164$tn, ncr163$tn, ncr162$tn, ncr161$tn, ncr160$tn, ncr159$tn, ncr158$tn))
+dcr163 <- mean(c(ncr163$tn, ncr162$tn, ncr161$tn, ncr160$tn, ncr159$tn, ncr158$tn, ncr157$tn))
 dcr162 <- mean(c(ncr162$tn, ncr161$tn, ncr160$tn, ncr159$tn, ncr158$tn, ncr157$tn, ncr156$tn))
 dcr161 <- mean(c(ncr161$tn, ncr160$tn, ncr159$tn, ncr158$tn, ncr157$tn, ncr156$tn, ncr155$tn))
 dcr160 <- mean(c(ncr160$tn, ncr159$tn, ncr158$tn, ncr157$tn, ncr156$tn, ncr155$tn, ncr154$tn))
@@ -14065,7 +14842,8 @@ dcr07 <- mean(c(ncr07$tn, ncr06$tn, ncr05$tn, ncr04$tn, ncr03$tn, ncr02$tn, ncr0
 
 dfcr <- data_frame(
   fecha,
-  dnccr = c(dcr162/pcr, dcr161/pcr, dcr160/pcr, 
+  dnccr = c(dcr171/pcr, dcr170/pcr, 
+            dcr169/pcr, dcr168/pcr, dcr167/pcr, dcr166/pcr, dcr165/pcr, dcr164/pcr, dcr163/pcr, dcr162/pcr, dcr161/pcr, dcr160/pcr, 
             dcr159/pcr, dcr158/pcr, dcr157/pcr, dcr156/pcr, dcr155/pcr, dcr154/pcr, dcr153/pcr, dcr152/pcr, dcr151/pcr, dcr150/pcr,
             dcr149/pcr, dcr148/pcr, dcr147/pcr, dcr146/pcr, dcr145/pcr, dcr144/pcr, dcr143/pcr, dcr142/pcr, dcr141/pcr, dcr140/pcr, 
             dcr139/pcr, dcr138/pcr, dcr137/pcr, dcr136/pcr, dcr135/pcr, dcr134/pcr, dcr133/pcr, dcr132/pcr, dcr131/pcr, dcr130/pcr, 
@@ -14085,6 +14863,33 @@ dfcr <- data_frame(
 )
 
 # ***** BOLIVAR *****
+nbo171 <- bolivar22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nbo170 <- bolivar22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nbo169 <- bolivar22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nbo168 <- bolivar22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nbo167 <- bolivar22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nbo166 <- bolivar22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nbo165 <- bolivar22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nbo164 <- bolivar22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nbo163 <- bolivar22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nbo162 <- bolivar22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -14572,6 +15377,15 @@ nbo01 <- bolivar22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dbo171 <- mean(c(nbo171$tn, nbo170$tn, nbo169$tn, nbo168$tn, nbo167$tn, nbo166$tn, nbo165$tn))
+dbo170 <- mean(c(nbo170$tn, nbo169$tn, nbo168$tn, nbo167$tn, nbo166$tn, nbo165$tn, nbo164$tn))
+dbo169 <- mean(c(nbo169$tn, nbo168$tn, nbo167$tn, nbo166$tn, nbo165$tn, nbo164$tn, nbo163$tn))
+dbo168 <- mean(c(nbo168$tn, nbo167$tn, nbo166$tn, nbo165$tn, nbo164$tn, nbo163$tn, nbo162$tn))
+dbo167 <- mean(c(nbo167$tn, nbo166$tn, nbo165$tn, nbo164$tn, nbo163$tn, nbo162$tn, nbo161$tn))
+dbo166 <- mean(c(nbo166$tn, nbo165$tn, nbo164$tn, nbo163$tn, nbo162$tn, nbo161$tn, nbo160$tn))
+dbo165 <- mean(c(nbo165$tn, nbo164$tn, nbo163$tn, nbo162$tn, nbo161$tn, nbo160$tn, nbo159$tn))
+dbo164 <- mean(c(nbo164$tn, nbo163$tn, nbo162$tn, nbo161$tn, nbo160$tn, nbo159$tn, nbo158$tn))
+dbo163 <- mean(c(nbo163$tn, nbo162$tn, nbo161$tn, nbo160$tn, nbo159$tn, nbo158$tn, nbo157$tn))
 dbo162 <- mean(c(nbo162$tn, nbo161$tn, nbo160$tn, nbo159$tn, nbo158$tn, nbo157$tn, nbo156$tn))
 dbo161 <- mean(c(nbo161$tn, nbo160$tn, nbo159$tn, nbo158$tn, nbo157$tn, nbo156$tn, nbo155$tn))
 dbo160 <- mean(c(nbo160$tn, nbo159$tn, nbo158$tn, nbo157$tn, nbo156$tn, nbo155$tn, nbo154$tn))
@@ -14731,7 +15545,8 @@ dbo07 <- mean(c(nbo07$tn, nbo06$tn, nbo05$tn, nbo04$tn, nbo03$tn, nbo02$tn, nbo0
 
 dfbo <- data_frame(
   fecha,
-  dncbo = c(dbo162/pbo, dbo161/pbo, dbo160/pbo, 
+  dncbo = c(dbo171/pbo, dbo170/pbo, 
+            dbo169/pbo, dbo168/pbo, dbo167/pbo, dbo166/pbo, dbo165/pbo, dbo164/pbo, dbo163/pbo, dbo162/pbo, dbo161/pbo, dbo160/pbo, 
             dbo159/pbo, dbo158/pbo, dbo157/pbo, dbo156/pbo, dbo155/pbo, dbo154/pbo, dbo153/pbo, dbo152/pbo, dbo151/pbo, dbo150/pbo,
             dbo149/pbo, dbo148/pbo, dbo147/pbo, dbo146/pbo, dbo145/pbo, dbo144/pbo, dbo143/pbo, dbo142/pbo, dbo141/pbo, dbo140/pbo, 
             dbo139/pbo, dbo138/pbo, dbo137/pbo, dbo136/pbo, dbo135/pbo, dbo134/pbo, dbo133/pbo, dbo132/pbo, dbo131/pbo, dbo130/pbo, 
@@ -14751,6 +15566,33 @@ dfbo <- data_frame(
 )
 
 # ***** STO DOMINGO *****
+nst171 <- stodomingo22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nst170 <- stodomingo22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nst169 <- stodomingo22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nst168 <- stodomingo22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nst167 <- stodomingo22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nst166 <- stodomingo22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nst165 <- stodomingo22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nst164 <- stodomingo22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nst163 <- stodomingo22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nst162 <- stodomingo22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -15238,6 +16080,15 @@ nst01 <- stodomingo22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dst171 <- mean(c(nst171$tn, nst170$tn, nst169$tn, nst168$tn, nst167$tn, nst166$tn, nst165$tn))
+dst170 <- mean(c(nst170$tn, nst169$tn, nst168$tn, nst167$tn, nst166$tn, nst165$tn, nst164$tn))
+dst169 <- mean(c(nst169$tn, nst168$tn, nst167$tn, nst166$tn, nst165$tn, nst164$tn, nst163$tn))
+dst168 <- mean(c(nst168$tn, nst167$tn, nst166$tn, nst165$tn, nst164$tn, nst163$tn, nst162$tn))
+dst167 <- mean(c(nst167$tn, nst166$tn, nst165$tn, nst164$tn, nst163$tn, nst162$tn, nst161$tn))
+dst166 <- mean(c(nst166$tn, nst165$tn, nst164$tn, nst163$tn, nst162$tn, nst161$tn, nst160$tn))
+dst165 <- mean(c(nst165$tn, nst164$tn, nst163$tn, nst162$tn, nst161$tn, nst160$tn, nst159$tn))
+dst164 <- mean(c(nst164$tn, nst163$tn, nst162$tn, nst161$tn, nst160$tn, nst159$tn, nst158$tn))
+dst163 <- mean(c(nst163$tn, nst162$tn, nst161$tn, nst160$tn, nst159$tn, nst158$tn, nst157$tn))
 dst162 <- mean(c(nst162$tn, nst161$tn, nst160$tn, nst159$tn, nst158$tn, nst157$tn, nst156$tn))
 dst161 <- mean(c(nst161$tn, nst160$tn, nst159$tn, nst158$tn, nst157$tn, nst156$tn, nst155$tn))
 dst160 <- mean(c(nst160$tn, nst159$tn, nst158$tn, nst157$tn, nst156$tn, nst155$tn, nst154$tn))
@@ -15397,7 +16248,8 @@ dst07 <- mean(c(nst07$tn, nst06$tn, nst05$tn, nst04$tn, nst03$tn, nst02$tn, nst0
 
 dfst <- data_frame(
   fecha,
-  dncst = c(dst162/pst, dst161/pst, dst160/pst, 
+  dncst = c(dst171/pst, dst170/pst, 
+            dst169/pst, dst168/pst, dst167/pst, dst166/pst, dst165/pst, dst164/pst, dst163/pst, dst162/pst, dst161/pst, dst160/pst, 
             dst159/pst, dst158/pst, dst157/pst, dst156/pst, dst155/pst, dst154/pst, dst153/pst, dst152/pst, dst151/pst, dst150/pst,
             dst149/pst, dst148/pst, dst147/pst, dst146/pst, dst145/pst, dst144/pst, dst143/pst, dst142/pst, dst141/pst, dst140/pst, 
             dst139/pst, dst138/pst, dst137/pst, dst136/pst, dst135/pst, dst134/pst, dst133/pst, dst132/pst, dst131/pst, dst130/pst, 
@@ -15417,6 +16269,33 @@ dfst <- data_frame(
 )
 
 # ***** STA ELENA *****
+nea171 <- staelena22 %>%
+  filter(created_at == "2022-06-20") %>%
+  summarise(tn = sum(nuevas))
+nea170 <- staelena22 %>%
+  filter(created_at == "2022-06-19") %>%
+  summarise(tn = sum(nuevas))
+nea169 <- staelena22 %>%
+  filter(created_at == "2022-06-18") %>%
+  summarise(tn = sum(nuevas))
+nea168 <- staelena22 %>%
+  filter(created_at == "2022-06-17") %>%
+  summarise(tn = sum(nuevas))
+nea167 <- staelena22 %>%
+  filter(created_at == "2022-06-16") %>%
+  summarise(tn = sum(nuevas))
+nea166 <- staelena22 %>%
+  filter(created_at == "2022-06-15") %>%
+  summarise(tn = sum(nuevas))
+nea165 <- staelena22 %>%
+  filter(created_at == "2022-06-14") %>%
+  summarise(tn = sum(nuevas))
+nea164 <- staelena22 %>%
+  filter(created_at == "2022-06-13") %>%
+  summarise(tn = sum(nuevas))
+nea163 <- staelena22 %>%
+  filter(created_at == "2022-06-12") %>%
+  summarise(tn = sum(nuevas))
 nea162 <- staelena22 %>%
   filter(created_at == "2022-06-11") %>%
   summarise(tn = sum(nuevas))
@@ -15904,6 +16783,15 @@ nea01 <- staelena22 %>%
   filter(created_at == "2022-01-01") %>%
   summarise(tn = sum(nuevas))
 
+dea171 <- mean(c(nea171$tn, nea170$tn, nea169$tn, nea168$tn, nea167$tn, nea166$tn, nea165$tn))
+dea170 <- mean(c(nea170$tn, nea169$tn, nea168$tn, nea167$tn, nea166$tn, nea165$tn, nea164$tn))
+dea169 <- mean(c(nea169$tn, nea168$tn, nea167$tn, nea166$tn, nea165$tn, nea164$tn, nea163$tn))
+dea168 <- mean(c(nea168$tn, nea167$tn, nea166$tn, nea165$tn, nea164$tn, nea163$tn, nea162$tn))
+dea167 <- mean(c(nea167$tn, nea166$tn, nea165$tn, nea164$tn, nea163$tn, nea162$tn, nea161$tn))
+dea166 <- mean(c(nea166$tn, nea165$tn, nea164$tn, nea163$tn, nea162$tn, nea161$tn, nea160$tn))
+dea165 <- mean(c(nea165$tn, nea164$tn, nea163$tn, nea162$tn, nea161$tn, nea160$tn, nea159$tn))
+dea164 <- mean(c(nea164$tn, nea163$tn, nea162$tn, nea161$tn, nea160$tn, nea159$tn, nea158$tn))
+dea163 <- mean(c(nea163$tn, nea162$tn, nea161$tn, nea160$tn, nea159$tn, nea158$tn, nea157$tn))
 dea162 <- mean(c(nea162$tn, nea161$tn, nea160$tn, nea159$tn, nea158$tn, nea157$tn, nea156$tn))
 dea161 <- mean(c(nea161$tn, nea160$tn, nea159$tn, nea158$tn, nea157$tn, nea156$tn, nea155$tn))
 dea160 <- mean(c(nea160$tn, nea159$tn, nea158$tn, nea157$tn, nea156$tn, nea155$tn, nea154$tn))
@@ -16063,7 +16951,8 @@ dea07 <- mean(c(nea07$tn, nea06$tn, nea05$tn, nea04$tn, nea03$tn, nea02$tn, nea0
 
 dfea <- data_frame(
   fecha,
-  dncea = c(dea162/pea, dea161/pea, dea160/pea, 
+  dncea = c(dea171/pea, dea170/pea, 
+            dea169/pea, dea168/pea, dea167/pea, dea166/pea, dea165/pea, dea164/pea, dea163/pea, dea162/pea, dea161/pea, dea160/pea, 
             dea159/pea, dea158/pea, dea157/pea, dea156/pea, dea155/pea, dea154/pea, dea153/pea, dea152/pea, dea151/pea, dea150/pea,
             dea149/pea, dea148/pea, dea147/pea, dea146/pea, dea145/pea, dea144/pea, dea143/pea, dea142/pea, dea141/pea, dea140/pea, 
             dea139/pea, dea138/pea, dea137/pea, dea136/pea, dea135/pea, dea134/pea, dea133/pea, dea132/pea, dea131/pea, dea130/pea, 
@@ -16097,5 +16986,5 @@ dftotal <- full_join(dfgu, dfpi, by = "fecha") %>%
   full_join(., dfst, by = "fecha") %>% full_join(., dfea, by = "fecha")
 
 # GRABAR ARCHIVO A ÚLTIMA FECHA
-dncprov110622 <- filter(dftotal, fecha == "11jun22")
-write.table(dncprov110622,"dnc11jun.txt",sep="\t",row.names=FALSE)
+dncprov200622 <- filter(dftotal, fecha == "20jun22")
+write.table(dncprov200622,"dnc20jun.txt",sep="\t",row.names=FALSE)
