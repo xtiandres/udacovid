@@ -16987,4 +16987,4 @@ dftotal <- full_join(dfgu, dfpi, by = "fecha") %>%
 
 # GRABAR ARCHIVO A ÚLTIMA FECHA
 dncprov200622 <- filter(dftotal, fecha == "20jun22")
-write.table(dncprov200622,"dnc20jun.txt",sep="\t",row.names=FALSE)
+write.table(dncprov200622,"dnc/dnc20jun.txt",sep="\t",row.names=FALSE)
