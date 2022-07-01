@@ -1,694 +1,766 @@
-ngu171 <- guayas22 %>%
-  filter(created_at == "2022-06-20") %>%
+ngu181 <- guayas22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-ngu170 <- guayas22 %>%
-  filter(created_at == "2022-06-19") %>%
+ngu180 <- guayas22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-ngu169 <- guayas22 %>%
-  filter(created_at == "2022-06-18") %>%
+ngu179 <- guayas22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-ngu168 <- guayas22 %>%
-  filter(created_at == "2022-06-17") %>%
+ngu178 <- guayas22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-ngu167 <- guayas22 %>%
-  filter(created_at == "2022-06-16") %>%
+ngu177 <- guayas22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-ngu166 <- guayas22 %>%
-  filter(created_at == "2022-06-15") %>%
+ngu176 <- guayas22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-ngu165 <- guayas22 %>%
-  filter(created_at == "2022-06-14") %>%
+ngu175 <- guayas22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-ngu164 <- guayas22 %>%
-  filter(created_at == "2022-06-13") %>%
+ngu174 <- guayas22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-ngu163 <- guayas22 %>%
-  filter(created_at == "2022-06-12") %>%
+ngu173 <- guayas22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-npi171 <- pichincha22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-npi170 <- pichincha22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-npi169 <- pichincha22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-npi168 <- pichincha22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-npi167 <- pichincha22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-npi166 <- pichincha22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-npi165 <- pichincha22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-npi164 <- pichincha22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-npi163 <- pichincha22 %>%
-  filter(created_at == "2022-06-12") %>%
+ngu172 <- guayas22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-nma171 <- manabi22 %>%
-  filter(created_at == "2022-06-20") %>%
+npi181 <- pichincha22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-nma170 <- manabi22 %>%
-  filter(created_at == "2022-06-19") %>%
+npi180 <- pichincha22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-nma169 <- manabi22 %>%
-  filter(created_at == "2022-06-18") %>%
+npi179 <- pichincha22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-nma168 <- manabi22 %>%
-  filter(created_at == "2022-06-17") %>%
+npi178 <- pichincha22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-nma167 <- manabi22 %>%
-  filter(created_at == "2022-06-16") %>%
+npi177 <- pichincha22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-nma166 <- manabi22 %>%
-  filter(created_at == "2022-06-15") %>%
+npi176 <- pichincha22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-nma165 <- manabi22 %>%
-  filter(created_at == "2022-06-14") %>%
+npi175 <- pichincha22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-nma164 <- manabi22 %>%
-  filter(created_at == "2022-06-13") %>%
+npi174 <- pichincha22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-nma163 <- manabi22 %>%
-  filter(created_at == "2022-06-12") %>%
+npi173 <- pichincha22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-nlr171 <- losrios22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-nlr170 <- losrios22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-nlr169 <- losrios22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-nlr168 <- losrios22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-nlr167 <- losrios22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-nlr166 <- losrios22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-nlr165 <- losrios22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-nlr164 <- losrios22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-nlr163 <- losrios22 %>%
-  filter(created_at == "2022-06-12") %>%
+npi172 <- pichincha22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-naz171 <- azuay22 %>%
-  filter(created_at == "2022-06-20") %>%
+nma181 <- manabi22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-naz170 <- azuay22 %>%
-  filter(created_at == "2022-06-19") %>%
+nma180 <- manabi22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-naz169 <- azuay22 %>%
-  filter(created_at == "2022-06-18") %>%
+nma179 <- manabi22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-naz168 <- azuay22 %>%
-  filter(created_at == "2022-06-17") %>%
+nma178 <- manabi22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-naz167 <- azuay22 %>%
-  filter(created_at == "2022-06-16") %>%
+nma177 <- manabi22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-naz166 <- azuay22 %>%
-  filter(created_at == "2022-06-15") %>%
+nma176 <- manabi22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-naz165 <- azuay22 %>%
-  filter(created_at == "2022-06-14") %>%
+nma175 <- manabi22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-naz164 <- azuay22 %>%
-  filter(created_at == "2022-06-13") %>%
+nma174 <- manabi22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-naz163 <- azuay22 %>%
-  filter(created_at == "2022-06-12") %>%
+nma173 <- manabi22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-nel171 <- eloro22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-nel170 <- eloro22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-nel169 <- eloro22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-nel168 <- eloro22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-nel167 <- eloro22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-nel166 <- eloro22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-nel165 <- eloro22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-nel164 <- eloro22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-nel163 <- eloro22 %>%
-  filter(created_at == "2022-06-12") %>%
+nma172 <- manabi22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-nes171 <- esmeraldas22 %>%
-  filter(created_at == "2022-06-20") %>%
+nlr181 <- losrios22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-nes170 <- esmeraldas22 %>%
-  filter(created_at == "2022-06-19") %>%
+nlr180 <- losrios22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-nes169 <- esmeraldas22 %>%
-  filter(created_at == "2022-06-18") %>%
+nlr179 <- losrios22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-nes168 <- esmeraldas22 %>%
-  filter(created_at == "2022-06-17") %>%
+nlr178 <- losrios22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-nes167 <- esmeraldas22 %>%
-  filter(created_at == "2022-06-16") %>%
+nlr177 <- losrios22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-nes166 <- esmeraldas22 %>%
-  filter(created_at == "2022-06-15") %>%
+nlr176 <- losrios22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-nes165 <- esmeraldas22 %>%
-  filter(created_at == "2022-06-14") %>%
+nlr175 <- losrios22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-nes164 <- esmeraldas22 %>%
-  filter(created_at == "2022-06-13") %>%
+nlr174 <- losrios22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-nes163 <- esmeraldas22 %>%
-  filter(created_at == "2022-06-12") %>%
+nlr173 <- losrios22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-ntu171 <- tungurahua22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-ntu170 <- tungurahua22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-ntu169 <- tungurahua22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-ntu168 <- tungurahua22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-ntu167 <- tungurahua22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-ntu166 <- tungurahua22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-ntu165 <- tungurahua22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-ntu164 <- tungurahua22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-ntu163 <- tungurahua22 %>%
-  filter(created_at == "2022-06-12") %>%
+nlr172 <- losrios22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-nch171 <- chimborazo22 %>%
-  filter(created_at == "2022-06-20") %>%
+naz181 <- azuay22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-nch170 <- chimborazo22 %>%
-  filter(created_at == "2022-06-19") %>%
+naz180 <- azuay22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-nch169 <- chimborazo22 %>%
-  filter(created_at == "2022-06-18") %>%
+naz179 <- azuay22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-nch168 <- chimborazo22 %>%
-  filter(created_at == "2022-06-17") %>%
+naz178 <- azuay22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-nch167 <- chimborazo22 %>%
-  filter(created_at == "2022-06-16") %>%
+naz177 <- azuay22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-nch166 <- chimborazo22 %>%
-  filter(created_at == "2022-06-15") %>%
+naz176 <- azuay22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-nch165 <- chimborazo22 %>%
-  filter(created_at == "2022-06-14") %>%
+naz175 <- azuay22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-nch164 <- chimborazo22 %>%
-  filter(created_at == "2022-06-13") %>%
+naz174 <- azuay22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-nch163 <- chimborazo22 %>%
-  filter(created_at == "2022-06-12") %>%
+naz173 <- azuay22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-nlo171 <- loja22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-nlo170 <- loja22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-nlo169 <- loja22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-nlo168 <- loja22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-nlo167 <- loja22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-nlo166 <- loja22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-nlo165 <- loja22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-nlo164 <- loja22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-nlo163 <- loja22 %>%
-  filter(created_at == "2022-06-12") %>%
+naz172 <- azuay22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-nga171 <- galapagos22 %>%
-  filter(created_at == "2022-06-20") %>%
+nel181 <- eloro22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-nga170 <- galapagos22 %>%
-  filter(created_at == "2022-06-19") %>%
+nel180 <- eloro22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-nga169 <- galapagos22 %>%
-  filter(created_at == "2022-06-18") %>%
+nel179 <- eloro22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-nga168 <- galapagos22 %>%
-  filter(created_at == "2022-06-17") %>%
+nel178 <- eloro22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-nga167 <- galapagos22 %>%
-  filter(created_at == "2022-06-16") %>%
+nel177 <- eloro22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-nga166 <- galapagos22 %>%
-  filter(created_at == "2022-06-15") %>%
+nel176 <- eloro22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-nga165 <- galapagos22 %>%
-  filter(created_at == "2022-06-14") %>%
+nel175 <- eloro22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-nga164 <- galapagos22 %>%
-  filter(created_at == "2022-06-13") %>%
+nel174 <- eloro22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-nga163 <- galapagos22 %>%
-  filter(created_at == "2022-06-12") %>%
+nel173 <- eloro22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-nza171 <- zamora22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-nza170 <- zamora22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-nza169 <- zamora22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-nza168 <- zamora22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-nza167 <- zamora22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-nza166 <- zamora22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-nza165 <- zamora22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-nza164 <- zamora22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-nza163 <- zamora22 %>%
-  filter(created_at == "2022-06-12") %>%
+nel172 <- eloro22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-nsu171 <- sucumbios22 %>%
-  filter(created_at == "2022-06-20") %>%
+nes181 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-nsu170 <- sucumbios22 %>%
-  filter(created_at == "2022-06-19") %>%
+nes180 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-nsu169 <- sucumbios22 %>%
-  filter(created_at == "2022-06-18") %>%
+nes179 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-nsu168 <- sucumbios22 %>%
-  filter(created_at == "2022-06-17") %>%
+nes178 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-nsu167 <- sucumbios22 %>%
-  filter(created_at == "2022-06-16") %>%
+nes177 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-nsu166 <- sucumbios22 %>%
-  filter(created_at == "2022-06-15") %>%
+nes176 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-nsu165 <- sucumbios22 %>%
-  filter(created_at == "2022-06-14") %>%
+nes175 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-nsu164 <- sucumbios22 %>%
-  filter(created_at == "2022-06-13") %>%
+nes174 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-nsu163 <- sucumbios22 %>%
-  filter(created_at == "2022-06-12") %>%
+nes173 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-npa171 <- pastaza22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-npa170 <- pastaza22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-npa169 <- pastaza22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-npa168 <- pastaza22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-npa167 <- pastaza22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-npa166 <- pastaza22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-npa165 <- pastaza22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-npa164 <- pastaza22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-npa163 <- pastaza22 %>%
-  filter(created_at == "2022-06-12") %>%
+nes172 <- esmeraldas22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-nor171 <- orellana22 %>%
-  filter(created_at == "2022-06-20") %>%
+ntu181 <- tungurahua22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-nor170 <- orellana22 %>%
-  filter(created_at == "2022-06-19") %>%
+ntu180 <- tungurahua22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-nor169 <- orellana22 %>%
-  filter(created_at == "2022-06-18") %>%
+ntu179 <- tungurahua22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-nor168 <- orellana22 %>%
-  filter(created_at == "2022-06-17") %>%
+ntu178 <- tungurahua22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-nor167 <- orellana22 %>%
-  filter(created_at == "2022-06-16") %>%
+ntu177 <- tungurahua22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-nor166 <- orellana22 %>%
-  filter(created_at == "2022-06-15") %>%
+ntu176 <- tungurahua22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-nor165 <- orellana22 %>%
-  filter(created_at == "2022-06-14") %>%
+ntu175 <- tungurahua22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-nor164 <- orellana22 %>%
-  filter(created_at == "2022-06-13") %>%
+ntu174 <- tungurahua22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-nor163 <- orellana22 %>%
-  filter(created_at == "2022-06-12") %>%
+ntu173 <- tungurahua22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-nna171 <- napo22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-nna170 <- napo22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-nna169 <- napo22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-nna168 <- napo22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-nna167 <- napo22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-nna166 <- napo22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-nna165 <- napo22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-nna164 <- napo22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-nna163 <- napo22 %>%
-  filter(created_at == "2022-06-12") %>%
+ntu172 <- tungurahua22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-nmo171 <- morona22 %>%
-  filter(created_at == "2022-06-20") %>%
+nch181 <- chimborazo22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-nmo170 <- morona22 %>%
-  filter(created_at == "2022-06-19") %>%
+nch180 <- chimborazo22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-nmo169 <- morona22 %>%
-  filter(created_at == "2022-06-18") %>%
+nch179 <- chimborazo22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-nmo168 <- morona22 %>%
-  filter(created_at == "2022-06-17") %>%
+nch178 <- chimborazo22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-nmo167 <- morona22 %>%
-  filter(created_at == "2022-06-16") %>%
+nch177 <- chimborazo22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-nmo166 <- morona22 %>%
-  filter(created_at == "2022-06-15") %>%
+nch176 <- chimborazo22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-nmo165 <- morona22 %>%
-  filter(created_at == "2022-06-14") %>%
+nch175 <- chimborazo22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-nmo164 <- morona22 %>%
-  filter(created_at == "2022-06-13") %>%
+nch174 <- chimborazo22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-nmo163 <- morona22 %>%
-  filter(created_at == "2022-06-12") %>%
+nch173 <- chimborazo22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-nim171 <- imbabura22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-nim170 <- imbabura22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-nim169 <- imbabura22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-nim168 <- imbabura22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-nim167 <- imbabura22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-nim166 <- imbabura22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-nim165 <- imbabura22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-nim164 <- imbabura22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-nim163 <- imbabura22 %>%
-  filter(created_at == "2022-06-12") %>%
+nch172 <- chimborazo22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-nco171 <- cotopaxi22 %>%
-  filter(created_at == "2022-06-20") %>%
+nlo181 <- loja22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-nco170 <- cotopaxi22 %>%
-  filter(created_at == "2022-06-19") %>%
+nlo180 <- loja22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-nco169 <- cotopaxi22 %>%
-  filter(created_at == "2022-06-18") %>%
+nlo179 <- loja22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-nco168 <- cotopaxi22 %>%
-  filter(created_at == "2022-06-17") %>%
+nlo178 <- loja22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-nco167 <- cotopaxi22 %>%
-  filter(created_at == "2022-06-16") %>%
+nlo177 <- loja22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-nco166 <- cotopaxi22 %>%
-  filter(created_at == "2022-06-15") %>%
+nlo176 <- loja22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-nco165 <- cotopaxi22 %>%
-  filter(created_at == "2022-06-14") %>%
+nlo175 <- loja22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-nco164 <- cotopaxi22 %>%
-  filter(created_at == "2022-06-13") %>%
+nlo174 <- loja22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-nco163 <- cotopaxi22 %>%
-  filter(created_at == "2022-06-12") %>%
+nlo173 <- loja22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-nca171 <- carchi22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-nca170 <- carchi22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-nca169 <- carchi22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-nca168 <- carchi22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-nca167 <- carchi22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-nca166 <- carchi22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-nca165 <- carchi22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-nca164 <- carchi22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-nca163 <- carchi22 %>%
-  filter(created_at == "2022-06-12") %>%
+nlo172 <- loja22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-ncr171 <- canar22 %>%
-  filter(created_at == "2022-06-20") %>%
+nga181 <- galapagos22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-ncr170 <- canar22 %>%
-  filter(created_at == "2022-06-19") %>%
+nga180 <- galapagos22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-ncr169 <- canar22 %>%
-  filter(created_at == "2022-06-18") %>%
+nga179 <- galapagos22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-ncr168 <- canar22 %>%
-  filter(created_at == "2022-06-17") %>%
+nga178 <- galapagos22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-ncr167 <- canar22 %>%
-  filter(created_at == "2022-06-16") %>%
+nga177 <- galapagos22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-ncr166 <- canar22 %>%
-  filter(created_at == "2022-06-15") %>%
+nga176 <- galapagos22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-ncr165 <- canar22 %>%
-  filter(created_at == "2022-06-14") %>%
+nga175 <- galapagos22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-ncr164 <- canar22 %>%
-  filter(created_at == "2022-06-13") %>%
+nga174 <- galapagos22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-ncr163 <- canar22 %>%
-  filter(created_at == "2022-06-12") %>%
+nga173 <- galapagos22 %>%
+  filter(created_at == "2022-06-22") %>%
   summarise(tn = sum(nuevas))
-
-
-nbo171 <- bolivar22 %>%
-  filter(created_at == "2022-06-20") %>%
-  summarise(tn = sum(nuevas))
-nbo170 <- bolivar22 %>%
-  filter(created_at == "2022-06-19") %>%
-  summarise(tn = sum(nuevas))
-nbo169 <- bolivar22 %>%
-  filter(created_at == "2022-06-18") %>%
-  summarise(tn = sum(nuevas))
-nbo168 <- bolivar22 %>%
-  filter(created_at == "2022-06-17") %>%
-  summarise(tn = sum(nuevas))
-nbo167 <- bolivar22 %>%
-  filter(created_at == "2022-06-16") %>%
-  summarise(tn = sum(nuevas))
-nbo166 <- bolivar22 %>%
-  filter(created_at == "2022-06-15") %>%
-  summarise(tn = sum(nuevas))
-nbo165 <- bolivar22 %>%
-  filter(created_at == "2022-06-14") %>%
-  summarise(tn = sum(nuevas))
-nbo164 <- bolivar22 %>%
-  filter(created_at == "2022-06-13") %>%
-  summarise(tn = sum(nuevas))
-nbo163 <- bolivar22 %>%
-  filter(created_at == "2022-06-12") %>%
+nga172 <- galapagos22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-nst171 <- stodomingo22 %>%
-  filter(created_at == "2022-06-20") %>%
+nza181 <- zamora22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-nst170 <- stodomingo22 %>%
-  filter(created_at == "2022-06-19") %>%
+nza180 <- zamora22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-nst169 <- stodomingo22 %>%
-  filter(created_at == "2022-06-18") %>%
+nza179 <- zamora22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-nst168 <- stodomingo22 %>%
-  filter(created_at == "2022-06-17") %>%
+nza178 <- zamora22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-nst167 <- stodomingo22 %>%
-  filter(created_at == "2022-06-16") %>%
+nza177 <- zamora22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-nst166 <- stodomingo22 %>%
-  filter(created_at == "2022-06-15") %>%
+nza176 <- zamora22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-nst165 <- stodomingo22 %>%
-  filter(created_at == "2022-06-14") %>%
+nza175 <- zamora22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-nst164 <- stodomingo22 %>%
-  filter(created_at == "2022-06-13") %>%
+nza174 <- zamora22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-nst163 <- stodomingo22 %>%
-  filter(created_at == "2022-06-12") %>%
+nza173 <- zamora22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nza172 <- zamora22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
 
 
-nea171 <- staelena22 %>%
-  filter(created_at == "2022-06-20") %>%
+nsu181 <- sucumbios22 %>%
+  filter(created_at == "2022-06-30") %>%
   summarise(tn = sum(nuevas))
-nea170 <- staelena22 %>%
-  filter(created_at == "2022-06-19") %>%
+nsu180 <- sucumbios22 %>%
+  filter(created_at == "2022-06-29") %>%
   summarise(tn = sum(nuevas))
-nea169 <- staelena22 %>%
-  filter(created_at == "2022-06-18") %>%
+nsu179 <- sucumbios22 %>%
+  filter(created_at == "2022-06-28") %>%
   summarise(tn = sum(nuevas))
-nea168 <- staelena22 %>%
-  filter(created_at == "2022-06-17") %>%
+nsu178 <- sucumbios22 %>%
+  filter(created_at == "2022-06-27") %>%
   summarise(tn = sum(nuevas))
-nea167 <- staelena22 %>%
-  filter(created_at == "2022-06-16") %>%
+nsu177 <- sucumbios22 %>%
+  filter(created_at == "2022-06-26") %>%
   summarise(tn = sum(nuevas))
-nea166 <- staelena22 %>%
-  filter(created_at == "2022-06-15") %>%
+nsu176 <- sucumbios22 %>%
+  filter(created_at == "2022-06-25") %>%
   summarise(tn = sum(nuevas))
-nea165 <- staelena22 %>%
-  filter(created_at == "2022-06-14") %>%
+nsu175 <- sucumbios22 %>%
+  filter(created_at == "2022-06-24") %>%
   summarise(tn = sum(nuevas))
-nea164 <- staelena22 %>%
-  filter(created_at == "2022-06-13") %>%
+nsu174 <- sucumbios22 %>%
+  filter(created_at == "2022-06-23") %>%
   summarise(tn = sum(nuevas))
-nea163 <- staelena22 %>%
-  filter(created_at == "2022-06-12") %>%
+nsu173 <- sucumbios22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nsu172 <- sucumbios22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+npa181 <- pastaza22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+npa180 <- pastaza22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+npa179 <- pastaza22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+npa178 <- pastaza22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+npa177 <- pastaza22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+npa176 <- pastaza22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+npa175 <- pastaza22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+npa174 <- pastaza22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+npa173 <- pastaza22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+npa172 <- pastaza22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+nor181 <- orellana22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+nor180 <- orellana22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+nor179 <- orellana22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+nor178 <- orellana22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+nor177 <- orellana22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+nor176 <- orellana22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+nor175 <- orellana22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+nor174 <- orellana22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+nor173 <- orellana22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nor172 <- orellana22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+nna181 <- napo22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+nna180 <- napo22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+nna179 <- napo22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+nna178 <- napo22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+nna177 <- napo22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+nna176 <- napo22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+nna175 <- napo22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+nna174 <- napo22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+nna173 <- napo22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nna172 <- napo22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+nmo181 <- morona22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+nmo180 <- morona22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+nmo179 <- morona22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+nmo178 <- morona22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+nmo177 <- morona22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+nmo176 <- morona22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+nmo175 <- morona22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+nmo174 <- morona22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+nmo173 <- morona22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nmo172 <- morona22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+nim181 <- imbabura22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+nim180 <- imbabura22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+nim179 <- imbabura22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+nim178 <- imbabura22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+nim177 <- imbabura22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+nim176 <- imbabura22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+nim175 <- imbabura22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+nim174 <- imbabura22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+nim173 <- imbabura22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nim172 <- imbabura22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+nco181 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+nco180 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+nco179 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+nco178 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+nco177 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+nco176 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+nco175 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+nco174 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+nco173 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nco172 <- cotopaxi22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+nca181 <- carchi22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+nca180 <- carchi22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+nca179 <- carchi22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+nca178 <- carchi22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+nca177 <- carchi22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+nca176 <- carchi22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+nca175 <- carchi22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+nca174 <- carchi22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+nca173 <- carchi22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nca172 <- carchi22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+ncr181 <- canar22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+ncr180 <- canar22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+ncr179 <- canar22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+ncr178 <- canar22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+ncr177 <- canar22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+ncr176 <- canar22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+ncr175 <- canar22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+ncr174 <- canar22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+ncr173 <- canar22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+ncr172 <- canar22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+nbo181 <- bolivar22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+nbo180 <- bolivar22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+nbo179 <- bolivar22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+nbo178 <- bolivar22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+nbo177 <- bolivar22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+nbo176 <- bolivar22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+nbo175 <- bolivar22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+nbo174 <- bolivar22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+nbo173 <- bolivar22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nbo172 <- bolivar22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+nst181 <- stodomingo22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+nst180 <- stodomingo22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+nst179 <- stodomingo22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+nst178 <- stodomingo22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+nst177 <- stodomingo22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+nst176 <- stodomingo22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+nst175 <- stodomingo22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+nst174 <- stodomingo22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+nst173 <- stodomingo22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nst172 <- stodomingo22 %>%
+  filter(created_at == "2022-06-21") %>%
+  summarise(tn = sum(nuevas))
+
+
+nea181 <- staelena22 %>%
+  filter(created_at == "2022-06-30") %>%
+  summarise(tn = sum(nuevas))
+nea180 <- staelena22 %>%
+  filter(created_at == "2022-06-29") %>%
+  summarise(tn = sum(nuevas))
+nea179 <- staelena22 %>%
+  filter(created_at == "2022-06-28") %>%
+  summarise(tn = sum(nuevas))
+nea178 <- staelena22 %>%
+  filter(created_at == "2022-06-27") %>%
+  summarise(tn = sum(nuevas))
+nea177 <- staelena22 %>%
+  filter(created_at == "2022-06-26") %>%
+  summarise(tn = sum(nuevas))
+nea176 <- staelena22 %>%
+  filter(created_at == "2022-06-25") %>%
+  summarise(tn = sum(nuevas))
+nea175 <- staelena22 %>%
+  filter(created_at == "2022-06-24") %>%
+  summarise(tn = sum(nuevas))
+nea174 <- staelena22 %>%
+  filter(created_at == "2022-06-23") %>%
+  summarise(tn = sum(nuevas))
+nea173 <- staelena22 %>%
+  filter(created_at == "2022-06-22") %>%
+  summarise(tn = sum(nuevas))
+nea172 <- staelena22 %>%
+  filter(created_at == "2022-06-21") %>%
   summarise(tn = sum(nuevas))
