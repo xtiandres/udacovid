@@ -17,7 +17,6 @@ library(ggpubr)
 library(EpiEstim)
 
 # DATASETS
-cantones20 <- read_csv("/home/xut/Documents/udaviz/R/studio/udacovid/data/cantones2020.csv")
 cantones21 <- read_csv("/home/xut/Documents/udaviz/R/studio/udacovid/data/cantones2021.csv")
 cantones22 <- read_csv("/home/xut/Documents/udaviz/R/studio/udacovid/data/cantones2022.csv")
 muertes21 <- read_csv("/home/xut/Documents/udaviz/R/studio/udacovid/data/muertes2021.csv")
